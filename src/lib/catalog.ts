@@ -17,6 +17,7 @@ import {
   getProductById,
   getProducts,
   isApparel,
+  isLocal,
   productId,
   productPath,
   productsIn,
@@ -220,6 +221,7 @@ export function wizardProducts() {
     price: p.priceRange?.min ?? null,
     season: isApparel(p) ? p.specs.season : null,
     gender: isApparel(p) ? p.specs.gender : null,
+    local: isLocal(p),
     notFor: p.notFor.join(" ").toLocaleLowerCase("tr"),
   }));
 }

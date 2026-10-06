@@ -14,6 +14,7 @@ export type WizardProduct = {
   price: number | null;
   season: string | null;
   gender: string | null;
+  local: boolean;
   notFor: string;
 };
 
@@ -52,12 +53,15 @@ function pickFor(key: GearKey, input: WizardInput, gender: Gender, products: Wiz
   // Motor türüne uygun alt kategoride ürün yoksa (ör. enduro için cross kask) alakasız öneri yapılmaz.
   if (subs.length) list = list.filter((p) => p.subs.some((s) => subs.includes(s)));
   const priced = list.filter((p) => p.price != null).sort((a, b) => a.price! - b.price!);
+  // Uygun bir yerli ürün varsa önerinin ilk sırasına alınır.
+  const local = list.find((p) => p.local && (input.butce !== "premium" || priced.length < 2));
+  const withLocal = (picks: WizardProduct[]) => (local ? [local, ...picks.filter((p) => p.id !== local.id)].slice(0, 2) : picks);
   if (priced.length >= 2 && input.butce !== "sinirsiz") {
     const third = Math.max(1, Math.ceil(priced.length / 3));
     const tier = input.butce === "ekonomik" ? priced.slice(0, third + 1) : input.butce === "premium" ? priced.slice(-third - 1) : priced.slice(third - 1, third * 2 + 1);
-    return tier.slice(0, 2);
+    return withLocal(tier.slice(0, 2));
   }
-  return list.slice(0, 2);
+  return withLocal(list.slice(0, 2));
 }
 
 export type WizardBike = { slug: string; label: string; type: MotoSlug; cc: number | null; licence: string | null; notes: string[]; courierCommon: boolean };

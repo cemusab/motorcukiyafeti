@@ -81,6 +81,12 @@ export const getBrands = cache((): Brand[] =>
     .sort((a, b) => a.name.localeCompare(b.name, "tr")));
 export const getBrand = (slug: string) => getBrands().find((b) => b.slug === slug);
 export const brandName = (slug: string) => getBrand(slug)?.name ?? slug.toUpperCase();
+/** Yerli (Türkiye menşeli) marka mı? Öneri sıralamasında öne alınır, kartlarda rozetle gösterilir. */
+export const isLocalBrand = (slug: string) => getBrand(slug)?.country === "Türkiye";
+export const isLocal = (p: Pick<Product, "brand">) => isLocalBrand(p.brand);
+/** Yerli ürünleri öne alan kararlı sıralama. */
+export const localFirst = <T extends Pick<Product, "brand">>(list: T[]) => [...list].sort((a, b) => Number(isLocal(b)) - Number(isLocal(a)));
+
 /** Sadece kayıtlı markalara link verilir; diğerleri düz metin gösterilir. */
 export const brandHasPage = (slug: string) => !!getBrand(slug);
 

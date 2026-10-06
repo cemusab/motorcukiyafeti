@@ -1,6 +1,6 @@
 import "server-only";
 import type { Product } from "@/data/schema";
-import { brandName, productId } from "./data";
+import { brandName, isLocal, productId } from "./data";
 import { HELMET_TYPE } from "./labels";
 
 export type FacetDef = { key: string; label: string };
@@ -61,6 +61,7 @@ export function facetItem(p: Product): FacetItem {
       ...(s.protectors.some((x) => x.level === 2) ? ["Level 2 koruyucu"] : []),
     ];
   }
+  if (isLocal(p)) v.ozellik = [...(v.ozellik ?? []), "Yerli marka"];
   return {
     id: productId(p),
     values: v,

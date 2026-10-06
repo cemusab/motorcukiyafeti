@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { brandName, getMedia, priceLabel, productId, productPath } from "@/lib/data";
+import { brandName, getMedia, isLocal, priceLabel, productId, productPath } from "@/lib/data";
 import { productTypeLabel, keyChips } from "@/lib/labels";
 import { Icon } from "./Icon";
 import { CompareButton, FavoriteButton } from "./ProductActions";
@@ -45,6 +45,15 @@ export function ProductCard({ p }: { p: Product }) {
         <FavoriteButton id={id} name={name} compact />
         <CompareButton id={id} name={name} category={p.category} compact />
       </div>
+      {isLocal(p) && p.status !== "discontinued" && (
+        <span className="absolute top-2 left-2 z-10 flex items-center gap-1 rounded bg-red px-2 py-0.5 text-xs font-bold text-white">
+          <svg viewBox="0 0 16 16" className="size-3" aria-hidden>
+            <circle cx="6.5" cy="8" r="4.5" fill="none" stroke="currentColor" strokeWidth="1.6" />
+            <path d="m11.5 5.6.6 1.6 1.7.1-1.3 1 .5 1.7-1.5-1-1.4 1 .5-1.7-1.3-1 1.7-.1z" fill="currentColor" />
+          </svg>
+          Yerli marka
+        </span>
+      )}
       {p.status === "discontinued" && (
         <span className="absolute top-2 left-2 rounded bg-warn px-2 py-0.5 text-xs font-semibold text-white">Üretimi sona erdi</span>
       )}
