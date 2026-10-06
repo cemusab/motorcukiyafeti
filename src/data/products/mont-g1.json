@@ -1,0 +1,3454 @@
+[
+  {
+    "slug": "gp-plus-v4",
+    "brand": "alpinestars",
+    "name": "GP Plus V4",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Yarış ve standart sığır derisi karışımı, A-CS Plus streç yan paneller, çıkarılabilir 80 g termal yelek ve EN 17092-3 AA sertifikası olan, Tech-Air uyumlu sport deri mont.",
+    "description": [
+      "GP Plus V4, Alpinestars'ın uzun süredir satılan GP Plus serisinin dördüncü kuşağı. Gövdede yarış sınıfı ve standart sığır derisi birlikte kullanılıyor; büyük yan panellerde ise markanın A-CS Plus adını verdiği kompozit streç malzeme var. Üretici bu malzemenin deri akordeon panellere göre daha hafif ve daha ince olduğunu, yırtılma dayanımının yüksek olduğunu belirtiyor. Göğüs, omuz, ense ve kol içlerinde teknik streç bölgeler ve önceden bükülmüş kollar, montu öne eğik sürüş pozisyonuna göre kalıplıyor.",
+      "Koruma tarafında omuzlarda DFS kaydırıcı kapak altında Nucleon Flex Plus, dirseklerde uzatılmış GP-R Lite koruyucu var; ikisi de EN 1621-1:2012 Seviye 1. Mont bütün olarak EN 17092-3:2020 AA sınıfında. Karın bölgesinde uzun, doğrudan açılan hava kanalları ve çıkarılabilir 80 g termal yelek, montu serin sabahlardan ılık öğleden sonralara kadar kullanılabilir kılıyor. Sırt ve göğüs koruyucuları ayrı satılıyor; su geçirmezlik iddiası yok."
+    ],
+    "forWho": [
+      "Sport veya naked motosikletle hafta sonu viraj sürüşü yapan, AA sınıfı deri mont arayanlar",
+      "İleride Tech-Air airbag sistemine geçmeyi planlayanlar",
+      "Serin ve ılık havada tek deri montla idare etmek isteyen sport sürücüler"
+    ],
+    "notFor": [
+      "Gün boyu inip binen kuryeler: sport kalıp ve deri ağırlığı uzun vardiyada yorar, yağmur koruması yok",
+      "Dik oturuşlu touring ve adventure motosiklet kullananlar",
+      "Sıcak yaz trafiğinde serin kalmak isteyenler; bunun için delikli Airflow versiyonu daha uygun"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı ve iki bölgede EN 1621-1 Seviye 1 koruyucu standart",
+      "A-CS Plus streç paneller sayesinde deri akordeon panellere göre daha esnek ve hafif",
+      "Çıkarılabilir 80 g termal yelek ile mevsim geçişlerinde kullanım aralığı geniş",
+      "Tech-Air Ready; airbag sistemine geçiş yolu açık"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil, ayrıca alınmalı",
+      "Su geçirmez değil; yağmurda yağmurluk gerekir",
+      "Türkiye'de yetkili mağazalarda erkek modeli için fiyat bulamadık"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi sürüşte giyilebilir ama sport kalıp ve deri yapı dur-kalk trafikte rahat değil.",
+      "uzunYol": "Sport motosikletle otoyol etaplarında rüzgârda iyi oturur; bagaj cebi ve hava koruması sınırlı.",
+      "yaz": "Karın kanalları açıldığında hava alır, ancak delikli deri değil; sıcak trafikte ısınır.",
+      "kis": "Termal yelekle serin günlerde iş görür; gerçek kış soğuğu için yeterli değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk üstüne giyilmeli.",
+      "sport": "Asıl alanı. AA sınıfı, DFS omuzlar ve yarış kalıbıyla viraj ve track day'e yakın kullanıma uygun.",
+      "kurye": "Önerilmez; deri ağırlığı, sport kalıp ve yağmur korumasının olmaması günlük iş kullanımına uymuyor."
+    },
+    "verdict": "GP Plus V4, AA sınıfı deri ve airbag uyumu isteyen sport sürücü için dengeli bir seçim. Termal yelek kullanım aralığını genişletiyor; sırt koruyucunun ayrıca alınması ve yağmur koruması olmaması hesaba katılmalı. Türkiye'de erkek versiyonu için güncel fiyat bulamadık.",
+    "rivals": [
+      "alpinestars/missile-v3",
+      "alpinestars/atem-v5",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "GP Plus V4 ile GP Plus R V4 Airflow arasındaki fark nedir?",
+        "a": "GP Plus V4 delikli değil ve çıkarılabilir termal yelekle geliyor; Airflow versiyonu göğüs ve yanlarda delikli deriyle sıcak havaya yönelik. İkisi de AA sınıfı."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Alpinestars uyumlu Nucleon sırt koruyucularını ayrı aksesuar olarak satıyor."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "Üretici montu Tech-Air Ready olarak tanımlıyor; airbag sistemi ayrıca satın alınır."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/gp-plus-v4-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/gp-plus-v4-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – GP Plus V4 Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.closure",
+      "specs.protectors.sirt.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/White",
+      "Black/Red Fluo/White"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Yarış sınıfı ve standart sığır derisi karışımı, A-CS Plus kompozit streç yan paneller, göğüs/omuz/ense/kol içinde teknik streç",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Karın bölgesinde uzun, doğrudan açılan hava kanalları",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "missile-v3",
+    "brand": "alpinestars",
+    "name": "Missile V3",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "MotoGP kökenli, sığır yarış derisinden, omuz ve dirseklerde Seviye 2 Nucleon PLASMA Pro koruyuculu, EN 17092-3 AA sınıflı ve Tech-Air 7x uyumlu üst segment sport deri mont.",
+    "description": [
+      "Missile V3, Alpinestars'ın yol için sattığı en üst seviye sport deri montlardan biri. Gövde premium sığır yarış derisinden; göğüs, üst sırt, kol içleri, koltuk altı ve belde uzun teknik streç paneller, sırt panellerinde ise PU takviyeler var. Kalıp önceden bükülmüş kollarla 'race' kesim; sırt sürüş pozisyonunda örtmesi için uzun tutulmuş. Ön alt bölgede, sırtta ve kollarda lokal delikler bulunuyor; ayrıca 80 g gövde / 60 g kol dolgulu çıkarılabilir termal astarla geliyor.",
+      "Koruma bu montun öne çıkan yanı. Omuz ve dirseklerde EN 1621-1:2012 Seviye 2 Nucleon PLASMA Pro koruyucular, omuz dışında ise sürtünmeyi azaltan DFS kapaklar standart. Mont EN 17092-3:2020 AA sınıfında ve üretici Tech-Air 7x airbag sistemiyle uyumlu olduğunu belirtiyor. Göğüs ve sırt koruyucu cepleri var ama koruyucular ayrıca satılıyor. Pantolon bağlantı fermuarıyla Alpinestars deri pantolona bağlanabiliyor."
+    ],
+    "forWho": [
+      "Track day'e de çıkan, yolda en yüksek seviyede koruma isteyen sport sürücüler",
+      "Tech-Air 7x airbag sistemine yatırım yapmayı düşünenler",
+      "Deri pantolonla iki parça takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Kurye ve günlük iş kullanımı: yarış kalıbı, deri ağırlığı ve yüksek fiyat bu kullanıma uymuyor",
+      "Dik oturuşlu touring motosiklet kullananlar",
+      "Bütçesi orta segmentte olan sürücüler"
+    ],
+    "pros": [
+      "Omuz ve dirsekte Seviye 2 koruyucu standart geliyor",
+      "EN 17092-3:2020 AA sınıfı ve DFS omuz kapakları",
+      "Çıkarılabilir termal astar ve lokal deliklerle geniş sıcaklık aralığı",
+      "Tech-Air 7x uyumu"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucuları ayrıca alınmalı",
+      "Su geçirmez değil",
+      "Türkiye fiyatı çoğu sport deri montun üzerinde; kontrol ettiğimizde stokta değildi"
+    ],
+    "usage": {
+      "sehir": "Kısa mesafede giyilir ama yarış kalıbı dik oturuşta ve yürürken rahatsız eder.",
+      "uzunYol": "Sport motosikletle hızlı etaplarda iyi oturur; cep ve hava koruması sınırlı.",
+      "yaz": "Lokal delikler biraz hava aldırır ama tam delikli değil; sıcak trafikte ısınır. Sıcak iklim için Airflow versiyonu ayrıca var.",
+      "kis": "Termal astarla serin günlerde kullanılabilir; kış soğuğuna göre tasarlanmamış.",
+      "yagmur": "Su geçirmez değil; içte su geçirmez bir cep var ama gövde ıslanır.",
+      "sport": "En güçlü olduğu alan: Seviye 2 koruyucular, AA sınıfı ve yarış kalıbı.",
+      "kurye": "Uygun değil; ağır, pahalı ve yağmura dayanıksız."
+    },
+    "verdict": "Missile V3, yolda tulum seviyesine yakın koruma isteyen sport sürücü için güçlü bir deri mont. Seviye 2 koruyucuların standart gelmesi fiyatını kısmen açıklıyor. Yağmur ve günlük kullanım için değil; sırt koruyucu bütçesi de eklenmeli.",
+    "rivals": [
+      "alpinestars/atem-v5",
+      "alpinestars/gp-plus-v4"
+    ],
+    "priceRange": {
+      "min": 53850,
+      "max": 53850,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "kontrol tarihinde stokta değil"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah-/-beyaz",
+        "price": 53850,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah/beyaz/kirmizi",
+        "price": 53850,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah/siyah",
+        "price": 53850,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Missile V3 ile Atem V5 arasındaki fark nedir?",
+        "a": "Missile V3 omuz ve dirsekte Seviye 2 PLASMA Pro koruyucu ve çıkarılabilir termal astarla geliyor, Tech-Air 7x uyumlu. Atem V5 daha hafif Flex Plus deriyle ve hörgüçle geliyor, Tech-Air 5 ve 3 uyumlu."
+      },
+      {
+        "q": "Termal astar çıkarılabiliyor mu?",
+        "a": "Evet, 80 g gövde ve 60 g kol dolgulu termal astar çıkarılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/missile-v3-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/missile-v3-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Missile V3 Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – Missile V3 Siyah / Beyaz",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah/beyaz/kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Missile V3 Siyah / Beyaz / Kırmızı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-missile-v3-deri-korumali-motosiklet-montu-siyah/siyah",
+        "type": "retailer",
+        "label": "Motomax – Missile V3 Siyah / Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/White/Red Fluo",
+      "Black/White"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Premium sığır yarış derisi, geniş teknik streç paneller, sırt panellerinde PU takviye, sabit file iç astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Ön alt bölgede, sırtta ve kollarda lokal delikli deri",
+      "closure": "Gömme ön kapak, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "atem-v5",
+    "brand": "alpinestars",
+    "name": "Atem V5",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Flex Plus sığır 'Race' derisi, aerodinamik sırt hörgücü, çift yoğunluklu DFS RR koruyucular ve EN 17092-3 AA sınıfı olan, Tech-Air 5/3 uyumlu yarış kalıplı deri mont.",
+    "description": [
+      "Atem V5, sport ve sport naked sürücülere yönelik, yarış kalıplı bir deri mont. Gövde baştan sona Alpinestars'ın Flex Plus adını verdiği sığır 'Race' derisinden; üretici bu derinin standart sığır derisine göre yüzde 10 daha hafif ve çok daha esnek olduğunu söylüyor. 3D kalıp, önceden bükülmüş kollar ve sırtta aerodinamik hörgüç montu öne eğik pozisyona göre şekillendiriyor. Gövdede A-CS Plus streç paneller, kol içlerinde RIDEKNIT örgü kullanılıyor.",
+      "Omuz ve dirseklerde sürtünmeyi azaltan çift yoğunluklu DFS RR kapaklar, altında omuzda Nucleon Flex Plus ve dirsekte GP koruyucu var; koruyucuların EN 1621 seviyesi sayfada yazılmıyor. Mont EN 17092-3:2020 AA sınıfında ve Tech-Air 5 ile Tech-Air 3 sistemlerine hazır. İç tarafta sırt ve bölünmüş göğüs koruyucu cepleri, su geçirmez bir iç cep ve iki fermuarlı dış cep bulunuyor; 3/4 bel fermuarıyla Alpinestars pantolona bağlanıyor. Termal astar yok."
+    ],
+    "forWho": [
+      "Supersport veya sport naked motosikletle pist ve viraj sürüşü yapanlar",
+      "Hörgüçlü, aerodinamik bir yol montu isteyenler",
+      "Tech-Air 5 veya 3 kullanmayı planlayanlar"
+    ],
+    "notFor": [
+      "Kuryeler ve günlük işe gidip gelenler: yarış kalıbı dik oturuşta ve yürürken zorlar",
+      "Serin havada ek astar isteyenler; termal katman yok",
+      "Touring motosiklet kullananlar"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Hafif ve esnek Flex Plus deri, RIDEKNIT kol içleri",
+      "Çift yoğunluklu DFS RR omuz ve dirsek kapakları",
+      "Tech-Air 5 ve 3 uyumu"
+    ],
+    "cons": [
+      "Koruyucuların EN 1621 seviyesi üretici sayfasında belirtilmiyor",
+      "Sırt ve göğüs koruyucusu ayrıca satılıyor",
+      "Termal astar ve su geçirmezlik yok; Türkiye'de kontrol ettiğimizde stokta değildi"
+    ],
+    "usage": {
+      "sehir": "Yarış kalıbı yüzünden şehir içinde rahat değil.",
+      "uzunYol": "Sport motosikletle otoyolda hörgüç ve dar kalıp rüzgârda avantaj sağlar; konfor ve cep sınırlı.",
+      "yaz": "Delikli değil; sıcakta deri sıcaklığı hissedilir.",
+      "kis": "Termal astar yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl hedefi. Yarış kalıbı, hörgüç ve AA sınıfı ile pist ve viraj sürüşüne yönelik.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Atem V5, yolda kullanılacak yarış kalıplı ve hörgüçlü bir deri mont arayan sport sürücü için mantıklı. Hafif deri ve AA sınıfı güçlü yanları; termal astar, su geçirmezlik ve standart sırt koruyucu yok. Günlük kullanım için tasarlanmamış.",
+    "rivals": [
+      "alpinestars/missile-v3",
+      "alpinestars/gp-plus-v4",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "priceRange": {
+      "min": 62480,
+      "max": 62480,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "kontrol tarihinde stokta değil"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-atem-v5-korumali-deri-motosiklet-montu-siyah",
+        "price": 62480,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-atem-v5-korumali-deri-motosiklet-montu-siyah-/-beyaz",
+        "price": 62480,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Atem V5'te termal astar var mı?",
+        "a": "Hayır. İç tarafta sabit file astar var; serin havada altına katman giymek gerekir."
+      },
+      {
+        "q": "Hangi airbag sistemleriyle uyumlu?",
+        "a": "Üretici Tech-Air 5 ve Tech-Air 3 sistemlerine hazır olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/atem-v5-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/atem-v5-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Atem V5 Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-atem-v5-korumali-deri-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Atem V5 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-atem-v5-korumali-deri-motosiklet-montu-siyah-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – Atem V5 Siyah / Beyaz",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard",
+      "specs.protectors.level"
+    ],
+    "colors": [
+      "Black/White",
+      "Black"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Flex Plus sığır 'Race' derisi, A-CS Plus streç gövde panelleri, RIDEKNIT kol içleri, file iç astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Aerodinamik hörgüç üzerinden havalandırma",
+      "closure": "Cırt cırtlı yaka ve kol ağzı, ön kolda fermuar, 3/4 bel bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "dyno",
+    "brand": "alpinestars",
+    "name": "Dyno",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "1,0–1,2 mm daldırma boyalı sığır derisi, klasik kesim, çıkarılabilir termal yelek ve EN 17092-4 A sınıfı olan, Tech-Air 3 uyumlu şehir tipi deri mont.",
+    "description": [
+      "Dyno, Alpinestars'ın klasik görünümlü deri montu. Sport kalıplı modellerin aksine normal kesimde; motordan inince de günlük ceket gibi giyilmek üzere tasarlanmış. Gövde 1,0–1,2 mm kalınlığında, daldırma yöntemiyle boyanmış sığır derisinden; üretici bu işlemle derinin daha yumuşak ve doğal görünümlü olduğunu belirtiyor. İçinde önde 80 g dolgulu çıkarılabilir bir termal yelek var.",
+      "Omuz ve dirseklerde düşük profilli Nucleon Flex Plus CE Seviye 1 koruyucular bulunuyor; mont bütün olarak EN 17092-4:2020 A sınıfında. A sınıfı, sport deri montların AA sınıfına göre daha düşük bir sürtünme dayanımı seviyesi anlamına geliyor; bu da daha ince deriyle uyumlu. Mont Tech-Air 3 sistemine hazır. Sırt koruyucu, su geçirmezlik ve havalandırma hakkında üretici sayfasında bilgi yok."
+    ],
+    "forWho": [
+      "Şehir içinde ve kısa yolda klasik deri ceket görünümü isteyenler",
+      "Naked, café racer veya neo-retro motosiklet kullananlar",
+      "İleride Tech-Air 3 eklemeyi düşünenler"
+    ],
+    "notFor": [
+      "Sport sürüş ve pist: A sınıfı ve ince deri bu kullanım için yeterli değil",
+      "Kuryeler: yağmur koruması yok ve deri günlük yoğun kullanımda bakım ister"
+    ],
+    "pros": [
+      "Günlük ceket gibi görünen klasik kesim",
+      "Çıkarılabilir termal yelek",
+      "Omuz ve dirsekte CE Seviye 1 koruyucu, Tech-Air 3 uyumu"
+    ],
+    "cons": [
+      "A sınıfı; sport deri montların AA seviyesinde değil",
+      "Sırt koruyucu ve havalandırma bilgisi yok",
+      "Türkiye'de yetkili mağazalarda fiyat bulamadık"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı. Normal kesim ve klasik görünüm şehir içinde rahat.",
+      "uzunYol": "Kısa turlarda olur; havalandırma ve cep bilgisi olmadığı için uzun turda sınırlı.",
+      "yaz": "Delikli değil; sıcak havada deri ısınır.",
+      "kis": "Termal yelekle serin günlerde iş görür, kış montu değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil; A sınıfı ve normal kesim.",
+      "kurye": "Önerilmez; yağmur koruması yok."
+    },
+    "verdict": "Dyno, deri ceket görünümünden vazgeçmek istemeyen şehir sürücüsü için sertifikalı bir seçenek. A sınıfı ve ince deri onu sport kullanımdan uzak tutuyor; yağmur ve sıcak için de çözüm sunmuyor.",
+    "rivals": [
+      "alpinestars/chrome-v2-sport-hoodie",
+      "dainese/denim-tex",
+      "alpinestars/luc-v2-air"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Dyno sport sürüşe uygun mu?",
+        "a": "Üretici montu EN 17092-4 A sınıfında sertifikalandırıyor; bu şehir ve genel kullanım seviyesi. Pist veya agresif viraj sürüşü için AA sınıflı sport deri montlar daha uygun."
+      },
+      {
+        "q": "Termal yelek çıkarılabiliyor mu?",
+        "a": "Evet, önde 80 g dolgulu termal yelek çıkarılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/dyno-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/dyno-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Dyno Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.ventilation",
+      "specs.closure",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Black/Ruby Red/Ecru"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "1,0–1,2 mm daldırma boyalı sığır derisi",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "andes-air-drystar",
+    "brand": "alpinestars",
+    "name": "Andes Air Drystar",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Göğüs, kol içi ve sırtta geniş file paneller, içe veya dışa giyilebilen çıkarılabilir Drystar membran ve EN 17092-4 A sınıfı olan, sıcak hava odaklı touring montu.",
+    "description": [
+      "Andes Air Drystar, Alpinestars'ın Andes touring ailesinin sıcak havaya göre tasarlanmış versiyonu. Göğüs, kol içleri ve sırtta geniş 2D file paneller var; omuz, dirsek ve ön kollarda ise ripstop takviyeler sürtünmeye karşı dayanımı artırıyor. Kalıp yol odaklı: boy kısa tutulmuş, alt kenar şekillendirilmiş, kollar önceden bükülmüş.",
+      "Yağmur için %100 su geçirmez ve nefes alan, çıkarılabilir bir Drystar membran geliyor; bu katman montun altına veya üstüne giyilebiliyor. Üstüne giyildiğinde file gövde ıslanmadan kalıyor, bu da yazlık montlarda nadir bir çözüm. Omuz ve dirseklerde Nucleon Flex Plus Seviye 1 koruyucular var, mont EN 17092-4:2020 A sınıfında ve Tech-Air 5/3 uyumlu. Termal astar yok; serin havada ara katman gerekiyor."
+    ],
+    "forWho": [
+      "Yazın uzun yola çıkan, yolda yağmura yakalanma ihtimaline hazırlıklı olmak isteyen touring sürücüleri",
+      "Dik oturuşlu adventure veya touring motosiklet kullananlar",
+      "Sıcak iklimde tek montla hem file hem yağmur koruması isteyenler"
+    ],
+    "notFor": [
+      "Kış kullanımı: termal astar yok",
+      "Sport sürüş; kalıp ve A sınıfı touring kullanımına göre"
+    ],
+    "pros": [
+      "Geniş file paneller ile yazın iyi hava akışı",
+      "İçe veya dışa giyilebilen çıkarılabilir Drystar membran",
+      "Tech-Air 5 ve 3 uyumu",
+      "Türkiye'de yetkili mağazada stokta ve birden fazla renkte bulunuyor"
+    ],
+    "cons": [
+      "Termal astar yok; serin sabahlarda ek katman gerekir",
+      "Membran ayrı katman olduğu için yağmurda durup giymek gerekiyor",
+      "Sırt koruyucu bilgisi üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Hafif yapısı ve havalandırmasıyla yazın şehir içinde rahat.",
+      "uzunYol": "Asıl hedefi yaz turu; membranı yanında taşıyarak yağmura hazırlıklı olunur.",
+      "yaz": "Güçlü olduğu alan; göğüs, kol içi ve sırttaki file paneller hava aldırır.",
+      "kis": "Uygun değil; termal astar yok.",
+      "yagmur": "Drystar membran içe veya dışa giyilerek yağmur koruması sağlanır.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Yaz aylarında yaz kuryeliği için düşünülebilir; ancak yağmurda membranı sık takıp çıkarmak pratik değil."
+    },
+    "verdict": "Andes Air Drystar, yazın uzun yola çıkan ve yağmur ihtimalini de hesaba katan touring sürücüsü için pratik bir mont. Dışa giyilebilen membranı güçlü yanı; termal astar olmadığı için yılın soğuk aylarında yetersiz kalır.",
+    "rivals": [
+      "alpinestars/halo-drystar",
+      "alpinestars/st-1-wp",
+      "held/4-touring-2"
+    ],
+    "priceRange": {
+      "min": 25740,
+      "max": 25740,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah",
+        "price": 25740,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah-/-gri",
+        "price": 25740,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah-/-gri-/-mavi",
+        "price": 25740,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri / Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-gri-/-siyah",
+        "price": 25740,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Drystar membran nasıl kullanılıyor?",
+        "a": "Çıkarılabilir membran, montun altına iç katman olarak ya da üstüne yağmurluk gibi giyilebiliyor. Üstüne giyildiğinde file gövde kuru kalıyor."
+      },
+      {
+        "q": "Kışın kullanılabilir mi?",
+        "a": "Termal astar olmadığı için kış montu değil. Serin havada altına ısı katmanı giyilebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/andes-air-drystar-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/andes-air-drystar-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Andes Air Drystar® Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Andes Air Drystar Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah-/-gri",
+        "type": "retailer",
+        "label": "Motomax – Andes Air Drystar Siyah / Gri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-siyah-/-gri-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Andes Air Drystar Siyah / Gri / Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-montu-gri-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Andes Air Drystar Gri / Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard",
+      "specs.closure"
+    ],
+    "colors": [
+      "Black",
+      "Deep Blue/Black/Ice Gray"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Tekstil gövde, göğüs/kol içi/sırtta 2D file, omuz/dirsek/ön kolda ripstop takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (çıkarılabilir, içe veya dışa giyilebilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, kol içleri ve sırtta geniş 2D file paneller",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "bogota-pro-drystar",
+    "brand": "alpinestars",
+    "name": "Bogota' Pro Drystar",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont",
+      "kislik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Üç katmanlı 'liner to drop' yapısı, içe/dışa giyilebilen Drystar katmanı, 100 g termal astar, Seviye 2 Nucleon Flex Pro koruyucular ve AA sınıfı olan dört mevsim touring montu.",
+    "description": [
+      "Bogota' Pro Drystar, Alpinestars'ın dört mevsim touring montu. Yapı üç katmanlı: file havalandırmalı dış kabuk, çıkarılabilir Drystar su geçirmez katman ve çıkarılabilir termal astar (100 g gövde, 60 g kol). Drystar katmanı montun altına ya da üstüne giyilebiliyor; dış kabukta DWR su itici kaplama da var. Göğüs, sırt ve kollarda geniş havalandırma panelleri bulunuyor; göğüs ve koldaki direkt hava kanalları tek elle açılabiliyor.",
+      "Dış kabuk 600D ana gövde ile laminasyonlu ve takviyeli 2 katmanlı 450D sert kumaştan, kritik bölgelerde 600D dokuma takviyeler var; malzeme %100 GRS sertifikalı geri dönüştürülmüş Nylon 6. Omuz ve dirseklerde Seviye 2 Nucleon Flex Pro koruyucular standart, mont EN 17092 AA sınıfında ve Tech-Air 5/3 uyumlu. Sırt ve göğüs koruyucu cepleri var, koruyucular ayrı satılıyor. İki ön, iki göğüs cebi ve su geçirmez bir belge cebi uzun yol kullanımına uygun."
+    ],
+    "forWho": [
+      "Yılın büyük bölümünde tek montla touring yapmak isteyenler",
+      "Adventure ve touring motosiklet kullanan, AA sınıfı tekstil mont arayan sürücüler",
+      "Her havada işe motosikletle gidenler"
+    ],
+    "notFor": [
+      "Sport sürüş pozisyonu kullananlar; kalıp dik oturuşa göre",
+      "Yazın yalnızca şehir içinde kısa sürüş yapanlar; daha hafif file montlar daha pratik"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı ve Seviye 2 omuz/dirsek koruyucuları",
+      "Çıkarılabilir termal ve Drystar katmanlarıyla geniş mevsim aralığı",
+      "Tek elle açılan direkt havalandırma kanalları",
+      "Türkiye'de yetkili mağazada birden fazla renkte stokta"
+    ],
+    "cons": [
+      "Drystar ayrı katman olduğu için yağmurda durup düzenleme gerekebilir",
+      "Sırt ve göğüs koruyucuları ayrıca alınmalı",
+      "Üç katmanlı yapı hafif yaz montlarına göre hacimli"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidiş için iyi; çok cep ve her hava koruması işe yarar.",
+      "uzunYol": "Asıl hedefi. Katmanlar ve cepler uzun turda hava değişimine uyum sağlar.",
+      "yaz": "Katmanlar çıkarılıp paneller açıldığında hava alır; tam file montlar kadar serin değil.",
+      "kis": "Termal astar ve Drystar katmanıyla serin ve soğuk havada kullanılabilir.",
+      "yagmur": "Drystar katmanı ve DWR kaplama ile su geçirmez kullanım mümkün.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Her mevsim kullanılabilmesi ve AA sınıfıyla kurye için uygun; katmanlı yapı nedeniyle sıcak günlerde katmanları çıkarmak gerekir."
+    },
+    "verdict": "Bogota' Pro Drystar, tek montla yılın büyük bölümünü geçirmek isteyen touring sürücüsü için güçlü bir aday. AA sınıfı ve Seviye 2 koruyucuları fiyatına göre iyi; katmanlı yapı ise biraz düzenleme ve hacim getiriyor.",
+    "rivals": [
+      "alpinestars/halo-drystar",
+      "alpinestars/st-1-wp",
+      "held/4-touring-2"
+    ],
+    "priceRange": {
+      "min": 37210,
+      "max": 37210,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-siyah",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-yesil",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Yeşil"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-mavi-/-kirmizi",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mavi / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-gri-/-sari",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Oranj"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-gri-/-siyah-/-mavi",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Gri / Siyah / Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-siyah-/-gri-/-sari",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bogota' Pro tamamen su geçirmez mi?",
+        "a": "Su geçirmezlik çıkarılabilir Drystar katmanıyla sağlanıyor; dış kabukta ayrıca DWR su itici kaplama var. Katman montun altına veya üstüne giyilebiliyor."
+      },
+      {
+        "q": "Kışın yeterince sıcak tutar mı?",
+        "a": "100 g gövde, 60 g kol dolgulu termal astar ve Drystar katmanıyla serin ve soğuk günlerde kullanılabilir. Çok soğuk havada ek ara katman gerekebilir."
+      },
+      {
+        "q": "Koruyucular hangi seviyede?",
+        "a": "Omuz ve dirsekte Seviye 2 Nucleon Flex Pro koruyucu standart geliyor; sırt ve göğüs koruyucuları ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/bogota-pro-drystar-sup-reg-sup-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/bogota-pro-drystar-sup-reg-sup-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Bogota' Pro Drystar® Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-yesil",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Yeşil",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-mavi-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Mavi / Kırmızı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-gri-/-sari",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Gri / Oranj",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-gri-/-siyah-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Gri / Siyah / Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bogota-pro-drystar-korumali-motosiklet-montu-siyah-/-gri-/-sari",
+        "type": "retailer",
+        "label": "Motomax – Bogota' Pro Drystar Siyah / Gri / Sarı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Black/Black",
+      "Ice Gray/Dark Gray/Yellow Fluo",
+      "Ice Gray/Black/Cyan",
+      "Dark Blue/Black/Bright Red",
+      "Vetiver Military Olive",
+      "Black/Ice Gray/Yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D ana gövde, laminasyonlu 2 katman 450D sert dış kabuk, 600D dokuma takviyeler; %100 GRS sertifikalı geri dönüştürülmüş Nylon 6",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (çıkarılabilir, içe veya dışa giyilebilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, tüm sırt ve kollarda havalandırma panelleri; tek elle açılan direkt kanallar",
+      "closure": "Kendini ortalayan çıtçıtlı yaka, ayarlanabilir kol ağızları, alt kenarda şok kordonu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "st-1-wp",
+    "brand": "alpinestars",
+    "name": "ST-1 WP",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sabit su geçirmez membran, çıkarılabilir 80 g termal astar, göğüs havalandırması ve EN 17092-4 A sınıfı olan, sade görünümlü ve fiyatı erişilebilir dört mevsim touring montu.",
+    "description": [
+      "ST-1 WP, Alpinestars'ın sade görünümlü, her hava için tasarlanmış giriş-orta seviye touring montu. Su geçirmez membran gövdeye sabit; yani yağmurda ayrı katman takmak gerekmiyor. Çıkarılabilir termal astar (80 g gövde, 80 g kol) çıtçıtlarla bağlanıyor ve kullanılmadığında sırttaki geniş kargo cebine sığıyor. Göğüsteki hava kanalları sıcak günlerde hava akışı sağlıyor.",
+      "Omuz ve dirseklerde CE Seviye 1 Nucleon Flex Plus koruyucular var; mont EN 17092-4:2020 A sınıfında ve Tech-Air Ready. Göğüs ve sırt koruyucu cepleri bulunuyor, koruyucular ayrı satılıyor. İki genişleyebilen ön kargo cebi, sırt cebi, göğüs cebi ve biri su geçirmez iki iç cep var. Kol hacmi, yaka, kol ağzı ve bel ayarlanabiliyor; pantolon bağlantı fermuarı ile ST-1 WP pantolonla takım oluyor. Dış kumaşın türü üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Uygun bütçeyle her havada kullanılacak touring montu arayanlar",
+      "Yağmurda katman takıp çıkarmakla uğraşmak istemeyen günlük sürücüler",
+      "Kuryeler ve işe her gün motosikletle gidenler"
+    ],
+    "notFor": [
+      "Sıcak yaz günleri: sabit membran nedeniyle file montlar kadar serin değil",
+      "Sport sürüş ve yüksek sertifika (AA) arayanlar"
+    ],
+    "pros": [
+      "Sabit membran sayesinde yağmurda ek katman gerektirmiyor",
+      "Çıkarılabilir termal astar sırt cebinde saklanabiliyor",
+      "Bol ve pratik cep düzeni",
+      "Türkiye'de yetkili mağazada stokta ve AA sınıflı rakiplerine göre daha uygun fiyatlı"
+    ],
+    "cons": [
+      "A sınıfı; AA sınıflı touring montların altında",
+      "Sabit membran sıcak havada terletebilir",
+      "Dış kumaş türü ve sırt koruyucu bilgisi sınırlı"
+    ],
+    "usage": {
+      "sehir": "Sade görünümü ve sabit membranıyla günlük şehir kullanımında pratik.",
+      "uzunYol": "Bol cep ve her hava korumasıyla tur için uygun.",
+      "yaz": "Göğüs kanalları yardımcı olur ama sabit membran nedeniyle sıcakta ısınır.",
+      "kis": "Termal astarla serin ve soğuk havada kullanılabilir.",
+      "yagmur": "Güçlü olduğu alan; sabit membran ek katman gerektirmeden koruma sağlar.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Uygun; yağmurda pratik, cepleri bol, fiyatı erişilebilir. Yazın sıcak tutabileceğini hesaba katın."
+    },
+    "verdict": "ST-1 WP, yağmurda pratik olan, fiyatı erişilebilir bir dört mevsim mont isteyen günlük sürücü ve kurye için mantıklı bir seçim. A sınıfı ve sabit membranın yazın getirdiği sıcaklık, daha pahalı AA sınıflı katmanlı montlarla arasındaki farkı oluşturuyor.",
+    "rivals": [
+      "alpinestars/bogota-pro-drystar",
+      "alpinestars/andes-air-drystar",
+      "alpinestars/t-sps-v2-wp"
+    ],
+    "priceRange": {
+      "min": 22050,
+      "max": 22050,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-mavi-/-gri-/-siyah-/-kirmizi",
+        "price": 22050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mavi / Gri / Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-siyah",
+        "price": 22050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-bej/gri/siyah",
+        "price": 22050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Bej / Gri / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-siyah/gri/sari",
+        "price": 22050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "ST-1 WP'nin membranı çıkarılabiliyor mu?",
+        "a": "Hayır, su geçirmez membran sabit. Çıkarılabilen katman yalnızca termal astar."
+      },
+      {
+        "q": "Kurye kullanımına uygun mu?",
+        "a": "Sabit membran, bol cep ve CE koruyucularıyla günlük iş kullanımına uygun. Yaz sıcağında file bir montla dönüşümlü kullanmak daha konforlu olur."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/st-1-waterproof-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/st-1-waterproof-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – ST-1 Waterproof Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-mavi-/-gri-/-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – ST-1 WP Mavi / Gri / Siyah / Kırmızı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – ST-1 WP Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-bej/gri/siyah",
+        "type": "retailer",
+        "label": "Motomax – ST-1 WP Bej / Gri / Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-siyah/gri/sari",
+        "type": "retailer",
+        "label": "Motomax – ST-1 WP Siyah / Gri / Sarı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.material",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Black",
+      "Ice Gray/Black/Yellow Fluo",
+      "Dark Blue/Black/Bright Red",
+      "Dark Khaki Sand/Black/Red Fluo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit su geçirmez membran",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste açılabilir hava kanalları",
+      "closure": "Cırt cırtlı yaka, kol ağzı ve bel ayarı; kolda çıtçıtlı hacim ayarı; pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "halo-drystar",
+    "brand": "alpinestars",
+    "name": "Halo Drystar",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Çıkarılabilir kol kabukları, katlanabilir file ön ve sırt panelleri, paketlenebilir Drystar yağmur ceketi ve AA sınıfı (kollar takılıyken) olan çok mevsimli adventure montu.",
+    "description": [
+      "Halo Drystar, sıcak ve değişken iklimde adventure sürüşü için tasarlanmış, dönüştürülebilir bir mont. Asimetrik ön yapıda çok geniş, katlanabilir bir file panel ve sırtta büyük bir açılabilir havalandırma paneli var. Kolların dış kabuğu çıkarılabiliyor; altında tam file kollar kalıyor ve koruyucular yerinde duruyor. Böylece mont sıcak havada neredeyse file bir montla aynı hava akışını veriyor.",
+      "Yağmur için paketlenebilir, su geçirmez ve nefes alan bir Drystar yağmur ceketi geliyor. Bu katman montun içine, üstüne ya da tek başına giyilebiliyor ve kullanılmadığında sırt cebine sığıyor. Omuz ve dirseklerde Nucleon Flex Pro koruyucular var; üretici montu kollar takılıyken AA, kollar çıkarıldığında A sınıfı olarak tanımlıyor. Tech-Air 5 uyumlu. Termal astar yok; serin havada ara katman gerekiyor."
+    ],
+    "forWho": [
+      "Sıcak iklimde adventure motosikletle uzun tura çıkanlar",
+      "Tek montla hem yaz hem yağmurlu günleri karşılamak isteyenler",
+      "Tech-Air 5 kullanmayı düşünen adventure sürücüleri"
+    ],
+    "notFor": [
+      "Soğuk iklimde kış kullanımı: termal astar yok",
+      "Sport sürüş; kalıp adventure kullanımına göre"
+    ],
+    "pros": [
+      "Çıkarılabilir kol kabuğu ve katlanabilir paneller ile çok yüksek hava akışı",
+      "İçe, dışa veya tek başına giyilebilen paketlenebilir Drystar ceket",
+      "Kollar takılıyken AA sınıfı, Tech-Air 5 uyumu",
+      "Türkiye'de yetkili mağazada indirimli fiyatla stokta renk var"
+    ],
+    "cons": [
+      "Termal astar yok",
+      "Kollar çıkarıldığında sertifika A sınıfına iniyor",
+      "Üretici sayfasında EN standart numarası ve dış kumaş türü belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Havalandırması sayesinde yazın şehirde rahat; adventure görünümü hacimli.",
+      "uzunYol": "Asıl hedefi; bol cep ve katmanlı yapı uzun turda iklim değişimine uyum sağlar.",
+      "yaz": "Güçlü olduğu alan. Kol kabukları çıkarılıp paneller açıldığında file mont gibi hava alır.",
+      "kis": "Termal astar yok; soğuk için ara katman gerekir.",
+      "yagmur": "Drystar yağmur ceketi içe veya dışa giyilerek su geçirmezlik sağlanır.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Yaz aylarında kullanılabilir; ancak yağmurda katman değiştirmek ve hacimli yapı günlük kurye temposunda pratik değil."
+    },
+    "verdict": "Halo Drystar, sıcak iklimde adventure turu yapan ve tek montla geniş bir sıcaklık aralığını karşılamak isteyen sürücü için çok yönlü bir seçim. Kış için termal katman eksikliği ve kollar çıkarıldığında sınıfın A'ya inmesi bilinmesi gereken sınırlar.",
+    "rivals": [
+      "alpinestars/amt-10r-drystar-xf",
+      "alpinestars/bogota-pro-drystar",
+      "alpinestars/andes-air-drystar"
+    ],
+    "priceRange": {
+      "min": 29870,
+      "max": 29870,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Motomax indirimli fiyat"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-halo-drystar-korumali-motosiklet-montu-haki",
+        "price": 37340,
+        "salePrice": 29870,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Haki"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-siyah-/-siyah",
+        "price": 37340,
+        "salePrice": 29870,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-lacivert",
+        "price": 37340,
+        "salePrice": 29870,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Lacivert"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-koyu-gri",
+        "price": 37340,
+        "salePrice": 29870,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Koyu Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kollar çıkarıldığında koruma ne oluyor?",
+        "a": "Kolların yalnızca dış kabuğu çıkıyor; file kollar ve koruyucular yerinde kalıyor. Üretici bu durumda montu A sınıfı, kollar takılıyken AA sınıfı olarak tanımlıyor."
+      },
+      {
+        "q": "Yağmurda nasıl kullanılıyor?",
+        "a": "Paketlenebilir Drystar ceket montun içine veya üstüne giyiliyor; tek başına yağmurluk olarak da kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/halo-drystar-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/halo-drystar-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Halo Drystar® Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-halo-drystar-korumali-motosiklet-montu-haki",
+        "type": "retailer",
+        "label": "Motomax – Halo Drystar Haki",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Halo Drystar Siyah / Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-lacivert",
+        "type": "retailer",
+        "label": "Motomax – Halo Drystar Lacivert",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-halo-ds-korumali-motosiklet-montu-koyu-gri",
+        "type": "retailer",
+        "label": "Motomax – Halo Drystar Koyu Gri",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.material",
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "specs.protectors.level"
+    ],
+    "colors": [
+      "Black/Black",
+      "Dark Khaki/Sand Yellow Fluo",
+      "Dark Gray/Ice Gray/Black",
+      "Dark Blue/Dark Khaki/Flame Ora"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (paketlenebilir ayrı yağmur ceketi)",
+      "airbagCompatible": true,
+      "ventilation": "Katlanabilir tam file ön ve sırt panelleri, çıkarılabilir kol kabukları",
+      "closure": "İç bel kemeri, streç bilekler, çok noktalı kol ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "amt-10r-drystar-xf",
+    "brand": "alpinestars",
+    "name": "AMT-10R Drystar XF",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Modüler yapı, çıkarılabilir laminasyonlu 2,5 katman Drystar XF yağmur paneli, MATRYX file gövde, Kevlar GRID'li deri takviyeler ve AA sınıfı olan üst segment adventure montu.",
+    "description": [
+      "AMT-10R Drystar XF, Alpinestars'ın adventure tarafındaki en üst seviye montlarından biri. Modüler bir yapıda: laminasyonlu 2,5 katman Drystar XF su geçirmez panel takılıyken mont tamamen su geçirmez ve göğüsteki ayarlanabilir kanallarla havalandırılıyor. Sıcak havada bu panel tamamen çıkarılıp sırttaki streç file cebe konuyor ve mont, MATRYX malzemeden bir file monta dönüşüyor; üretici bu durumda da koruma seviyesinin korunduğunu belirtiyor.",
+      "Açıkta kalan bölgelerde Kevlar GRID'li deri ve Superfabric takviyeler, esneme bölgelerinde RIDEKNIT örgü kullanılıyor. Omuz ve dirseklerde Nucleon Flex Pro koruyucular var; mont EN 17092 AA sınıfında ve Tech-Air 5 uyumlu. Su geçirmez çift kargo cebi, manyetik fermuarlar ve su torbası uyumu uzun ve zorlu turlara yönelik. Termal astar standart değil; üretici kış için ayrı bir AMT ara katmanı öneriyor."
+    ],
+    "forWho": [
+      "Zorlu iklimlerde uzun adventure turları yapan deneyimli sürücüler",
+      "Tek montla hem file hem tam su geçirmez kullanım isteyenler",
+      "En üst segmentte malzeme ve koruma arayanlar"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar; fiyatı çok yüksek",
+      "Kuryeler: pahalı, karmaşık modüler yapı günlük iş temposuna uygun değil",
+      "Kış soğuğunda termal astar bekleyenler"
+    ],
+    "pros": [
+      "Laminasyonlu Drystar XF panel ile su geçirmezlik ve nefes alma",
+      "Panel çıkarıldığında file mont olarak kullanılabiliyor",
+      "Kevlar GRID'li deri ve Superfabric takviyeler, AA sınıfı",
+      "Su torbası uyumu ve su geçirmez cepler"
+    ],
+    "cons": [
+      "Fiyatı çok yüksek; Türkiye'de yetkili mağazalarda fiyat bulamadık",
+      "Termal astar standart değil",
+      "Koruyucuların EN 1621 seviyesi üretici sayfasında belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama bu kadar donanımlı bir mont şehir için fazla.",
+      "uzunYol": "Asıl hedefi; modüler yapı ve depolama uzun turlara göre.",
+      "yaz": "Drystar XF panel çıkarıldığında file mont olarak iyi hava alır.",
+      "kis": "Termal astar standart değil; soğukta ayrı ara katman gerekir.",
+      "yagmur": "Laminasyonlu Drystar XF panel takılıyken tamamen su geçirmez.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Önerilmez; fiyat ve modüler yapı günlük iş kullanımına uymuyor."
+    },
+    "verdict": "AMT-10R Drystar XF, zorlu iklimlerde uzun adventure turu yapan ve en iyi malzemeyi isteyen sürücü için tasarlanmış bir mont. Laminasyonlu membran ve file moduna dönüşüm güçlü yanları; yüksek fiyat ve standart termal astarın olmaması ise hesaba katılmalı.",
+    "rivals": [
+      "alpinestars/halo-drystar",
+      "alpinestars/bogota-pro-drystar",
+      "held/4-touring-2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Drystar XF membran çıkarılabiliyor mu?",
+        "a": "Evet. Laminasyonlu Drystar XF yağmur paneli tamamen çıkarılıp sırttaki file cebe konabiliyor; mont bu durumda file mont olarak kullanılıyor."
+      },
+      {
+        "q": "Kışın kullanılabilir mi?",
+        "a": "Termal astar standart gelmiyor. Üretici soğuk hava için ayrıca satılan AMT ara katmanını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/amt-10r-drystar-sup-reg-sup-xf-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/amt-10r-drystar-sup-reg-sup-xf-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – AMT-10R Drystar® XF Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "priceRange"
+    ],
+    "colors": [
+      "Fur Gray/Pale Brown/Spicy Orange"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "MATRYX file gövde, Kevlar GRID'li deri takviyeler, Superfabric takviyeler, RIDEKNIT esneme panelleri, 450D laminasyonlu sert kabuk",
+      "materialClass": "karma",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar XF laminasyonlu 2,5 katman (çıkarılabilir panel)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste ayarlanabilir direkt kanallar, orta gövde fermuarları; panel çıkarıldığında tam file",
+      "closure": "Manyetik fermuarlar, alt kenarda şok kordonu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "t-gp-plus-r-v4-airflow",
+    "brand": "alpinestars",
+    "name": "T-GP Plus R V4 Airflow",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Göğüs ve sırtta geniş file paneller, 450D poli kumaş gövde, DFS Lite omuz kapakları ve EN 17092-4 A sınıfı olan, sport kalıplı ve Tech-Air 5/3 uyumlu yazlık tekstil mont.",
+    "description": [
+      "T-GP Plus R V4 Airflow, Alpinestars'ın sport kalıplı yazlık tekstil montu. Göğüs ve sırtta geniş file paneller, üst sırtta, göğüste ve ön kollarda delikli bölgeler hava akışını artırıyor. Gövde 450D poli kumaştan; kollar önceden bükülmüş, koltuk altı ve kol içlerinde streç paneller var, sırt sürüş pozisyonunda örtmesi için uzun tutulmuş.",
+      "Omuz ve dirseklerde Nucleon Flex Plus koruyucular, omuz dışında sürtünmeyi azaltan DFS Lite kapaklar bulunuyor. Mont EN 17092-4:2020 A sınıfında ve Tech-Air 5 ile Tech-Air 3 sistemlerine hazır. Sabit file astarda sırt ve bölünmüş göğüs koruyucu cepleri var; koruyucular ayrı satılıyor. Su geçirmez veya rüzgâr kesici bir katman gelmiyor; montun hedefi doğrudan sıcak hava."
+    ],
+    "forWho": [
+      "Sıcak havada sport veya naked motosiklet kullanan, deri yerine hafif tekstil isteyenler",
+      "Yazın sport kalıplı, airbag uyumlu bir mont arayanlar",
+      "Yaz aylarında şehir içi ve kısa tur kullanımı"
+    ],
+    "notFor": [
+      "Yağmur ve serin havada da tek mont isteyenler: su geçirmez veya rüzgâr kesici katman yok",
+      "Dik oturuşlu touring motosiklet kullananlar"
+    ],
+    "pros": [
+      "Geniş file ve delikli paneller ile yüksek hava akışı",
+      "Sport kalıp ve DFS Lite omuz kapakları",
+      "Tech-Air 5 ve 3 uyumu",
+      "Türkiye'de yetkili mağazada birden fazla renkte stokta"
+    ],
+    "cons": [
+      "Su geçirmez değil, rüzgâr kesici katman yok",
+      "A sınıfı; deri sport montların AA seviyesinde değil",
+      "Sırt koruyucu ayrıca alınmalı"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde hafif ve serin; sport kalıp dik oturuşta biraz öne çeker.",
+      "uzunYol": "Yaz turunda kullanılabilir; yağmur için ayrıca yağmurluk taşınmalı.",
+      "yaz": "Asıl alanı; file ve delikli paneller hareket halinde iyi serinletir.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Sport kalıp ve DFS Lite kapaklarla yaz viraj sürüşüne yönelik; pist için AA deri tercih edilmeli.",
+      "kurye": "Yaz aylarında kullanılabilir; yağmur koruması olmadığı için tüm yıl tek mont olarak uygun değil."
+    },
+    "verdict": "T-GP Plus R V4 Airflow, sıcakta deri giymek istemeyen sport sürücü için iyi havalanan, airbag uyumlu bir yaz montu. Yağmur ve serin hava için ek katman taşımak gerekiyor; A sınıfı da sport deri montların gerisinde.",
+    "rivals": [
+      "alpinestars/smx-air",
+      "alpinestars/luc-v2-air",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "priceRange": {
+      "min": 25240,
+      "max": 25240,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah-/-siyah",
+        "price": 25240,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah-/-kirmizi",
+        "price": 25240,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah/beyaz",
+        "price": 25240,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Montta su geçirmez katman yok. Yağmurda üstüne yağmurluk giyilmeli."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Sabit file astarda sırt ve bölünmüş göğüs koruyucu cepleri var, koruyucular ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/t-gp-plus-v4-airflow-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/t-gp-plus-v4-airflow-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – T-GP Plus R V4 Airflow Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – T-GP Plus R V4 Airflow Siyah / Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – T-GP Plus R V4 Airflow Siyah / Kırmızı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-gp-plus-r-v4-air-korumali-motosiklet-montu-siyah/beyaz",
+        "type": "retailer",
+        "label": "Motomax – T-GP Plus R V4 Airflow Siyah / Beyaz",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard",
+      "specs.protectors.level"
+    ],
+    "colors": [
+      "Black/White",
+      "Black/Black",
+      "Black/Red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "450D poli kumaş gövde, göğüs ve sırtta file paneller, streç ekler, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Göğüs ve sırtta geniş file paneller; üst sırt, göğüs ve ön kollarda delikli bölgeler",
+      "closure": "Cırt cırtlı kol ağzı ve bel ayarı, ön kolda fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "luc-v2-air",
+    "brand": "alpinestars",
+    "name": "Luc V2 Air",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Bomber görünümlü, geniş delikli ve file panelli, 600D poli kumaş gövdeli, EN 17092 A sınıfı ve Tech-Air 5 uyumlu yazlık şehir montu.",
+    "description": [
+      "Luc V2 Air, Alpinestars'ın bomber ceket görünümlü yazlık şehir montu. Gövde 600D poli kumaştan; vücut boyunca stratejik konumlu delikler ve sürtünmeye dayanıklı file ekler hava akışı sağlıyor. Bomber tipi örme yaka, kürek kemiği ve kol girişindeki streç paneller günlük giyim rahatlığına yönelik. Sırt, dik oturuşta bel bölgesini örtecek şekilde uzatılmış.",
+      "Omuz ve dirseklerde ince profilli Nucleon Flex Plus koruyucular var; mont EN 17092 A sınıfında ve Tech-Air 5 sistemine hazır. Göğüs ve sırt koruyucu cepleri bulunuyor, koruyucular ayrı satılıyor. Bel ve kol ağzında cırt cırt, ön kolda düğmeli ayar ve sırtta reflektif detay var. Su geçirmez katman yok."
+    ],
+    "forWho": [
+      "Yazın şehir içinde günlük kıyafetle uyumlu, korumalı bir mont isteyenler",
+      "Scooter, naked veya neo-retro motosiklet kullananlar",
+      "Uygun fiyatlı, airbag uyumlu yaz montu arayanlar"
+    ],
+    "notFor": [
+      "Yağmurlu günler: su geçirmez katman yok",
+      "Sport sürüş ve uzun yol"
+    ],
+    "pros": [
+      "Bomber görünümü ile motor dışında da giyilebilir",
+      "Geniş delikli ve file paneller ile yazın serin",
+      "Tech-Air 5 uyumu",
+      "Türkiye'de yetkili mağazada indirimli fiyatla ve çok renkte stokta"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "A sınıfı; daha yüksek hızlarda AA sınıflı montlar daha koruyucu",
+      "Sırt koruyucu ayrıca alınmalı"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı; görünümü ve dik oturuşa uygun kesimi şehirde rahat.",
+      "uzunYol": "Kısa yaz turlarında olur; uzun tur için cep ve hava koruması sınırlı.",
+      "yaz": "Delikler ve file ekler sayesinde sıcakta iyi hava alır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Yaz aylarında kurye kullanımına uygun; hafif ve serin, ama yağmur için ayrıca yağmurluk taşınmalı."
+    },
+    "verdict": "Luc V2 Air, yazın şehirde günlük ceket gibi görünen ama CE sertifikalı koruma sunan bir mont isteyen sürücü için iyi bir seçim. Türkiye'deki indirimli fiyatı da avantaj. Yağmur koruması olmaması ve A sınıfı sınırları.",
+    "rivals": [
+      "alpinestars/smx-air",
+      "alpinestars/t-gp-plus-r-v4-airflow",
+      "alpinestars/chrome-v2-sport-hoodie"
+    ],
+    "priceRange": {
+      "min": 12990,
+      "max": 12990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Motomax indirimli fiyat"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-siyah",
+        "price": 17320,
+        "salePrice": 12990,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-lacivert",
+        "price": 17320,
+        "salePrice": 12990,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Lacivert"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-kum-beji",
+        "price": 17320,
+        "salePrice": 12990,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Kum Beji"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-gri",
+        "price": 17320,
+        "salePrice": 12990,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-yesil",
+        "price": 17320,
+        "salePrice": 12990,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Yeşil"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kurye kullanımına uygun mu?",
+        "a": "Yaz aylarında hafif ve serin yapısıyla uygun. Yağmurda koruma sağlamadığı için yanında yağmurluk taşımak gerekir."
+      },
+      {
+        "q": "Sırt koruyucu var mı?",
+        "a": "Göğüs ve sırt koruyucu cepleri var; koruyucular ayrı aksesuar olarak satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/luc-v2-air-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/luc-v2-air-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Luc V2 Air Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Luc V2 Air Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-lacivert",
+        "type": "retailer",
+        "label": "Motomax – Luc V2 Air Lacivert",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-kum-beji",
+        "type": "retailer",
+        "label": "Motomax – Luc V2 Air Kum Beji",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-gri",
+        "type": "retailer",
+        "label": "Motomax – Luc V2 Air Gri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-luc-v2-air-yazlik-korumali-motosiklet-montu-yesil",
+        "type": "retailer",
+        "label": "Motomax – Luc V2 Air Yeşil",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard",
+      "specs.protectors.level"
+    ],
+    "colors": [
+      "Dark Gray/Mid Gray",
+      "Black/Black",
+      "Forest/Military Green",
+      "Navy/Black",
+      "Gobi Brown/Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "600D poli kumaş gövde, sürtünmeye dayanıklı file ekler, streç paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Gövde boyunca delikli bölgeler ve file ekler",
+      "closure": "Bel ve kol ağzında cırt cırt, ön kolda düğmeli ayar, örme bomber yaka",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "chrome-v2-sport-hoodie",
+    "brand": "alpinestars",
+    "name": "Chrome V2 Sport Hoodie",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Teknik polar gövdeli, omuz ve dirseklerde aramid takviyeli, Seviye 1 Nucleon Flex Plus koruyuculu, CE A sınıfı ve Tech-Air Ready motosiklet kapüşonlusu.",
+    "description": [
+      "Chrome V2 Sport Hoodie, dışarıdan sıradan bir kapüşonlu sweatshirt gibi görünen ama motosiklet için sertifikalı bir üst giysi. Ana gövde teknik polar (tech fleece) kumaştan; omuz ve dirseklerde aramid takviye panelleri sürtünme dayanımı sağlıyor. Kapüşonun bağcığı yok; boyundaki çıtçıtla sürüşte sıkılaştırılabiliyor, sırttaki çıtçıt ise kullanılmadığında rüzgârda uçuşmasını önlüyor.",
+      "Omuz ve dirseklerde Seviye 1 Nucleon Flex Plus koruyucular var; üretici giysiyi CE A sınıfı ve Tech-Air Ready olarak tanımlıyor. İki el cebinde fermuarlı bölmeler ve bir su geçirmez cep bulunuyor. Sertifikanın EN numarası, sırt koruyucu desteği ve havalandırma hakkında sayfada bilgi yok. Su geçirmez değil."
+    ],
+    "forWho": [
+      "Şehir içinde kısa mesafe kullanan, günlük kıyafetle uyumlu korumalı üst giysi isteyenler",
+      "Scooter ve küçük hacimli motosiklet kullananlar",
+      "Motordan inip doğrudan işe veya okula giren sürücüler"
+    ],
+    "notFor": [
+      "Otoyol ve yüksek hız: A sınıfı ve polar gövde bu kullanım için sınırlı",
+      "Yağmurlu günler ve kurye kullanımı: su geçirmez değil, polar ıslanınca ağırlaşır"
+    ],
+    "pros": [
+      "Günlük sweatshirt görünümü",
+      "Aramid takviyeli omuz ve dirsek, Seviye 1 koruyucular",
+      "Rüzgârda uçuşmayan, sabitlenebilir kapüşon",
+      "Tech-Air Ready"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "EN standart numarası ve sırt koruyucu bilgisi üretici sayfasında yok",
+      "Türkiye'de yetkili mağazalarda fiyat bulamadık"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı; kısa şehir içi sürüşte rahat ve göze batmayan.",
+      "uzunYol": "Önerilmez; rüzgâr ve hava koruması yetersiz.",
+      "yaz": "Polar gövde sıcakta ısınabilir; serin yaz akşamları için daha uygun. Sıcak hava için markanın Air versiyonları var.",
+      "kis": "Kalın bir ara katmanla soğuk olmayan kış günlerinde kısa sürüşte kullanılabilir.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil.",
+      "kurye": "Önerilmez; yağmur koruması yok ve polar kumaş yoğun günlük kullanımda yıpranır."
+    },
+    "verdict": "Chrome V2 Sport Hoodie, şehirde kısa mesafe süren ve mont giymek istemeyen sürücü için koruyuculu, sertifikalı bir alternatif. Hız, yağmur ve uzun yol için değil; bu sınırlar içinde kullanıldığında mantıklı.",
+    "rivals": [
+      "alpinestars/dyno",
+      "alpinestars/luc-v2-air",
+      "dainese/denim-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Motosiklet hoodie'si gerçek mont kadar korur mu?",
+        "a": "Chrome V2 CE A sınıfında ve omuz/dirsekte Seviye 1 koruyucuya sahip. Bu, şehir içi kullanım için tasarlanmış bir seviye; otoyol ve sport sürüşte AA sınıflı montlar daha güvenli."
+      },
+      {
+        "q": "Kapüşon sürüşte sorun çıkarır mı?",
+        "a": "Kapüşon boyundaki çıtçıtla sıkılaştırılabiliyor, kullanılmadığında sırttaki çıtçıtla sabitleniyor; bu sayede rüzgârda uçuşmuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/chrome-v2-sport-hoodie",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/chrome-v2-sport-hoodie",
+        "type": "manufacturer",
+        "label": "Alpinestars – Chrome V2 Sport Hoodie ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.ceStandard",
+      "specs.ventilation",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Black/White",
+      "Black/Gray Heather/Red Fluo",
+      "Gray Heather/Red Fluo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "XS",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Teknik polar gövde, omuz ve dirseklerde aramid takviye panelleri",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": null,
+      "closure": "Fermuarlı ön, çıtçıtlı kapüşon sabitleme",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "t-sps-v2-wp",
+    "brand": "alpinestars",
+    "name": "T-SPS V2 WP",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "sehir-mont",
+      "kislik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "600D polyester gövde, bantlı dikişli sabit su geçirmez membran, çıkarılabilir 80 g termal astar ve EN 17092 A sınıfı olan, sport kesimli ve uygun fiyatlı her hava şehir montu.",
+    "description": [
+      "T-SPS V2 WP, sport kesimli bir tekstil montta su geçirmezlik ve sıcaklık isteyen şehir sürücüsüne yönelik. Gövde 600D polyesterden, omuz ve dirseklerde iç takviyeler var. Su geçirmez membran gövdeye sabit ve dikişleri bantlı; üstüne çıkarılabilir termal astar (80 g gövde, 80 g kol) ekleniyor. Gövdenin iki yanındaki fermuarlı kanallar açıldığında tüm katmanlardan hava geçiyor.",
+      "Omuz ve dirseklerde EN 1621-1:2012 Seviye 1 Nucleon Flex Plus koruyucular var; mont EN 17092 A sınıfında ve Tech-Air Ready. Sabit file astarda göğüs ve sırt koruyucu cepleri bulunuyor, koruyucular ayrı satılıyor. Kollar önceden bükülmüş, kol ağzı ve belde hacim ayarı, sırtta reflektif detay ve elastik halkalı pantolon bağlantısı mevcut."
+    ],
+    "forWho": [
+      "Yağmurlu ve serin havada şehir içinde her gün motosiklet kullananlar",
+      "Sport görünümlü ama su geçirmez bir tekstil mont isteyenler",
+      "Bütçesi sınırlı, ilk korumalı montunu alacak sürücüler"
+    ],
+    "notFor": [
+      "Sıcak yaz günleri: sabit membran nedeniyle ısınır",
+      "Uzun touring: cep sayısı ve havalandırma sınırlı"
+    ],
+    "pros": [
+      "Bantlı dikişli sabit membran ile yağmurda ek katman gerektirmiyor",
+      "Çıkarılabilir termal astar",
+      "EN 1621-1 Seviye 1 koruyucular ve Tech-Air Ready",
+      "Türkiye'de serideki en uygun fiyatlı su geçirmez seçeneklerden"
+    ],
+    "cons": [
+      "Kontrol ettiğimizde Türkiye'de stokta değildi",
+      "A sınıfı",
+      "Sabit membran yazın terletir"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı; her hava şehir kullanımı için tasarlanmış.",
+      "uzunYol": "Kısa turlarda olur; cep ve havalandırma uzun tura göre sınırlı.",
+      "yaz": "Yan kanallar yardımcı olur ama sabit membranla sıcakta rahat değil.",
+      "kis": "Termal astar ve membranla serin ve soğuk havada şehir içinde iyi iş görür.",
+      "yagmur": "Bantlı dikişli sabit membran ile su geçirmez.",
+      "sport": "Sport kesimli; hafif viraj sürüşüne uygun, pist için değil.",
+      "kurye": "Yağmurlu ve soğuk aylarda kurye kullanımı için uygun ve ekonomik; yaz için ayrı file mont önerilir."
+    },
+    "verdict": "T-SPS V2 WP, yağmurda ve serin havada şehir içinde her gün süren sürücü için uygun fiyatlı, pratik bir mont. Sabit membranın yazın getirdiği sıcaklık ve A sınıfı sınırları; yaz için ayrı bir file mont ile birlikte düşünülmeli.",
+    "rivals": [
+      "alpinestars/st-1-wp",
+      "alpinestars/smx-air"
+    ],
+    "priceRange": {
+      "min": 17400,
+      "max": 17400,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "kontrol tarihinde stokta değil"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz",
+        "price": 17400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz-/-kirmizi",
+        "price": 17400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-siyah",
+        "price": 17400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz-/-sari",
+        "price": 17400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-kirmizi",
+        "price": 17400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "T-SPS V2 WP tamamen su geçirmez mi?",
+        "a": "Üretici sabit su geçirmez membranın dikişlerinin bantlı olduğunu belirtiyor. Yağmurda ek katman gerekmiyor."
+      },
+      {
+        "q": "Yazın kullanılabilir mi?",
+        "a": "Termal astar çıkarılıp yan kanallar açılabilir, ancak sabit membran nedeniyle sıcak günlerde file montlar kadar serin değil."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/t-sps-v2-waterproof-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/t-sps-v2-waterproof-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – T-SPS V2 Waterproof Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – T-SPS V2 WP Siyah / Beyaz",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – T-SPS V2 WP Siyah / Beyaz / Kırmızı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – T-SPS V2 WP Siyah / Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-beyaz-/-sari",
+        "type": "retailer",
+        "label": "Motomax – T-SPS V2 WP Siyah / Beyaz / Sarı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-sps-v2-wp-korumali-motosiklet-montu-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – T-SPS V2 WP Siyah / Kırmızı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/White/Red Fluo",
+      "Black/White",
+      "Black/Red/Red Fluo",
+      "Black/White/Yellow Fluo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "600D polyester gövde, omuz ve dirseklerde iç takviye, sabit file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit, dikişleri bantlı su geçirmez membran",
+      "airbagCompatible": true,
+      "ventilation": "Gövdenin iki yanında fermuarlı direkt hava kanalları",
+      "closure": "Kol ağzı ve belde hacim ayarı, elastik halka ve çıtçıtlı pantolon bağlantısı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "smx-air",
+    "brand": "alpinestars",
+    "name": "SMX Air",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Teknik file gövde, 450D poli takviyeler, çıkarılabilir rüzgâr kesici astar, DFS Lite omuz kapakları ve EN 17092-4 A sınıfı olan, Tech-Air 5 uyumlu sport yazlık mont.",
+    "description": [
+      "SMX Air, Alpinestars'ın motokros kökenli tasarım dilini taşıyan sport yazlık montu. Gövde karın, sırt ve kol içlerinde teknik file; dış kollar ve omuzlarda 450D poli kumaş takviye, üst göğüste delikli 450D kumaş var. Sırt, omuz ve yanlarda poliamid streç bölgeler hem hareket serbestliği sağlıyor hem de Tech-Air 5 airbag şiştiğinde genişleme payı bırakıyor.",
+      "Çok hava alan bir mont olduğu için çıkarılabilir rüzgâr kesici bir astarla geliyor; serin sabahlarda hava akışını azaltmak için kullanılıyor. Omuz ve dirseklerde EN 1621-1:2012 Seviye 1 Nucleon Flex Plus koruyucular, omuz dışında DFS Lite kapaklar var; mont EN 17092-4:2020 A sınıfında. İçte uzun sırt koruyucuya da uygun cep yapısı ve su geçirmez bir iç cep bulunuyor. Su geçirmez değil."
+    ],
+    "forWho": [
+      "Sıcak iklimde günlük işe gidiş ve hafta sonu sport sürüşü yapanlar",
+      "Rüzgâr kesici astarla yazın sabah-akşam farkını karşılamak isteyenler",
+      "Tech-Air 5 kullanmayı düşünenler"
+    ],
+    "notFor": [
+      "Yağmurlu günler: su geçirmez katman yok",
+      "Kış kullanımı"
+    ],
+    "pros": [
+      "Teknik file gövde ile yüksek hava akışı",
+      "Çıkarılabilir rüzgâr kesici astar",
+      "EN 1621-1 Seviye 1 koruyucular, DFS Lite omuz kapakları, Tech-Air 5 uyumu",
+      "Türkiye'de yetkili mağazada çok renkte stokta"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "A sınıfı",
+      "Sırt koruyucu ayrıca alınmalı"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde hafif ve serin.",
+      "uzunYol": "Yaz turunda kullanılabilir; yağmur için ek yağmurluk gerekir.",
+      "yaz": "Asıl alanı; file gövde sıcakta iyi serinletir.",
+      "kis": "Uygun değil; rüzgâr kesici astar yalnızca serin yaz sabahları için.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kalıp ve DFS Lite kapaklarla yaz viraj sürüşüne uygun; pist için değil.",
+      "kurye": "Yaz aylarında kurye kullanımına uygun; rüzgâr kesici astar sabahları işe yarar, yağmur için ayrıca yağmurluk taşınmalı."
+    },
+    "verdict": "SMX Air, sıcak iklimde günlük ve hafta sonu sürüş için iyi havalanan, airbag uyumlu bir sport yaz montu. Rüzgâr kesici astarı kullanım aralığını biraz genişletiyor; yağmur ve kış için çözüm sunmuyor.",
+    "rivals": [
+      "alpinestars/t-gp-plus-r-v4-airflow",
+      "alpinestars/luc-v2-air"
+    ],
+    "priceRange": {
+      "min": 23200,
+      "max": 23200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-siyah",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-acik-kahverengi-/-siyah-/-mavi",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Açık Kahverengi / Siyah / Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-gri-/-siyah-/-oranj",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Siyah / Oranj"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-siyah-/-beyaz-/-kirmizi",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Rüzgâr kesici astar ne işe yarıyor?",
+        "a": "File gövdeden giren hava akışını azaltarak serin sabah ve akşamlarda üşümeyi önlüyor. Su geçirmez değil."
+      },
+      {
+        "q": "SMX Air ile T-GP Plus R V4 Airflow arasındaki fark nedir?",
+        "a": "İkisi de A sınıfı sport yaz montu. SMX Air çıkarılabilir rüzgâr kesici astarla geliyor ve gövdesi daha çok file; T-GP Plus R V4 Airflow'da böyle bir astar yok."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/smx-air-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/smx-air-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – SMX Air Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – SMX Air Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-acik-kahverengi-/-siyah-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – SMX Air Açık Kahverengi / Siyah / Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-gri-/-siyah-/-oranj",
+        "type": "retailer",
+        "label": "Motomax – SMX Air Gri / Siyah / Oranj",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-air-korumali-motosiklet-montu-siyah-/-beyaz-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – SMX Air Siyah / Beyaz / Kırmızı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Anthracite",
+      "Black/Bright Red/White",
+      "Black/Bright Red",
+      "Bright Red/Black",
+      "Light Brown/Black/Sodalite Blue",
+      "Dark Gray/Black/Orange Fluo",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Teknik file gövde, dış kol ve omuzda 450D poli takviye, delikli 450D göğüs paneli, poliamid streç bölgeler",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Karın, sırt ve kol içlerinde teknik file; delikli üst göğüs paneli; çıkarılabilir rüzgâr kesici astar",
+      "closure": "Bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-bogota-pro-drystar",
+    "brand": "alpinestars",
+    "name": "Stella Bogota' Pro Drystar",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıbında, üç katmanlı 'liner to drop' yapısı, içe/dışa giyilebilen Drystar katmanı, 100 g termal astar, Seviye 2 omuz/dirsek koruyucusu ve AA sınıfı olan dört mevsim touring montu.",
+    "description": [
+      "Stella Bogota' Pro Drystar, erkek Bogota' Pro'nun kadın vücut yapısına göre kalıplanmış versiyonu. Yapı aynı: file havalandırmalı dış kabuk, içe veya dışa giyilebilen çıkarılabilir Drystar su geçirmez katman ve 100 g gövde / 60 g kol dolgulu çıkarılabilir termal astar. Dış kabukta DWR su itici kaplama var; göğüs, sırt ve kollardaki havalandırma panelleri ve tek elle açılan direkt kanallar sıcak havada hava akışı sağlıyor.",
+      "Dış kabuk 600D ana gövde ile laminasyonlu ve takviyeli 2 katmanlı 450D sert kumaştan, malzeme %100 GRS sertifikalı geri dönüştürülmüş Nylon 6. Omuz ve dirseklerde Seviye 2 Nucleon Flex Pro koruyucular standart, mont EN 17092 AA sınıfında ve Tech-Air 5/3 uyumlu. Sırt ve göğüs koruyucu cepleri var; koruyucular ayrı satılıyor."
+    ],
+    "forWho": [
+      "Yılın büyük bölümünde tek montla tur yapmak isteyen kadın sürücüler",
+      "Kadın kalıbında AA sınıflı tekstil mont arayanlar",
+      "Her havada işe motosikletle giden kadın sürücüler"
+    ],
+    "notFor": [
+      "Sport sürüş pozisyonu kullananlar",
+      "Yalnızca yazın kısa şehir içi sürüş yapanlar; daha hafif file montlar daha pratik"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı ve Seviye 2 omuz/dirsek koruyucuları",
+      "Termal ve Drystar katmanlarıyla geniş mevsim aralığı",
+      "Kadın vücut yapısına göre kalıp",
+      "Türkiye'de yetkili mağazada birden fazla renkte stokta"
+    ],
+    "cons": [
+      "Drystar ayrı katman; yağmurda durup düzenleme gerekebilir",
+      "Sırt ve göğüs koruyucusu ayrıca alınmalı",
+      "Katmanlı yapı yaz montlarına göre hacimli"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidiş için iyi; bol cep ve her hava koruması.",
+      "uzunYol": "Asıl hedefi; katmanlar uzun turda hava değişimine uyum sağlar.",
+      "yaz": "Katmanlar çıkarılıp paneller açıldığında hava alır; file montlar kadar serin değil.",
+      "kis": "Termal astar ve Drystar katmanıyla serin ve soğuk havada kullanılabilir.",
+      "yagmur": "Drystar katmanı ve DWR kaplama ile su geçirmez kullanım mümkün.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Her mevsim kullanılabilmesi ve AA sınıfıyla kurye için uygun; sıcak günlerde katmanları çıkarmak gerekir."
+    },
+    "verdict": "Stella Bogota' Pro Drystar, kadın kalıbında AA sınıflı ve dört mevsim kullanılabilir bir touring montu arayan sürücü için güçlü bir seçim. Katmanlı yapı esneklik getiriyor; hacim ve ayrıca alınacak sırt koruyucu hesaba katılmalı.",
+    "rivals": [
+      "revit/sand-5-h2o-ladies",
+      "dainese/mangen-absoluteshell-pro-lady",
+      "alpinestars/stella-st-1-wp"
+    ],
+    "priceRange": {
+      "min": 37210,
+      "max": 37210,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-siyah",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-gri-/-sari",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Gri / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-gri-/-siyah-/-mavi",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Siyah / Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-siyah-/-gri-/-sari",
+        "price": 37210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek Bogota' Pro'dan farkı nedir?",
+        "a": "Üretici yapı ve malzemeyi aynı tutuyor; Stella versiyonu kadın vücut yapısına göre kalıplanmış."
+      },
+      {
+        "q": "Kışın yeterli mi?",
+        "a": "Termal astar ve Drystar katmanıyla serin ve soğuk günlerde kullanılabilir. Çok soğuk havada ek ara katman gerekebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-bogota-pro-drystar-sup-reg-sup-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-bogota-pro-drystar-sup-reg-sup-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Stella Bogota' Pro Drystar® Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Stella Bogota' Pro Drystar Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-gri-/-sari",
+        "type": "retailer",
+        "label": "Motomax – Stella Bogota' Pro Drystar Gri / Sarı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-gri-/-siyah-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Stella Bogota' Pro Drystar Gri / Siyah / Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-bogota-pro-drystar-korumali-kadin-motosiklet-montu-siyah-/-gri-/-sari",
+        "type": "retailer",
+        "label": "Motomax – Stella Bogota' Pro Drystar Siyah / Gri / Sarı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/Ice Gray/Yellow Fluo",
+      "Ice Gray/Black/Cyan"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "600D ana gövde, laminasyonlu 2 katman 450D sert dış kabuk, 600D dokuma takviyeler; %100 GRS sertifikalı geri dönüştürülmüş Nylon 6",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (çıkarılabilir, içe veya dışa giyilebilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, tüm sırt ve kollarda havalandırma panelleri; tek elle açılan direkt kanallar",
+      "closure": "Kendini ortalayan çıtçıtlı yaka, ayarlanabilir kol ağızları, alt kenarda şok kordonu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-gp-plus-v4",
+    "brand": "alpinestars",
+    "name": "Stella GP Plus V4",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıbında, A-CS Plus streç panelli, çıkarılabilir 80 g termal yelekli, EN 17092-3 AA sınıflı ve Tech-Air Ready sport deri mont.",
+    "description": [
+      "Stella GP Plus V4, erkek GP Plus V4 ile aynı yapıyı kadın vücut yapısına göre yeniden kalıplanmış bir silüetle sunuyor. Gövde deri; yanlarda Alpinestars'ın A-CS Plus kompozit streç panelleri esneklik ve hafiflik sağlıyor. Üretici bu panellerin deri akordeon panellere göre daha ince ve hafif olduğunu, yırtılma dayanımının yüksek olduğunu belirtiyor.",
+      "Omuzlarda DFS kapak altında Nucleon Flex Plus, dirseklerde uzatılmış GP-R Lite koruyucu var; ikisi de EN 1621-1:2012 Seviye 1. Mont EN 17092-3:2020 AA sınıfında ve Tech-Air Ready. Karın bölgesinde uzun, doğrudan açılan hava kanalları ve çıkarılabilir 80 g termal yelek kullanım aralığını genişletiyor. Sırt koruyucu ayrı satılıyor; su geçirmezlik yok."
+    ],
+    "forWho": [
+      "Sport veya naked motosiklet kullanan, kadın kalıbında AA sınıflı deri mont arayanlar",
+      "Track day ve hafta sonu viraj sürüşü yapan kadın sürücüler",
+      "Tech-Air airbag'e geçmeyi planlayanlar"
+    ],
+    "notFor": [
+      "Kurye ve günlük iş kullanımı: deri ve sport kalıp uzun vardiyada yorar, yağmur koruması yok",
+      "Dik oturuşlu touring motosiklet kullananlar"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı ve iki bölgede EN 1621-1 Seviye 1 koruyucu",
+      "Kadın vücut yapısına göre kalıp",
+      "Çıkarılabilir termal yelek ve karın hava kanalları",
+      "Tech-Air Ready"
+    ],
+    "cons": [
+      "Kontrol ettiğimizde Türkiye'de stokta değildi",
+      "Sırt koruyucu ayrıca alınmalı",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi sürüşte giyilebilir ama sport kalıp dur-kalk trafikte rahat değil.",
+      "uzunYol": "Sport motosikletle otoyolda iyi oturur; cep ve hava koruması sınırlı.",
+      "yaz": "Karın kanalları açıldığında hava alır ama delikli değil; sıcak trafikte ısınır.",
+      "kis": "Termal yelekle serin günlerde iş görür; kış montu değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl alanı; AA sınıfı, DFS omuzlar ve sport kalıp.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Stella GP Plus V4, kadın kalıbında AA sınıflı sport deri mont arayan sürücü için az sayıdaki güçlü seçenekten biri. Termal yelek ve airbag uyumu artı; yağmur koruması yok ve sırt koruyucunun ayrıca alınması gerekiyor.",
+    "rivals": [
+      "alpinestars/stella-smx-air"
+    ],
+    "priceRange": {
+      "min": 49000,
+      "max": 49000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "kontrol tarihinde stokta değil"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-gp-plus-v4-deri-korumali-kadin-motosiklent-montu-siyah-/-beyaz-/-pembe",
+        "price": 49000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz / Pembe"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-gp-plus-v4-deri-korumali-kadin-motosiklent-montu-siyah-/-siyah",
+        "price": 49000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek GP Plus V4'ten farkı nedir?",
+        "a": "Üretici yapı ve malzemenin aynı olduğunu, Stella versiyonunun kadın vücut yapısına göre yeniden kalıplandığını belirtiyor."
+      },
+      {
+        "q": "Beden sistemi nasıl?",
+        "a": "Üretici Stella GP Plus V4'ü 38–50 arası Avrupa kadın bedenleriyle satıyor; deneme yapmadan önce resmi beden tablosuna bakılmalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-gp-plus-v4-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-gp-plus-v4-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella GP Plus V4 Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-gp-plus-v4-deri-korumali-kadin-motosiklent-montu-siyah-/-beyaz-/-pembe",
+        "type": "retailer",
+        "label": "Motomax – Stella GP Plus V4 Siyah / Beyaz / Pembe",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-gp-plus-v4-deri-korumali-kadin-motosiklent-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Stella GP Plus V4 Siyah / Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.closure",
+      "specs.protectors.sirt.standard"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/White/Diva Pink"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Sığır derisi gövde, A-CS Plus kompozit streç yan paneller, teknik streç bölgeler",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Karın bölgesinde uzun, doğrudan açılan hava kanalları",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-smx-air",
+    "brand": "alpinestars",
+    "name": "Stella SMX Air",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıbında, file gövdeli, 450D poli takviyeli, çıkarılabilir rüzgâr kesici astarlı, EN 17092-4 A sınıflı ve Tech-Air 5 uyumlu sport yazlık mont.",
+    "description": [
+      "Stella SMX Air, SMX Air'in kadın vücut yapısına göre kalıplanmış versiyonu. Karın, sırt ve kol içlerinde file gövde, dış kol ve omuzlarda 450D poli kumaş takviye, üst göğüste delikli 450D kumaş var. Sırt, omuz ve yanlardaki poliamid streç bölgeler hareket serbestliği sağlıyor ve Tech-Air 5 airbag şiştiğinde genişleme payı bırakıyor.",
+      "Çıkarılabilir rüzgâr kesici astar serin sabahlarda hava akışını azaltmak için kullanılıyor. Omuz ve dirseklerde EN 1621-1:2012 Seviye 1 Nucleon Flex Plus koruyucular, omuz dışında DFS Lite kapaklar var; mont EN 17092-4:2020 A sınıfında. Üretici EN 1621-2:2014 Seviye 2 Nucleon sırt koruyucuyu ayrı aksesuar olarak öneriyor. Su geçirmez değil."
+    ],
+    "forWho": [
+      "Sıcak iklimde günlük ve hafta sonu sürüş yapan kadın sürücüler",
+      "Kadın kalıbında, airbag uyumlu sport yaz montu arayanlar",
+      "Yazın sabah-akşam sıcaklık farkını rüzgâr kesici astarla karşılamak isteyenler"
+    ],
+    "notFor": [
+      "Yağmurlu günler: su geçirmez katman yok",
+      "Kış kullanımı"
+    ],
+    "pros": [
+      "File gövde ile yüksek hava akışı",
+      "Çıkarılabilir rüzgâr kesici astar",
+      "Kadın kalıbı, DFS Lite omuz kapakları ve Tech-Air 5 uyumu",
+      "Türkiye'de yetkili mağazada fiyatı erkek modeliyle aynı"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "A sınıfı",
+      "Sırt koruyucu ayrıca alınmalı; Türkiye'de kontrol ettiğimizde yalnız bir renk stokta"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde hafif ve serin.",
+      "uzunYol": "Yaz turunda kullanılabilir; yağmurluk taşınmalı.",
+      "yaz": "Asıl alanı; file gövde sıcakta iyi serinletir.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kalıbıyla yaz viraj sürüşüne uygun; pist için değil.",
+      "kurye": "Yaz aylarında kurye kullanımına uygun; yağmur için ayrıca yağmurluk gerekir."
+    },
+    "verdict": "Stella SMX Air, sıcak iklimde süren kadın sürücü için iyi havalanan, kadın kalıplı ve airbag uyumlu bir yaz montu. Rüzgâr kesici astar sabahları işe yarıyor; yağmur ve kış için başka bir mont gerekiyor.",
+    "rivals": [
+      "alpinestars/stella-t-dyno-air",
+      "held/sonic-2-lady",
+      "alpinestars/stella-gp-plus-v4"
+    ],
+    "priceRange": {
+      "min": 23200,
+      "max": 23200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-air-yazlik-kadin-korumali-motosiklet-montu-siyah",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-air-yazlik-kadin-korumali-motosiklet-montu-siyah-/-pembe",
+        "price": 23200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Pembe"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Üretici EN 1621-2:2014 Seviye 2 Nucleon sırt koruyucuyu ayrı aksesuar olarak öneriyor."
+      },
+      {
+        "q": "Rüzgâr kesici astar su geçirmez mi?",
+        "a": "Hayır, yalnızca hava akışını azaltıyor. Yağmurda yağmurluk gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-smx-air-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-smx-air-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella SMX Air Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-air-yazlik-kadin-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Stella SMX Air Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-air-yazlik-kadin-korumali-motosiklet-montu-siyah-/-pembe",
+        "type": "retailer",
+        "label": "Motomax – Stella SMX Air Siyah / Pembe",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Ice Gray/Black/Coral Fluo",
+      "Black/Yellow/Pink",
+      "Black/White/Red Fluo"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "File gövde, dış kol ve omuzda 450D poli takviye, delikli 450D göğüs paneli, poliamid streç bölgeler",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Karın, sırt ve kol içlerinde file; delikli üst göğüs paneli; çıkarılabilir rüzgâr kesici astar",
+      "closure": "Bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-st-1-wp",
+    "brand": "alpinestars",
+    "name": "Stella ST-1 WP",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıbında, sabit su geçirmez membranlı, çıkarılabilir 80 g termal astarlı, EN 17092-4 A sınıflı ve Tech-Air Ready, fiyatı erişilebilir dört mevsim touring montu.",
+    "description": [
+      "Stella ST-1 WP, ST-1 WP'nin kadın versiyonu. Su geçirmez membran gövdeye sabit; yağmurda ayrı katman takmak gerekmiyor. Çıkarılabilir termal astar (80 g gövde, 80 g kol) çıtçıtlarla bağlanıyor ve kullanılmadığında sırttaki geniş kargo cebine sığıyor. Göğüsteki hava kanalları sıcak günlerde hava akışı sağlıyor; kollar önceden bükülmüş, dirsekler ergonomik.",
+      "Omuz ve dirseklerde CE Seviye 1 Nucleon Flex Plus koruyucular var; mont EN 17092-4:2020 A sınıfında ve Tech-Air Ready. Göğüs ve sırt koruyucu cepleri bulunuyor, koruyucular ayrı satılıyor. İki genişleyebilen ön kargo cebi, sırt cebi, göğüs cebi ve biri su geçirmez iki iç cep var; pantolon bağlantı fermuarıyla Stella ST-1 WP pantolonla takım oluyor. Dış kumaşın türü üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Uygun bütçeyle her havada kullanılacak kadın touring montu arayanlar",
+      "Yağmurda katman takıp çıkarmak istemeyen günlük kadın sürücüler",
+      "Kadın kuryeler ve işe her gün motosikletle gidenler"
+    ],
+    "notFor": [
+      "Sıcak yaz günleri: sabit membran nedeniyle file montlar kadar serin değil",
+      "AA sınıfı arayanlar"
+    ],
+    "pros": [
+      "Sabit membran ile yağmurda pratik",
+      "Çıkarılabilir termal astar sırt cebinde saklanabiliyor",
+      "Bol cep, kadın kalıbı",
+      "Türkiye'de yetkili mağazada stokta ve fiyatı erkek modeliyle aynı"
+    ],
+    "cons": [
+      "A sınıfı",
+      "Sabit membran yazın terletebilir",
+      "Dış kumaş türü üretici sayfasında yok; Türkiye'de tek renk bulunuyor"
+    ],
+    "usage": {
+      "sehir": "Sade görünümü ve sabit membranıyla günlük şehir kullanımında pratik.",
+      "uzunYol": "Bol cep ve her hava korumasıyla tur için uygun.",
+      "yaz": "Göğüs kanalları yardımcı olur ama sıcakta ısınır.",
+      "kis": "Termal astarla serin ve soğuk havada kullanılabilir.",
+      "yagmur": "Sabit membranla ek katman gerektirmeden koruma sağlar.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Uygun; yağmurda pratik, cepleri bol. Yazın sıcak tutabilir."
+    },
+    "verdict": "Stella ST-1 WP, kadın kalıbında, yağmurda pratik ve fiyatı erişilebilir bir dört mevsim mont isteyen sürücü için mantıklı. A sınıfı ve sabit membranın yaz sıcağındaki dezavantajı, daha pahalı AA sınıflı katmanlı montlarla arasındaki fark.",
+    "rivals": [
+      "alpinestars/stella-bogota-pro-drystar",
+      "ixs/tourster-stx-1-0-damen",
+      "buse/open-road-3-damen"
+    ],
+    "priceRange": {
+      "min": 22050,
+      "max": 22050,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-st-1-wp-korumali-kadin-motosiklet-montu-siyah",
+        "price": 22050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran çıkarılabiliyor mu?",
+        "a": "Hayır, su geçirmez membran sabit. Çıkarılabilen katman termal astar."
+      },
+      {
+        "q": "Stella Bogota' Pro ile farkı nedir?",
+        "a": "Stella Bogota' Pro AA sınıfı, Seviye 2 koruyucular ve içe/dışa giyilebilen Drystar katmanıyla daha üst seviyede; ST-1 WP sabit membran ve A sınıfıyla daha sade ve uygun fiyatlı."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-st-1-waterproof-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-st-1-waterproof-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Stella ST-1 Waterproof Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-st-1-wp-korumali-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Stella ST-1 WP Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "specs.material",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Dark Blue/Black/Bright Red",
+      "Ice Gray/Black/Yellow Fluo",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit su geçirmez membran",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste açılabilir hava kanalları",
+      "closure": "Cırt cırtlı yaka, kol ağzı ve bel ayarı; kolda çıtçıtlı hacim ayarı; pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  }
+]
