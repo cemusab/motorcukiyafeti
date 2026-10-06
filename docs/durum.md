@@ -9,7 +9,7 @@ PR: https://github.com/cemusab/motorcukiyafeti/pull/1 (v2 → main). Birleştiri
 - Karşılaştırma çubuğu mobilde tek satır + ✕ ile sıfırlama
 
 ## Bekleyen (sıradaki adımlar)
-1. Arka plan ekiplerinin sonuçlarını commit'le: kask-g2 (AGV/HJC/Shark), kask-g3 (LS2/MT/Nolan/KYT — LS2'ye özen), kask-g4 (Scorpion/Bell/Airoh/Caberg/Nexx/Suomy), kask-g5 (yerli/bütçe, Sway/Tex Motor). Dosyalar: src/data/products/{kask,mont}-gN.json + src/data/media-*-gN.json. Ekip bitmeden (yarım JSON) commit'leme; `npm run validate` ile kontrol et.
+1. Arka plan ekiplerinin sonuçlarını commit'le: kask-g2 (AGV/HJC/Shark), kask-g3 (LS2/MT/Nolan/KYT — LS2'ye özen), kask-g4 (Scorpion/Bell/Airoh/Caberg/Nexx/Suomy). Dosyalar: src/data/products/{kask,mont}-gN.json + src/data/media-*-gN.json. Ekip bitmeden (yarım JSON) commit'leme; `npm run validate` ile kontrol et.
    - Ekip yarıda kaldıysa: dosyayı validate et, geçerli kayıtları tut, eksik markaları yeni bir ekiple tamamla (talimat: docs/agent-urun-talimati.md).
 2. Karşılaştırma sayfasına "Karşılaştırmayı bitir" düğmesi (listeyi sıfırla + geri dön) — src/components/CompareTool.tsx
 3. Önceki/sonraki gezinme: ürün sayfası (aynı kategori) ve rehber (aynı konu)
