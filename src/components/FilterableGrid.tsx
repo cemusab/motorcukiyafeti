@@ -15,6 +15,7 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
   const pathname = usePathname();
   const params = useSearchParams();
   const [panel, setPanel] = useState(false);
+  const [limit, setLimit] = useState(24);
 
   const selected = useMemo(() => {
     const m: Record<string, string[]> = {};
@@ -191,7 +192,19 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
           </div>
         )}
         {visible.length ? (
-          <div className="grid grid-cols-1 gap-4 min-[420px]:grid-cols-2 xl:grid-cols-3">{visible.map((i) => byId.get(i.id))}</div>
+          <>
+            <h2 className="sr-only">Ürünler</h2>
+            <div className="grid grid-cols-1 gap-4 min-[420px]:grid-cols-2 xl:grid-cols-3">{visible.slice(0, limit).map((i) => byId.get(i.id))}</div>
+            {visible.length > limit && (
+              <button
+                type="button"
+                onClick={() => setLimit((l) => l + 24)}
+                className="mx-auto mt-6 flex h-12 items-center rounded-md border border-ink bg-white px-6 font-semibold hover:bg-ink hover:text-white"
+              >
+                Daha fazla göster ({visible.length - limit} ürün daha)
+              </button>
+            )}
+          </>
         ) : (
           <div className="rounded-lg border border-dashed border-line bg-white p-10 text-center text-mute">
             Bu filtrelerle eşleşen ürün yok.{" "}

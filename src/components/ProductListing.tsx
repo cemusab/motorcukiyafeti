@@ -10,7 +10,7 @@ export function ProductListing({ items, category }: { items: Product[]; category
   if (!items.length) return null;
   const cards = items.map((p) => <ProductCard key={productId(p)} p={p} />);
   return (
-    <Suspense fallback={<ProductGrid items={items} />}>
+    <Suspense fallback={<ProductGrid items={items.slice(0, 24)} />}>
       <FilterableGrid defs={facetDefs(category)} items={items.map(facetItem)}>
         {cards}
       </FilterableGrid>

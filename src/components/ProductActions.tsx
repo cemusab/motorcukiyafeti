@@ -10,7 +10,7 @@ export function FavoriteButton({ id, name, compact = false }: { id: string; name
       type="button"
       onClick={() => toggle(id)}
       aria-pressed={on}
-      aria-label={on ? `${name} favorilerden çıkar` : `${name} favorilere ekle`}
+      aria-label={compact ? (on ? `${name} favorilerden çıkar` : `${name} favorilere ekle`) : undefined}
       className={`flex items-center gap-1.5 rounded-md border text-sm font-semibold transition ${
         on ? "border-red bg-red/5 text-red" : "border-line bg-white text-ink hover:border-ink"
       } ${compact ? "size-9 justify-center" : "h-10 px-3"}`}
@@ -30,7 +30,7 @@ export function CompareButton({ id, name, category, compact = false }: { id: str
       type="button"
       onClick={() => toggle(id, category)}
       aria-pressed={on}
-      aria-label={on ? `${name} karşılaştırmadan çıkar` : `${name} karşılaştır`}
+      aria-label={compact ? (on ? `${name} karşılaştırmadan çıkar` : `${name} karşılaştır`) : undefined}
       title={full ? "En fazla 4 ürün karşılaştırılabilir; önce birini çıkar. Farklı kategoriden ürün eklersen liste yeniden başlar." : undefined}
       className={`flex items-center gap-1.5 rounded-md border text-sm font-semibold transition ${
         on ? "border-ink bg-ink text-white" : "border-line bg-white text-ink hover:border-ink"

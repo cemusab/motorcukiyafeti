@@ -4,7 +4,7 @@
 @theme {
   --color-ink: #15171b;
   --color-ink-2: #2a2e35;
-  --color-mute: #5b616b;
+  --color-mute: #535962;
   --color-line: #e3e1dc;
   --color-paper: #f5f4f1;
   --color-surface: #ffffff;
@@ -12,7 +12,7 @@
   --color-red-dark: #a8161e;
   --color-night: #0f1114;
   --color-night-2: #1a1d22;
-  --color-ok: #15803d;
+  --color-ok: #166534;
   --color-warn: #b45309;
   --font-sans: var(--font-barlow), system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-display: var(--font-barlow-condensed), "Arial Narrow", sans-serif;
