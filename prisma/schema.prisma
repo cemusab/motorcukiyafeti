@@ -1,0 +1,62 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Product {
+  id             String       @id @default(uuid())
+  slug           String       @unique
+  name           String
+  brandId        String
+  categoryId     String
+  description    String
+  basePriceMin   Float?
+  basePriceMax   Float?
+  isDiscontinued Boolean      @default(false)
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  imageUrl       String?
+  rating         Float        @default(0)
+  reviewCount    Int          @default(0)
+
+  brand          Brand        @relation(fields: [brandId], references: [id])
+  category       Category     @relation(fields: [categoryId], references: [id])
+  specs          ProductSpec[]
+  compatibilities HelmetIntercomCompatibility[]
+}
+
+model Brand {
+  id          String    @id @default(uuid())
+  slug        String    @unique
+  name        String
+  isOem       Boolean   @default(false)
+  products    Product[]
+}
+
+model Category {
+  id          String    @id @default(uuid())
+  slug        String    @unique
+  name        String
+  products    Product[]
+}
+
+model ProductSpec {
+  id        String  @id @default(uuid())
+  productId String
+  name      String  
+  value     String
+  product   Product @relation(fields: [productId], references: [id])
+}
+
+model HelmetIntercomCompatibility {
+  id          String   @id @default(uuid())
+  productId   String   // The helmet
+  intercomId  String   // The intercom
+  status      String   // "Tam Entegre Uyumlu", "Standart Montaj", "Adaptör Gerekli"
+  
+  helmet      Product  @relation(fields: [productId], references: [id])
+}
