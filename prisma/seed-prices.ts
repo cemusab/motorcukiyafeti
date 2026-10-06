@@ -32,9 +32,9 @@ async function main() {
     console.log("Shoei Neotec 3 bulundu, fiyatlar ekleniyor...");
     await prisma.productPrice.createMany({
       data: [
-        { productId: neotec3.id, merchantId: m1.id, price: 28500, url: "https://www.motomax.com.tr", stockStatus: true },
-        { productId: neotec3.id, merchantId: m2.id, price: 29000, campaignPrice: 28200, url: "https://www.feyizoglu.com", stockStatus: true },
-        { productId: neotec3.id, merchantId: m3.id, price: 28750, url: "https://www.mototas.com.tr", stockStatus: false },
+        { productId: neotec3.id, merchantId: m1.id, price: 28500, url: "https://www.motomax.com.tr", inStock: true },
+        { productId: neotec3.id, merchantId: m2.id, price: 29000, campaignPrice: 28200, url: "https://www.feyizoglu.com", inStock: true },
+        { productId: neotec3.id, merchantId: m3.id, price: 28750, url: "https://www.mototas.com.tr", inStock: false },
       ]
     });
   }
@@ -48,8 +48,8 @@ async function main() {
     console.log("Schuberth C5 bulundu, fiyatlar ekleniyor...");
     await prisma.productPrice.createMany({
       data: [
-        { productId: c5.id, merchantId: m1.id, price: 31000, url: "https://www.motomax.com.tr", stockStatus: true },
-        { productId: c5.id, merchantId: m2.id, price: 30500, url: "https://www.feyizoglu.com", stockStatus: true },
+        { productId: c5.id, merchantId: m1.id, price: 31000, url: "https://www.motomax.com.tr", inStock: true },
+        { productId: c5.id, merchantId: m2.id, price: 30500, url: "https://www.feyizoglu.com", inStock: true },
       ]
     });
   }
