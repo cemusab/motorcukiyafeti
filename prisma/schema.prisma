@@ -27,6 +27,7 @@ model Product {
   category       Category     @relation(fields: [categoryId], references: [id])
   specs          ProductSpec[]
   compatibilities HelmetIntercomCompatibility[]
+  prices         ProductPrice[]
 }
 
 model Brand {
@@ -71,4 +72,27 @@ model Article {
   author    String   @default("MotorcuKiyafeti Editörü")
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+}
+
+model Merchant {
+  id        String   @id @default(uuid())
+  name      String
+  logoUrl   String?
+  prices    ProductPrice[]
+}
+
+model ProductPrice {
+  id             String    @id @default(uuid())
+  productId      String
+  merchantId     String
+  price          Float
+  campaignPrice  Float?
+  stockStatus    Boolean   @default(true)
+  size           String?
+  color          String?
+  url            String
+  lastCheckedAt  DateTime  @default(now())
+
+  product        Product   @relation(fields: [productId], references: [id])
+  merchant       Merchant  @relation(fields: [merchantId], references: [id])
 }

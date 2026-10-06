@@ -24,7 +24,10 @@ export default async function KaskDetail({ params }: { params: Promise<{ slug: s
   const product = await prisma.product.findUnique({
     where: { slug },
     include: {
-      brand: true
+      brand: true,
+      category: true,
+      specs: true,
+      prices: { include: { merchant: true } }
     }
   });
 
@@ -125,10 +128,28 @@ export default async function KaskDetail({ params }: { params: Promise<{ slug: s
               </div>
 
               <div className="border-t border-gray-100 pt-6 mb-6">
-                <div className="text-4xl font-black text-gray-900 mb-1">{product.basePriceMin?.toLocaleString('tr-TR')} TL <span className="text-lg text-gray-400 font-medium">- {product.basePriceMax?.toLocaleString('tr-TR')} TL</span></div>
-                <button className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-xl transition shadow-lg shadow-red-600/30 mt-4 text-lg">
-                  Fiyatları Gör
-                </button>
+                <h3 className="text-sm font-bold text-gray-500 uppercase tracking-wide mb-4">Mevcut Fiyatlar</h3>
+                <div className="space-y-3">
+                  {product.prices && product.prices.length > 0 ? (
+                    product.prices.map((p) => (
+                      <a key={p.id} href={p.url} target="_blank" rel="noopener noreferrer" className={`flex items-center justify-between p-3 rounded-xl border ${p.stockStatus ? 'bg-white border-gray-200 hover:border-red-400' : 'bg-gray-50 border-gray-100 opacity-70'} transition`}>
+                        <div className="flex items-center gap-3">
+                          {p.merchant.logoUrl ? (
+                            <img src={p.merchant.logoUrl} alt={p.merchant.name} className="h-6 object-contain" />
+                          ) : (
+                            <span className="font-bold text-sm">{p.merchant.name}</span>
+                          )}
+                        </div>
+                        <div className="text-right">
+                          <div className="font-black text-gray-900">{p.price.toLocaleString('tr-TR')} TL</div>
+                          {!p.stockStatus && <div className="text-[10px] text-red-500 font-bold">Stokta Yok</div>}
+                        </div>
+                      </a>
+                    ))
+                  ) : (
+                    <div className="text-4xl font-black text-gray-900 mb-1">{product.basePriceMin?.toLocaleString('tr-TR')} TL</div>
+                  )}
+                </div>
               </div>
 
               <div className="flex flex-wrap gap-2 mb-8">
