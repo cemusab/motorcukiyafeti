@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "d3o-sas-tec-koruyucu",
+    "title": "D3O, SAS-TEC ve Koruyucu Malzemeleri",
+    "description": "D3O ve SAS-TEC koruyucuların nasıl çalıştığı, viskoelastik köpük ile sert kabuk farkı, EN 1621 seviyeleri ve yerli koruyucu markaları.",
+    "topic": "malzeme",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 7,
+    "intro": "D3O ve SAS-TEC, motosiklet montu ve pantolonlarının içine takılan darbe koruyucularda kullanılan, normalde yumuşak ve esnek olup ani darbede sertleşen malzemelerin marka adlarıdır. Bu sayede koruyucu vücuda oturur, hareketi kısıtlamaz ama darbenin enerjisini sönümler. Koruyucunun ne kadar iyi olduğunu ise markası değil, EN 1621 standardındaki seviyesi (Level 1 veya Level 2) ve giysinin EN 17092 sınıfı gösterir.",
+    "sections": [
+      {
+        "heading": "Hıza duyarlı malzeme ne demek?",
+        "paragraphs": [
+          "Klasik koruyucular sert plastik bir kabuk ve altında köpükten oluşurdu. Yeni nesil koruyucular ise hıza duyarlı (rate-sensitive) malzemeler kullanır: yavaş bir kuvvet uyguladığında, örneğin kolunu büktüğünde, malzeme yumuşak kalır ve şekil alır; ani bir darbede ise direnci hızla artar ve sertleşir.",
+          "D3O kendi malzemelerini Newton tipi olmayan (non-Newtonian) davranış ilkesine dayanan, dinlenme hâlinde yumuşak ve esnek, darbe anında ise sertleşerek kuvveti ürünün yüzeyine yayan malzemeler olarak tanımlıyor. SAS-TEC ise koruyucularında viskoelastik poliüretan köpük kullandığını ve hızlı bir darbede köpüğün direncinin hızla birlikte arttığını belirtiyor. İki markanın kimyası ve üretim yöntemi farklı olsa da kullanıcı açısından sonuç benzerdir: sürüşte rahat, darbede koruyucu."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "D3O",
+        "paragraphs": [
+          "D3O, İngiltere merkezli bir darbe koruma şirketidir ve kendi malzemelerinden üretilen koruyucuları birçok motosiklet giyim markasına tedarik eder. Şirketin motosiklet sayfasında Level 1 ve Level 2 CE belgeli ürünler sunulduğu ve Furygan, Richa, Rukka, Held, RST gibi markaların D3O koruyucu kullandığı belirtiliyor.",
+          "D3O koruyucuları farklı ailelerle satılır: kalın ve en yüksek darbe sönümlemesine odaklanan modellerden, ince ve havalandırmalı modellere kadar. Aynı marka altında hem Level 1 hem Level 2 ürün bulunduğu için yalnızca D3O yazısına değil, koruyucunun üzerindeki seviye etiketine bakmak gerekir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "SAS-TEC",
+        "paragraphs": [
+          "SAS-TEC, Almanya'nın Markgröningen kentinde bulunan bir koruyucu üreticisidir. Firmanın malzeme sayfasına göre SAS-TEC köpüğü yaklaşık 100 °C'ye kadar sıcaklığa dayanıklıdır ve aynı noktaya tekrarlanan darbeler koruyucuyu bozmaz, işlevini korur. Firma bazı eklem koruyucularında viskoelastik PU köpüğü yüksek aşınma dayanımlı bir TPU dış kabukla birlikte kullanıyor.",
+          "Tek kullanımlık değil, çok darbeli (multi-impact) olmak bu tür köpüklerin önemli bir avantajıdır; sert kabuklu bazı eski koruyucular ve kasklardaki EPS köpüğün aksine, sıradan bir düşmeden sonra koruyucu işlevini sürdürür. Yine de görünür bir yırtık, ezilme veya sertleşme varsa koruyucuyu değiştirmek gerekir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "EN 1621 seviyeleri: asıl bakman gereken etiket",
+        "paragraphs": [
+          "Koruyucuların performansı EN 1621 ailesindeki standartlarla ölçülür: omuz, dirsek, kalça ve diz gibi eklem koruyucuları için EN 1621-1, sırt koruyucuları için EN 1621-2. Her iki standartta da Level 1 ve Level 2 vardır; Level 2, koruyucunun altına geçen kuvvetin daha düşük olması gerektiği anlamına gelir ve daha yüksek koruma sağlar.",
+          "D3O, SAS-TEC veya başka bir malzeme kullanılmış olması bu sınavı otomatik olarak geçmek demek değildir. Aynı markanın ince bir Level 1 koruyucusu, başka bir markanın kalın bir Level 2 koruyucusundan daha az koruyabilir. Seviye değerlerinin ayrıntısı için Level 1 ve Level 2 koruma farkı rehberine bakabilirsin."
+        ],
+        "bullets": [
+          "Koruyucunun üzerinde EN 1621-1 veya EN 1621-2 ve seviye yazıyor mu?",
+          "Bölge harfi doğru mu? Omuz, dirsek, kalça ve diz koruyucularının boyutları farklıdır.",
+          "Koruyucu cebine tam oturuyor ve sürüş pozisyonunda eklemin üstünde kalıyor mu?",
+          "Montun sırt cebi boşsa, giysiye uyumlu bir sırt koruyucusu ekle."
+        ]
+      },
+      {
+        "heading": "Koruyucu, giysi sınıfının bir parçası",
+        "paragraphs": [
+          "EN 17092'de AAA, AA ve A sınıfları için omuz, dirsek ve diz koruyucuları zorunludur; AAA ve AA'da kalça koruyucusu da zorunludur. Yani sınıflı bir mont veya pantolon, koruyucularıyla birlikte test edilmiştir. Koruyucuyu daha iyi bir modelle değiştirmek korumayı artırabilir; ancak cebe sığmayan veya yerinden oynayan bir koruyucu, kâğıt üzerinde daha yüksek seviyeli olsa bile işe yaramayabilir.",
+          "Bu yüzden yükseltme yaparken mümkünse montun üreticisinin önerdiği ya da aynı boyutta, aynı bölge için tasarlanmış bir koruyucu seç."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Yerli üreticiler ve bu malzeme",
+        "paragraphs": [
+          "Tech90'ın kendi koruyucu markası ImpacTec, yerli giysilerde sık karşına çıkan bir isim. Yaren Tekstil'in Dyneema Motorcu Mont YRN-8002 ürün sayfasında omuz, dirsek ve yan bölgelerde EN 1621-1:2012, sırtta ise EN 1621-2:2014 belgeli ImpacTec koruyucular kullanıldığı yazıyor; Tech90'ın Vecton Ad Pro pantolonu da ImpacTec korumalarla satılıyor.",
+          "Yerli kot üreticisi Riderdenim, Mistral motosiklet kotunda CE onaylı SAS-TEC koruyucular kullandığını belirtiyor. Tex Motor'un Forte GT Assos Adventure montunun ürün sayfasında ise omuz, dirsek ve sırt bölgeleri için EN 1621-1:2012 kapsamında Level 1 ve Level 2 koruma ile Flexist Protect ve Muon Protect adlı koruyucu teknolojileri anılıyor. Bu rehber hazırlanırken yerli bir markanın resmi sitesinde D3O koruyucu kullanıldığını doğrulayamadık."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "D3O mu, SAS-TEC mi daha iyi?",
+        "a": "Marka olarak genel bir kazanan yok. İki firma da hem Level 1 hem Level 2 ürünler üretiyor. Karşılaştırmayı koruyucunun EN 1621 seviyesine, boyutuna ve cebine ne kadar iyi oturduğuna göre yap."
+      },
+      {
+        "q": "Yumuşak koruyucu gerçekten koruyor mu?",
+        "a": "Evet, hıza duyarlı malzemeler yavaş harekette yumuşak kalır ama ani darbede sertleşir. Bu davranış EN 1621 testlerinde ölçülür; etikette seviye yazan bir koruyucu bu testi geçmiştir."
+      },
+      {
+        "q": "Koruyucuyu düşmeden sonra değiştirmem gerekir mi?",
+        "a": "Viskoelastik köpük koruyucular genellikle çok darbelidir ve hafif bir düşmeden sonra işlevini korur. Ancak koruyucuda yırtık, ezilme, kalıcı şekil bozukluğu ya da sertleşme varsa değiştir."
+      },
+      {
+        "q": "Soğukta koruyucu sertleşir mi?",
+        "a": "Viskoelastik köpüklerin sertliği sıcaklıkla değişebilir; kışın ilk dakikalarda koruyucuyu daha sert hissetmen normaldir. Koruyucunun hangi sıcaklık aralığında test edildiğini öğrenmek istiyorsan üreticinin teknik bilgilerine ve EN 1621 etiketine bak."
+      }
+    ],
+    "relatedGuides": [
+      "level-1-ve-level-2-koruma-farki",
+      "aa-ve-aaa-koruma-farki",
+      "kevlar-aramid-nedir"
+    ],
+    "relatedCategories": [
+      "koruma/sirt-koruma",
+      "koruma",
+      "mont",
+      "pantolon/kevlar-jean"
+    ],
+    "sources": [
+      {
+        "url": "https://d3o.com/faq",
+        "type": "manufacturer",
+        "label": "D3O – Sık sorulan sorular",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.d3o.com/sectors/motorcycle/",
+        "type": "manufacturer",
+        "label": "D3O – Motosiklet koruması sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.sas-tec.de/ueber-uns/material/",
+        "type": "manufacturer",
+        "label": "SAS-TEC – Malzeme sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN1621.php",
+        "type": "homologation",
+        "label": "SATRA – EN 1621 koruyucu standartları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – Dyneema Motorcu Mont YRN-8002 (ImpacTec koruyucular)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans",
+        "type": "manufacturer",
+        "label": "Riderdenim – Mistral motosiklet kotu (SAS-TEC koruyucular)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT Assos Adventure mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]
