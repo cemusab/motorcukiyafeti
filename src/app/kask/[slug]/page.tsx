@@ -201,10 +201,10 @@ export default async function KaskDetail({ params }: { params: Promise<{ slug: s
              {fullCompatibilities.map(comp => (
                <div key={comp.id} className="bg-white text-gray-900 border border-gray-200 rounded-2xl p-6 flex flex-col hover:shadow-lg transition">
                  <div className="h-32 mb-4 flex items-center justify-center p-2 bg-gray-50 rounded-xl">
-                    <img src={comp.intercom?.imageUrl!} alt={comp.intercom?.name} className="h-full object-contain mix-blend-multiply" />
+                    <img src={comp.intercom?.imageUrl || ''} alt={comp.intercom?.name || ''} className="h-full object-contain mix-blend-multiply" />
                  </div>
-                 <div className="text-xs font-bold text-gray-500 uppercase tracking-wide">{comp.intercom?.brand.name}</div>
-                 <h4 className="font-black text-lg mb-2 leading-tight">{comp.intercom?.name}</h4>
+                 <div className="text-xs font-bold text-gray-500 uppercase tracking-wide">{comp.intercom?.brand?.name || 'Bilinmiyor'}</div>
+                 <h4 className="font-black text-lg mb-2 leading-tight">{comp.intercom?.name || 'Silinmiş Ürün'}</h4>
                  <div className={`text-[10px] font-bold px-2 py-1 rounded inline-block w-max mb-4 ${comp.status === 'Tam Entegre Uyumlu' ? 'bg-green-100 text-green-700 border border-green-200' : 'bg-gray-100 text-gray-700 border border-gray-200'}`}>{comp.status}</div>
                  <div className="text-xl font-black mt-auto pt-4 border-t border-gray-100">{comp.intercom?.basePriceMin?.toLocaleString('tr-TR')} TL</div>
                </div>
