@@ -2701,5 +2701,435 @@
       "madeIn": null
     },
     "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-skyland",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001079 Skyland",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Fileli dış katman, suya ve rüzgara dayanıklı iç astar ve termal kapitoneden oluşan üç katmanlı, EN 17092-4 sertifikalı, LDPE omuz dış korumalı yerli 4 mevsim montu.",
+    "description": [
+      "Skyland, Forte GT'nin üç katmanlı 4 mevsim montlarından biri. Dış katman nefes alabilen fileli yapıda; içine suya ve rüzgara dayanıklı bir astar ve soğuk günler için termal kapitone katman takılıyor. Dış kumaş kareli dokuma ripstop Oxford polyester; bu dokuma yırtılmanın yayılmasını zorlaştırıyor. Omuzlarda LDPE malzemeden ekstra dış koruma kabukları var.",
+      "Üretici montun EN 17092-4:2020 standardına uygun olduğunu ve omuz, dirsek ve sırtta EN 1621-1:2012 sertifikalı darbe emici korumalar bulunduğunu belirtiyor; sınıf harfi ve sırt koruyucusunun standardı ayrıca yazılmıyor. Reflektif detaylar, bel, kol ve bilekte ayar mevcut. Tex Motor sitesinden online satış yapılmıyor; fiyat liste fiyatı."
+    ],
+    "forWho": [
+      "Yerli üretim, uygun fiyatlı ve katmanlı bir 4 mevsim mont arayanlar",
+      "Yazın file, kışın kapitoneyle çalışan şehir sürücüleri ve kuryeler",
+      "Omuzda ek sert dış koruma isteyenler"
+    ],
+    "notFor": [
+      "Gün boyu yağmurda çalışan kuryeler: iç astar 'suya dayanıklı' olarak tanımlanıyor, su geçirmezlik değeri yok",
+      "AA/AAA sınıfı arayan hızlı tur sürücüleri"
+    ],
+    "pros": [
+      "Üç katman: file dış kabuk, suya ve rüzgara dayanıklı astar, termal kapitone",
+      "EN 17092-4:2020 ve EN 1621-1:2012 korumalar",
+      "Omuzlarda LDPE dış koruma",
+      "Ripstop Oxford kumaş ve reflektif detaylar"
+    ],
+    "cons": [
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Su geçirmezlik değeri yok",
+      "Beden aralığı ürün sayfasında listelenmiyor"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun, ayarları vücuda iyi oturtur.",
+      "uzunYol": "Ilıman havada kısa-orta turlarda iş görür.",
+      "yaz": "İç katmanlar çıkarıldığında file dış kabuk hava aldırır.",
+      "kis": "Termal kapitone ve rüzgar kesen astarla şehir içi kışa yeterli.",
+      "yagmur": "Kısa yağmurda astar korur; uzun yağmurda yağmurluk gerekir.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "4 mevsim katmanları ve reflektifleriyle kurye için uygun bir bütçe seçeneği; yağmurda ek yağmurluk önerilir."
+    },
+    "verdict": "Skyland, üç katmanlı yapısı ve omuzdaki ek LDPE korumayla Forte GT serisinin dengeli 4 mevsim modeli. Bütçe dostu ve yıl boyu kullanılabilir; su geçirmezlik ve sınıf bilgisi eksik olduğu için ağır yağmurda yağmurlukla tamamlanmalı.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "scudo/roma",
+      "lbc/911-couger"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+        "price": 7600,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Skyland ile Inferno arasındaki fark ne?",
+        "a": "İkisi de üç katmanlı 4 mevsim Forte GT montları. Skyland'de omuzlarda ek LDPE dış koruma ve EN 1621-1:2012 olarak belirtilen korumalar var; Inferno'da katmanlardan biri çıkarılabilir yağmurluk olarak tanımlanıyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Üretici iç astarı suya ve rüzgara dayanıklı olarak tanımlıyor; su geçirmezlik değeri vermiyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001079 Skyland Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "colors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Ripstop Oxford polyester fileli dış katman, suya ve rüzgara dayanıklı iç astar, termal kapitone katman",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Suya ve rüzgara dayanıklı çıkarılabilir iç astar",
+      "airbagCompatible": null,
+      "ventilation": "Fileli dış katman",
+      "closure": "Bel, kol ve bilekte ayar",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 7600,
+      "max": 7600,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-ocean",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001055 Ocean",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Büyük bölümü fileli, ripstop kumaşlı, EN 17092-4 sertifikalı, omuz-dirsek-sırt korumalı ve reflektif hatlı, Türkiye üretimi uygun fiyatlı yazlık mont.",
+    "description": [
+      "Ocean, Forte GT'nin yazlık montu. Gövdenin büyük bölümü fileli kumaştan; sürüş sırasında hava akışı sağlayarak sıcak havada terlemeyi azaltmayı hedefliyor. Aşınma ve yırtılma direnci için ripstop kumaş kullanılıyor; bel ve bileklerde cırtlı ayar var.",
+      "Üretici montun Türkiye'de üretildiğini, EN 17092-4:2020 CE sertifikasına sahip olduğunu ve omuz, dirsek ve sırtta EN 1621 standardına uygun korumalar bulunduğunu belirtiyor; sınıf harfi ve koruyucu seviyesi yazılmıyor. Reflektif hatlar gece görünürlüğüne yardımcı oluyor. Siyah ve kırmızı renkleri var; serinin en uygun fiyatlı montlarından biri."
+    ],
+    "forWho": [
+      "Yazın şehir içinde serin ve korumalı kalmak isteyen sürücüler",
+      "Yaz aylarında çalışan, bütçe dostu korumalı mont arayan kuryeler",
+      "İlk montunu alan yeni sürücüler"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada kullanmak isteyenler; su geçirmez ya da termal katman yok",
+      "Yıl boyu tek montla çalışacak kuryeler: kış ve yağmur için ek ekipman gerekir"
+    ],
+    "pros": [
+      "Büyük bölümü file; yazın iyi hava akışı",
+      "EN 17092-4:2020 ve omuz, dirsek, sırt korumaları dahil",
+      "Ripstop kumaş ve reflektif hatlar",
+      "Uygun fiyat ve Türkiye üretimi"
+    ],
+    "cons": [
+      "Su geçirmez ve termal katman yok",
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Beden aralığı ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Yaz trafiğinde serin ve pratik.",
+      "uzunYol": "Sıcak havada kısa turlarda iş görür; yağmurluk taşınmalı.",
+      "yaz": "Asıl hedefi bu.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Yaz kuryeliği için uygun bütçe seçeneği; yağmurda yağmurlukla kullanılmalı."
+    },
+    "verdict": "Ocean, sertifikalı korumaları dahil, uygun fiyatlı ve yerli üretim bir yazlık file mont. Sıcak aylarda şehir ve kurye kullanımı için mantıklı; yağmur ve soğuk için tek başına yeterli değil.",
+    "rivals": [
+      "scudo/milano",
+      "yaren-tekstil/yrn-1390-yazlik",
+      "ixon/striker-2-air-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+        "price": 5040,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ocean'da sırt koruması var mı?",
+        "a": "Evet, üretici omuz, dirsek ve sırt bölgesinde EN 1621 standardına uygun korumalar bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Yağmurda kullanılır mı?",
+        "a": "Fileli yapısı su geçirmez değil; yağmurda üstüne yağmurluk giyilmeli."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001055 Ocean Mont Siyah ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Kırmızı"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Ripstop kumaş, büyük bölümü fileli gövde",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş file paneller",
+      "closure": "Bel ve bilekte cırtlı ayar",
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 5040,
+      "max": 5040,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-scorpion",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001080 Scorpion",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ripstop dış kumaşlı, çıkarılabilir kapitone iç astarlı, EN 17092-4:2020 sertifikalı ve omuz-dirsek-sırt korumalı yerli kışlık motosiklet montu.",
+    "description": [
+      "Scorpion, Forte GT'nin kış koşulları için tasarlanmış montu. Yırtılmaya dayanıklı ripstop dış kumaş ve çıkarılabilir kapitone iç astar düşük sıcaklıklarda ısı yalıtımı sağlıyor; astar çıkarıldığında mont daha hafif hale geliyor. Üretici modeli soğuk havada uzun süreli sürüşlere uygun olarak konumluyor.",
+      "Mont EN 17092-4:2020 standardına uygun üretiliyor; omuz, dirsek ve sırtta CE sertifikalı darbe korumaları bulunuyor. Ürün sayfası sınıf harfini, koruyucu standart ve seviyesini, su geçirmez membran veya reflektif detayları belirtmiyor. Fiyatı serinin orta bandında."
+    ],
+    "forWho": [
+      "Kışın şehir içinde motosiklet kullanmaya devam eden sürücüler",
+      "Soğukta çalışan ve bütçe dostu korumalı kışlık mont arayan kuryeler",
+      "Yerli üretim kışlık mont tercih edenler"
+    ],
+    "notFor": [
+      "Yağmurda tek başına güvenilecek mont isteyenler; su geçirmezlik belirtilmiyor",
+      "Yaz kullanımı",
+      "Yağmurlu kışta tam gün çalışan kuryeler: yağmurluk olmadan uygun değil"
+    ],
+    "pros": [
+      "Çıkarılabilir kapitone astar ile kışlık ısı yalıtımı",
+      "Ripstop dış kumaş",
+      "EN 17092-4:2020 ve omuz, dirsek, sırt korumaları",
+      "Uygun fiyat"
+    ],
+    "cons": [
+      "Su geçirmez membran ve reflektif bilgisi yok",
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Beden ve renk bilgisi ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için tasarlanmış.",
+      "uzunYol": "Soğuk havada kısa şehirlerarası yolculuklarda iş görür; yağmur için ek katman gerekir.",
+      "yaz": "Uygun değil; astar çıkarılsa da kışlık kesim sıcakta yorar.",
+      "kis": "Asıl hedefi bu; kapitone astar soğukta sıcak tutar.",
+      "yagmur": "Su geçirmezlik belirtilmediği için yağmurluk gerekir.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Kuru soğuk havada kurye için uygun; yağmurda mutlaka yağmurlukla kullanılmalı."
+    },
+    "verdict": "Scorpion, kapitone astarı ve sertifikalı korumalarıyla bütçe dostu bir kışlık şehir montu. Su geçirmezlik ve görünürlük bilgisi olmadığından yağışlı kışta yağmurlukla birlikte düşünülmeli.",
+    "rivals": [
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "tex-motor/forte-gt-skyland",
+      "scudo/roma"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+        "price": 6360,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Scorpion su geçirmez mi?",
+        "a": "Ürün sayfası ripstop dış kumaş ve kapitone astardan söz ediyor; su geçirmez membran belirtmiyor. Yağmurda yağmurluk giyilmeli."
+      },
+      {
+        "q": "Korumalar dahil mi?",
+        "a": "Evet, omuz, dirsek ve sırtta CE sertifikalı korumalar montla geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001080 Scorpion Kışlık Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "colors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Ripstop dış kumaş, çıkarılabilir kapitone iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 6360,
+      "max": 6360,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
   }
 ]

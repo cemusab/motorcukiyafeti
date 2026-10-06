@@ -350,5 +350,77 @@
       }
     ],
     "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-skyland",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-1079-SKYLAND-scaled.jpg",
+        "alt": "Forte GT Skyland 4 mevsim motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001079-skyland/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-1079-SKYLAND-scaled.jpg",
+        "alt": "Forte GT Skyland 4 mevsim motosiklet montu, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001079-skyland/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/3-1079-SKYLAND-scaled.jpg",
+        "alt": "Forte GT Skyland 4 mevsim motosiklet montu, detay görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001079-skyland/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-ocean",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/06/1-OCEAN-1055-SIYAH-12312312--scaled.jpg",
+        "alt": "Forte GT Ocean yazlık motosiklet montu, siyah, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/06/2-OCEAN-1055-SIYAH--scaled.jpg",
+        "alt": "Forte GT Ocean yazlık motosiklet montu, siyah, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/06/3-OCEAN-1055-SIYAH--scaled.jpg",
+        "alt": "Forte GT Ocean yazlık motosiklet montu, siyah, detay görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-scorpion",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-1080-SCORPION-Kislik-1-scaled.jpg",
+        "alt": "Forte GT Scorpion kışlık motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-1080-SCORPION-Kislik-scaled.jpg",
+        "alt": "Forte GT Scorpion kışlık motosiklet montu, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/3-1080-SCORPION-Kislik-scaled.jpg",
+        "alt": "Forte GT Scorpion kışlık motosiklet montu, detay görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/"
+      }
+    ],
+    "videos": []
   }
 ]
