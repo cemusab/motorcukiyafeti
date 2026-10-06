@@ -1,0 +1,265 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-lady-1-uzun-parmak-yazlik-kadin-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-l",
+        "price": 1990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 1990,
+      "max": 1990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli 1.850,70 TL."
+    },
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.material",
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart",
+      "colors"
+    ],
+    "faq": [
+      {
+        "q": "Parma Lady 1 su geçirmez mi?",
+        "a": "Hayır, üretici eldivenin su geçirdiğini belirtiyor. Yağmur için aynı serideki su geçirmez Parma Lady WP1 modeline bakılabilir."
+      },
+      {
+        "q": "Beden nasıl seçilmeli?",
+        "a": "Scudo ürünün dar kalıplı olduğunu ve bir beden büyük alınmasını tavsiye ediyor."
+      }
+    ],
+    "rivals": [
+      "ixs/rapid-stx-1-0-damen",
+      "held/ice-queen-2"
+    ],
+    "buyerInsights": null,
+    "slug": "parma-lady-1",
+    "brand": "scudo",
+    "name": "Scudo Parma Lady 1 Kadın Eldiven",
+    "category": "eldiven",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "summary": "EN 13594:2015 sertifikalı, dış darbe ve avuç içi korumalı, dokunmatik parmak uçlu, nefes alan yapıda Scudo kadın yaz eldiveni.",
+    "description": [
+      "Parma Lady 1, Scudo'nun kadın sürücüler için hazırladığı uzun parmaklı yaz eldiveni. Üretici ilkbahar, yaz ve sonbahar için hafif ve nefes alan bir yapı tasarladığını, eldivenin su geçirdiğini açıkça belirtiyor. Parmak uçları dokunmatik ekranla uyumlu, bilekte kolay ayarlanan bir kayış ve tutuşu artıran grip yüzeyi var.",
+      "Eldiven CE EN 13594:2015 sertifikalı; dışta darbe koruması ve avuç içi koruması bulunuyor. Sertifika seviyesi (Level 1 ya da 2) ve dış malzeme sayfada belirtilmiyor. Üretici kalıbın dar olduğunu ve bir beden büyük alınmasını öneriyor. Kısa bilekli yapı, montun manşetiyle örtüşmeyi sınırlı tutar."
+    ],
+    "forWho": [
+      "Yazın şehirde ve kısa turlarda hafif eldiven arayan kadın sürücüler",
+      "Telefonu eldiveni çıkarmadan kullanmak isteyenler",
+      "Uygun fiyatlı, sertifikalı ilk eldivenini arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta sürenler: su geçirir",
+      "Sportif sürüş için uzun bilekli, yüksek korumalı eldiven arayanlar"
+    ],
+    "pros": [
+      "CE EN 13594:2015 sertifikalı",
+      "Dış darbe ve avuç içi koruması",
+      "Dokunmatik parmak uçları",
+      "Türkiye'de uygun fiyat"
+    ],
+    "cons": [
+      "Su geçirir",
+      "Sertifika seviyesi ve malzeme belirtilmiyor",
+      "Dar kalıp; beden seçimi dikkat ister",
+      "Kısa bilek"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı.",
+      "uzunYol": "Kuru ve ılık havada kısa turlar için yeterli.",
+      "yaz": "Nefes alan yapısıyla sıcak hava için tasarlanmış.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirir.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "kurye": "Yazın kurye kullanımı için ekonomik bir seçenek; dokunmatik parmak uçları pratik."
+    },
+    "verdict": "Parma Lady 1, yazın şehirde kullanılacak, sertifikalı ve uygun fiyatlı bir kadın eldiveni arayanlar için mantıklı. Su geçirmesi ve koruma seviyesinin belirtilmemesi sınırları; yüksek hız ve sport kullanım için uzun bilekli bir eldiven seçilmeli.",
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-parma-lady-1-uzun-parmak-yazlik-kadin-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-l",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-lady-1-uzun-parmak-yazlik-kadin-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-l",
+        "type": "manufacturer",
+        "label": "Scudo – Parma Lady 1 Kadın Motosiklet Eldiveni ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan hafif yapı",
+      "closure": "Ayarlanabilir bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah",
+      "Siyah / Beyaz / Kırmızı"
+    ],
+    "sizes": [
+      "DS",
+      "DM",
+      "DL",
+      "DXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Rapid-STX su geçirmez mi?",
+        "a": "Evet; iXS solto-TEX membran (Z-liner) ve su geçirmez bilek bandı sayesinde su ve rüzgâr geçirmez olduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Eldiven EN 13594:2015'e göre sertifikalı; seviye bilgisi ürün sayfasında yer almıyor."
+      }
+    ],
+    "rivals": [
+      "scudo/parma-lady-1",
+      "held/ice-queen-2"
+    ],
+    "buyerInsights": null,
+    "slug": "rapid-stx-1-0-damen",
+    "brand": "ixs",
+    "name": "iXS Rapid-STX 1.0 Kadın Eldiven",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "kislik-eldiven"
+    ],
+    "summary": "Keçi derisi ve ripstop tekstil karışımı, solto-TEX membranlı su geçirmez, TPU boğum korumalı, EN 13594:2015 sertifikalı iXS kadın kısa eldiveni.",
+    "description": [
+      "Rapid-STX 1.0, iXS'in klasik görünümlü kısa eldiveninin kadın versiyonu. Üretici eldiveni yıl boyu, özellikle ılık-serin ve kötü hava için konumlandırıyor. Dış yüzey keçi derisi ve dayanıklı ripstop tekstil; içte rüzgâr ve su geçirmez, nefes alan solto-TEX membran (Z-liner) ve yumuşak tekstil astar var.",
+      "Koruma tarafında TPU kalıplı boğum koruyucusu (hava kanallı), çift kat deri avuç içi, avuç topuğunda SuperFabric kaplama ve ek deri katmanlar bulunuyor. Eldiven EN 13594:2015 sertifikalı; seviye ve kısa/uzun bilek kodu sayfada belirtilmiyor. Elastik, su geçirmez bilek bandı cırtla kapanıyor; başparmak ve işaret parmağı dokunmatik ekran uyumlu, başparmakta vizör sileceği var."
+    ],
+    "forWho": [
+      "Yağmurlu ve serin günlerde kısa bilekli eldiven tercih eden kadın sürücüler",
+      "Şehir ve touring arasında tek eldivenle idare etmek isteyenler",
+      "Dokunmatik ekranlı navigasyon kullananlar"
+    ],
+    "notFor": [
+      "Dondurucu soğuk için yalıtımlı kışlık eldiven arayanlar",
+      "Pist ve sportif sürüş için uzun bilekli eldiven arayanlar"
+    ],
+    "pros": [
+      "solto-TEX membran ile su ve rüzgâr geçirmez",
+      "TPU boğum, çift kat deri avuç ve SuperFabric takviye",
+      "EN 13594:2015 sertifikalı",
+      "Dokunmatik parmaklar ve vizör sileceği"
+    ],
+    "cons": [
+      "Kısa bilek, montun manşetiyle örtüşme sınırlı",
+      "Ayrı termal yalıtım belirtilmiyor",
+      "Sertifika seviyesi belirtilmiyor",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Uygun; kısa bilek kolay giyilip çıkarılıyor.",
+      "uzunYol": "Yağmurlu turlarda membranı ile işe yarar.",
+      "yaz": "Membranlı yapı sıcak yaz günlerinde terletir.",
+      "kis": "Serin günlerde iyi; dondurucu soğukta yalıtım yetersiz kalabilir.",
+      "yagmur": "solto-TEX membran ve su geçirmez bilek bandıyla yağmura karşı tasarlanmış.",
+      "sport": "Sportif sürüş için değil.",
+      "kurye": "Yağmurlu iş günlerinde pratik; dokunmatik parmaklar kullanışlı."
+    },
+    "verdict": "Rapid-STX 1.0 kadın, yağmurlu ve serin günler için su geçirmez, sertifikalı ve dokunmatik uyumlu bir kısa eldiven. Avuç ve boğum koruması sınıfına göre iyi; kısa bilek ve belirtilmemiş sertifika seviyesi sınırları. Türkiye'de satış noktası doğrulanamadı.",
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-damen-rapid-stx-1-0-handschuhe-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-damen-rapid-stx-1-0-handschuhe-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Damen Rapid-STX 1.0 Handschuhe ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Keçi derisi ve ripstop tekstil (%93 polyester, %7 elastan), solto-TEX membran, tekstil astar, TPU boğum, SuperFabric avuç topuğu",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "solto-TEX (Z-liner)",
+      "airbagCompatible": null,
+      "ventilation": "Boğum koruyucuda hava kanalları",
+      "closure": "Elastik su geçirmez bilek bandı, cırt cırt",
+      "madeIn": null
+    }
+  }
+]

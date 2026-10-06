@@ -1,0 +1,462 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah",
+      "Mavi"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "sizeChart": [
+      {
+        "size": "34",
+        "min": 63,
+        "max": 66
+      },
+      {
+        "size": "36",
+        "min": 66,
+        "max": 69
+      },
+      {
+        "size": "38",
+        "min": 70,
+        "max": 73
+      },
+      {
+        "size": "40",
+        "min": 74,
+        "max": 77
+      },
+      {
+        "size": "42",
+        "min": 78,
+        "max": 81
+      },
+      {
+        "size": "44",
+        "min": 82,
+        "max": 85
+      },
+      {
+        "size": "46",
+        "min": 86,
+        "max": 89
+      },
+      {
+        "size": "48",
+        "min": 90,
+        "max": 95
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Kira'da kevlar/aramid astar var mı?",
+        "a": "Büse astar yerine yüksek mukavemetli lif içeren tek katlı bir kumaş kullandığını belirtiyor; lifin türü sayfada belirtilmiyor. Buna rağmen pantolon EN 17092-3:2020 AA sınıfında sertifikalı."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Büse kadın tablosunda bel çevresine bakın: örneğin 36 beden 66–69 cm, 40 beden 74–77 cm bel çevresine karşılık geliyor."
+      }
+    ],
+    "rivals": [
+      "ixs/clarkson-ar-damen",
+      "buse/open-road-3-damen-hose"
+    ],
+    "buyerInsights": null,
+    "slug": "kira-damen-jeggings",
+    "brand": "buse",
+    "name": "Büse Kira Kadın Jeggings",
+    "category": "pantolon",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "summary": "Tek katlı, yüksek bel kesimli, streç denim görünümlü Büse kadın jeggings; EN 17092-3:2020 AA sınıfı, diz ve kalçada Level 1 koruyucu standart.",
+    "description": [
+      "Kira, Büse'nin vücuda oturan, yüksek bel kesimli kadın motosiklet jeggings modeli. Tek katlı (single-layer) yapıda; yani ayrı bir aramid astar yerine kumaşın kendisi koruma sağlıyor. Üretici çok esnek, yüksek mukavemetli lif içeren pamuk karışımı bir kumaş kullanıldığını belirtiyor: %42 pamuk, %28 polyester, %18 lyocell, %10 poliamid, %2 elastan. Kullanılan yüksek mukavemetli lifin aramid olup olmadığı sayfada açıkça yazmıyor.",
+      "Buna rağmen pantolon EN 17092-3:2020 AA sınıfında sertifikalı; bu, birçok astarlı kevlar jeanin ulaştığı A sınıfının bir üstü. Dizlerde yüksekliği ayarlanabilen ve kalçada çıkarılabilir ImpacTec Level 1 koruyucular standart. Dizlerde streç rib paneller, önde ve arkada cepler var. Tek katlı yapı, astarlı jeanlere göre yazın daha serin ve günlük giyime daha yakın bir his veriyor."
+    ],
+    "forWho": [
+      "Günlük kıyafet görünümünde ama AA sınıfı korumalı pantolon isteyen kadın sürücüler",
+      "Yüksek bel ve vücuda oturan kesimi tercih edenler",
+      "Şehir içinde motosikletle işe gidip gün boyu aynı pantolonu giyenler"
+    ],
+    "notFor": [
+      "Bol kesim kot pantolon sevenler",
+      "Yağmur ve soğukta koruma bekleyenler: su geçirmezlik ve termal astar yok"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı; jean görünümlü pantolonda yüksek seviye",
+      "Tek katlı yapı, astarlı jeanlere göre daha serin ve hafif",
+      "Diz (yükseklik ayarlı) ve kalça koruyucu standart",
+      "34–48 arası geniş beden aralığı, siyah ve mavi renk"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Su geçirmez değil",
+      "Yüksek mukavemetli lifin türü (aramid vb.) belirtilmiyor",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; günlük pantolon gibi görünüp giyiliyor.",
+      "uzunYol": "Kuru havada tur için kullanılabilir; yağmur için üstüne yağmurluk pantolon gerekir.",
+      "yaz": "Tek katlı yapı sayesinde astarlı kevlar jeanlerden daha serin.",
+      "kis": "Termal astar yok; soğukta altına termal tayt giyilmeli.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sportif sürüş için deri veya tekstil pist pantolonu daha uygundur.",
+      "kurye": "Günlük kullanım ve AA sınıfı açısından uygun; dar kesim uzun vardiyada herkese rahat gelmeyebilir."
+    },
+    "verdict": "Kira, jean görünümlü bir pantolonda AA sınıfı koruma isteyen kadın sürücüler için dikkat çekici bir model. Tek katlı yapı yaz için avantaj; Level 1 koruyucular ve su geçirmezlik olmaması sınırları. Türkiye'de satış noktası doğrulanamadı.",
+    "manufacturerUrl": "https://www.buese.com/de/buese-kira-damen-jeggings-bu11205",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-kira-damen-jeggings-bu11205",
+        "type": "manufacturer",
+        "label": "Büse – Kira Damen Jeggings ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu (Damen Normal-Größen)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tek katlı streç kumaş: %42 pamuk, %28 polyester, %18 lyocell, %10 poliamid, %2 elastan (yüksek mukavemetli lif içerir)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yüksek bel jeggings kesim, ön ve arka cepler",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Mavi",
+      "Siyah"
+    ],
+    "sizes": [
+      "W26/L34",
+      "W28/L32",
+      "W28/L34",
+      "W30/L32",
+      "W30/L34",
+      "W32/L32",
+      "W32/L34",
+      "W34/L34",
+      "W36/L34",
+      "W38/L34"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Clarkson'da tam aramid astar var mı?",
+        "a": "Hayır. iXS, aramid takviyesinin belirli bölgelerde olduğunu (%50 aramid / %50 pamuk) belirtiyor; pantolon EN 17092-4:2020 A sınıfında sertifikalı."
+      },
+      {
+        "q": "Koruyucular dahil mi?",
+        "a": "Evet, dizlerde ve kalçada EN 1621-1:2012 Level 1 impacTec koruyucular standart geliyor."
+      }
+    ],
+    "rivals": [
+      "buse/kira-damen-jeggings",
+      "buse/open-road-3-damen-hose"
+    ],
+    "buyerInsights": null,
+    "slug": "clarkson-ar-damen",
+    "brand": "ixs",
+    "name": "iXS Classic AR Clarkson Kadın Jean",
+    "category": "pantolon",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "summary": "Aramid takviyeli bölgelere sahip, streç stonewashed kadın motosiklet jeani; EN 17092-4:2020 A sınıfı, diz ve kalçada Level 1 impacTec koruyucu.",
+    "description": [
+      "Clarkson, iXS'in Classic serisindeki kadın motosiklet jeani. Dış kumaş %98,5 pamuk ve %1,5 elastanlı streç stonewashed denim; risk bölgelerinde %50 aramid / %50 pamuk takviye katmanı bulunuyor. Beş cepli klasik jean görünümü, gizli ön fermuar ve üreticinin 'slim' olarak tanımladığı dar kesim var.",
+      "Pantolon EN 17092-4:2020 A sınıfında sertifikalı; dizlerde ve kalçada EN 1621-1:2012 Level 1 impacTec koruyucular standart. Aramid yalnızca belirli bölgelerde olduğu için tam aramid astarlı jeanlere göre daha serin, ancak sürtünme korumasında AA sınıfı modellere göre bir basamak aşağıda. Bel ve boy ölçüleri W/L sisteminde (W26–W38, L32/L34) sunuluyor."
+    ],
+    "forWho": [
+      "Günlük jean görünümünde, şehir içi kullanım için korumalı pantolon arayan kadın sürücüler",
+      "Dar kesim jean sevenler",
+      "Kot pantolona yakın bir fiyatla A sınıfı koruma isteyenler"
+    ],
+    "notFor": [
+      "Uzun otoyol ve yüksek hız için AA sınıfı arayanlar",
+      "Bol kesim veya yüksek bel arayanlar"
+    ],
+    "pros": [
+      "EN 17092-4:2020 A sınıfı",
+      "Aramid takviyeli risk bölgeleri",
+      "Diz ve kalça koruyucu standart",
+      "Klasik 5 cepli jean görünümü, W/L ölçülendirme"
+    ],
+    "cons": [
+      "Aramid yalnızca bölgesel takviye",
+      "Koruyucular Level 1",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; motosikletten inince günlük jean gibi.",
+      "uzunYol": "Kuru havada kısa tur için uygun; uzun otoyolda A sınıfı sınırlı.",
+      "yaz": "Bölgesel aramid sayesinde tam astarlı jeanlerden daha serin.",
+      "kis": "Termal astar yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sportif sürüşe uygun değil.",
+      "kurye": "Günlük kullanım için uygun ve dayanıklı; yağmurda ek koruma gerekir."
+    },
+    "verdict": "Clarkson, şehir içinde jean görünümünden vazgeçmek istemeyen kadın sürücüler için dengeli bir A sınıfı seçenek. Aramid takviyesi ve standart diz/kalça koruyucuları iyi; daha yüksek hızlar için AA sınıfı bir pantolon tercih edilmeli. Türkiye'de satış noktası doğrulanamadı.",
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-classic-ar-damen-jeans-clarkson-blau",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-classic-ar-damen-jeans-clarkson-blau",
+        "type": "manufacturer",
+        "label": "iXS – Classic AR Damen Jeans Clarkson ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "%98,5 pamuk / %1,5 elastan streç stonewashed denim; risk bölgelerinde %50 aramid / %50 pamuk takviye; %100 polyester astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Gizli ön fermuar, 5 cep",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "sizeChart": [
+      {
+        "size": "36",
+        "min": 66,
+        "max": 69
+      },
+      {
+        "size": "38",
+        "min": 70,
+        "max": 73
+      },
+      {
+        "size": "40",
+        "min": 74,
+        "max": 77
+      },
+      {
+        "size": "42",
+        "min": 78,
+        "max": 81
+      },
+      {
+        "size": "44",
+        "min": 82,
+        "max": 85
+      },
+      {
+        "size": "46",
+        "min": 86,
+        "max": 89
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Kısa boylu sürücüler için seçenek var mı?",
+        "a": "Evet. Büse bu pantolonu 36–48 standart bedenlerin yanında 19–25 arası kısa (kurz) bedenlerde de sunuyor."
+      },
+      {
+        "q": "Montla birleştirilebilir mi?",
+        "a": "Evet, bağlantı fermuarı var; Open Road III kadın montla takım olarak tasarlanmış."
+      }
+    ],
+    "rivals": [
+      "buse/kira-damen-jeggings",
+      "ixs/clarkson-ar-damen"
+    ],
+    "buyerInsights": null,
+    "slug": "open-road-3-damen-hose",
+    "brand": "buse",
+    "name": "Büse Open Road III Kadın Tekstil Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Çıkarılabilir Humax membran iç pantolonlu, uyluklarda havalandırmalı, EN 17092-3:2020 AA sınıfı Büse kadın touring pantolonu; dizde Level 2, kalçada Level 1 koruyucu.",
+    "description": [
+      "Open Road III kadın pantolonu, aynı serideki montla takım olarak tasarlanmış touring pantolonu. Dış kumaş Tactel polyamid, diz ve kaval bölgesinde Hitena takviye, kasık ve dizlerde streç paneller var. Su ve rüzgâr geçirmezliği çıkarılabilir Humax membranlı iç pantolon sağlıyor; uyluklarda önde ve arkada dört havalandırma fermuarı bulunuyor.",
+      "Pantolon EN 17092-3:2020 AA sınıfında sertifikalı. Dizlerde yüksekliği ayarlanabilen Level 2, kalçada Level 1 YF koruyucular standart. Belde ve paça ağzında genişlik ayarı, oturma bölgesinde kaymayı önleyen malzeme, mont bağlantı fermuarı ve ikisi su geçirmez dört cep var. Standart bedenlerin (36–48) yanında kısa bacaklı sürücüler için 19–25 arası 'kurz' bedenler de sunuluyor."
+    ],
+    "forWho": [
+      "Open Road III kadın montla takım kurmak isteyen touring sürücüleri",
+      "Kısa bacak boyu nedeniyle standart pantolonlarda paçası uzun gelen kadın sürücüler",
+      "Yağmurlu ve serin havada uzun yol yapanlar"
+    ],
+    "notFor": [
+      "Şehir içinde günlük pantolon gibi giymek isteyenler",
+      "Çok sıcak yaz günlerinde sürenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Dizde Level 2, kalçada Level 1 koruyucu standart",
+      "Kısa beden seçenekleri (19–25)",
+      "Çıkarılabilir membran ve uyluk havalandırmaları"
+    ],
+    "cons": [
+      "Membran ayrı iç pantolon; dış kumaş yağmurda ıslanır",
+      "Şehir içinde hantal",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Termal astar belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama touring pantolon olduğu için günlük kıyafetin üstüne giyilir; inip binmesi zahmetli.",
+      "uzunYol": "Güçlü olduğu alan; montla bağlantı fermuarı ve AA sınıfı.",
+      "yaz": "Membran çıkarılıp havalandırmalar açıldığında ılık havada kullanılabilir.",
+      "kis": "Membranla rüzgârı keser; termal astar bilgisi yok, soğukta termal tayt önerilir.",
+      "yagmur": "Humax membran iç pantolon su geçirmezliği sağlıyor.",
+      "sport": "Touring kalıp.",
+      "kurye": "Dayanıklı ama ağır; kurye için daha pratik bir pantolon tercih edilebilir."
+    },
+    "verdict": "Open Road III kadın pantolonu, AA sınıfı ve kısa beden seçenekleriyle uzun yol yapan kadın sürücüler için sağlam bir touring pantolonu. Membranın ayrı iç pantolon olması ve şehir içinde hantal kalması dezavantaj. Montla birlikte alındığında tutarlı bir takım oluşturuyor.",
+    "manufacturerUrl": "https://www.buese.com/de/buese-open-road-iii-textilhose-damen-bu11748",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textilhose-damen-bu11748",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III Textilhose Damen ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu (Damen Normal-Größen)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tactel polyamid dış kumaş, diz ve kavalda Hitena takviye, streç paneller, çıkarılabilir Humax membranlı iç pantolon, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (çıkarılabilir iç pantolon)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda önde ve arkada 4 havalandırma fermuarı",
+      "closure": "Bel ve paça genişlik ayarı, mont bağlantı fermuarı",
+      "madeIn": null
+    }
+  }
+]

@@ -27,7 +27,7 @@ export function MobileMenu({ nav }: { nav: MobileNav }) {
     <>
       <button
         type="button"
-        className="-ml-2 grid size-10 place-items-center rounded hover:bg-white/10 lg:hidden"
+        className="-ml-2 grid size-10 place-items-center rounded text-ink hover:bg-paper lg:hidden"
         aria-label="Menüyü aç"
         aria-expanded={open}
         aria-controls="mobil-menu"

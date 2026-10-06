@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Icon } from "@/components/Icon";
 import { ProductGrid } from "@/components/ProductCard";
@@ -7,7 +8,8 @@ import { Wizard } from "@/components/Wizard";
 import { CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import { comparePairs, editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
-import { displayName, getBrands, getGuide, getGuides } from "@/lib/data";
+import { displayName, getBrands, getGuide, getGuides, getMedia, productsIn } from "@/lib/data";
+import { getSubcategory } from "@/data/categories";
 import { meta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
@@ -41,13 +43,23 @@ function HeroArt() {
       <rect width="600" height="420" fill="url(#glow)" />
       <path d="M330 420 420 160h12l118 260z" fill="url(#road)" opacity=".5" />
       <path d="M424 200v22M425 250v30M426 310v40M427 380v40" stroke="#fff" strokeWidth="4" opacity=".35" />
-      <g transform="translate(250 70) scale(9)" fill="none" stroke="#fff" strokeWidth=".55" strokeLinecap="round" strokeLinejoin="round" opacity=".92">
-        <path d="M3.5 14.5C3.5 8.7 7.6 4.5 13 4.5c4.6 0 7.5 3.3 7.5 7.5v3.2c0 1.6-1.3 2.8-2.8 2.8H9.2L6 20H4.6a1.1 1.1 0 0 1-1.1-1.1z" />
-        <path d="M11 9.5h9.3M11 9.5c-.6 1.5-.6 3.3 0 5h9.5" stroke="#d4202a" />
-      </g>
     </svg>
   );
 }
+
+/** Kategori veya alt kategorideki ilk üretici görseli (görseli olan ürün yoksa null). */
+function coverImage(cat: string, sub?: string, used?: Set<string>) {
+  for (const p of productsIn(cat, sub)) {
+    const img = getMedia(p).images[0];
+    if (img && !used?.has(img.url)) {
+      used?.add(img.url);
+      return img;
+    }
+  }
+  return null;
+}
+
+const HELMET_TILES = ["kapali-kask", "cene-acilir-kask", "racing-kask", "touring-kask"];
 
 export default function Home() {
   const guides = getGuides();
@@ -55,6 +67,8 @@ export default function Home() {
   const picks = editorPicks(8);
   const pairs = comparePairs().slice(0, 4);
   const banner = (slug: string) => getGuide(slug);
+  const heroImg = coverImage("kask", "racing-kask");
+  const usedTile = new Set<string>();
   const banners = [
     { title: "Kask Karşılaştırmaları", text: "İki kaskı teknik verisiyle yan yana koy.", href: "/karsilastir", cta: "Karşılaştır" },
     banner("yazlik-motosiklet-ekipmani") && { title: "Yazlık Ekipman Rehberi", text: "Sıcak havada serin ve korunaklı kal.", href: "/rehber/yazlik-motosiklet-ekipmani", cta: "Rehber" },
@@ -68,7 +82,12 @@ export default function Home() {
       <section className="relative overflow-hidden bg-night text-white">
         <div className="absolute inset-0 bg-[linear-gradient(110deg,#0f1114_35%,#1c0d0f_75%,#2a0f12)]" />
         <HeroArt />
-        <Container className="relative py-14 sm:py-20">
+        {heroImg && (
+          <div className="absolute top-[11%] right-[6%] bottom-[11%] hidden w-[36%] xl:block">
+            <Image src={heroImg.url} alt="" fill sizes="36vw" className="object-contain drop-shadow-[0_30px_50px_rgba(212,32,42,.35)]" />
+          </div>
+        )}
+        <Container className="relative py-10 sm:py-14">
           <h1 className="max-w-2xl font-display text-[44px] leading-[0.95] font-bold sm:text-6xl lg:text-7xl">
             Doğru Ekipman
             <br />
@@ -80,7 +99,7 @@ export default function Home() {
           <div className="mt-7 max-w-xl">
             <SearchBox size="lg" />
           </div>
-          <ul className="mt-12 grid max-w-4xl grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-5 [&>li:last-child]:col-span-2 sm:[&>li:last-child]:col-span-1">
+          <ul className="mt-9 grid max-w-4xl grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-5 [&>li:last-child]:col-span-2 sm:[&>li:last-child]:col-span-1">
             {FEATURES.map((f) => (
               <li key={f.href}>
                 <Link href={f.href} className="group flex flex-col items-center gap-2 text-center text-sm font-semibold text-white/85 hover:text-white">
@@ -91,6 +110,27 @@ export default function Home() {
             ))}
           </ul>
         </Container>
+      </section>
+
+      <section aria-label="Kask tipleri" className="bg-[#08090b]">
+        <ul className="mx-auto grid max-w-7xl grid-cols-2 lg:grid-cols-4">
+          {HELMET_TILES.map((slug) => {
+            const sub = getSubcategory("kask", slug);
+            const img = coverImage("kask", slug, usedTile);
+            if (!sub || !img) return null;
+            return (
+              <li key={slug}>
+                <Link href={`/kask/${slug}`} className="group relative flex aspect-[4/3] flex-col items-center justify-end overflow-hidden p-4 text-center">
+                  <span className="absolute inset-0 bg-[radial-gradient(circle_at_50%_40%,rgba(255,255,255,.14),transparent_60%)] transition group-hover:bg-[radial-gradient(circle_at_50%_40%,rgba(212,32,42,.35),transparent_65%)]" />
+                  <span className="absolute inset-x-6 top-4 bottom-14 transition group-hover:scale-105">
+                    <Image src={img.url} alt="" fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain drop-shadow-[0_12px_24px_rgba(0,0,0,.6)]" />
+                  </span>
+                  <span className="relative font-display text-2xl font-bold tracking-wide text-white uppercase sm:text-3xl">{sub.sub.name.replace(" (Modüler)", "")}lar</span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
       </section>
 
       <Container className="mt-10">
@@ -110,14 +150,23 @@ export default function Home() {
 
       <Container className="mt-12">
         <ul className="grid grid-cols-3 gap-2 sm:grid-cols-5 lg:grid-cols-9">
-          {CATEGORIES.map((c) => (
-            <li key={c.slug}>
-              <Link href={`/${c.slug}`} className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
-                <Icon name={c.icon} className="size-11 text-ink-2 transition group-hover:text-red" />
-                <span className="text-sm">{c.short}</span>
-              </Link>
-            </li>
-          ))}
+          {CATEGORIES.map((c) => {
+            const img = coverImage(c.slug);
+            return (
+              <li key={c.slug}>
+                <Link href={`/${c.slug}`} className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
+                  {img ? (
+                    <span className="relative block size-16">
+                      <Image src={img.url} alt="" fill sizes="64px" className="object-contain transition group-hover:scale-110" />
+                    </span>
+                  ) : (
+                    <Icon name={c.icon} className="size-16 p-2 text-ink-2 transition group-hover:text-red" />
+                  )}
+                  <span className="text-sm">{c.short}</span>
+                </Link>
+              </li>
+            );
+          })}
           <li>
             <Link href="/kadin" className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
               <Icon name="user" className="size-11 text-ink-2 transition group-hover:text-red" />

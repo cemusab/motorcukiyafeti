@@ -9,7 +9,8 @@ type LegalFile = { updatedAt: string; pages: LegalPage[]; sources: { url: string
 
 export const LEGAL_SLUGS = ["kvkk-aydinlatma-metni", "gizlilik-politikasi", "cerez-politikasi", "basvuru"] as const;
 
-export const legalReady = () => !!(LEGAL_CONFIG.veriSorumlusu && LEGAL_CONFIG.adres && LEGAL_CONFIG.eposta);
+/** Yasal sayfalar veri sorumlusu ve iletişim e-postası tanımlıyken yayınlanır; adres boşsa adres satırları metinden çıkar. */
+export const legalReady = () => !!(LEGAL_CONFIG.veriSorumlusu && LEGAL_CONFIG.eposta);
 
 const TOKENS: Record<string, string | null> = {
   "{{VERI_SORUMLUSU}}": LEGAL_CONFIG.veriSorumlusu,

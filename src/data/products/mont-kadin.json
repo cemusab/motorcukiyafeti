@@ -1,0 +1,1118 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-lyon-siyah-4-mevsim-kadin-motosiklet-montu-xs",
+        "price": 10990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 10990,
+      "max": 10990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli 10.220,70 TL."
+    },
+    "colors": [
+      "Siyah",
+      "Gri",
+      "Mor",
+      "Pembe"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.protectors.level",
+      "specs.material",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Sırt koruması ayrıca mı alınıyor?",
+        "a": "Hayır. Scudo tüm ceketlerinde EN 1621-2:2014 sertifikalı ImpacTec sırt korumasını montla birlikte verdiğini belirtiyor."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Üretici bu modelin dar kalıplı olduğunu ve normal bedeninizin bir büyüğünü almanızı öneriyor. Kararsızsanız boy ve kilonuzla markaya danışabilirsiniz."
+      }
+    ],
+    "rivals": [
+      "tex-motor/forte-gt-inferno-kadin",
+      "buse/open-road-3-damen",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "buyerInsights": null,
+    "slug": "lyon-kadin",
+    "brand": "scudo",
+    "name": "Scudo Lyon Kadın 4 Mevsim Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Türk markası Scudo'nun çıkarılabilir içlikli, su ve rüzgâr geçirmez kumaşlı kadın montu; EN 17092-4:2020 A sınıfı ve sırt koruması kutudan çıkıyor.",
+    "description": [
+      "Lyon, Scudo'nun kadın koleksiyonundaki dört mevsim montu. Üretici dış kumaşın su ve rüzgâr geçirmez olduğunu, içte hava alabilen bir membran ve soğuk havalar için kolayca çıkarılan bir içlik bulunduğunu belirtiyor. Ön omuzlarda fermuarlı havalandırma cepleri var; yani bu bir file mont değil, havalandırma sınırlı ve hedef daha çok ilkbahar, sonbahar ve kış.",
+      "Koruma tarafında Scudo, montun EN 17092-4:2020 A sınıfında sertifikalı olduğunu; omuz ve dirseklerde EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumalar kullanıldığını yazıyor. Sırt koruması ayrı satılmıyor, montla birlikte veriliyor. Koruyucuların Level 1 mi Level 2 mi olduğu sayfada belirtilmiyor. Belde ayar kayışı, manşet ve üst kolda ayar tırnakları, YKK fermuarlar ve reflektif logo/şeritler diğer detaylar. Üretici kalıbın dar olduğunu, bir beden büyük alınmasını öneriyor."
+    ],
+    "forWho": [
+      "Şehir içinde ve hafta sonu kısa turlarda tek montla serin ve soğuk mevsimi geçirmek isteyen kadın sürücüler",
+      "Sırt koruması dahil, sertifikalı bir montu yerli marka güvencesiyle almak isteyenler",
+      "Yedek parça, değişim ve iade süreçlerini Türkiye'de kolayca halletmek isteyenler"
+    ],
+    "notFor": [
+      "Temmuz-ağustos sıcağında sürenler: yalnızca omuz havalandırması var, file mont kadar serin değil",
+      "AA veya AAA sınıfı koruma arayan, hızlı otoyol ve sportif sürüş yapanlar"
+    ],
+    "pros": [
+      "EN 17092-4:2020 A sınıfı sertifika ve sırt koruması standart",
+      "Çıkarılabilir içlik ile mevsime göre ayarlanabiliyor",
+      "Belde ve kollarda ayar seçenekleri",
+      "Yerli üretici; fiyat ithal markaların yaklaşık yarısı"
+    ],
+    "cons": [
+      "Koruyucuların EN 1621 seviyesi (Level 1/2) belirtilmiyor",
+      "Üretici dar kalıp olduğunu söylüyor, beden seçimi dikkat ister",
+      "Yaz için havalandırma sınırlı",
+      "Beden tablosunda göğüs çevresi ölçüleri cm olarak verilmiyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı. Ön cepler, iç cepler ve arka fermuarlı cep günlük işler için yeterli.",
+      "uzunYol": "Hafta sonu turu için uygun; A sınıfı olduğu için uzun otoyol etaplarında AA bir touring montun koruma seviyesine ulaşmaz.",
+      "yaz": "İçlik çıkarılsa da kapalı kumaş yapı sıcakta terletir; omuz havalandırmaları sınırlı fayda sağlar.",
+      "kis": "İçlik ve rüzgâr geçirmez kumaşla serin ve soğuk günlerde kullanılabilir; çok soğukta altına ince termal katman eklenmeli.",
+      "yagmur": "Üretici kumaşı su ve rüzgâr geçirmez olarak tanımlıyor; dikiş bandı ve uzun yağmur testi bilgisi yok, uzun sağanakta yağmurluk tavsiye edilir.",
+      "sport": "Sportif sürüş için tasarlanmamış; kalıp dik oturuşa uygun.",
+      "kurye": "Fiyat-koruma dengesi ve sırt korumasının dahil olması kurye işine uygun; ancak yaz aylarında ayrıca file bir mont gerekir."
+    },
+    "verdict": "Lyon, makul fiyata sırt koruması dahil, sertifikalı bir dört mevsim kadın montu isteyenler için mantıklı bir yerli seçenek. A sınıfı koruma şehir ve orta hızlar için yeterli; yüksek hız ve uzun otoyol için AA sınıfı bir touring mont daha uygun. Dar kalıp nedeniyle mutlaka deneyerek veya bir beden büyük almak gerekiyor.",
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-lyon-siyah-4-mevsim-kadin-motosiklet-montu-xs",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-lyon-siyah-4-mevsim-kadin-motosiklet-montu-xs",
+        "type": "manufacturer",
+        "label": "Scudo – Lyon Siyah 4 Mevsim Kadın Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön omuzlarda fermuarlı havalandırma cepleri",
+      "closure": "YKK ön fermuar, belde ayar kayışı, manşet ve üst kolda ayar tırnakları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-paris-yazlik-fileli-kadin-motosiklet-ceketi-xs",
+        "price": 9390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 9390,
+      "max": 9390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli 8.732,70 TL."
+    },
+    "colors": [
+      "Siyah",
+      "Gri",
+      "Mor",
+      "Pembe"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Paris montu yağmurda kullanılabilir mi?",
+        "a": "Üretici su geçirmezlik iddiasında bulunmuyor; file gövde yağmurda hızla ıslanır. Yağmurlu günlerde üstüne yağmurluk giyilmeli."
+      },
+      {
+        "q": "Sırt koruması var mı?",
+        "a": "Evet, Scudo EN 1621-2:2014 sertifikalı ImpacTec sırt korumasını montla birlikte veriyor."
+      }
+    ],
+    "rivals": [
+      "alpinestars/stella-t-dyno-air",
+      "scudo/lyon-kadin",
+      "held/sonic-2-lady"
+    ],
+    "buyerInsights": null,
+    "slug": "paris-kadin",
+    "brand": "scudo",
+    "name": "Scudo Paris Kadın Yazlık File Mont",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ön ve arkası file kumaşlı, sırt koruması dahil, EN 17092-4:2020 A sınıfı Scudo kadın yaz montu; sıcak şehir trafiği ve kurye kullanımı için uygun fiyatlı seçenek.",
+    "description": [
+      "Paris, Scudo'nun kadın sürücüler için yaz montu. Gövdenin ön ve arka kısmı hava alan file kumaştan; ön fermuarın arkasında rüzgârı kesen bir panel var. Kumaş polyester. Üretici iki geniş iç cep (biri fermuarlı), önde iki fermuarlı cep ve kot pantolona takılan bir halka sayesinde montun sürüşte yukarı kaymadığını belirtiyor.",
+      "Scudo bu modelde de EN 17092-4:2020 A sınıfı sertifikayı, omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumaları ve sırt korumasının hediye verildiğini yazıyor. Kol korumalarının kol uzunluğuna göre ayarlanabildiği de belirtiliyor; kadın sürücülerde kol boyu farklılığı göz önüne alındığında bu yararlı bir detay. Su geçirmezlik iddiası yok; yağmurda yağmurluk gerekir."
+    ],
+    "forWho": [
+      "Yazın şehir içinde, kısa mesafede veya kuryelik yapan kadın sürücüler",
+      "Sıcak havada korumasız tişörtle sürmek yerine uygun fiyatlı, sertifikalı bir file mont isteyenler",
+      "Sırt korumasını ayrıca satın almak istemeyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada da aynı montla sürmek isteyenler",
+      "Yüksek hızda uzun otoyol sürüşü yapan ve AA sınıfı koruma arayanlar"
+    ],
+    "pros": [
+      "Önde ve arkada file kumaş, sıcakta hava akışı",
+      "EN 17092-4:2020 A sınıfı ve sırt koruması dahil",
+      "Kol korumaları kol uzunluğuna göre ayarlanabiliyor",
+      "Kot pantolon bağlantı halkası"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Koruyucu seviyesi (Level 1/2) belirtilmiyor",
+      "Üretici dar kalıp olduğunu belirtiyor",
+      "File gövde, kapalı tekstile göre sürtünmeye karşı daha az dayanıklıdır"
+    ],
+    "usage": {
+      "sehir": "Sıcak şehir trafiği için tasarlanmış; inip binmesi kolay, iç cepleri yeterli.",
+      "uzunYol": "Yaz turunda kullanılabilir ama yağmur koruması olmadığı için yanında yağmurluk taşımak gerekir.",
+      "yaz": "Asıl hedef. File gövde hareket halindeyken iyi hava aldırır.",
+      "kis": "Kış için uygun değil; termal astarı yok.",
+      "yagmur": "Su geçirmez değil; yağmurluk üstüne giyilmeli.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "kurye": "Yaz aylarında kurye işi için mantıklı: hafif, serin ve sırt koruması dahil."
+    },
+    "verdict": "Paris, yaz aylarında korumasız sürmek yerine sertifikalı bir mont giymek isteyen kadın sürücüler için erişilebilir bir seçenek. A sınıfı ve dahil gelen sırt koruması güçlü yanları; yağmur koruması olmaması ve koruyucu seviyesinin belirtilmemesi zayıf yanları. Yüksek hız ve uzun yol için daha üst sınıf bir mont düşünülmeli.",
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-paris-yazlik-fileli-kadin-motosiklet-ceketi-xs",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-paris-yazlik-fileli-kadin-motosiklet-ceketi-xs",
+        "type": "manufacturer",
+        "label": "Scudo – Paris Yazlık Fileli Kadın Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Polyester kumaş, ön ve arkada file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön ve arka gövdede file kumaş",
+      "closure": "YKK ön fermuar, belde ayar kayışı, manşet ve üst kolda ayar tırnakları, kot pantolon halkası",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah",
+      "Açık gri",
+      "Gri"
+    ],
+    "sizes": [
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "sizeChart": [
+      {
+        "size": "36",
+        "min": 81,
+        "max": 84
+      },
+      {
+        "size": "38",
+        "min": 85,
+        "max": 88
+      },
+      {
+        "size": "40",
+        "min": 89,
+        "max": 92
+      },
+      {
+        "size": "42",
+        "min": 93,
+        "max": 96
+      },
+      {
+        "size": "44",
+        "min": 97,
+        "max": 100
+      },
+      {
+        "size": "46",
+        "min": 101,
+        "max": 104
+      },
+      {
+        "size": "48",
+        "min": 105,
+        "max": 110
+      },
+      {
+        "size": "50",
+        "min": 111,
+        "max": 116
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible"
+    ],
+    "faq": [
+      {
+        "q": "Open Road III kadın montu su geçirmez mi?",
+        "a": "Evet; üretici çıkarılabilir Humax membranla su, rüzgâr geçirmez ve nefes alabilir olduğunu belirtiyor. Membran ayrı bir katman olduğu için dış kumaş yağmurda ıslanabilir."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, sırt koruyucu sonradan takılabilir; Büse uyumlu SAS-TEC sırt koruyucularını ayrıca satıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Büse'nin kadın beden tablosuna göre göğüs çevresine bakılır; örneğin 38 beden 85–88 cm, 42 beden 93–96 cm göğüs çevresine karşılık gelir."
+      }
+    ],
+    "rivals": [
+      "ixs/tourster-stx-1-0-damen",
+      "dainese/mangen-absoluteshell-pro-lady",
+      "revit/sand-5-h2o-ladies",
+      "held/sonic-2-lady"
+    ],
+    "buyerInsights": null,
+    "slug": "open-road-3-damen",
+    "brand": "buse",
+    "name": "Büse Open Road III Kadın Tekstil Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Çıkarılabilir Humax membran ve termal astarlı, EN 17092-3:2020 AA sınıfı, omuz ve dirsekte Level 2 koruyuculu Büse kadın touring montu.",
+    "description": [
+      "Open Road III, Alman Büse'nin uzun süredir sattığı Open Road touring serisinin üçüncü nesli; kadın versiyonu ayrı kalıpla 36–50 beden aralığında üretiliyor. Dış kumaş Tactel polyamid, omuz ve dirseklerde Hitena takviyesi, esneme bölgelerinde streç paneller var. Su, rüzgâr geçirmezlik ve nefes alabilirlik, termal astarla birleşik çıkarılabilir Humax membranla sağlanıyor; yani membran dış kumaşın altında ayrı bir katman.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde (dirsek yüksekliği ayarlı) Level 2 YF koruyucular standart; sırt koruyucusu ayrıca alınabiliyor. Göğüs, kollar ve sırtta havalandırma fermuarları, kalça, bel, kol ve boyunda genişlik ayarı, 8 dış (2'si su geçirmez) ve 3 iç cep bulunuyor. Kalça ve belde ayar seçeneği, kadın kalıbında oturuşu ince ayarlamaya yardımcı oluyor."
+    ],
+    "forWho": [
+      "Uzun yolda yağmur, rüzgâr ve serin havaya hazır olmak isteyen kadın touring sürücüleri",
+      "AA sınıfı ve Level 2 koruyucuları makul Avrupa fiyatına arayanlar",
+      "Kalça ve bel ayarı ile kalıbı vücuda göre ayarlamak isteyenler"
+    ],
+    "notFor": [
+      "Yalnızca sıcak yaz günlerinde sürenler; membranlı yapı file montlar kadar serin değil",
+      "Türkiye'de hemen mağazadan deneyip almak isteyenler: yerel satış noktası bulunamadı"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu standart",
+      "Çıkarılabilir membran + termal astar ile geniş mevsim aralığı",
+      "Kalça, bel, kol ve boyunda ayar; çok sayıda cep"
+    ],
+    "cons": [
+      "Sırt koruyucusu standart değil",
+      "Membran dış kumaşın altında; ıslandığında dış kumaş ağırlaşır",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Çok katmanlı yapı şehir içinde hantal gelebilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama 8 cepli touring yapı şehir için fazla gelebilir.",
+      "uzunYol": "Güçlü olduğu alan; AA sınıfı, bol cep ve pantolon bağlantı fermuarı uzun tur için tasarlanmış.",
+      "yaz": "Membran ve astar çıkarılıp havalandırmalar açıldığında ılık havada idare eder; çok sıcak günlerde file mont kadar serin değil.",
+      "kis": "Termal astar ve membranla serin ve soğuk günlerde rahat.",
+      "yagmur": "Çıkarılabilir Humax membran su geçirmezliği sağlıyor; dış kumaş ıslanıp ağırlaşabilir.",
+      "sport": "Sport kalıp değil; dik oturuşlu touring ve adventure motosikletler için.",
+      "kurye": "Dayanıklı ama ağır ve pahalı; kurye için daha basit bir mont daha mantıklı."
+    },
+    "verdict": "Open Road III kadın versiyonu, AA sınıfı ve Level 2 koruyucuları dört mevsim kullanılabilen bir pakette sunan klasik bir Avrupa touring montu. Uzun yol yapan kadın sürücü için güçlü bir aday; sırt koruyucusunun ayrıca alınması ve Türkiye'de satış noktası bulunmaması dezavantaj.",
+    "manufacturerUrl": "https://www.buese.com/de/buese-open-road-iii-textiljacke-damen-bu11621",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-damen-bu11621",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III Textiljacke Damen ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu (Damen Normal-Größen)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tactel polyamid dış kumaş, omuz ve dirseklerde Hitena takviye, streç paneller, çıkarılabilir Humax membran + termal astar, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (çıkarılabilir)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kollar ve sırtta havalandırma fermuarları",
+      "closure": "Ön fermuar, Flexi-Snap boyun ayarı, kalça/bel/kol ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah",
+      "Taş gri / Koyu gri / Siyah",
+      "Açık gri / Gri",
+      "Bordo / Mavi / Soğuk gri"
+    ],
+    "sizes": [
+      "DXS",
+      "DS",
+      "DM",
+      "DL",
+      "DXL",
+      "D2XL",
+      "D3XL",
+      "D4XL",
+      "D5XL",
+      "DKXL",
+      "DK2XL",
+      "DK3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Laminat mont ile çıkarılabilir membranlı mont arasındaki fark nedir?",
+        "a": "Laminat yapıda membran dış kumaşa yapışıktır; kumaş yağmurda su tutmaz ve hızlı kurur. Çıkarılabilir membranda dış kumaş ıslanır, membran içeride suyu durdurur."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "iXS, X-Stretch kumaşın 'Airbag Ready' olduğunu belirtiyor. Hangi airbag yeleğiyle uyumlu olduğu ürün sayfasında belirtilmiyor."
+      }
+    ],
+    "rivals": [
+      "buse/open-road-3-damen",
+      "dainese/mangen-absoluteshell-pro-lady",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "buyerInsights": null,
+    "slug": "tourster-stx-1-0-damen",
+    "brand": "ixs",
+    "name": "iXS Tourster-STX 1.0 Kadın Laminat Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Laminasyonlu solto-TEX membranlı, dikişleri bantlı, airbag hazır, EN 17092-3:2020 AA sınıfı ve Level 2 omuz/dirsek koruyuculu iXS kadın touring montu.",
+    "description": [
+      "Tourster-STX 1.0, İsviçreli iXS'in touring serisinin kadın kalıbı. Önemli fark membranın ayrı bir iç katman değil, dış kumaşa laminasyonlu olması: iki katlı ripstop ve 450D X-Stretch kumaş, solto-TEX membranla birleşik. Üretici dikişlerin tamamen bantlandığını, fermuarların ve cep fermuarlarının su geçirmez olduğunu belirtiyor; yani yağmurda dış kumaş su tutup ağırlaşmıyor. Önde ve arkada dört havalandırma açıklığı var.",
+      "Koruma tarafında mont EN 17092-3:2020 AA sınıfında; omuz ve dirsekte (dirsek yüksekliği ayarlı) EN 1621-1:2012 Level 2 impacTec koruyucular standart. Sırt (EN 1621-2 Level 2) ve bölünmüş göğüs (EN 1621-3 Level 1) koruyucuları için cep hazır ama ürün dahil değil. iXS, X-Stretch kumaşın airbag yeleğiyle kullanıma uygun olduğunu söylüyor. Üst kol, manşet ve bel G-kanca ve büzgüyle ayarlanıyor; standart bedenlerin yanında kısa boylu sürücüler için 'kurz' bedenler de sunuluyor."
+    ],
+    "forWho": [
+      "Yağmurda da sürüşe devam etmek isteyen, laminat membran konforu arayan kadın touring sürücüleri",
+      "İleride airbag yeleği kullanmayı düşünenler",
+      "Kısa boylu olduğu için standart bedenlerde kol ve gövde boyu uzun gelenler (kısa beden seçeneği)"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı şehir içi kullanıcılar",
+      "Sıcak yaz ortasında file mont serinliği bekleyenler"
+    ],
+    "pros": [
+      "Laminat solto-TEX membran, bantlı dikişler ve su geçirmez fermuarlar",
+      "EN 17092-3:2020 AA ve Level 2 omuz/dirsek",
+      "Airbag hazır streç kumaş",
+      "Kısa boy bedenler (DKXL–DK3XL) mevcut"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu standart değil",
+      "Termal astar belirtilmiyor; soğukta ara katman gerekir",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı",
+      "Resmi kadın beden tablosu cm olarak doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; laminat yapı sayesinde ani yağmurda bile kuru kalırsınız.",
+      "uzunYol": "Ana hedef; uzun bağlantı fermuarlı Tourster-STX kadın pantolonla takım olarak tasarlanmış.",
+      "yaz": "Dört havalandırma açıklığı ılık havada işe yarar, ancak laminat mont çok sıcakta file kadar serin değildir.",
+      "kis": "Termal astar bilgisi yok; soğukta altına polar veya termal katman giyilmeli.",
+      "yagmur": "Güçlü olduğu alan: laminat membran, bantlı dikiş ve su geçirmez fermuarlar.",
+      "sport": "Touring kalıp; sport sürüşe yönelik değil.",
+      "kurye": "Yağmurlu iş günlerinde rahat ama fiyatı ve touring yapısı kurye için fazla."
+    },
+    "verdict": "Tourster-STX 1.0 kadın, laminat membran ve AA sınıfını bir araya getirdiği için her havada sürmek isteyen kadın touring sürücüsü için güçlü bir seçenek. Sırt koruyucunun ayrıca alınması ve termal astar olmaması hesaba katılmalı. Türkiye'de satış noktası doğrulanamadı.",
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-damen-tourster-stx-1-0-laminatjacke-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-damen-tourster-stx-1-0-laminatjacke-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Damen Tourster-STX 1.0 Laminatjacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "2 katlı ripstop ve 450D X-Stretch polyester dış kumaş, laminasyonlu solto-TEX membran, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "solto-TEX (laminasyonlu)",
+      "airbagCompatible": true,
+      "ventilation": "Önde ve arkada 4 ayarlanabilir havalandırma açıklığı",
+      "closure": "Su geçirmez fermuarlar, üst kol/manşet/bel G-kanca ve büzgü ayarı, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001072-inferno-kadin/",
+        "price": 7055,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 7055,
+      "max": 7055,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tex Motor resmi sitesindeki liste fiyatı; sitede online satış yok, bayilerde fiyat değişebilir."
+    },
+    "colors": [
+      "Siyah",
+      "Beyaz"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.ceClass",
+      "sizeChart",
+      "sizes"
+    ],
+    "faq": [
+      {
+        "q": "Inferno montu yazın kullanılabilir mi?",
+        "a": "Evet. Yağmurluk ve kapitone içlik çıkarıldığında dış katman file yapıda; sıcak havada hava akışı sağlar."
+      },
+      {
+        "q": "Nereden satın alınır?",
+        "a": "Tex Motor kendi sitesinde online satış yapmıyor; mağazalar ve online satış yapan bayiler üzerinden satılıyor."
+      }
+    ],
+    "rivals": [
+      "scudo/lyon-kadin",
+      "scudo/paris-kadin",
+      "buse/open-road-3-damen"
+    ],
+    "buyerInsights": null,
+    "slug": "forte-gt-inferno-kadin",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001072 Inferno Kadın Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Tex Motor'un Forte GT markasıyla Türkiye'de ürettiği, file dış katman, çıkarılabilir yağmurluk ve kapitone içlikten oluşan üç katmanlı, EN 17092-4:2020 sertifikalı kadın montu.",
+    "description": [
+      "Inferno, Forte GT'nin kadın kalıplı dört mevsim montu. Üç katmanlı bir sistem: hava alan file dış katman, suya ve rüzgâra dayanıklı çıkarılabilir yağmurluk ve soğuk günler için çıkarılabilir termal kapitone içlik. Katmanlar ayrı ayrı veya birlikte kullanılabiliyor; bu yapı yazın file mont gibi, kışın ise kapalı mont gibi kullanılmasını sağlıyor. Dış kumaşta ripstop dokuma ve reflektif şeritler var.",
+      "Tex Motor montun EN 17092-4:2020 standardına göre üretildiğini, omuz, dirsek ve sırtta EN 1621 standardına uygun darbe emici korumalar bulunduğunu belirtiyor; koruyucu seviyesi ve EN 1621'in hangi bölümü olduğu sayfada yazmıyor. Bel, kol ve bilekte ayar detayları var ve ürün Türkiye'de üretiliyor. Üretici web sitesinde online satış yapmıyor, fiyatı liste fiyatı olarak gösteriyor; satın alma bayiler üzerinden."
+    ],
+    "forWho": [
+      "Tek montla yaz-kış sürmek isteyen, bütçesi sınırlı kadın sürücüler",
+      "Yerli üretim ve yaygın bayi ağı tercih edenler",
+      "Şehir içi günlük kullanım ve kısa turlar"
+    ],
+    "notFor": [
+      "AA veya AAA sınıfı koruma arayanlar",
+      "Ciddi yağmurda uzun süre sürenler: yağmurluk katmanı 'suya dayanıklı' olarak tanımlanıyor, tam su geçirmez değil"
+    ],
+    "pros": [
+      "File dış katman + çıkarılabilir yağmurluk + kapitone içlik ile gerçek dört mevsim kullanım",
+      "EN 17092-4:2020 sertifikalı, omuz/dirsek/sırt koruması dahil",
+      "Türkiye'de üretim, uygun liste fiyatı",
+      "Bel, kol ve bilekte ayar"
+    ],
+    "cons": [
+      "Koruyucu seviyesi ve EN 1621 bölümü belirtilmiyor",
+      "Yağmurluk katmanı su geçirmez değil, 'suya dayanıklı'",
+      "Üretici sitesinde online satış yok; bayilerde fiyat farklı olabilir",
+      "Resmi beden tablosu bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; katmanları mevsime göre ayarlayarak yıl boyu kullanılabilir.",
+      "uzunYol": "Kısa turlar için uygun; A sınıfı ve 'suya dayanıklı' yağmurluk uzun yol için sınırlı.",
+      "yaz": "İç katmanlar çıkarıldığında file dış katman sıcak havada hava aldırır.",
+      "kis": "Yağmurluk ve kapitone içlik birlikte takıldığında serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "Kısa yağmurda idare eder; uzun sağanakta ayrı bir yağmurluk gerekir.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "kurye": "Fiyatı ve yıl boyu kullanılabilmesiyle kurye için mantıklı; sertifika seviyesi A sınıfı."
+    },
+    "verdict": "Inferno, tek montla dört mevsimi geçirmek isteyen kadın sürücüye yerli üretim ve uygun fiyatla sertifikalı bir seçenek sunuyor. File dış katman ile katmanlı yapı yaz-kış esneklik sağlıyor. Koruyucu seviyesinin belirtilmemesi ve yağmur katmanının tam su geçirmez olmaması bilinçli alınması gereken eksikler.",
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001072-inferno-kadin/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001072-inferno-kadin/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001072 Inferno Kadın Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Ripstop dokumalı file dış katman, çıkarılabilir yağmurluk (membranlı), çıkarılabilir kapitone termal içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": "Çıkarılabilir yağmurluk katmanı (suya dayanıklı)",
+      "airbagCompatible": null,
+      "ventilation": "File dış katman",
+      "closure": "Bel, kol ve bilekte ayar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-t-dyno-air-korumali-kadin-motosiklet-montu-siyah-/-kirmizi",
+        "price": 22320,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "XS"
+        ],
+        "colors": [
+          "Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 22320,
+      "max": 22320,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "colors": [
+      "Black",
+      "Black Bright Red Fuchsia"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Stella T-Dyno Air kalıbı nasıl?",
+        "a": "Alpinestars kadın vücuduna göre özel kesildiğini, boyunun kısa bir biker kesim olduğunu ve belde ayar elemanları bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Üretici CE A sınıfı sertifikalı olduğunu belirtiyor; omuz ve dirseklerde Nucleon Flex Plus Level 1 koruyucular var."
+      }
+    ],
+    "rivals": [
+      "scudo/paris-kadin",
+      "held/sonic-2-lady",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "buyerInsights": null,
+    "slug": "stella-t-dyno-air",
+    "brand": "alpinestars",
+    "name": "Alpinestars Stella T-Dyno Air",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Vintage çizgili, kısa boylu biker kesimli, omuz ve kollarda 3D fileli, CE A sınıfı ve Level 1 omuz/dirsek koruyuculu Alpinestars kadın yaz montu.",
+    "description": [
+      "Stella T-Dyno Air, Alpinestars'ın klasik Dyno deri montundan esinlenen tekstil modelin kadın ve havalandırmalı versiyonu. Üretici kalıbın kadın vücuduna göre özel olarak kesildiğini, boyu kısa bir 'biker' kesim olduğunu ve belde ayar elemanlarıyla daha oturan bir form verilebildiğini belirtiyor. Gövde 450D polyester; omuz üstü ve kollarda geniş 3D file paneller, sırt omuz bölgesi ve koltuk altlarında streç paneller, manşetlerde sentetik deri detaylar var.",
+      "Mont CE A sınıfı sertifikalı; omuz ve dirseklerde Nucleon Flex Plus Level 1 koruyucular standart. Sırt koruyucusu ürün sayfasında belirtilmiyor. İçte su geçirmez bir cep, önde fermuarlı cepler ve pantolon bağlantı halkaları var. Su geçirmezlik iddiası yok. Kısa kesim şehirde ve naked motosiklette şık durur, ancak dik oturuşta bel bölgesinin açılma ihtimali daha yüksektir."
+    ],
+    "forWho": [
+      "Yazın şehirde ve naked/neo-retro motosiklette şık görünümlü korumalı mont isteyen kadın sürücüler",
+      "Kısa boylu, vücuda oturan kesimi seven sürücüler",
+      "Bilinen bir marka ve Türkiye'de yetkili satıcı arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda veya serin havada aynı montla sürmek isteyenler",
+      "Uzun yol ve yüksek hızda AA sınıfı koruma arayanlar"
+    ],
+    "pros": [
+      "Kadın vücuduna göre kesim ve belde ayar",
+      "Omuz ve kollarda geniş 3D file, sıcakta hava akışı",
+      "CE A sınıfı ve Level 1 omuz/dirsek koruyucu standart",
+      "Türkiye'de Motomax üzerinden satılıyor"
+    ],
+    "cons": [
+      "Su geçirmez değil, termal astar yok",
+      "Sırt koruyucu bilgisi yok, ayrıca alınması gerekebilir",
+      "Kısa kesim dik oturuşta beli açıkta bırakabilir",
+      "Koruyucular Level 1"
+    ],
+    "usage": {
+      "sehir": "En uygun olduğu alan; günlük kıyafete yakın görünümü ile şehirde rahat.",
+      "uzunYol": "Yaz turunda giyilebilir ama yağmur koruması yok ve cep kapasitesi sınırlı.",
+      "yaz": "Omuz ve kollardaki 3D file sayesinde sıcak havaya göre tasarlanmış.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; yalnızca iç cep su geçirmez.",
+      "sport": "Sportif sürüş için değil; şehir/retro kullanımına yönelik.",
+      "kurye": "Yazın kullanılabilir ama fiyatı ve şehir odaklı kesimi kurye için gereksiz pahalı."
+    },
+    "verdict": "Stella T-Dyno Air, yazın şehirde şık görünmek ve korumadan vazgeçmemek isteyen kadın sürücüye hitap ediyor. Kadın kalıbı ve file paneller güçlü yanları; Level 1 koruyucular, sırt koruyucu bilgisi olmaması ve yağmur korumasının bulunmaması sınırları. Türkiye fiyatı yerli yaz montlarının yaklaşık iki katı.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-t-dyno-air-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-t-dyno-air-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella T-Dyno Air Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-t-dyno-air-korumali-kadin-motosiklet-montu-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Stella T-Dyno Air Siyah/Kırmızı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "450D polyester, omuz üstü ve kollarda 3D file, streç paneller, manşetlerde sentetik deri",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Omuz üstü (yoke) ve kollarda geniş 3D file paneller",
+      "closure": "Ön fermuar, belde ayar elemanları, pantolon bağlantı halkaları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "Mototas",
+        "url": "https://www.mototas.com.tr/dainese-mangen-absoluteshell-pro-jacket-wmn-blkblk-38--38717",
+        "price": 45590,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "38"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 45590,
+      "max": 45590,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı tek çekim fiyatı; havale ile 43.310 TL."
+    },
+    "colors": [
+      "Black/Black",
+      "Dark Sea/Black"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Smart Air airbag ile kullanmak için bir beden büyük almak gerekir mi?",
+        "a": "Dainese, montun Smart Air sistemi içte giyildiğinde de doğru oturacak şekilde tasarlandığını ve bir beden büyük almaya gerek olmadığını belirtiyor."
+      },
+      {
+        "q": "Yazın kullanılır mı?",
+        "a": "Göğüs, sırt ve kollarda havalandırma var ama üretici montu düşük sıcaklıktan ılıman havaya kadar konumlandırıyor; sıcak yaz günleri için tasarlanmamış."
+      }
+    ],
+    "rivals": [
+      "ixs/tourster-stx-1-0-damen",
+      "buse/open-road-3-damen",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "buyerInsights": null,
+    "slug": "mangen-absoluteshell-pro-lady",
+    "brand": "dainese",
+    "name": "Dainese Mangen Absøluteshell Pro Kadın",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Mugello streç kumaşa laminasyonlu Absøluteshell Pro membran, çıkarılabilir termal astar, EN 17092 AA sınıfı ve Smart Air uyumu olan Dainese kadın adventure-touring montu.",
+    "description": [
+      "Mangen Absøluteshell Pro WMN, Dainese'nin hem asfalt hem toprak yolda uzun tur için tasarladığı kadın montu. Dış kumaş esnek Mugello kumaş, su geçirmez Absøluteshell Pro membran kumaşa laminasyonlu; bu yüzden mont ıslandığında hızlı kuruyor. Üretici montun soğuk havadan ılıman iklime kadar kullanım için tasarlandığını, göğüs, sırt ve kollardaki havalandırmalar ile tek başına da giyilebilen çıkarılabilir termal astar sayesinde kışın ve ılıman havada rahat ettirdiğini belirtiyor.",
+      "Kadın vücuduna yönelik ayarlar dikkat çekiyor: kalçada ve göğüste hacim genişleten fermuarlar, yaka, bel, kol ve manşet ayarı. Mont EN 17092 AA sınıfında; omuz ve dirseklerde EN 1621-1 Level 2 Pro-Armor koruyucular standart, G tipi sırt ve iki parça göğüs koruyucusu için cepler var. Dainese, montun Smart Air airbag sistemi içte giyilerek de doğru oturacak şekilde tasarlandığını, bu yüzden bir beden büyük almaya gerek olmadığını söylüyor."
+    ],
+    "forWho": [
+      "Serin ve yağışlı havada uzun tur yapan, adventure motosiklet kullanan kadın sürücüler",
+      "Dainese Smart Air airbag kullanan veya kullanmayı planlayanlar",
+      "Kalça ve göğüs ölçüsü standart kalıplara uymayan, hacim ayarı isteyenler"
+    ],
+    "notFor": [
+      "Sıcak yaz ortasında şehir içi kullanım arayanlar",
+      "Bütçesi orta seviyede olanlar: Türkiye fiyatı yerli montların dört katından fazla"
+    ],
+    "pros": [
+      "Laminat Absøluteshell Pro membran; ıslanınca hızlı kuruyor",
+      "EN 17092 AA ve Level 2 omuz/dirsek",
+      "Kalça ve göğüste hacim fermuarları, kapsamlı ayar",
+      "Smart Air airbag ile beden büyütmeden kullanılabiliyor"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu standart değil",
+      "Türkiye'de fiyatı çok yüksek",
+      "Sıcak yaz günleri için tasarlanmamış",
+      "Mototas, bir beden büyük alınmasını öneriyor; beden seçimi denemeyle yapılmalı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure yapısı ve fiyatı şehir içi için fazla.",
+      "uzunYol": "Güçlü olduğu alan; laminat membran, havalandırmalar ve bol cep uzun tur için.",
+      "yaz": "Havalandırmalar ılık havada yardımcı olur; Türkiye yazının sıcak günlerinde laminat mont terletir.",
+      "kis": "Termal astar ve laminat membranla soğuk günlerde güçlü.",
+      "yagmur": "Laminat membran sayesinde yağmurda dış kumaş su tutmaz.",
+      "sport": "Sport değil; adventure-touring kalıbı.",
+      "kurye": "Kurye kullanımı için gereksiz pahalı."
+    },
+    "verdict": "Mangen Absøluteshell Pro WMN, soğuk ve yağışlı havada uzun tur yapan kadın sürücü için üst segment bir seçenek: laminat membran, AA sınıfı ve kalça/göğüs ayarları güçlü yanları. Yüksek Türkiye fiyatı ve sırt koruyucunun ayrıca alınması hesaba katılmalı. Sıcak iklimde yazlık ikinci bir mont gerekecektir.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/mangen-absoluteshell-pro---womens-touring-motorcycle-jacket-201650001476N.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/mangen-absoluteshell-pro---womens-touring-motorcycle-jacket-201650001476N.html",
+        "type": "manufacturer",
+        "label": "Dainese – Mangen Absøluteshell Pro Women's Touring Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-mangen-absoluteshell-pro-jacket-wmn-blkblk-38--38717",
+        "type": "retailer",
+        "label": "Mototas – Dainese Mangen Absøluteshell Pro Kadın Mont",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Mugello streç kumaş, laminasyonlu Absøluteshell Pro membran, çıkarılabilir termal astar, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Absøluteshell Pro (laminasyonlu)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2, sırtta ve kollarda havalandırma",
+      "closure": "Ön fermuar, yaka/bel/kol/manşet ayarı, kalça ve göğüste hacim fermuarları, mont-pantolon bağlantı sistemi",
+      "madeIn": null
+    }
+  }
+]

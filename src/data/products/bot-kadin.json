@@ -1,0 +1,238 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "37",
+      "38",
+      "40"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Yükseltilmiş taban ne kadar?",
+        "a": "Büse iç ve dış tabanın toplam yaklaşık 6 cm yükseltildiğini belirtiyor."
+      },
+      {
+        "q": "Bot su geçirmez mi?",
+        "a": "Evet, üretici su ve rüzgâr geçirmez, nefes alan bir iklim membranı kullanıldığını belirtiyor."
+      }
+    ],
+    "rivals": [
+      "ixs/tour-comfort-high-damen",
+      "held/montaro-wp",
+      "alpinestars/stella-faster-3-rideknit"
+    ],
+    "buyerInsights": null,
+    "slug": "d20-damen",
+    "brand": "buse",
+    "name": "Büse D20 Kadın Touring Bot",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Hakiki sığır derisi, iklim membranlı, içten ve dıştan toplam 6 cm yükseltilmiş tabanlı, baldır genişliği ayarlı, EN 13634:2017 sertifikalı Büse kadın touring botu.",
+    "description": [
+      "D20, Büse'nin kadın touring botu ve en dikkat çekici özelliği tabanı: üretici iç ve dış tabanın toplamda yaklaşık 6 cm yükseltildiğini belirtiyor. Kısa boylu sürücülerin ayağını yere daha rahat basmasına yardım eden bu çözüm, kadın sürücülerin sık yaşadığı bir sorunu doğrudan hedefliyor. Konç yüksekliği 39 numarada yaklaşık 23 cm; baldır genişliği ayarlı, bu da kalın baldırlarda bile kapanmayı kolaylaştırıyor.",
+      "Gövde hakiki sığır derisi; su ve rüzgâr geçirmez, nefes alan bir iklim membranı ve file astar var. Kaval, ayak bileği, burun ve topukta takviye, vites pedalı bölgesinde koruma, deri kapaklı fermuar ve topukta reflektör bulunuyor. Taban kesilmeye dayanıklı ve takviyeli. Büse'nin uygunluk beyanına göre bot EN 13634:2017'ye göre sertifikalı; performans seviyeleri sayfada belirtilmiyor."
+    ],
+    "forWho": [
+      "Kısa boylu olup motosiklette ayağı yere zor basan kadın sürücüler",
+      "Kalın baldırı nedeniyle uzun botlarda kapanma sorunu yaşayanlar",
+      "Yağmurlu havada touring yapanlar"
+    ],
+    "notFor": [
+      "Sportif sürüş ve pist için burulma kontrollü bot arayanlar",
+      "Yürümeye uygun, sneaker tarzı ayakkabı isteyenler"
+    ],
+    "pros": [
+      "Toplam yaklaşık 6 cm yükseltilmiş taban",
+      "Baldır genişliği ayarı",
+      "Su geçirmez iklim membranı",
+      "EN 13634:2017 sertifikalı, kaval/bilek/burun/topuk takviyeli"
+    ],
+    "cons": [
+      "EN 13634 performans seviyeleri belirtilmiyor",
+      "Yükseltilmiş taban yürürken ve vites/fren hissinde alışma gerektirir",
+      "Sınırlı numara stoğu (sayfada 37, 38, 40)",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; yükseltilmiş taban trafikte ayak basmayı kolaylaştırır, uzun yürüyüş için ideal değil.",
+      "uzunYol": "Asıl hedefi; membran ve konç yüksekliği tur için uygun.",
+      "yaz": "Deri ve membranlı yapı sıcakta terletir.",
+      "kis": "Membran rüzgârı ve suyu keser; serin havada uygun.",
+      "yagmur": "İklim membranı ile su geçirmez.",
+      "sport": "Sportif sürüş için değil.",
+      "kurye": "Dayanıklı ama yükseltilmiş taban sık inip binmede alışma ister."
+    },
+    "verdict": "D20, kısa boylu kadın sürücülerin yaşadığı ayak basma sorununa doğrudan çözüm getiren nadir touring botlarından biri. Membran, baldır ayarı ve sertifika güçlü yanları; performans seviyelerinin belirtilmemesi ve Türkiye'de satış noktası bulunmaması eksikleri.",
+    "manufacturerUrl": "https://www.buese.com/de/buese-d20-touringstiefel-damen-bu50200",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-d20-touringstiefel-damen-bu50200",
+        "type": "manufacturer",
+        "label": "Büse – D20 Touringstiefel Damen ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://s.buese.com/ce/CE-50200-9381.pdf",
+        "type": "manufacturer",
+        "label": "Büse – D20 touring boot ladies AB uygunluk beyanı (EN 13634:2017)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Hakiki sığır derisi, iklim membranı, file astar, kesilmeye dayanıklı yükseltilmiş taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "İklim membranı (marka belirtilmemiş)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Deri kapaklı fermuar, baldır genişlik ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "faq": [
+      {
+        "q": "Comfort-High su geçirmez mi?",
+        "a": "Evet, iXS solto-TEX membran (Z-liner) ile su ve rüzgâr geçirmez olduğunu belirtiyor."
+      },
+      {
+        "q": "Kalın baldırlar için uygun mu?",
+        "a": "Baldırda cırtlı kapanış ve genişlik ayarı var; yine de baldır çevresi ölçüsü verilmediği için denemek en sağlıklısı."
+      }
+    ],
+    "rivals": [
+      "buse/d20-damen",
+      "held/montaro-wp",
+      "alpinestars/stella-faster-3-rideknit"
+    ],
+    "buyerInsights": null,
+    "slug": "tour-comfort-high-damen",
+    "brand": "ixs",
+    "name": "iXS Tour Comfort-High Kadın Bot",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Tam tahıllı sığır derisi, solto-TEX membranlı su geçirmez, yükseltilmiş topuk ve burunlu, baldırda cırt ayarlı, EN 13634:2017 sertifikalı iXS kadın touring botu.",
+    "description": [
+      "Comfort-High, iXS'in her hava için optimize edildiğini söylediği klasik uzun konçlu kadın touring botu. Gövde tam tahıllı (full-grain) sığır derisi; içte su, rüzgâr geçirmez ve nefes alan solto-TEX membran (Z-liner) ve tekstil astar var. Topuk ve burun bölgesi yükseltilmiş; bu da kısa boylu sürücülerin yere basmasına bir miktar yardımcı oluyor, ancak üretici yükseklik değeri vermiyor.",
+      "İç tarafta fermuar, baldırda cırtlı kapanış ve genişlik ayarı, ön ayak ve topukta körük tipi streç bölgeler, ön ayakta deri yastık (vites bölgesi) ve reflektif elemanlar bulunuyor. Dış taban kauçuk. Bot EN 13634:2017'ye göre sertifikalı; performans seviyeleri ürün sayfasında belirtilmiyor. Sert burulma koruması olan bir sport bot değil, konfor odaklı bir touring botu."
+    ],
+    "forWho": [
+      "Yağmurlu havada uzun tur yapan kadın sürücüler",
+      "Baldır ayarlı, giymesi kolay klasik görünümlü bot isteyenler",
+      "Gün boyu giyilecek konforlu bir bot arayanlar"
+    ],
+    "notFor": [
+      "Sportif ve pist sürüşü yapanlar",
+      "Kısa, sneaker tarzı şehir ayakkabısı tercih edenler"
+    ],
+    "pros": [
+      "solto-TEX membran ile su geçirmez",
+      "Baldırda cırtlı genişlik ayarı ve iç fermuar",
+      "Körüklü streç bölgeler yürürken konfor sağlıyor",
+      "EN 13634:2017 sertifikalı"
+    ],
+    "cons": [
+      "Performans seviyeleri ve koruyucu detayları belirtilmiyor",
+      "Yükseltilmiş taban miktarı verilmiyor",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Sıcak yaz günlerinde deri ve membran terletir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; körüklü bölgeler yürüyüşü kolaylaştırır.",
+      "uzunYol": "Asıl hedef; her hava için tasarlanmış.",
+      "yaz": "Sıcakta terletir.",
+      "kis": "Membran ile serin ve yağışlı havada uygun.",
+      "yagmur": "solto-TEX membran ile su geçirmez.",
+      "sport": "Sportif sürüş için değil.",
+      "kurye": "Konforlu ve su geçirmez; uzun konç sık inip binmede biraz zahmetli olabilir."
+    },
+    "verdict": "Comfort-High, adı gibi konfor ve hava koruması odaklı bir kadın touring botu. Su geçirmez membran ve baldır ayarı güçlü yanları; koruma seviyelerinin belirtilmemesi ve Türkiye'de satış noktası bulunamaması eksikleri. Sportif kullanım için tasarlanmamış.",
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-tour-damen-stiefel-comfort-high-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-tour-damen-stiefel-comfort-high-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Tour Damen Stiefel Comfort-High ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tam tahıllı sığır derisi, solto-TEX membran, tekstil astar, kauçuk dış taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "solto-TEX (Z-liner)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İç fermuar, baldırda cırtlı kapanış ve genişlik ayarı",
+      "madeIn": null
+    }
+  }
+]

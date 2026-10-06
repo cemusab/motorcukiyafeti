@@ -216,7 +216,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
         </div>
       </Container>
 
-      <nav aria-label="Sayfa bölümleri" className="sticky top-16 z-20 mt-10 border-y border-line bg-white/95 backdrop-blur lg:top-[112px]">
+      <nav aria-label="Sayfa bölümleri" className="sticky top-16 z-20 mt-10 border-y border-line bg-white/95 backdrop-blur lg:top-[132px]">
         <Container className="flex gap-1 overflow-x-auto [scrollbar-width:none]">
           {sections.map(([h, l]) => (
             <a key={h} href={`#${h}`} className="shrink-0 px-3 py-3 text-sm font-semibold whitespace-nowrap text-mute hover:text-red">
