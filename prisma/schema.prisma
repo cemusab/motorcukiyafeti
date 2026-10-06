@@ -60,3 +60,15 @@ model HelmetIntercomCompatibility {
   
   helmet      Product  @relation(fields: [productId], references: [id])
 }
+
+model Article {
+  id        String   @id @default(uuid())
+  slug      String   @unique
+  title     String
+  content   String
+  excerpt   String
+  imageUrl  String?
+  author    String   @default("MotorcuKiyafeti Editörü")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
