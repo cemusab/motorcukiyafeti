@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MotorcuKiyafeti – Doğru ekipman, daha güvenli sürüş</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f6f5f3;--surface:#fff;--ink:#16181c;--mute:#5d636d;--line:#dcdad5;--red:#d62828;--red-ink:#fff;--dark:#14161a;--dark-ink:#f2f2f0;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1114;--surface:#181b20;--ink:#eeeeec;--mute:#9aa0aa;--line:#2a2e35;--dark:#0a0b0d}}
+:root[data-theme="dark"]{--bg:#0f1114;--surface:#181b20;--ink:#eeeeec;--mute:#9aa0aa;--line:#2a2e35;--dark:#0a0b0d}
+html{scroll-behavior:smooth;scroll-padding-top:calc(110px + env(safe-area-inset-top,0px))}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 Barlow,system-ui,-apple-system,Segoe UI,sans-serif}
+h1,h2,h3{font-family:"Barlow Condensed","Arial Narrow",Impact,sans-serif;line-height:1.05;margin:0}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;z-index:20;background:var(--dark);color:var(--dark-ink);padding-top:env(safe-area-inset-top,0px)}
+.bar{display:flex;align-items:center;gap:16px;height:56px}
+.logo{font:700 24px "Barlow Condensed",sans-serif;text-decoration:none;letter-spacing:.2px}
+.logo b{color:var(--red)}
+nav{overflow-x:auto;border-top:1px solid #2a2e35;scrollbar-width:none}
+nav ul{display:flex;gap:4px;list-style:none;margin:0;padding:0 20px;max-width:1120px;margin-inline:auto}
+nav a{display:block;padding:10px 12px;text-decoration:none;font-weight:600;white-space:nowrap;color:#d0d3d8}
+nav a:hover{color:#fff;box-shadow:inset 0 -3px var(--red)}
+.hero{background:linear-gradient(115deg,#0a0b0d 40%,#2b0d0f);color:var(--dark-ink);padding:56px 0 48px}
+.hero h1{font-size:clamp(40px,8vw,84px);font-weight:700;max-width:12ch}
+.hero p{max-width:52ch;color:#c6c9ce;font-size:18px;margin:16px 0 24px}
+.search{position:relative;max-width:560px}
+.search input{width:100%;height:52px;border:0;border-radius:6px;padding:0 16px;font:inherit;font-size:17px;background:#fff;color:#16181c}
+#results{position:absolute;left:0;right:0;top:56px;background:var(--surface);color:var(--ink);border-radius:6px;box-shadow:0 12px 32px rgba(0,0,0,.35);overflow:hidden;z-index:5}
+#results button{display:flex;justify-content:space-between;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);padding:12px 16px;font:inherit;color:inherit;cursor:pointer}
+#results button:hover,#results button:focus-visible{background:var(--bg)}
+#results small{color:var(--mute)}
+section{padding:48px 0}
+h2{font-size:clamp(30px,5vw,44px);font-weight:700;margin-bottom:8px}
+.lead{color:var(--mute);max-width:60ch;margin:0 0 24px}
+.wizard{background:var(--dark);color:var(--dark-ink);border-radius:10px;padding:28px}
+.wizard .lead{color:#b4b8bf}
+.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:20px}
+label{display:block;font-weight:600;font-size:14px;margin-bottom:6px}
+select{width:100%;height:46px;border-radius:6px;border:1px solid #3a3f47;background:#fff;color:#16181c;padding:0 10px;font:inherit}
+.btn{background:var(--red);color:var(--red-ink);border:0;border-radius:6px;height:48px;padding:0 22px;font:600 16px Barlow,sans-serif;cursor:pointer}
+.btn:hover{filter:brightness(1.1)}
+#setOut{margin-top:24px}
+.set{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.item{background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:16px}
+.item h3{font-size:24px;display:flex;justify-content:space-between;gap:8px}
+.item h3 span{color:var(--red);font-size:20px}
+.item p{margin:6px 0 0;font-size:15px;color:var(--mute)}
+.note{font-size:14px;color:#b4b8bf;margin-top:14px}
+.cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.cat{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;text-align:left;font:600 20px "Barlow Condensed",sans-serif;color:var(--ink);cursor:pointer}
+.cat[aria-expanded="true"]{border-color:var(--red);box-shadow:inset 0 -4px var(--red)}
+#catPanel{margin-top:16px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:20px}
+#catPanel h3{font-size:28px;margin-bottom:6px}
+#catPanel ul{columns:2 200px;margin:12px 0 0;padding-left:18px}
+.guides details{background:var(--surface);border:1px solid var(--line);border-radius:8px;margin-bottom:10px}
+.guides summary{padding:16px 18px;font:600 22px "Barlow Condensed",sans-serif;cursor:pointer}
+.guides details>div{padding:0 18px 18px;max-width:70ch;color:var(--mute)}
+.guides details[open]{border-color:var(--red)}
+footer{background:var(--dark);color:#b4b8bf;padding:32px 0;font-size:14px}
+footer a{color:#fff}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="#top">Motorcu<b>Kiyafeti</b></a>
+  </div>
+  <nav aria-label="Ana menü"><ul>
+    <li><a href="#kategoriler" data-cat="Kask">Kask</a></li>
+    <li><a href="#kategoriler" data-cat="Mont">Mont</a></li>
+    <li><a href="#kategoriler" data-cat="Pantolon">Pantolon</a></li>
+    <li><a href="#kategoriler" data-cat="Eldiven">Eldiven</a></li>
+    <li><a href="#kategoriler" data-cat="Bot">Bot</a></li>
+    <li><a href="#kategoriler" data-cat="İnterkom">İnterkom</a></li>
+    <li><a href="#kategoriler" data-cat="Koruma">Koruma</a></li>
+    <li><a href="#yeni-motor">Yeni başlayanlar</a></li>
+    <li><a href="#rehberler">Rehberler</a></li>
+  </ul></nav>
+</header>
+
+<main id="top">
+<div class="hero"><div class="wrap">
+  <h1>Doğru ekipman. Daha güvenli sürüş.</h1>
+  <p>Motosiklet ekipmanı hakkında bilmen gerekenler tek yerde. Motorunu ve kullanımını söyle, sana uygun seti çıkaralım.</p>
+  <div class="search">
+    <label for="q" class="sr" style="position:absolute;left:-9999px">Ara</label>
+    <input id="q" type="search" placeholder="Kask, mont, interkom ya da rehber ara" autocomplete="off">
+    <div id="results" hidden></div>
+  </div>
+</div></div>
+
+<section id="yeni-motor"><div class="wrap">
+  <div class="wizard">
+    <h2>Yeni motor aldım, ne almalıyım?</h2>
+    <p class="lead">Dört soruyu yanıtla, ihtiyacın olan ekipmanları ve her birine ayırman gereken yaklaşık bütçe payını gör.</p>
+    <div class="fields">
+      <div><label for="w-tur">Motosiklet türü</label><select id="w-tur"><option>Scooter</option><option selected>Naked</option><option>Sport</option><option>Adventure</option><option>Touring</option><option>Cruiser</option><option>Enduro / Cross</option></select></div>
+      <div><label for="w-kul">Kullanım</label><select id="w-kul"><option>Şehir içi</option><option>Günlük işe gidiş</option><option>Hafta sonu</option><option>Uzun yol</option><option>Performans</option><option>Off-road</option></select></div>
+      <div><label for="w-mev">Mevsim</label><select id="w-mev"><option>Yaz</option><option>Kış</option><option selected>4 mevsim</option></select></div>
+      <div><label for="w-but">Bütçe</label><select id="w-but"><option>Ekonomik</option><option selected>Orta</option><option>Premium</option></select></div>
+    </div>
+    <button class="btn" id="go" type="button">Bana özel seti göster</button>
+    <div id="setOut" aria-live="polite"></div>
+  </div>
+</div></section>
+
+<section id="kategoriler"><div class="wrap">
+  <h2>Kategoriler</h2>
+  <p class="lead">Bir kategori seç, alt türlerini gör. Ürün sayfaları, veriler kaynaklarıyla doğrulandıkça eklenecek.</p>
+  <div class="cats" id="cats"></div>
+  <div id="catPanel" hidden></div>
+</div></section>
+
+<section id="rehberler" class="guides"><div class="wrap">
+  <h2>Rehberler</h2>
+  <p class="lead">En çok sorulan sorular, kısa ve net cevaplarla.</p>
+  <details id="g-ece"><summary>ECE 22.06 nedir?</summary><div>Kasklar için Avrupa'da geçerli güncel güvenlik standardıdır. Eski 22.05'e göre daha fazla çarpma noktası ve dönme kuvvetini de içeren testler yapılır. Yeni bir kask alırken etiketinde 22.06 yazmasına bakmak iyi bir başlangıçtır.</div></details>
+  <details id="g-aa"><summary>AA ve AAA koruma farkı nedir?</summary><div>Motosiklet giysilerinde kullanılan EN 17092 standardında sınıflar sürtünme ve yırtılma dayanımını gösterir. AAA en yüksek koruma sınıfıdır, AA ve A daha hafif kullanıma yöneliktir. Sınıf yükseldikçe koruma artar, giysi genellikle ağırlaşır ve sıcak tutar.</div></details>
+  <details id="g-level"><summary>Level 1 ve Level 2 koruma farkı nedir?</summary><div>EN 1621 standardındaki omuz, dirsek ve diz koruyucularında Level 2, çarpma anında vücuda daha az kuvvet iletir. Level 1'e göre daha fazla koruma sağlar; çoğu zaman biraz daha kalın ve pahalıdır.</div></details>
+  <details id="g-kask"><summary>Kask nasıl seçilir?</summary><div>Önce kafa şekline ve bedene uyan, ECE 22.06 onaylı bir kask bul. Kask yüze sıkı oturmalı ama baskı yapmamalı; denerken birkaç dakika takılı bırakıp başını çevir. Kullanım türüne göre (şehir, uzun yol, adventure) kask tipi değişir.</div></details>
+  <details id="g-interkom"><summary>İnterkom nasıl seçilir?</summary><div>Kaskınla uyumlu montaj, kullanım amacın (tek kişi, çift, grup), batarya süresi ve su dayanıklılığı temel kriterlerdir. Uyumluluk bilgisini satın almadan önce üreticinin sayfasından doğrula.</div></details>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+  Bu sayfa bir prototiptir. Ürün, fiyat ve uyumluluk verileri henüz eklenmemiştir; eklendiğinde her kayıt için kaynak ve doğrulama tarihi gösterilecektir.
+</div></footer>
+
+<script>
+var CATS={
+"Kask":["Kapalı kask","Çene açılır kask","Modüler kask","Açık kask","Adventure kask","Cross / enduro kask","Touring kask","Racing kask","Kadın kaskları","Çocuk kaskları"],
+"Mont":["Yazlık mont","Kışlık mont","4 mevsim mont","Deri mont","Tekstil mont","Kadın montları"],
+"Pantolon":["Tekstil pantolon","Deri pantolon","Jean / kevlar pantolon","Yağmur pantolonu"],
+"Eldiven":["Yazlık eldiven","Kışlık eldiven","Sport eldiven","Touring eldiven","Adventure eldiven"],
+"Bot":["Şehir botu","Touring botu","Sport botu","Adventure botu","Cross botu"],
+"İnterkom":["Bluetooth interkom","Mesh interkom","Kask özel interkom","Aksesuar ve montaj"],
+"Koruma":["Sırt koruması","Omuz ve dirsek koruması","Diz koruması","Airbag yelek"],
+"Yağmurluk":["Tek parça yağmurluk","İki parça yağmurluk","Bot kılıfı"],
+"Termal":["Termal içlik","Boyunluk","Rüzgar kesici"],
+"Aksesuar":["Kask çantası","Vizör ve Pinlock","Kulak tıkacı"]};
+var q=function(s){return document.querySelector(s)};
+var cats=q('#cats'),panel=q('#catPanel');
+Object.keys(CATS).forEach(function(k){
+  var b=document.createElement('button');b.className='cat';b.type='button';b.textContent=k;b.setAttribute('aria-expanded','false');
+  b.onclick=function(){openCat(k)};cats.appendChild(b);
+});
+function openCat(k,scroll){
+  document.querySelectorAll('.cat').forEach(function(b){b.setAttribute('aria-expanded',b.textContent===k?'true':'false')});
+  panel.hidden=false;
+  panel.innerHTML='<h3>'+k+'</h3><p style="margin:0;color:var(--mute)">Bu kategorideki alt türler. Ürünler kaynaklı veriyle eklenecek.</p><ul>'+CATS[k].map(function(x){return'<li>'+x+'</li>'}).join('')+'</ul>';
+  if(scroll)q('#kategoriler').scrollIntoView();
+}
+document.querySelectorAll('nav a[data-cat]').forEach(function(a){a.addEventListener('click',function(){openCat(a.dataset.cat)})});
+
+var SET={
+kask:["Kask","ECE 22.06 onaylı, bedene tam oturan bir kask en önemli parçadır. Kafanı korur.",30],
+mont:["Mont","Düşmede omuz, dirsek ve sırtı korur. CE korumalı ve uygun sınıfta olmalı.",22],
+pant:["Pantolon","Bacak ve kalçayı sürtünmeden korur. Diz koruyucusu olanı seç.",13],
+eld:["Eldiven","Düşerken ilk elini yere koyarsın. Bilek ve avuç içi korumalı olmalı.",10],
+bot:["Bot","Bilek ve ayağı korur. Bileği kaplayan, sağlam tabanlı bir bot seç.",13],
+sirt:["Sırt koruması","Omurgayı korur. Montun içine takılabilen koruyucular var.",6],
+inter:["İnterkom","Uzun yolda navigasyon, müzik ve sürücüler arası iletişim için.",6],
+yag:["Yağmurluk","Islak havada konforu ve görüşü korur.",5],
+term:["Termal giyim","Soğukta üşümeyi önler; üşüyen sürücünün dikkati dağılır.",5]};
+q('#go').onclick=function(){
+  var tur=q('#w-tur').value,kul=q('#w-kul').value,mev=q('#w-mev').value,but=q('#w-but').value;
+  var keys=['kask','mont','pant','eld','bot'];
+  if(['Sport','Adventure','Touring','Enduro / Cross'].indexOf(tur)>-1||kul==='Performans'||kul==='Off-road')keys.push('sirt');
+  if(kul==='Uzun yol'||tur==='Touring')keys.push('inter');
+  if(mev!=='Yaz')keys.push('term');
+  if(mev!=='Kış'||kul!=='Hafta sonu')keys.push('yag');
+  var total=keys.reduce(function(s,k){return s+SET[k][2]},0);
+  var tip=but==='Ekonomik'?'Bütçen kısıtlıysa önce kask, eldiven ve botu al; bunlar en kritik parçalar.':but==='Premium'?'Premium bütçede daha hafif ve havalandırması iyi ürünlere yönelebilirsin.':'Orta bütçede kask ve montu ayrı ayrı öncelikle seç.';
+  q('#setOut').innerHTML='<h3 style="font-size:28px;margin-bottom:12px;color:#fff">'+tur+' · '+kul+' · '+mev+'</h3><div class="set">'+keys.map(function(k){
+    return'<div class="item"><h3>'+SET[k][0]+'<span>%'+Math.round(SET[k][2]/total*100)+'</span></h3><p>'+SET[k][1]+'</p></div>'}).join('')+'</div><p class="note">'+tip+' Yüzdeler genel bir bütçe dağılım önerisidir, kesin kural değildir.</p>';
+};
+
+var INDEX=[];
+Object.keys(CATS).forEach(function(k){INDEX.push({t:k,k:'Kategori',f:function(){openCat(k,true)}});CATS[k].forEach(function(s){INDEX.push({t:s,k:k,f:function(){openCat(k,true)}})})});
+document.querySelectorAll('.guides details').forEach(function(d){INDEX.push({t:d.querySelector('summary').textContent,k:'Rehber',f:function(){d.open=true;d.scrollIntoView()}})});
+var inp=q('#q'),res=q('#results');
+function norm(s){return s.toLocaleLowerCase('tr').replace(/ı/g,'i').replace(/[çğöşü]/g,function(c){return{ç:'c',ğ:'g',ö:'o',ş:'s',ü:'u'}[c]})}
+inp.addEventListener('input',function(){
+  var v=norm(inp.value.trim());
+  if(!v){res.hidden=true;return}
+  var hits=INDEX.filter(function(i){return norm(i.t).indexOf(v)>-1}).slice(0,7);
+  res.hidden=false;res.innerHTML='';
+  if(!hits.length){res.innerHTML='<button type="button" disabled>Sonuç yok. Kategorilere veya rehberlere göz at.</button>';return}
+  hits.forEach(function(h){var b=document.createElement('button');b.type='button';b.innerHTML='<span>'+h.t+'</span><small>'+h.k+'</small>';b.onclick=function(){res.hidden=true;inp.value='';h.f()};res.appendChild(b)});
+});
+document.addEventListener('click',function(e){if(!e.target.closest('.search'))res.hidden=true});
+q('#go').click();
+</script>
+</body>
+</html>

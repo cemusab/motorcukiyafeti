@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "kask-kac-yilda-degistirilir",
+    "title": "Kask Kaç Yılda Değiştirilir?",
+    "description": "Üreticilerin çoğu kaskı normal kullanımda yaklaşık 5 yılda bir değiştirmeyi önerir; darbe almış kask ise yaşından bağımsız hemen değişir.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 4,
+    "intro": "Motosiklet kaskı, normal kullanım ve doğru saklama koşullarında yaklaşık 5 yılda bir değiştirilmelidir; örneğin SHOEI bu süreyi açıkça önerir. Kaza geçirmiş ya da sert bir darbe almış kask ise kaç yaşında olursa olsun hemen değiştirilir.",
+    "sections": [
+      {
+        "heading": "5 yıl kuralı nereden geliyor?",
+        "paragraphs": [
+          "Kaskın koruyucu katmanı, kabuğun altındaki EPS (genleştirilmiş polistiren) köpüktür. Malzemeler; ter, ısı, UV ışını ve zamanla değişir, iç pedler ve konfor astarı ise kullanımla incelir ve kaskın kafadaki oturuşu gevşer.",
+          "SHOEI, kaskın yaklaşık 5 yıllık normal kullanım, bakım ve saklama sonrasında değiştirilmesini öneriyor. Diğer üreticiler de genellikle benzer, 5 ila 7 yıl arası süreler belirtir; kendi kaskının kullanım kılavuzundaki öneriye bakmak en doğrusudur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Süreyi kısaltan durumlar",
+        "paragraphs": [
+          "5 yıl bir ortalama. Yoğun kullanım, sıcak iklim, kaskın güneşte bırakılması ya da yanlış temizlik maddeleriyle temizlenmesi bu süreyi kısaltabilir."
+        ],
+        "bullets": [
+          "Kaza veya kafa içindeyken alınan herhangi bir darbe",
+          "Kabukta çatlak, derin çizik ya da belirgin hasar",
+          "İç köpükte ezilme, ufalanma veya kabuktan ayrılma",
+          "Benzin, solvent gibi kimyasallarla temas",
+          "Kaskın artık kafada bol gelmesi ve oynaması",
+          "Çene kayışında yıpranma, kilit mekanizmasında arıza"
+        ]
+      },
+      {
+        "heading": "Üretim tarihi mi, satın alma tarihi mi?",
+        "paragraphs": [
+          "Kaskın üretim tarihi çoğunlukla iç pedlerin altındaki bir etikette ya da kabuğun içinde yazar. Uzun süre rafta beklemiş bir kask satın alındığında yeni görünse de üretiminden birkaç yıl geçmiş olabilir. Bu yüzden kask alırken üretim tarihini sormak iyi bir alışkanlıktır.",
+          "Bazı üreticiler süreyi satın alma tarihine ek olarak üretim tarihine göre de sınırlar. Kılavuzda iki tarih de belirtiliyorsa hangisi önce dolarsa onu esas al."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kaskın ömrünü uzatmak için",
+        "paragraphs": [
+          "Kaskı güneş almayan, kuru bir yerde, kask torbasında sakla. Ayna ya da gidon üzerine asma; bu iç köpüğe baskı yapabilir. Temizlikte SHOEI'nin önerdiği gibi ılık su, az miktarda nötr sabun ve yumuşak bez kullan; sıcak su, tuzlu su, benzin, cam temizleyici ve solventlerden uzak dur.",
+          "Çıkarılabilir iç pedleri düzenli yıka ve tamamen kurumadan yerine takma."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hiç kullanılmamış kaskın da ömrü dolar mı?",
+        "a": "Malzemeler zamanla eskidiği için üreticilerin bir kısmı kullanılmamış kasklar için de üretim tarihine göre bir üst sınır belirtir. Kılavuzdaki öneriyi esas al."
+      },
+      {
+        "q": "Kaskın iç pedlerini değiştirmek ömrünü uzatır mı?",
+        "a": "Yeni pedler konforu ve oturuşu iyileştirir, ama koruyucu EPS köpüğün ve kabuğun yaşını değiştirmez."
+      },
+      {
+        "q": "10 yıllık ama hiç düşmemiş kaskım güvenli mi?",
+        "a": "Üreticilerin önerdiği süreyi epey aşmış durumda. Görünüşte sağlam olsa da malzemelerin yaşlandığı ve testlerin artık daha kapsamlı olduğu düşünüldüğünde değiştirmen önerilir."
+      }
+    ],
+    "relatedGuides": ["kask-dusurulurse-degistirilir-mi", "ece-22-06-nedir", "kask-nasil-secilir"],
+    "relatedCategories": ["kask"],
+    "sources": [
+      { "url": "https://shoei-europe.com/service/faq", "type": "manufacturer", "label": "SHOEI Europe servis SSS: kask ömrü ve bakım", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

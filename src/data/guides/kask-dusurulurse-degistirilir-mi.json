@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "kask-dusurulurse-degistirilir-mi",
+    "title": "Kask Yere Düşerse Değiştirilir mi?",
+    "description": "Boş kaskın alçaktan düşmesi çoğu zaman sorun değildir; kabukta hasar varsa ya da kask kafadayken darbe aldıysa değiştirilmelidir.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 4,
+    "intro": "İçinde kafa yokken alçak bir yükseklikten düşen kask genellikle yalnızca kozmetik hasar alır ve kullanılmaya devam edebilir; ancak kabukta görünür bir hasar varsa kask hemen değiştirilmelidir. Kafadayken darbe almış, yani kazaya karışmış bir kask ise dışarıdan sağlam görünse bile mutlaka yenilenir.",
+    "sections": [
+      {
+        "heading": "Neden fark var?",
+        "paragraphs": [
+          "Kask, darbe enerjisini kabuğun altındaki EPS köpüğün ezilmesiyle sönümler. Bu köpük bir kez ezildiğinde eski haline dönmez; yani kask temelde tek bir ciddi darbe için tasarlanmıştır. SHOEI de kaskın tek darbeyi sönümleyecek şekilde üretildiğini ve kaza sonrası, dışarıdan hasar görünmese bile değiştirilmesi gerektiğini belirtiyor.",
+          "Boş bir kaskın düşmesi ise çok daha düşük enerjiyle olur, çünkü içinde birkaç kiloluk bir kafa ve arkasından gelen vücut ağırlığı yoktur. Bu nedenle bel hizasından boş düşen bir kask çoğunlukla çizilir ama korumasını kaybetmez."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Hemen değiştirmen gereken durumlar",
+        "paragraphs": [
+          "Aşağıdaki durumlardan biri varsa kaskın yaşı ya da fiyatı ne olursa olsun yenisini almalısın."
+        ],
+        "bullets": [
+          "Kask kafandayken kaza ya da düşme yaşadıysan",
+          "Kabukta çatlak, kırık, derin oyuk veya ezik varsa",
+          "İç köpükte (EPS) çökme, çatlak ya da ufalanma görüyorsan",
+          "Kask motosikletin üzerinden yüksekten, hızla veya sert bir zemine çarparak düştüyse ve emin olamıyorsan",
+          "Çene kayışı, kilit ya da vizör mekanizması hasar gördüyse"
+        ]
+      },
+      {
+        "heading": "Düşen kaskı nasıl kontrol edersin?",
+        "paragraphs": [
+          "Önce kabuğu iyi bir ışık altında incele; özellikle çarpma noktasının çevresinde ince çatlaklara bak. Kabukta boya çatlaması varsa altındaki malzemede de hasar olabilir.",
+          "Mümkünse iç pedleri çıkar ve EPS köpüğü kontrol et. Çarpma noktasına denk gelen bölgede köpükte göçük ya da çatlak varsa kask artık güvenli değildir. Vizör mekanizmasının, çene açılır kasklarda çene kilidinin düzgün çalıştığını da dene."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Emin olamıyorsan",
+        "paragraphs": [
+          "İç hasar her zaman gözle görülmez. Kaskın ne kadar sert düştüğünden emin değilsen, satıcıya veya distribütöre danışabilirsin; ancak bazı üreticiler kaza sonrası kask incelemesi yapmadığını açıkça belirtir. Şüphe varsa yeni kask almak, kafanla ödeyeceğin bir riske girmekten her zaman ucuzdur."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kaskı motosiklet aynasına asmak sorun olur mu?",
+        "a": "Ayna veya gidon ucu iç köpüğe sürekli baskı yapabilir ve kask oradan kolayca düşebilir. Kaskı düz bir yüzeye ya da kask torbasında saklamak daha doğrudur."
+      },
+      {
+        "q": "Kaskta sadece çizik var, değiştirmeli miyim?",
+        "a": "Yüzeysel boya çiziği tek başına değiştirme sebebi değildir. Ancak çizik derinse, çatlak içeriyorsa ya da kask bir kazada çizildiyse değiştir."
+      },
+      {
+        "q": "Kazadan sonra kask sağlam görünüyorsa kullanabilir miyim?",
+        "a": "Hayır. Kafadayken darbe almış bir kaskın iç köpüğü dışarıdan görünmeden ezilmiş olabilir. Kaza geçirmiş kask yenisiyle değiştirilmelidir."
+      }
+    ],
+    "relatedGuides": [
+      "kask-kac-yilda-degistirilir",
+      "kask-nasil-secilir",
+      "karbon-mu-fiber-mi-kask"
+    ],
+    "relatedCategories": [
+      "kask"
+    ],
+    "sources": [
+      {
+        "url": "https://shoei-europe.com/service/faq",
+        "type": "manufacturer",
+        "label": "SHOEI Europe servis SSS: düşen kask ve kaza sonrası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

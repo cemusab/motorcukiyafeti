@@ -1,13 +1,41 @@
-export default function Page() {
+import Link from "next/link";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Container, PageHead } from "@/components/ui";
+import { meta } from "@/lib/seo";
+
+export const metadata = meta({
+  title: "Hakkımızda",
+  description: "MotorcuKiyafeti, motosiklet ekipmanı seçimini kaynaklı teknik bilgi, şeffaf karşılaştırma ve sade rehberlerle kolaylaştırmak için kuruldu.",
+  path: "/hakkimizda",
+});
+
+export default function AboutPage() {
   return (
-    <div className="bg-[#f5f5f7] min-h-screen text-gray-900 font-sans pb-24 py-12">
-      <main className="max-w-4xl mx-auto px-4 text-center">
-        <div className="bg-white rounded-3xl p-12 shadow-xl border border-gray-100">
-          <h1 className="text-4xl font-black mb-4 capitalize">Çok Yakında</h1>
-          <p className="text-gray-500 mb-8">Bu sayfa şu anda yapım aşamasındadır. En kısa sürede eklenecektir.</p>
-          <a href="/" className="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition shadow-lg">Ana Sayfaya Dön</a>
+    <>
+      <PageHead title="Hakkımızda" intro="Motorunu yeni almış birinin de, yıllardır süren birinin de doğru ekipmanı başka bir siteye ihtiyaç duymadan seçebilmesini istiyoruz.">
+        <Breadcrumbs items={[{ name: "Hakkımızda", href: "/hakkimizda" }]} />
+      </PageHead>
+      <Container className="mt-8 max-w-3xl">
+        <div className="prose-mk">
+          <p>
+            MotorcuKiyafeti bir mağaza değil; kask, mont, eldiven, bot, koruma ve interkom seçimi için bir bilgi ve karşılaştırma platformudur. Ürün satmıyoruz, bu yüzden bir ürünü öne çıkarmak için abartılı ifade kullanmamız gerekmiyor. Her ürünün artıları kadar eksilerini de yazıyoruz.
+          </p>
+          <h2>Nasıl çalışıyoruz?</h2>
+          <ul>
+            <li>Teknik bilgileri önce üreticinin resmi kaynağından doğruluyoruz.</li>
+            <li>Doğrulayamadığımız bilgiyi tahminle doldurmuyor, açıkça işaretliyoruz.</li>
+            <li>Karşılaştırmalarda kararımızın gerekçesini yazıyoruz; veri yoksa kazanan ilan etmiyoruz.</li>
+            <li>Ürün sayısını hızla artırmak yerine her ürünü eksiksiz bir sayfayla ekliyoruz.</li>
+          </ul>
+          <p>
+            Ayrıntılar için{" "}
+            <Link href="/veri-politikasi" className="font-semibold text-red underline">
+              veri ve kaynak politikamıza
+            </Link>{" "}
+            bakabilirsin.
+          </p>
         </div>
-      </main>
-    </div>
+      </Container>
+    </>
   );
 }

@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "kask-bedeni-nasil-olculur",
+    "title": "Kask Bedeni Nasıl Ölçülür?",
+    "description": "Kask bedeni, kaşların hemen üstünden geçen kafa çevresi ölçüsüyle bulunur. Doğru ölçüm, beden tablosu ve deneme adımları bu rehberde.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 5,
+    "intro": "Kask bedenini bulmak için esnemeyen bir terzi mezurasıyla kafa çevreni, kaşlarının yaklaşık 2 cm üstünden ve kafanın arkasındaki en geniş noktadan geçirerek ölç; çıkan santimetre değerini markanın beden tablosuyla eşleştir. Ardından kaskı mutlaka deneyerek oturuşu kontrol et, çünkü aynı ölçü farklı markalarda farklı bedene denk gelebilir.",
+    "sections": [
+      {
+        "heading": "Ölçüm için gerekenler",
+        "paragraphs": [
+          "Bir terzi mezurası yeterlidir. Mezuran yoksa bir ip ya da şeritle ölçüp sonra cetvelle uzunluğunu ölçebilirsin. Ölçümü bir başkasının yapması daha doğru sonuç verir, çünkü mezuranın arkada doğru noktadan geçtiğini kendin göremezsin."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Adım adım ölçüm",
+        "paragraphs": [
+          "Mezurayı alnında, kaşlarının yaklaşık 2 cm (iki parmak) üstüne yerleştir. Kulakların hemen üstünden geçirerek kafanın arkasındaki en çıkıntılı noktaya getir. Mezura gergin olmalı ama deriye gömülmemelidir.",
+          "Ölçümü iki-üç kez tekrarla ve en büyük değeri not al. Saçın gürse ya da genelde bandana veya kask altı balaklava kullanıyorsan ölçümü de o şekilde yap."
+        ],
+        "bullets": [
+          "Mezura yere paralel olmalı, alından enseye eğimli inmemeli",
+          "Kulakların üzerine değil, hemen üstünden geçmeli",
+          "Sonucu santimetre olarak yaz (ör. 57 cm)"
+        ]
+      },
+      {
+        "heading": "Ölçüyü bedene çevirmek",
+        "paragraphs": [
+          "Her üretici kendi beden tablosunu yayımlar. Pek çok markada 57-58 cm M bedene denk gelir, ama bu bir kural değildir; bir markada M olan ölçü, diğerinde L olabilir. Bu yüzden genel tablo yerine ilgili markanın ve modelin tablosuna bak.",
+          "İki beden arasında kaldıysan (ör. 58 cm, M ve L sınırında) genellikle küçük olanı denemek mantıklıdır, çünkü iç pedler kullanımla bir miktar yumuşar. Ancak küçük beden ağrı yapıyorsa büyüğe geç; bazı modellerde farklı kalınlıkta yanak pedi seçeneği de bulunur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kafa şekli: ölçünün tamamlayıcısı",
+        "paragraphs": [
+          "Kafa çevresi aynı olan iki kişinin kafa şekli farklı olabilir. Önden arkaya uzun, yanlardan dar kafalar \"uzun oval\", daha yuvarlak kafalar \"yuvarlak oval\" olarak adlandırılır; çoğu insan ikisinin arasındaki \"orta oval\" gruptadır. Bazı üreticiler hangi kafa şekline göre kalıp ürettiğini belirtir.",
+          "Doğru bedende olduğu halde alında baskı yapıp şakaklarda boşluk kalıyorsa kalıp sana göre yuvarlak, şakaklarda sıkıp alında boşluk kalıyorsa sana göre uzun olabilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Deneme: ölçünün sağlaması",
+        "paragraphs": [
+          "Kaskı tak, çene kayışını bağla ve aynaya bak: gözlerin vizör açıklığının ortasında olmalı, kaskın alın kenarı kaşlarının hemen üstünde durmalı. Kaskı elinle çevirmeye çalış; kafanın derisi kaskla birlikte hareket etmeli.",
+          "Ardından kaskı 10-15 dakika takılı tut. Bu süre sonunda belirgin bir ağrı ya da kızarıklık oluşuyorsa beden veya kalıp uygun değildir."
+        ],
+        "bullets": [
+          "Kayış bağlıyken kask arkadan öne yuvarlanmamalı",
+          "Yanak pedleri yanakları hafif sıkmalı",
+          "Tepe noktasında boşluk hissi olmamalı"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Online kask alırken bedeni nasıl tutturabilirim?",
+        "a": "Kafa çevreni santimetre olarak ölç ve o modelin üretici beden tablosuna bak. Mümkünse aynı markanın bir modelini önceden mağazada deneyip kalıbın kafana uyup uymadığını gör; iade koşullarını da önceden kontrol et."
+      },
+      {
+        "q": "Kask zamanla genişler mi?",
+        "a": "İç pedler ilk kullanım haftalarında bir miktar yumuşar ve oturur. Kabuk ve iç köpük genişlemez; bu yüzden ilk takışta bol gelen kask zamanla daha da bol gelir."
+      },
+      {
+        "q": "Çocuklar için büyük beden alıp büyüyünce kullanmak doğru mu?",
+        "a": "Hayır. Bol kask darbe anında kafada yer değiştirebilir ve korumayı azaltır. Kask, kullanıldığı andaki kafa ölçüsüne uygun olmalıdır."
+      }
+    ],
+    "relatedGuides": ["kask-nasil-secilir", "ece-22-06-nedir", "ilk-motosiklet-ekipmanlari"],
+    "relatedCategories": ["kask", "kask/kapali-kask", "kask/cene-acilir-kask"],
+    "sources": []
+  }
+]

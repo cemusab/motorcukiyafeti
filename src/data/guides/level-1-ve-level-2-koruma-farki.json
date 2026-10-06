@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "level-1-ve-level-2-koruma-farki",
+    "title": "Level 1 ve Level 2 Koruyucu Farkı (EN 1621)",
+    "description": "EN 1621 koruyucularında Level 1 ve Level 2 farkı: eklem, sırt, göğüs ve airbag standartları, kN değerleri ve doğru koruyucu seçimi.",
+    "topic": "koruma",
+    "readingMinutes": 6,
+    "intro": "Level 1 ve Level 2, EN 1621 standardında bir koruyucunun darbe enerjisini ne kadar sönümlediğini gösterir: Level 2 koruyucu vücuda daha az kuvvet iletir, yani daha iyi korur. Örneğin EN 1621-1 eklem koruyucularında ortalama iletilen kuvvet Level 1 için 35 kN'u, Level 2 için 20 kN'u aşmamalıdır.",
+    "sections": [
+      {
+        "heading": "EN 1621 ailesi",
+        "paragraphs": [
+          "EN 1621, motosiklet sürücülerinin darbe koruyucularını vücut bölgesine göre ayrı bölümlerde ele alır. Etikette yazan bölüm numarası koruyucunun hangi bölge için test edildiğini, seviye ise ne kadar iyi sonuç verdiğini söyler."
+        ],
+        "bullets": [
+          "EN 1621-1: Omuz, dirsek, kalça ve diz gibi eklem koruyucuları",
+          "EN 1621-2: Sırt koruyucuları (tam sırt, orta sırt ve bel tipleri)",
+          "EN 1621-3: Göğüs koruyucuları (parçalı ve tek parça tasarımlar)",
+          "EN 1621-4: Şişirilebilir koruyucular, yani airbag sistemleri"
+        ]
+      },
+      {
+        "heading": "kN değerleri ne anlatıyor?",
+        "paragraphs": [
+          "Testte koruyucunun üzerine belirli bir enerjiyle ağırlık düşürülür ve koruyucunun altındaki sensöre ulaşan kuvvet ölçülür. EN 1621-1 ve EN 1621-2 testlerinde darbe enerjisi 50 joule'dür. Ölçülen kuvvet ne kadar düşükse koruyucu darbeyi o kadar iyi dağıtıp sönümlemiş demektir.",
+          "Standart hem birden fazla darbenin ortalamasına hem de tek tek darbelerde ulaşılan en yüksek değere sınır koyar. Böylece ortalaması iyi olup bazı noktalarda zayıf kalan bir koruyucu sertifika alamaz."
+        ],
+        "bullets": [
+          "EN 1621-1 Level 1: ortalama en fazla 35 kN, tek darbede en fazla 50 kN",
+          "EN 1621-1 Level 2: ortalama en fazla 20 kN",
+          "EN 1621-2 Level 1: ortalama en fazla 18 kN, tek darbede en fazla 24 kN",
+          "EN 1621-2 Level 2: ortalama en fazla 9 kN, tek darbede en fazla 12 kN"
+        ]
+      },
+      {
+        "heading": "Sırt koruması neden ayrı?",
+        "paragraphs": [
+          "Omurga eklemlerden daha hassas olduğu için sırt koruyucularında eşikler çok daha düşüktür. Level 2 sırt koruyucu, Level 1'e göre ortalamada yaklaşık yarı kuvvet iletir. Montla birlikte gelen ince köpük pedler çoğu zaman bu testlerden geçmemiş konfor parçalarıdır; ürün açıklamasında EN 1621-2 ibaresi yoksa sertifikalı koruyucu kabul etme.",
+          "Sırt koruyucularında boyut da önemlidir. Standart, koruyucunun kapladığı alana göre tipleri ayırır; mont cebine uyan ama omurganın büyük bölümünü açıkta bırakan küçük bir koruyucu, seviyesi yüksek olsa da sınırlı koruma sağlar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Göğüs koruyucu ve airbag",
+        "paragraphs": [
+          "EN 1621-3 göğüs koruyucularında da iki seviye vardır, ancak mantık biraz farklıdır: Level 1 yalnızca kuvvet iletimi şartlarını karşılarken, Level 2 daha sert yapısıyla hem kuvvet iletimi hem de kuvvetin geniş alana dağıtılması şartlarını karşılar.",
+          "EN 1621-4 ise airbag gibi şişirilebilir koruyucuları kapsar ve yine iki seviye tanımlar. Testlerde şişme süreci yüksek hızlı kamerayla incelenir. Airbag, özellikle göğüs ve sırt bölgesinde sabit koruyuculardan daha geniş bir alanı kaplayabilir, ancak sistemin doğru takılması ve şarj veya kartuş durumunun takip edilmesi gerekir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Level 2 her zaman doğru seçim mi?",
+        "paragraphs": [
+          "Koruma açısından Level 2 daha iyidir ve günümüzde birçok Level 2 koruyucu, eski Level 1 ürünler kadar ince ve esnektir. Yine de koruyucu rahatsız ediyor, sürüş pozisyonunda kayıyor veya cebe tam oturmuyorsa kâğıt üzerindeki avantaj kaybolur.",
+          "Bazı viskoelastik malzemeler soğukta sertleşir, sıcakta yumuşar; performansları sıcaklığa göre değişebilir. Bu yüzden koruyucuyu üreticinin önerdiği bedende seçmek ve montun cebine uyumlu olduğundan emin olmak, seviye kadar önemlidir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Koruyucuyu yükseltirken dikkat",
+        "paragraphs": [
+          "Montundaki Level 1 koruyucuyu Level 2 ile değiştirmek en ucuz güvenlik yükseltmelerinden biridir. Değiştirmeden önce cebin ölçüsünü ve koruyucunun şeklini kontrol et; tercihen montun markasının kendi Level 2 yedeklerini kullan."
+        ],
+        "bullets": [
+          "Koruyucunun üzerindeki etiketi oku: bölüm numarası ve seviye yazmalı",
+          "Cebin içinde koruyucu kaymadan durmalı",
+          "Çatlamış, ezilmiş veya sertleşmiş koruyucuyu yenile",
+          "Sırt koruyucusunun boyunu omurga uzunluğuna göre seç"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Level 2 sırt koruyucu şart mı?",
+        "a": "Zorunlu değil ama önerilir. Level 2 sırt koruyucu, Level 1'e göre çok daha düşük kuvvet iletimi şartını karşılar ve modern ürünlerde konfor farkı azdır."
+      },
+      {
+        "q": "Koruyucular ne zaman değiştirilmeli?",
+        "a": "Ciddi bir darbe aldıysa, çatlak veya kalıcı ezik varsa ya da malzeme belirgin şekilde sertleştiyse değiştirilmelidir. Üreticilerin önerdiği kullanım ömrünü de ürün kılavuzundan kontrol et."
+      },
+      {
+        "q": "Airbag yelek sırt koruyucunun yerini tutar mı?",
+        "a": "Bazı airbag sistemleri EN 1621-4 kapsamında sırt bölgesini de korur, ancak bu ürüne göre değişir. Ürünün sırt koruyucuyla birlikte mi yoksa onun yerine mi kullanılacağını üreticinin kılavuzundan öğren."
+      },
+      {
+        "q": "Montun içindeki köpük ped koruyucu sayılır mı?",
+        "a": "Üzerinde EN 1621-2 etiketi yoksa hayır. Bu pedler genellikle cebi doldurmak için konur; sertifikalı bir koruyucuyla değiştirilmelidir."
+      }
+    ],
+    "relatedGuides": [
+      "aa-ve-aaa-koruma-farki",
+      "motosiklet-montu-nasil-secilir",
+      "adventure-surucu-ekipmanlari"
+    ],
+    "relatedCategories": [
+      "koruma",
+      "koruma/sirt-koruma",
+      "koruma/airbag",
+      "mont"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN1621.php",
+        "type": "homologation",
+        "label": "SATRA – EN 1621 darbe koruyucu standartları özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Motorcycle_armor",
+        "type": "review",
+        "label": "Wikipedia – Motorcycle armor (EN 1621 eşik değerleri)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

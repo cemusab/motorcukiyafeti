@@ -1,0 +1,815 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "rivals": [
+      "alpinestars/smx-1-drystar",
+      "held/desert-2",
+      "held/ice-queen-2",
+      "held/sambia-ktc-2"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.season",
+      "specs.waterproof",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "slug": "sp-8-v3",
+    "brand": "alpinestars",
+    "name": "Alpinestars SP-8 v3",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "summary": "Keçi derisi, MotoGP kökenli çift yoğunluklu eklem koruması, 3. ve 4. parmak köprüsü ve uzun bilekle gelen, EN 13594 Level 1 KP sertifikalı sport yol eldiveni.",
+    "description": [
+      "SP-8 v3, Alpinestars'ın tam pist eldivenlerinin bir alt basamağında duran, yol odaklı sport eldiveni. Gövde tam tahıllı keçi derisi ve sentetik deriden; avuç içinde sentetik süet, avuç kayma bölgesinde Arshield takviyesi ve avuç-başparmak arasında hareket kolaylığı sağlayan streç panel var. Parmaklar önceden şekillendirilmiş, dikişlerin bir kısmı dışarıda; bu da gidon hissini artırıyor.",
+      "Koruma tarafında çift yoğunluklu SP eklem koruyucu ve Alpinestars'ın patentli 3. ve 4. parmak köprüsü öne çıkıyor; bu köprü kayma anında parmakların ayrılıp kıvrılmasını önlemeyi amaçlıyor. Uzatılmış bilek, cırtlı bilek ve kol ağzı kapama ile elastik bilek yapısı var. Üretici EN 13594:2015 Level 1 KP sertifikası belirtiyor. Bilek kısmı ve parmak yanları delikli olsa da su geçirmez bir eldiven değil."
+    ],
+    "forWho": [
+      "Naked ve sport motosikletle yol ağırlıklı, zaman zaman tempolu sürüş yapanlar",
+      "Tam pist eldiveni kadar sert olmayan ama uzun bilekli deri eldiven isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda da aynı eldivenle çalışmak isteyen kuryeler: su geçirmez değil",
+      "Pistte düzenli sürenler: Level 2 ve tam pist eldivenleri daha uygun",
+      "Kışın soğuk havada kullanmak isteyenler"
+    ],
+    "pros": [
+      "EN 13594:2015 Level 1 KP sertifikası",
+      "3. ve 4. parmak köprüsü",
+      "Uzun bilek ve çift kapama ile daha iyi bilek kaplaması",
+      "Dokunmatik ekran uyumlu işaret ve başparmak"
+    ],
+    "cons": [
+      "Level 1; pist kullanımı için Level 2 eldivenler daha fazla koruma sunar",
+      "Su geçirmez değil, yalıtımı yok",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir; uzun bilek montun altına ya da üstüne giyilirken biraz uğraştırabilir. Yağmur koruması olmadığı için kurye kullanımında tek eldiven olarak yetersiz.",
+      "uzunYol": "Kuru havada uzun etaplarda rahat; hava değişirse ikinci bir su geçirmez eldiven gerekir.",
+      "yaz": "Delikli bilek ve parmak yanları biraz hava alır ama tam file yaz eldiveni kadar serin değil.",
+      "kis": "Yalıtımı yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: yol ağırlıklı sportif sürüş ve ara sıra track day için tasarlanmış."
+    },
+    "verdict": "SP-8 v3, sport sürücü için fiyat-koruma dengesi iyi bir uzun bilekli deri eldiven. Parmak köprüsü ve eklem koruması güven veriyor; Level 1 sertifika ve su geçirmezlik olmaması kullanım alanını kuru havada yol sürüşüyle sınırlıyor.",
+    "faq": [
+      {
+        "q": "SP-8 v3 pistte kullanılabilir mi?",
+        "a": "Track day için kullanılabilecek özelliklere sahip, ancak sertifikası Level 1 KP. Düzenli pist kullanımı için Level 2 sertifikalı tam pist eldivenleri daha uygundur."
+      },
+      {
+        "q": "Dokunmatik ekranda çalışıyor mu?",
+        "a": "Üretici işaret parmağı ve başparmak uçlarının dokunmatik ekran uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/sp-8-v3",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/sp-8-v3",
+        "type": "manufacturer",
+        "label": "Alpinestars – SP-8 v3 Gloves ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam tahıllı keçi derisi ve sentetik deri, sentetik süet avuç, Arshield avuç takviyesi",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Delikli bilek ve parmak yanları",
+      "closure": "Cırt cırtlı bilek ve kol ağzı kapama, elastik bilek",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "rivals": [
+      "alpinestars/sp-8-v3",
+      "held/desert-2",
+      "held/ice-queen-2",
+      "held/sambia-ktc-2"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-1-drystar-korumali-motosiklet-eldiveni-siyah-/-siyah",
+        "price": 11270,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 11270,
+      "max": 11270,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.season",
+      "specs.closure",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "smx-1-drystar",
+    "brand": "alpinestars",
+    "name": "Alpinestars SMX-1 Drystar",
+    "subcategories": [
+      "touring-eldiven"
+    ],
+    "summary": "Kısa bilekli, Drystar su geçirmez membranlı, karbon görünümlü eklem korumalı ve CE Level 1 KP sertifikalı; şehir ve yağmurlu günler için pratik bir eldiven.",
+    "description": [
+      "SMX-1 Drystar, Alpinestars'ın kısa bilekli eldivenine su geçirmez Drystar membran eklenmiş sürümü. Üretici membran için 5000 mm su sütunu ve 5000 g/m² nefes alma değeri veriyor. Parmaklar, el sırtı ve avuçta keçi derisi ile sentetik süet bir arada; avuç içi dolgulu temas bölgeleriyle güçlendirilmiş.",
+      "Koruma için karbon görünümlü ergonomik eklem koruyucu ve parmak köprüsü var. Bilek kapaması dikişsiz ve kısa; montun kol ağzının altına rahat girer. Dokunmatik ekran uyumlu başparmak ve işaret parmağı bulunuyor. Üretici sayfasında 'CE Level 1 KP' sertifikası belirtiliyor. Termal yalıtım bilgisi verilmediği için bunu bir kış eldiveni değil, yağmura dayanıklı bir ara mevsim eldiveni olarak görmek daha doğru."
+    ],
+    "forWho": [
+      "Şehir içinde her gün süren ve yağmura yakalanan sürücüler",
+      "Kuryeler: kısa bilek sık takıp çıkarmayı kolaylaştırır, membran yağmurda eli kuru tutmayı hedefler, dokunmatik uçlar telefon kullanımında işe yarar",
+      "Uzun bilekli eldiven sevmeyen naked/scooter kullanıcıları"
+    ],
+    "notFor": [
+      "Sport ve pist kullanımı: kısa bilek ve Level 1 sertifika sınırlı",
+      "Sıfırın altındaki sıcaklıklarda sürenler: yalıtım bilgisi yok"
+    ],
+    "pros": [
+      "Drystar membran ile su geçirmez yapı",
+      "CE Level 1 KP sertifikası",
+      "Kısa bilek; takması çıkarması hızlı",
+      "Parmak köprüsü ve dokunmatik uyumlu parmak uçları"
+    ],
+    "cons": [
+      "Kısa bilek, düşmede bilek kaplaması uzun eldivenler kadar iyi değil",
+      "Termal yalıtım belirtilmemiş; soğuk kışta yetmeyebilir",
+      "Membranlı olduğu için sıcak yazda terletir",
+      "Türkiye stokunda beden seçeneği sınırlı görünüyor"
+    ],
+    "usage": {
+      "sehir": "En güçlü alanı. Kısa bilek ve dokunmatik uçlarla gün boyu inip binen kuryeler için pratik; yağmurlu günlerde de kullanılabilir.",
+      "uzunYol": "Ara mevsim turlarında yağmur için iyi bir yedek ya da ana eldiven; uzun bilek olmadığı için mont kol ağzı ile örtüşmeye dikkat.",
+      "yaz": "Membranlı yapı sıcakta terletir; yaz için file eldiven daha uygun.",
+      "kis": "Yalıtım değeri verilmediği için hafif soğuklarda iş görür; ağır kışta yalıtımlı kış eldiveni gerekir.",
+      "yagmur": "Drystar membran su geçirmez olarak tanımlanıyor.",
+      "sport": "Sport kullanım için koruma seviyesi ve bilek boyu yetersiz."
+    },
+    "verdict": "SMX-1 Drystar, her gün süren ve yağmura yakalanmayı göze alan şehir sürücüsü ile kurye için akıllı bir seçim: kısa, pratik, su geçirmez ve sertifikalı. Bilek koruması ve soğuk performansı ise sınırlı; bunu bir kış eldiveni sanmamak gerekir.",
+    "faq": [
+      {
+        "q": "SMX-1 Drystar kışın yeterli mi?",
+        "a": "Üretici su geçirmezlik değerlerini veriyor ama termal yalıtım bilgisi paylaşmıyor. Serin ve yağmurlu günler için uygun; dondurucu soğukta yalıtımlı bir kış eldiveni tercih edilmeli."
+      },
+      {
+        "q": "Telefonla kullanılabilir mi?",
+        "a": "Evet, başparmak ve işaret parmağı dokunmatik ekran uyumlu."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/smx-1-drystar-sup-reg-sup-gloves-black-black",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/smx-1-drystar-sup-reg-sup-gloves-black-black",
+        "type": "manufacturer",
+        "label": "Alpinestars – SMX-1 Drystar Gloves ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-1-drystar-korumali-motosiklet-eldiveni-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars SMX-1 Drystar Siyah/Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Keçi derisi ve sentetik süet",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (5000 mm su sütunu, 5000 g/m² nefes alma)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Kısa, dikişsiz bilek kapama",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "rivals": [
+      "alpinestars/smx-1-drystar",
+      "alpinestars/sp-8-v3",
+      "held/desert-2",
+      "held/ice-queen-2"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sambia-ktc-2-adventure-korumali-motosiklet-eldiveni-siyah",
+        "price": 8400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "T7",
+          "T8",
+          "T9",
+          "T10",
+          "T11"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sambia-ktc-2-adventure-korumali-motosiklet-eldiveni-gri-/-siyah",
+        "price": 8400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "T7",
+          "T8",
+          "T9",
+          "T10",
+          "T11"
+        ],
+        "colors": [
+          "Gri / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 8400,
+      "max": 8400,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black",
+      "brown",
+      "grey-black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "sizeChart": [
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "slug": "sambia-ktc-2",
+    "brand": "held",
+    "name": "Held Sambia KTC 2",
+    "subcategories": [
+      "adventure-eldiven",
+      "yazlik-eldiven"
+    ],
+    "summary": "Kanguru derisi avuç, file el sırtı, delikli avuç ve örgü kısa bilekle sıcak havaya yönelik adventure eldiveni; EN 13594:2015 sertifikalı, eklem darbe testi yapılmış.",
+    "description": [
+      "Sambia KTC 2, Held'in çok sevilen Sambia KTC'sinin halefi; kısa örgü bilekli bir yaz adventure eldiveni. Avuç içi aşınmaya dayanıklı kanguru derisi, el sırtı deri detaylı file. Avuç delikli, parmaklarda hava kanalları (ACS) var. Held'in NUDUD adını verdiği iletken teknoloji ile telefon kullanımı hedefleniyor; ayrıca vizör silecek mevcut.",
+      "Koruma tarafında enjeksiyon eklem kapağı, darbe testi yapılmış eklem koruması, avuç ve başparmak tabanında Armaprotec destekli SuperFabric takviye ile el kenarı ve işaret parmağında takviye bulunuyor. Eldiven EN 13594:2015 kapsamında sertifikalı; ancak Held ürün sayfasında seviye bilgisi (Level 1/2) yer almıyor. Su geçirmez değil ve astarsız avuç yapısıyla tamamen sıcak hava için tasarlanmış."
+    ],
+    "forWho": [
+      "Yazın adventure veya naked motosikletle asfalt ve stabilize yol kullananlar",
+      "Sıcak havada çalışan kuryeler: hafif, havadar ve telefon uyumlu; ancak yağmurda ikinci bir eldiven gerekir",
+      "Kısa bilekli, gidonu iyi hissettiren eldiven sevenler"
+    ],
+    "notFor": [
+      "Yağmurlu ve soğuk havada tek eldivenle çalışmak isteyenler",
+      "Sport/pist sürüşü yapanlar"
+    ],
+    "pros": [
+      "Kanguru derisi avuç ve SuperFabric takviyeler",
+      "Delikli avuç ve file sırt ile iyi hava akışı",
+      "Telefon kullanımı için iletken parmak uçları",
+      "Türkiye'de birden fazla renk ve geniş beden stoğu"
+    ],
+    "cons": [
+      "EN 13594 seviyesi üretici sayfasında belirtilmiyor",
+      "Kısa örgü bilek, uzun bilekli eldivenler kadar bilek koruması sunmaz",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Sıcak havada şehir içi ve kurye kullanımı için rahat ve pratik; yağmurlu günler için ayrı eldiven bulundurmak gerekir.",
+      "uzunYol": "Yaz turlarında uzun saatler boyunca rahat; hava değişirse yedek eldiven şart.",
+      "yaz": "Asıl kullanım alanı: delikli avuç, file sırt ve parmak hava kanalları.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kullanım için bilek ve sertifika bilgisi yetersiz."
+    },
+    "verdict": "Sambia KTC 2, sıcak iklimde adventure ve günlük kullanım için çok mantıklı bir yaz eldiveni: havadar, dayanıklı avuçlu ve telefonla uyumlu. Sertifika seviyesinin belirtilmemesi ve kısa bilek, onu yüksek tempolu sürüş yerine yaz turu ve şehir kullanımına yönlendiriyor.",
+    "faq": [
+      {
+        "q": "Sambia KTC 2 su geçirmez mi?",
+        "a": "Hayır. Held onu membransız, astarsız avuçlu bir yaz eldiveni olarak tanımlıyor."
+      },
+      {
+        "q": "Telefon ekranında çalışıyor mu?",
+        "a": "Held, eldivende NUDUD adlı iletken teknoloji kullanıldığını ve akıllı telefonların hassas kullanımına imkân verdiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Sambia-KTC-2-adventure-glove/022663-00-068-0-12",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Sambia-KTC-2-adventure-glove/022663-00-068-0-12",
+        "type": "manufacturer",
+        "label": "Held – Sambia KTC 2 adventure glove ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sambia-ktc-2-adventure-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sambia KTC 2 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sambia-ktc-2-adventure-korumali-motosiklet-eldiveni-gri-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sambia KTC 2 Gri/Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Kanguru derisi avuç, deri detaylı file el sırtı, SuperFabric ve Armaprotec takviyeler",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File el sırtı, delikli avuç, parmaklarda hava kanalları (ACS)",
+      "closure": "Örgü kısa bilek, cırt cırtlı bilek ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "rivals": [
+      "alpinestars/smx-1-drystar",
+      "alpinestars/sp-8-v3",
+      "held/ice-queen-2",
+      "held/sambia-ktc-2"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-desert-2-korumali-motosiklet-eldiveni-siyah",
+        "price": 8630,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "T7",
+          "T8",
+          "T9",
+          "T10",
+          "T11"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-desert-2-kadin-korumali-motosiklet-eldiveni",
+        "price": 8630,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "T6",
+          "T7",
+          "T8"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 8630,
+      "max": 8630,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "D-6",
+      "D-7",
+      "D-8"
+    ],
+    "sizeChart": [
+      {
+        "size": "6",
+        "min": 15.2,
+        "max": 15.2
+      },
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "slug": "desert-2",
+    "brand": "held",
+    "name": "Held Desert II",
+    "subcategories": [
+      "yazlik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Kanguru derisi avuç, file el sırtı ve SuperFabric kaplı sert eklem koruyuculu, erkek ve kadın bedenleri olan yazlık touring eldiveni; EN 13594:2015 sertifikalı.",
+    "description": [
+      "Desert II, Held'in klasik yaz eldiveni. El sırtı deri detaylı file, avuç içi aşınmaya dayanıklı ve terlemeye karşı renk vermeyen kanguru derisi. Parmaklarda delikli paneller ve parmak yanlarında hafif file var; avuç astarsız. Dokunmatik ekranı kullanmayı sağlayan özel parmak derisi ve vizör silecek bulunuyor.",
+      "Koruma için SuperFabric kaplı sert plastik eklem koruyucu, el kenarında ve serçe, orta ve yüzük parmaklarında SuperFabric takviye var. Eklem koruması darbe testinden geçmiş ve eldiven EN 13594:2015 kapsamında sertifikalı; Held seviye bilgisi vermiyor. Held aynı modeli erkek (6–12) ve kadın (D-6, D-7, D-8) bedenlerinde sunuyor."
+    ],
+    "forWho": [
+      "Sıcak havada touring ve şehir sürüşü yapan erkek ve kadın sürücüler",
+      "Yaz aylarında çalışan kuryeler: hafif ve havadar, eklem koruması sert kabuklu; yağmur için ek eldiven gerekir",
+      "Küçük el ölçüsü olan kadın sürücüler (D-6 beden mevcut)"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta kullanım",
+      "Pist ve agresif sport sürüş"
+    ],
+    "pros": [
+      "Kanguru derisi avuç ve geniş SuperFabric takviyesi",
+      "SuperFabric kaplı sert eklem koruyucu",
+      "Kadın bedenleri mevcut",
+      "Türkiye'de erkek ve kadın bedenleriyle stokta"
+    ],
+    "cons": [
+      "EN 13594 seviyesi belirtilmiyor",
+      "Kısa bilek",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Yaz aylarında şehir içi ve kurye temposu için uygun; yağmurda tek başına yetmez.",
+      "uzunYol": "Yaz turlarında rahat; hava değişimine karşı yedek eldiven taşınmalı.",
+      "yaz": "Asıl kullanım alanı: file sırt ve delikli parmaklar.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kullanım için tasarlanmamış."
+    },
+    "verdict": "Desert II, yaz eldiveninden beklenenleri sağlam malzemeyle yapan, kadın bedenleri de olan güvenli bir tercih. Sertifika seviyesinin açık olmaması ve kısa bilek, onu sakin tempolu yaz sürüşüne uygun kılıyor.",
+    "faq": [
+      {
+        "q": "Kadın bedeni var mı?",
+        "a": "Evet. Held, Desert II'yi erkekte 6–12, kadında D-6, D-7 ve D-8 bedenlerinde sunuyor."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Hayır, Held modeli su geçirmez olmayan, membransız bir yaz eldiveni olarak tanımlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Desert-II-summer-glove/021954-00-001-0-D-8",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Desert-II-summer-glove/021954-00-001-0-D-8",
+        "type": "manufacturer",
+        "label": "Held – Desert II summer glove ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-desert-2-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Desert 2 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-desert-2-kadin-korumali-motosiklet-eldiveni",
+        "type": "retailer",
+        "label": "Motomax – Held Desert 2 Kadın",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Kanguru derisi avuç, deri detaylı file el sırtı, SuperFabric takviyeler",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File el sırtı, delikli parmak panelleri, file parmak yanları",
+      "closure": "Cırt cırtlı kol ağzı ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "rivals": [
+      "alpinestars/smx-1-drystar",
+      "alpinestars/sp-8-v3",
+      "held/desert-2",
+      "held/sambia-ktc-2"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "D-6",
+      "D-6.5",
+      "D-7",
+      "D-7.5",
+      "D-8"
+    ],
+    "sizeChart": [
+      {
+        "size": "D-6",
+        "min": 15.2,
+        "max": 15.2
+      },
+      {
+        "size": "D-6.5",
+        "min": 16.5,
+        "max": 16.5
+      },
+      {
+        "size": "D-7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "D-7.5",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "D-8",
+        "min": 20.3,
+        "max": 20.3
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "ice-queen-2",
+    "brand": "held",
+    "name": "Held Ice Queen II",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Kadın eline göre kalıplanmış, keçi derisi, 3M Thinsulate yalıtım ve Held-Tex su geçirmez membranlı kış eldiveni; EN 13594:2015 sertifikalı, sert eklem korumalı.",
+    "description": [
+      "Ice Queen II, Held'in kadınlara özel kış eldiveni. Dış yüzey keçi derisi, içeride 3M Thinsulate yalıtım ve su, rüzgâr geçirmeyen, nefes alan Held-Tex membran var. Parmaklarda deri streç paneller, dokunmatik ekran kullanımını sağlayan özel parmak ve başparmak derisi ve vizör silecek bulunuyor. Bilek ve kol ağzında cırtlı ayar mevcut.",
+      "Koruma için sert plastik eklem koruyucu (darbe testinden geçmiş) ve el kenarında SuperFabric takviye var; eldiven EN 13594:2015 kapsamında sertifikalı, seviye bilgisi ürün sayfasında belirtilmiyor. Bedenler D-6'dan D-8'e kadar yarım numaralı. Held modeli ilkbahar–sonbahar ve kış için konumlandırıyor."
+    ],
+    "forWho": [
+      "Kışın da motosiklet kullanan, erkek eldivenlerinde parmak boyu ve avuç genişliği uymayan kadın sürücüler",
+      "Soğuk ve yağışlı havada çalışan kadın kuryeler: yalıtım, membran ve dokunmatik uç bir arada",
+      "Touring ve şehir kullanımında soğuk ellerden şikâyet edenler"
+    ],
+    "notFor": [
+      "Isıtmalı eldiven kadar sıcaklık bekleyenler",
+      "Yaz ve sıcak ara mevsim kullanımı"
+    ],
+    "pros": [
+      "Kadın kalıbı ve yarım numaralı bedenler",
+      "Thinsulate yalıtım ve Held-Tex membran",
+      "Sert eklem koruyucu ve SuperFabric el kenarı",
+      "Dokunmatik uyumlu parmak ve vizör silecek"
+    ],
+    "cons": [
+      "EN 13594 seviyesi belirtilmiyor",
+      "Yalıtımlı kış eldivenlerinde gidon hissi ince eldivenlere göre azalır",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi ve kurye kullanımında eli sıcak ve kuru tutmayı hedefler; dokunmatik uç telefon kullanımında kolaylık sağlar.",
+      "uzunYol": "Soğuk havada touring için uygun; çok düşük sıcaklıkta elcik ısıtıcı veya rüzgârlık desteği faydalı olur.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı: Thinsulate yalıtım ve membran.",
+      "yagmur": "Held-Tex membran su ve rüzgâr geçirmez olarak tanımlanıyor.",
+      "sport": "Sport kullanım için değil."
+    },
+    "verdict": "Ice Queen II, kadın sürücüler için az bulunan, gerçekten kadın eline göre yapılmış bir kış eldiveni. Yalıtım, membran ve sert eklem koruması bir arada; sertifika seviyesi belirtilmiyor ve Türkiye fiyatını doğrulayamadık, bu yüzden almadan önce bayi teyidi öneriyoruz.",
+    "faq": [
+      {
+        "q": "Ice Queen II erkekler için de var mı?",
+        "a": "Held bu modeli yalnızca kadın bedenlerinde (D-6–D-8, yarım numaralar dahil) sunuyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet. Held, eldivende su, rüzgâr geçirmez ve nefes alan Held-Tex membran kullanıldığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Ice-Queen-II-Winter-ladies-glove/022471-00-001-0-D-7",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Ice-Queen-II-Winter-ladies-glove/022471-00-001-0-D-7",
+        "type": "manufacturer",
+        "label": "Held – Ice Queen II Winter ladies glove ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Keçi derisi, 3M Thinsulate astar, SuperFabric el kenarı takviyesi",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Held-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırt cırtlı bilek ve kol ağzı ayarı",
+      "madeIn": null
+    }
+  }
+]

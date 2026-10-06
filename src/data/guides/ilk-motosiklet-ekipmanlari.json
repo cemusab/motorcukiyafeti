@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "ilk-motosiklet-ekipmanlari",
+    "title": "Yeni Başlayan Motorcu İçin Ekipman Listesi",
+    "description": "İlk motosikletine binmeden önce alman gereken beş temel ekipman, öncelik sırası, bütçe dağılımı ve etiket okuma rehberi.",
+    "topic": "genel",
+    "readingMinutes": 7,
+    "intro": "Yeni başlayan bir motorcunun ilk alması gereken ekipman; ECE 22.06 onaylı bir kask, EN 13594 onaylı eldiven, EN 17092 sınıflı bir mont, korumalı bir pantolon ve EN 13634 onaylı bir bottur. Bu beş parça düşmede en sık zarar gören bölgeleri, yani başı, elleri, omuz-dirsek hattını, diz-kalça bölgesini ve ayak bileğini kapsar; sırt koruması, yağmurluk ve interkom gibi parçalar ikinci aşamada eklenebilir.",
+    "sections": [
+      {
+        "heading": "Öncelik sırası: önce kask, sonra eller",
+        "paragraphs": [
+          "Ekipmanı tek seferde alamıyorsan sırayı yaralanmanın ağırlığına göre belirle. Kafa travması geri dönüşü en zor yaralanmadır; bu yüzden ilk ve en özenli harcama kaska yapılır. Düşen bir sürücü refleksle ellerini yere koyduğu için eldiven ikinci sıradadır.",
+          "Mont ve pantolon birlikte düşünülmelidir. Üst tarafı iyi korunmuş ama altında kot pantolon olan bir sürücü, kalça ve dizlerini asfalta karşı korumasız bırakır. Bot ise ayak bileğinin burkulmasını ve ezilmesini engeller; spor ayakkabı vites pedalında ve düşmede bu işi göremez."
+        ],
+        "bullets": [
+          "Kask: ECE 22.06 etiketi, kafa ölçüsüne göre doğru beden",
+          "Eldiven: EN 13594 etiketi, avuç içinde kaydırıcı veya takviye",
+          "Mont: EN 17092 sınıfı (A, AA veya AAA), omuz ve dirsekte EN 1621-1 koruyucu",
+          "Pantolon: EN 17092 sınıfı, diz koruyucu; tercihen kalça koruyucu",
+          "Bot: EN 13634 etiketi, bileği kapatan konç"
+        ]
+      },
+      {
+        "heading": "Bütçeyi nasıl bölmeli?",
+        "paragraphs": [
+          "Kesin rakam vermek yerine oran düşünmek daha sağlıklıdır, çünkü fiyatlar markaya ve kura göre sürekli değişir. Kabaca bir yaklaşım: toplam bütçenin yaklaşık üçte birini kaska, benzer bir payı mont ve pantolona birlikte, kalanını eldiven ve bot arasında paylaştırmak.",
+          "Bütçe darsa marka değil standart öncelikli olsun. Orta segmentte, etiketi eksiksiz ve bedeni tam oturan bir ürün, üst segmentte ama bedeni bol bir üründen daha iyi korur. İndirimli bir montu sırf ucuz olduğu için yanlış bedende almak en sık yapılan hatadır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Etiket okumayı öğren",
+        "paragraphs": [
+          "Motosiklet ekipmanında güvenliğin kanıtı reklam metni değil, ürünün içindeki CE etiketidir. Etikette hangi standarda göre test edildiği ve hangi sınıfa ya da seviyeye ulaştığı yazar. Satıcı sayfasında bu bilgi yoksa ürünün etiket fotoğrafını iste.",
+          "Koruyucuların seviyesi giysi sınıfından ayrı yazılır. Örneğin bir mont EN 17092 AA sınıfında olabilir ve içindeki omuz koruyucusu EN 1621-1 Level 1 olabilir; ikisi farklı şeyleri ölçer."
+        ],
+        "bullets": [
+          "Kask: ECE 22.06 (22.05 artık yeni üretimde yerini 22.06'ya bırakmıştır)",
+          "Mont ve pantolon: EN 17092-2 ile -6 arası; sınıf AAA, AA, A, B veya C",
+          "Eklem koruyucu: EN 1621-1; sırt: EN 1621-2; göğüs: EN 1621-3",
+          "Eldiven: EN 13594:2015, Level 1 veya Level 2, varsa KP",
+          "Bot: EN 13634:2017 ve dört haneli performans kodu"
+        ]
+      },
+      {
+        "heading": "Beden ve deneme",
+        "paragraphs": [
+          "Kask, yanaklarını hafifçe sıkacak ve başını salladığında kafanın üzerinde dönmeyecek kadar sıkı olmalı; alında baskı noktası oluşturmamalıdır. Yeni kaskın astarı kullanıldıkça biraz yerleşir, bu yüzden ilk denemede rahat gelen kask zamanla bol kalabilir.",
+          "Montu ayakta değil, kolların gidonu tutuyormuş gibi öne uzanmışken dene. Bu pozisyonda kol bilekleri açılmamalı, dirsek koruyucusu dirseğin tam üzerinde kalmalı ve bel arkası açılmamalıdır. Pantolonda diz koruyucusu oturma pozisyonunda dizin önünde durmalıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Yeni başlayanların sık yaptığı hatalar",
+        "paragraphs": [
+          "Geçmişi bilinmeyen ikinci el kask almak, yalnızca mont alıp alt tarafı ihmal etmek ve görünürlüğü düşünmemek ilk yılın klasik hatalarıdır. Koyu renk bir set şık görünür ama trafikte fark edilmeni zorlaştırır; en azından reflektif detaylar veya açık renkli bir kask işe yarar.",
+          "Bir diğer hata, ekipmanı yalnızca uzun yol için gerekli sanmaktır. Kazaların önemli bir kısmı kısa, alışılmış güzergâhlarda olur; 'markete kadar' yapılan sürüş de aynı ekipmanı hak eder."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "İkinci aşamada eklenecekler",
+        "paragraphs": [
+          "Temel set tamamlandıktan sonra eklenecek parçalar kullanımına göre değişir. Montunun sırt cebi boşsa veya yalnızca köpük ped varsa EN 1621-2 sertifikalı bir sırt koruyucu ilk eklenecek parçadır."
+        ],
+        "bullets": [
+          "EN 1621-2 sırt koruyucu (tercihen Level 2)",
+          "Yağmurluk takımı veya su geçirmez eldiven",
+          "Kask için Pinlock buğu önleyici ekran",
+          "Grup veya navigasyon kullanımı için interkom",
+          "Uzun yol ve hız için airbag yelek"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "İkinci el kask almak mantıklı mı?",
+        "a": "Önerilmez. Kaskın darbe emici köpüğü bir düşmeden sonra dışarıdan belli olmadan ezilmiş olabilir. Geçmişini bildiğin, hiç düşmemiş ve üretim tarihi yeni bir kask değilse sıfır al."
+      },
+      {
+        "q": "Kot pantolonla motosiklete binmek yeterli mi?",
+        "a": "Sıradan kot pantolon asfaltta çok kısa sürede aşınır ve koruyucu taşımaz. Günlük görünüm istiyorsan EN 17092 sınıfı olan, aramid takviyeli ve diz koruyuculu bir motosiklet jeani seç."
+      },
+      {
+        "q": "Sırt koruması ilk günden şart mı?",
+        "a": "Temel beşli kadar acil değildir ama mümkün olan en kısa sürede eklenmelidir. Çoğu montta sırt cebi vardır; buraya uygun boyutta EN 1621-2 sertifikalı bir koruyucu takmak düşük maliyetli ve etkili bir yükseltmedir."
+      },
+      {
+        "q": "Scooter kullanıyorsam aynı ekipman gerekir mi?",
+        "a": "Temel mantık aynıdır: kask, eldiven, korumalı mont ve bileği kapatan ayakkabı. Scooter için daha günlük görünümlü şehir ürünleri seçilebilir ama etiketlerdeki standartlardan taviz verilmemelidir."
+      }
+    ],
+    "relatedGuides": [
+      "kask-nasil-secilir",
+      "motosiklet-montu-nasil-secilir",
+      "motosiklet-eldiveni-nasil-secilir",
+      "motosiklet-botu-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "kask",
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN1621.php",
+        "type": "homologation",
+        "label": "SATRA – EN 1621 darbe koruyucu standartları özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594:2015 motosiklet eldiveni standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

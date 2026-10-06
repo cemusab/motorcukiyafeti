@@ -1,0 +1,699 @@
+[
+  {
+    "slug": "packtalk-edge",
+    "brand": "cardo",
+    "name": "Cardo Packtalk Edge",
+    "category": "interkom",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Cardo'nun amiral gemisi mesh interkomu: 2. nesil DMC, 40 mm JBL hoparlör, mıknatıslı Air Mount ve IP67 su geçirmezlik. Kalabalık grup sürüşleri için tasarlandı.",
+    "description": [
+      "Packtalk Edge, Cardo'nun Dynamic Mesh Communication (DMC) teknolojisinin ikinci nesliyle çalışan üst segment interkomu. Üretici, grup içinde 31 sürücüye kadar bağlantı, sürücüden sürücüye 1,6 km ve grup genelinde 8 km'ye varan menzil belirtiyor. Mesh ağında sıradaki biri menzilden çıktığında bağlantı kendini yeniden kurduğu için, uzun konvoylarda klasik Bluetooth zincirinde yaşanan kopmalar büyük ölçüde azalıyor.",
+      "Cihazın gündelik kullanımdaki en belirgin farkı Air Mount adı verilen mıknatıslı yuva. Ünite kaska yaklaştırıldığında yerine oturuyor, eldivenle çıkarıp takmak kolay. Bluetooth 5.2, USB-C şarj (20 dakikada yaklaşık 2 saatlik konuşma), FM radyo, ses paylaşımı, interkom kaydı ve Cardo Connect uygulaması üzerinden kablosuz yazılım güncellemesi standart. Üretici pil ömrünü 13 saat olarak veriyor.",
+      "Cardo, diğer büyük markaların cihazlarıyla da Bluetooth üzerinden eşleşebildiğini belirtiyor; ancak bu bağlantı mesh değil klasik Bluetooth interkomu olarak çalışır. Mesh avantajından tam yararlanmak için grubun da Cardo DMC kullanması gerekir."
+    ],
+    "forWho": [
+      "Düzenli olarak 4 kişiden büyük gruplarla sürüş yapanlar",
+      "Uzun turlarda kopmayan, kendini onaran bağlantı isteyenler",
+      "Ünitesini sık söküp takan, birden fazla kaskı olan sürücüler (ek kask kiti ile)"
+    ],
+    "notFor": [
+      "Yalnızca telefon, navigasyon ve müzik için interkom arayan tek sürücüler",
+      "Grubu ağırlıklı olarak Sena mesh kullanan sürücüler (mesh, markalar arasında çalışmaz)"
+    ],
+    "pros": [
+      "2. nesil DMC ile büyük grup desteği ve kendini onaran bağlantı",
+      "Mıknatıslı Air Mount ile pratik takıp çıkarma",
+      "IP67 su geçirmezlik ve 3 yıl garanti",
+      "USB-C ve hızlı şarj, kablosuz yazılım güncellemesi"
+    ],
+    "cons": [
+      "Fiyatı segmentin üst ucunda",
+      "Ünite gövdesi kaskın dışında belirgin bir çıkıntı oluşturuyor",
+      "Mesh yalnızca Cardo DMC cihazlarla; diğer markalarla klasik Bluetooth'a düşülüyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için fazlasıyla yeterli; ancak tek başına kullanımda mesh özelliğine ödenen paranın karşılığı alınmaz.",
+      "ciftSurucu": "Yolcu veya tek arkadaşla rahatça kullanılır; iki kişilik kullanımda daha uygun fiyatlı modeller de aynı işi görür.",
+      "grup": "Asıl güçlü olduğu alan. Gruptakiler de Cardo DMC kullanıyorsa eşleştirme ve kopma sonrası yeniden bağlanma zahmetsiz.",
+      "uzunYol": "13 saatlik pil ve sürüş sırasında şarj imkânı uzun etapları karşılıyor; IP67 yağmurda içi rahatlatıyor.",
+      "sehir": "Şehirde de sorunsuz çalışır; mıknatıslı yuva sayesinde park ettiğinde üniteyi yanına almak kolay."
+    },
+    "verdict": "Packtalk Edge, grup sürüşünü ciddiye alan biri için Cardo'nun en eksiksiz paketi. Mesh bağlantının kararlılığı ve Air Mount'un pratikliği gerçek bir fark yaratıyor. Tek başına sürüyorsan ya da grubun Sena kullanıyorsa bu kadar ödemen gerekmeyebilir; grubunla aynı ekosistemi seçmek, kâğıt üzerindeki özelliklerden daha önemli.",
+    "rivals": [
+      "cardo/freecom-4x",
+      "sena/50s",
+      "sena/60s",
+      "sena/srl3"
+    ],
+    "priceRange": {
+      "min": 28271,
+      "max": 28271,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tekli paket; tek satıcıda bulunan fiyat."
+    },
+    "offers": [
+      {
+        "seller": "idefix",
+        "url": "https://www.idefix.com/cardo-packtalk-edge-jbl-bluetooth-ve-intercom-tekli-paket-p-2782177",
+        "price": 28271,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Packtalk Edge, Sena interkomlarla konuşabilir mi?",
+        "a": "Cardo, diğer büyük markalarla Bluetooth üzerinden bağlanabildiğini belirtiyor. Ancak bu bağlantı mesh değil, klasik Bluetooth interkomu olarak çalışır ve kişi sayısı sınırlıdır."
+      },
+      {
+        "q": "Kaç saat kullanılabiliyor?",
+        "a": "Üretici pil ömrünü 13 saat olarak veriyor. 20 dakikalık hızlı şarj yaklaşık 2 saatlik konuşma süresi sağlıyor; sürüş sırasında şarj da destekleniyor."
+      },
+      {
+        "q": "İkinci bir kaskta kullanabilir miyim?",
+        "a": "Evet. Cardo, hoparlör, mikrofon ve yuvadan oluşan ayrı bir ikinci kask kiti satıyor; ünite mıknatıslı yuvaya takılarak kasklar arasında taşınabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/packtalk-edge",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/packtalk-edge",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Packtalk Edge ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.idefix.com/cardo-packtalk-edge-jbl-bluetooth-ve-intercom-tekli-paket-p-2782177",
+        "type": "retailer",
+        "label": "idefix – Cardo Packtalk Edge tekli paket",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Dynamic Mesh Communication (DMC) 2. nesil",
+      "meshMaxRiders": 31,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": 13,
+      "chargeTimeHours": null,
+      "usbC": true,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat konuşma",
+      "speakers": "40 mm, Sound by JBL",
+      "waterproof": "IP67",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Diğer büyük markalarla Bluetooth interkom bağlantısı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Packtalk Edge ünitesi",
+        "40 mm JBL hoparlörler",
+        "Hibrit (boom) mikrofon",
+        "Kablolu mikrofon",
+        "Air Mount yuvası",
+        "Yapışkan montaj plakası",
+        "Cırt bantlar",
+        "Kelepçe",
+        "Hoparlör yükseltici pedler",
+        "Temizlik pedleri"
+      ]
+    }
+  },
+  {
+    "slug": "freecom-4x",
+    "brand": "cardo",
+    "name": "Cardo Freecom 4x",
+    "category": "interkom",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Mesh yerine klasik Bluetooth kullanan, 4 sürücüye kadar bağlanan orta segment Cardo interkomu. JBL hoparlör, sesli komut ve FM radyo sunuyor.",
+    "description": [
+      "Freecom 4x, Cardo'nun mesh içermeyen Bluetooth serisinin en üst modeli. Üretici 4 sürücüye kadar grup interkomu, sürücüden sürücüye 1,2 km ve grup genelinde 3,6 km menzil belirtiyor. Bağlantı Cardo'nun Live Intercom adını verdiği, geniş bantlı ve kopma sonrası kendini yeniden kuran Bluetooth altyapısı üzerinden çalışıyor.",
+      "Donanım tarafında 40 mm JBL hoparlörler, üç ses profili, otomatik ses seviyesi, FM radyo ve Cardo'nun 'Hey Cardo' ile başlayan doğal sesli komut sistemi bulunuyor. Pil ömrü 13 saat, tam şarj yaklaşık 2 saat; 20 dakikalık şarj yaklaşık 2 saatlik konuşma sağlıyor. Yazılım güncellemeleri Cardo Connect uygulamasıyla kablosuz yapılabiliyor.",
+      "Packtalk Edge'e göre en büyük eksiği mesh olmaması ve dördü aşan gruplara uygun olmaması. Üreticinin teknik tablosunda su geçirmezlik IP65 olarak geçiyor; bu, Edge'in IP67 değerinin bir kademe altında. Garanti süresi de 2 yıl."
+    ],
+    "forWho": [
+      "Çoğunlukla tek başına ya da yolcusuyla süren, ara sıra 2-3 arkadaşla buluşanlar",
+      "Cardo kalitesini mesh fiyatı ödemeden isteyenler"
+    ],
+    "notFor": [
+      "Düzenli olarak 4 kişiden büyük gruplarla sürenler",
+      "Mesh tabanlı, kendini onaran büyük grup ağı arayanlar"
+    ],
+    "pros": [
+      "40 mm JBL hoparlörlerle sınıfına göre iyi ses",
+      "Doğal sesli komut ve otomatik ses seviyesi",
+      "Diğer markalarla Bluetooth üzerinden bağlanabiliyor",
+      "Kablosuz yazılım güncellemesi"
+    ],
+    "cons": [
+      "Mesh yok; grup en fazla 4 kişi",
+      "IP65 su geçirmezlik ve 2 yıl garanti, üst modellerin gerisinde",
+      "Bluetooth zincirinde ortadaki sürücü aynı anda interkom ve müzik kullanamayabiliyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için iyi bir seçim; sesli komut eldivenle buton aramayı azaltıyor.",
+      "ciftSurucu": "Yolcuyla ya da tek bir arkadaşla kullanımda güçlü yanlarını en iyi gösterdiği senaryo.",
+      "grup": "En fazla 4 kişiyle sınırlı ve zincir yapısı nedeniyle ortadaki sürücüler için kısıtlar var; düzenli grup sürüşü için mesh model daha mantıklı.",
+      "uzunYol": "13 saatlik pil ve sürüş sırasında şarj desteği uzun günleri karşılıyor.",
+      "sehir": "Kompakt ünite ve basit kullanımıyla şehir içi için yeterli."
+    },
+    "verdict": "Freecom 4x, Cardo'nun ses kalitesini ve sesli komutunu mesh ücreti ödemeden isteyenler için mantıklı bir orta yol. İkili kullanımda eksik hissettirmez. Grup sürüşleri hayatının düzenli bir parçasıysa doğrudan mesh bir modele yönelmek uzun vadede daha az can sıkar.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "sena/50s",
+      "sena/60s",
+      "sena/srl3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Freecom 4x ile Packtalk Edge arasındaki temel fark ne?",
+        "a": "Freecom 4x yalnızca Bluetooth kullanır ve en fazla 4 sürücüye bağlanır. Packtalk Edge ise mesh (DMC) ile çok daha büyük gruplara ve daha kararlı bağlantıya izin verir."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Cardo'nun teknik tablosunda IP65 olarak belirtiliyor; yağmura dayanıklıdır ancak Packtalk Edge'in IP67 değerinin altındadır."
+      },
+      {
+        "q": "Başka marka interkomlarla konuşur mu?",
+        "a": "Cardo, diğer büyük markalarla Bluetooth üzerinden bağlanabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/freecom-4x",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/freecom-4x",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Freecom 4x ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.usbC",
+      "specs.siri",
+      "specs.googleAssistant",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1200,
+      "talkTimeHours": 13,
+      "chargeTimeHours": 2,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat konuşma",
+      "speakers": "40 mm, Sound by JBL",
+      "waterproof": "IP65",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Diğer büyük markalarla Bluetooth interkom bağlantısı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Freecom 4x ünitesi",
+        "40 mm JBL hoparlörler",
+        "Hibrit mikrofon",
+        "Kablolu mikrofon",
+        "Kızak (cradle)",
+        "Yapışkan plaka",
+        "Yuvarlak ve dikdörtgen cırt pedler",
+        "Hoparlör yükseltici",
+        "Temizlik pedleri"
+      ]
+    }
+  },
+  {
+    "slug": "50s",
+    "brand": "sena",
+    "name": "Sena 50S",
+    "category": "interkom",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sena'nın Mesh 3.0 ve Harman Kardon sesli önceki nesil amiral gemisi. 60S'in gölgesinde kalsa da kanıtlanmış ve hâlâ yetenekli bir mesh interkom.",
+    "description": [
+      "50S, Sena'nın Mesh Intercom 3.0 altyapısını kullanan ve 60S gelene kadar markanın en üst modeli olan interkom. Açık Mesh modunda 6 kanal üzerinden pratikte sınırsız sürücü, kapalı Group Mesh modunda 24 kişiye kadar özel grup, ayrıca klasik 4 kişilik Bluetooth interkom destekliyor. Üretici açık arazide 2 km menzil belirtiyor; ağdaki sürücü sayısı arttıkça toplam menzil de uzuyor.",
+      "Hoparlör ve mikrofon Harman Kardon ile birlikte geliştirildi. 8 dilde sesli komut, Siri ve Google Asistan desteği, 76-108 MHz FM radyo ve Sena Motorcycles uygulaması standart. Üretici Mesh'te 13, Bluetooth interkomda 16 saat konuşma süresi ve 2,5 saatlik tam şarj belirtiyor; 20 dakikalık şarj yaklaşık 2 saat kullanım veriyor. WiFi şarj kablosu, şarj sırasında yazılımı otomatik güncelleyebiliyor.",
+      "Kontrol tarafında Sena'nın döner tekerleği (jog dial) ve fiziksel tuşlar var; eldivenle kullanım kolay. 64 gramlık ana ünite ise rakiplerine göre iri sayılır ve kaskın yan yüzeyinde belirgin durur."
+    ],
+    "forWho": [
+      "Grubu Sena mesh kullanan ve uygun fiyatlı bir mesh cihaz arayanlar",
+      "Kanıtlanmış, yazılımı olgunlaşmış bir model tercih edenler"
+    ],
+    "notFor": [
+      "En uzun pil ömrünü ve en yeni ses donanımını isteyenler (60S daha iyi)",
+      "Kaskında ince, göze batmayan ünite isteyenler"
+    ],
+    "pros": [
+      "Mesh 3.0 ile büyük grup desteği; eski Sena mesh cihazlarıyla uyum",
+      "Harman Kardon hoparlör ve mikrofon",
+      "Eldivenle rahat kullanılan döner tekerlek ve tuşlar",
+      "Siri ve Google Asistan desteği"
+    ],
+    "cons": [
+      "Ana ünite iri ve ağır (64 g)",
+      "Pil ömrü ve şarj süresi 60S'in gerisinde",
+      "Mesh yalnızca Sena ekosisteminde çalışıyor"
+    ],
+    "usage": {
+      "tekSurucu": "Navigasyon, telefon ve müzik için rahat; tek başına sürene mesh avantajı pek dokunmaz.",
+      "ciftSurucu": "Yolcu ve tek arkadaş için sorunsuz; Bluetooth ya da mesh modda kullanılabilir.",
+      "grup": "Sena kullanan gruplarda Açık Mesh ile katılım zahmetsiz; kalabalık konvoylarda güçlü.",
+      "uzunYol": "Mesh'te 13 saatlik süre çoğu günü kurtarır; çok uzun etaplarda mola şarjı gerekebilir.",
+      "sehir": "Şehirde de iyi çalışır; iri gövdesi park halinde kaskı taşırken dikkat çeker."
+    },
+    "verdict": "50S, 60S çıktıktan sonra da grubu Sena kullanan sürücüler için makul bir mesh seçeneği olmaya devam ediyor. Ses ve bağlantı tarafında hâlâ yetkin; ancak pil ömrü, şarj süresi ve gövde boyutunda yeni nesil açık ara önde. Fiyat farkı belirgin değilse 60S'e yönelmek daha mantıklı.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "cardo/freecom-4x",
+      "sena/60s",
+      "sena/srl3"
+    ],
+    "priceRange": {
+      "min": 22270,
+      "max": 22270,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tekli paket; kontrol tarihinde satıcıda stokta görünmüyordu."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sena-50s-motosiklet-interkomu",
+        "price": 22270,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "50S ile 60S aynı mesh grubunda konuşabilir mi?",
+        "a": "Evet. Her ikisi de Mesh Intercom 3.0 kullanıyor; Sena 60S'in eski mesh sürümleriyle geriye dönük uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Konuşma süresi ne kadar?",
+        "a": "Üretici Mesh interkomda 13 saat, Bluetooth interkomda 16 saat konuşma süresi veriyor."
+      },
+      {
+        "q": "Yazılım nasıl güncelleniyor?",
+        "a": "Kutudaki WiFi şarj kablosu, şarj sırasında kablosuz ağ üzerinden yazılımı güncelleyebiliyor; Sena uygulaması da ayarlar için kullanılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/50s/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/50s/",
+        "type": "manufacturer",
+        "label": "Sena – 50S ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sena-50s-motosiklet-interkomu",
+        "type": "retailer",
+        "label": "Motomax – Sena 50S",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.usbC",
+      "specs.waterproof",
+      "specs.musicSharing",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.inBox"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (Açık Mesh 6 kanal, Group Mesh 24 kişi)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 2000,
+      "talkTimeHours": 13,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat kullanım",
+      "speakers": "40 mm, Sound by Harman Kardon",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": true,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "60s",
+    "brand": "sena",
+    "name": "Sena 60S",
+    "category": "interkom",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sena'nın güncel amiral gemisi: Mesh 3.0, 2. nesil Harman Kardon 40 mm hoparlör, yapay zekâ destekli gürültü engelleme, IPX7 ve 24 saate varan konuşma süresi.",
+    "description": [
+      "60S, 50S'in yerini alan ve Sena'nın şu anki en üst evrensel interkomu. Mesh Intercom 3.0 ile 6 kanallı Açık Mesh'te pratikte sınırsız sürücü, Group Mesh'te 24 kişiye kadar kapalı grup ve klasik Bluetooth interkom destekliyor; ayrıca telefon uygulaması üzerinden çalışan Wave Intercom ile uzaktaki kişilere bağlanılabiliyor. Üretici her iki modda da açık arazide 2 km menzil belirtiyor.",
+      "Asıl ilerleme pil ve ses tarafında. Üretici Bluetooth interkomda 24, Mesh'te 17 saat konuşma süresi ve yalnızca 1,5 saatlik tam şarj veriyor; bu değerler 50S'e göre belirgin biçimde daha iyi. 2. nesil Harman Kardon 40 mm hoparlörler ve yapay zekâ tabanlı gürültü engelleme, yüksek hızda rüzgâr sesine karşı konuşmanın anlaşılırlığını artırmayı hedefliyor. USB-C şarj, IPX7 su geçirmezlik, mıknatıslı montaj ve kablosuz yazılım güncellemesi de var.",
+      "Tekli paket iki ayrı kask kelepçe kiti (hoparlör ve mikrofonlarıyla) ve değiştirilebilir ön kapaklarla geliyor; iki kask kullananlar için ek kit masrafını ortadan kaldırıyor. RideGlow aydınlatma ve entegre el feneri ise işlevden çok kişiselleştirme odaklı ekstralar."
+    ],
+    "forWho": [
+      "Grubu Sena kullanan ve en uzun pil ömrünü isteyen sürücüler",
+      "İki farklı kaskı olan ve ek kit almak istemeyenler",
+      "Yüksek hızda konuşma anlaşılırlığını önemseyen uzun yol sürücüleri"
+    ],
+    "notFor": [
+      "Grubu Cardo DMC kullananlar (mesh markalar arasında çalışmaz)",
+      "Sadece telefon ve navigasyon için interkom isteyen, bütçe odaklı sürücüler"
+    ],
+    "pros": [
+      "Sınıfının en uzun konuşma sürelerinden biri ve 1,5 saatlik hızlı tam şarj",
+      "Kutudan iki kask kiti çıkıyor",
+      "IPX7 su geçirmezlik ve USB-C",
+      "Eski Sena mesh cihazlarıyla geriye dönük uyum"
+    ],
+    "cons": [
+      "Fiyatı yüksek",
+      "Mesh yalnızca Sena ekosisteminde; Cardo grubuyla klasik Bluetooth'a düşülür",
+      "Aydınlatma ve fener gibi ekstralar herkes için anlamlı değil"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için çok yetkin; ancak tek başına kullanımda sunduklarının büyük kısmı boşta kalır.",
+      "ciftSurucu": "Yolcu ile kullanımda ses kalitesi ve gürültü engelleme fark yaratıyor.",
+      "grup": "Sena gruplarında Açık Mesh ile katılım çok kolay; büyük konvoylar için uygun.",
+      "uzunYol": "Mesh'te 17 saatlik konuşma ve kısa şarj süresi, çok günlük turlarda en güçlü yanı.",
+      "sehir": "Şehirde fazlasıyla yeterli; mıknatıslı yuva üniteyi yanında taşımayı kolaylaştırıyor."
+    },
+    "verdict": "60S, Sena tarafında bugün alınabilecek en eksiksiz evrensel interkom. Pil ömrü ve iki kask kitiyle gelmesi, yüksek fiyatını kısmen haklı çıkarıyor. Yine de seçimi belirleyen asıl etken grubun hangi markayı kullandığı olmalı; Sena kullanan bir grupta 60S'in zayıf noktası yok denecek kadar az.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "cardo/freecom-4x",
+      "sena/50s",
+      "sena/srl3"
+    ],
+    "priceRange": {
+      "min": 29380,
+      "max": 29380,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tekli paket; kontrol tarihinde satıcıda stokta görünmüyordu."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sena-60s-motosiklet-interkomu",
+        "price": 29380,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "60S, 50S'ten ne kadar daha iyi?",
+        "a": "Üretici verilerine göre konuşma süresi Mesh'te 13'ten 17 saate, Bluetooth'ta 16'dan 24 saate çıkıyor; tam şarj 2,5 saatten 1,5 saate iniyor. Hoparlörler ikinci nesil Harman Kardon, su geçirmezlik IPX7."
+      },
+      {
+        "q": "İki kaskta kullanabilir miyim?",
+        "a": "Evet. Tekli paket iki ayrı kask kelepçe kiti içeriyor; ana ünite mıknatıslı yuva ile kasklar arasında taşınabiliyor."
+      },
+      {
+        "q": "Cardo kullanan arkadaşımla konuşabilir miyim?",
+        "a": "Mesh üzerinden hayır; mesh teknolojileri markalar arasında uyumlu değil. Bağlantı için klasik Bluetooth interkom kullanılması gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/60s/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/60s/",
+        "type": "manufacturer",
+        "label": "Sena – 60S ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sena-60s-motosiklet-interkomu",
+        "type": "retailer",
+        "label": "Motomax – Sena 60S",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.fastCharge",
+      "specs.musicSharing",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "bluetoothVersion": "5.3",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (Açık Mesh 6 kanal, Group Mesh 24 kişi)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 2000,
+      "talkTimeHours": 17,
+      "chargeTimeHours": 1.5,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "40 mm, 2. nesil Harman Kardon",
+      "waterproof": "IPX7",
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": true,
+      "app": "Sena Motorcycles",
+      "inBox": [
+        "60S ana ünitesi",
+        "Değiştirilebilir ön kapak x4",
+        "Kask kelepçesi x2",
+        "Yapıştırmalı montaj plakası",
+        "Çift taraflı bantlar",
+        "Hoparlör pedi x2",
+        "Kablolu boom ve kablolu mikrofonlar",
+        "Mikrofon tutucu",
+        "Kelepçe için mıknatıslı kapak",
+        "3,5 mm ses adaptörü",
+        "USB-C şarj kablosu",
+        "Hızlı başlangıç kılavuzu"
+      ]
+    }
+  },
+  {
+    "slug": "srl3",
+    "brand": "sena",
+    "name": "Sena SRL3 (Shoei)",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 kasklarının iç yuvalarına gizlenen, Mesh 3.0 ve Harman Kardon sesli kaska özel Sena interkomu.",
+    "description": [
+      "SRL3, Sena'nın Shoei için ürettiği kaska özel interkom serisinin üçüncü nesli. Üretici, cihazın Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 kasklarının iç boşluklarına oturacak şekilde özel tasarlandığını belirtiyor. Takıldıktan sonra ünite dışarıdan neredeyse görünmüyor; sol tarafta üç tuşlu kontrol, sağda tek tuşla mesh bağlantısı kuran düğme bulunuyor.",
+      "Teknik olarak Mesh Intercom 3.0 (Mesh 2.0 ile geriye uyumlu), 4 kişilik Bluetooth interkom, Bluetooth 5.0, FM radyo, 8 dilde sesli komut ile Siri ve Google Asistan desteği sunuyor. Hoparlörler 40 mm ve Harman Kardon imzalı. Üretici Bluetooth interkomda 12, Mesh'te 10 saat konuşma süresi ve 2,5 saatlik şarj süresi veriyor; bu değerler evrensel 50S ve 60S'in gerisinde.",
+      "Bu cihazın satın alma nedeni teknik tablodan çok entegrasyon: rüzgâr sesi yaratan dış gövde yok, kaskın aerodinamiği bozulmuyor ve kelepçe sökülüp takılmıyor. Karşılığında yalnızca üç Shoei modeliyle kullanılabiliyor; kaskı değiştirdiğinde interkomu da büyük olasılıkla değiştirmen gerekecek."
+    ],
+    "forWho": [
+      "Shoei Neotec 3, GT-Air 3 veya J-Cruise 3 sahipleri",
+      "Kaskın dışında çıkıntı istemeyen, temiz görünüm ve düşük rüzgâr sesi önceliği olanlar",
+      "Grubu Sena mesh kullanan sürücüler"
+    ],
+    "notFor": [
+      "Bu üç Shoei modeli dışında kask kullananlar",
+      "En uzun pil ömrünü arayanlar (60S belirgin biçimde daha uzun)",
+      "İnterkomu farklı kasklar arasında taşımak isteyenler"
+    ],
+    "pros": [
+      "Kaskın iç yuvasına gizlenen, dışarıdan neredeyse görünmeyen montaj",
+      "Mesh 3.0 ile Sena gruplarıyla tam uyum",
+      "Harman Kardon hoparlör, sesli komut, Siri ve Google Asistan",
+      "Kelepçe veya yapışkan gerektirmeyen temiz kurulum"
+    ],
+    "cons": [
+      "Yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 ile kullanılabiliyor",
+      "Konuşma süresi (Mesh'te 10 saat) evrensel modellerin gerisinde",
+      "Küçük tuşlar, büyük döner tekerlekli modellere göre eldivenle daha az rahat"
+    ],
+    "usage": {
+      "tekSurucu": "Navigasyon ve telefon için ideal; kaskın görünümünü ve sessizliğini bozmadan bağlantı sağlıyor.",
+      "ciftSurucu": "Yolcu da Sena kullanıyorsa sorunsuz; yolcunun kaskı farklıysa evrensel bir Sena ile eşleşebilir.",
+      "grup": "Mesh 3.0 sayesinde Sena gruplarına tek tuşla katılım mümkün.",
+      "uzunYol": "Mesh'te 10 saatlik süre uzun günlerde yetmeyebilir; molalarda şarj planlamak gerekir.",
+      "sehir": "Dışarıda çıkıntı olmadığından kaskı taşırken ve park ederken en zahmetsiz seçenek."
+    },
+    "verdict": "Uyumlu bir Shoei kaskın varsa SRL3, bu kaska takılabilecek en temiz interkom çözümü; aerodinamik ve görünüm açısından evrensel bir ünitenin sunamayacağını sunuyor. Pil ömründe 60S'in gerisinde kaldığını bilerek almak gerekiyor. Kaskını birkaç yıl içinde değiştirmeyi düşünüyorsan evrensel bir model daha esnek bir yatırım olur.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "cardo/freecom-4x",
+      "sena/50s",
+      "sena/60s"
+    ],
+    "priceRange": {
+      "min": 28271,
+      "max": 28271,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tek satıcıda bulunan fiyat."
+    },
+    "offers": [
+      {
+        "seller": "idefix",
+        "url": "https://www.idefix.com/sena-srl-3-bluetooth-ve-intercom-gt-air-3-neotech-3-uyumlu-p-4890084",
+        "price": 28271,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SRL3 hangi kasklara takılıyor?",
+        "a": "Sena'ya göre SRL3, Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 kasklarının iç yuvalarına özel tasarlandı. Bunların dışındaki kasklarda kullanılamaz."
+      },
+      {
+        "q": "Eski Neotec 2 veya GT-Air 2'ye takılır mı?",
+        "a": "Hayır. Sena, SRL3'ün uyumlu kaskları olarak yalnızca Neotec 3, GT-Air 3 ve J-Cruise 3'ü listeliyor; önceki nesil Shoei kaskları için markanın ayrı SRL modelleri bulunuyor."
+      },
+      {
+        "q": "Evrensel Sena interkomlarla konuşabilir mi?",
+        "a": "Evet. SRL3, Mesh 3.0 ve Mesh 2.0 ile uyumlu; 50S, 60S gibi Sena mesh cihazlarıyla aynı gruba katılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/srl3/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/srl3/",
+        "type": "manufacturer",
+        "label": "Sena – SRL3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.idefix.com/sena-srl-3-bluetooth-ve-intercom-gt-air-3-neotech-3-uyumlu-p-4890084",
+        "type": "retailer",
+        "label": "idefix – Sena SRL3 (GT-Air 3 / Neotec 3)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.musicSharing",
+      "specs.otaUpdate",
+      "specs.crossBrand"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (Mesh 2.0 uyumlu)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 2000,
+      "talkTimeHours": 10,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "40 mm, Sound by Harman Kardon",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": false,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": [
+        "SRL3 ana ünitesi",
+        "Hoparlör x2",
+        "Hoparlör pedi x2",
+        "Çene açılır kask için kablolu boom mikrofon",
+        "Kapalı kask için kablolu mikrofon",
+        "Mikrofon süngeri x2",
+        "Mikrofon için cırt bant",
+        "WiFi şarj kablosu",
+        "Hızlı başlangıç kılavuzu"
+      ]
+    }
+  }
+]

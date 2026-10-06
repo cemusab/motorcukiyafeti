@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "cardo-mu-sena-mi",
+    "title": "Cardo mu Sena mı?",
+    "description": "Cardo ve Sena'nın Mesh teknolojileri, ses sistemleri, uygulamaları ve markalar arası uyumu karşılaştırıldı. Hangisinin sana uyduğunu anlattık.",
+    "topic": "interkom",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 6,
+    "intro": "Cardo ile Sena arasında net bir kazanan yok: ikisi de üst modellerde Mesh grup interkomu, marka iş birliğiyle geliştirilmiş ses (Cardo'da JBL, Sena'da Harman Kardon), telefon uygulaması ve kablosuz güncelleme sunuyor. Seçimi belirleyen asıl etken, birlikte sürdüğün kişilerin hangi markayı kullandığıdır, çünkü iki markanın Mesh ağları birbiriyle doğrudan konuşmaz.",
+    "sections": [
+      {
+        "heading": "En önemli kural: grubun markası",
+        "paragraphs": [
+          "Cardo'nun DMC (Dynamic Mesh Communication) ağı ile Sena'nın Mesh Intercom ağı farklı teknolojilerdir ve birbirine Mesh üzerinden bağlanmaz. Farklı markalar ancak Bluetooth tabanlı \"universal intercom\" bağlantısıyla konuşabilir; bu durumda Mesh'in kendini onaran, kolay katılımlı grup yapısından yararlanamazsın.",
+          "Bu yüzden düzenli olarak aynı grupla sürüyorsan, grubun çoğunluğunun kullandığı markayı seçmek çoğu zaman teknik özelliklerden daha belirleyicidir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Mesh yaklaşımları",
+        "paragraphs": [
+          "Cardo DMC, her cihazın ağın bir düğümü olduğu ve bir sürücü ayrıldığında ağın kendini yeniden düzenlediği (self-healing) bir yapı kullanır. Cardo, güncel Packtalk serisinde ikinci nesil DMC'yi kullanıyor; tek bir ağdaki azami sürücü sayısı model ve nesle göre değişiyor.",
+          "Sena Mesh ise iki mod sunar: herkese açık kanallarda sınırsıza yakın sayıda sürücünün katılabildiği Open Mesh ve davetli bir özel grup oluşturan Group Mesh. Sena, 50S gibi üst modellerde Group Mesh için 24 katılımcıya kadar destek belirtiyor ve güncel modellerde Mesh 3.0 kullanıyor."
+        ],
+        "bullets": [
+          "Cardo: DMC, kendini onaran ağ, Bluetooth ile ek bağlantı",
+          "Sena: Open Mesh (açık kanallar) + Group Mesh (özel grup), Bluetooth interkom modu"
+        ]
+      },
+      {
+        "heading": "Ses ve sesli komut",
+        "paragraphs": [
+          "Cardo, üst modellerinde JBL imzalı hoparlörler kullanıyor. Sena ise 50 serisi gibi üst modellerde hoparlör ve mikrofonu Harman Kardon ile birlikte geliştirdiğini belirtiyor. Ses tercihi kişiseldir; kaskın hoparlör cebi derinliği ve hoparlörün kulağa mesafesi, markadan bile daha fazla etkili olabilir.",
+          "Sesli komut tarafında Cardo, \"Hey Cardo\" ile başlayan Natural Voice Operation özelliğini sunuyor. Sena üst modellerde kendi sesli komutlarını birden fazla dilde destekliyor ve telefonun Siri veya Google Asistan'ına erişim sağlıyor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Uygulama ve güncellemeler",
+        "paragraphs": [
+          "Cardo cihazları Cardo Connect uygulamasıyla yönetiliyor; ayarlar, müzik paylaşımı, DMC ve Bluetooth interkom kontrolü uygulamadan yapılabiliyor ve güncel modeller kablosuz (OTA) güncelleme alıyor. Sena'da ana uygulama Sena Motorcycles; 50S gibi modellerde Wi-Fi şarj kablosu ya da uygulama üzerinden otomatik güncelleme imkânı bulunuyor.",
+          "Sena ayrıca uygulama ve mobil veri üzerinden çalışan Wave Intercom özelliğini sunuyor; bu, menzil sınırı olmadan konuşmayı mümkün kılıyor ama mobil internet bağlantısı gerektiriyor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kaska özel seçenekler",
+        "paragraphs": [
+          "Bazı kask üreticileri belirli markalarla iş birliği yapar ve kaska özel interkom sunar. Örneğin Sena'nın SRL serisi belirli SHOEI kasklar için tasarlanmıştır. Kaskını zaten aldıysan, önce kaskın üreticisinin hangi interkomu uyumlu ya da özel olarak sunduğuna bak; bu tercih markayı senin yerine belirleyebilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kısaca kim neyi seçmeli?",
+        "paragraphs": [
+          "Teknik olarak iki marka da güçlü; karar çoğunlukla kullanım ve çevreye göre verilir."
+        ],
+        "bullets": [
+          "Grubun çoğunluğu Cardo kullanıyorsa: Cardo",
+          "Grubun çoğunluğu Sena kullanıyorsa veya açık Mesh kanallarına katılmak istiyorsan: Sena",
+          "Kaskına özel bir sistem varsa: kaskın uyumlu olduğu marka",
+          "Tek sürüyorsan: iki markanın giriş seviyesi modelleri arasında ses, tuş yapısı ve kask uyumuna göre seç"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Cardo ile Sena birbirine bağlanır mı?",
+        "a": "Mesh üzerinden bağlanmazlar. İki marka da Bluetooth tabanlı universal intercom özelliğiyle diğer markalarla eşleşebilir; ancak bu bağlantıda Mesh grup avantajları kullanılamaz."
+      },
+      {
+        "q": "Hangisinin sesi daha iyi?",
+        "a": "Cardo JBL, Sena üst modellerde Harman Kardon ile çalışıyor. Ses algısı kaskın hoparlör cebine ve kişisel tercihe çok bağlı olduğu için, mümkünse kendi kaskınla denemek en doğrusudur."
+      },
+      {
+        "q": "Eski Sena veya Cardo cihazım yenisiyle Mesh'te konuşur mu?",
+        "a": "Aynı marka içinde bile Mesh nesilleri ve model uyumu farklı olabilir. Üreticinin uyumluluk listesine ve güncel yazılım notlarına bakmak gerekir."
+      }
+    ],
+    "relatedGuides": ["mesh-nedir", "interkom-nasil-secilir", "adventure-surucu-ekipmanlari"],
+    "relatedCategories": ["interkom", "interkom/mesh-interkom", "interkom/kaska-ozel-interkom"],
+    "sources": [
+      { "url": "https://cardosystems.com/products/packtalk-neo", "type": "manufacturer", "label": "Cardo Packtalk Neo: 2. nesil DMC, JBL, OTA", "checkedAt": "2026-10-06" },
+      { "url": "https://cardosystems.com/products/packtalk-edge", "type": "manufacturer", "label": "Cardo Packtalk Edge: universal Bluetooth intercom", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sena.com/en-us/product/50s/", "type": "manufacturer", "label": "Sena 50S: Mesh 3.0, Group Mesh, Harman Kardon, Wave Intercom", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sena.com/en-us/product/srl-mesh/", "type": "manufacturer", "label": "Sena SRL Mesh: SHOEI kasklara özel sistem", "checkedAt": "2026-10-06" },
+      { "url": "https://blog.rad.eu/en/cardo-or-sena-which-intercom-suits-me-best/", "type": "review", "label": "Louis/Rad: Cardo mu Sena mı?", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

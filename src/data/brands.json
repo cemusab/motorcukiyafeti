@@ -1,0 +1,1424 @@
+[
+  {
+    "slug": "shoei",
+    "name": "Shoei",
+    "country": "Japonya",
+    "founded": 1959,
+    "website": "https://www.shoei-europe.com/",
+    "about": [
+      "Shoei, 1959'da Tokyo'da kurulan ve kasklarını bugün hâlâ Japonya'da üreten bir kask uzmanıdır. Marka yalnızca kask üretir; bu odak, kabuk kalitesi, iç astar işçiliği ve vizör mekanizmaları gibi ayrıntılarda kendini gösterir.",
+      "Ürün gamı pist odaklı X-SPR Pro'dan sport-touring NXR2'ye, güneş vizörlü GT-Air 3'ten çene açılır Neotec 3'e ve açık kask J-Cruise 3'e kadar uzanır. Touring ve modüler modellerde markaya özel interkom yuvası bulunur; bu sayede kaskla uyumlu iletişim sistemi temiz bir şekilde entegre edilebilir.",
+      "Shoei kaskları üst segmentte konumlanır. Yüksek fiyatın karşılığı genellikle sessizlik, uzun ömürlü mekanizmalar ve geniş beden-kabuk seçeneği olarak geri döner."
+    ],
+    "strengths": [
+      "Japonya'da üretim ve tutarlı işçilik",
+      "Modüler ve touring kasklarda sessizlik ve konfor",
+      "Markaya özel interkom entegrasyonu",
+      "Geniş vizör ve yedek parça desteği"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Neotec 3",
+        "note": "Çene açılır touring kask; güneş vizörü ve interkom yuvası.",
+        "url": "https://www.shoei-europe.com/products/neotec3/"
+      },
+      {
+        "name": "GT-Air 3",
+        "note": "Güneş vizörlü kapalı touring kask.",
+        "url": "https://www.shoei-europe.com/products/gt-air3/"
+      },
+      {
+        "name": "NXR2",
+        "note": "Sport-touring kullanım için hafif kapalı kask.",
+        "url": "https://www.shoei-europe.com/products/nxr2/"
+      },
+      {
+        "name": "X-SPR Pro",
+        "note": "Pist ve sportif sürüş için üst seviye yarış kaskı.",
+        "url": "https://www.shoei-europe.com/products/x-spr-pro/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Neotec 3 çene açılır kask",
+        "url": "https://www.shoei-europe.com/products/neotec3/",
+        "reason": "Modüler kask segmentinde sessizlik, mekanizma kalitesi ve interkom entegrasyonuyla referans gösterilen modellerden biridir."
+      },
+      {
+        "label": "GT-Air 3 touring kask",
+        "url": "https://www.shoei-europe.com/products/gt-air3/",
+        "reason": "Güneş vizörlü kapalı kask arayan uzun yol sürücüleri için markanın en dengeli seçeneğidir."
+      }
+    ],
+    "alternatives": [
+      "arai",
+      "schuberth",
+      "hjc"
+    ],
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/about/",
+        "type": "manufacturer",
+        "label": "Shoei Europe – Hakkında ve tarihçe",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.shoei-europe.com/products/",
+        "type": "manufacturer",
+        "label": "Shoei Europe – Ürünler",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "schuberth",
+    "name": "Schuberth",
+    "country": "Almanya",
+    "founded": 1922,
+    "website": "https://www.schuberth.com/",
+    "about": [
+      "Schuberth, 1922'de Braunschweig'de kurulan ve bugün Magdeburg merkezli çalışan Alman kask üreticisidir. Motosiklet kaskının yanında itfaiye, polis, askeri ve endüstriyel koruyucu başlıklar da üretir; bu çok alanlı mühendislik birikimi motosiklet ürünlerine de yansır.",
+      "Marka özellikle çene açılır kasklarla tanınır. C5, hem kapalı (P) hem açık (J) kullanım için ECE 22.06 homologasyonuna sahiptir ve kabuğa önceden döşenmiş kablolama sayesinde Schuberth'in kendi SC iletişim sistemleriyle tak-çalıştır uyum sunar. E2 adventure, S3 ise sport-touring tarafını kapsar.",
+      "Schuberth kaskları aerodinamik ve akustik testlere verilen önemle öne çıkar; üretici C5 için 100 km/s hızda 85 dB(A) gürültü değeri açıklamaktadır. Fiyat konumu üst segmenttedir."
+    ],
+    "strengths": [
+      "Çene açılır kasklarda sessizlik ve aerodinamik",
+      "Kaska özel, önceden kablolanmış iletişim sistemi",
+      "P/J çift homologasyon",
+      "Rüzgar tüneli ve laboratuvar testlerine dayalı geliştirme"
+    ],
+    "categories": [
+      "kask",
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "C5",
+        "note": "Çene açılır touring kask; P/J ECE 22.06, hazır iletişim altyapısı.",
+        "url": "https://schuberth.com/en/c5"
+      },
+      {
+        "name": "E2",
+        "note": "Çene açılır adventure kask; siperlikli.",
+        "url": "https://schuberth.com/en/e2"
+      },
+      {
+        "name": "S3",
+        "note": "Sport-touring kapalı kask.",
+        "url": "https://schuberth.com/en/s3"
+      },
+      {
+        "name": "SC iletişim sistemleri",
+        "note": "Schuberth kasklarına özel interkom üniteleri.",
+        "url": "https://schuberth.com/en/motorcycle-communication-systems"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "C5 çene açılır kask",
+        "url": "https://schuberth.com/en/c5",
+        "reason": "Sessizlik, P/J homologasyonu ve kaska özel interkom altyapısıyla markanın en güçlü olduğu modüler touring segmentini temsil eder."
+      },
+      {
+        "label": "E2 adventure kask",
+        "url": "https://schuberth.com/en/e2",
+        "reason": "Siperlikli adventure kask isteyip çene açılır pratikliğinden vazgeçmek istemeyenler için tasarlanmıştır."
+      }
+    ],
+    "alternatives": [
+      "shoei",
+      "nolan",
+      "hjc"
+    ],
+    "sources": [
+      {
+        "url": "https://schuberth.com/en/c5",
+        "type": "manufacturer",
+        "label": "Schuberth – C5 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Schuberth",
+        "type": "review",
+        "label": "Wikipedia – Schuberth (kuruluş yılı)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "hjc",
+    "name": "HJC",
+    "country": "Güney Kore",
+    "founded": 1971,
+    "website": "https://hjchelmets.eu/",
+    "about": [
+      "HJC, 1971'den bu yana yalnızca motosiklet kaskı üreten Güney Koreli bir markadır. 1986'da ABD pazarına kendi markasıyla girmiş, 2001'de Avrupa'ya açılmıştır ve bugün dünyanın en yaygın kask markalarından biridir.",
+      "Ürün gamı geniştir: RPHA serisi markanın üst segmentini, F serisi orta-üst segmenti, i ve C serileri ise daha erişilebilir modelleri oluşturur. Çene açılır F100 ve RPHA 91, kapalı RPHA 72 ve F72 gibi modellerle hemen her kullanım tipine bir seçenek sunar.",
+      "HJC'nin güçlü yanı fiyat-performans dengesidir. Cardo ile yaptığı iş birliği kapsamında bazı modellerde kaska özel iletişim çözümleri de sunulur."
+    ],
+    "strengths": [
+      "Her bütçeye uygun geniş model yelpazesi",
+      "Fiyat-performans dengesi",
+      "Cardo iş birliğiyle kaska özel interkom seçenekleri",
+      "Yaygın bayi ve yedek parça ağı"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "RPHA serisi",
+        "note": "Markanın üst segment yarış, touring ve modüler kaskları.",
+        "url": "https://hjchelmets.eu/collections/rpha-series"
+      },
+      {
+        "name": "F100",
+        "note": "Çene açılır touring kask.",
+        "url": "https://hjchelmets.eu/pages/f100-modular-motorcycle-helmet"
+      },
+      {
+        "name": "F72",
+        "note": "Sport-touring kapalı kask.",
+        "url": "https://hjchelmets.eu/products/f72-full-face-sport-touring-helmet"
+      },
+      {
+        "name": "RPHA 91",
+        "note": "Üst segment çene açılır kask.",
+        "url": "https://hjchelmets.eu/pages/rpha-91-premium-modular-motorcycle-helmet"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "RPHA serisi",
+        "url": "https://hjchelmets.eu/collections/rpha-series",
+        "reason": "HJC'nin en gelişmiş kabuk malzemeleri ve özelliklerinin toplandığı, üst segment rakiplerine daha erişilebilir bir alternatif sunan seridir."
+      },
+      {
+        "label": "F100 çene açılır kask",
+        "url": "https://hjchelmets.eu/pages/f100-modular-motorcycle-helmet",
+        "reason": "Orta segmentte çene açılır kask arayanlar için markanın fiyat-performans odaklı touring seçeneğidir."
+      }
+    ],
+    "alternatives": [
+      "shoei",
+      "ls2",
+      "shark"
+    ],
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/about",
+        "type": "manufacturer",
+        "label": "HJC Europe – Hakkında",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "agv",
+    "name": "AGV",
+    "country": "İtalya",
+    "founded": 1947,
+    "website": "https://www.agv.com/",
+    "about": [
+      "AGV, ilk kaskını 1947'de üreten İtalyan kask markasıdır ve bugün Dainese grubunun parçasıdır. Uzun yıllardır MotoGP ile özdeşleşmiş olan marka, yarış pistinde geliştirdiği teknolojileri yol kasklarına aktarmasıyla bilinir.",
+      "Pista GP RR, markanın yarış kaskıdır ve FIM homologasyonlu pist kullanımına yöneliktir. K6 S hafif sport-touring kask olarak, K1 S giriş seviyesinde, Tourmodular ise çene açılır touring kask olarak konumlanır.",
+      "AGV kaskları genellikle sportif kafa formu ve sürüş pozisyonuna göre optimize edilmiş görüş açısıyla öne çıkar. Sportif sürücüler için güçlü, touring tarafında ise daha seçici bir marka olarak düşünülebilir."
+    ],
+    "strengths": [
+      "Yarıştan gelen aerodinamik ve görüş açısı",
+      "Karbon kabuklu hafif modeller",
+      "Sportif sürüşe yönelik geniş seçenek",
+      "Dainese grubu altında güçlü Ar-Ge"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Pista GP RR",
+        "note": "Pist ve yarış odaklı karbon kask.",
+        "url": "https://www.agv.com/gb/en/full-face/pista-gp-rr/"
+      },
+      {
+        "name": "K6 S",
+        "note": "Hafif sport-touring kapalı kask.",
+        "url": "https://www.agv.com/gb/en/full-face/k6-s/"
+      },
+      {
+        "name": "K1 S",
+        "note": "Giriş seviyesi sportif kapalı kask.",
+        "url": "https://www.agv.com/gb/en/full-face/k1-s/"
+      },
+      {
+        "name": "Tourmodular",
+        "note": "Çene açılır touring kask.",
+        "url": "https://www.agv.com/gb/en/flip-up/tourmodular/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Pista GP RR",
+        "url": "https://www.agv.com/gb/en/full-face/pista-gp-rr/",
+        "reason": "Markanın MotoGP birikiminin doğrudan yansıdığı, pist günleri ve sportif sürüş için en iddialı modelidir."
+      },
+      {
+        "label": "K6 S",
+        "url": "https://www.agv.com/gb/en/full-face/k6-s/",
+        "reason": "Hafifliği ve geniş görüş alanıyla hem şehir hem virajlı yol için çok yönlü bir sport-touring seçeneğidir."
+      }
+    ],
+    "alternatives": [
+      "arai",
+      "shark",
+      "hjc"
+    ],
+    "sources": [
+      {
+        "url": "https://www.agv.com/gb/en/history.html",
+        "type": "manufacturer",
+        "label": "AGV – Tarihçe",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dainese",
+        "type": "review",
+        "label": "Wikipedia – Dainese (AGV satın alımı)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "arai",
+    "name": "Arai",
+    "country": "Japonya",
+    "founded": 1926,
+    "website": "https://www.araihelmet.eu/",
+    "about": [
+      "Arai'nin kökleri 1926'da Hirotake Arai'nin şapka atölyesine dayanır; şirket 1952'de Japonya'nın ilk motosiklet kasklarını üretmeye başlamıştır. Bugün hâlâ aile şirketi olarak yönetilen Arai, kasklarını Japonya'da büyük ölçüde el işçiliğiyle üretir.",
+      "Markanın tasarım felsefesi, düşmede kabuğun zemine takılmak yerine kayarak enerjiyi dağıtmasını hedefleyen pürüzsüz ve yuvarlak kabuk formudur. RX-7V Evo yarış ve sportif kullanımda, Tour-X5 adventure tarafında, Quantic ve Concept-XE ise yol kullanımında öne çıkar.",
+      "Arai kaskları üst segmentte yer alır ve iç astarın kişiye göre ayarlanabilmesi, uzun kullanım ömrü ve servis desteğiyle tanınır. Çene açılır model sunmaması, modüler kask arayanlar için bir sınırlamadır."
+    ],
+    "strengths": [
+      "Aile şirketi, Japonya'da el işçiliği",
+      "Kayma odaklı yuvarlak kabuk felsefesi",
+      "Kişiselleştirilebilir iç astar",
+      "Adventure segmentinde köklü Tour-X serisi"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "RX-7V Evo",
+        "note": "Markanın amiral kapalı kaskı; yarış ve sportif kullanım.",
+        "url": "https://www.araihelmet.eu/en/collection/detail/rx-7v-evo"
+      },
+      {
+        "name": "Tour-X5",
+        "note": "Siperlikli adventure kask.",
+        "url": "https://www.araihelmet.eu/en/collection/detail/tour-x5"
+      },
+      {
+        "name": "Quantic",
+        "note": "Yol kullanımına yönelik kapalı kask.",
+        "url": "https://www.araihelmet.eu/en/collection/detail/quantic"
+      },
+      {
+        "name": "Concept-XE",
+        "note": "Retro görünümlü kapalı kask.",
+        "url": "https://www.araihelmet.eu/en/collection/detail/concept-xe"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "RX-7V Evo",
+        "url": "https://www.araihelmet.eu/en/collection/detail/rx-7v-evo",
+        "reason": "Arai'nin kabuk felsefesinin ve işçiliğinin en üst seviyede uygulandığı amiral modelidir."
+      },
+      {
+        "label": "Tour-X5 adventure kask",
+        "url": "https://www.araihelmet.eu/en/collection/detail/tour-x5",
+        "reason": "Adventure kask segmentinin köklü serilerinden birinin güncel nesli olup asfalt ve arazi arasında dengeli bir kullanım sunar."
+      }
+    ],
+    "alternatives": [
+      "shoei",
+      "agv",
+      "schuberth"
+    ],
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/about",
+        "type": "manufacturer",
+        "label": "Arai Helmet Europe – Hakkında",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://ridermagazine.com/the-why-behind-arai-helmets/",
+        "type": "review",
+        "label": "Rider Magazine – Arai tarihçesi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "ls2",
+    "name": "LS2",
+    "country": "Çin",
+    "founded": 2007,
+    "website": "https://ls2helmets.com/",
+    "about": [
+      "LS2, 2007'de kurulan ve kısa sürede küresel ölçekte yaygınlaşan bir kask markasıdır. Avrupa operasyonunu İspanya merkezli olarak yürüten marka, özellikle uygun fiyatlı ve ECE 22.06 onaylı kasklarla geniş bir kitleye ulaşır.",
+      "Kapalı, çene açılır, adventure, açık ve arazi kaskı kategorilerinin her birinde birden fazla modeli vardır. Vector II ve Storm III kapalı kask tarafında, Advant X ise çenesi kabuğun arkasına dönebilen modüler yapısıyla öne çıkar. Marka ayrıca mont, eldiven ve bot gibi giyim ürünleri de sunar.",
+      "LS2, ilk kaskını alan veya bütçesini diğer ekipmanlara da ayırmak isteyen sürücüler için güçlü bir seçenektir. Üst segment markalara göre konfor ve sessizlikte fark olabilir; bu yüzden denemeden almak önemlidir."
+    ],
+    "strengths": [
+      "Uygun fiyatlı ECE 22.06 kasklar",
+      "Geniş model ve kategori yelpazesi",
+      "Yenilikçi modüler tasarımlar",
+      "Kask dışında giyim ürünleri"
+    ],
+    "categories": [
+      "kask",
+      "mont",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Kapalı kasklar",
+        "note": "Vector II, Storm III gibi kapalı modeller.",
+        "url": "https://ls2helmets.com/helmets/full-face"
+      },
+      {
+        "name": "Çene açılır kasklar",
+        "note": "Advant X, Valiant gibi modüler modeller.",
+        "url": "https://ls2helmets.com/helmets/modular"
+      },
+      {
+        "name": "Adventure kasklar",
+        "note": "Siperlikli çift amaçlı modeller.",
+        "url": "https://ls2helmets.com/helmets/adventure"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Advant X çene açılır kask",
+        "url": "https://ls2helmets.com/helmets/modular/advant-x",
+        "reason": "Çene kısmı kabuğun arkasına kadar dönebilen yapısıyla, uygun fiyat aralığında farklı bir modüler kask deneyimi sunar."
+      },
+      {
+        "label": "Vector II kapalı kask",
+        "url": "https://ls2helmets.com/helmets/full-face/vector-ii",
+        "reason": "Bütçe dostu sportif kapalı kask arayan sürücüler için markanın öne çıkan modelidir."
+      }
+    ],
+    "alternatives": [
+      "hjc",
+      "scorpion",
+      "shark"
+    ],
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/about-us",
+        "type": "manufacturer",
+        "label": "LS2 – Hakkında",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "cardo",
+    "name": "Cardo",
+    "country": "İsrail",
+    "founded": 2004,
+    "website": "https://cardosystems.com/",
+    "about": [
+      "Cardo Systems, 2004'ten bu yana motosiklet iletişim sistemleri üreten bir markadır ve motosiklet için ilk Bluetooth interkomlardan biri olan Scala Rider serisiyle tanınmıştır. Marka bugün Mesh teknolojili grup interkomlarına odaklanır.",
+      "Packtalk serisi markanın üst segmentini oluşturur; Packtalk Edge ve Packtalk Neo, grup sürüşünde bağlantının sürücüler arasında otomatik olarak yeniden kurulduğu Mesh ağıyla çalışır. Freecom serisi ise tek sürücü veya küçük gruplar için Bluetooth tabanlı, daha sade bir seçenektir.",
+      "Cardo, bazı kask üreticileriyle ortak çalışarak kaska özel entegre çözümler de sunar. Hoparlör kalitesi ve uygulama üzerinden ayar yapılabilmesi markanın öne çıkan yönleri arasındadır."
+    ],
+    "strengths": [
+      "Grup sürüşü için Mesh interkom",
+      "Kask üreticileriyle entegre çözümler",
+      "Uygulama üzerinden kolay ayar ve güncelleme",
+      "Tekli kullanım için sade Freecom serisi"
+    ],
+    "categories": [
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "Packtalk Edge",
+        "note": "Mesh destekli üst segment grup interkomu.",
+        "url": "https://cardosystems.com/products/packtalk-edge"
+      },
+      {
+        "name": "Packtalk Neo",
+        "note": "Mesh destekli, daha erişilebilir Packtalk modeli.",
+        "url": "https://cardosystems.com/products/packtalk-neo"
+      },
+      {
+        "name": "Freecom 4x",
+        "note": "Bluetooth tabanlı tekli ve küçük grup interkomu.",
+        "url": "https://cardosystems.com/products/freecom-4x"
+      },
+      {
+        "name": "Entegre çözümler",
+        "note": "Kask markalarına özel Cardo üniteleri.",
+        "url": "https://cardosystems.com/collections/integrated-solutions"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Packtalk Edge",
+        "url": "https://cardosystems.com/products/packtalk-edge",
+        "reason": "Kalabalık grup sürüşlerinde kesintisiz Mesh bağlantısı arayanlar için markanın amiral interkomudur."
+      }
+    ],
+    "alternatives": [
+      "sena",
+      "schuberth"
+    ],
+    "sources": [
+      {
+        "url": "https://cardosystems.com/pages/company",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Şirket",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "sena",
+    "name": "Sena",
+    "country": "ABD",
+    "founded": 1998,
+    "website": "https://www.sena.com/",
+    "about": [
+      "Sena, 1998'de endüstriyel Bluetooth çözümleri üreten bir teknoloji şirketi olarak kurulmuş, 2010'da ilk motosiklet interkomu SMH10'u piyasaya sürmüştür. Bugün motosiklet iletişim sistemlerinin en yaygın markalarından biridir.",
+      "Ürün yelpazesi; 50 ve 60 serisi gibi Mesh destekli üst modeller, Spider serisi gibi Mesh odaklı kompakt üniteler ve uygun fiyatlı Bluetooth modellerinden oluşur. SRL serisi ise belirli Shoei kasklarına özel, kabuğa gömülü şekilde tasarlanmıştır.",
+      "Sena'nın güçlü yanı geniş ürün yelpazesi ve yaygın kullanıcı tabanıdır; bu da grup sürüşlerinde aynı markayı kullanan sürücü bulmayı kolaylaştırır. Bazı Sena modelleri farklı markalarla da evrensel interkom bağlantısı kurabilir."
+    ],
+    "strengths": [
+      "Çok geniş ürün yelpazesi",
+      "Mesh ve Bluetooth seçenekleri",
+      "Shoei kasklara özel SRL entegrasyonu",
+      "Yaygın kullanıcı tabanı"
+    ],
+    "categories": [
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "60 serisi",
+        "note": "Mesh ve Bluetooth destekli üst segment interkomlar.",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/60-series/"
+      },
+      {
+        "name": "50 serisi",
+        "note": "Mesh destekli önceki nesil üst segment interkomlar.",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/50-series/"
+      },
+      {
+        "name": "Spider serisi",
+        "note": "Mesh odaklı kompakt interkomlar.",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/spider-series/"
+      },
+      {
+        "name": "SRL serisi",
+        "note": "Belirli Shoei kasklarına özel gömülü interkomlar.",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/srl-series/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "60 serisi",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/60-series/",
+        "reason": "Markanın güncel üst segment Mesh interkom ailesidir ve grup sürüşü yapanlar için ilk bakılacak seridir."
+      },
+      {
+        "label": "SRL serisi",
+        "url": "https://www.sena.com/product/motorcycling/motorcycling-communication/srl-series/",
+        "reason": "Shoei kask kullananlar için kabuktan taşmayan, kaska özel temiz bir entegrasyon sunar."
+      }
+    ],
+    "alternatives": [
+      "cardo",
+      "schuberth"
+    ],
+    "sources": [
+      {
+        "url": "https://www.sena.com/about/company/",
+        "type": "manufacturer",
+        "label": "Sena – Şirket",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "alpinestars",
+    "name": "Alpinestars",
+    "country": "İtalya",
+    "founded": 1963,
+    "website": "https://www.alpinestars.com/",
+    "about": [
+      "Alpinestars, 1963'te deri ustası Sante Mazzarolo tarafından İtalya'da kurulmuştur. Marka botlarla başlamış, zamanla yol, pist ve arazi için mont, tulum, eldiven, koruma ve kask üreten kapsamlı bir ekipman markasına dönüşmüştür.",
+      "Yarış dünyasındaki uzun geçmişi markanın ürün geliştirmesinin merkezindedir. Tech-Air airbag sistemleri sokak, yarış ve arazi kullanımına göre farklı versiyonlarda sunulur; Supertech R gibi pist botları ise markanın bot geleneğini temsil eder.",
+      "Alpinestars giriş seviyesinden profesyonel yarış ekipmanına kadar geniş bir yelpazede ürün sunar. Kalıpları genellikle sportif ve vücuda oturan yapıdadır; bu yüzden beden seçiminde deneme yapmak önerilir."
+    ],
+    "strengths": [
+      "Bot ve pist ekipmanında köklü geçmiş",
+      "Tech-Air airbag sistemleri",
+      "Yol, pist ve arazi için eksiksiz ürün gamı",
+      "Yarıştan gelen geliştirme"
+    ],
+    "categories": [
+      "kask",
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Tech-Air",
+        "note": "Sokak, yarış ve arazi için airbag sistemleri.",
+        "url": "https://www.alpinestars.com/collections/tech-air-systems"
+      },
+      {
+        "name": "Motosiklet botları",
+        "note": "Pist, touring, şehir ve arazi botları.",
+        "url": "https://www.alpinestars.com/collections/motorcycle-boots"
+      },
+      {
+        "name": "Motosiklet montları",
+        "note": "Deri ve tekstil montlar.",
+        "url": "https://www.alpinestars.com/collections/moto-jackets"
+      },
+      {
+        "name": "Motosiklet eldivenleri",
+        "note": "Pist, yol ve şehir eldivenleri.",
+        "url": "https://www.alpinestars.com/collections/moto-gloves"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Tech-Air sokak airbag sistemleri",
+        "url": "https://www.alpinestars.com/collections/tech-air-systems/street-airbag",
+        "reason": "Yol kullanımı için tasarlanmış airbag sistemleriyle markanın en yenilikçi koruma alanını temsil eder."
+      },
+      {
+        "label": "Supertech R botları",
+        "url": "https://www.alpinestars.com/products/supertech-r-vented-boots",
+        "reason": "Alpinestars'ın bot uzmanlığının pist tarafındaki en üst örneğidir."
+      },
+      {
+        "label": "Motosiklet botları",
+        "url": "https://www.alpinestars.com/collections/motorcycle-boots",
+        "reason": "Markanın kuruluşundan beri en güçlü olduğu kategoridir; her kullanım tipine bot sunar."
+      }
+    ],
+    "alternatives": [
+      "dainese",
+      "revit",
+      "spidi"
+    ],
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "Alpinestars – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "dainese",
+    "name": "Dainese",
+    "country": "İtalya",
+    "founded": 1972,
+    "website": "https://www.dainese.com/",
+    "about": [
+      "Dainese, 1972'de Lino Dainese tarafından Vicenza yakınlarındaki Molvena'da kurulmuştur. İlk ürünü deri bir motokros pantolonu olan marka, koruma, ergonomi ve tasarımı bir araya getiren yaklaşımıyla motosiklet giyiminin öncü isimlerinden biri hâline gelmiştir.",
+      "D-air airbag teknolojisi markanın en bilinen yeniliklerinden biridir ve hem yarış tulumlarında hem de yol ekipmanlarında kullanılır. Deri tulumlar, deri ve tekstil montlar, sırt ve göğüs koruyucuları markanın güçlü olduğu diğer alanlardır.",
+      "Dainese, 2007'de AGV'yi satın alarak kask tarafını da grubuna katmıştır. Ürünleri genellikle üst segmenttedir ve sportif kalıplarla bilinir."
+    ],
+    "strengths": [
+      "D-air airbag teknolojisi",
+      "Deri tulum ve sportif giyimde köklü uzmanlık",
+      "Sırt ve göğüs koruyucularında geniş seçenek",
+      "Tasarım ve ergonomi odaklı yaklaşım"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "D-air",
+        "note": "Yol ve yarış için airbag sistemleri.",
+        "url": "https://www.dainese.com/gb/en/motorbike/protections/d-air-airbag/"
+      },
+      {
+        "name": "Deri tulumlar",
+        "note": "Pist ve sportif sürüş için tek ve iki parça tulumlar.",
+        "url": "https://www.dainese.com/gb/en/motorbike/men/leather-suits/"
+      },
+      {
+        "name": "Motosiklet montları",
+        "note": "Deri ve tekstil montlar.",
+        "url": "https://www.dainese.com/gb/en/motorbike/men/jackets/"
+      },
+      {
+        "name": "Sırt koruyucular",
+        "note": "Ayrı giyilen ve mont içi sırt koruyucuları.",
+        "url": "https://www.dainese.com/gb/en/motorbike/protections/back/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "D-air airbag",
+        "url": "https://www.dainese.com/gb/en/motorbike/protections/d-air-airbag/",
+        "reason": "Motosiklet airbag teknolojisinin öncülerinden biri olan markanın en ayırt edici ürün ailesidir."
+      },
+      {
+        "label": "Deri tulumlar",
+        "url": "https://www.dainese.com/gb/en/motorbike/men/leather-suits/",
+        "reason": "Markanın yarış geçmişinin en doğrudan yansıdığı, pist kullanıcıları için güçlü bir kategoridir."
+      }
+    ],
+    "alternatives": [
+      "alpinestars",
+      "spidi",
+      "revit"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dainese.com/",
+        "type": "manufacturer",
+        "label": "Dainese – Resmi site",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dainese",
+        "type": "review",
+        "label": "Wikipedia – Dainese",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "revit",
+    "name": "REV'IT!",
+    "country": "Hollanda",
+    "founded": 1995,
+    "website": "https://revitsport.com/",
+    "about": [
+      "REV'IT!, 1995'ten bu yana motosiklet giyimi üreten Hollandalı bir markadır. Koruma, konfor ve tasarımı birlikte ele alan yaklaşımıyla özellikle tekstil ekipmanda güçlü bir konuma sahiptir.",
+      "Marka adventure, sport ve urban olmak üzere üç ana kullanım alanına göre ürün geliştirir. Sand serisi uzun yıllardır adventure sürücülerinin tercih ettiği katmanlı mont ve pantolon ailesidir; motosiklet jeanleri ve şehir montları ise günlük kullanım tarafını temsil eder.",
+      "REV'IT! kalıpları genellikle Avrupa ölçülerine göre ayarlıdır ve kadın koleksiyonu da geniştir. Fiyat konumu orta-üst segmenttir."
+    ],
+    "strengths": [
+      "Adventure ve touring tekstil giyimde uzmanlık",
+      "Katmanlı ve çok mevsimli ürün yapısı",
+      "Şehir kullanımına uygun jean ve montlar",
+      "Geniş kadın koleksiyonu"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Sand 5",
+        "note": "Adventure için katmanlı mont ve pantolon ailesi.",
+        "url": "https://revitsport.com/collections/sand-5-collection"
+      },
+      {
+        "name": "Adventure koleksiyonu",
+        "note": "Uzun yol ve karma zemin ekipmanı.",
+        "url": "https://revitsport.com/collections/adventure-motorcycle-gear-men"
+      },
+      {
+        "name": "Motosiklet jeanleri",
+        "note": "Günlük görünümlü korumalı jeanler.",
+        "url": "https://revitsport.com/collections/men-motorcycle-jeans"
+      },
+      {
+        "name": "Urban koleksiyonu",
+        "note": "Şehir içi kullanım için montlar ve ekipman.",
+        "url": "https://revitsport.com/collections/urban-motorcycle-gear-men"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Sand 5 adventure koleksiyonu",
+        "url": "https://revitsport.com/collections/sand-5-collection",
+        "reason": "Markanın adventure segmentindeki köklü serisinin güncel nesli olup katmanlı yapısıyla dört mevsim kullanıma uygundur."
+      },
+      {
+        "label": "Motosiklet jeanleri",
+        "url": "https://revitsport.com/collections/men-motorcycle-jeans",
+        "reason": "Günlük kıyafet görünümünden vazgeçmeden koruma isteyen şehir sürücüleri için güçlü bir seçenektir."
+      }
+    ],
+    "alternatives": [
+      "dainese",
+      "alpinestars",
+      "held"
+    ],
+    "sources": [
+      {
+        "url": "https://revitsport.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "REV'IT! – Hikayemiz",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "spidi",
+    "name": "Spidi",
+    "country": "İtalya",
+    "founded": 1977,
+    "website": "https://www.spidi.com/",
+    "about": [
+      "Spidi, 1977'de Renato Dalla Grana tarafından İtalya'nın Vicenza bölgesinde kurulmuştur. Marka yarış eldivenleriyle başlamış ve eldiven bugün de kimliğinin merkezinde yer almaktadır.",
+      "Carbo serisi gibi performans eldivenleri, bilek ve avuç bölgesinde darbeyi dağıtmayı amaçlayan Warrior adlı koruyucu tasarımıyla bilinir. Marka eldivenin yanında deri tulum, mont, pantolon, bot ve koruyucu ürünleri de sunar.",
+      "Spidi ürünleri performans, adventure ve urban kullanım alanlarına göre gruplanır. Sportif kalıplı ürünlerde beden seçimini üreticinin tablosuna göre yapmak önerilir."
+    ],
+    "strengths": [
+      "Eldivende köklü uzmanlık",
+      "Performans ve pist ürünleri",
+      "Deri tulum ve sportif montlar",
+      "Koruyucu tasarımında kendine özgü yaklaşım"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Performans eldivenleri",
+        "note": "Carbo serisi dahil pist ve sportif eldivenler.",
+        "url": "https://www.spidi.com/eu_en/mens/use/performance/gloves"
+      },
+      {
+        "name": "Yarış tulumları",
+        "note": "Pist kullanımı için deri tulumlar.",
+        "url": "https://www.spidi.com/eu_en/mens/motorcycle-gear/motorcycle-racing-suits"
+      },
+      {
+        "name": "Adventure montlar",
+        "note": "Touring ve adventure için montlar.",
+        "url": "https://www.spidi.com/eu_en/mens/use/adventure/jackets"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Performans eldivenleri (Carbo serisi)",
+        "url": "https://www.spidi.com/eu_en/mens/use/performance/gloves",
+        "reason": "Markanın eldivenle başlayan geçmişinin en güçlü yansıdığı, sportif sürücüler için ana ürün ailesidir."
+      }
+    ],
+    "alternatives": [
+      "dainese",
+      "alpinestars",
+      "held"
+    ],
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/",
+        "type": "manufacturer",
+        "label": "Spidi – Resmi site",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spidi",
+        "type": "review",
+        "label": "Wikipedia – Spidi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "held",
+    "name": "Held",
+    "country": "Almanya",
+    "founded": 1946,
+    "website": "https://www.held.de/",
+    "about": [
+      "Held, 1946'da kurulan Alman motosiklet giyim markasıdır. 1970'lerden itibaren motosiklet eldivenlerine odaklanmış ve eldiven uzmanlığı markanın en tanınan yönü olmuştur.",
+      "Bugün Held; eldivenin yanında touring, adventure, sport ve urban kullanım için mont, pantolon, bot ve koruyucular sunar. eVest Pro adlı airbag yeleği de ürün gamında yer alır. Ürünlerde Gore-Tex gibi membran ortaklıkları sık kullanılır.",
+      "Marka touring ve uzun yol sürücüleri arasında özellikle dayanıklılık ve konforuyla bilinir. Fiyat konumu orta-üst segmenttir."
+    ],
+    "strengths": [
+      "Eldivende uzun süreli uzmanlık",
+      "Touring ve uzun yol ekipmanı",
+      "Su geçirmez membranlı ürünlerde geniş seçenek",
+      "Dayanıklılık odaklı üretim"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Eldivenler",
+        "note": "Yazlık, kışlık, touring ve sport eldivenler.",
+        "url": "https://shop.held.de/en/Gloves"
+      },
+      {
+        "name": "Touring",
+        "note": "Uzun yol için mont, pantolon ve aksesuarlar.",
+        "url": "https://shop.held.de/en/touring"
+      },
+      {
+        "name": "Adventure",
+        "note": "Karma zemin ve seyahat ekipmanı.",
+        "url": "https://shop.held.de/en/adventure"
+      },
+      {
+        "name": "eVest Pro",
+        "note": "Airbag yelek.",
+        "url": "https://www.held.de/en/held-evest-pro/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Held eldivenleri",
+        "url": "https://shop.held.de/en/Gloves",
+        "reason": "Markanın on yıllardır en güçlü olduğu kategori olup her mevsim ve kullanım tipine yönelik geniş bir seçenek sunar."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "spidi",
+      "furygan"
+    ],
+    "sources": [
+      {
+        "url": "https://www.held.de/en/held-en/history/",
+        "type": "manufacturer",
+        "label": "Held – Tarihçe",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "tcx",
+    "name": "TCX",
+    "country": "İtalya",
+    "founded": 1999,
+    "website": "https://www.tcxboots.com/",
+    "about": [
+      "TCX, hikayesi 1999'da uluslararası patentli ilk ürünüyle başlayan İtalyan motosiklet botu markasıdır. Marka, EN 13634 standardına göre sertifikalı motosiklet botlarını pazara ilk sunanlardan biri olduğunu belirtir.",
+      "Ürün gamı yarış, touring, urban ve arazi olmak üzere dört ana gruptan oluşur. Urban tarafındaki Street serisi gibi spor ayakkabı görünümlü modeller şehir sürücüleri arasında yaygındır; touring botlarında ise su geçirmez membranlı modeller öne çıkar.",
+      "TCX yalnızca ayakkabı ve bot ürettiği için bu kategoride derin bir model seçeneği sunar. Fiyat konumu orta segmentten üst segmente uzanır."
+    ],
+    "strengths": [
+      "Yalnızca bot ve ayakkabıya odaklanma",
+      "Şehir için spor ayakkabı görünümlü korumalı modeller",
+      "Su geçirmez touring botları",
+      "EN 13634 sertifikasyonuna erken uyum"
+    ],
+    "categories": [
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Touring",
+        "note": "Uzun yol için su geçirmez botlar.",
+        "url": "https://www.tcxboots.com/gb/en/touring/"
+      },
+      {
+        "name": "Urban",
+        "note": "Günlük görünümlü korumalı ayakkabı ve kısa botlar.",
+        "url": "https://www.tcxboots.com/gb/en/urban/"
+      },
+      {
+        "name": "Racing",
+        "note": "Pist ve sportif sürüş botları.",
+        "url": "https://www.tcxboots.com/gb/en/racing/"
+      },
+      {
+        "name": "Off-road",
+        "note": "Arazi ve enduro botları.",
+        "url": "https://www.tcxboots.com/gb/en/off-road/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Urban koleksiyonu",
+        "url": "https://www.tcxboots.com/gb/en/urban/",
+        "reason": "Spor ayakkabı görünümünde ama EN 13634 korumalı modelleriyle şehir sürücülerinin en çok baktığı ürün grubudur."
+      },
+      {
+        "label": "Touring botları",
+        "url": "https://www.tcxboots.com/gb/en/touring/",
+        "reason": "Su geçirmez ve yürüme konforu yüksek modelleriyle uzun yol için güçlü bir seçenektir."
+      }
+    ],
+    "alternatives": [
+      "sidi",
+      "alpinestars",
+      "dainese"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tcxboots.com/gb/en/company.html",
+        "type": "manufacturer",
+        "label": "TCX – Şirket",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.tcxboots.com/bg/en/certifications.html",
+        "type": "manufacturer",
+        "label": "TCX – Sertifikalar",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "sidi",
+    "name": "Sidi",
+    "country": "İtalya",
+    "founded": 1960,
+    "website": "https://sidi.com/",
+    "about": [
+      "Sidi, 1960'ta Dino Signori tarafından İtalya'da kurulmuştur; marka adını kurucusunun isminin baş harflerinden alır. Hem motosiklet botları hem de bisiklet ayakkabılarıyla tanınır.",
+      "Motosiklet tarafında yarış, touring, street ve arazi botları sunar. Arazi botları motokros ve enduro sürücüleri arasında uzun yıllardır yaygındır; yarış botları ise pist sürücüleri için sert yapı ve hassas ayar sistemleriyle öne çıkar.",
+      "Sidi botları genellikle dar ve İtalyan kalıplı olarak bilinir. Geniş ayaklı sürücülerin satın almadan önce denemesi önerilir."
+    ],
+    "strengths": [
+      "Arazi ve motokros botlarında köklü uzmanlık",
+      "Yarış botlarında hassas ayar sistemleri",
+      "Yedek parça desteği",
+      "Ayakkabı üretiminde uzun geçmiş"
+    ],
+    "categories": [
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Yarış botları",
+        "note": "Pist ve sportif sürüş botları.",
+        "url": "https://sidi.com/collections/racing-motorcycle-boots"
+      },
+      {
+        "name": "Arazi botları",
+        "note": "Motokros ve enduro botları.",
+        "url": "https://sidi.com/collections/offroad-motorcycle-boots"
+      },
+      {
+        "name": "Touring botları",
+        "note": "Uzun yol botları.",
+        "url": "https://sidi.com/collections/touring-motorcycle-boots"
+      },
+      {
+        "name": "Street botları",
+        "note": "Şehir ve günlük kullanım botları.",
+        "url": "https://sidi.com/collections/street-motorcycle-boots"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Arazi botları",
+        "url": "https://sidi.com/collections/offroad-motorcycle-boots",
+        "reason": "Motokros ve enduro sürücüleri arasında uzun yıllardır tercih edilen, markanın en güçlü olduğu kategoridir."
+      },
+      {
+        "label": "Yarış botları",
+        "url": "https://sidi.com/collections/racing-motorcycle-boots",
+        "reason": "Pist kullanımı için sert yapı ve hassas kapanma sistemleri arayanlara yöneliktir."
+      }
+    ],
+    "alternatives": [
+      "tcx",
+      "alpinestars",
+      "dainese"
+    ],
+    "sources": [
+      {
+        "url": "https://sidi.com/",
+        "type": "manufacturer",
+        "label": "Sidi – Resmi site",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sidi_(company)",
+        "type": "review",
+        "label": "Wikipedia – Sidi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "furygan",
+    "name": "Furygan",
+    "country": "Fransa",
+    "founded": 1969,
+    "website": "https://www.furygan.com/",
+    "about": [
+      "Furygan, 1969'dan bu yana motosiklet ekipmanı üreten Fransız bir markadır. Deri ceket ve eldivenlerle tanınan marka, bugün mont, pantolon, eldiven, bot ve koruma ürünlerinden oluşan geniş bir gama sahiptir.",
+      "Marka D3O gibi koruyucu malzemelerle iş birliği yapar ve Fury adlı airbag ürünlerini sunar. Isıtmalı eldiven serisi de kış sürücülerine yönelik öne çıkan ürün grupları arasındadır.",
+      "Furygan ürünleri şehir, touring ve sportif kullanım arasında dengeli bir dağılım gösterir. Avrupa'da özellikle Fransa pazarında yaygındır."
+    ],
+    "strengths": [
+      "Deri ceket ve eldivende geçmiş",
+      "D3O koruyucu iş birliği",
+      "Fury airbag ürünleri",
+      "Isıtmalı eldiven seçenekleri"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Fury Airbags",
+        "note": "Markanın airbag ürün ailesi.",
+        "url": "https://www.furygan.com/fury-airbags/"
+      },
+      {
+        "name": "Isıtmalı eldivenler",
+        "note": "Kış sürüşü için ısıtmalı eldiven serisi.",
+        "url": "https://www.furygan.com/gants-chauffants/"
+      },
+      {
+        "name": "D3O teknolojisi",
+        "note": "Ürünlerde kullanılan D3O koruyucular.",
+        "url": "https://www.furygan.com/technologies/technologie-d3o-xfury/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Fury Airbags",
+        "url": "https://www.furygan.com/fury-airbags/",
+        "reason": "Markanın koruma tarafındaki en ileri ürün grubudur ve sürücüye ek gövde koruması sağlar."
+      },
+      {
+        "label": "Isıtmalı eldivenler",
+        "url": "https://www.furygan.com/gants-chauffants/",
+        "reason": "Soğuk iklimde sürenler için markanın öne çıkan kış ürünü grubudur."
+      }
+    ],
+    "alternatives": [
+      "held",
+      "macna",
+      "dainese"
+    ],
+    "sources": [
+      {
+        "url": "https://www.furygan.com/histoire/",
+        "type": "manufacturer",
+        "label": "Furygan – Tarihçe",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "macna",
+    "name": "Macna",
+    "country": "Hollanda",
+    "founded": null,
+    "website": "https://www.macna.com/",
+    "about": [
+      "Macna, Hollanda merkezli bir motosiklet giyim markasıdır. Mont, pantolon, eldiven, bot, yağmurluk ve çanta gibi geniş bir ürün gamını orta segment fiyat konumuyla sunar.",
+      "Marka özellikle ısıtmalı ekipman ve farklı membran yapılarına göre ayrılmış tekstil montlarıyla öne çıkar: direkt laminasyonlu, ayrılabilir membranlı, iki ve üç katmanlı seçenekler ayrı ayrı listelenir. Techlab çatısı altında Octoairbag adlı airbag ürünü de sunar.",
+      "Macna, kalite-fiyat dengesi arayan touring ve şehir sürücüleri için mantıklı bir seçenektir. Ürünlerin EN 17092 sınıfını model bazında kontrol etmek gerekir."
+    ],
+    "strengths": [
+      "Isıtmalı mont, pantolon ve eldiven",
+      "Membran yapısına göre net ayrılmış tekstil ürünler",
+      "Orta segmentte kalite-fiyat dengesi",
+      "Yağmurluk ve aksesuarda geniş gam"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Montlar",
+        "note": "Direkt laminasyonlu, ayrılabilir membranlı, file ve deri montlar.",
+        "url": "https://www.macna.com/en/collection/jackets"
+      },
+      {
+        "name": "Eldivenler",
+        "note": "Su geçirmez, havalandırmalı, deri ve ısıtmalı eldivenler.",
+        "url": "https://www.macna.com/en/collection/gloves"
+      },
+      {
+        "name": "Isıtmalı ekipman",
+        "note": "Isıtmalı mont, pantolon ve eldivenler.",
+        "url": "https://www.macna.com/en/heated-homepage-2025"
+      },
+      {
+        "name": "Octoairbag",
+        "note": "Techlab airbag ürünü.",
+        "url": "https://www.macna.com/en/Techlab-Safety-Octoairbag"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Isıtmalı ekipman",
+        "url": "https://www.macna.com/en/heated-homepage-2025",
+        "reason": "Markanın en belirgin uzmanlık alanı olup kışın uzun sürüş yapanlar için kapsamlı bir ürün grubudur."
+      },
+      {
+        "label": "Montlar",
+        "url": "https://www.macna.com/en/collection/jackets",
+        "reason": "Membran türüne göre seçim yapmayı kolaylaştıran geniş tekstil mont yelpazesi sunar."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "held",
+      "furygan"
+    ],
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/about-macna",
+        "type": "manufacturer",
+        "label": "Macna – Hakkında",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "shark",
+    "name": "Shark",
+    "country": "Fransa",
+    "founded": 1986,
+    "website": "https://www.shark-helmets.com/",
+    "about": [
+      "Shark, 1986'da eski yarışçı kardeşler André ve Robert Teston tarafından Marsilya'da kurulan Fransız kask markasıdır. Yarış kökeni, markanın pist kasklarında ve MotoGP iş birliklerinde hâlâ belirgindir.",
+      "Ürün gamı yarış, kapalı, çene açılır ve açık kasklardan oluşur. Spartan serisi sportif yol kullanımında, Aeron GP pist tarafında öne çıkar; Skwal ailesinde LED aydınlatmalı modeller de bulunur. Marka kendi interkom ürünlerini de sunar.",
+      "Shark, orta ve üst segment arasında geniş bir fiyat aralığına yayılır ve Avrupa'da, özellikle Fransa'da yaygın bir markadır."
+    ],
+    "strengths": [
+      "Yarış kökenli tasarım",
+      "Geniş fiyat aralığı",
+      "Çene açılır ve açık kask seçenekleri",
+      "LED'li ve yenilikçi modeller"
+    ],
+    "categories": [
+      "kask",
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "Kapalı kasklar",
+        "note": "Spartan ve Skwal gibi kapalı modeller.",
+        "url": "https://www.shark-helmets.com/en/collections/full-face-helmet"
+      },
+      {
+        "name": "Yarış kaskları",
+        "note": "Aeron GP gibi pist odaklı modeller.",
+        "url": "https://www.shark-helmets.com/en/collections/racing-helmets"
+      },
+      {
+        "name": "Çene açılır kasklar",
+        "note": "Touring için modüler modeller.",
+        "url": "https://www.shark-helmets.com/en/collections/modular-helmets"
+      },
+      {
+        "name": "Açık kasklar",
+        "note": "Şehir ve scooter için jet kasklar.",
+        "url": "https://www.shark-helmets.com/en/collections/jet-helmets"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Kapalı kasklar",
+        "url": "https://www.shark-helmets.com/en/collections/full-face-helmet",
+        "reason": "Spartan ve Skwal serileriyle sportif yol kullanımında markanın en güçlü kategorisidir."
+      },
+      {
+        "label": "Yarış kaskları",
+        "url": "https://www.shark-helmets.com/en/collections/racing-helmets",
+        "reason": "Markanın yarış kökeninin en doğrudan yansıdığı, pist kullanıcılarına yönelik ürün grubudur."
+      }
+    ],
+    "alternatives": [
+      "agv",
+      "hjc",
+      "nolan"
+    ],
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en",
+        "type": "manufacturer",
+        "label": "Shark – Resmi site",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shark_(helmet_manufacturer)",
+        "type": "review",
+        "label": "Wikipedia – Shark",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "nolan",
+    "name": "Nolan",
+    "country": "İtalya",
+    "founded": 1972,
+    "website": "https://nolan-helmets.com/",
+    "about": [
+      "Nolan, 1972'de Lander Nocchi tarafından Bergamo yakınlarındaki Brembate di Sopra'da kurulan İtalyan kask markasıdır. Nolan Group çatısı altında X-lite ve Grex markaları da yer alır.",
+      "Marka özellikle çene açılır ve touring kasklarla tanınır. N-Com adlı iletişim sistemi, Nolan kasklarına özel olarak tasarlanmıştır ve kaskın içine entegre şekilde takılır.",
+      "Nolan kaskları orta segmentte konumlanır ve modüler kask arayan touring sürücüleri için mantıklı bir fiyat-özellik dengesi sunar."
+    ],
+    "strengths": [
+      "Çene açılır kasklarda geniş seçenek",
+      "Kaska özel N-Com iletişim sistemi",
+      "Orta segmentte touring odaklı tasarım",
+      "İtalya'da üretim geleneği"
+    ],
+    "categories": [
+      "kask",
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "Çene açılır kasklar",
+        "note": "Touring için modüler modeller.",
+        "url": "https://nolan-helmets.com/en/collections/flip-up-helmet"
+      },
+      {
+        "name": "Kapalı kasklar",
+        "note": "Yol kullanımı için kapalı modeller.",
+        "url": "https://nolan-helmets.com/en/collections/full-face-helmet"
+      },
+      {
+        "name": "Açık kasklar",
+        "note": "Şehir için jet kasklar.",
+        "url": "https://nolan-helmets.com/en/collections/jet-helmet"
+      },
+      {
+        "name": "N-Com",
+        "note": "Nolan kasklarına özel iletişim sistemleri.",
+        "url": "https://nolan-helmets.com/en/collections/n-com"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Çene açılır kasklar",
+        "url": "https://nolan-helmets.com/en/collections/flip-up-helmet",
+        "reason": "Markanın en güçlü olduğu touring-modüler segmenttir ve orta bütçeyle çene açılır kask arayanlara geniş seçenek sunar."
+      },
+      {
+        "label": "N-Com iletişim sistemleri",
+        "url": "https://nolan-helmets.com/en/collections/n-com",
+        "reason": "Nolan kask kullananlar için kaskın içine entegre, dışarı taşmayan bir interkom çözümüdür."
+      }
+    ],
+    "alternatives": [
+      "schuberth",
+      "shark",
+      "hjc"
+    ],
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en",
+        "type": "manufacturer",
+        "label": "Nolan – Resmi site",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motoproworks.com/blogs/news/an-italian-story-50-years-anniversary",
+        "type": "retailer",
+        "label": "MotoProWorks – Nolan 50. yıl",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "scorpion",
+    "name": "Scorpion",
+    "country": "Güney Kore",
+    "founded": null,
+    "website": "https://scorpionexo.com/eu/",
+    "about": [
+      "Scorpion (ScorpionEXO), Güney Koreli KIDO Industrial'ın 2001'de kurduğu motosiklet kaskı bölümünden doğmuştur. Marka kısa sürede ABD ve Avrupa'ya açılmış, bugün geniş bir kask yelpazesi sunmaktadır.",
+      "Ürün gamı kapalı, çene açılır, adventure, açık ve arazi kasklarından oluşur. EXO serisi markanın kapalı kasklarını, ADF-9000 Air ise adventure kullanıma yönelik çok yönlü yapısıyla öne çıkan modellerdendir.",
+      "Scorpion, orta segmentte özellik zenginliği arayan sürücüler için alternatif bir markadır; Türkiye'de bulunabilirlik modele göre değişebilir."
+    ],
+    "strengths": [
+      "Orta segmentte geniş model yelpazesi",
+      "Adventure ve modüler seçenekler",
+      "Farklı kabuk malzemesi seçenekleri",
+      "Yarış odaklı EXO modelleri"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Kapalı kasklar",
+        "note": "EXO serisi kapalı kasklar.",
+        "url": "https://scorpionexo.com/eu/helmet_type/full-face/"
+      },
+      {
+        "name": "Çene açılır kasklar",
+        "note": "Modüler modeller.",
+        "url": "https://scorpionexo.com/eu/helmet_type/modular/"
+      },
+      {
+        "name": "Adventure",
+        "note": "Adventure kullanımına yönelik kasklar.",
+        "url": "https://scorpionexo.com/eu/helmet_lifestyles/adventure/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "ADF-9000 Air",
+        "url": "https://scorpionexo.com/eu/product/adf-9000-air-solid/",
+        "reason": "Adventure kullanımına yönelik çok yönlü yapısıyla markanın öne çıkan modellerinden biridir."
+      },
+      {
+        "label": "EXO-Race Air",
+        "url": "https://scorpionexo.com/eu/exo-race-air/",
+        "reason": "Markanın pist ve sportif sürüşe yönelik en iddialı kapalı kaskıdır."
+      }
+    ],
+    "alternatives": [
+      "ls2",
+      "hjc",
+      "shark"
+    ],
+    "sources": [
+      {
+        "url": "https://scorpionexo.com/eu/our-story/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO – Hikayemiz",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

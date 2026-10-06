@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "motosiklet-botu-nasil-secilir",
+    "title": "Motosiklet Botu Nasıl Seçilir? (EN 13634)",
+    "description": "Motosiklet botu seçerken EN 13634 dört haneli kodu, IPA, IPS ve WR işaretleri, bot tipleri ve doğru beden için pratik rehber.",
+    "topic": "bot",
+    "readingMinutes": 6,
+    "intro": "Motosiklet botu seçerken önce EN 13634 etiketindeki dört haneli koda bakmalısın: rakamlar sırasıyla konç yüksekliğini, sürtünme dayanımını, darbeli kesilme dayanımını ve enine sertliği (ezilmeye direnç) gösterir; her biri 1 veya 2 olur ve 2 daha iyidir. Ardından kullanımına göre şehir, touring, sport veya adventure tipini seç ve mutlaka ayak bileğini kapatan bir model al.",
+    "sections": [
+      {
+        "heading": "Etiketteki kodu okumak",
+        "paragraphs": [
+          "EN 13634:2017 sertifikalı botun içinde motosiklet piktogramı ve dört rakamlı bir kod bulunur. Örneğin '2 2 2 2' her alanda Level 2, '1 2 2 2' ise kısa konçlu ama diğer testlerde Level 2 bir bot demektir. Yükseklik hanesinde 1 bileği kapatan kısa botları, 2 ise kaval kemiğine uzanan uzun botları ifade eder."
+        ],
+        "bullets": [
+          "1. hane: Konç yüksekliği (1 kısa, 2 uzun)",
+          "2. hane: Darbeli sürtünme dayanımı",
+          "3. hane: Darbeli kesilme dayanımı",
+          "4. hane: Enine sertlik, yani botun yanal ezilmeye direnci",
+          "IPA: Ayak bileği darbe koruması test edilmiş",
+          "IPS: Kaval kemiği darbe koruması test edilmiş",
+          "WR: Botun bütünü su geçirmezlik testinden geçmiş"
+        ]
+      },
+      {
+        "heading": "Bot tipleri",
+        "paragraphs": [
+          "Bot tipi, sürüş tarzına göre koruma ve günlük kullanım arasındaki dengeyi belirler. Şehir botları ayakkabıya benzer ve yürümesi kolaydır; sport botları burulma kontrolü ve sert dış koruyucularla en yüksek korumayı sunar ama yürümek için uygun değildir.",
+          "Touring botları uzun konç, su geçirmezlik ve konforu birleştirir. Adventure botları ise arazide ayakta sürüşe uygun sert taban ve bilek desteğiyle asfalt ve toprak arasında köprü kurar."
+        ],
+        "bullets": [
+          "Şehir botu: kısa konç, günlük görünüm, genellikle 1 x x x kodu",
+          "Touring: uzun konç, su geçirmez membran, yürüme konforu",
+          "Sport: burulma kontrolü, kaydırıcılar, en sert yapı",
+          "Adventure: sağlam taban, bilek desteği, arazi tutuşu"
+        ]
+      },
+      {
+        "heading": "Su geçirmezlik ve havalandırma",
+        "paragraphs": [
+          "Su geçirmez membranlı botlar yağmurda ve kışın büyük konfor sağlar, ama yazın ayağı daha çok terletebilir. Etikette WR yazması, botun bütününün su geçirmezlik testinden geçtiğini gösterir; yalnızca 'su geçirmez astar' ifadesi bu testin yapıldığını garanti etmez.",
+          "Ağırlıklı olarak sıcak havada sürüyorsan delikli veya file panelli bir yazlık bot, yağmuru da yaşadığın bir iklimde membranlı bir dört mevsim bot daha mantıklıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Taban, vites ve yürüme",
+        "paragraphs": [
+          "Tabanın kaymaz olması hem durduğunda ayağını yere koyarken hem de yakıt veya yağlı zeminlerde önemlidir. Vites pedalının üst kısmına denk gelen bölgede takviye olup olmadığına bak; bu bölge zamanla aşınır.",
+          "Çok sert bir taban motosiklette iyi destek verir ama yürürken yorar. Gün içinde motosikletten inip yürüyorsan şehir veya touring botu, sport botuna göre çok daha kullanışlıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Beden ve deneme",
+        "paragraphs": [
+          "Botu akşamüstü, ayakların hafif şiştiği bir saatte ve sürüşte giyeceğin çorapla dene. Topuk yürürken kalkmamalı, ayak parmakları öne değmemelidir. Motosikletin üzerinde ayak ucunu vites pedalının altına sokabildiğinden emin ol.",
+          "Pantolon paçasının botun üzerine mi yoksa içine mi gireceğini de düşün. Yağmurda paçanın botun üstüne binmesi suyun konca dolmasını engeller."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Spor ayakkabıyla motosiklete binmek ne kadar riskli?",
+        "a": "Spor ayakkabı ayak bileğini burulmaya karşı desteklemez, yanal ezilmeye karşı sertliği yoktur ve düşmede kolayca ayaktan çıkabilir. Kısa bir EN 13634 sertifikalı şehir botu bile çok daha fazla koruma sağlar."
+      },
+      {
+        "q": "Kısa konçlu bot yeterli mi?",
+        "a": "Şehir içi kullanımda bileği kapatan ve sertifikalı kısa bir bot makul bir tercihtir. Otoyol, uzun yol ve sportif sürüşte kaval kemiğini de koruyan uzun konçlu bot daha güvenlidir."
+      },
+      {
+        "q": "Botun içindeki IPA ve IPS ne demek?",
+        "a": "IPA ayak bileği, IPS kaval kemiği bölgesindeki darbe koruyucusunun test edildiğini gösterir. Bu işaretler isteğe bağlıdır; bulunmaları ek bir koruma kanıtıdır."
+      },
+      {
+        "q": "Bot ne zaman değiştirilmeli?",
+        "a": "Düşmede dış kabuk çatladıysa, taban kaymaya başladıysa veya bilek desteği yumuşayıp esnemeye başladıysa yenilemek gerekir."
+      }
+    ],
+    "relatedGuides": [
+      "ilk-motosiklet-ekipmanlari",
+      "adventure-surucu-ekipmanlari",
+      "yagmurda-motosiklet-ekipmani"
+    ],
+    "relatedCategories": [
+      "bot",
+      "bot/sehir-botu",
+      "bot/touring-botu",
+      "bot/sport-botu",
+      "bot/adventure-botu"
+    ],
+    "sources": [
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.tcxboots.com/bg/en/certifications.html",
+        "type": "manufacturer",
+        "label": "TCX – EN 13634 sertifika açıklamaları",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "aa-ve-aaa-koruma-farki",
+    "title": "EN 17092: AAA, AA, A, B, C Sınıfları Ne Anlama Gelir?",
+    "description": "EN 17092 motosiklet giysi standardında AAA, AA, A, B ve C sınıflarının farkı, hangi testlerin yapıldığı ve hangi sınıfın kime uygun olduğu.",
+    "topic": "koruma",
+    "readingMinutes": 6,
+    "intro": "EN 17092'de AAA en yüksek, C en düşük koruma sınıfıdır: AAA, AA ve A sınıfı giysiler hem sürtünmeye dayanıklıdır hem de darbe koruyucu içerir, B sınıfı yalnızca sürtünme koruması sağlar, C ise sadece koruyucuları yerinde tutan bir katmandır. Sınıflar arasındaki fark, kumaşın asfaltta kaymaya ne kadar dayandığı, yırtılma ve dikiş dayanımı ile hangi bölgelerde koruyucunun zorunlu olduğudur.",
+    "sections": [
+      {
+        "heading": "EN 17092 nedir?",
+        "paragraphs": [
+          "EN 17092, motosiklet sürücüleri için koruyucu mont, pantolon ve tek veya iki parçalı tulumların Avrupa standardıdır ve eski EN 13595'in yerini almıştır. Standart altı bölümden oluşur: birinci bölüm test yöntemlerini, ikinci ile altıncı bölümler ise sırasıyla AAA, AA, A, B ve C sınıflarının gereksinimlerini tanımlar.",
+          "Etikette sınıf harfi motosiklet piktogramıyla birlikte yazılır. Etikette 'EN 17092-3' gibi bir ifade görürsen bu, giysinin AA sınıfı gereksinimlerine göre test edildiği anlamına gelir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Beş sınıf tek bakışta",
+        "paragraphs": [
+          "Sınıflar sürtünme dayanımı ve koruyucu zorunluluğuna göre ayrılır. Harf sayısı arttıkça giysinin sürtünme ve yırtılma testlerinde karşılaması gereken eşik yükselir."
+        ],
+        "bullets": [
+          "AAA (EN 17092-2): En yüksek sürtünme ve darbe dayanımı. Omuz, dirsek, kalça ve diz koruyucusu zorunlu.",
+          "AA (EN 17092-3): Yüksek koruma; kaliteli touring ve yol giysilerinin büyük kısmı bu sınıftadır. Omuz, dirsek, kalça ve diz koruyucusu zorunlu.",
+          "A (EN 17092-4): Daha hafif giysiler ve düşük riskli kullanım için. Omuz, dirsek ve diz koruyucusu zorunlu, kalça koruyucusu isteğe bağlı.",
+          "B (EN 17092-5): A sınıfına denk sürtünme koruması, ancak darbe koruyucu içermez.",
+          "C (EN 17092-6): Yalnızca koruyucunun kapladığı bölgede darbe koruması sağlar; minimum sürtünme koruması yoktur. Başka bir sınıflı giysinin altında veya üstünde kullanılmak üzere tasarlanır."
+        ]
+      },
+      {
+        "heading": "Hangi testler yapılıyor?",
+        "paragraphs": [
+          "Sınıfı belirleyen başlıca test, kumaşın hareket eden aşındırıcı bir yüzeye çarpıp kaydığı darbeli sürtünme testidir; bu test bir sürücünün beton zemin üzerinde kaymasını taklit eder. Bunun yanında yırtılma dayanımı, dikiş patlama dayanımı, yıkama sonrası boyut değişimi ve kolun bilekten yukarı sıyrılmasını engelleyen tutuş testleri yapılır.",
+          "Giysi tek parça olarak değerlendirilmez; vücut düşmede yere temas etme olasılığına göre bölgelere ayrılır. Omuz, dirsek, kalça ve diz gibi yüksek riskli bölgelerde daha sıkı, düşük riskli bölgelerde daha esnek kurallar uygulanır. Bu sayede yazlık bir montta file paneller düşük riskli bölgelere yerleştirilerek sınıf korunabilir.",
+          "Ergonomi de testin parçasıdır: giysi, üreticinin belirttiği bedende sürüş için gerekli hareketleri kısıtlamamalıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Hangi sınıf kime uygun?",
+        "paragraphs": [
+          "Doğru sınıf, sürüş hızın, mesafen ve iklim koşullarınla belirlenir. Daha yüksek sınıf daha fazla koruma demektir ama genellikle daha ağır ve daha sıcak bir giysi anlamına da gelir."
+        ],
+        "bullets": [
+          "Şehir içi, düşük hız, scooter: A sınıfı makul alt sınır",
+          "Otoyol, touring, adventure: AA sınıfı",
+          "Sportif yol sürüşü, pist günleri: AAA sınıfı, genellikle deri",
+          "Mevcut giysinin üstüne yağmurluk veya koruyucu katman: C sınıfı ancak sınıflı bir giysiyle birlikte"
+        ]
+      },
+      {
+        "heading": "Sık yapılan yanlış yorumlar",
+        "paragraphs": [
+          "Sınıf, giysinin koruyucularıyla birlikte test edilmiş haline verilir. B sınıfı bir ceketin ceplerine sonradan koruyucu takmak onu resmi olarak A sınıfı yapmaz; ancak pratikte korumayı artırır.",
+          "Giysinin sınıfı ile koruyucunun seviyesi ayrı şeylerdir. AA sınıfı bir montun içinde EN 1621-1 Level 1 koruyucu olabilir; daha iyi darbe sönümleme için Level 2 koruyucuya geçmek mümkündür. Ayrıca sınıf yalnızca yeni ürün için geçerlidir; yıpranmış ve dikişleri açılmış bir giysi artık test edildiği performansı göstermeyebilir."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "AAA mont her zaman AA'dan daha mı iyi?",
+        "a": "Koruma açısından evet, ancak AAA giysiler genellikle daha ağır ve daha az havalandırmalıdır. Sıcak iklimde veya uzun yolda konforsuz bir giysiyi giymemek en büyük risktir; kullanımına uygun en yüksek sınıfı seç."
+      },
+      {
+        "q": "Eski EN 13595 sertifikalı ürünler güvenilir mi?",
+        "a": "EN 13595 de sürtünme ve dikiş testleri içeren ciddi bir standarttı ve bu etiketle üretilmiş giysiler koruyucu olarak tasarlanmıştır. Yeni üretimde ise EN 17092 kullanılır; etiketlerdeki sınıfları doğrudan birbirine çevirmek doğru olmaz."
+      },
+      {
+        "q": "Motosiklet jeanleri hangi sınıfta olur?",
+        "a": "Modele göre değişir; tek katmanlı aramid karışımlı kotlar sıklıkla A sınıfındadır, çift katmanlı veya yüksek dayanımlı özel kumaşlı modellerde AA ve AAA sınıflı ürünler de bulunur. Etikette yazan sınıfa bak."
+      },
+      {
+        "q": "C sınıfı bir koruyucu yelek tek başına yeterli mi?",
+        "a": "Hayır. C sınıfı yalnızca koruyucuları yerinde tutar ve sürtünme koruması sağlamaz. Bir sınıflı mont veya pantolonun altında ya da üstünde kullanılmalıdır."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-montu-nasil-secilir",
+      "level-1-ve-level-2-koruma-farki",
+      "ilk-motosiklet-ekipmanlari"
+    ],
+    "relatedCategories": [
+      "mont",
+      "pantolon",
+      "pantolon/kevlar-jean",
+      "mont/deri-mont"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

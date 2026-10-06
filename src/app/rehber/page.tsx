@@ -1,30 +1,76 @@
 import Link from "next/link";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
+import { Container, PageHead } from "@/components/ui";
+import { MOTO_TYPES } from "@/data/riding";
+import { activeLists } from "@/lib/catalog";
+import { getGuides } from "@/lib/data";
+import { itemListLd, meta } from "@/lib/seo";
 
-export default function Rehber() {
+export const metadata = meta({
+  title: "Motosiklet Ekipmanı Rehberleri",
+  description: "Kask, mont, eldiven, bot, koruma ve interkom seçimi; ECE 22.06, EN 17092 ve EN 1621 standartları hakkında sade ve kaynaklı rehberler.",
+  path: "/rehber",
+});
+
+const TOPICS: Record<string, string> = { genel: "Başlangıç ve genel", kask: "Kask", interkom: "İnterkom", mont: "Mont ve giyim", koruma: "Koruma", eldiven: "Eldiven", bot: "Bot" };
+
+export default function GuidesPage() {
+  const guides = getGuides();
+  const topics = Object.keys(TOPICS).filter((t) => guides.some((g) => g.topic === t));
+  const lists = activeLists();
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 font-sans">
-      <div className="bg-white shadow-sm sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-          <Link href="/" className="text-xl font-bold text-blue-600 hover:underline">← Ana Sayfaya Dön</Link>
-          <span className="font-bold text-slate-700">MOTORCUKIYAFETİ.COM</span>
-        </div>
-      </div>
-      <main className="max-w-4xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-black text-slate-900 mb-6">Motosiklet Ekipmanı Nasıl Seçilir? Altın Kurallar</h1>
-        <div className="prose prose-lg text-slate-700">
-          <p>Yeni bir motosiklet aldınız ve bütçenizi kask ve ekipmana ayırdınız. Peki "En İyi Motorcu Kıyafeti" hangisidir? Cevap basittir: <strong>Bedeninize en iyi oturan ve ihtiyacınıza (sürüş tarzınıza) en uygun olandır.</strong> Dünyanın en pahalı montu, bedeninizde bol duruyorsa kaza anında korumalar kayacağı için hiçbir işe yaramaz.</p>
-
-          <h2>Alırken Nelere Dikkat Edilmeli ve Neler Denenmeli?</h2>
-          <ul>
-            <li><strong>Kask:</strong> Kafanıza taktığınızda yanaklarınızı sıkmalı, ancak alnınızı acıtmamalıdır. Kask zamanla süngerlerinden esneme (yarım beden kadar) yapacaktır. Kaskı kafanıza takın ve mağazada 15 dakika dolaşın. Baş ağrısı yapıyorsa kafa yapınıza (yuvarlak, oval) uygun değildir. Arai veya Shoei gibi markaların farklı kafa yapıları için modelleri vardır.</li>
-            <li><strong>Mont ve Koruma Oturumu:</strong> Montu giydiğinizde dirsek ve omuz korumaları tam eklem yerlerinizin üzerine gelmelidir. Montu giyip kollarınızı "motosiklet gidonunu tutuyormuş gibi" uzatın. Sırtınız açılmamalı ve kollarınız çok fazla açıkta kalmamalıdır.</li>
-            <li><strong>Sertifikalar:</strong> "CE Level 1" ve "CE Level 2" koruma standartlarına bakın. Level 2 her zaman daha iyi şok emer. Kasklarda ise ECE 22.06 veya Snell sertifikası arayın.</li>
+    <>
+      <PageHead title="Rehberler" intro="Doğru ekipmanı seçmek için bilmen gerekenler. Her rehber bir soruya net cevap vererek başlar; teknik bilgiler kaynaklarıyla birlikte verilir.">
+        <Breadcrumbs items={[{ name: "Rehberler", href: "/rehber" }]} />
+      </PageHead>
+      <JsonLd data={itemListLd("Rehberler", guides.map((g) => ({ name: g.title, href: `/rehber/${g.slug}` })))} />
+      <Container className="mt-8 space-y-12">
+        {topics.map((t) => (
+          <section key={t}>
+            <h2 className="mb-4 font-display text-3xl font-bold">{TOPICS[t]}</h2>
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {guides
+                .filter((g) => g.topic === t)
+                .map((g) => (
+                  <li key={g.slug}>
+                    <Link href={`/rehber/${g.slug}`} className="group flex h-full flex-col rounded-lg border border-line bg-white p-5 hover:border-ink hover:shadow-md">
+                      <span className="text-xs font-semibold tracking-wide text-red uppercase">{g.readingMinutes} dk okuma</span>
+                      <span className="mt-1 font-display text-xl leading-tight font-bold group-hover:text-red">{g.title}</span>
+                      <span className="mt-2 text-sm text-mute">{g.description}</span>
+                    </Link>
+                  </li>
+                ))}
+            </ul>
+          </section>
+        ))}
+        {lists.length > 0 && (
+          <section>
+            <h2 className="mb-4 font-display text-3xl font-bold">Ne almalıyım?</h2>
+            <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+              {lists.map((l) => (
+                <li key={l.slug}>
+                  <Link href={`/ne-almaliyim/${l.slug}`} className="block rounded-lg border border-line bg-white p-4 font-semibold hover:border-ink hover:text-red">
+                    {l.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+        <section>
+          <h2 className="mb-4 font-display text-3xl font-bold">Motosikletime göre</h2>
+          <ul className="flex flex-wrap gap-2">
+            {MOTO_TYPES.map((m) => (
+              <li key={m.slug}>
+                <Link href={`/motosikletime-gore/${m.slug}`} className="block rounded-full border border-line bg-white px-4 py-2 font-semibold hover:border-ink hover:text-red">
+                  {m.name}
+                </Link>
+              </li>
+            ))}
           </ul>
-
-          <h2>Kullanıcı Yorumlarının Önemi (Google Reviews)</h2>
-          <p>Sipariş vermeden önce, ekipmanı uzun süre (en az 1 yıl) kullanmış kişilerin yorumlarına bakmak çok önemlidir. Örneğin bir mont ilk gün çok şık durabilir, ancak 6 ay sonra fermuarı bozuluyor veya güneşte soluyorsa, bu ancak uzun dönem kullanıcı yorumlarından (Google, forumlar, Facebook grupları) öğrenilebilir. Ürünü satan mağazanın iade/garanti süreçlerindeki hızı da yine Google Satıcı Yorumları'ndan teyit edilmelidir.</p>
-        </div>
-      </main>
-    </div>
+        </section>
+      </Container>
+    </>
   );
 }

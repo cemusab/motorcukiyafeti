@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "mesh-nedir",
+    "title": "Mesh İnterkom Nedir?",
+    "description": "Mesh interkom, her cihazın ağın bir düğümü olduğu ve bir sürücü ayrılınca bağlantının kopmadığı grup iletişim teknolojisidir. Bluetooth'tan farkı burada.",
+    "topic": "interkom",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 5,
+    "intro": "Mesh interkom, gruptaki her cihazın hem konuşup hem de diğerlerinin sinyalini aktardığı, kendini otomatik olarak yeniden düzenleyen bir ağ teknolojisidir. Bu sayede bir sürücü menzilden çıktığında ya da gruptan ayrıldığında diğerlerinin bağlantısı kopmaz; grup sürüşlerinde klasik Bluetooth zincirinden çok daha kararlı ve kolay kurulur.",
+    "sections": [
+      {
+        "heading": "Bluetooth zinciri ile farkı",
+        "paragraphs": [
+          "Klasik Bluetooth interkomda cihazlar tek tek eşleştirilir ve bir zincir oluşturur: A, B'ye; B, C'ye bağlanır. Zincirin ortasındaki sürücü menzilden çıkarsa ya da cihazı kapanırsa, onun iki yanındakilerin bağlantısı da kopar. Grup büyüdükçe eşleştirme de karmaşıklaşır.",
+          "Mesh'te sabit bir sıra yoktur. Her cihaz yakınındaki diğer cihazlarla bağlantı kurar ve ses ağ içinde birden fazla yoldan iletilebilir. Bir halka eksildiğinde ağ başka bir yol bulur."
+        ],
+        "bullets": [
+          "Bluetooth: ikili ve küçük gruplar için uygun, sıralı zincir",
+          "Mesh: büyük gruplar için, sıradan bağımsız, kendini onaran ağ"
+        ]
+      },
+      {
+        "heading": "Menzil nasıl uzar?",
+        "paragraphs": [
+          "Mesh'te her sürücü bir aktarıcı gibi davrandığı için grubun toplam kapsadığı mesafe, iki cihaz arasındaki menzilden daha uzun olabilir. Üreticilerin verdiği toplam menzil değerleri, sürücülerin belirli aralıklarla dizildiği ve açık arazi gibi ideal koşulları varsayar; şehirde binalar, virajlı dağ yollarında tepeler bu mesafeyi kısaltır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Markaların Mesh çözümleri",
+        "paragraphs": [
+          "Cardo'nun Mesh teknolojisinin adı DMC (Dynamic Mesh Communication); güncel Packtalk serisi ikinci nesil DMC kullanıyor. Sena'nın sisteminin adı Mesh Intercom; Open Mesh ile açık kanallarda geniş gruplar, Group Mesh ile özel gruplar kurulabiliyor. Sena, 50S gibi üst modellerde Group Mesh için 24 katılımcıya kadar destek belirtiyor.",
+          "Önemli bir nokta: farklı markaların Mesh ağları birbirine bağlanmaz. Karma gruplarda markalar arası bağlantı Bluetooth tabanlı universal intercom ile kurulur ve bu bağlantıda Mesh'in avantajları kullanılamaz."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Mesh'in dezavantajları",
+        "paragraphs": [
+          "Mesh açıkken pil tüketimi genellikle Bluetooth interkoma göre daha yüksektir; Sena örneğin 50S için Mesh'te Bluetooth interkoma göre daha kısa konuşma süresi belirtiyor. Ayrıca Mesh destekli modeller genellikle daha üst segmenttedir.",
+          "Bazı modellerde Mesh ve Bluetooth interkom aynı anda kullanılarak, Mesh'i olmayan bir sürücü gruba köprülenebilir; bu özelliğin varlığı ve sınırları modele göre değişir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Mesh'e ihtiyacın var mı?",
+        "paragraphs": [
+          "Tek sürüyorsan ya da sadece yolcunla konuşuyorsan Mesh'e ihtiyacın yok; Bluetooth interkom yeterli. Düzenli olarak üç ve daha fazla motosikletle sürüyorsan, gruba sonradan katılan ya da ayrılan sürücüler varsa veya kulüp sürüşleri yapıyorsan Mesh büyük kolaylık sağlar."
+        ],
+        "bullets": [
+          "Tek sürücü / yolcu: Bluetooth",
+          "2-3 arkadaş, ara sıra: Bluetooth yeterli olabilir",
+          "Düzenli grup ve kulüp sürüşleri: Mesh"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mesh interkom internet ya da telefon şebekesi kullanır mı?",
+        "a": "Hayır. Mesh, cihazlar arasında doğrudan radyo bağlantısıyla çalışır. Sena'nın Wave Intercom gibi mobil veri kullanan özellikleri ayrı bir sistemdir."
+      },
+      {
+        "q": "Mesh ile müzik dinlerken konuşabilir miyim?",
+        "a": "Birçok güncel model müzik ile interkomu aynı anda ya da öncelik ayarıyla kullanmaya izin verir. Bu özellik modele göre değiştiği için ürünün kılavuzuna bak."
+      },
+      {
+        "q": "Cardo ve Sena kullanan arkadaşlar aynı Mesh grubunda olabilir mi?",
+        "a": "Hayır, iki markanın Mesh ağları uyumlu değildir. Universal intercom ile Bluetooth üzerinden bağlanabilirler ama bu bağlantı Mesh değildir."
+      }
+    ],
+    "relatedGuides": ["interkom-nasil-secilir", "cardo-mu-sena-mi", "adventure-surucu-ekipmanlari"],
+    "relatedCategories": ["interkom/mesh-interkom", "interkom/bluetooth-interkom", "interkom"],
+    "sources": [
+      { "url": "https://cardosystems.com/products/packtalk-neo", "type": "manufacturer", "label": "Cardo Packtalk Neo: 2. nesil DMC", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sena.com/en-us/product/50s/", "type": "manufacturer", "label": "Sena 50S: Open Mesh, Group Mesh, konuşma süreleri", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sena.com/en-us/product/mesh/", "type": "manufacturer", "label": "Sena +Mesh adaptörü", "checkedAt": "2026-10-06" }
+    ]
+  }
+]
