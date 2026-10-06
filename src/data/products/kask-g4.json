@@ -1,0 +1,3152 @@
+[
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "exo-r1-evo-ii-air",
+    "brand": "scorpion",
+    "name": "EXO-R1 Evo II Air",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask"
+    ],
+    "summary": "Scorpion'un MotoGP ve WSBK'da test edilen pist odaklı kapalı kaskı. Ultra TCT kompozit kabuk, AirFit şişirilebilir yanaklar ve geniş görüş açısıyla sportif sürücüye hitap ediyor.",
+    "description": [
+      "EXO-R1 Evo II Air, Scorpion'un yarış serisinin güncel tepe modeli. Kabuk, cam elyafı ve poli-reçine liflerini katmanlayan Ultra TCT pre-preg kompozitten üretiliyor. Üretici aerodinamik olarak yeniden şekillendirilen kabuğun yüksek hızda sarsıntıyı azalttığını, büyütülen tepe girişi ve yeniden tasarlanan arka çıkışlarla havalandırmanın iyileştirildiğini belirtiyor.",
+      "Vizör Optik Sınıf 1, yatayda 190° ve dikeyde 100° görüş açısı sunuyor; tear-off pimleri var ve kutudan Pinlock 70 MaxVision lens çıkıyor. İçeride AirFit pompa sistemi yanak pedlerini şişirerek oturuşu sıkılaştırıyor, KwikFit yanak pedlerinde gözlük sapı kanalları var. Astar çıkarılıp yıkanabiliyor, acil durum yanak pedi çıkarma sistemi ve titanyum çift D-halka kilit standart.",
+      "Üretici ağırlık ve garanti süresi vermiyor; iç güneş vizörü de belirtilmemiş. Bu kask pist ve sportif yol sürüşüne göre kurgulanmış, turing konforu ikinci planda."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ya da sportif yol sürüşü yapan, yarış kökenli bir kask isteyen sürücüler",
+      "Üst segment karbon kasklara göre daha erişilebilir bir fiyatla yarış özellikleri arayanlar",
+      "Oturuşu AirFit ile ince ayarlamak isteyen, kafa yapısı yanaklarda boşluk bırakan kullanıcılar"
+    ],
+    "notFor": [
+      "İç güneş vizörü ve sessizlik önceliği olan turing sürücüleri",
+      "Kurye kullanımı: dar sportif oturuş ve vizör değiştirme ihtiyacı günlük kurye temposuna uygun değil"
+    ],
+    "pros": [
+      "ECE R22.06 onaylı",
+      "Optik Sınıf 1 vizör, 190° yatay görüş, tear-off hazırlığı",
+      "Pinlock 70 MaxVision ve nefes deflektörü kutuda",
+      "AirFit şişirilebilir yanaklar ile ayarlanabilir oturuş",
+      "Titanyum çift D-halka ve acil durum yanak pedi sistemi"
+    ],
+    "cons": [
+      "Üretici ağırlık bilgisi vermiyor",
+      "İç güneş vizörü belirtilmemiş; güneşli havada koyu vizör ya da değişim gerekir",
+      "Beden aralığı XS–XL ile sınırlı; büyük kafalar için seçenek yok",
+      "Sportif oturuş uzun düz yolda boyun ve omuzu yorabilir"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir; 'City Position' vizör kademesi düşük hızda hava almayı kolaylaştırıyor. Güneş vizörü olmaması gün içinde ışık değişiminde dezavantaj.",
+      "uzunYol": "Uzun yolda yapılabilir ama asıl hedef değil; sportif kabuk formu dik oturuşlu motorlarda rüzgârı farklı karşılar.",
+      "otoban": "Aerodinamik kabuk ve kilitli vizör yüksek hızda stabilite için tasarlanmış.",
+      "sport": "Ana kullanım alanı. Geniş görüş açısı, tear-off hazırlığı ve AirFit ile pist kullanımına yönelik.",
+      "adventure": "Siperlik ve toprak yol özelliği olmadığı için adventure kullanımına uygun değil.",
+      "gozluk": "KwikFit yanak pedlerinde gözlük sapı için kanallar bulunuyor; yine de dar oturuşlu bir yarış kaskı olduğu için denemek şart.",
+      "interkom": "Üretici sayfasında hoparlör cebi ya da interkom yuvası belirtilmemiş; genel amaçlı interkom takılabilirliği denenerek kontrol edilmeli.",
+      "kurye": "Önerilmez; güneş vizörü yok ve sportif yapı günde saatlerce trafikte kullanım için ideal değil."
+    },
+    "verdict": "EXO-R1 Evo II Air, pist ve sportif yol sürüşü için ciddi donanım sunan, fiyatına göre güçlü bir yarış kaskı. AirFit ve geniş görüş öne çıkıyor. Ağırlığın açıklanmaması ve güneş vizörü olmaması eksik. Turing ya da kurye kullanımı için başka modellere bakmak daha doğru.",
+    "rivals": [
+      "airoh/gp-800",
+      "suomy/sr-gp-evo",
+      "nexx/x-r3r"
+    ],
+    "priceRange": {
+      "min": 21690,
+      "max": 21690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/scorpion-exo-r1-evo-ii-air-spor-motosiklet-kaski-mat-siyah",
+        "price": 21690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "EXO-R1 Evo II Air'in iç güneş vizörü var mı?",
+        "a": "Üretici sayfasında iç güneş vizöründen söz edilmiyor. Yarış kaskı olduğu için güneşli havada koyu vizör kullanmayı planlamak gerekir."
+      },
+      {
+        "q": "AirFit sistemi ne işe yarıyor?",
+        "a": "Kasktaki pompa ile yanak pedlerinin içine hava basılıyor; böylece yanak bölgesi kafaya daha sıkı oturuyor ve yüksek hızda kaskın kalkması ve titreşim azalıyor."
+      },
+      {
+        "q": "Pinlock kutudan çıkıyor mu?",
+        "a": "Evet. Üretici Pinlock 70 MaxVision lensin pakete dahil olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-r1-evo-ii-air-solid/",
+    "sources": [
+      {
+        "url": "https://scorpionexo.com/eu/product/exo-r1-evo-ii-air-solid/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO EXO-R1 Evo II Air ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/scorpion-exo-r1-evo-ii-air-spor-motosiklet-kaski-mat-siyah",
+        "type": "retailer",
+        "label": "Motomax – Scorpion EXO R1 Evo II Air Mat Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Pearl White",
+      "Matt Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Ultra TCT pre-preg (cam elyafı + poli-reçine kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Optik Sınıf 1, 2D, Pinlock MaxVision'a hazır, tear-off pimli; 190° yatay / 100° dikey görüş, Ellip-Tec II hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "Büyütülmüş tepe girişi, yeniden tasarlanmış arka çıkışlar; 'City Position' vizör kademesi",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "exo-tech-evo-carbon",
+    "brand": "scorpion",
+    "name": "EXO-Tech Evo Carbon",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Çenesi tamamen arkaya dönen, karbon kabuklu ve P/J çift onaylı modüler kask. Kapalı kask görünümüne yakın kompakt kabuk, iç güneş vizörü ve interkom hazırlığıyla turing odaklı.",
+    "description": [
+      "EXO-Tech Evo Carbon, Scorpion'un 'flip-back' yani çene bölümü kaskın arkasına kadar dönen modüler serisinin karbon versiyonu. Kabuk Ultra TCT 3K karbon fiberden üretiliyor ve çene kilidi P/J çift homologasyon sağlıyor; yani çene açıkken jet, kapalıyken tam kapalı kask olarak onaylı.",
+      "Donanım tarafında SpeedView iç güneş vizörü (buğu önleyici kaplamalı), Pinlock MaxVision'a hazır 3D vizör ve kutudan çıkan Pinlock 120 XLT MaxVision lens var. Astar çıkarılıp yıkanabiliyor, yanak pedlerinde gözlük kanalları bulunuyor, EPS içinde hoparlör cepleri hazır ve EXO-Com montaj adaptörü pakete dahil.",
+      "Üretici ağırlık ve kabuk boyutu sayısı vermiyor. Kilit sistemi mikrometrik değil, hızlı açılan tek dokunuşlu toka olarak tanımlanıyor."
+    ],
+    "forWho": [
+      "Çeneyi tamamen arkaya alıp jet kask gibi kullanmak isteyen şehir ve turing sürücüleri",
+      "Karbon kabuk hafifliğini modüler pratiklikle birleştirmek isteyenler",
+      "Kaskı çıkarmadan gözlük takan ya da sık sık durup konuşan sürücüler"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar; karbon versiyon aynı ailedeki standart modellere göre pahalı",
+      "Kurye kullanımı: mekanizmalı karbon modüler, yoğun günlük yıpranmaya göre maliyetli"
+    ],
+    "pros": [
+      "P/J çift onay: çene açıkken de onaylı kullanım",
+      "Karbon kabuk",
+      "İç güneş vizörü (buğu önleyici kaplamalı)",
+      "Pinlock 120 XLT MaxVision lens kutuda",
+      "Hoparlör cepleri ve EXO-Com adaptörü dahil"
+    ],
+    "cons": [
+      "Ağırlık ve kabuk boyutu sayısı açıklanmamış",
+      "Flip-back mekanizma, sabit çeneli kasklara göre daha fazla bakım ister",
+      "Türkiye'de birebir bu versiyonun yetkili satıcı fiyatını bulamadık",
+      "Çene arkadayken yüksek hızda rüzgâr yükü artar"
+    ],
+    "usage": {
+      "sehir": "Çenenin tamamen arkaya dönmesi şehirde büyük kolaylık; trafikte, akaryakıt istasyonunda kaskı çıkarmadan konuşabilirsiniz.",
+      "uzunYol": "İç güneş vizörü, Pinlock ve interkom hazırlığıyla uzun yola uygun bir paket.",
+      "otoban": "Çene kapalı ve kilitliyken otobanda kullanılabilir; çene açık kullanım düşük hızlarla sınırlı tutulmalı.",
+      "sport": "Sportif sürüş için tasarlanmamış; pist kullanımına uygun değil.",
+      "adventure": "Siperliği yok; asfalt ağırlıklı turlarda iş görür.",
+      "gozluk": "KwikFit yanak pedleri gözlük kanallı ve modüler yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "EPS içinde hoparlör cepleri var, EXO-Com montaj adaptörü kutudan çıkıyor; genel interkomlar da yerleşebilir.",
+      "kurye": "Çene açılır yapı teslimatlarda pratik ama karbon modelin fiyatı kurye kullanımına göre yüksek."
+    },
+    "verdict": "EXO-Tech Evo Carbon, jet ve kapalı kaskı tek kaskta isteyen turing sürücüsü için karbon kabuklu, iyi donatılmış bir modüler. P/J onay, iç güneş vizörü ve Pinlock 120 kutuda. Ağırlığın açıklanmaması ve flip-back mekanizmanın bakım ihtiyacı göz önünde tutulmalı.",
+    "rivals": [
+      "airoh/mathisse-ii",
+      "caberg/duke-x",
+      "nexx/x-lifetour"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "EXO-Tech Evo Carbon çene açıkken sürülebilir mi?",
+        "a": "Evet. Üretici kaskın P/J çift homologasyonlu olduğunu belirtiyor; çene açık ve kilitli konumda jet kask olarak onaylı."
+      },
+      {
+        "q": "Bu kaskla interkom kullanılabilir mi?",
+        "a": "EPS içinde hoparlör cepleri var ve Scorpion'un EXO-Com sistemi için montaj adaptörü pakete dahil. Başka marka interkomlar da takılabilir."
+      },
+      {
+        "q": "Beden seçerken neye dikkat etmeliyim?",
+        "a": "Scorpion bu modeli B tipi beden tablosunda veriyor (ör. M 57–58 cm, L 58–59 cm). Ölçünüz iki beden arasındaysa mağazada denemek en doğrusu."
+      }
+    ],
+    "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-tech-evo-carbon-solid/",
+    "sources": [
+      {
+        "url": "https://scorpionexo.com/eu/product/exo-tech-evo-carbon-solid/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO EXO-Tech Evo Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://scorpionexo.com/eu/size-guide/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO beden rehberi (B tipi)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Matt Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Ultra TCT 3K karbon fiber",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Pinlock MaxVision'a hazır 3D vizör, sert kaplamalı (HD/HD), 'City Position' kademesi",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Aero ayarlı kabuk havalandırması, tek kademeli ağız girişi",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "diger",
+      "intercomReady": true,
+      "intercomNotes": "EPS içinde hoparlör cepleri; EXO-Com montaj adaptörü dahil. P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "adf-9000-air",
+    "brand": "scorpion",
+    "name": "ADF-9000 Air",
+    "subcategories": [
+      "adventure-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Scorpion'un siperlikli adventure kaskı. TCT Ultra kompozit kabuk, iç güneş vizörü, AirFit yanaklar ve kutudan çıkan Pinlock 120 ile asfalt ve toprak yolu birlikte düşünen sürücüye yönelik.",
+    "description": [
+      "ADF-9000 Air, hem asfaltta hem toprak yolda kullanılacak şekilde tasarlanmış bir adventure kask. Kabuk TCT Ultra kompozitten elde yapılıyor. Exolon malzemeden üretilen siperlik kırılmaya dirençli olacak şekilde tasarlanmış ve yüksek hızda sarsıntıyı azaltacak biçimde şekillendirilmiş; otobanda ya da güneşi arkanıza aldığınızda kolayca sökülebiliyor.",
+      "İçeride AirFit şişirilebilir yanak sistemi, gözlük kanallı KwikFit pedler ve çıkarılıp yıkanabilen KwikWick III astar var. SpeedView iç güneş vizörü, Pinlock 120 XLT MaxVision lens, nefes deflektörü ve aksiyon kamerası montaj plakası kutudan çıkıyor. EPS'te hoparlör cepleri hazır, EXO-Com adaptörü dahil.",
+      "Acil durumda yanak pedleri hızlı çıkarılabiliyor ve kilit titanyum çift D-halka. Üretici ağırlık vermiyor; adventure kasklar siperlik nedeniyle genelde kapalı kasklardan ağır olur."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu birlikte süren adventure ve uzun yol sürücüleri",
+      "Siperliği söküp sıradan kapalı kask gibi de kullanmak isteyenler",
+      "Kutudan çıkan donanımı (Pinlock, kamera plakası, deflektör) önemseyenler"
+    ],
+    "notFor": [
+      "Ağırlıklı olarak pist ya da sportif sürüş yapanlar",
+      "Yoğun kurye kullanımı: siperlik şehir içinde rüzgâr ve gürültü yükü getirir; kurye için sade kapalı ya da çene açılır kask daha pratik"
+    ],
+    "pros": [
+      "ECE R22.06 onaylı",
+      "Sökülebilir Exolon siperlik",
+      "İç güneş vizörü",
+      "Pinlock 120 XLT MaxVision kutuda",
+      "AirFit ile ayarlanabilir yanaklar",
+      "Geniş beden aralığı (XS–3XL)",
+      "Hoparlör cepleri ve EXO-Com adaptörü dahil"
+    ],
+    "cons": [
+      "Üretici ağırlık bilgisi vermiyor",
+      "Siperlik yüksek hızda rüzgâr yükü yaratabilir; otobanda sökmek gerekebilir",
+      "Toprak yolda kros gözlüğü kullanımı üretici sayfasında belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir; 'City Position' ve iç güneş vizörü işe yarar, siperlik ise rüzgârda hissedilir.",
+      "uzunYol": "Güçlü yanı. Güneş vizörü, Pinlock, interkom hazırlığı ve AirFit uzun etaplarda konfor sağlar.",
+      "otoban": "Siperlik takılıyken yüksek hızda kafa çekilebilir; üretici otobanda siperliğin sökülebildiğini vurguluyor.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Ana kullanım alanı: siperlik, iki kademeli ağız havalandırması ve kamera plakası toprak yola göre düşünülmüş.",
+      "gozluk": "KwikFit yanak pedlerinde gözlük kanalları var.",
+      "interkom": "EPS'te hoparlör cepleri hazır; EXO-Com adaptörü kutudan çıkıyor.",
+      "kurye": "Kurye için ideal değil; siperlik ve kask hacmi şehir temposunda fazlalık."
+    },
+    "verdict": "ADF-9000 Air, adventure sürücüsünün ihtiyaç duyduğu donanımı kutudan veren, dengeli fiyatlı bir model. Sökülebilir siperlik, iç güneş vizörü ve Pinlock 120 öne çıkıyor. Ağırlığın açıklanmaması eksik; satın almadan önce denemek ve tartmak mantıklı.",
+    "rivals": [
+      "airoh/commander-2",
+      "nexx/x-wed3",
+      "caberg/tanami"
+    ],
+    "priceRange": {
+      "min": 20690,
+      "max": 20690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/scorpion-adf-9000-air-kapali-motosiklet-kaski-mat-siyah",
+        "price": 20690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/scorpion-adf-9000-air-kapali-motosiklet-kaski-gri",
+        "price": 20690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "ADF-9000 Air'in siperliği sökülebiliyor mu?",
+        "a": "Evet. Üretici siperliğin vidalar gevşetilerek kolayca çıkarılabildiğini, böylece kaskın otobanda sade kapalı kask gibi kullanılabildiğini belirtiyor."
+      },
+      {
+        "q": "Kutuda neler var?",
+        "a": "Üreticiye göre Pinlock 120 XLT MaxVision lens, nefes deflektörü, aksiyon kamerası montaj plakası, EXO-Com montaj adaptörü ve kask kutusu ile kılıfı."
+      },
+      {
+        "q": "Türkiye'de fiyatı ne kadar?",
+        "a": "Kontrol ettiğimiz tarihte Motomax'ta mat siyah ve gri renkler 20.690 TL olarak listeleniyordu. Fiyatlar değişebilir."
+      }
+    ],
+    "manufacturerUrl": "https://scorpionexo.com/eu/product/adf-9000-air-solid/",
+    "sources": [
+      {
+        "url": "https://scorpionexo.com/eu/product/adf-9000-air-solid/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO ADF-9000 Air ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://scorpionexo.com/eu/size-guide/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO beden rehberi (B tipi)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/scorpion-adf-9000-air-kapali-motosiklet-kaski-mat-siyah",
+        "type": "retailer",
+        "label": "Motomax – Scorpion ADF-9000 Air Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/scorpion-adf-9000-air-kapali-motosiklet-kaski-gri",
+        "type": "retailer",
+        "label": "Motomax – Scorpion ADF-9000 Air Gri",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Cement Grey",
+      "Matt Black",
+      "Matt Pearl Black",
+      "Pearl White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      },
+      {
+        "size": "3XL",
+        "min": 64,
+        "max": 65
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "TCT Ultra kompozit (elde üretim)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Pinlock MaxVision 3D vizör, sert kaplamalı, vizör kilidi; sökülebilir Exolon siperlik",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Aero ayarlı havalandırma, iki kademeli ağız girişi",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "EPS içinde hoparlör cepleri; EXO-Com montaj adaptörü dahil.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "race-star-dlx-flex",
+    "brand": "bell",
+    "name": "Race Star DLX Flex",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "karbon-kask"
+    ],
+    "summary": "Bell'in 3K karbon kabuklu, Flex çok katmanlı darbe astarlı sportif kapalı kaskı. Fotokromik ProTint vizör kutudan çıkıyor; hafta sonu pist, hafta içi yol kullanımı için tasarlanmış.",
+    "description": [
+      "Race Star DLX Flex, Bell'in 'işi olan yarışçı' diye tarif ettiği, yol ve pist arasında duran sportif kapalı kaskı. Kabuk 3K karbon fiber; beş kabuk ve altı EPS boyutu sayesinde küçük bedenlerde gereksiz hacim oluşmuyor. Bell'in Flex astarı düşük, orta ve yüksek hızlı darbeler için üç katmanlı enerji yönetimi sunuyor.",
+      "Kaskla birlikte ProTint fotokromik vizör geliyor: UV ışıkta koyulaşıp düşük ışıkta açılıyor, böylece ayrı koyu vizör taşıma ihtiyacı azalıyor. Ionic+ astar hızlı kuruyor ve gümüş iyonla koku kontrolü yapıyor; Magnefusion mıknatıslı yanak pedleri kullanılıyor.",
+      "Üretici ağırlığı M beden için 1.540 g (±50 g) veriyor. Sayfada DOT, Snell ve ECE onayları listeleniyor; ECE sürümü belirtilmemiş. Bu sayfa ABD pazarına ait; Avrupa ve Türkiye'de satılan sürümün özellikleri farklı olabilir."
+    ],
+    "forWho": [
+      "Hem yolda hem pist günlerinde aynı kaskı kullanmak isteyen sportif sürücüler",
+      "Fotokromik vizörle gündüz-akşam geçişlerinde vizör değiştirmek istemeyenler",
+      "Beş kabuk boyutunun sağladığı kompakt oturuşu önemseyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü ve interkom entegrasyonu arayan turing sürücüleri",
+      "Kurye kullanımı: karbon yarış kaskı yoğun günlük kullanıma göre pahalı ve sportif oturuşlu"
+    ],
+    "pros": [
+      "3K karbon kabuk, M beden 1.540 g",
+      "5 kabuk / 6 EPS boyutu",
+      "ProTint fotokromik vizör kutuda",
+      "Flex üç katmanlı darbe yönetimi astarı",
+      "DOT ve Snell onayı"
+    ],
+    "cons": [
+      "ECE sürümü (22.06) üretici sayfasında belirtilmiyor",
+      "İç güneş vizörü yok/belirtilmemiş",
+      "Türkiye'de birebir model fiyatını yetkili satıcıda bulamadık",
+      "Üretici sayfası ABD sürümüne ait; AB sürümü farklılık gösterebilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama yarış kaskı formu ve güneş vizörü olmaması şehirde avantaj sağlamaz; fotokromik vizör kısmen telafi eder.",
+      "uzunYol": "Mümkün; sportif oturuş dik pozisyonlu motorlarda daha az konforlu olabilir.",
+      "otoban": "Kompakt karbon kabuk yüksek hızda stabil olacak şekilde tasarlanmış.",
+      "sport": "Ana kullanım alanı: karbon kabuk, geniş görüş ve Flex astar pist ve sportif yol için.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; dar oturuşlu bir kask olduğu için denemek gerekir.",
+      "interkom": "Üretici sayfasında interkom hazırlığı belirtilmemiş.",
+      "kurye": "Önerilmez; fiyat ve sportif yapı kurye kullanımına uygun değil."
+    },
+    "verdict": "Race Star DLX Flex, karbon kabuk, çok katmanlı Flex astar ve fotokromik vizörle sportif sürücüye güçlü bir paket sunuyor. Ancak üretici sayfası ABD sürümüne ait ve ECE 22.06 onayı açıkça yazmıyor; Türkiye'de alırken etikette ECE 22.06 olduğundan emin olun.",
+    "rivals": [
+      "nexx/x-r3r",
+      "suomy/sr-gp-evo",
+      "agv/pista-gp-rr"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Race Star DLX Flex ECE 22.06 onaylı mı?",
+        "a": "Bell'in ABD sitesi ECE (EU) onayını listeliyor ama sürümünü yazmıyor. Avrupa ve Türkiye'de satılan kaskın etiketinde ECE 22.06 ibaresini kontrol etmek gerekir."
+      },
+      {
+        "q": "ProTint vizör nedir?",
+        "a": "UV ışığına göre koyulaşıp açılan fotokromik bir vizör. Güneşte koyulaşır, düşük ışıkta açık kalır; böylece gün içinde vizör değiştirme ihtiyacı azalır."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Bell, M beden için 1.540 g ±50 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.bellhelmets.com/product/race-star-dlx-flex/250070000200000005.html",
+    "sources": [
+      {
+        "url": "https://www.bellhelmets.com/product/race-star-dlx-flex/250070000200000005.html",
+        "type": "manufacturer",
+        "label": "Bell Helmets (ABD) Race Star DLX Flex ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ece2206",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "3K karbon fiber",
+      "materialClass": "karbon",
+      "shellSizes": 5,
+      "ece2206": null,
+      "dot": true,
+      "snell": true,
+      "fim": null,
+      "weightGrams": 1540,
+      "weightSize": "M",
+      "headShape": null,
+      "visor": "ProTint fotokromik vizör (kutuda)",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "srt-modular",
+    "brand": "bell",
+    "name": "SRT-Modular",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Bell'in cam elyafı kompozit kabuklu çene açılır kaskı. Optik Sınıf 1 Panovision vizör, gözlük sapı cepleri ve EPS içine gömülü hoparlör yuvalarıyla sport-touring kullanıcısına yönelik.",
+    "description": [
+      "SRT-Modular, Bell'in SRT kapalı kaskının yapı taşlarını (cam elyafı kabuk, gömülü hoparlör cepleri, geniş beden aralığı) çene açılır bir mekanizmayla birleştiriyor. Bell bu modeli 'sport touring'e sportifliği geri getiren' kask olarak konumluyor.",
+      "Panovision vizör Optik Sınıf 1 ve geniş görüş açısıyla şerit değiştirirken ve omuz kontrolünde rahatlık sağlıyor. Astarda gözlük sapları için örülmüş cepler var; numaralı gözlük ya da güneş gözlüğü kullananlar için pratik. Kaskla şeffaf vizör geliyor; ProTint fotokromik vizör ayrıca satılıyor.",
+      "Üretici DOT sürümü için M bedende 1.750 g (±50 g) veriyor; ECE onayı listelenmiş ama sürümü belirtilmemiş. İç güneş vizörü ve kilit tipi üretici sayfasında yazmıyor. Sayfa ABD pazarına ait."
+    ],
+    "forWho": [
+      "Sport-touring sürüşte çene açılır pratikliği isteyenler",
+      "Gözlük kullanan ve kaskı çıkarmadan gözlüğünü takıp çıkarmak isteyen sürücüler",
+      "Bluetooth interkomu temiz yerleştirmek isteyenler (EPS içinde hoparlör cepleri)"
+    ],
+    "notFor": [
+      "Hafif kask arayanlar: 1,75 kg modüler için ortalamanın üzerinde",
+      "Kurye kullanımı: ağırlık ve mekanizma gün boyu kullanımda boyunu yorabilir"
+    ],
+    "pros": [
+      "Optik Sınıf 1 Panovision vizör",
+      "Astarda gözlük sapı cepleri",
+      "EPS içine gömülü hoparlör cepleri",
+      "Geniş beden aralığı (XS–XXXL)",
+      "DOT onaylı"
+    ],
+    "cons": [
+      "DOT sürümünde 1.750 g; hafif değil",
+      "ECE sürümü ve P/J onayı üretici sayfasında belirtilmemiş",
+      "İç güneş vizörü belirtilmemiş",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı şehirde konuşma ve kısa duraklarda kolaylık sağlar; ağırlık kısa yolda pek hissedilmez.",
+      "uzunYol": "Asıl hedef. Geniş görüş ve interkom hazırlığı uzun etaplarda işe yarar; ağırlık uzun sürede hissedilebilir.",
+      "otoban": "Çene kapalıyken otobanda kullanılabilir; çene açık sürüş için üreticinin P/J onayı belirtilmemiş, açık sürmeyin.",
+      "sport": "Sportif sürüş yapılabilir ama modüler yapı nedeniyle önceliği konfor.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Güçlü yanı: astarda gözlük sapı cepleri var.",
+      "interkom": "EPS içine gömülü hoparlör cepleri var; genel amaçlı interkomlar rahat yerleşir.",
+      "kurye": "Çene açılır yapı teslimatlarda pratik ama ağırlık uzun mesai için dezavantaj."
+    },
+    "verdict": "SRT-Modular, gözlük kullanan ve interkomu temiz yerleştirmek isteyen sport-touring sürücüsü için mantıklı bir çene açılır kask. Görüş ve iç yapı güçlü, ağırlık ise sınıfının üstünde. Türkiye'de alırken ECE 22.06 ve P/J etiketini mutlaka kontrol edin.",
+    "rivals": [
+      "shoei/neotec-3",
+      "hjc/rpha-91",
+      "nexx/x-lifetour"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "SRT-Modular çene açıkken sürülebilir mi?",
+        "a": "Bell'in ABD sayfası P/J onayından söz etmiyor. Çene açık sürmeden önce satın aldığınız kaskın etiketinde P/J ibaresini kontrol edin."
+      },
+      {
+        "q": "Gözlükle kullanılabilir mi?",
+        "a": "Evet; Bell astarın içine gözlük sapları için cepler örüldüğünü belirtiyor."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Bell, DOT sürümü için M bedende 1.750 g ±50 g veriyor. ECE sürümünün ağırlığı farklı olabilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.bellhelmets.com/product/srt-modular/250070000800000001.html",
+    "sources": [
+      {
+        "url": "https://www.bellhelmets.com/product/srt-modular/250070000800000001.html",
+        "type": "manufacturer",
+        "label": "Bell Helmets (ABD) SRT-Modular ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.ece2206",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Cam elyafı kompozit",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": null,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1750,
+      "weightSize": "M (DOT sürümü)",
+      "headShape": null,
+      "visor": "Panovision, Optik Sınıf 1; şeffaf vizör kutuda, ProTint fotokromik vizör ayrıca satılır",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "EPS içine gömülü hoparlör cepleri. Bell'in ABD sitesi ECE (EU) onayını listeliyor ancak sürümünü (22.05/22.06) belirtmiyor.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "mx-9-adventure-mips",
+    "brand": "bell",
+    "name": "MX-9 Adventure MIPS",
+    "subcategories": [
+      "adventure-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Bell'in MIPS'li, siperlikli giriş-orta segment adventure kaskı. Vizörü kaldırıp kros gözlüğü takılabiliyor, siperlik sökülebiliyor; üç kabuk boyutu ve interkom hazırlığı var.",
+    "description": [
+      "MX-9 Adventure MIPS, Bell'in MX-9 kros kaskına buğu ve çizilme önleyici kaplamalı entegre vizör eklenmiş adventure versiyonu. Vizör yukarı kalkınca kros gözlüğüne yer kalıyor ya da tamamen sökülebiliyor; siperlik de çıkarılarak sade bir yol görünümü elde edilebiliyor.",
+      "İçeride MIPS kayma katmanı belirli darbelerde dönme kuvvetlerini azaltmak için kullanılıyor. Üç kabuk boyutu sunuluyor; Velocity Flow havalandırma ve çıkarılıp yıkanabilen antimikrobiyal Ionic+ astar standart. Entegre hoparlör cepleriyle Bluetooth interkom kolayca takılabiliyor.",
+      "Üretici M beden için 1.698 g (±50 g) veriyor; kabuk malzemesini sayfada belirtmiyor. DOT ve ECE onayları listelenmiş, ECE sürümü yazılmamış. Sayfa ABD pazarına ait."
+    ],
+    "forWho": [
+      "Bütçesini zorlamadan adventure kaska geçmek isteyenler",
+      "Toprak yolda kros gözlüğü kullanmak isteyen çift amaçlı motor sürücüleri",
+      "MIPS gibi dönme darbesi teknolojisini önemseyenler"
+    ],
+    "notFor": [
+      "Sessizlik ve iç güneş vizörü isteyen uzun yol sürücüleri",
+      "Kurye kullanımı: siperlikli kros tabanlı yapı şehirde rüzgâr ve gürültü yapar"
+    ],
+    "pros": [
+      "MIPS kayma katmanı",
+      "Vizör sökülebilir, kros gözlüğüyle kullanılabilir",
+      "Siperlik sökülebilir",
+      "Üç kabuk boyutu",
+      "Hoparlör cepleriyle interkom hazırlığı",
+      "Çıkarılıp yıkanabilen astar"
+    ],
+    "cons": [
+      "İç güneş vizörü yok/belirtilmemiş",
+      "Kabuk malzemesi belirtilmemiş",
+      "ECE sürümü üretici sayfasında yazmıyor",
+      "Kros tabanlı yapı otobanda gürültülü olabilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; siperlik ve kros formu şehirde rüzgâr yakalayabilir.",
+      "uzunYol": "Kısa-orta turlar için uygun; güneş vizörü olmaması ve gürültü uzun etapta yorabilir.",
+      "otoban": "Siperlik takılıyken yüksek hızda kafa çekebilir; siperlik sökülebiliyor.",
+      "sport": "Uygun değil.",
+      "adventure": "Ana kullanım alanı: vizörsüz kros gözlüklü kullanım ve siperlik toprak yola yönelik.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Entegre hoparlör cepleri ile Bluetooth interkom takılabilir.",
+      "kurye": "Önerilmez; şehirde sürekli kullanım için gürültülü ve hacimli."
+    },
+    "verdict": "MX-9 Adventure MIPS, adventure kaskı uygun bütçeyle denemek isteyen ve toprak yolda kros gözlüğü kullanacak sürücüye yönelik pratik bir seçim. MIPS ve sökülebilir vizör güçlü yanlar. Güneş vizörü yok; Türkiye'de alırken ECE 22.06 etiketini kontrol edin.",
+    "rivals": [
+      "scorpion/adf-9000-air",
+      "caberg/tanami",
+      "airoh/commander-2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "MX-9 Adventure MIPS ile kros gözlüğü kullanılabilir mi?",
+        "a": "Evet. Bell vizör yukarı kaldırıldığında gözlüğe yer kaldığını ve vizörün tamamen sökülebildiğini belirtiyor."
+      },
+      {
+        "q": "MIPS ne işe yarar?",
+        "a": "Kaskın içinde, eğik darbelerde kafaya iletilen dönme kuvvetlerini azaltmak için tasarlanmış bir kayma katmanıdır."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Bell, M beden için 1.698 g ±50 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.bellhelmets.com/product/mx-9-adv-mips/250040000300000001.html",
+    "sources": [
+      {
+        "url": "https://www.bellhelmets.com/product/mx-9-adv-mips/250040000300000001.html",
+        "type": "manufacturer",
+        "label": "Bell Helmets (ABD) MX-9 Adventure MIPS ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.ece2206",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": 3,
+      "ece2206": null,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1698,
+      "weightSize": "M",
+      "headShape": null,
+      "visor": "Buğu ve çizilme önleyici kaplamalı entegre vizör; kaldırılabilir veya sökülebilir. Siperlik sökülebilir.",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Velocity Flow havalandırma",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Entegre hoparlör cepleri. Bell'in ABD sitesi ECE (EU) onayını listeliyor ancak sürümünü (22.05/22.06) belirtmiyor.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "gp-800",
+    "brand": "airoh",
+    "name": "GP 800",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Airoh'un HPC Carbon kompozit kabuklu yarış odaklı kapalı kaskı. Üç kabuk boyutu, aletsiz vizör değişimi ve kutudan çıkan Pinlock 120 ile koyu vizörle pist ve sportif yol için hazır.",
+    "description": [
+      "GP 800, Airoh'un sportif kapalı kask serisi. Kabuk Airoh'un HPC Carbon adını verdiği karbon içerikli kompozitten, üç farklı boyutta üretiliyor (XS–S, M, L–XL). Agresif ve aerodinamik hatlar rüzgâr tünelinde şekillendirilmiş; tam karbon (6K) kabuk isteyenler için ayrı bir GP 800 Carbon modeli bulunuyor.",
+      "Vizör 2D yarış tipinde, ekstra geniş görüş açılı, tear-off'a hazır ve yarış tipi kilitli. ATVR sistemi vizörü aletsiz değiştirmeye izin veriyor; kutuda Pinlock 120 XLT MaxVision lens ve koyu füme ikinci vizör var. A3S otomatik buğu önleme, ASN kayar ağ, AMLS mıknatıslı astar ve AEFR acil durum yanak pedi çıkarma sistemi kullanılıyor.",
+      "Üretici ağırlığı '1.440 g'dan başlayan (±50 g)' şeklinde veriyor, bedeni belirtmiyor. Kask ECE 22.06 onaylı ve Airoh'un AWC4/AWC2 interkomlarına hazır (ayrı satılır). Çift D-halka kilit kullanılıyor."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ya da sportif yol sürüşü yapan sürücüler",
+      "Koyu vizör ve Pinlock'un kutudan çıkmasını önemseyenler",
+      "Kaskına marka interkomu takmak isteyen sportif sürücüler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyen günlük ve turing kullanıcıları",
+      "Kurye kullanımı: güneş vizörü yok ve sportif oturuş gün boyu trafiğe uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Üç kabuk boyutu",
+      "Pinlock 120 XLT MaxVision ve koyu füme vizör kutuda",
+      "Aletsiz vizör değişimi (ATVR), tear-off hazırlığı",
+      "AEFR acil durum sistemi ve çift D-halka",
+      "AWC4/AWC2 interkom hazırlığı"
+    ],
+    "cons": [
+      "Ağırlık bedene bağlanmadan 'itibaren' olarak verilmiş",
+      "İç güneş vizörü yok",
+      "Beden aralığı XS–XL; XXL yok",
+      "Türkiye'de birebir bu modelin yetkili satıcı fiyatını bulamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama güneş vizörü olmaması ve sportif form şehirde avantaj sağlamaz.",
+      "uzunYol": "Mümkün; çift rüzgâr kesici (yaz/kış) kutuda. Sportif oturuş dik pozisyonda yorabilir.",
+      "otoban": "Aerodinamik kabuk ve yarış tipi vizör kilidi yüksek hız için tasarlanmış.",
+      "sport": "Ana kullanım alanı: 2D yarış vizörü, tear-off hazırlığı ve geniş görüş.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; dar oturuşlu kasklarda denemek şart.",
+      "interkom": "Airoh AWC4 ve AWC2 interkomlarına hazır (ayrı satılır).",
+      "kurye": "Önerilmez; güneş vizörü yok, sportif yapı kurye temposuna göre değil."
+    },
+    "verdict": "GP 800, sportif sürücü için kutudan zengin çıkan, üç kabuk boyutlu ve iyi donatılmış bir yarış kaskı. Pinlock 120 ve koyu vizörün pakette olması değerli. Ağırlık bilgisinin bedensiz verilmesi ve güneş vizörü olmaması dikkate alınmalı.",
+    "rivals": [
+      "scorpion/exo-r1-evo-ii-air",
+      "suomy/sr-gp-evo",
+      "nexx/x-r3r"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "GP 800 ile GP 800 Carbon arasındaki fark ne?",
+        "a": "Airoh'a göre GP 800 HPC Carbon kompozit kabuklu; GP 800 Carbon ise ayrı bir model olarak tam karbon kabukla sunuluyor."
+      },
+      {
+        "q": "Kutuda neler var?",
+        "a": "Üreticiye göre çift rüzgâr kesici (yaz ve kış), Pinlock 120 XLT MaxVision lens, koyu füme vizör, çıkarılabilir burun koruması, vizör kılıfı ve silikon yağı seti."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Airoh tablosuna göre XS 53–54, S 55–56, M 57–58, L 59–60, XL 61 cm. Kafa ölçünüzü alnın hemen üstünden alın ve mümkünse deneyin."
+      }
+    ],
+    "manufacturerUrl": "https://www.airoh.com/en/product/gp-800-color/",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/en/product/gp-800-color/",
+        "type": "manufacturer",
+        "label": "Airoh GP 800 Color ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.airoh.com/en/modello/gp-800/",
+        "type": "manufacturer",
+        "label": "Airoh GP 800 model sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black Matt",
+      "Cement Grey Gloss",
+      "White Gloss"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 61
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "HPC Carbon (karbon içerikli kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1440,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "2D yarış vizörü, ATVR aletsiz söküm, yarış kilidi, A3S buğu önleme, tear-off'a hazır, ekstra geniş görüş; koyu füme vizör kutuda",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Airoh AWC4 / AWC2 hazır (ayrı satılır).",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "commander-2",
+    "brand": "airoh",
+    "name": "Commander 2",
+    "subcategories": [
+      "adventure-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Airoh'un üç farklı kullanım şekline dönüşebilen adventure kaskı. HPC Carbon kompozit kabuk, üç kabuk boyutu, Pinlock 120 kutuda; adventure, yol ve kros düzenlerinde kullanılabiliyor.",
+    "description": [
+      "Commander 2, Airoh'un çok satan Commander'ının yenilenmiş hali. Kask üç düzende kullanılabiliyor: siperlik ve vizörlü adventure, siperliksiz yol (naked) ve vizörsüz siperlikli kros/enduro. Kutuda bu düzenler için tapalar ve her iki düzene ait aksiyon kamerası bağlantıları geliyor.",
+      "Kabuk HPC Carbon kompozitten, üç boyutta (XS–S, M–L, XL–XXXL) üretiliyor; tam karbon (6K) isteyenler için ayrı Commander 2 Carbon var. Rüzgâr tünelinde geliştirilen havalandırma, ekstra geniş vizör, A3S otomatik buğu önleme ve vizör kilidi standart; Pinlock 120 XLT MaxVision lens kutudan çıkıyor. Coolmax astar çıkarılıp yıkanabiliyor, ASN ve AEFR acil durum sistemleri var.",
+      "Üretici ağırlığı '1.440 g'dan başlayan (±50 g)' olarak veriyor; bedeni belirtmiyor. İç güneş vizörü ürün sayfasında listelenmiyor. AWC4/AWC2 interkom hazırlığı var."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu karıştıran adventure sürücüleri",
+      "Tek kaskla hem kros gözlüklü toprak hem de vizörlü yol sürüşü yapmak isteyenler",
+      "Geniş beden aralığı (XS–XXXL) arayan büyük kafalı sürücüler"
+    ],
+    "notFor": [
+      "İç güneş vizörü şart olanlar: üretici sayfasında güneş vizörü listelenmiyor",
+      "Kurye kullanımı: siperlikli ve hacimli yapı şehir temposunda gereksiz yük"
+    ],
+    "pros": [
+      "Üç kullanım düzeni ve gerekli tapalar kutuda",
+      "ECE 22.06 onaylı",
+      "Üç kabuk boyutu, XS–XXXL",
+      "Pinlock 120 XLT MaxVision kutuda",
+      "AEFR acil durum sistemi",
+      "AWC4/AWC2 interkom hazırlığı"
+    ],
+    "cons": [
+      "İç güneş vizörü listelenmemiş",
+      "Ağırlık bedensiz 'itibaren' değer olarak verilmiş",
+      "Siperlik otobanda rüzgâr yükü yaratabilir",
+      "Türkiye'de teslim süresi uzun görünebiliyor (satıcıda kargo süresi belirtilmiş)"
+    ],
+    "usage": {
+      "sehir": "Siperliksiz yol düzeninde şehirde rahat kullanılır.",
+      "uzunYol": "Güçlü yanı: geniş vizör, Pinlock ve interkom hazırlığı uzun etapta işe yarar; güneş vizörü olmaması eksik.",
+      "otoban": "Siperliği sökülerek otobanda daha sakin kullanılabilir.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Ana kullanım alanı: üç düzen, kamera bağlantıları ve geniş havalandırma.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; mağazada denemek gerekir.",
+      "interkom": "Airoh AWC4 ve AWC2 interkomlarına hazır (ayrı satılır).",
+      "kurye": "Önerilmez; hacimli adventure kask şehir içi kurye işinde pratik değil."
+    },
+    "verdict": "Commander 2, tek kaskla adventure, yol ve kros düzenlerine geçmek isteyen sürücü için çok yönlü ve iyi donatılmış bir model. Üç kabuk boyutu ve geniş beden aralığı artı. Güneş vizörünün listelenmemesi, uzun yolda gözlük ya da koyu vizör planlamayı gerektirir.",
+    "rivals": [
+      "scorpion/adf-9000-air",
+      "nexx/x-wed3",
+      "caberg/tanami"
+    ],
+    "priceRange": {
+      "min": 28195.2,
+      "max": 28195.2,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/airoh-commander-2-kask-beyaz",
+        "price": 28195.2,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Commander 2 hangi düzenlerde kullanılabilir?",
+        "a": "Airoh'a göre üç düzen var: siperlik ve vizörle adventure, siperliksiz yol (naked) ve vizörsüz, siperlikli kros/enduro. Gerekli tapalar kutudan çıkıyor."
+      },
+      {
+        "q": "Commander 2'nin güneş vizörü var mı?",
+        "a": "Airoh'un ürün sayfasında iç güneş vizörü listelenmiyor. Satın almadan önce satıcıya teyit ettirin."
+      },
+      {
+        "q": "Türkiye'de fiyatı ne kadar?",
+        "a": "Kontrol ettiğimiz tarihte Motodium'da beyaz renk Commander 2, 28.195,20 TL olarak listeleniyordu."
+      }
+    ],
+    "manufacturerUrl": "https://www.airoh.com/en/product/commander-2-color/",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/en/product/commander-2-color/",
+        "type": "manufacturer",
+        "label": "Airoh Commander 2 Color ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/airoh-commander-2-kask-beyaz",
+        "type": "retailer",
+        "label": "Motodium – Airoh Commander 2 Beyaz",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.breathGuard",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black Matt",
+      "Cement Grey Gloss",
+      "White Gloss"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      },
+      {
+        "size": "XXXL",
+        "min": 64,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "HPC Carbon (karbon içerikli kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1440,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ekstra geniş vizör, A3S otomatik buğu önleme, vizör kilidi, UV ve çizilme dirençli; sökülebilir siperlik",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "Rüzgâr tünelinde geliştirilmiş havalandırma; kros düzeni için tapalar",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Airoh AWC4 / AWC2 hazır (ayrı satılır).",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "mathisse-ii",
+    "brand": "airoh",
+    "name": "Mathisse II",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Airoh'un P/J çift onaylı 2'si 1 arada çene açılır kaskı. Termoplastik kabuk, dört kabuk boyutu, Pinlock 120 kutuda ve AWC interkom hazırlığıyla şehir ve tur kullanımına yönelik.",
+    "description": [
+      "Mathisse II, çene bölümü tek hareketle açılıp kapalı kasktan jete dönüşebilen bir modüler. ECE 22.06 kapsamında P/J çift onaya sahip; yani çene açık ve kapalı konumda kullanım için onaylı. Kabuk Airoh'un HRT adını verdiği termoplastikten, dört boyutta (XS–S, M, L–XL, XXL–XXXL) üretiliyor.",
+      "Geniş vizör çizilme ve UV dirençli, buğu önleme için aralık konumu var ve Pinlock 120 XLT lens kutudan çıkıyor. Coolmax astar çıkarılıp yıkanabiliyor, ASN sistemi ve rüzgâr kesici mevcut. Kilit mikrometrik ve hırsızlık önleyici halka barındırıyor; Airoh AWC4/AWC2 interkomlarına hazır.",
+      "Üretici ağırlığı '1.680 g'dan başlayan (±50 g)' olarak veriyor. İç güneş vizörü ürün sayfasında listelenmiyor; satın almadan önce teyit edilmeli."
+    ],
+    "forWho": [
+      "Şehirde sık durup kalkan ve çeneyi açıp konuşmak isteyen sürücüler",
+      "Termoplastik kabukla bütçeyi koruyarak P/J onaylı modüler arayanlar",
+      "Geniş beden aralığı ve dört kabuk boyutunu önemseyenler"
+    ],
+    "notFor": [
+      "Hafif kask arayanlar: 1,68 kg'dan başlayan ağırlık modüler için ortalama ama hafif değil",
+      "Sportif ve pist sürüşü yapanlar"
+    ],
+    "pros": [
+      "P/J çift onay (ECE 22.06)",
+      "Dört kabuk boyutu, XS–XXXL",
+      "Pinlock 120 XLT kutuda",
+      "Mikrometrik kilit ve hırsızlık önleyici halka",
+      "AWC4/AWC2 interkom hazırlığı"
+    ],
+    "cons": [
+      "İç güneş vizörü listelenmemiş",
+      "Termoplastik kabuk kompozite göre daha ağır olabilir",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık",
+      "Mekanizmalı yapı düzenli bakım ister"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanlarından biri: çeneyi açıp jet gibi kullanmak şehirde büyük kolaylık.",
+      "uzunYol": "Pinlock, rüzgâr kesici ve interkom hazırlığıyla tura uygun.",
+      "otoban": "Çene kapalıyken kullanılmalı; açık konum düşük hızlar için.",
+      "sport": "Sportif kullanım için değil.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır; gözlük kanalı belirtilmemiş.",
+      "interkom": "Airoh AWC4 ve AWC2 için hazırlanmış (ayrı satılır).",
+      "kurye": "Çene açılır yapı ve P/J onay teslimatlarda pratik; termoplastik kabuk fiyatı makul tutar. Ağırlık uzun mesaide hissedilebilir."
+    },
+    "verdict": "Mathisse II, P/J onaylı, dört kabuk boyutlu ve kutudan Pinlock'la çıkan pratik bir çene açılır kask. Şehir ve tur kullanımına iyi uyar. Güneş vizörünün listelenmemesi ve ağırlığın hafif sayılmaması göz önünde bulundurulmalı.",
+    "rivals": [
+      "caberg/duke-x",
+      "scorpion/exo-tech-evo-carbon",
+      "bell/srt-modular"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Mathisse II çene açıkken sürülebilir mi?",
+        "a": "Evet. Airoh kaskın ECE 22.06 kapsamında P/J çift onaylı olduğunu belirtiyor."
+      },
+      {
+        "q": "Kaç kabuk boyutu var?",
+        "a": "Dört: XS–S, M, L–XL ve XXL–XXXL."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Airoh tablosuna göre XS 53–54, S 55–56, M 57–58, L 59–60, XL 61, XXL 62, XXXL 63–64 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.airoh.com/en/product/mathisse-ii-color/",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/en/product/mathisse-ii-color/",
+        "type": "manufacturer",
+        "label": "Airoh Mathisse II Color ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.airoh.com/en/modello/mathisse-ii/",
+        "type": "manufacturer",
+        "label": "Airoh Mathisse II model sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black Matt",
+      "Bronze Matt",
+      "Cement Grey Gloss",
+      "White Gloss"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 61
+      },
+      {
+        "size": "XXL",
+        "min": 62,
+        "max": 62
+      },
+      {
+        "size": "XXXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "HRT termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1680,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ekstra geniş görüş, çizilme ve UV dirençli, buğu önleme konumu",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Airoh AWC4 / AWC2 hazır (ayrı satılır). P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "duke-x",
+    "brand": "caberg",
+    "name": "Duke X",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Caberg'in İtalya'da üretilen, ECE 22.06 P/J onaylı çene açılır kaskı. ABS kabuk, iç güneş vizörü, Pinlock'lu vizör ve Pro Speak Evo interkom yuvasıyla şehir ve tur kullanıcısına hitap ediyor.",
+    "description": [
+      "Duke X, Caberg'in uzun süredir satılan Duke/Duke II serisinin, yenilenen çene açma mekanizmasıyla ECE 22.06 P/J testlerini geçen versiyonu. Sol taraftaki P/J kolu 'J' konumuna alındığında çene tamamen açık konumda kilitleniyor ve kendiliğinden kapanmıyor; bu sayede jet kask gibi onaylı kullanım mümkün.",
+      "Kabuk LG Chem yüksek darbe dayanımlı ABS'den, tek boyutta üretiliyor; üretici ağırlığı 1.550 g (±50 g) veriyor. Double Visor Tech sistemiyle çizilmeye dayanıklı iç güneş vizörü ve Pinlock lensli, çizilmeye dayanıklı şeffaf vizör geliyor (Smart versiyonda vizör yalnızca Pinlock'a hazır). Astar çıkarılıp yıkanabiliyor, rüzgâr kesici sökülebiliyor ve kilit mikrometrik.",
+      "Kask Caberg Pro Speak Evo interkomu için yuvaya sahip ve üretici ECE 22.06 testlerinin interkom takılıyken de geçildiğini belirtiyor. Duke X tamamen İtalya'da üretiliyor."
+    ],
+    "forWho": [
+      "Şehir içinde sık durup kalkan, çeneyi açıp jet gibi kullanmak isteyen sürücüler",
+      "Uygun bütçeyle P/J onaylı, iç güneş vizörlü modüler arayanlar",
+      "Marka interkomunu temiz yerleştirmek isteyenler"
+    ],
+    "notFor": [
+      "Büyük kafalı sürücüler: beden aralığı XL (61–62 cm) ile sınırlı",
+      "Sportif ya da pist sürüşü yapanlar"
+    ],
+    "pros": [
+      "ECE 22.06 P/J çift onay",
+      "İç güneş vizörü",
+      "Pinlock lens (Smart hariç)",
+      "Pro Speak Evo interkom yuvası",
+      "1.550 g ile termoplastik modüler için makul ağırlık",
+      "İtalya üretimi"
+    ],
+    "cons": [
+      "Tek kabuk boyutu: küçük bedenlerde kask hacimli görünebilir",
+      "Beden aralığı XS–XL",
+      "Havalandırma iki girişle sınırlı",
+      "Türkiye'de birebir Duke X fiyatını yetkili satıcıda bulamadık"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: çeneyi açıp kilitleyerek trafikte jet kask gibi kullanmak kolay.",
+      "uzunYol": "İç güneş vizörü, Pinlock ve interkom yuvası tur için yeterli; ağırlık makul.",
+      "otoban": "Çene kapalıyken kullanılmalı; çene açık konum düşük hız içindir.",
+      "sport": "Sportif kullanım için değil.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Caberg Pro Speak Evo için yuva var; üretici interkomla birlikte de ECE 22.06 testlerinin geçildiğini belirtiyor.",
+      "kurye": "P/J onay ve iç güneş vizörü teslimat temposunda pratik; ABS kabuk fiyatı makul tutar. Mekanizmanın düzenli temizliği önemli."
+    },
+    "verdict": "Duke X, P/J onaylı, iç güneş vizörlü ve interkom yuvalı pratik bir şehir ve tur modüleri. 1.550 g ağırlık ve İtalya üretimi artı. Tek kabuk boyutu ve XL ile sınırlı beden aralığı, küçük ve çok büyük kafalar için dezavantaj.",
+    "rivals": [
+      "airoh/mathisse-ii",
+      "scorpion/exo-tech-evo-carbon",
+      "bell/srt-modular"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Duke X çene açıkken sürülebilir mi?",
+        "a": "Evet. Caberg kaskın ECE 22.06 P/J onaylı olduğunu ve P/J kolu 'J' konumundayken çenenin açık konumda kilitlendiğini belirtiyor."
+      },
+      {
+        "q": "Pinlock kutudan çıkıyor mu?",
+        "a": "Caberg'e göre Smart (boyasız siyah) versiyon hariç vizör Pinlock lensle geliyor; Smart versiyonda vizör yalnızca Pinlock'a hazır."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Caberg tablosu: XS 53/54, S 55/56, M 57/58, L 59/60, XL 61/62 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.caberg.it/en/helmets/modular/duke-x/",
+    "sources": [
+      {
+        "url": "https://www.caberg.it/en/helmets/modular/duke-x/",
+        "type": "manufacturer",
+        "label": "Caberg Duke X ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "priceRange"
+    ],
+    "colors": [
+      "Smart Black",
+      "Matt Black",
+      "Matt Blue Yama",
+      "Matt Gun Metal",
+      "White Metal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "LG Chem yüksek darbe dayanımlı ABS",
+      "materialClass": "termoplastik",
+      "shellSizes": 1,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1550,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Çizilmeye dayanıklı, Pinlock'lu vizör (Smart versiyonda Pinlock'a hazır); hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çenede ve tepede birer giriş, astarda hava kanalları",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Caberg Pro Speak Evo yuvası; ECE 22.06 testleri interkom takılıyken de geçilmiş. P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": "İtalya"
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "drift-evo-ii",
+    "brand": "caberg",
+    "name": "Drift Evo II",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Caberg'in sport-touring odaklı en üst kapalı kaskı. Cam elyafı kabuk, iki kabuk boyutu, iç güneş vizörü, Pinlock MaxVision 70 kutuda ve NFC'li SOS Medical ID sistemiyle uzun yol sürücüsüne yönelik.",
+    "description": [
+      "Drift Evo II, 2023 sonuna kadar üretilen Drift Evo'nun yerini alan, kabuğu tamamen yenilenmiş kapalı kask. Kabuk cam elyafından iki boyutta üretiliyor (XS–M ve L–XXL); karbon kabuk isteyenler için ayrı bir Drift Evo II Carbon var. Arka spoyler yüksek hızda aerodinamiğe ve türbülansın azalmasına katkı veriyor.",
+      "Üretici ağırlığı küçük kabukta 1.450 g, büyük kabukta 1.500 g (±50 g) olarak veriyor. Çizilmeye dayanıklı şeffaf vizör, kutudan çıkan Pinlock MaxVision 70 lens, iç güneş vizörü ve vizör kilidi standart. Astar çıkarılıp yıkanabiliyor, rüzgâr kesici sökülebiliyor; acil durum yanak pedi çıkarma sistemi ve çift D-halka kilit var.",
+      "Caberg SOS Medical ID, NFC çipi sayesinde kurtarma ekiplerinin akıllı telefonla sürücünün acil durum bilgilerine ulaşmasını sağlıyor. Kask Pro Speak Evo interkomuna hazır ve üretici ECE 22.06 testlerinin interkom takılıyken de geçildiğini belirtiyor."
+    ],
+    "forWho": [
+      "Uzun yol ve sport-touring yapan, iç güneş vizörlü kapalı kask isteyenler",
+      "Orta bütçeyle cam elyafı kabuklu ve iki kabuk boyutlu kask arayanlar",
+      "Acil durum bilgisi sistemi (NFC) gibi güvenlik eklerini önemseyenler"
+    ],
+    "notFor": [
+      "Pist kullanımı için kask arayanlar",
+      "Çene açılır pratiklik isteyenler"
+    ],
+    "pros": [
+      "İki kabuk boyutu, XS–XXL",
+      "1.450–1.500 g ile hafif sınıfa yakın",
+      "İç güneş vizörü ve Pinlock MaxVision 70 kutuda",
+      "Acil durum yanak pedi sistemi ve çift D-halka",
+      "SOS Medical ID (NFC)",
+      "Pro Speak Evo interkom hazırlığı"
+    ],
+    "cons": [
+      "Pinlock 70, 120'ye göre daha dar alan kaplar",
+      "Havalandırma detayları üretici sayfasında sınırlı",
+      "Türkiye'de birebir model fiyatını yetkili satıcıda bulamadık"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü ve görece hafifliği şehirde rahat kullanım sağlar.",
+      "uzunYol": "Ana kullanım alanı: güneş vizörü, Pinlock ve interkom hazırlığı uzun yol için kurgulanmış.",
+      "otoban": "Arka spoyler ve kilitli vizör yüksek hızda stabilite için tasarlanmış.",
+      "sport": "Sportif yol sürüşüne uyar; pist için yarış kaskları daha uygun.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Caberg Pro Speak Evo için hazır; genel interkomlar da takılabilir.",
+      "kurye": "Kapalı yapı ve güneş vizörü günlük kullanıma uygun; ancak sık durup kalkan kurye için çene açılır kask daha pratik olabilir."
+    },
+    "verdict": "Drift Evo II, uzun yol sürücüsüne hafif cam elyafı kabuk, iç güneş vizörü ve iyi güvenlik donanımı sunan dengeli bir kapalı kask. İki kabuk boyutu ve XXL'e uzanan beden aralığı artı. Pinlock'un 70 seviyesinde olması küçük bir eksik.",
+    "rivals": [
+      "ls2/ff811-vector-ii",
+      "shoei/gt-air-3",
+      "suomy/stellar-2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Drift Evo II'nin ağırlığı ne kadar?",
+        "a": "Caberg küçük kabuk (XS–M) için 1.450 g, büyük kabuk (L–XXL) için 1.500 g ±50 g veriyor."
+      },
+      {
+        "q": "SOS Medical ID nedir?",
+        "a": "Kaskın üzerindeki NFC etiketine kayıtlı acil durum bilgilerinin kurtarma ekiplerince akıllı telefonla okunabilmesini sağlayan sistem; acil durum kişilerinize konum SMS'i de gönderilebiliyor."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Caberg tablosu: XS 53/54, S 55/56, M 57/58, L 59/60, XL 61/62, XXL 63/64 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.caberg.it/en/helmets/full-face/drift-evo-ii/",
+    "sources": [
+      {
+        "url": "https://www.caberg.it/en/helmets/full-face/drift-evo-ii/",
+        "type": "manufacturer",
+        "label": "Caberg Drift Evo II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.breathGuard",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Matt Black",
+      "White",
+      "Prism",
+      "Nobo",
+      "Jarama",
+      "Crok"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Cam elyafı",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1450,
+      "weightSize": "Küçük kabuk (XS–M); büyük kabuk 1.500 g",
+      "headShape": null,
+      "visor": "Çizilmeye dayanıklı vizör, Pinlock MaxVision 70 dahil, vizör kilidi, hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "İç hava sirkülasyon kanalları",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Caberg Pro Speak Evo hazır; ECE 22.06 testleri interkom takılıyken de geçilmiş.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "tanami",
+    "brand": "caberg",
+    "name": "Tanami",
+    "subcategories": [
+      "adventure-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Caberg'in cam elyafı kabuklu on/off-road adventure kaskı. Sökülebilir siperlik, mıknatıslı havalandırma kapakları, iç güneş vizörü ve kros gözlüğü uyumuyla asfalt ve toprak yola göre tasarlanmış.",
+    "description": [
+      "Tanami, Caberg'in yeni adventure kaskı. Kabuk cam elyafından iki boyutta üretiliyor; karbon kabuklu Tanami Carbon ayrı satılıyor. Kask siperlikli ya da siperliksiz, standart kapalı kask gibi kullanılabiliyor. Çene ve arka çıkışlardaki havalandırma kapakları mıknatısla takılıyor; toprak yolda ve sıcak günlerde kolayca çıkarılarak hava akışı artırılabiliyor.",
+      "Kros gözlüğü vizör yukarıdayken ya da vizör tamamen sökülmüşken kullanılabiliyor. Pinlock 70 MaxVision lens kutudan çıkıyor, iç güneş vizörü, vizör kilidi ve sökülebilir burun koruması var. Astar çıkarılıp yıkanabiliyor, rüzgâr kesici sökülebiliyor ve kilit alüminyum çift D-halka.",
+      "Üretici ağırlığı küçük kabukta 1.530 g, büyük kabukta 1.580 g (±50 g) veriyor. Caberg SOS Medical ID ve Pro Speak Evo interkom hazırlığı da mevcut."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu karıştıran adventure sürücüleri",
+      "Toprak yolda kros gözlüğü kullanmak isteyenler",
+      "Sıcak havada havalandırmayı hızlıca artırabilmek isteyenler"
+    ],
+    "notFor": [
+      "Pist ya da sportif sürüş yapanlar",
+      "Kurye kullanımı: siperlikli adventure kask şehirde rüzgâr ve hacim yükü getirir"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Siperlikli/siperliksiz ve kros gözlüklü kullanım",
+      "Mıknatıslı, sökülebilir havalandırma kapakları",
+      "İç güneş vizörü ve Pinlock 70 kutuda",
+      "Alüminyum çift D-halka",
+      "SOS Medical ID ve interkom hazırlığı"
+    ],
+    "cons": [
+      "1.530–1.580 g; hafif değil",
+      "Pinlock 70, 120'ye göre daha dar alan kaplar",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık"
+    ],
+    "usage": {
+      "sehir": "Siperliksiz kullanıldığında şehirde sade bir kapalı kask gibi davranır.",
+      "uzunYol": "İç güneş vizörü ve Pinlock ile tura uygun; ağırlık uzun etapta hissedilebilir.",
+      "otoban": "Siperlik takılıyken yüksek hızda rüzgâr yükü artabilir; siperlik sökülebiliyor.",
+      "sport": "Sportif sürüş için değil.",
+      "adventure": "Ana kullanım alanı: kros gözlüğü uyumu, sökülebilir kapaklar ve siperlik.",
+      "gozluk": "Üretici numaralı gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Caberg Pro Speak Evo hazırlığı var.",
+      "kurye": "Önerilmez; hacimli adventure kask kurye temposunda pratik değil."
+    },
+    "verdict": "Tanami, toprak yolu ciddiye alan adventure sürücüsüne esnek havalandırma, kros gözlüğü uyumu ve iç güneş vizörü sunan çok yönlü bir kask. Ağırlık sınıf ortalamasında; satın almadan önce oturuşu denemek önemli.",
+    "rivals": [
+      "airoh/commander-2",
+      "scorpion/adf-9000-air",
+      "nexx/x-wed3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tanami kros gözlüğüyle kullanılabilir mi?",
+        "a": "Evet. Caberg vizör kaldırıldığında ya da tamamen söküldüğünde motokros gözlüğü takılabildiğini belirtiyor."
+      },
+      {
+        "q": "Siperliksiz kullanılabilir mi?",
+        "a": "Evet. Caberg kaskın siperlikle ya da siperliksiz, standart kapalı kask olarak kullanılabildiğini belirtiyor."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Caberg küçük kabuk için 1.530 g, büyük kabuk için 1.580 g ±50 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.caberg.it/en/helmets/full-face/tanami/",
+    "sources": [
+      {
+        "url": "https://www.caberg.it/en/helmets/full-face/tanami/",
+        "type": "manufacturer",
+        "label": "Caberg Tanami ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Matt Black",
+      "White",
+      "Scram",
+      "Ranger"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "Cam elyafı",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1530,
+      "weightSize": "Küçük kabuk; büyük kabuk 1.580 g",
+      "headShape": null,
+      "visor": "Pinlock 70 MaxVision lensli vizör, vizör kilidi; sökülebilir siperlik, kros gözlüğü uyumlu",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çene girişi ve arka çıkışlarda mıknatıslı, sökülebilir kapaklar",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Caberg Pro Speak Evo hazır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "x-wed3",
+    "brand": "nexx",
+    "name": "X.WED3",
+    "subcategories": [
+      "adventure-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Nexx'in X-PRO Carbon kabuklu adventure kaskı. Üç kabuk boyutu, iç güneş vizörü, F.R.S. hızlı yanak pedi çıkarma, X-COM3 interkom entegrasyonu ve kutudan çıkan zengin aksesuarla uzun mesafe adventure'a yönelik.",
+    "description": [
+      "X.WED3, Nexx'in adventure serisinin üçüncü kuşağı. Üretici kaskın 200.000 km'yi aşan ve 60'tan fazla sürücünün katıldığı saha testleriyle geliştirildiğini belirtiyor. Kask aletsiz şekilde adventure/off-road düzeninden siperliksiz yol düzenine geçebiliyor ve kros gözlüğüyle kullanılabiliyor. Kabuğun çene bölümünün alt kenarı, önden darbelerde göğüs yaralanması riskini azaltmak için daha yumuşak ve yuvarlak şekillendirilmiş.",
+      "Karbon versiyonların kabuğu X-PRO Carbon (3K karbon kompozit), daha uygun versiyonlarınki X-Matrix 2 kompozit; her ikisi de üç kabuk boyutunda (XXS–S, M–L, XL–XXXL). Yedi kapatılabilir giriş ve dört çıkış, iç ve dış EPS arasında hava dolaştıran Mid Airflow Chamber ve titreşim önleyici EPS sistemi kullanılıyor. Recoil vizör sistemi vizörü contaya bastırıyor; iç güneş vizörü önceki modele göre %18 daha büyük. Karbon versiyonlarda Pinlock 120 XLT MaxVision, X-Matrix 2 versiyonlarında Pinlock 70 kutudan çıkıyor.",
+      "Üretici ağırlığı 1.725 g (±50 g) olarak veriyor; beden belirtilmemiş. ECE 22.06 ve DOT onaylı. Çift D-halka ile X-Lock mıknatıslı kayış, yan ve çenede EPP X-Foam tamponlar, kamera bağlantıları, ikinci vizör ve kış filtresi kutuda."
+    ],
+    "forWho": [
+      "Uzun mesafe adventure yapan ve kutudan eksiksiz donanım isteyen sürücüler",
+      "Toprak yolda kros gözlüğü, asfaltta vizörle sürmek isteyenler",
+      "Nexx X-COM3 ile temiz interkom entegrasyonu isteyenler"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar; karbon versiyon üst segmentte",
+      "Kurye kullanımı: siperlikli ve hacimli yapı şehir içi kurye işinde pratik değil"
+    ],
+    "pros": [
+      "ECE 22.06 ve DOT onaylı",
+      "Üç kabuk boyutu, XXS–XXXL",
+      "Büyütülmüş iç güneş vizörü",
+      "F.R.S. ile iki yanak pedini aynı anda hızlı çıkarma",
+      "Kutuda ikinci vizör, kamera bağlantıları, kış filtresi, Pinlock",
+      "X-COM3 / X-COM3 PRO entegrasyonu"
+    ],
+    "cons": [
+      "Ağırlık bedensiz verilmiş; adventure kask olduğu için hafif değil",
+      "Karbon versiyon pahalı",
+      "Versiyona göre kutudaki Pinlock farklı (karbon: 120, X-Matrix 2: 70)"
+    ],
+    "usage": {
+      "sehir": "Siperliksiz yol düzeninde şehirde kullanılabilir; iç güneş vizörü işe yarar.",
+      "uzunYol": "Güçlü yanı: geniş havalandırma, güneş vizörü, X-COM3 entegrasyonu ve konforlu iç yapı.",
+      "otoban": "Siperlik aerodinamik olarak tasarlanmış ve üç kademe ayarlı; yine de otobanda siperliksiz kullanım daha sakin olur.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Ana kullanım alanı: kros gözlüğü tutucu, kamera bağlantıları, sökülebilir siperlik ve EPP tamponlar.",
+      "gozluk": "Üretici numaralı gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Nexx X-COM3 ve X-COM3 PRO kaska tamamen gömülü şekilde entegre edilebiliyor (ayrı satılır).",
+      "kurye": "Önerilmez; adventure kaskın hacmi ve fiyatı kurye kullanımına uygun değil."
+    },
+    "verdict": "X.WED3, adventure sürücüsüne güvenlik detayları, havalandırma ve kutu içeriği bakımından çok güçlü bir paket sunuyor. Üç kabuk boyutu ve geniş beden aralığı artı. Ağırlığın bedensiz verilmesi ve karbon versiyonun fiyatı göz önünde tutulmalı.",
+    "rivals": [
+      "airoh/commander-2",
+      "scorpion/adf-9000-air",
+      "caberg/tanami"
+    ],
+    "priceRange": {
+      "min": 24233,
+      "max": 24233,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/nexx-x-wed-3-kros-motosiklet-kaski",
+        "price": 24233,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "X.WED3 kros gözlüğüyle kullanılabilir mi?",
+        "a": "Evet. Nexx kaskın tozlu ortamlarda kros gözlüğüyle kullanılabildiğini belirtiyor; arkada gözlük kayışı tutucusu da var."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Nexx 1.725 g ±50 g veriyor; hangi bedene ait olduğunu belirtmiyor."
+      },
+      {
+        "q": "Türkiye'de fiyatı ne kadar?",
+        "a": "Kontrol ettiğimiz tarihte Vipmoto'da X.WED3, 24.233 TL olarak listeleniyordu; versiyon ve renge göre fiyat değişebilir."
+      }
+    ],
+    "manufacturerUrl": "https://nexx-helmets.com/en/helmets/x-wed3/",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-wed3/",
+        "type": "manufacturer",
+        "label": "NEXX X.WED3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/nexx-x-wed-3-kros-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – Nexx X.WED 3",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "X-PRO Carbon (3K karbon kompozit); X-Matrix 2 kompozit versiyonları da var",
+      "materialClass": "karbon",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1725,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Recoil vizör sistemi, çift dudaklı conta; siperlik 3 kademe ayarlı ve sökülebilir, siperlik uzatması dahil; ikinci vizör kutuda",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "7 giriş / 4 çıkış, yanak pedi havalandırması, Mid Airflow Chamber",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Nexx X-COM3 / X-COM3 PRO entegrasyonu (ayrı satılır).",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "x-r3r",
+    "brand": "nexx",
+    "name": "X.R3R",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "karbon-kask"
+    ],
+    "summary": "Nexx'in X-PRO Carbon kabuklu pist odaklı kapalı kaskı. 1.350 g ağırlık, üç kabuk boyutu, 225° yatay görüşlü tear-off hazır vizör ve ayarlanabilir yarış iç yapısıyla sportif sürücüye yönelik.",
+    "description": [
+      "X.R3R, Nexx'in yarış kaskı. Kabuk 3K karbon kumaşlı X-PRO Carbon'dan üretiliyor ve üretici bunun diğer karbon kabuklardan %10 daha hafif olduğunu belirtiyor. Kabuk, vizör ve spoylerler önce CFD analiziyle, sonra rüzgâr tünelinde ve yolda test edilmiş; Nexx 160 km/s'e kadar dinamik ağırlığın sıfır olduğunu iddia ediyor. Arkaya vidalı, kopabilir tasarımlı şeffaf spoyler uzatması eklenebiliyor.",
+      "Vizör kırılmaz PC Lexan, Optik Sınıf 1, çizilmeye dayanıklı, tear-off'a hazır ve 225° yatay / 85° dikey görüş sunuyor; çift vizör kilidi beklenmedik açılmayı önlüyor. Pinlock 120 XLT MaxVision, ikinci vizör ve tear-off seti kutuda. İç güneş vizörü yok. Yanak pedlerindeki iç cep farklı kalınlıkta köpüklerle ince ayar yapmaya, tepe pedi ise ileri-geri kaydırmaya izin veriyor.",
+      "Üretici ağırlığı 1.350 g (±50 g) olarak veriyor; beden belirtilmemiş. ECE 22.06, DOT ve ACU Gold onayları listeleniyor; FIM onayı standart versiyonda değil, ayrı bir FIM versiyonunda sunuluyor. Çift D-halka ve X-Lock mıknatıslı kayış, acil durum kayışı V2 ve tamamen çıkarılıp yıkanabilen astar standart."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ve hafif karbon yarış kaskı isteyen sürücüler",
+      "Oturuşu yanak ve tepe pedleriyle ince ayarlamak isteyenler",
+      "Tear-off ve geniş görüş açısı önemli olan sportif sürücüler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyen günlük ve turing kullanıcıları",
+      "Kurye kullanımı: güneş vizörü yok ve yarış odaklı karbon kask kurye işine göre pahalı"
+    ],
+    "pros": [
+      "1.350 g (üretici verisi)",
+      "X-PRO Carbon kabuk, üç kabuk boyutu",
+      "225° yatay görüş, tear-off hazır, çift vizör kilidi",
+      "Pinlock 120, ikinci vizör ve tear-off seti kutuda",
+      "Ayarlanabilir yanak ve tepe pedi",
+      "ECE 22.06, DOT ve ACU Gold"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Standart versiyonda FIM onayı yok",
+      "Ağırlık bedensiz verilmiş",
+      "Pahalı segmentte"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama güneş vizörü olmaması şehirde dezavantaj.",
+      "uzunYol": "Mümkün; ancak sportif oturuş ve güneş vizörü eksikliği uzun turda yorabilir.",
+      "otoban": "Aerodinamik çalışmalar ve spoyler yüksek hız stabilitesi için.",
+      "sport": "Ana kullanım alanı: pist ve sportif yol.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; yarış oturuşu nedeniyle denemek şart.",
+      "interkom": "Teknik tabloda 'Universal' interkom hazırlığı belirtiliyor; özel bir entegre sistem yok.",
+      "kurye": "Önerilmez; güneş vizörü yok ve yarış kaskı kurye temposuna göre değil."
+    },
+    "verdict": "X.R3R, hafif karbon kabuğu, geniş görüşü ve ince ayar yapılabilen iç yapısıyla pist odaklı sürücü için güçlü bir seçenek. Kutudan çıkan Pinlock 120, ikinci vizör ve tear-off seti değer katıyor. Yarışlarda FIM onaylı kask gerekiyorsa ayrı FIM versiyonuna bakılmalı.",
+    "rivals": [
+      "scorpion/exo-r1-evo-ii-air",
+      "airoh/gp-800",
+      "bell/race-star-dlx-flex"
+    ],
+    "priceRange": {
+      "min": 35003,
+      "max": 35003,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/nexx-x-r3r-pro-karbon-full-face-motosiklet-kaski",
+        "price": 35003,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Karbon"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "X.R3R FIM onaylı mı?",
+        "a": "Nexx'in standart X.R3R teknik tablosunda FIM onayı işaretli değil; FIM homologasyonlu ayrı bir versiyon (Pro FIM Evo) sunuluyor."
+      },
+      {
+        "q": "İç güneş vizörü var mı?",
+        "a": "Hayır. Nexx'in teknik tablosunda güneş vizörü bu model için işaretli değil."
+      },
+      {
+        "q": "Türkiye'de fiyatı ne kadar?",
+        "a": "Kontrol ettiğimiz tarihte Vipmoto'da X.R3R Pro karbon versiyonu 35.003 TL olarak listeleniyordu."
+      }
+    ],
+    "manufacturerUrl": "https://nexx-helmets.com/en/helmets/x-r3r/",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-r3r/",
+        "type": "manufacturer",
+        "label": "NEXX X.R3R ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/nexx-x-r3r-pro-karbon-full-face-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – Nexx X.R3R Pro Karbon",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "X-PRO Carbon (3K karbon kompozit)",
+      "materialClass": "karbon",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1350,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "PC Lexan, Optik Sınıf 1, çizilmeye dayanıklı, tear-off hazır; 225° yatay / 85° dikey görüş; çift vizör kilidi, Recoil sistem",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": false,
+      "ventilation": "Teknik tabloda 5 giriş / 4 çıkış; çene altı ek giriş",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Teknik tabloda 'Universal' interkom hazırlığı.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "x-lifetour",
+    "brand": "nexx",
+    "name": "X.LIFETOUR",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Nexx'in karbon kabuklu, P/J onaylı touring çene açılır kaskı. Çift contalı sessizlik tasarımı, iç güneş vizörü, X-COM3 interkom entegrasyonu ve kutudan çıkan ikinci vizörle uzun yol sürücüsüne yönelik.",
+    "description": [
+      "X.LIFETOUR, Nexx'in 2025'te tanıttığı touring modüleri. Kabuk X-PRO Carbon (3K karbon kompozit) ya da daha uygun X-Matrix 2 kompozitten, iki boyutta (XS–L ve XL–XXXL) üretiliyor. Sessizlik için çene bölgesinde girdap oluşturucular ve vizörle çene birleşimini çevreleyen çift kauçuk 'Silent Travel Seal' kullanılıyor; gürültü önleyici yanak pedleri ve ense yastığı da var.",
+      "Çene kilit parçaları paslanmaz çelik veya alüminyumdan yapılmış; Super Locker pivot sistemi çeneyi açık konumda kilitliyor ve kask P/J onaylı. İç güneş vizörü, X-Swift vizör mekanizması, Pinlock 120 XLT MaxVision ve %80 füme ikinci vizör kutudan çıkıyor. Havalandırma iki giriş ve iki çıkışla sade tutulmuş; Mid Airflow Chamber ve Air Cumbs tepe pedi hava sirkülasyonuna yardım ediyor.",
+      "Üretici ağırlığı 1.750 g (±50 g) olarak veriyor; beden belirtilmemiş. ECE 22.06 ve DOT onaylı. Kilit metal mikrometrik; X-COM3 / X-COM3 PRO interkom kaska gömülü şekilde entegre ediliyor, üst ve yan kamera bağlantıları dahil."
+    ],
+    "forWho": [
+      "Uzun yolda sessizlik ve konfor önceliği olan touring sürücüleri",
+      "Karbon kabuklu, P/J onaylı modüler arayanlar",
+      "Kaska gömülü marka interkomu kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Hafif kask arayanlar: 1.750 g",
+      "Sıcak iklimde çok havalandırma isteyenler: iki giriş / iki çıkış"
+    ],
+    "pros": [
+      "P/J onaylı, metal çene kilit parçaları",
+      "Çift contalı sessizlik tasarımı",
+      "İç güneş vizörü",
+      "Pinlock 120 ve %80 füme ikinci vizör kutuda",
+      "X-COM3 gömülü interkom entegrasyonu",
+      "ECE 22.06 ve DOT"
+    ],
+    "cons": [
+      "1.750 g ile ağır tarafta",
+      "Havalandırma iki giriş/iki çıkışla sınırlı",
+      "Teknik tabloda F.R.S. hızlı yanak pedi çıkarma işaretli değil",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı ve iç güneş vizörü şehirde pratik; ağırlık kısa yolda pek hissedilmez.",
+      "uzunYol": "Ana kullanım alanı: sessizlik tasarımı, güneş vizörü ve gömülü interkom.",
+      "otoban": "Çene kapalıyken sessizlik ve stabilite için tasarlanmış; çene açık konum düşük hızlar içindir.",
+      "sport": "Sportif sürüş için değil.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "X-COM3 ve X-COM3 PRO kaskın içine gömülü şekilde entegre ediliyor (ayrı satılır).",
+      "kurye": "Çene açılır yapı teslimatta pratik ama karbon versiyonun fiyatı ve ağırlığı kurye kullanımına göre yüksek."
+    },
+    "verdict": "X.LIFETOUR, sessizliği ve interkom entegrasyonunu öne çıkaran, P/J onaylı karbon bir touring modüleri. Kutu içeriği zengin ve kilit mekanizması metal parçalarla sağlam kurgulanmış. Ağırlık ve sade havalandırma sıcak havada uzun kullanımda hissedilebilir.",
+    "rivals": [
+      "shoei/neotec-3",
+      "schuberth/c5",
+      "scorpion/exo-tech-evo-carbon"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "X.LIFETOUR çene açıkken sürülebilir mi?",
+        "a": "Evet. Nexx, Super Locker pivot sistemiyle çenenin açık konumda kilitlendiğini ve kaskın P/J onaylı olduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi interkomla kullanılır?",
+        "a": "Nexx'in X-COM3 ve X-COM3 PRO üniteleri kaskın içine gömülü şekilde entegre ediliyor; üniteler ayrı satılıyor."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Nexx 1.750 g ±50 g veriyor; hangi bedene ait olduğunu belirtmiyor."
+      }
+    ],
+    "manufacturerUrl": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+        "type": "manufacturer",
+        "label": "NEXX X.LIFETOUR ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "X-PRO Carbon (3K karbon kompozit); X-Matrix 2 kompozit versiyonları da var",
+      "materialClass": "karbon",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1750,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "X-Swift vizör mekanizması, çift kauçuk conta; %80 füme ikinci vizör kutuda",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "2 giriş / 2 çıkış, Mid Airflow Chamber",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Nexx X-COM3 / X-COM3 PRO gömülü entegrasyon (ayrı satılır). P/J onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "sr-gp-evo",
+    "brand": "suomy",
+    "name": "SR-GP Evo",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask"
+    ],
+    "summary": "Suomy'nin MotoGP ve Road Racing sürücüleriyle geliştirilen yarış kaskı. Kevlar/karbon/cam elyafı karışımı Tricarboco kabuk, dört kabuk boyutu, M bedende 1.450 g ve hidrasyon hazırlığıyla pist odaklı.",
+    "description": [
+      "SR-GP Evo, Suomy'nin pist kaskı. Kabuk, Kevlar, karbon ve cam elyafını farklı ağırlık ve kopma yüklerinde birleştiren Tricarboco kompozitten üretiliyor ve dört kabuk boyutuyla sunuluyor. Rüzgâr tünelinde geliştirilen kabuk için Suomy düzlükte 0,39, virajda 0,40 sürtünme katsayısı (Cx) veriyor; stabilize spoyler yüksek hızda dengeye katkı sağlıyor.",
+      "Beş hava girişi ve üç çıkış, kanallı EPS ile birlikte çalışıyor. Vizör 92° dikey ve 210° çevresel görüş sunuyor, tear-off'a hazır; metal alaşımlı mandal ve 'Racing Lock System' kazada vizörün kopma ihtimalini azaltmak için tasarlanmış. Pinlock MaxVision lens kutudan çıkıyor. Kask hidrasyon sistemine hazır; çene perdesi var, nefes deflektörü opsiyonel.",
+      "Suomy'nin beden tablosuna göre ağırlık M bedende 1.450 g (±50 g) ve kask ECE 22.06 onaylı. Hafif alaşım çift D-halka ve acil durum yanak pedi çıkarma sistemi standart; astar tamamen çıkarılıp yıkanabiliyor."
+    ],
+    "forWho": [
+      "Pist günlerine ve kulüp yarışlarına katılan sürücüler",
+      "Hidrasyon hazırlığı ve tear-off gibi yarış detaylarını önemseyenler",
+      "Dört kabuk boyutunun sağladığı kompakt oturuşu isteyenler"
+    ],
+    "notFor": [
+      "Günlük şehir ve tur kullanıcıları: iç güneş vizörü yok/belirtilmemiş",
+      "Kurye kullanımı: yarış kaskı kurye temposuna göre tasarlanmamış"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı, M bedende 1.450 g",
+      "Dört kabuk boyutu",
+      "Metal mandal ve Racing Lock vizör kilidi",
+      "Tear-off hazır vizör, Pinlock MaxVision kutuda",
+      "Hidrasyon sistemine hazır",
+      "Çift D-halka ve acil durum yanak pedi sistemi"
+    ],
+    "cons": [
+      "İç güneş vizörü belirtilmemiş",
+      "Nefes deflektörü opsiyonel (kutuda değil)",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık",
+      "Pist odaklı oturuş yolda yorucu olabilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama güneş vizörü olmaması ve yarış formu şehirde avantaj sağlamaz.",
+      "uzunYol": "Mümkün; sportif oturuş ve güneş vizörü eksikliği uzun yolda dezavantaj.",
+      "otoban": "Rüzgâr tüneli çalışmaları ve spoyler yüksek hızda stabilite için.",
+      "sport": "Ana kullanım alanı: pist ve sportif yol.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; yarış kaskında denemek şart.",
+      "interkom": "Üretici sayfasında interkom hazırlığı belirtilmemiş.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "SR-GP Evo, Tricarboco kabuğu, dört kabuk boyutu ve yarış detaylarıyla pist sürücüsüne ciddi bir alternatif. M bedende 1.450 g ve hidrasyon hazırlığı öne çıkıyor. Güneş vizörü ve interkom hazırlığı olmadığı için yol ve tur kullanımında başka modeller daha uygun.",
+    "rivals": [
+      "airoh/gp-800",
+      "nexx/x-r3r",
+      "scorpion/exo-r1-evo-ii-air"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "SR-GP Evo'nun ağırlığı ne kadar?",
+        "a": "Suomy'nin beden tablosuna göre M bedende 1.450 g ±50 g."
+      },
+      {
+        "q": "Kaç kabuk boyutu var?",
+        "a": "Dört: S, M, L ve XL kabuk; beden aralığı XS–XXL."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Suomy tablosu: XS 53–54, S 55–56, M 57–58, L 59–60, XL 61–62, XXL 63 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.suomy.com/en/sr-gp-evo/",
+    "sources": [
+      {
+        "url": "https://www.suomy.com/en/sr-gp-evo/",
+        "type": "manufacturer",
+        "label": "Suomy SR-GP Evo ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.suomy.com/wp-content/uploads/2023/11/SRGP-evo-taglie.png",
+        "type": "manufacturer",
+        "label": "Suomy SR-GP Evo beden ve ağırlık tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.breathGuard",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Tricarboco (Kevlar + karbon + cam elyafı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1450,
+      "weightSize": "M",
+      "headShape": null,
+      "visor": "92° dikey / 210° çevresel görüş, tear-off hazır, metal alaşımlı mandal, Racing Lock System",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "5 giriş / 3 çıkış, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "track-1",
+    "brand": "suomy",
+    "name": "Track-1",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask"
+    ],
+    "summary": "Suomy'nin yol ve pist arasında dengelenmiş, Tricarboco kabuklu hafif kapalı kaskı. M bedende 1.350 g, iki kabuk boyutu ve Pinlock MaxVision ile sportif yol sürücüsüne yönelik.",
+    "description": [
+      "Track-1, Suomy'nin yeni nesil kapalı kaskı. Kabuk Tricarboco (karbon/aramid/cam elyafı) kompozitten iki boyutta (M ve L) üretiliyor; EPS de iki boyutta ve dört farklı yoğunlukta. Rüzgâr tünelinde geliştirilen form için Suomy düzlükte 0,40, virajda 0,42 Cx veriyor; stabilize spoyler yüksek hızda dengeye katkı sağlıyor.",
+      "Dört giriş ve iki çıkış kanallı EPS ile çalışıyor. Optik Sınıf 1 vizör 90° dikey ve 210° çevresel görüş sunuyor; Pinlock MaxVision lens ile buğu önleniyor ve satılan vizörler tear-off'a hazır. Hydrocool kumaşlı iç pedler tamamen çıkarılabiliyor; çene perdesi var, nefes deflektörü opsiyonel.",
+      "Suomy ağırlığı M bedende 1.350 g (±50 g) olarak veriyor. Homologasyon tablosunda ECE 22.05 ve ECE 22.06 sürümleri listeleniyor; satın alırken etikette 22.06 olduğundan emin olun. Hafif alaşım çift D-halka ve acil durum yanak pedi çıkarma sistemi standart."
+    ],
+    "forWho": [
+      "Hafif kapalı kask isteyen sportif yol sürücüleri",
+      "Ara sıra pist günlerine katılan ama yarış kaskı fiyatı ödemek istemeyenler",
+      "Kompakt kabuk ve geniş görüş açısını önemseyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyen günlük ve turing kullanıcıları",
+      "Kurye kullanımı: sportif kapalı kask kurye temposuna göre tasarlanmamış"
+    ],
+    "pros": [
+      "M bedende 1.350 g",
+      "Tricarboco kompozit kabuk",
+      "Optik Sınıf 1 vizör, 210° çevresel görüş",
+      "Pinlock MaxVision",
+      "Çift D-halka ve acil durum yanak pedi sistemi"
+    ],
+    "cons": [
+      "Yalnızca iki kabuk boyutu",
+      "İç güneş vizörü belirtilmemiş",
+      "Piyasada hem ECE 22.05 hem 22.06 etiketli ürün bulunabilir",
+      "Kontrol ettiğimiz satıcıda stokta görünmüyordu"
+    ],
+    "usage": {
+      "sehir": "Hafifliği şehirde avantaj; güneş vizörü olmaması dezavantaj.",
+      "uzunYol": "Hafiflik uzun yolda boyunu rahatlatır; ancak güneş vizörü yok ve sportif oturuşlu.",
+      "otoban": "Rüzgâr tüneli formu ve spoyler yüksek hızda stabilite için.",
+      "sport": "Ana kullanım alanı: sportif yol ve pist arası.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Üretici sayfasında interkom hazırlığı belirtilmemiş.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "Track-1, M bedende 1.350 g ile hafif ve kompakt bir sportif kapalı kask. Yol ve pist arasında dengeli; Tricarboco kabuk fiyatına göre iyi. Güneş vizörü olmaması ve iki kabuk boyutu sınırlılık. Satın alırken ECE 22.06 etiketini kontrol edin.",
+    "rivals": [
+      "scorpion/exo-r1-evo-ii-air",
+      "airoh/gp-800",
+      "suomy/sr-gp-evo"
+    ],
+    "priceRange": {
+      "min": 21433,
+      "max": 21433,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/suomy-track-1-reaction-kapali-kask",
+        "price": 21433,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Antrasit/Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/suomy-track-1-ninety-seven-kapali-kask",
+        "price": 21433,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Gri/Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Track-1 ECE 22.06 onaylı mı?",
+        "a": "Suomy'nin homologasyon tablosunda hem ECE 22.05 hem ECE 22.06 listeleniyor. Yeni alınan kaskın etiketinde 22.06 yazdığını kontrol edin."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Suomy, M beden için 1.350 g ±50 g veriyor."
+      },
+      {
+        "q": "Türkiye'de fiyatı ne kadar?",
+        "a": "Kontrol ettiğimiz tarihte Vipmoto'da grafikli Track-1 versiyonları 21.433 TL olarak listeleniyordu ama stokta görünmüyordu."
+      }
+    ],
+    "manufacturerUrl": "https://www.suomy.com/en/track-1-2/",
+    "sources": [
+      {
+        "url": "https://www.suomy.com/en/track-1-2/",
+        "type": "manufacturer",
+        "label": "Suomy Track-1 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.suomy.com/wp-content/uploads/2021/09/tabella-taglie-TRACK-1.png",
+        "type": "manufacturer",
+        "label": "Suomy Track-1 beden ve ağırlık tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.suomy.com/wp-content/uploads/2021/11/tabella-omol-TRACK-1.png",
+        "type": "manufacturer",
+        "label": "Suomy Track-1 homologasyon tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/suomy-track-1-reaction-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – Suomy Track-1 Reaction",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/suomy-track-1-ninety-seven-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – Suomy Track-1 Ninety Seven",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Tricarboco (karbon + aramid + cam elyafı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1350,
+      "weightSize": "M",
+      "headShape": null,
+      "visor": "Optik Sınıf 1, 90° dikey / 210° çevresel görüş, tear-off hazır (racing vizörler)",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "4 giriş / 2 çıkış, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "stellar-2",
+    "brand": "suomy",
+    "name": "Stellar 2",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Suomy'nin termoplastik kabuklu sport-touring kapalı kaskı. Geniş iç güneş vizörü, Optik Sınıf 1 vizör, kulaklık hazırlığı ve M bedende 1.520 g ile günlük ve tur kullanımına yönelik.",
+    "description": [
+      "Stellar 2, Suomy'nin sport-touring kapalı kaskı. Kabuk ECE 22.06 için geliştirilmiş ADT (Advanced Thermoplastic) enjeksiyon reçineden iki boyutta üretiliyor. Suomy üç yılı aşan rüzgâr tüneli ve pist testleriyle düz, viraj ve yol pozisyonlarında aerodinamiğin iyileştirildiğini belirtiyor; stabilize spoyler var.",
+      "Geniş iç güneş vizörü çift kablolu mekanizmayla daha yumuşak çalışıyor. Optik Sınıf 1 vizör 92° dikey ve 210° çevresel görüş sunuyor; Max Vision lens buğuyu önlüyor. Dört giriş ve iki çıkış kanallı EPS ile birlikte çalışıyor; Hydrocool kumaşlı iç pedler çıkarılıp yıkanabiliyor. Yanak pedleri kulaklık/hoparlöre hazır, çene perdesi var, nefes deflektörü opsiyonel.",
+      "Suomy'nin beden tablosuna göre ağırlık M bedende 1.520 g (±50 g); kilit mikrometrik ve acil durum yanak pedi çıkarma sistemi standart."
+    ],
+    "forWho": [
+      "Günlük kullanım ve tur için iç güneş vizörlü kapalı kask arayanlar",
+      "Termoplastik kabukla bütçeyi koruyarak İtalyan tasarımı isteyenler",
+      "Kaskına interkom hoparlörü yerleştirmek isteyenler"
+    ],
+    "notFor": [
+      "Pist kullanımı için hafif kompozit kask arayanlar",
+      "Çene açılır pratiklik isteyenler"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Geniş iç güneş vizörü",
+      "Optik Sınıf 1 vizör, 210° çevresel görüş",
+      "Kulaklık hazır yanak pedleri",
+      "Mikrometrik kilit ve acil durum yanak pedi sistemi"
+    ],
+    "cons": [
+      "Termoplastik kabuk, kompozit kasklara göre daha ağır (M 1.520 g)",
+      "Yalnızca iki kabuk boyutu",
+      "Nefes deflektörü opsiyonel",
+      "Türkiye'de yetkili satıcı fiyatını bulamadık"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü ve kapalı yapıyla şehirde rahat kullanılır.",
+      "uzunYol": "Güneş vizörü ve kulaklık hazırlığı tura uygun; ağırlık uzun sürede hissedilebilir.",
+      "otoban": "Rüzgâr tüneli çalışmaları ve spoyler yüksek hızda stabilite için.",
+      "sport": "Sportif yol sürüşüne uyar; pist için Suomy'nin kompozit modelleri daha uygun.",
+      "adventure": "Siperliği yok; asfalt turlarında iş görür.",
+      "gozluk": "Üretici gözlük uyumundan söz etmiyor; denemek gerekir.",
+      "interkom": "Yanak pedleri kulaklık/hoparlöre hazır; genel amaçlı interkomlar takılabilir.",
+      "kurye": "Kapalı yapı ve güneş vizörü günlük kullanıma uygun; sık durup kalkan kurye için çene açılır kask daha pratik olabilir."
+    },
+    "verdict": "Stellar 2, iç güneş vizörü ve Optik Sınıf 1 vizörüyle günlük kullanıma ve tura uygun, termoplastik kabuklu bir sport-touring kask. Ağırlık termoplastik kask için makul. Pist hedefleyenler Suomy'nin kompozit kabuklu modellerine bakmalı.",
+    "rivals": [
+      "caberg/drift-evo-ii",
+      "ls2/ff800-storm-ii",
+      "hjc/i71"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Stellar 2'nin güneş vizörü var mı?",
+        "a": "Evet. Suomy geniş bir iç güneş vizörü ve daha yumuşak çalışan çift kablolu mekanizma belirtiyor."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar?",
+        "a": "Suomy'nin beden tablosuna göre M bedende 1.520 g ±50 g."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Suomy tablosu: XS 53–54, S 55–56, M 57–58, L 59–60, XL 61–62, XXL 63 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.suomy.com/en/stellar2/",
+    "sources": [
+      {
+        "url": "https://www.suomy.com/en/stellar2/",
+        "type": "manufacturer",
+        "label": "Suomy Stellar 2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.suomy.com/wp-content/uploads/2024/11/taglie-stellar2.webp",
+        "type": "manufacturer",
+        "label": "Suomy Stellar 2 beden ve ağırlık tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.breathGuard",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "ADT (Advanced Thermoplastic) enjeksiyon reçine",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1520,
+      "weightSize": "M",
+      "headShape": null,
+      "visor": "Optik Sınıf 1, 92° dikey / 210° çevresel görüş, Max Vision lens",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "4 giriş / 2 çıkış, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Yanak pedleri kulaklık/hoparlöre hazır.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  }
+]
