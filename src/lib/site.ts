@@ -1,5 +1,5 @@
 export const SITE = {
-  name: "MotorcuKiyafeti",
+  name: "Motorcu Kıyafeti",
   domain: "motorcukiyafeti.com",
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://motorcukiyafeti.com").replace(/\/$/, ""),
   tagline: "Doğru ekipman, daha güvenli sürüş",

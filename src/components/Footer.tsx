@@ -81,7 +81,7 @@ export function Footer() {
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 py-5 text-xs text-white/50">
-          <p>© {new Date().getFullYear()} MotorcuKiyafeti.com · Marka adları ve ürün isimleri sahiplerine aittir.</p>
+          <p>© {new Date().getFullYear()} motorcukiyafeti.com · Marka adları ve ürün isimleri sahiplerine aittir.</p>
           <p className="flex gap-4">
             <Link href="/hakkimizda" className="hover:text-white">Hakkımızda</Link>
             <Link href="/veri-politikasi" className="hover:text-white">Veri ve Kaynak Politikası</Link>

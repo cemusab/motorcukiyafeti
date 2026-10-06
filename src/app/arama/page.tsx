@@ -4,7 +4,7 @@ import { SearchResults } from "@/components/SearchResults";
 import { Container, PageHead } from "@/components/ui";
 import { meta } from "@/lib/seo";
 
-export const metadata = meta({ title: "Arama", description: "MotorcuKiyafeti içinde ürün, marka, kategori ve rehber ara.", path: "/arama", noindex: true });
+export const metadata = meta({ title: "Arama", description: "Motorcu Kıyafeti içinde ürün, marka, kategori ve rehber ara.", path: "/arama", noindex: true });
 
 export default function SearchPage() {
   return (

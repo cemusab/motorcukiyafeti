@@ -4,7 +4,7 @@ import { meta } from "@/lib/seo";
 
 export const metadata = meta({
   title: "Veri ve Kaynak Politikası: Bilgileri Nasıl Doğruluyoruz?",
-  description: "MotorcuKiyafeti'nde teknik bilgiler, fiyatlar ve interkom uyumlulukları hangi kaynaklardan, nasıl doğrulanıyor; doğrulanamayan bilgi nasıl gösteriliyor.",
+  description: "Motorcu Kıyafeti'nde teknik bilgiler, fiyatlar ve interkom uyumlulukları hangi kaynaklardan, nasıl doğrulanıyor; doğrulanamayan bilgi nasıl gösteriliyor.",
   path: "/veri-politikasi",
 });
 
@@ -18,7 +18,7 @@ const SECTIONS = [
     h: "Doğrulanamayan bilgi",
     p: [
       "Güvenilir bir kaynakta bulamadığımız değeri tahminle doldurmayız. Bu alanlar ürün sayfasında “Doğrulanıyor” olarak işaretlenir ve kaynak bulunduğunda güncellenir.",
-      "Puan, yıldız veya kullanıcı yorumu uydurmayız. Ürün sayfalarındaki “MotorcuKiyafeti yorumu” editoryal bir değerlendirmedir ve sayısal puan içermez.",
+      "Puan, yıldız veya kullanıcı yorumu uydurmayız. Ürün sayfalarındaki “Motorcu Kıyafeti yorumu” editoryal bir değerlendirmedir ve sayısal puan içermez.",
     ],
   },
   {

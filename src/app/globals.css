@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* MotorcuKiyafeti tasarım sistemi: koyu başlık, beyaz yüzeyler, kırmızı vurgu. */
+/* Motorcu Kıyafeti tasarım sistemi: koyu başlık, beyaz yüzeyler, kırmızı vurgu. */
 @theme {
   --color-ink: #15171b;
   --color-ink-2: #2a2e35;

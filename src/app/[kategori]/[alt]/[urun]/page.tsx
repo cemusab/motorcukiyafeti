@@ -228,7 +228,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
               ))}
             </div>
             <div className="mt-6 rounded-lg border-l-4 border-red bg-white p-5">
-              <p className="font-display text-2xl font-bold">MotorcuKiyafeti yorumu</p>
+              <p className="font-display text-2xl font-bold">Motorcu Kıyafeti yorumu</p>
               <p className="mt-2 leading-relaxed">{p.verdict}</p>
             </div>
             {p.buyerInsights && (

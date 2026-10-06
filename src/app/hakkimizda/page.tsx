@@ -5,7 +5,7 @@ import { meta } from "@/lib/seo";
 
 export const metadata = meta({
   title: "Hakkımızda",
-  description: "MotorcuKiyafeti, motosiklet ekipmanı seçimini kaynaklı teknik bilgi, şeffaf karşılaştırma ve sade rehberlerle kolaylaştırmak için kuruldu.",
+  description: "Motorcu Kıyafeti, motosiklet ekipmanı seçimini kaynaklı teknik bilgi, şeffaf karşılaştırma ve sade rehberlerle kolaylaştırmak için kuruldu.",
   path: "/hakkimizda",
 });
 
@@ -18,7 +18,7 @@ export default function AboutPage() {
       <Container className="mt-8 max-w-3xl">
         <div className="prose-mk">
           <p>
-            MotorcuKiyafeti bir mağaza değil; kask, mont, eldiven, bot, koruma ve interkom seçimi için bir bilgi ve karşılaştırma platformudur. Ürün satmıyoruz, bu yüzden bir ürünü öne çıkarmak için abartılı ifade kullanmamız gerekmiyor. Her ürünün artıları kadar eksilerini de yazıyoruz.
+            Motorcu Kıyafeti bir mağaza değil; kask, mont, eldiven, bot, koruma ve interkom seçimi için bir bilgi ve karşılaştırma platformudur. Ürün satmıyoruz, bu yüzden bir ürünü öne çıkarmak için abartılı ifade kullanmamız gerekmiyor. Her ürünün artıları kadar eksilerini de yazıyoruz.
           </p>
           <h2>Nasıl çalışıyoruz?</h2>
           <ul>

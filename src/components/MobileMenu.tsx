@@ -41,7 +41,7 @@ export function MobileMenu({ nav }: { nav: MobileNav }) {
           <div className="absolute inset-y-0 left-0 flex w-[min(380px,90vw)] flex-col bg-white text-ink shadow-2xl">
             <div className="flex h-16 items-center justify-between bg-night px-4 text-white">
               <span className="font-display text-2xl font-bold">
-                Motorcu<span className="text-red">Kiyafeti</span>
+                Motorcu <span className="text-red">Kıyafeti</span>
               </span>
               <button type="button" className="grid size-10 place-items-center rounded hover:bg-white/10" aria-label="Menüyü kapat" onClick={() => setOpen(false)}>
                 <Icon name="close" className="size-6" />

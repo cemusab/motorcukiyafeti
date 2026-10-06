@@ -9,13 +9,13 @@ import { HeaderCounters } from "./HeaderCounters";
 
 export function Logo({ light = true }: { light?: boolean }) {
   return (
-    <Link href="/" className="flex shrink-0 items-center gap-2" aria-label="MotorcuKiyafeti ana sayfa">
+    <Link href="/" className="flex shrink-0 items-center gap-2" aria-label="Motorcu Kıyafeti ana sayfa">
       <svg viewBox="0 0 32 32" className="size-8" aria-hidden>
         <path d="M4 26 14 6h5L9 26z" fill="#d4202a" />
         <path d="M13 26 23 6h5L18 26z" fill={light ? "#fff" : "#15171b"} />
       </svg>
       <span className={`font-display text-[26px] leading-none font-bold ${light ? "text-white" : "text-ink"}`}>
-        Motorcu<span className="text-red">Kiyafeti</span>
+        Motorcu <span className="text-red">Kıyafeti</span>
       </span>
     </Link>
   );
