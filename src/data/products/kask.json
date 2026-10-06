@@ -2181,6 +2181,36 @@
       "spoiler": null,
       "warrantyYears": null,
       "madeIn": null
+    },
+    "buyerInsights": {
+      "fit": "dar",
+      "fitNote": "Trendyol alıcılarının belirgin bir kısmı kalıbın küçük olduğunu, özellikle interkom takılınca baskı yaptığını belirtiyor; kafa ölçünüz iki beden arasındaysa bir üst bedeni seçmek daha güvenli görünüyor.",
+      "positives": [
+        "Fiyatına göre işçilik ve sağlamlık hissi yüksek bulunuyor.",
+        "Görünüşü ve boya/grafik kalitesi çok beğeniliyor.",
+        "Dahili güneş vizörü ve genel sürüş konforu olumlu karşılanıyor.",
+        "Fiyat-performans açısından sınıfının güçlü seçeneklerinden biri olarak görülüyor."
+      ],
+      "negatives": [
+        "Beden küçük geldiği için değişim/iade yapan alıcı sayısı az değil.",
+        "Birkaç kullanıcı vizörün tam oturmadığını veya kapanırken zorlandığını belirtiyor.",
+        "Az sayıda yorumda havalandırmanın sınırlı kaldığı ifade ediliyor."
+      ],
+      "reviewCount": 63,
+      "sources": [
+        {
+          "url": "https://www.trendyol.com/ls2/storm-2-mat-siyah-kask-p-444088684/yorumlar",
+          "type": "review",
+          "label": "Trendyol alıcı yorumları",
+          "checkedAt": "2026-10-06"
+        },
+        {
+          "url": "https://www.trendyol.com/ls2/storm-2-racer-mat-mavi-kask-gokkusagi-vizor-p-665684939/yorumlar",
+          "type": "review",
+          "label": "Trendyol alıcı yorumları",
+          "checkedAt": "2026-10-06"
+        }
+      ]
     }
   }
 ]

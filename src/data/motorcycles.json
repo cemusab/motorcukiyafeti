@@ -1,0 +1,795 @@
+{
+  "updatedAt": "2026-10-06",
+  "salesSources": [
+    {
+      "url": "https://www.motosikletdefteri.com/blog/detay/turkiyede-en-cok-satilan-motosiklet-markalari-ve-modelleri-hangileri",
+      "label": "2024 en çok satan 10 motosiklet modeli (ikincil kaynak, MOTED/TÜİK tescil verisine dayandığı belirtilen blog derlemesi; sayfa artık yayında değil, aynı liste birçok sitede tekrarlanıyor)",
+      "period": "2024"
+    },
+    {
+      "url": "https://www.arabam.com/blog/genel/2024-yilinin-en-cok-satan-motor-markalari/",
+      "label": "arabam.com – 2024 yılının en çok satan motosiklet markaları (marka bazında, model sıralaması yok)",
+      "period": "2024"
+    },
+    {
+      "url": "https://sbkmotor.com.tr/detay-2025-yili-motosiklet-satis-adetleri-aciklandi-gecen-yila-gore-dev-kayiplar-ortaya-cikti-330",
+      "label": "SBK Motor – 2025 marka bazında satış adetleri (Kuba, Honda, Mondial lider; model sıralaması yok)",
+      "period": "2025"
+    },
+    {
+      "url": "https://www.turkiyegazetesi.com.tr/t-otomobil/motosiklet-satislari-sezon-yaklasmasina-ragmen-dusmeye-devam-ediyor-1116673",
+      "label": "Türkiye Gazetesi – TÜİK/MOTED Ocak–Nisan 2025 tescil verileri (toplam pazar)",
+      "period": "2025-01..2025-04"
+    },
+    {
+      "url": "https://www.araclo.com/blog/moto-kurye-icin-en-dayanikli-ve-ekonomik-motosikletler-2026",
+      "label": "Araclo – Moto kurye için yaygın modeller (courierCommon dayanağı)",
+      "period": "2026"
+    }
+  ],
+  "models": [
+    {
+      "slug": "honda-pcx-125",
+      "brand": "Honda",
+      "model": "PCX 125",
+      "type": "scooter",
+      "cc": 125,
+      "generationFrom": 2021,
+      "licence": "A1",
+      "popularity": "cok-satan",
+      "salesRank": 1,
+      "courierCommon": true,
+      "notes": [
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik",
+        "Kurye ve şehir içi kullanımda çok yaygın"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125"
+    },
+    {
+      "slug": "honda-activa-125",
+      "brand": "Honda",
+      "model": "Activa 125",
+      "type": "scooter",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "cok-satan",
+      "salesRank": 2,
+      "courierCommon": true,
+      "notes": [
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik",
+        "Honda Türkiye 2026 fiyat listesinde yer almıyor; ikinci elde yaygın"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "tvs-jupiter-125",
+      "brand": "TVS",
+      "model": "Jupiter 125",
+      "type": "scooter",
+      "cc": 124,
+      "generationFrom": 2021,
+      "licence": "A1",
+      "popularity": "cok-satan",
+      "salesRank": 3,
+      "courierCommon": true,
+      "notes": [
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
+      ],
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr"
+    },
+    {
+      "slug": "kuba-cg50-pro",
+      "brand": "Kuba",
+      "model": "CG50 Pro",
+      "type": "naked",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 4,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
+      ],
+      "officialUrl": "https://www.kubamotor.com.tr/model/cg50-rx-pro"
+    },
+    {
+      "slug": "mondial-wing-50",
+      "brand": "Mondial",
+      "model": "Wing 50",
+      "type": "scooter",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 5,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "mondial-uag-50",
+      "brand": "Mondial",
+      "model": "UAG 50",
+      "type": "naked",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 6,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Debriyajsız vitesli cub; şehir içi ve kırsal kısa mesafe kullanımı yaygın"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "rks-new-light-pro",
+      "brand": "RKS",
+      "model": "New Light Pro",
+      "type": "scooter",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 7,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "honda-dio-110",
+      "brand": "Honda",
+      "model": "Dio 110",
+      "type": "scooter",
+      "cc": 110,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "cok-satan",
+      "salesRank": 8,
+      "courierCommon": true,
+      "notes": [
+        "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
+        "Honda Türkiye 2026 fiyat listesinde yer almıyor; ikinci elde yaygın"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "mondial-50-sfc",
+      "brand": "Mondial",
+      "model": "50 SFC",
+      "type": "naked",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 9,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "kuba-blueberry-50",
+      "brand": "Kuba",
+      "model": "Blueberry 50",
+      "type": "scooter",
+      "cc": 50,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "cok-satan",
+      "salesRank": 10,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "bmw-r-1300-gs",
+      "brand": "BMW",
+      "model": "R 1300 GS",
+      "type": "adventure",
+      "cc": 1300,
+      "generationFrom": 2023,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "cfmoto-250nk",
+      "brand": "CFMOTO",
+      "model": "250NK",
+      "type": "naked",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-nk"
+    },
+    {
+      "slug": "cfmoto-250sr",
+      "brand": "CFMOTO",
+      "model": "250SR",
+      "type": "sport",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-sr"
+    },
+    {
+      "slug": "cfmoto-450mt",
+      "brand": "CFMOTO",
+      "model": "450MT",
+      "type": "adventure",
+      "cc": 449,
+      "generationFrom": 2024,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-mt"
+    },
+    {
+      "slug": "cfmoto-450nk",
+      "brand": "CFMOTO",
+      "model": "450NK",
+      "type": "naked",
+      "cc": 449,
+      "generationFrom": 2023,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-nk"
+    },
+    {
+      "slug": "cfmoto-450sr",
+      "brand": "CFMOTO",
+      "model": "450SR",
+      "type": "sport",
+      "cc": 450,
+      "generationFrom": 2022,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-sr"
+    },
+    {
+      "slug": "cfmoto-800mt-sport",
+      "brand": "CFMOTO",
+      "model": "800MT Sport",
+      "type": "adventure",
+      "cc": 799,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/800-mt-sport"
+    },
+    {
+      "slug": "honda-adv350",
+      "brand": "Honda",
+      "model": "ADV350",
+      "type": "scooter",
+      "cc": 330,
+      "generationFrom": 2022,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
+        "Hafif arazi yollarına da girebilen adventure scooter"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350"
+    },
+    {
+      "slug": "honda-africa-twin",
+      "brand": "Honda",
+      "model": "Africa Twin",
+      "type": "adventure",
+      "cc": 1084,
+      "generationFrom": 2020,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin"
+    },
+    {
+      "slug": "honda-cb125f",
+      "brand": "Honda",
+      "model": "CB125F",
+      "type": "naked",
+      "cc": 124,
+      "generationFrom": 2021,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": true,
+      "notes": [
+        "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır",
+        "Manuel vitesli kurye motosikleti olarak yaygın"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f"
+    },
+    {
+      "slug": "honda-cb650r",
+      "brand": "Honda",
+      "model": "CB650R",
+      "type": "naked",
+      "cc": 649,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r"
+    },
+    {
+      "slug": "honda-cbr650r",
+      "brand": "Honda",
+      "model": "CBR650R",
+      "type": "sport",
+      "cc": 649,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r"
+    },
+    {
+      "slug": "honda-cl250",
+      "brand": "Honda",
+      "model": "CL250",
+      "type": "naked",
+      "cc": 249,
+      "generationFrom": 2023,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Scrambler stili; retro/klasik görünümlü ekipmanla uyumlu",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250"
+    },
+    {
+      "slug": "honda-forza-250",
+      "brand": "Honda",
+      "model": "Forza 250",
+      "type": "scooter",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250"
+    },
+    {
+      "slug": "honda-monkey-125",
+      "brand": "Honda",
+      "model": "Monkey 125",
+      "type": "naked",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Küçük gövdeli, şehir içi keyif motosikleti",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey"
+    },
+    {
+      "slug": "honda-nc750x",
+      "brand": "Honda",
+      "model": "NC750X",
+      "type": "adventure",
+      "cc": 745,
+      "generationFrom": 2021,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Depo yerinde kask bölmesi var",
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x"
+    },
+    {
+      "slug": "honda-sh125i",
+      "brand": "Honda",
+      "model": "SH125i",
+      "type": "scooter",
+      "cc": 125,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i"
+    },
+    {
+      "slug": "honda-x-adv",
+      "brand": "Honda",
+      "model": "X-ADV",
+      "type": "adventure",
+      "cc": 745,
+      "generationFrom": 2021,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Scooter tarzı adventure; sele altında bagaj var",
+        "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv"
+    },
+    {
+      "slug": "ktm-390-duke",
+      "brand": "KTM",
+      "model": "390 Duke",
+      "type": "naked",
+      "cc": 399,
+      "generationFrom": 2024,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "kawasaki-ninja-500",
+      "brand": "Kawasaki",
+      "model": "Ninja 500",
+      "type": "sport",
+      "cc": 451,
+      "generationFrom": 2024,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja500"
+    },
+    {
+      "slug": "kawasaki-ninja-650",
+      "brand": "Kawasaki",
+      "model": "Ninja 650",
+      "type": "sport",
+      "cc": 649,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yarı dik sürüş pozisyonu; günlük kullanıma da uygun spor model"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja650"
+    },
+    {
+      "slug": "kawasaki-z500",
+      "brand": "Kawasaki",
+      "model": "Z500",
+      "type": "naked",
+      "cc": 451,
+      "generationFrom": 2024,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z500"
+    },
+    {
+      "slug": "kawasaki-z650",
+      "brand": "Kawasaki",
+      "model": "Z650",
+      "type": "naked",
+      "cc": 649,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z650"
+    },
+    {
+      "slug": "kawasaki-z900",
+      "brand": "Kawasaki",
+      "model": "Z900",
+      "type": "naked",
+      "cc": 948,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z900"
+    },
+    {
+      "slug": "kuba-ege-50",
+      "brand": "Kuba",
+      "model": "Ege 50",
+      "type": "naked",
+      "cc": 49,
+      "generationFrom": null,
+      "licence": null,
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
+        "Debriyajsız vitesli cub; şehir içi ve kırsal kısa mesafe kullanımı yaygın"
+      ],
+      "officialUrl": "https://www.kubamotor.com.tr/model/ege-50"
+    },
+    {
+      "slug": "mondial-100-uag",
+      "brand": "Mondial",
+      "model": "100 UAG",
+      "type": "naked",
+      "cc": 100,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Debriyajsız vitesli cub; şehir içi ve kırsal kısa mesafe kullanımı yaygın"
+      ],
+      "officialUrl": null
+    },
+    {
+      "slug": "rks-spontini-110",
+      "brand": "RKS",
+      "model": "Spontini 110",
+      "type": "scooter",
+      "cc": 109,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": true,
+      "notes": [
+        "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
+      ],
+      "officialUrl": "https://www.rksmotor.com.tr/model/spontini-110.html"
+    },
+    {
+      "slug": "tvs-apache-rtr-200-4v",
+      "brand": "TVS",
+      "model": "Apache RTR 200 4V",
+      "type": "naked",
+      "cc": 198,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr"
+    },
+    {
+      "slug": "tvs-raider-125",
+      "brand": "TVS",
+      "model": "Raider 125",
+      "type": "naked",
+      "cc": 124,
+      "generationFrom": 2021,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr"
+    },
+    {
+      "slug": "yamaha-mt-07",
+      "brand": "Yamaha",
+      "model": "MT-07",
+      "type": "naked",
+      "cc": 689,
+      "generationFrom": 2025,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır",
+        "A2 için kısıtlı versiyonu bulunabilir"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/"
+    },
+    {
+      "slug": "yamaha-mt-125",
+      "brand": "Yamaha",
+      "model": "MT-125",
+      "type": "naked",
+      "cc": 125,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/"
+    },
+    {
+      "slug": "yamaha-mt-25",
+      "brand": "Yamaha",
+      "model": "MT-25",
+      "type": "naked",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/"
+    },
+    {
+      "slug": "yamaha-nmax-125",
+      "brand": "Yamaha",
+      "model": "NMAX 125",
+      "type": "scooter",
+      "cc": 125,
+      "generationFrom": 2021,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": true,
+      "notes": [
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
+        "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/"
+    },
+    {
+      "slug": "yamaha-r25",
+      "brand": "Yamaha",
+      "model": "R25",
+      "type": "sport",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/"
+    },
+    {
+      "slug": "yamaha-tracer-7",
+      "brand": "Yamaha",
+      "model": "Tracer 7",
+      "type": "touring",
+      "cc": 689,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Ön cam ve dik sürüş pozisyonu; uzun yola uygun",
+        "Yan çanta montajına uygun"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/"
+    },
+    {
+      "slug": "yamaha-xmax-250",
+      "brand": "Yamaha",
+      "model": "XMAX 250",
+      "type": "scooter",
+      "cc": 249,
+      "generationFrom": 2023,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
+        "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/"
+    }
+  ]
+}

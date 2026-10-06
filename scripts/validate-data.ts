@@ -30,9 +30,10 @@ function load<T>(file: string, schema: z.ZodType<T>): T[] {
   return out;
 }
 
-const helmets = load("products/kask.json", HelmetSchema);
-const intercoms = load("products/interkom.json", IntercomSchema);
-const apparel = ["mont", "eldiven", "bot"].flatMap((c) => load(`products/${c}.json`, ApparelSchema));
+const pfiles = (cat: string) => fs.readdirSync(path.join(root, "products")).filter((f) => f === `${cat}.json` || f.startsWith(`${cat}-`));
+const helmets = pfiles("kask").flatMap((f) => load(`products/${f}`, HelmetSchema));
+const intercoms = pfiles("interkom").flatMap((f) => load(`products/${f}`, IntercomSchema));
+const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma"].flatMap((c) => pfiles(c).flatMap((f) => load(`products/${f}`, ApparelSchema)));
 const brands = fs.readdirSync(root).filter((f) => /^brands.*\.json$/.test(f)).flatMap((f) => load(f, BrandSchema));
 for (const b of brands) if (brands.filter((x) => x.slug === b.slug).length > 1) errors.push(`Yinelenen marka: ${b.slug}`);
 const compat = load("compat.json", CompatSchema);
@@ -63,7 +64,7 @@ for (const c of compat) {
   if (!ids.has(c.intercom)) errors.push(`compat: interkom yok ${c.intercom}`);
   if (c.verified && !c.source) errors.push(`compat ${c.helmet}+${c.intercom}: doğrulanmış ama kaynak yok`);
 }
-const media = load("media.json", MediaSchema);
+const media = fs.readdirSync(root).filter((f) => /^media.*\.json$/.test(f)).flatMap((f) => load(f, MediaSchema));
 for (const m of media) if (!ids.has(m.product)) errors.push(`media: ürün yok ${m.product}`);
 const guideSlugs = new Set(guides.map((g) => g.slug));
 for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r)) warn.push(`rehber ${g.slug}: ilgili rehber ${r} yok (gösterilmeyecek)`);

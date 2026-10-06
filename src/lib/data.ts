@@ -23,6 +23,7 @@ import {
   type Media,
   type Product,
   MediaSchema,
+  MotorcycleSchema,
 } from "@/data/schema";
 
 const DATA = path.join(process.cwd(), "src", "data");
@@ -39,9 +40,11 @@ function readArray<T>(rel: string, schema: z.ZodType<T>): T[] {
 }
 
 export const getProducts = cache((): Product[] => {
-  const helmets = readArray("products/kask.json", HelmetSchema);
-  const intercoms = readArray("products/interkom.json", IntercomSchema);
-  const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma"].flatMap((c) => readArray(`products/${c}.json`, ApparelSchema));
+  // Her kategori birden fazla dosyaya bölünebilir: products/mont.json, products/mont-kadin.json …
+  const files = (cat: string) => fs.readdirSync(path.join(DATA, "products")).filter((f) => f === `${cat}.json` || f.startsWith(`${cat}-`));
+  const helmets = files("kask").flatMap((f) => readArray(`products/${f}`, HelmetSchema));
+  const intercoms = files("interkom").flatMap((f) => readArray(`products/${f}`, IntercomSchema));
+  const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma"].flatMap((c) => files(c).flatMap((f) => readArray(`products/${f}`, ApparelSchema)));
   // Kayıtlarda model adı marka ile başlıyorsa marka kısmı atılır; marka adı ayrıca gösterilir.
   const alnum = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
   return [...helmets, ...intercoms, ...apparel].map((p) => {
@@ -96,10 +99,30 @@ export const getCompat = cache((): Compat[] => {
   return readArray("compat.json", CompatSchema).filter((c) => ids.has(c.helmet) && ids.has(c.intercom));
 });
 
-const getMediaMap = cache(() => new Map(readArray("media.json", MediaSchema).map((m) => [m.product, m])));
+const getMediaMap = cache(
+  () =>
+    new Map(
+      fs
+        .readdirSync(DATA)
+        .filter((f) => /^media.*\.json$/.test(f))
+        .flatMap((f) => readArray(f, MediaSchema))
+        .map((m) => [m.product, m]),
+    ),
+);
 const EMPTY_MEDIA = (id: string): Media => ({ product: id, images: [], videos: [] });
 /** Üretici görselleri ve YouTube videoları; kayıt yoksa boş döner. */
 export const getMedia = (p: Pick<Product, "brand" | "slug">): Media => getMediaMap().get(productId(p)) ?? EMPTY_MEDIA(productId(p));
+
+/** Türkiye'de çok satan / ilgi gören motosiklet modelleri. */
+export const getMotorcycles = cache(() => {
+  const file = path.join(DATA, "motorcycles.json");
+  if (!fs.existsSync(file)) return [];
+  const raw = JSON.parse(fs.readFileSync(file, "utf8")) as { models?: unknown[] };
+  return (raw.models ?? []).flatMap((m) => {
+    const r = MotorcycleSchema.safeParse(m);
+    return r.success ? [r.data] : [];
+  });
+});
 
 export function displayName(p: Pick<Product, "brand" | "name">) {
   return `${brandName(p.brand)} ${p.name}`;

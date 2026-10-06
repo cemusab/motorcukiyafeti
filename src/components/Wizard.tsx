@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { GEAR, MOTO_TYPES, WIZARD_OPTIONS, budgetTip, wizardSet, type GearKey, type MotoSlug, type WizardInput } from "@/data/riding";
+import { GEAR, MOTO_TYPES, WIZARD_OPTIONS, WIZARD_TYPES, budgetTip, usageOptionsFor, wizardSet, type GearKey, type MotoSlug, type WizardInput } from "@/data/riding";
 import { useList } from "@/lib/store";
 import { Icon } from "./Icon";
 
@@ -34,7 +34,8 @@ function contextWords(i: WizardInput) {
 function pickFor(key: GearKey, input: WizardInput, gender: Gender, products: WizardProduct[]) {
   const cat = GEAR_CAT[key];
   if (!cat) return [];
-  const moto = MOTO_TYPES.find((m) => m.slug === input.tur)!;
+  // Kuryelik bir kullanım şeklidir; ekipman profili kurye profiline göre seçilir.
+  const moto = MOTO_TYPES.find((m) => m.slug === (input.kullanim === "kurye" ? "kurye" : input.tur))!;
   const subs: string[] = moto.subs.filter((s) => s.startsWith(cat + "/")).map((s) => s.split("/")[1]);
   const avoid = contextWords(input);
   let list = products.filter(
@@ -59,8 +60,26 @@ function pickFor(key: GearKey, input: WizardInput, gender: Gender, products: Wiz
   return list.slice(0, 2);
 }
 
-export function Wizard({ products, compact = false }: { products: WizardProduct[]; compact?: boolean }) {
+export type WizardBike = { slug: string; label: string; type: MotoSlug; cc: number | null; licence: string | null; notes: string[]; courierCommon: boolean };
+
+export function Wizard({ products, bikes = [], compact = false }: { products: WizardProduct[]; bikes?: WizardBike[]; compact?: boolean }) {
   const [input, setInput] = useState<WizardInput>({ tur: "naked", kullanim: "sehir", mevsim: "4-mevsim", butce: "orta" });
+  const [bikeText, setBikeText] = useState("");
+  const [bike, setBike] = useState<WizardBike | null>(null);
+  const [noBike, setNoBike] = useState(bikes.length === 0);
+  const chooseBike = (text: string) => {
+    setBikeText(text);
+    const b = bikes.find((x) => x.label.toLocaleLowerCase("tr") === text.trim().toLocaleLowerCase("tr"));
+    setBike(b ?? null);
+    if (b) {
+      const allowed = usageOptionsFor(b.type).map((o) => o.v);
+      setInput((i) => ({ ...i, tur: b.type, kullanim: allowed.includes(i.kullanim) ? i.kullanim : "sehir" }));
+    }
+  };
+  const setType = (t: MotoSlug) => {
+    const allowed = usageOptionsFor(t).map((o) => o.v);
+    setInput((i) => ({ ...i, tur: t, kullanim: allowed.includes(i.kullanim) ? i.kullanim : "sehir" }));
+  };
   const [shown, setShown] = useState(!compact);
   const [gender, setGender] = useState<Gender>("fark-etmez");
   const fav = useList("mk:fav");
@@ -68,7 +87,8 @@ export function Wizard({ products, compact = false }: { products: WizardProduct[
   const total = keys.reduce((s, k) => s + GEAR[k].share, 0);
   const picks = useMemo(() => Object.fromEntries(keys.map((k) => [k, pickFor(k, input, gender, products)])), [keys, input, gender, products]);
   const allPickIds = Object.values(picks).flat().map((p) => p.id);
-  const moto = MOTO_TYPES.find((m) => m.slug === input.tur)!;
+  const moto = MOTO_TYPES.find((m) => m.slug === (input.kullanim === "kurye" ? "kurye" : input.tur))!;
+  const typeName = MOTO_TYPES.find((m) => m.slug === input.tur)!.name;
 
   const sel = "h-12 w-full rounded-md border border-white/15 bg-white px-3 text-ink";
   const field = (id: string, label: string, value: string, opts: { v: string; l: string }[], set: (v: string) => void) => (
@@ -88,14 +108,58 @@ export function Wizard({ products, compact = false }: { products: WizardProduct[
 
   return (
     <div>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
-        {field("w-tur", "Motosiklet türü", input.tur, MOTO_TYPES.map((m) => ({ v: m.slug, l: m.name })), (v) => setInput({ ...input, tur: v as MotoSlug }))}
-        {field("w-kul", "Kullanım amacı", input.kullanim, WIZARD_OPTIONS.kullanim, (v) => setInput({ ...input, kullanim: v }))}
-        {field("w-mev", "Mevsim", input.mevsim, WIZARD_OPTIONS.mevsim, (v) => setInput({ ...input, mevsim: v as WizardInput["mevsim"] }))}
-        {field("w-but", "Bütçe", input.butce, WIZARD_OPTIONS.butce, (v) => setInput({ ...input, butce: v }))}
+      <div className="mb-3">
+        {!noBike ? (
+          <div>
+            <label htmlFor="w-motor" className="mb-1.5 block text-sm font-semibold text-white/80">
+              1. Motorun hangisi?
+            </label>
+            <div className="flex flex-wrap gap-2">
+              <input
+                id="w-motor"
+                list="w-motor-list"
+                value={bikeText}
+                onChange={(e) => chooseBike(e.target.value)}
+                placeholder="Marka veya model yaz: PCX, NMAX, 250NK, MT-07…"
+                autoComplete="off"
+                className={`${sel} min-w-0 flex-1`}
+              />
+              <datalist id="w-motor-list">
+                {bikes.map((b) => (
+                  <option key={b.slug} value={b.label} />
+                ))}
+              </datalist>
+              <button type="button" onClick={() => setNoBike(true)} className="h-12 rounded-md border border-white/25 px-4 text-sm font-semibold text-white hover:bg-white/10">
+                Listede yok / henüz almadım
+              </button>
+            </div>
+            {bike && (
+              <p className="mt-2 text-sm text-white/80">
+                <strong className="text-white">{bike.label}</strong> · {typeName}
+                {bike.cc ? ` · ${bike.cc} cc` : ""}
+                {bike.licence ? ` · ${bike.licence} ehliyet` : ""}
+                {bike.notes.length > 0 && <span className="block text-white/60">{bike.notes.join(" ")}</span>}
+              </p>
+            )}
+          </div>
+        ) : (
+          <div className="flex flex-wrap items-end gap-3">
+            <div className="min-w-56 flex-1">{field("w-tur", "1. Motosiklet türü", input.tur, WIZARD_TYPES().map((m) => ({ v: m.slug, l: m.name })), (v) => setType(v as MotoSlug))}</div>
+            {bikes.length > 0 && (
+              <button type="button" onClick={() => setNoBike(false)} className="h-12 rounded-md border border-white/25 px-4 text-sm font-semibold text-white hover:bg-white/10">
+                Modelimi listeden seçeyim
+              </button>
+            )}
+          </div>
+        )}
+      </div>
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        {field("w-kul", "2. Ne için kullanacaksın?", input.kullanim, usageOptionsFor(input.tur), (v) => setInput({ ...input, kullanim: v }))}
+        {field("w-mev", "3. Mevsim", input.mevsim, WIZARD_OPTIONS.mevsim, (v) => setInput({ ...input, mevsim: v as WizardInput["mevsim"] }))}
+        {field("w-but", "4. Bütçe", input.butce, WIZARD_OPTIONS.butce, (v) => setInput({ ...input, butce: v }))}
         {field(
           "w-cin",
-          "Giyim kalıbı",
+          "5. Giyim kalıbı",
           gender,
           [
             { v: "fark-etmez", l: "Fark etmez (unisex)" },
@@ -114,7 +178,8 @@ export function Wizard({ products, compact = false }: { products: WizardProduct[
         <div className="mt-6" aria-live="polite">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <p className="font-display text-2xl font-bold text-white">
-              {moto.name} için {keys.length} parçalık set
+              {bike && !noBike ? bike.label : typeName}
+              {input.kullanim === "kurye" ? " ile kuryelik" : ""} için {keys.length} parçalık set
             </p>
             {allPickIds.length > 0 && (
               <button

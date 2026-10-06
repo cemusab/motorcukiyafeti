@@ -63,6 +63,12 @@ export default async function BrandPage({ params }: PageProps<"/marka/[slug]">) 
                 <p key={i}>{x}</p>
               ))}
             </div>
+            {b.strongestLine && (
+              <p className="mt-4 rounded-lg border-l-4 border-red bg-white p-4">
+                <span className="block text-xs font-semibold tracking-wide text-mute uppercase">En güçlü kalemi</span>
+                <span className="font-display text-xl font-bold">{b.strongestLine}</span>
+              </p>
+            )}
             <h3 className="mt-4 mb-2 font-display text-xl font-bold">Güçlü olduğu alanlar</h3>
             <ul className="flex flex-wrap gap-2">
               {b.strengths.map((s) => (
@@ -72,6 +78,23 @@ export default async function BrandPage({ params }: PageProps<"/marka/[slug]">) 
               ))}
             </ul>
           </section>
+
+          {b.history.length > 0 && (
+            <section>
+              <h2 className="mb-4 font-display text-3xl font-bold">{b.name} tarihçesi</h2>
+              <ol className="relative space-y-4 border-l-2 border-line pl-6">
+                {[...b.history]
+                  .sort((x, y) => x.year - y.year)
+                  .map((h) => (
+                    <li key={h.year + h.event} className="relative">
+                      <span className="absolute top-1.5 -left-[31px] size-3 rounded-full bg-red ring-4 ring-paper" aria-hidden />
+                      <span className="font-display text-xl font-bold text-red">{h.year}</span>
+                      <p className="text-ink-2">{h.event}</p>
+                    </li>
+                  ))}
+              </ol>
+            </section>
+          )}
 
           {b.highlights.length > 0 && (
             <section>

@@ -191,6 +191,10 @@ export const BrandSchema = z.object({
   /** Markanın en güçlü olduğu ürün/kategori için doğrudan üretici sayfası bağlantısı. */
   highlights: z.array(z.object({ label: z.string(), url: z.string().url(), reason: z.string() })).default([]),
   alternatives: z.array(slug).default([]),
+  /** Doğrulanmış tarihçe: kuruluş, dönüm noktaları. */
+  history: z.array(z.object({ year: z.number().int(), event: z.string() })).default([]),
+  /** Markanın en güçlü olduğu ürün grubu, tek cümle (ör. "Çene açılır kask ve entegre interkom"). */
+  strongestLine: z.string().nullable().default(null),
   sources: z.array(SourceSchema).min(1),
 });
 export type Brand = z.infer<typeof BrandSchema>;
@@ -240,3 +244,20 @@ export const MediaSchema = z.object({
     .default([]),
 });
 export type Media = z.infer<typeof MediaSchema>;
+
+/** Türkiye'de satılan motosiklet modelleri (src/data/motorcycles.json) – sihirbazın ilk adımı. */
+export const MotorcycleSchema = z.object({
+  slug,
+  brand: z.string(),
+  model: z.string(),
+  type: z.enum(["scooter", "naked", "sport", "adventure", "touring", "cruiser", "enduro"]),
+  cc: z.number().int().nullable(),
+  generationFrom: z.number().int().nullable().default(null),
+  licence: z.string().nullable().default(null),
+  popularity: z.enum(["cok-satan", "ilgi"]),
+  salesRank: z.number().int().nullable().default(null),
+  courierCommon: z.boolean().default(false),
+  notes: z.array(z.string()).default([]),
+  officialUrl: z.string().url().nullable().default(null),
+});
+export type Motorcycle = z.infer<typeof MotorcycleSchema>;

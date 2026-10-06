@@ -4,7 +4,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Container } from "@/components/ui";
 import { Wizard } from "@/components/Wizard";
 import { GEAR } from "@/data/riding";
-import { wizardProducts } from "@/lib/catalog";
+import { wizardBikes, wizardProducts } from "@/lib/catalog";
 import { getGuide } from "@/lib/data";
 import { faqLd, meta } from "@/lib/seo";
 
@@ -36,7 +36,7 @@ export default function StarterPage() {
             Kısa cevap: kask, mont, pantolon, eldiven ve bot temel settir. Motor türüne, kullanımına ve mevsime göre sırt koruması, interkom, yağmurluk ve termal giyim eklenir.
           </p>
           <div className="mt-8">
-            <Wizard products={wizardProducts()} />
+            <Wizard products={wizardProducts()} bikes={wizardBikes()} />
           </div>
         </Container>
       </div>

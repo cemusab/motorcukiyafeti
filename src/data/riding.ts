@@ -178,15 +178,34 @@ export type MotoSlug = (typeof MOTO_TYPES)[number]["slug"];
 
 export type WizardInput = { tur: MotoSlug; kullanim: string; mevsim: "yaz" | "kis" | "4-mevsim"; butce: string };
 
+/** Kullanım seçenekleri motor türüne göre süzülür (ör. pist yalnız sport/naked, arazi yalnız adventure/enduro). */
+export const USAGE_TYPES: Record<string, MotoSlug[] | "all"> = {
+  sehir: "all",
+  is: "all",
+  kurye: ["scooter", "naked"],
+  "hafta-sonu": "all",
+  "uzun-yol": ["naked", "sport", "adventure", "touring", "cruiser", "scooter"],
+  performans: ["sport", "naked"],
+  "off-road": ["adventure", "enduro"],
+};
+export function usageOptionsFor(tur: MotoSlug) {
+  return WIZARD_OPTIONS.kullanim.filter((o) => {
+    const t = USAGE_TYPES[o.v];
+    return t === "all" || t.includes(tur);
+  });
+}
+/** Sihirbazın motor türü listesi: "kurye" bir kullanım şeklidir, motor türü değildir. */
+export const WIZARD_TYPES = () => MOTO_TYPES.filter((m) => m.slug !== "kurye");
+
 export const WIZARD_OPTIONS = {
   kullanim: [
     { v: "sehir", l: "Şehir içi" },
     { v: "is", l: "Günlük işe gidiş" },
     { v: "kurye", l: "Kuryelik / paket servis" },
-    { v: "hafta-sonu", l: "Hafta sonu" },
-    { v: "uzun-yol", l: "Uzun yol" },
-    { v: "performans", l: "Performans" },
-    { v: "off-road", l: "Off-road" },
+    { v: "hafta-sonu", l: "Hafta sonu gezileri" },
+    { v: "uzun-yol", l: "Uzun yol / tur" },
+    { v: "performans", l: "Pist / sportif sürüş" },
+    { v: "off-road", l: "Arazi / toprak yol" },
   ],
   mevsim: [
     { v: "yaz", l: "Yaz" },
@@ -205,7 +224,7 @@ export function wizardSet(i: WizardInput): GearKey[] {
   const keys: GearKey[] = ["kask", "mont", "pantolon", "eldiven", "bot"];
   if (["sport", "adventure", "touring", "enduro"].includes(i.tur) || ["performans", "off-road", "uzun-yol"].includes(i.kullanim)) keys.push("sirt");
   if (i.kullanim === "uzun-yol" || i.tur === "touring" || i.tur === "adventure") keys.push("interkom");
-  if (i.mevsim !== "yaz" || ["uzun-yol", "is", "kurye"].includes(i.kullanim) || i.tur === "kurye") keys.push("yagmurluk");
+  if (i.mevsim !== "yaz" || ["uzun-yol", "is", "kurye"].includes(i.kullanim)) keys.push("yagmurluk");
   if (i.mevsim !== "yaz") keys.push("termal");
   return keys;
 }

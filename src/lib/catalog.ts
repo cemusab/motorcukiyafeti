@@ -13,6 +13,7 @@ import {
   getCompat,
   getGuides,
   getHelmets,
+  getMotorcycles,
   getProductById,
   getProducts,
   isApparel,
@@ -231,3 +232,19 @@ export function editorPicks(n = 8) {
   return out;
 }
 export { displayName };
+
+/** Sihirbazın ilk adımı için motor listesi: çok satanlar önce. */
+export function wizardBikes() {
+  return getMotorcycles()
+    .slice()
+    .sort((a, b) => (a.salesRank ?? 999) - (b.salesRank ?? 999) || a.brand.localeCompare(b.brand, "tr"))
+    .map((m) => ({
+      slug: m.slug,
+      label: `${m.brand} ${m.model}${m.generationFrom ? ` (${m.generationFrom}+)` : ""}`,
+      type: m.type,
+      cc: m.cc,
+      licence: m.licence,
+      notes: m.notes,
+      courierCommon: m.courierCommon,
+    }));
+}

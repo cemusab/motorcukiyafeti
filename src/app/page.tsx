@@ -6,7 +6,7 @@ import { Container, SectionTitle } from "@/components/ui";
 import { Wizard } from "@/components/Wizard";
 import { CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import { comparePairs, editorPicks, wizardProducts } from "@/lib/catalog";
+import { comparePairs, editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
 import { displayName, getBrands, getGuide, getGuides } from "@/lib/data";
 import { meta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
@@ -102,8 +102,8 @@ export default function Home() {
               <br />
               Hangi Ekipmanları Almalıyım?
             </h2>
-            <p className="mt-2 mb-5 max-w-2xl text-white/70">Dört soruyu yanıtla; ihtiyacın olan ekipmanları, nedenlerini ve bütçeni nasıl paylaştıracağını gör.</p>
-            <Wizard products={wizardProducts()} compact />
+            <p className="mt-2 mb-5 max-w-2xl text-white/70">Motorunu seç, birkaç soruyu yanıtla; ihtiyacın olan ekipmanları, nedenlerini ve bütçeni nasıl paylaştıracağını gör.</p>
+            <Wizard products={wizardProducts()} bikes={wizardBikes()} compact />
           </div>
         </section>
       </Container>
