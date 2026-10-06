@@ -58,6 +58,37 @@
       "schuberth",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1954,
+        "event": "Shoei'nin kökeni olan Kamata Polyester, inşaat işçileri için baret üretmeye başladı."
+      },
+      {
+        "year": 1959,
+        "event": "Shoei Co., Ltd. 17 Mart'ta Tokyo'da resmen kuruldu."
+      },
+      {
+        "year": 1960,
+        "event": "Tokyo fabrikası, Japon Endüstri Standardı (JIS) onayını alan ilk motosiklet kasklarını üretti."
+      },
+      {
+        "year": 1965,
+        "event": "Honda, Shoei kasklarını kendi orijinal aksesuar kataloğuna aldı."
+      },
+      {
+        "year": 1968,
+        "event": "ABD pazarı için Shoei Safety Helmet Corporation kuruldu."
+      },
+      {
+        "year": 2003,
+        "event": "Amiral gemisi yarış kaskı X-Spirit tanıtıldı ve MCN'in yılın ürünü ödülünü kazandı."
+      },
+      {
+        "year": 2021,
+        "event": "NXR2, yeni ECE 22.06 normunu karşılayan ilk kask olarak piyasaya çıktı."
+      }
+    ],
+    "strongestLine": "Çene açılır ve touring kasklar (Neotec, GT-Air)",
     "sources": [
       {
         "url": "https://www.shoei-europe.com/about/",
@@ -69,6 +100,12 @@
         "url": "https://www.shoei-europe.com/products/",
         "type": "manufacturer",
         "label": "Shoei Europe – Ürünler",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shoei",
+        "type": "review",
+        "label": "Wikipedia – Shoei (tarihçe)",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -133,6 +170,33 @@
       "nolan",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1922,
+        "event": "Şirket Braunschweig'da bira kasası üreten bir marangoz atölyesi olarak kuruldu."
+      },
+      {
+        "year": 1929,
+        "event": "Askeri kasklar için deri iç astar patentiyle kask işine adım attı."
+      },
+      {
+        "year": 1954,
+        "event": "İlk motosiklet kaskı Aero piyasaya sürüldü."
+      },
+      {
+        "year": 1986,
+        "event": "Kask geliştirmede rüzgar tüneli kullanan ilk üretici oldu."
+      },
+      {
+        "year": 1998,
+        "event": "Çene açılır kask konseptini INTERMOT fuarında tanıttı."
+      },
+      {
+        "year": 2000,
+        "event": "Nick Heidfeld'in taktığı QF1 kaskıyla Formula 1'e girdi; ertesi yıl Michael Schumacher de Schuberth kullanmaya başladı."
+      }
+    ],
+    "strongestLine": "Sessiz çene açılır touring kasklar (C5, E2)",
     "sources": [
       {
         "url": "https://schuberth.com/en/c5",
@@ -144,6 +208,12 @@
         "url": "https://en.wikipedia.org/wiki/Schuberth",
         "type": "review",
         "label": "Wikipedia – Schuberth (kuruluş yılı)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.morebikes.co.uk/?p=277482",
+        "type": "review",
+        "label": "MoreBikes – Specialist Spotlight: Schuberth",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -207,6 +277,33 @@
       "ls2",
       "shark"
     ],
+    "history": [
+      {
+        "year": 1971,
+        "event": "HJC, Ekim ayında Güney Kore'de kuruldu."
+      },
+      {
+        "year": 1987,
+        "event": "Los Angeles'ta ABD şirketi açıldı ve firma HJC Crown Co., Ltd. adıyla anonim şirkete dönüştü."
+      },
+      {
+        "year": 1992,
+        "event": "Kuzey Amerika kask pazarında satış lideri konumuna yükseldi."
+      },
+      {
+        "year": 2001,
+        "event": "Avrupa'daki dağıtım için Avrupa şirketi kuruldu."
+      },
+      {
+        "year": 2007,
+        "event": "Ar-Ge merkezindeki kendi rüzgar tüneli laboratuvarı tamamlandı."
+      },
+      {
+        "year": 2016,
+        "event": "MotoGP'nin isim sponsorlarından biri oldu."
+      }
+    ],
+    "strongestLine": "Fiyat/performans odaklı full-face kasklar (RPHA ve i-serisi)",
     "sources": [
       {
         "url": "https://hjchelmets.eu/pages/about",
@@ -275,6 +372,37 @@
       "shark",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1947,
+        "event": "Gino Amisano, ahşap kalıpta şekillendirilen deri kasklarla AGV'yi kurdu."
+      },
+      {
+        "year": 1954,
+        "event": "Deri yerine fiberglas gövdeye geçildi."
+      },
+      {
+        "year": 1967,
+        "event": "Giacomo Agostini ile efsanevi iş birliği başladı."
+      },
+      {
+        "year": 1969,
+        "event": "X3000, Avrupa pazarındaki ilk full-face kask olarak tanıtıldı."
+      },
+      {
+        "year": 1996,
+        "event": "Valentino Rossi ile kariyeri boyunca sürecek ortaklık başladı."
+      },
+      {
+        "year": 2007,
+        "event": "AGV, Dainese Grubu tarafından satın alındı."
+      },
+      {
+        "year": 2012,
+        "event": "Karbon gövdeli ve aerodinamik yarış kaskı Pista GP piyasaya çıktı."
+      }
+    ],
+    "strongestLine": "Karbon yarış kaskları (Pista GP RR, K6)",
     "sources": [
       {
         "url": "https://www.agv.com/gb/en/history.html",
@@ -349,6 +477,25 @@
       "agv",
       "schuberth"
     ],
+    "history": [
+      {
+        "year": 1926,
+        "event": "Hirotake Arai, 21 yaşında hasır şapka üreticisi olarak işe başladı."
+      },
+      {
+        "year": 1937,
+        "event": "İlk Arai fabrikası Omiya'da kuruldu."
+      },
+      {
+        "year": 1950,
+        "event": "Japon Endüstri Standardı lisansını aldı ve Japonya'nın ilk motosiklet kasklarını geliştirmeye başladı."
+      },
+      {
+        "year": 1952,
+        "event": "Profesyonel arazi yarışçılarına Japonya'nın ilk motosiklet kasklarını tedarik etmeye başladı."
+      }
+    ],
+    "strongestLine": "El işçiliği kompozit gövdeli full-face kasklar (RX-7V, Quantic)",
     "sources": [
       {
         "url": "https://www.araihelmet.eu/en/about",
@@ -360,6 +507,18 @@
         "url": "https://ridermagazine.com/the-why-behind-arai-helmets/",
         "type": "review",
         "label": "Rider Magazine – Arai tarihçesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arai_Helmet",
+        "type": "review",
+        "label": "Wikipedia – Arai Helmet",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://motocrossactionmag.com/the-arai-story-the-philosophy-of-the-egg-your-head",
+        "type": "review",
+        "label": "Motocross Action – The Arai Story",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -421,11 +580,38 @@
       "scorpion",
       "shark"
     ],
+    "history": [
+      {
+        "year": 1990,
+        "event": "Arthur Liao, Çin'de küçük bir atölyede kask üretimine başlayarak markanın temelini attı."
+      },
+      {
+        "year": 1992,
+        "event": "Üretim büyütülerek yaklaşık 100 çalışanlı bir fabrikaya taşındı."
+      },
+      {
+        "year": 2007,
+        "event": "Liao's System kısaltmasından adını alan LS2 markası hayata geçirildi."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı full-face ve çene açılır kasklar (Storm, Valiant)",
     "sources": [
       {
         "url": "https://ls2helmets.com/about-us",
         "type": "manufacturer",
         "label": "LS2 – Hakkında",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://amcn.com.au/editorial/humble-beginnings-bloke-named-arthur-liao-single-handedly-shaped-landscape-motorcycle-helmet-manufacturing/",
+        "type": "review",
+        "label": "AMCN – Arthur Liao ve LS2'nin kökeni",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bikebd.com/motorcycle/brand/ls2",
+        "type": "review",
+        "label": "BikeBD – LS2 marka tarihçesi",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -483,11 +669,44 @@
       "sena",
       "schuberth"
     ],
+    "history": [
+      {
+        "year": 2004,
+        "event": "İsrail'de kurulan Cardo, dünyanın ilk motosiklet Bluetooth kulaklığı Scala Rider'ı piyasaya sürdü."
+      },
+      {
+        "year": 2007,
+        "event": "Q2 ile sürücüden sürücüye ilk intercom bağlantısını sundu."
+      },
+      {
+        "year": 2015,
+        "event": "Packtalk, Dinamik Mesh İletişim (DMC) teknolojisine sahip dünyanın ilk mesh interkomu olarak tanıtıldı."
+      },
+      {
+        "year": 2019,
+        "event": "Packtalk ve Freecom serilerinde JBL imzalı ses sistemi kullanılmaya başlandı."
+      },
+      {
+        "year": 2022,
+        "event": "Manyetik Air Mount bağlantılı Packtalk Edge piyasaya çıktı."
+      },
+      {
+        "year": 2023,
+        "event": "Motosiklet navigasyon uygulaması Riser'ı satın aldı."
+      }
+    ],
+    "strongestLine": "Mesh (DMC) grup interkomları (Packtalk Edge, Packtalk Pro)",
     "sources": [
       {
         "url": "https://cardosystems.com/pages/company",
         "type": "manufacturer",
         "label": "Cardo Systems – Şirket",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.cardosystems.com/cardo-journey/",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Cardo Journey (zaman çizelgesi)",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -550,11 +769,32 @@
       "cardo",
       "schuberth"
     ],
+    "history": [
+      {
+        "year": 1998,
+        "event": "Sena, Güney Kore'de kurumsal Bluetooth ağ ürünleri geliştiren bir teknoloji şirketi olarak kuruldu."
+      },
+      {
+        "year": 2010,
+        "event": "İlk motosiklet Bluetooth interkomu SMH10 piyasaya sürüldü."
+      },
+      {
+        "year": 2017,
+        "event": "Mesh Intercom teknolojisine sahip ilk Sena interkomu 30K satışa çıktı."
+      }
+    ],
+    "strongestLine": "Bluetooth ve Mesh interkomlar (50S, 60S)",
     "sources": [
       {
         "url": "https://www.sena.com/about/company/",
         "type": "manufacturer",
         "label": "Sena – Şirket",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://prnewswire.co.uk/news-releases/sena-unveils-highly-anticipated-momentum-smart-helmet-series-and-30k-mesh-intercom-communication-system-655781063.html",
+        "type": "review",
+        "label": "PR Newswire – Sena 30K Mesh Intercom duyurusu",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -628,11 +868,46 @@
       "revit",
       "spidi"
     ],
+    "history": [
+      {
+        "year": 1963,
+        "event": "Sante Mazzarolo, Asolo'da yürüyüş ve kayak botu üreticisi olarak Alpinestars'ı kurdu; kısa sürede motokros botlarına yöneldi."
+      },
+      {
+        "year": 1993,
+        "event": "Kurucunun oğlu Gabriele Mazzarolo şirketin yönetimini devraldı."
+      },
+      {
+        "year": 2011,
+        "event": "Veri kaydedici ve çift şarjlı şişirme modülüne sahip Tech-Air Race airbag sistemi geliştirildi."
+      },
+      {
+        "year": 2014,
+        "event": "Yol sürücüleri için Tech-Air Street airbag sistemi EICMA'da canlı çarpışma testiyle tanıtıldı."
+      },
+      {
+        "year": 2023,
+        "event": "Markanın ilk yol tipi full-face kaskı Supertech R10 piyasaya çıktı."
+      }
+    ],
+    "strongestLine": "Airbag sistemleri ve yarış ekipmanları (Tech-Air, Supertech)",
     "sources": [
       {
         "url": "https://www.alpinestars.com/pages/about-us",
         "type": "manufacturer",
         "label": "Alpinestars – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alpinestars",
+        "type": "review",
+        "label": "Wikipedia – Alpinestars",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://canadamotoguide.com/2014/11/07/alpinestars-releases-airbag-suit-for-the-street/",
+        "type": "review",
+        "label": "Canada Moto Guide – Tech-Air Street tanıtımı",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -700,6 +975,37 @@
       "spidi",
       "revit"
     ],
+    "history": [
+      {
+        "year": 1972,
+        "event": "Lino Dainese, 20 yaşındayken Vicenza'ya bağlı Molvena'da markayı kurdu; ilk ürün deri bir motokros pantolonu oldu."
+      },
+      {
+        "year": 1975,
+        "event": "15 kez dünya şampiyonu Giacomo Agostini'nin Dainese deri tulum giymesiyle markanın yarış ortaklıkları başladı."
+      },
+      {
+        "year": 2000,
+        "event": "1995'te geliştirilmeye başlanan D-air airbag sisteminin ilk çalışan prototipi pistte test edildi."
+      },
+      {
+        "year": 2007,
+        "event": "Dainese İtalyan kask üreticisi AGV'yi satın aldı; aynı yıl D-air ilk kez resmî bir MotoGP antrenmanında devreye girdi."
+      },
+      {
+        "year": 2014,
+        "event": "Yatırım şirketi Investcorp markanın yüzde 80'ini satın alarak çoğunluk hissedarı oldu."
+      },
+      {
+        "year": 2020,
+        "event": "Dainese, İtalyan bot üreticisi TCX'i bünyesine katarak kasktan bota uzanan bir grup hâline geldi."
+      },
+      {
+        "year": 2022,
+        "event": "The Carlyle Group, Investcorp'un payını devralarak Dainese'nin yeni çoğunluk hissedarı oldu."
+      }
+    ],
+    "strongestLine": "D-air airbag sistemleri ve deri yarış tulumları",
     "sources": [
       {
         "url": "https://www.dainese.com/",
@@ -711,6 +1017,12 @@
         "url": "https://en.wikipedia.org/wiki/Dainese",
         "type": "review",
         "label": "Wikipedia – Dainese",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.rideapart.com/articles/446839/dainese-acquires-tcx-motorcycle-boot-company/",
+        "type": "review",
+        "label": "RideApart – Dainese TCX'i satın aldı",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -778,11 +1090,44 @@
       "alpinestars",
       "held"
     ],
+    "history": [
+      {
+        "year": 1995,
+        "event": "Ivan Vos, şık ve korumalı motosiklet giyimi üretmek amacıyla REV'IT!'i kurdu."
+      },
+      {
+        "year": 2000,
+        "event": "Marka, Engineered Skin adlı 3D tasarım yöntemini tanıttı ve yeni kurulan REV'IT! Sport International B.V. çatısına geçti."
+      },
+      {
+        "year": 2008,
+        "event": "REV'IT! MotoGP'ye girerek yarış dünyasında ekipman tedarikçisi olarak yer almaya başladı."
+      },
+      {
+        "year": 2009,
+        "event": "Mont, pantolon ve eldivenler için GORE-TEX lisans anlaşması imzalandı."
+      },
+      {
+        "year": 2015,
+        "event": "Kenan Sofuoğlu, Supersport Dünya Şampiyonluğu ile markaya ilk dünya şampiyonluğunu kazandırdı."
+      },
+      {
+        "year": 2022,
+        "event": "REV'IT! İtalyan deri üreticisi Vircos'u satın aldı; aynı yıl Augusto Fernández Moto2'de, Álvaro Bautista Superbike'ta şampiyon oldu."
+      }
+    ],
+    "strongestLine": "Adventure ve touring tekstil giyim (Sand serisi)",
     "sources": [
       {
         "url": "https://revitsport.com/pages/about-us",
         "type": "manufacturer",
         "label": "REV'IT! – Hikayemiz",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://revitsport.com/pages/history",
+        "type": "manufacturer",
+        "label": "REV'IT! – Tarihçe",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -840,6 +1185,29 @@
       "alpinestars",
       "held"
     ],
+    "history": [
+      {
+        "year": 1977,
+        "event": "Renato Dalla Grana, motosiklet yarışçıları için yarış eldiveni üreterek Spidi'yi kurdu."
+      },
+      {
+        "year": 1989,
+        "event": "Eldivenle başlayan marka, motosiklet giyimi üretimine de genişledi."
+      },
+      {
+        "year": 1996,
+        "event": "Spidi, motosiklet montlarındaki koruyucular için ilk CE sertifikasını aldı."
+      },
+      {
+        "year": 2004,
+        "event": "Avrupa Uzay Ajansı ile teknoloji transferi sonucu geliştirilen AIS havalandırma sistemi tanıtıldı."
+      },
+      {
+        "year": 2010,
+        "event": "Marka ilk evrensel motosiklet airbag ürününü piyasaya sundu."
+      }
+    ],
+    "strongestLine": "Performans ve yarış eldivenleri (Carbo serisi)",
     "sources": [
       {
         "url": "https://www.spidi.com/eu_en/",
@@ -913,6 +1281,37 @@
       "spidi",
       "furygan"
     ],
+    "history": [
+      {
+        "year": 1946,
+        "event": "Bruno Held ve oğlu Edgar, Allgäu bölgesindeki Burgberg'de moda, iş ve sürüş eldivenleri üretmeye başladı."
+      },
+      {
+        "year": 1970,
+        "event": "Motosiklet yarışlarının yükselişiyle şirket üretimini motosiklet koruma eldivenlerine yöneltti."
+      },
+      {
+        "year": 1979,
+        "event": "Motokros şampiyonu Erwin Schmider ile birlikte markanın ilk özel motokros eldiveni geliştirildi."
+      },
+      {
+        "year": 1985,
+        "event": "Held, dünyanın ilk mıknatıslı depo çantasını geliştirdi."
+      },
+      {
+        "year": 1991,
+        "event": "İlk naylon motosiklet montuyla birlikte koruyucu giyim alanına genişlendi."
+      },
+      {
+        "year": 2009,
+        "event": "GORE-TEX ürünleri için Gore ile lisans iş birliği kuruldu."
+      },
+      {
+        "year": 2024,
+        "event": "In&motion ile geliştirilen eVest PRO airbag sistemi piyasaya çıktı."
+      }
+    ],
+    "strongestLine": "Motosiklet eldivenleri (yazlık, kışlık, touring ve yarış)",
     "sources": [
       {
         "url": "https://www.held.de/en/held-en/history/",
@@ -981,6 +1380,29 @@
       "alpinestars",
       "dainese"
     ],
+    "history": [
+      {
+        "year": 1982,
+        "event": "Şirketin kökeni, Montebelluna'da askerî bot fabrikası olarak kurulan üreticiye dayanır."
+      },
+      {
+        "year": 1999,
+        "event": "O dönemki adıyla OXTAR, uluslararası patentli T.C.S. (Torsion Control System) teknolojisine sahip ilk motosiklet botunu çıkardı."
+      },
+      {
+        "year": 2000,
+        "event": "Marka, EN 13634 standardına göre sertifikalı motosiklet botlarını pazara ilk sunanlardan biri oldu."
+      },
+      {
+        "year": 2007,
+        "event": "OXTAR S.p.A.'nın Novation S.p.A. tarafından satın alınmasının ardından marka TCX adını aldı."
+      },
+      {
+        "year": 2020,
+        "event": "TCX, Dainese tarafından satın alınarak Dainese Grubu'na katıldı."
+      }
+    ],
+    "strongestLine": "Urban ve touring motosiklet botları (Street serisi)",
     "sources": [
       {
         "url": "https://www.tcxboots.com/gb/en/company.html",
@@ -992,6 +1414,12 @@
         "url": "https://www.tcxboots.com/bg/en/certifications.html",
         "type": "manufacturer",
         "label": "TCX – Sertifikalar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.rideapart.com/articles/446839/dainese-acquires-tcx-motorcycle-boot-company/",
+        "type": "review",
+        "label": "RideApart – Dainese TCX'i satın aldı",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1055,6 +1483,21 @@
       "alpinestars",
       "dainese"
     ],
+    "history": [
+      {
+        "year": 1960,
+        "event": "Dino Signori, Maser'de markayı kurdu; Sidi adı kurucunun adının baş harflerinden gelir."
+      },
+      {
+        "year": 1973,
+        "event": "Taban altında titanyum plaka bulunan ilk ayakkabı modeli Sidi Titanium tanıtıldı."
+      },
+      {
+        "year": 2022,
+        "event": "Sidi, Milano merkezli yatırım holdingi Italmobiliare tarafından satın alındı."
+      }
+    ],
+    "strongestLine": "Motokros ve enduro botları (Crossfire serisi)",
     "sources": [
       {
         "url": "https://sidi.com/",
@@ -1128,11 +1571,40 @@
       "macna",
       "dainese"
     ],
+    "history": [
+      {
+        "year": 1969,
+        "event": "Jacques Segura, Nîmes bölgesinde 'Fury Gants' adıyla bir eldiven atölyesi kurdu."
+      },
+      {
+        "year": 1971,
+        "event": "Marka yarış ekipmanına yöneldi ve ilk yarışçılarına ekipman vermeye başladı."
+      },
+      {
+        "year": 1999,
+        "event": "Deri ürünlerin yanına tekstil seçenekleri getiren FuryTex alt markası tanıtıldı."
+      },
+      {
+        "year": 2000,
+        "event": "Şirketin yönetimini kurucunun oğlu David Segura devraldı."
+      },
+      {
+        "year": 2013,
+        "event": "Furygan ürünlerinde D3O koruyucu teknolojisi kullanılmaya başlandı."
+      }
+    ],
+    "strongestLine": "Deri montlar ve eldivenler",
     "sources": [
       {
         "url": "https://www.furygan.com/histoire/",
         "type": "manufacturer",
         "label": "Furygan – Tarihçe",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lerepairedesmotards.com/dossiers/marques/furygan.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Furygan dosyası",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1141,7 +1613,7 @@
     "slug": "macna",
     "name": "Macna",
     "country": "Hollanda",
-    "founded": null,
+    "founded": 1991,
     "website": "https://www.macna.com/",
     "about": [
       "Macna, Hollanda merkezli bir motosiklet giyim markasıdır. Mont, pantolon, eldiven, bot, yağmurluk ve çanta gibi geniş bir ürün gamını orta segment fiyat konumuyla sunar.",
@@ -1199,11 +1671,30 @@
       "held",
       "furygan"
     ],
+    "history": [
+      {
+        "year": 1991,
+        "event": "Macna, motosikletçilere daha uygun fiyatlı su geçirmez eldiven üretmeyi sağlayan yeni bir yöntemle Hollanda'da yola çıktı."
+      }
+    ],
+    "strongestLine": "Isıtmalı mont, pantolon ve eldivenler",
     "sources": [
       {
         "url": "https://www.macna.com/en/about-macna",
         "type": "manufacturer",
         "label": "Macna – Hakkında",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.bikeroutfit.nl/en/our-brands/macna/",
+        "type": "retailer",
+        "label": "Bikeroutfit – Macna",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://webbikeworld.com/macna-motorcycle-gear-arrives/",
+        "type": "review",
+        "label": "webBikeWorld – Macna",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1268,6 +1759,33 @@
       "hjc",
       "nolan"
     ],
+    "history": [
+      {
+        "year": 1986,
+        "event": "Eski yarışçı kardeşler André ve Robert Teston, Shark'ı Marsilya'da kurdu."
+      },
+      {
+        "year": 1990,
+        "event": "Raymond Roche, Shark kaskla Superbike Dünya Şampiyonu olarak markanın tanınırlığını artırdı."
+      },
+      {
+        "year": 1991,
+        "event": "Shark, karbon fiber kask kabuğunu seri üretime alan ilk şirket oldu."
+      },
+      {
+        "year": 2008,
+        "event": "Yatırım şirketi Eurazeo, Teston kardeşlerden çoğunluk hissesini satın aldı."
+      },
+      {
+        "year": 2016,
+        "event": "Normandiya'da Fransa'daki üretim tesisi açıldı."
+      },
+      {
+        "year": 2019,
+        "event": "Shark'ın çatı şirketi 2R Holding, Nolan Grubu'nu (Nolan, X-lite, Grex, N-Com) satın aldı."
+      }
+    ],
+    "strongestLine": "Sportif kapalı ve yarış kaskları (Spartan, Aeron GP)",
     "sources": [
       {
         "url": "https://www.shark-helmets.com/en",
@@ -1343,6 +1861,21 @@
       "shark",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1972,
+        "event": "Lander Nocchi, polikarbonat enjeksiyonla kask üretimine başladı; ilk model N01 jet kaskı oldu."
+      },
+      {
+        "year": 1998,
+        "event": "Markanın ilk çene açılır kaskı N100 piyasaya çıktı ve uzun soluklu N100 ailesini başlattı."
+      },
+      {
+        "year": 2019,
+        "event": "Nolan Grubu, Shark'ın da çatı şirketi olan 2R Holding tarafından satın alındı."
+      }
+    ],
+    "strongestLine": "Çene açılır touring kasklar (N100-6, N120-1) ve N-Com",
     "sources": [
       {
         "url": "https://nolan-helmets.com/en",
@@ -1355,6 +1888,18 @@
         "type": "retailer",
         "label": "MotoProWorks – Nolan 50. yıl",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://ridermagazine.com/2018/11/02/nolan-n100-5-modular-helmet-gear-review/",
+        "type": "review",
+        "label": "Rider Magazine – Nolan N100-5 incelemesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shark_(helmet_manufacturer)",
+        "type": "review",
+        "label": "Wikipedia – Shark (2R Holding / Nolan)",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -1362,7 +1907,7 @@
     "slug": "scorpion",
     "name": "Scorpion",
     "country": "Güney Kore",
-    "founded": null,
+    "founded": 2001,
     "website": "https://scorpionexo.com/eu/",
     "about": [
       "Scorpion (ScorpionEXO), Güney Koreli KIDO Industrial'ın 2001'de kurduğu motosiklet kaskı bölümünden doğmuştur. Marka kısa sürede ABD ve Avrupa'ya açılmış, bugün geniş bir kask yelpazesi sunmaktadır.",
@@ -1412,6 +1957,25 @@
       "hjc",
       "shark"
     ],
+    "history": [
+      {
+        "year": 2001,
+        "event": "Güney Koreli KIDO Industrial, motosiklet kaskı bölümünü kurdu."
+      },
+      {
+        "year": 2003,
+        "event": "ScorpionEXO markası tanıtıldı; Kaliforniya'da ABD ofisi, Kore'de Ar-Ge merkezi ve Çin'de üretim tesisi açıldı."
+      },
+      {
+        "year": 2006,
+        "event": "Avrupa yan şirketi Scorpion Sports Europe, Fransa'nın Strasbourg kentinde kuruldu."
+      },
+      {
+        "year": 2021,
+        "event": "KIDO Sports'un Vietnam'daki fabrikası üretime başladı."
+      }
+    ],
+    "strongestLine": "Adventure ve sportif kapalı kasklar (ADF-9000 Air, EXO-R1 Air)",
     "sources": [
       {
         "url": "https://scorpionexo.com/eu/our-story/",

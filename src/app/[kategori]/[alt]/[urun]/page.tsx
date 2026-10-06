@@ -6,6 +6,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { ProductCard, ProductVisual } from "@/components/ProductCard";
 import { ProductGallery } from "@/components/ProductGallery";
 import { VideoList } from "@/components/VideoList";
+import { Reviews } from "@/components/Reviews";
 import { CompareButton, FavoriteButton } from "@/components/ProductActions";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice } from "@/components/ui";
@@ -133,6 +134,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
     ...(p.sizeChart.length ? [["beden", "Beden tablosu"]] : []),
     ["fiyat", "Fiyatlar"],
     ...(media.videos.length ? [["videolar", "Videolar"]] : []),
+    ["yorumlar", "Yorumlar"],
     ...(p.faq.length ? [["sss", "Sık sorulanlar"]] : []),
     ["kaynaklar", "Kaynaklar"],
   ];
@@ -479,6 +481,8 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
               <VideoList videos={media.videos} />
             </section>
           )}
+
+          <Reviews p={p} />
 
           {p.faq.length > 0 && (
             <section id="sss">

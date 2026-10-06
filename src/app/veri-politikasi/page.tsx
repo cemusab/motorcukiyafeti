@@ -41,7 +41,7 @@ const SECTIONS = [
   },
   {
     h: "Hata bildirimi",
-    p: ["Her ürün sayfasının altında kullandığımız kaynakların listesi ve son kontrol tarihi bulunur. Bir bilginin yanlış veya eskimiş olduğunu düşünüyorsan kaynağıyla birlikte bize ilet; kontrol edip güncelleriz."],
+    p: ["Her ürün sayfasının altında kullandığımız kaynakların listesi ve son kontrol tarihi bulunur. Bir bilginin yanlış veya eskimiş olduğunu düşünüyorsan kaynağıyla birlikte motorcukiyafeti@gmail.com adresine ilet; kontrol edip güncelleriz."],
   },
 ];
 

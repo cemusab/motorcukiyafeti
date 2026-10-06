@@ -41,7 +41,7 @@ export function keyChips(p: Product): string[] {
       .slice(0, 4) as string[];
   }
   const s = p.specs;
-  return [s.ceClass ? `CE ${s.ceClass}` : null, s.waterproof ? "Su geçirmez" : null, s.membrane, s.airbagCompatible ? "Airbag uyumlu" : null]
+  return [s.ceClass ? `CE ${s.ceClass}` : null, s.waterproof ? "Su geçirmez" : null, s.membrane ? s.membrane.split(" (")[0].slice(0, 24) : null, s.airbagCompatible ? "Airbag uyumlu" : null]
     .filter(Boolean)
     .slice(0, 4) as string[];
 }

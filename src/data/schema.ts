@@ -261,3 +261,16 @@ export const MotorcycleSchema = z.object({
   officialUrl: z.string().url().nullable().default(null),
 });
 export type Motorcycle = z.infer<typeof MotorcycleSchema>;
+
+/** Onaylanmış kullanıcı yorumları (src/data/reviews.json). Yalnızca site sahibinin onayladığı yorumlar eklenir. */
+export const ReviewSchema = z.object({
+  product: z.string(), // "shoei/neotec-3"
+  author: z.string().min(2), // rumuz
+  text: z.string().min(20),
+  usage: z.string().nullable().default(null), // ör. "8 aydır, günlük kuryelik"
+  sizeInfo: z.string().nullable().default(null), // ör. "Kafa 58 cm, M aldım, tam oldu"
+  rating: z.number().int().min(1).max(5).nullable().default(null), // kullanıcının kendi puanı
+  receivedAt: isoDate,
+  approvedAt: isoDate,
+});
+export type Review = z.infer<typeof ReviewSchema>;

@@ -24,6 +24,7 @@ import {
   type Product,
   MediaSchema,
   MotorcycleSchema,
+  ReviewSchema,
 } from "@/data/schema";
 
 const DATA = path.join(process.cwd(), "src", "data");
@@ -112,6 +113,10 @@ const getMediaMap = cache(
 const EMPTY_MEDIA = (id: string): Media => ({ product: id, images: [], videos: [] });
 /** Üretici görselleri ve YouTube videoları; kayıt yoksa boş döner. */
 export const getMedia = (p: Pick<Product, "brand" | "slug">): Media => getMediaMap().get(productId(p)) ?? EMPTY_MEDIA(productId(p));
+
+/** Site sahibinin onayladığı kullanıcı yorumları. */
+export const getReviews = cache(() => readArray("reviews.json", ReviewSchema));
+export const reviewsFor = (p: Pick<Product, "brand" | "slug">) => getReviews().filter((r) => r.product === productId(p)).sort((a, b) => b.approvedAt.localeCompare(a.approvedAt));
 
 /** Türkiye'de çok satan / ilgi gören motosiklet modelleri. */
 export const getMotorcycles = cache(() => {

@@ -85,6 +85,7 @@ export function Footer() {
           <p>© {new Date().getFullYear()} motorcukiyafeti.com · Marka adları ve ürün isimleri sahiplerine aittir.</p>
           <p className="flex flex-wrap gap-x-4 gap-y-1">
             <Link href="/hakkimizda" className="hover:text-white">Hakkımızda</Link>
+            <Link href="/iletisim" className="hover:text-white">İletişim</Link>
             <Link href="/veri-politikasi" className="hover:text-white">Veri ve Kaynak Politikası</Link>
             {legalReady() && (
               <>

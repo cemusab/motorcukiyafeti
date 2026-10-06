@@ -9,9 +9,9 @@ export function ProductGallery({ images, fallback }: { images: Media["images"]; 
   const cur = images[Math.min(i, images.length - 1)];
   return (
     <div>
-      <div className="grid aspect-square place-items-center overflow-hidden rounded-xl border border-line bg-white">
+      <div className="relative aspect-square overflow-hidden rounded-xl border border-line bg-white">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={cur.url} alt={cur.alt} loading="eager" decoding="async" referrerPolicy="no-referrer" className="size-full object-contain p-6" />
+        <img src={cur.url} alt={cur.alt} loading="eager" decoding="async" referrerPolicy="no-referrer" className="absolute inset-0 size-full object-contain p-6" />
       </div>
       {images.length > 1 && (
         <div className="mt-3 flex gap-2 overflow-x-auto">
@@ -22,10 +22,10 @@ export function ProductGallery({ images, fallback }: { images: Media["images"]; 
               onClick={() => setI(k)}
               aria-label={`Görsel ${k + 1}: ${im.alt}`}
               aria-pressed={k === i}
-              className={`size-20 shrink-0 overflow-hidden rounded-md border-2 bg-white ${k === i ? "border-red" : "border-line hover:border-ink"}`}
+              className={`relative size-20 shrink-0 overflow-hidden rounded-md border-2 bg-white ${k === i ? "border-red" : "border-line hover:border-ink"}`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={im.url} alt="" loading="lazy" referrerPolicy="no-referrer" className="size-full object-contain p-1" />
+              <img src={im.url} alt="" loading="lazy" referrerPolicy="no-referrer" className="absolute inset-0 size-full object-contain p-1" />
             </button>
           ))}
         </div>

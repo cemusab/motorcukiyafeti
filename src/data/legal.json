@@ -44,6 +44,15 @@
           ]
         },
         {
+          "heading": "E-posta ile iletişim ve ürün yorumları",
+          "paragraphs": [
+            "Şikâyet, öneri, hata bildirimi veya ürün yorumu göndermek için {{EPOSTA}} adresine e-posta yazdığınızda; e-posta adresiniz, adınız veya rumuzunuz, mesaj içeriği ve isteğe bağlı olarak yazdığınız kullanım ve beden bilgileri işlenir. Sitede bu amaçla bir form bulunmaz; e-posta kendi e-posta uygulamanızdan gönderilir.",
+            "Bu veriler talebinizi yanıtlamak ve site içeriğini düzeltmek amacıyla, KVKK m. 5/2(f) kapsamındaki meşru menfaat hukuki sebebine dayanılarak işlenir. Ürün yorumunuz yalnızca e-postada verdiğiniz açık izinle (KVKK m. 5/1) ve yalnızca belirttiğiniz rumuzla yayınlanır; e-posta adresiniz yayınlanmaz. İzninizi dilediğiniz zaman geri alarak yorumunuzun kaldırılmasını isteyebilirsiniz.",
+            "E-postalar Google LLC tarafından sağlanan Gmail hizmetinde saklanır; bu nedenle verileriniz yurt dışındaki sunuculara aktarılabilir. Aktarım KVKK m. 9 kapsamında değerlendirilir; ayrıntılar için {{EPOSTA}} adresine başvurabilirsiniz. Yanıtlanan yazışmalar ve yayından kaldırılan yorumlara ait e-postalar, işleme amacı ortadan kalktığında makul süre içinde silinir."
+          ],
+          "bullets": []
+        },
+        {
           "heading": "4. Toplama yöntemi ve hukuki sebep",
           "paragraphs": [
             "Teknik veriler, Site’yi ziyaret ettiğinizde tarayıcınızın sunucuya gönderdiği istekler aracılığıyla otomatik yollarla toplanır ve sunucu/erişim kayıtlarına (log) yazılır.",
@@ -146,6 +155,14 @@
             "Verilerin sağlanması: Sözleşmesel veya yasal bir zorunluluk değildir; ancak bu teknik veriler iletilmeden Site görüntülenemez.",
             "Otomatik karar verme ve profil oluşturma (GDPR m. 22) yapılmamaktadır."
           ]
+        },
+        {
+          "heading": "E-mail contact and reviews / E-posta ile iletişim ve yorumlar",
+          "paragraphs": [
+            "{{EPOSTA}} adresine gönderdiğiniz e-postalar (ad/rumuz, e-posta adresi, mesaj, isteğe bağlı kullanım ve beden bilgisi) talebinizi yanıtlamak için GDPR m. 6(1)(f) (meşru menfaat) kapsamında işlenir. Ürün yorumunuz yalnızca e-postada verdiğiniz açık rızaya dayanarak (GDPR m. 6(1)(a)) ve rumuzunuzla yayınlanır; rızanızı istediğiniz zaman geri alabilirsiniz (GDPR m. 7(3)).",
+            "E-postalar Google LLC'nin Gmail hizmetinde tutulur. Google LLC, AB–ABD Veri Gizliliği Çerçevesi (Data Privacy Framework) kapsamında sertifikalı olduğunu beyan etmektedir."
+          ],
+          "bullets": []
         },
         {
           "heading": "4. Alıcılar ve veri işleyen",

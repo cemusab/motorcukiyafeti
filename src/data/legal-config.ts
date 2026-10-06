@@ -6,7 +6,7 @@
 export const LEGAL_CONFIG: { veriSorumlusu: string | null; adres: string | null; eposta: string | null; kep: string | null; mersis: string | null } = {
   veriSorumlusu: null,
   adres: null,
-  eposta: null,
+  eposta: "motorcukiyafeti@gmail.com",
   kep: null,
   mersis: null,
 };

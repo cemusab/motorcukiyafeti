@@ -67,6 +67,8 @@
       "tex-motor",
       "lbc"
     ],
+    "history": [],
+    "strongestLine": "Moto kurye montları ve termo bantlı yağmurluk takımları",
     "sources": [
       {
         "url": "https://www.yarentekstil.com/kurumsal/hakkimizda",
@@ -157,6 +159,13 @@
       "yaren-tekstil",
       "ls2"
     ],
+    "history": [
+      {
+        "year": 2008,
+        "event": "Tex Motor, İstanbul Bağcılar'da motosiklet aksesuarı ve sürücü ekipmanı üretimi, ithalatı ve ihracatı için kuruldu."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı ECE 22.06 onaylı Sway kasklar ve Forte GT giyim",
     "sources": [
       {
         "url": "https://texmotor.com/hakkimizda/",
@@ -185,9 +194,9 @@
     "founded": null,
     "website": "https://www.scudo.com.tr/",
     "about": [
-      "Scudo, İstanbul Üsküdar merkezli Scudo Sports Tekstil Sanayi ve Ticaret Ltd. Şti.'nin motosiklet, bisiklet ve outdoor ürünleri için kullandığı markadır. Firma Ocak 2024'te EN 17092-4:2020 A sınıfı CE belgesi aldığını duyurmuş ve kendini bu belgeyi alan ilk Türk motosiklet giyim markası olarak tanımlıyor; AA ve AAA sınıfları için de çalışma yürüttüğünü belirtiyor.",
-      "Koleksiyon şehir isimleriyle adlandırılıyor: Milano ve Santiago yazlık file montlar, Berlin, Roma ve Vivaldi 4 mevsim montlar, Alaska kışlık mont. Firma montlarda sırt korumasının standart olarak verildiğini, eklem ve sırt korumalarında EN 1621-1 ve EN 1621-2 belgeli koruyucular kullanıldığını söylüyor. Kask, eldiven, bot ve yağmurluk da katalogda var.",
-      "Scudo üretim yaklaşımını Türkiye ve İtalya merkezli olarak tanımlıyor; kask gibi bazı ürünlerin üretim yeri ürün bazında farklı olabilir. Fiyatlar orta segmentte; yerli bir markadan belgeli A sınıfı mont arayan şehir içi ve kurye kullanıcıları için mantıklı bir aday."
+      "Scudo, İstanbul Üsküdar (Koşuyolu) merkezli Scudo Sports Tekstil Sanayi ve Ticaret Ltd. Şti.'nin motosiklet, bisiklet ve outdoor ürünleri için kullandığı yerli markadır. \"Hayatını Önemsiyoruz\" sloganıyla çalışan firma, üretim yapısını Türkiye ve İtalya merkezli olarak tanımlıyor. Kuruluş yılı ve kurucu bilgisi resmi sitede paylaşılmıyor; markanın kamuya açık en belirgin dönüm noktası, Ocak 2024'te duyurduğu EN 17092-4:2020 A sınıfı CE belgesi. Scudo bu belgeyle kendini Türkiye'nin ilk CE belgeli A sınıfı motosiklet giyim markası olarak tanıtıyor ve AA ile AAA sınıfları için çalışmalarının sürdüğünü belirtiyor.",
+      "Markanın en güçlü olduğu alan şehir içi ve günlük kullanıma yönelik tekstil montlar. Koleksiyon şehir isimleriyle adlandırılıyor: Milano, Santiago ve kadınlar için Paris ile Lima yazlık file montlar; Berlin, Roma, Vivaldi ve kadınlar için Lyon ile Lisbon 4 mevsim montlar; Rio, Madrid ve Tokyo 3 mevsim; Alaska ise kışlık model. Ürün sayfalarına göre montlarda omuz, dirsek ve sırtı da kapsayan dokuz noktada ImpacTec koruyucular kullanılıyor; omuz-dirsek korumaları EN 1621-1, sırt koruması EN 1621-2 belgeli ve sırt koruması montla birlikte veriliyor. Milano gibi modellerin 10XL'e kadar beden sunması da öne çıkan bir ayrıntı.",
+      "Scudo ürünleri Türkiye'de başta markanın kendi sitesi olmak üzere çevrimiçi satılıyor; kask, eldiven, bot, yağmurluk ve tam gövde koruma (body armour) da katalogda yer alıyor, ancak kask gibi bazı ürünlerin üretim yeri ürün bazında farklı olabilir. Orta segment fiyatlarıyla Scudo, ithal bir markaya bütçe ayırmadan belgeli A sınıfı mont arayan şehir içi sürücü ve kurye kullanıcıları için güçlü bir yerli aday."
     ],
     "strengths": [
       "EN 17092-4 A sınıfı belgeli yerli giyim",
@@ -229,6 +238,11 @@
         "label": "Scudo Berlin 4 mevsim mont",
         "url": "https://www.scudo.com.tr/urun/scudo-berlin-4-mevsim-erkek-motosiklet-montu-2xl",
         "reason": "Yıl boyu tek montla idare etmek isteyen şehir içi kullanıcı için markanın çok yönlü modeli."
+      },
+      {
+        "label": "Scudo Vivaldi 4 mevsim mont",
+        "url": "https://www.scudo.com.tr/urun/scudo-vivaldi-4-mevsim-motosiklet-ceketi-siyah-siyah-3xl",
+        "reason": "EN 17092-4 A sınıfı belgeli, dokuz noktada ImpacTec korumalı ve sırt koruması dahil gelen; markanın 4 mevsim serisinin üst modeli."
       }
     ],
     "alternatives": [
@@ -236,6 +250,13 @@
       "tech90",
       "revit"
     ],
+    "history": [
+      {
+        "year": 2024,
+        "event": "Scudo, Ocak 2024'te motosiklet montları ve pantolonları için EN 17092-4:2020 A sınıfı CE belgesi aldığını duyurdu ve AA ile AAA sınıfları için çalışma başlattığını açıkladı."
+      }
+    ],
+    "strongestLine": "EN 17092-4 A sınıfı belgeli yerli tekstil montlar (Milano, Vivaldi, Berlin)",
     "sources": [
       {
         "url": "https://www.scudo.com.tr/blog/icerik/scudo-turkiye-nin-ilk-ce-belgeli-en-17092-4-2020-onayli-a-sinifi-motosiklet-kiyafetleri-markasi-oldu",
@@ -247,6 +268,24 @@
         "url": "https://www.scudo.com.tr/sayfa/hakkimizda",
         "type": "manufacturer",
         "label": "Scudo – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-vivaldi-4-mevsim-motosiklet-ceketi-siyah-siyah-3xl",
+        "type": "manufacturer",
+        "label": "Scudo – Vivaldi 4 mevsim mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "type": "manufacturer",
+        "label": "Scudo – Milano yazlık mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/kategori/motosiklet-montlari",
+        "type": "manufacturer",
+        "label": "Scudo – Motosiklet montları kategorisi",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -303,6 +342,21 @@
       "revit",
       "spidi"
     ],
+    "history": [
+      {
+        "year": 2006,
+        "event": "Firma İstanbul'da kuruldu ve iki perakende mağazasıyla motosiklet giyim ve aksesuarı ithal edip satmaya başladı."
+      },
+      {
+        "year": 2010,
+        "event": "Şirket Tech90 adıyla yeniden markalaştı ve DuPont Kevlar® kullanan motosiklet giyimi tasarımı ve üretimine yöneldi."
+      },
+      {
+        "year": 2019,
+        "event": "LYCRA Company, Tech90'ı Coolmax® astarlı motosiklet kotlarıyla bir marka tanıtım yazısında öne çıkardı."
+      }
+    ],
+    "strongestLine": "Kevlar® takviyeli motosiklet kot pantolonları (Vecton)",
     "sources": [
       {
         "url": "https://www.tech90.com.tr/",
@@ -379,6 +433,8 @@
       "tex-motor",
       "metanic-tekstil"
     ],
+    "history": [],
+    "strongestLine": "Giriş seviyesi yerli üretim motosiklet montları (Tiger Enduro, Speed)",
     "sources": [
       {
         "url": "https://www.lbc.com.tr/hakkimizda.html",
@@ -443,6 +499,8 @@
       "yaren-tekstil",
       "lbc"
     ],
+    "history": [],
+    "strongestLine": "Reflektörlü, su geçirmez kurye kaban-pantolon takımları",
     "sources": [
       {
         "url": "https://www.motokuryekiyafetleri.com/",
@@ -465,9 +523,9 @@
     "founded": 1982,
     "website": "https://www.buese.com/",
     "about": [
-      "Büse, Alman enduro şampiyonu Heino Büse'nin 1982'de kurduğu Heino Büse MX Import GmbH'nin markasıdır ve merkezi Aachen yakınlarındaki Roetgen'dedir. Kırk yılı aşkın sürede enduro kökenli bir ithalatçıdan, tekstil ve deri giyim, eldiven, bot ve kask sunan geniş bir ekipman markasına dönüştü.",
-      "Büse'nin karakteri Alman pazarına özgü: fiyat-performans odaklı, su geçirmez membranlı touring tekstiller, büyük beden ve kısa/uzun boy kalıp seçenekleri. Firma, Alman motosiklet dergilerinin test sonuçlarını sitesinde ayrı bir sayfada topluyor.",
-      "Türkiye'de yaygın değildir ama Avrupa'dan alışveriş yapan ya da standart dışı beden arayan sürücüler için iyi bir seçenektir; özellikle uzun boylu veya kilolu kullanıcıların oturan bir tekstil takım bulması kolaylaşır."
+      "Büse, Alman enduro sporunun en başarılı isimlerinden Heino Büse'nin kurduğu bir markadır. Gençliğinde Kreidler ile arazi sürmeye başlayan Büse, Alman ordusunda astsubay olarak görev yaparken boş zamanlarında yarıştı; firmanın kendi aktarımına göre 12 Almanya şampiyonluğu, 2 Avrupa şampiyonluğu ve 12 Altı Gün altın madalyası kazandı, 1975'te Man Adası'ndaki Altı Gün yarışını en iyi bireysel sürücü olarak bitirdi. 1982'de yarışçılığı bırakıp kurduğu aksesuar işi bugünkü Heino Büse MX Import GmbH'ye dönüştü; merkez hâlâ Aachen yakınlarındaki Roetgen'dedir.",
+      "Enduro kökenli bir ithalatçı olarak başlayan firma 1990'larda Avrupa'daki bayi ve ithalatçı ağını genişletti ve zamanla deri ve tekstil giyim, eldiven, bot, kask ve yağmurluk sunan geniş bir katalog kurdu. Büse'nin asıl gücü, makul fiyatlı ama membranlı ve korumalı touring tekstil takımlarıdır: Highland II, Livorno, Open Road III ve Monterey gibi modeller Motorrad, MO, Tourenfahrer ve MotoPlus gibi dergilerin testlerinde düzenli olarak üst sıralarda yer alıyor. Firma bu sonuçları sitesindeki test sonuçları sayfasında yıl yıl listeliyor. Büyük beden, kısa ve uzun boy kalıplar ile kadın kesimleri de Alman pazarına özgü pratik bir artı.",
+      "Türkiye'de Büse'nin yerleşik bir distribütörü ya da yaygın mağaza ağı bulunmuyor; ürünlere çoğunlukla Avrupa'daki çevrimiçi satıcılar üzerinden ulaşılıyor. Yine de standart dışı beden arayan, uzun yol için su geçirmez bir takımı orta bütçeyle almak isteyen sürücüler için Büse, bağımsız dergi testleriyle desteklenen güvenli bir referans noktası."
     ],
     "strengths": [
       "Fiyat-performans odaklı touring tekstil",
@@ -503,6 +561,21 @@
         "label": "Büse test sonuçları sayfası",
         "url": "https://www.buese.com/de/testurteile",
         "reason": "Hangi Büse ürününün Alman dergilerinde nasıl puan aldığını tek yerde görmeni sağlıyor; model seçerken iyi bir başlangıç."
+      },
+      {
+        "label": "Büse Highland II tekstil mont",
+        "url": "https://www.buese.com/de/buese-highland-ii-textiljacke-bu11578",
+        "reason": "Motorrad dergisinin 2023 karşılaştırmasında 1000 euro altı sınıfında birinci olan, markanın touring tekstildeki fiyat-performans iddiasını en iyi özetleyen model."
+      },
+      {
+        "label": "Büse Livorno tekstil mont",
+        "url": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+        "reason": "2023'te Motorrad testinde test birincisi seçilen ve Plus X Award alan, şehir ve tur kullanımına uygun membranlı mont."
+      },
+      {
+        "label": "Büse Open Road III tekstil mont",
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+        "reason": "Markanın uzun süredir devam eden Open Road touring serisinin güncel nesli; 2025'te Motorrad-Check'te beş üzerinden dört yıldız aldı."
       }
     ],
     "alternatives": [
@@ -510,11 +583,76 @@
       "revit",
       "held"
     ],
+    "history": [
+      {
+        "year": 1975,
+        "event": "Heino Büse, Man Adası'nda düzenlenen 50. Uluslararası Altı Gün Enduro yarışını KTM ile en iyi bireysel sürücü olarak tamamladı."
+      },
+      {
+        "year": 1982,
+        "event": "Aktif yarışçılığı bırakan Büse, Bundeswehr'deki görevini sürdürürken bir motosiklet aksesuar işi kurarak Heino Büse MX Import GmbH'nin temelini attı."
+      },
+      {
+        "year": 2020,
+        "event": "Santerno tekstil montu Alman Motorrad dergisinin testinde beş üzerinden beş yıldız aldı."
+      },
+      {
+        "year": 2023,
+        "event": "Livorno tekstil montu Motorrad dergisinin karşılaştırmasında test birincisi seçildi, Highland II ise 1000 euro altı sınıfında birinci oldu."
+      },
+      {
+        "year": 2024,
+        "event": "Monterey tekstil takımı Plus X Award'da kalite, tasarım ve ergonomi dahil beş ayrı dalda ödül aldı."
+      }
+    ],
+    "strongestLine": "Fiyat-performans odaklı membranlı touring tekstil takımlar (Highland, Livorno, Open Road)",
     "sources": [
       {
         "url": "https://www.buese.com/",
         "type": "manufacturer",
         "label": "Büse resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/ueber-uns",
+        "type": "manufacturer",
+        "label": "Büse – Über uns (tarihçe)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/testurteile",
+        "type": "manufacturer",
+        "label": "Büse – Test sonuçları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://blog.ktm.com/inthisyear1975-heino-buese-is-best-individual-rider-at-the-six-days-trial-at-the-isle-of-man/",
+        "type": "review",
+        "label": "KTM Blog – Heino Büse, 1975 Altı Gün yarışı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shop.zweirad-stadler.de/top-marken-die-inspirieren/buese/",
+        "type": "retailer",
+        "label": "Zweirad Stadler – Büse marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-highland-ii-textiljacke-bu11578",
+        "type": "manufacturer",
+        "label": "Büse – Highland II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+        "type": "manufacturer",
+        "label": "Büse – Livorno ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III ürün sayfası",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -526,9 +664,9 @@
     "founded": 1979,
     "website": "https://www.ixs.com/",
     "about": [
-      "iXS, 1979'da İsviçre'nin Sursee kentinde Hostettler adıyla kurulan firmanın koruyucu giyim markasıdır. Deri takımlarla başlayan marka bugün motosiklet tarafında mont, pantolon, eldiven, bot, kask ve airbag; bisiklet tarafında ise MTB koruma ve giyim üretiyor.",
-      "Markanın son dönemdeki ayırt edici yanı airbag hazırlığı: iXS pek çok mont ve yeleğini airbag sistemiyle uyumlu tasarladığını vurguluyor ve sitesinde ayrı bir airbag kategorisi bulunuyor. Tourster koleksiyonu uzun yol, Rapid serisi ise şehir ve yazlık kullanım tarafını temsil ediyor.",
-      "Fiyatlar orta segmentte; Alman ve İsviçre pazarına özgü pratik detaylar (geniş beden aralığı, laminat membranlı yağmurluklar) öne çıkar. Venture 1.0 MIPS çene açılır kaskı markayı kask tarafında da ciddiye alınır hale getiriyor."
+      "iXS, 1979'da İsviçre'nin Sursee kentinde Hostettler şirketi çatısı altında doğmuş bir koruyucu giyim markasıdır. Hostettler grubu, kendi tanımıyla yaklaşık 120 yıldır motosiklet, bisiklet ve tüketici elektroniği gibi alanlarda faaliyet gösteren bir aile şirketi; iXS ise grubun kendi markası olarak Sursee'deki yaklaşık 30 kişilik ekiple tasarlanıyor. 1980'lerde dönemin modasını yansıtan deri yarış tulumlarıyla tanınan marka, 2000'lerde Tom Lüthi ve Dominique Aegerter gibi İsviçreli pilotları destekledi; Lüthi 2020'den beri marka elçisi ve ürün geliştirme ortağı.",
+      "iXS bugün iki ayağa dayanıyor: motosiklet tarafında mont, pantolon, eldiven, bot, kask ve airbag; bisiklet tarafında ise 2001'de başlayan ve tasarım ödülleri almış MTB koruma ve kask serisi. Motosiklet tarafındaki en belirgin kimlik \"100% Airbag Ready\" yaklaşımı: X-Stretch kumaşlı montlar, In&motion teknolojisiyle çalışan iPRO 1.0 elektronik airbag yeleğiyle uyumlu olacak şekilde kesiliyor. Tourster koleksiyonu bu yaklaşımın touring tarafı; üst modeli Tourster-GTX 1.0, üç katmanlı GORE-TEX laminat ve EN 17092 AAA sınıfıyla markanın en iddialı takımı. Rapid gibi seriler ise şehir ve yazlık kullanımı karşılıyor.",
+      "Türkiye'de iXS'in yaygın bir mağaza ağı yok; ürünlere çoğunlukla Avrupa'daki çevrimiçi satıcılar üzerinden ulaşılıyor. Orta segment fiyatlarla airbag'e hazır bir giyim sistemi kurmak isteyen ya da yağmurda uzun yol yapan sürücüler için iXS, REV'IT! ve Held'e İsviçre kökenli bir alternatif sunuyor."
     ],
     "strengths": [
       "Airbag uyumlu giyim yaklaşımı",
@@ -575,6 +713,16 @@
         "label": "iXS airbag koleksiyonu",
         "url": "https://www.ixs.com/collections/motorrad-airbag",
         "reason": "Airbag'e geçmeyi düşünenler için uyumlu mont ve yelekler tek sayfada."
+      },
+      {
+        "label": "iXS iPRO 1.0 airbag yelek",
+        "url": "https://www.ixs.com/products/ixs-airbag-weste-ipro-1-0-schwarz",
+        "reason": "In&motion teknolojisiyle çalışan, motosiklete bağlantı gerektirmeyen ve 60 milisaniyenin altında şişen elektronik yelek; iXS'in Airbag Ready giyim sisteminin merkezi."
+      },
+      {
+        "label": "iXS Tourster-GTX 1.0 laminat mont",
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "reason": "Üç katmanlı GORE-TEX laminat, EN 17092 AAA sınıfı ve airbag uyumluluğuyla markanın touring tarafındaki en üst modeli."
       }
     ],
     "alternatives": [
@@ -582,11 +730,66 @@
       "held",
       "modeka"
     ],
+    "history": [
+      {
+        "year": 1979,
+        "event": "iXS markası, İsviçre'nin Sursee kentindeki aile şirketi Hostettler bünyesinde kuruldu."
+      },
+      {
+        "year": 2001,
+        "event": "Marka ilk dağ bisikleti (MTB) ürün serisini çıkararak motosiklet dışına açıldı."
+      },
+      {
+        "year": 2020,
+        "event": "125cc dünya şampiyonu İsviçreli pilot Tom Lüthi, ürün geliştirmeye de katılan iXS marka elçisi oldu."
+      },
+      {
+        "year": 2024,
+        "event": "In&motion iş birliğiyle geliştirilen elektronik iPRO 1.0 airbag yeleği, Airbag Ready X-Stretch montlarla birlikte Avrupa pazarında satışa sunuldu."
+      }
+    ],
+    "strongestLine": "Airbag uyumlu touring tekstil giyim (Tourster serisi, iPRO 1.0 airbag yelek)",
     "sources": [
       {
         "url": "https://www.ixs.com/pages/about-us",
         "type": "manufacturer",
         "label": "iXS – About us",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/en/pages/about-us",
+        "type": "manufacturer",
+        "label": "iXS – About us (İngilizce)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/en/pages/airbag-ready",
+        "type": "manufacturer",
+        "label": "iXS – 100% Airbag Ready",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/products/ixs-airbag-weste-ipro-1-0-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – iPRO 1.0 airbag yelek ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-GTX 1.0 laminat mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.hostettler.com/en/tom-luethi-is-the-new-ixs-brand-ambassador/",
+        "type": "manufacturer",
+        "label": "Hostettler – Tom Lüthi iXS marka elçisi oldu (2020)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/accessori/airbag-ixs-ipro-1-0-il-gilet-elettronico-e-il-giubbotto-airbag-ready-ts-pro-st-video.html",
+        "type": "review",
+        "label": "Moto.it – iXS iPRO 1.0 incelemesi (Haziran 2024)",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -654,6 +857,37 @@
       "furygan",
       "richa"
     ],
+    "history": [
+      {
+        "year": 1951,
+        "event": "Markanın kökeni olan Plastex, motorcular ve denizciler için su geçirmez giyim üretmek üzere Fransa'da kuruldu."
+      },
+      {
+        "year": 1991,
+        "event": "Plastex, sert iklimiyle bilinen Bering Boğazı'ndan esinlenerek kutup ayısı amblemli Bering adını benimsedi."
+      },
+      {
+        "year": 2010,
+        "event": "Bering, kablosuz elektronik airbag sistemi Protect Air'i sunan ilk Fransız marka oldu."
+      },
+      {
+        "year": 2011,
+        "event": "Marka, Fransız kask üreticisi Shark'ın bağlı olduğu holding grubu tarafından satın alındı."
+      },
+      {
+        "year": 2012,
+        "event": "Bering, tüm motosiklet eldivenlerini KKD olarak sertifikalandıran ilk Fransız üretici oldu."
+      },
+      {
+        "year": 2017,
+        "event": "Mekanik tetiklemeli C-Protect Air airbag yeleği piyasaya çıktı."
+      },
+      {
+        "year": 2026,
+        "event": "35. yılında kutup ayısı logosunu yeniden öne çıkaran yeni bir kimliğe geçti."
+      }
+    ],
+    "strongestLine": "Kışlık ve ısıtmalı eldivenler, su geçirmez şehir-touring giyim",
     "sources": [
       {
         "url": "https://bering-moto.com/pages/bering-35-ans-nouvelle-identite",
@@ -666,6 +900,12 @@
         "type": "manufacturer",
         "label": "Bering resmi sitesi",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lerepairedesmotards.com/dossiers/marques/bering.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Bering marka dosyası",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -673,7 +913,7 @@
     "slug": "ixon",
     "name": "Ixon",
     "country": "Fransa",
-    "founded": null,
+    "founded": 1996,
     "website": "https://www.ixon.com/",
     "about": [
       "Ixon, \"Designed in France\" vurgusu yapan bir Fransız motosiklet giyim markasıdır. Racing, Roadster, Adventure, Urban ve Heritage olmak üzere kullanım tarzına göre ayrılmış geniş bir koleksiyonu var; mont, pantolon, tulum, eldiven, bot, kot, yağmurluk ve çanta üretiyor.",
@@ -726,6 +966,17 @@
       "furygan",
       "revit"
     ],
+    "history": [
+      {
+        "year": 1996,
+        "event": "IXON, 24 yaşındaki motosiklet tutkunu Thierry Maniguet tarafından Fransa'da kuruldu."
+      },
+      {
+        "year": 2010,
+        "event": "Marka MotoGP paddock'unda yer almaya başlayarak yarış dünyasındaki varlığını güçlendirdi."
+      }
+    ],
+    "strongestLine": "Fiyat/performans odaklı şehir ve touring montları",
     "sources": [
       {
         "url": "https://www.ixon.com/en/heritage",
@@ -738,6 +989,12 @@
         "type": "manufacturer",
         "label": "Ixon – Designed in France",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixon.com/en/about",
+        "type": "manufacturer",
+        "label": "IXON – About",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -745,7 +1002,7 @@
     "slug": "richa",
     "name": "Richa",
     "country": "Belçika",
-    "founded": null,
+    "founded": 1956,
     "website": "https://www.richa.eu/",
     "about": [
       "Richa, Belçika kökenli bir aile şirketidir. Marka tarihi Charles Rigaux'nun 1950'lerin başında deri eldiven üretmesiyle başlar; isim, Rigaux soyadı ile oğlu Julien'in baş harfinin birleşiminden gelir. Motosiklet giyimine 1977'de geçildi, merkez 1991'de Michelbeke'ye taşındı.",
@@ -805,6 +1062,37 @@
       "held",
       "bering"
     ],
+    "history": [
+      {
+        "year": 1952,
+        "event": "Charles Rigaux Belçika'da deri eldiven üretimine başladı."
+      },
+      {
+        "year": 1956,
+        "event": "Oğlu Julien Rigaux, adını babasının isminden alan Richa markasını kurdu."
+      },
+      {
+        "year": 1977,
+        "event": "Luc Rigaux yönetiminde motosiklet giyimi üretimine geçildi."
+      },
+      {
+        "year": 2011,
+        "event": "Richa ilk Gore-Tex sertifikalı eldivenlerini üretti."
+      },
+      {
+        "year": 2014,
+        "event": "D3O koruma ortaklığı başladı ve ihracat 40 ülkeye ulaştı."
+      },
+      {
+        "year": 2020,
+        "event": "Hollanda'da MKC Moto, Belçika'da Joma Motors ve Avusturya'da Bike Expert devralındı."
+      },
+      {
+        "year": 2021,
+        "event": "Koleksiyonun tamamı EN 17092 sertifikasına kavuştu."
+      }
+    ],
+    "strongestLine": "Motosiklet eldivenleri ve Gore-Tex touring giyim",
     "sources": [
       {
         "url": "https://www.richa.eu/brand-history/",
@@ -818,7 +1106,7 @@
     "slug": "rukka",
     "name": "Rukka",
     "country": "Finlandiya",
-    "founded": null,
+    "founded": 1950,
     "website": "https://luhta.com/en/b/rukka-motorsport",
     "about": [
       "Rukka, 1950'de Finlandiya'nın Lahti kentinde doğmuş bir dış giyim markasıdır ve motosiklet tarafında uzun yol ve adventure sürücülerinin üst segment tercihi olarak bilinir. Bugün motosiklet ürünleri Luhta grubunun sitesinde \"Rukka Motorsport\" adıyla satılıyor.",
@@ -864,6 +1152,21 @@
       "held",
       "revit"
     ],
+    "history": [
+      {
+        "year": 1950,
+        "event": "Roger Störling, Finlandiya'nın Kokkola bölgesinde koşu giysileri üreten aile şirketini kurdu."
+      },
+      {
+        "year": 1953,
+        "event": "Şirket ürün gamını su geçirmez yağmurluklara genişletti; ikonik sarı yağmurluk bu dönemde doğdu."
+      },
+      {
+        "year": 1990,
+        "event": "Rukka, Lahti merkezli L-Fashion Group (Luhta) bünyesine bağımsız bir marka olarak katıldı."
+      }
+    ],
+    "strongestLine": "Gore-Tex membranlı premium touring takımları",
     "sources": [
       {
         "url": "https://luhta.com/en/b/rukka-motorsport",
@@ -876,6 +1179,18 @@
         "type": "retailer",
         "label": "FC-Moto – Rukka marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://yle.fi/a/3-9871155",
+        "type": "review",
+        "label": "Yle – Rukka yağmurluğunun hikâyesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://sportsbikeshop.co.uk/motorcycle_parts/content_cat/1306",
+        "type": "retailer",
+        "label": "SportsBikeShop – Rukka marka sayfası",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -883,7 +1198,7 @@
     "slug": "klim",
     "name": "Klim",
     "country": "ABD",
-    "founded": null,
+    "founded": 1999,
     "website": "https://www.klim.com/",
     "about": [
       "Klim, Idaho (ABD) merkezli; adventure, dual sport, off-road ve kar motosikleti ekipmanı üreten bir markadır. Gore-Tex ile uzun süreli iş birliği ve kendi geliştirdiği koruyucularıyla özellikle adventure segmentinde referans kabul edilir.",
@@ -936,6 +1251,29 @@
       "revit",
       "dainese"
     ],
+    "history": [
+      {
+        "year": 1994,
+        "event": "Justin Summers, Salt Lake City'de Teton Outfitters adıyla kar motosikleti tulumları üretmeye başladı."
+      },
+      {
+        "year": 1999,
+        "event": "Şirket Idaho'ya taşınarak KLIM adını aldı."
+      },
+      {
+        "year": 2005,
+        "event": "Kar sezonu dışında kapasiteyi değerlendirmek için arazi motosikleti ekipmanı geliştirilmeye başlandı."
+      },
+      {
+        "year": 2009,
+        "event": "Büyüyen adventure motosiklet pazarı için dayanıklı yol giyim serisi sunuldu."
+      },
+      {
+        "year": 2012,
+        "event": "KLIM, Polaris tarafından satın alınarak tamamen ona bağlı bir şirket oldu."
+      }
+    ],
+    "strongestLine": "Gore-Tex adventure ve touring takımları (Badlands Pro, Carlsbad)",
     "sources": [
       {
         "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/badlands-pro-a3-jacket-4101-002",
@@ -948,6 +1286,12 @@
         "type": "manufacturer",
         "label": "Klim resmi sitesi",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Klim_(clothing)",
+        "type": "review",
+        "label": "Wikipedia – Klim (clothing)",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -955,7 +1299,7 @@
     "slug": "icon",
     "name": "Icon",
     "country": "ABD",
-    "founded": null,
+    "founded": 2002,
     "website": "https://www.rideicon.com/",
     "about": [
       "Icon Motosports, ABD'nin Portland kentiyle özdeşleşmiş, sokak ve sportif sürüşe yönelik kask, mont, eldiven ve bot üreten bir markadır. Grafik tasarımları ve sokak kültürüne yakın dili sayesinde genç sürücüler arasında ayrı bir kimliği var.",
@@ -1002,6 +1346,21 @@
       "hjc",
       "scorpion"
     ],
+    "history": [
+      {
+        "year": 2002,
+        "event": "Icon, Portland'da tasarım direktörü Kurt Walter'ın mesai sonrası bir denemesi olarak sokak odaklı motorcu ekipmanı üretmeye başladı."
+      },
+      {
+        "year": 2008,
+        "event": "Sert çizgili Airframe tam yüz kaskı piyasaya çıktı."
+      },
+      {
+        "year": 2012,
+        "event": "Deri, denim ve D3O korumalı premium Icon 1000 serisi tanıtıldı."
+      }
+    ],
+    "strongestLine": "Sokak stili tam yüz kasklar (Airframe Pro, Airflite)",
     "sources": [
       {
         "url": "https://www.rideicon.com/product/helmets",
@@ -1014,6 +1373,18 @@
         "type": "homologation",
         "label": "SHARP – Icon Airflite testi",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.gearpatrol.com/cars/motorcycles/a87432/review-icon-motorsports/",
+        "type": "review",
+        "label": "Gear Patrol – Talk Shop: Icon Motorsports",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://old.webbikeworld.com/?p=5507",
+        "type": "review",
+        "label": "webBikeWorld – Icon Airframe incelemesi (2008)",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -1021,7 +1392,7 @@
     "slug": "bell",
     "name": "Bell",
     "country": "ABD",
-    "founded": null,
+    "founded": 1954,
     "website": "https://www.bellhelmets.com/",
     "about": [
       "Bell, Kaliforniya kökenli, motor sporları kaskı denilince akla gelen en eski Amerikan markalarından biridir. Bugün motosiklet tarafında kapalı, çene açılır, retro, adventure ve off-road kasklar; ayrıca geniş bir bisiklet kaskı yelpazesi sunuyor.",
@@ -1070,11 +1441,44 @@
       "hjc",
       "arai"
     ],
+    "history": [
+      {
+        "year": 1954,
+        "event": "Roy Richter, Kaliforniya'da fiberglas kabuklu ilk Bell 500 yarış kaskını üretti."
+      },
+      {
+        "year": 1956,
+        "event": "Bell Helmet Company, Bell Auto Parts'ın bir bölümü olarak kuruldu."
+      },
+      {
+        "year": 1968,
+        "event": "Bell Star ile piyasadaki ilk tam yüz motosiklet kaskı sunuldu."
+      },
+      {
+        "year": 1971,
+        "event": "Bell, ilk tam yüz arazi motosikleti kaskını üretti."
+      },
+      {
+        "year": 1980,
+        "event": "Şirket Riddell ile birleşerek Bell-Riddell'i oluşturdu."
+      },
+      {
+        "year": 2016,
+        "event": "Bell'in bağlı olduğu grup Vista Outdoor tarafından satın alındı."
+      }
+    ],
+    "strongestLine": "Retro ve off-road kasklar (Bullitt, Moto-9)",
     "sources": [
       {
         "url": "https://www.bellhelmets.com/about.html",
         "type": "manufacturer",
         "label": "Bell Helmets – About Us",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bell_Sports",
+        "type": "review",
+        "label": "Wikipedia – Bell Sports",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1083,7 +1487,7 @@
     "slug": "ogk-kabuto",
     "name": "OGK Kabuto",
     "country": "Japonya",
-    "founded": null,
+    "founded": 1948,
     "website": "https://www.ogkkabuto.co.jp/",
     "about": [
       "OGK Kabuto, motosiklet ve bisiklet kaskı üreten bir Japon firmasıdır. Motosiklet kaskları Kabuto markasıyla satılıyor ve Japon pazarında Shoei ile Arai'nin yanında anılan yerli üreticilerden biridir.",
@@ -1137,11 +1541,48 @@
       "arai",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1948,
+        "event": "Osaka Grip MFG., bisiklet için plastik ve kauçuk aksesuar üreticisi olarak Osaka'da kuruldu."
+      },
+      {
+        "year": 1974,
+        "event": "Şirket ayrı bir yapı altında motosiklet ve bisiklet kaskı geliştirmeye ve satmaya başladı."
+      },
+      {
+        "year": 1992,
+        "event": "RS-1R, üst havalandırma sistemine sahip dünyanın ilk kaskı olarak tanıtıldı."
+      },
+      {
+        "year": 1998,
+        "event": "Ragles modeliyle ilk arka aero kanatçık kullanıldı."
+      },
+      {
+        "year": 2006,
+        "event": "Marka OGK Kabuto adını aldı ve Suzuka 8 Saat'te ilk zaferini kazandı."
+      },
+      {
+        "year": 2007,
+        "event": "FF-5, dünyanın ilk 'wake stabilizer' aerodinamik parçasıyla piyasaya çıktı."
+      },
+      {
+        "year": 2011,
+        "event": "Hollanda'da Kabuto Europe kuruldu."
+      }
+    ],
+    "strongestLine": "Aerodinamik ve hafif spor-touring kasklar (Aeroblade, RT-33, Kamui)",
     "sources": [
       {
         "url": "https://www.ogkkabuto.co.jp/motorcycle/",
         "type": "manufacturer",
         "label": "Kabuto – Motosiklet kaskları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bikereview.com.au/history-kabuto-ogk-helmets/",
+        "type": "review",
+        "label": "Bike Review – History of Kabuto OGK helmets",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1150,7 +1591,7 @@
     "slug": "caberg",
     "name": "Caberg",
     "country": "İtalya",
-    "founded": null,
+    "founded": 1974,
     "website": "https://www.caberg.it/",
     "about": [
       "Caberg, Bergamo bölgesinde kurulu İtalyan kask üreticisidir ve özellikle çene açılır (apribile) kasklarıyla tanınır. Duke, Levo, Horus ve Tourmax gibi modüler aileleri Avrupa'da şehir içi ve touring sürücülerinin sık tercih ettiği orta segment kasklardır.",
@@ -1206,6 +1647,37 @@
       "nolan",
       "mt-helmets"
     ],
+    "history": [
+      {
+        "year": 1974,
+        "event": "Adı 'Caschi di Bergamo' kısaltmasından gelen Caberg, Bergamo'da kuruldu ve ilk olarak Articolo 100 kapalı kask ile Articolo 300 siperlikli açık kaskı üretti."
+      },
+      {
+        "year": 1978,
+        "event": "Firma yaylı vizör mekanizmalı Ventura'yı ve arazi kullanımı için tasarladığı ilk kaskı Total Cross'u piyasaya sürdü."
+      },
+      {
+        "year": 1992,
+        "event": "292 Unlimited ile çene açılır kask geliştiren ilk İtalyan üretici oldu."
+      },
+      {
+        "year": 1998,
+        "event": "Just One, çenesi tek düğmeyle açılabilen ve açık kaska dönüştürülebilen bir modüler kask olarak tanıtıldı."
+      },
+      {
+        "year": 2014,
+        "event": "Tourmax, marka tarafından dünyanın ilk çene açılır dual-sport kaskı olarak sunuldu."
+      },
+      {
+        "year": 2023,
+        "event": "Duke Evo, ECE 22.06 kapsamında P/J çift onayı alan çene açılır kask olarak tanıtıldı."
+      },
+      {
+        "year": 2024,
+        "event": "Caberg 50. yılını kutladı ve SOS Medical ID teknolojili Drift Evo II'yi tanıttı."
+      }
+    ],
+    "strongestLine": "P/J onaylı çene açılır kasklar (Duke, Horus, Levo)",
     "sources": [
       {
         "url": "https://www.caberg.it/caschi/apribili/horus-x/",
@@ -1218,6 +1690,18 @@
         "type": "manufacturer",
         "label": "Caberg – Çene açılır kasklar",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.caberg.it/en/company/",
+        "type": "manufacturer",
+        "label": "Caberg – Şirket tarihçesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.caberg.it/mondo-caberg/en/2024/03/12/caberg-celebrates-50-years-of-innovation-in-producing-motorcycle-helmets/",
+        "type": "manufacturer",
+        "label": "Caberg – 50. yıl duyurusu",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -1225,7 +1709,7 @@
     "slug": "airoh",
     "name": "Airoh",
     "country": "İtalya",
-    "founded": null,
+    "founded": 1986,
     "website": "https://www.airoh.com/",
     "about": [
       "Airoh, Bergamo bölgesinde kurulu bir İtalyan kask üreticisidir ve motokros ile enduro dünyasında güçlü bir geçmişe sahiptir. Cross kasklarının yanında yol kaskı yelpazesi de son yıllarda belirgin biçimde genişledi.",
@@ -1274,6 +1758,33 @@
       "agv",
       "nexx"
     ],
+    "history": [
+      {
+        "year": 1986,
+        "event": "Antonio Locatelli, Bergamo vadilerinde Locatelli S.p.A.'yı kurdu; şirket ilk yıllarında başka markalar için fason kask üretti."
+      },
+      {
+        "year": 1997,
+        "event": "Locatelli kendi markası Airoh'u ('Antonio Innovative Range Of Helmets') kurarak dünya pazarına açıldı."
+      },
+      {
+        "year": 2002,
+        "event": "Zamanla markanın amiral gemisi hâline gelen Mathisse çene açılır kaskı piyasaya çıktı."
+      },
+      {
+        "year": 2005,
+        "event": "Tony Cairoli Airoh kaskla ilk motokros dünya şampiyonluğunu kazandı; marka bu tarihten sonra yüzün üzerinde dünya unvanı biriktirdi."
+      },
+      {
+        "year": 2015,
+        "event": "Airoh, FIM International Six Days Enduro (ISDE) yarışının ana sponsoru oldu."
+      },
+      {
+        "year": 2023,
+        "event": "Airoh, Yamaha Italia ile resmi kask ortaklığına başladı."
+      }
+    ],
+    "strongestLine": "Motokros ve enduro kaskları (Aviator serisi)",
     "sources": [
       {
         "url": "https://www.airoh.com/caschi-on-road/flip-up/",
@@ -1285,6 +1796,36 @@
         "url": "https://www.airoh.com/",
         "type": "manufacturer",
         "label": "Airoh resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lerepairedesmotards.com/dossiers/marques/airoh.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Airoh marka dosyası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://fc-moto.de/en/Brands/A/Airoh",
+        "type": "retailer",
+        "label": "FC-Moto – Airoh marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://blog.ktm.com/built-fly-making-championship-winning-helmet/",
+        "type": "review",
+        "label": "KTM Blog – Cairoli ve Airoh kaskı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/airoh-becomes-main-partner-of-isde",
+        "type": "review",
+        "label": "FIM – Airoh ISDE ana sponsoru",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/news/-airoh-e-yamaha-italia-insieme-dal-2023.html",
+        "type": "review",
+        "label": "Moto.it – Airoh ve Yamaha Italia 2023",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1347,6 +1888,33 @@
       "shark",
       "scorpion"
     ],
+    "history": [
+      {
+        "year": 1997,
+        "event": "Suomy, İtalya'da yarış kaskı üreticisi olarak kuruldu."
+      },
+      {
+        "year": 2000,
+        "event": "Ducati ile imzalanan anlaşmayla Ducati Superbike pilotları Suomy kask takmaya başladı."
+      },
+      {
+        "year": 2001,
+        "event": "Troy Bayliss, Suomy kaskla ilk Dünya Superbike şampiyonluğunu kazandı."
+      },
+      {
+        "year": 2014,
+        "event": "Marka bir özel yatırım fonuna satıldı ve Endonezyalı KYT ile iş birliğine girdi; üretim yurt dışına taşınırken tasarım ve Ar-Ge İtalya'da kaldı."
+      },
+      {
+        "year": 2018,
+        "event": "SR-GP yarış kaskı, Fransa GP'sinde Andrea Dovizioso'nun başında ilk kez görüldü."
+      },
+      {
+        "year": 2022,
+        "event": "Francesco Bagnaia, SR-GP kaskla MotoGP dünya şampiyonu oldu."
+      }
+    ],
+    "strongestLine": "Yarış kökenli sportif kapalı kasklar (SR-GP, S1-XR GP)",
     "sources": [
       {
         "url": "https://www.suomy.com/en/about-suomy-helmet/",
@@ -1360,7 +1928,7 @@
     "slug": "mt-helmets",
     "name": "MT Helmets",
     "country": "İspanya",
-    "founded": null,
+    "founded": 1968,
     "website": "https://mthelmets.com/",
     "about": [
       "MT Helmets, İspanya merkezli bir kask markasıdır ve bütçe-orta segmentte geniş model yelpazesiyle Avrupa'da yaygınlaştı. Kask dışında bot, mont, pantolon ve eldiven de üretiyor; markanın uluslararası yarışlarda desteklediği sporcular var.",
@@ -1418,6 +1986,29 @@
       "caberg",
       "hjc"
     ],
+    "history": [
+      {
+        "year": 1968,
+        "event": "MT (Manufacturas Tomás, S.A.), Cartagena'ya bağlı La Palma'daki kendi fabrikasında motosiklet kaskı üretmeye başladı."
+      },
+      {
+        "year": 2018,
+        "event": "Marka, sonradan Moto3 ve Moto2 şampiyonu olacak genç pilot Pedro Acosta ile beş yıl sürecek iş birliğine başladı."
+      },
+      {
+        "year": 2021,
+        "event": "Pedro Acosta, MT kaskla çaylak sezonunda Moto3 dünya şampiyonu oldu."
+      },
+      {
+        "year": 2023,
+        "event": "Acosta MT kaskla Moto2 dünya şampiyonluğunu da kazandı."
+      },
+      {
+        "year": 2024,
+        "event": "Acosta'nın MotoGP'ye geçişiyle yollar ayrıldı; MT kendi yarış yapılanmasını Moto3, Moto2 ve MotoE'ye genişletti."
+      }
+    ],
+    "strongestLine": "Güneş vizörlü, uygun fiyatlı modüler ve kapalı kasklar (Genesis SV, Thunder 4 SV)",
     "sources": [
       {
         "url": "https://mthelmets.com/collections/genesis-sv",
@@ -1429,6 +2020,30 @@
         "url": "https://mthelmets.com/collections/modular",
         "type": "manufacturer",
         "label": "MT Helmets – Modüler kasklar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://mthelmets.com/en/content/about-us",
+        "type": "manufacturer",
+        "label": "MT Helmets – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://mthelmets.com/pages/mt-world",
+        "type": "manufacturer",
+        "label": "MT Helmets – MT World",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bikebd.com/motorcycle/brand/mt",
+        "type": "review",
+        "label": "BikeBD – MT marka profili",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motofichas.com/noticias/6686-mt-helmets-y-pedro-acosta-ponen-fin-a-su-union-y-afrontan-nuevos-retos-por-separado/amp",
+        "type": "review",
+        "label": "Motofichas – MT Helmets ve Pedro Acosta ayrılığı",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1485,6 +2100,25 @@
       "sena",
       "cardo"
     ],
+    "history": [
+      {
+        "year": 1990,
+        "event": "Interphone'un çatı şirketi Cellularline, Reggio Emilia'da ilk cep telefonlarının distribütörü olarak kuruldu."
+      },
+      {
+        "year": 2015,
+        "event": "Cellularline EICMA'da yeni logo ve tamamen yenilenen Tour, Sport ve Urban modelleriyle Interphone markasını baştan tasarladı."
+      },
+      {
+        "year": 2025,
+        "event": "Mesh 3.0 ve Harman Kardon hoparlörlü ERA 1X, ilk kez EICMA 2025'te tanıtıldı."
+      },
+      {
+        "year": 2026,
+        "event": "ERA 1X, Red Dot tasarım ödülüne layık görüldü."
+      }
+    ],
+    "strongestLine": "Mesh uyumlu interkomlar (ERA 1X) ve uygun fiyatlı U-COM serisi",
     "sources": [
       {
         "url": "https://interphone.com/collections/interfoni/products/interphone-era-1-x",
@@ -1497,6 +2131,24 @@
         "type": "manufacturer",
         "label": "Interphone – ERA 1X Red Dot 2026 haberi",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/accessori/eicma-2015-svela-il-nuovo-volto-di-interphone.html",
+        "type": "review",
+        "label": "Moto.it – EICMA 2015 Interphone yenilenmesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://techprincess.it/interphone-era-1x-eicma-2025/",
+        "type": "review",
+        "label": "TechPrincess – ERA 1X EICMA 2025",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.websim.it/azioni/small-mid-cap/notizie/cellularline-estero-e-nuove-acquisizioni-fra-i-pilastri-della-crescita/",
+        "type": "review",
+        "label": "Websim – Cellularline şirket profili",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -1504,7 +2156,7 @@
     "slug": "modeka",
     "name": "Modeka",
     "country": "Almanya",
-    "founded": null,
+    "founded": 1946,
     "website": "https://modeka.de/",
     "about": [
       "Modeka, 80 yılı aşkın geçmişiyle Alman bir motosiklet giyim markasıdır. Adventure, touring, urban ve sport koleksiyonlarında mont, pantolon, eldiven ve bot üretiyor; Türkiye'de de bayiler üzerinden bulunabilen Avrupa markalarından biridir.",
@@ -1551,11 +2203,48 @@
       "buse",
       "klim"
     ],
+    "history": [
+      {
+        "year": 1946,
+        "event": "August Oberkönig, savaş gazilerine iş imkânı sağlamak amacıyla küçük bir eldiven atölyesi kurdu."
+      },
+      {
+        "year": 1952,
+        "event": "Kendi tabakhanesi ve boyahanesi bulunan Beckumer Leder-Bekleidungswerk fabrikası açıldı."
+      },
+      {
+        "year": 1966,
+        "event": "Motosikletçilere yönelik ilk marka olan Belmo Design hayata geçti."
+      },
+      {
+        "year": 1980,
+        "event": "Şirket uluslararası kimliğini Modeka adıyla yeniden yapılandırdı."
+      },
+      {
+        "year": 1999,
+        "event": "Su geçirmez membranlı Outback koleksiyonuyla ilk touring tekstil ürünleri piyasaya çıktı."
+      },
+      {
+        "year": 2011,
+        "event": "Zorlu koşullarda sürenler için ilk adventure koleksiyonu tanıtıldı."
+      },
+      {
+        "year": 2017,
+        "event": "Aile şirketinin üçüncü kuşağından Lou Windau, geleceğin yöneticisi olarak şirkete katıldı."
+      }
+    ],
+    "strongestLine": "CE AAA sınıfı adventure tekstil takımlar (Atlaz)",
     "sources": [
       {
         "url": "https://modeka.de/de/serie/atlaz-ce-aaa-adventure-hero/",
         "type": "manufacturer",
         "label": "Modeka – Atlaz serisi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://modeka.de/en/about-modeka",
+        "type": "manufacturer",
+        "label": "Modeka – Hakkımızda / tarihçe",
         "checkedAt": "2026-10-06"
       }
     ]
@@ -1564,7 +2253,7 @@
     "slug": "nexx",
     "name": "Nexx",
     "country": "Portekiz",
-    "founded": null,
+    "founded": 2001,
     "website": "https://nexx-helmets.com/",
     "about": [
       "Nexx, Portekiz'de tasarlayıp üreten bir kask markasıdır ve Avrupa'da kendi fabrikasında üretim yapan az sayıdaki orta-üst segment kask üreticisinden biridir. Karbon ve çok katmanlı kompozit kabuklarıyla tanınır.",
@@ -1619,6 +2308,33 @@
       "shark",
       "airoh"
     ],
+    "history": [
+      {
+        "year": 2001,
+        "event": "Makine mühendisi Hélder Loureiro, Portekiz'in Anadia kentinde Nexx'i kurdu."
+      },
+      {
+        "year": 2002,
+        "event": "Markanın ilk modelleri X.10 ve X.20 üretime girdi."
+      },
+      {
+        "year": 2003,
+        "event": "SX.60 modeli tanıtıldı."
+      },
+      {
+        "year": 2014,
+        "event": "Nexx, interkom teknolojisini ürün gamına ekledi."
+      },
+      {
+        "year": 2024,
+        "event": "X.WED3 adventure kaskı ve X.WST3 tanıtıldı; şirket yeni fabrika için Anadia'da arazi satın aldı."
+      },
+      {
+        "year": 2026,
+        "event": "Nexx, 2031'e kadar günlük üretimi iki katına çıkaracak 11 milyon euroluk yeni bir fabrika yatırımını duyurdu."
+      }
+    ],
+    "strongestLine": "Adventure ve touring kasklar (X.WED3, X.Lifetour)",
     "sources": [
       {
         "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
@@ -1631,6 +2347,12 @@
         "type": "manufacturer",
         "label": "Nexx – About",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://eco.sapo.pt/2026/06/29/anadia-vai-receber-fabrica-de-capacetes-que-salvam-vidas-nexx-investe-11-milhoes/",
+        "type": "review",
+        "label": "ECO – Nexx 11 milyon euroluk fabrika yatırımı",
+        "checkedAt": "2026-10-06"
       }
     ]
   },
@@ -1638,7 +2360,7 @@
     "slug": "shima",
     "name": "Shima",
     "country": "Polonya",
-    "founded": null,
+    "founded": 2009,
     "website": "https://shima.pl/",
     "about": [
       "Shima, Polonya'nın Puławy kentinde kurulu bir motosiklet giyim markasıdır. Deri ve tekstil mont, pantolon, tulum, eldiven ve bot üretiyor; Avrupa'da fiyat-performans markası olarak hızla yayıldı.",
@@ -1690,11 +2412,86 @@
       "macna",
       "spidi"
     ],
+    "history": [
+      {
+        "year": 2009,
+        "event": "Motosiklet tutkunu iki kardeş Shima'yı Puławy'de kadın motosiklet eldivenleriyle kurdu."
+      },
+      {
+        "year": 2014,
+        "event": "Ürün yelpazesi mont, pantolon ve botları kapsayacak şekilde genişletildi."
+      },
+      {
+        "year": 2018,
+        "event": "Shima, Polonya'nın AAA sertifikalı ilk motosiklet takımını piyasaya sürdü."
+      },
+      {
+        "year": 2022,
+        "event": "Marka, Avrupa güvenlik standartlarını hazırlayan CEN WG9 çalışma grubuna katıldı."
+      },
+      {
+        "year": 2025,
+        "event": "Depo, test alanı ve showroom içeren yeni merkez binası açıldı."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı yazlık file montlar ve eldivenler (X-Mesh, STR)",
     "sources": [
       {
         "url": "https://shima.pl/",
         "type": "manufacturer",
         "label": "Shima resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shima.pl/en/about-us/",
+        "type": "manufacturer",
+        "label": "Shima – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "riderdenim",
+    "name": "Riderdenim",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://eu.riderdenim.com/en",
+    "about": [
+      "Riderdenim, İstanbul ve İzmir'de ofisleri bulunan, motosiklet kotu ve günlük görünümlü korumalı giyim üzerine yoğunlaşan yerli bir markadır. Ürünlerini \"Made in Turkey\" ibaresiyle satıyor.",
+      "Markanın Mistral motosiklet kotu, diz ve kalça bölgelerinde Kevlar aramid astar ve SAS-TEC koruyucularla birlikte EN 17092-3 AA sınıfı olarak sunuluyor. Bu da onu, şehir içinde normal kot görünümünden vazgeçmek istemeyen sürücüler için yerli bir seçenek yapıyor."
+    ],
+    "strengths": [
+      "Kevlar astarlı motosiklet kotu",
+      "Günlük görünümlü korumalı giyim",
+      "Yerli üretim"
+    ],
+    "categories": [
+      "pantolon"
+    ],
+    "families": [
+      {
+        "name": "Mistral",
+        "note": "Kevlar aramid astarlı, SAS-TEC koruyuculu AA sınıfı motosiklet kotu.",
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Riderdenim Mistral motosiklet kotu",
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans",
+        "reason": "Yerli üretim, EN 17092-3 AA sınıflı ve Kevlar astarlı bir kot arayanlar için markanın öne çıkan ürünü."
+      }
+    ],
+    "alternatives": [
+      "tech90"
+    ],
+    "history": [],
+    "strongestLine": "Kevlar astarlı AA sınıfı motosiklet kotu (Mistral)",
+    "sources": [
+      {
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans",
+        "type": "manufacturer",
+        "label": "Riderdenim – Mistral motosiklet kotu",
         "checkedAt": "2026-10-06"
       }
     ]

@@ -14,7 +14,7 @@ export function ProductVisual({ p, className = "", eager = false }: { p: Product
       <div className={`relative grid place-items-center overflow-hidden bg-white ${className}`}>
         {/* Üretici görseli; kaynak ve telif bilgisi ürün sayfasında gösterilir. */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={img.url} alt={img.alt} loading={eager ? "eager" : "lazy"} decoding="async" referrerPolicy="no-referrer" className="size-full object-contain p-4" />
+        <img src={img.url} alt={img.alt} loading={eager ? "eager" : "lazy"} decoding="async" referrerPolicy="no-referrer" className="absolute inset-0 size-full object-contain p-4" />
       </div>
     );
   return (

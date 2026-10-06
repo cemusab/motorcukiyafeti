@@ -183,7 +183,7 @@ export type RouteEntry = { path: string; group: "statik" | "kategori" | "urun" |
 export function routeManifest(): RouteEntry[] {
   const r: RouteEntry[] = [];
   const add = (path: string, group: RouteEntry["group"], index = true) => r.push({ path, group, index });
-  ["/", "/markalar", "/rehber", "/karsilastir", "/interkom-uyumlulugu", "/yeni-baslayanlar", "/motosikletime-gore", "/ne-almaliyim", "/hakkimizda", "/veri-politikasi"].forEach((p) =>
+  ["/", "/markalar", "/rehber", "/karsilastir", "/interkom-uyumlulugu", "/yeni-baslayanlar", "/motosikletime-gore", "/ne-almaliyim", "/hakkimizda", "/veri-politikasi", "/iletisim"].forEach((p) =>
     add(p, "statik"),
   );
   if (legalReady()) LEGAL_SLUGS.forEach((s) => add(`/${s}`, "statik"));

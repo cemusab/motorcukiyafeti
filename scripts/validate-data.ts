@@ -6,7 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema } from "../src/data/schema";
+import { ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, ReviewSchema } from "../src/data/schema";
 import { allSubcategories } from "../src/data/categories";
 
 const root = path.join(__dirname, "..", "src", "data");
@@ -66,6 +66,8 @@ for (const c of compat) {
 }
 const media = fs.readdirSync(root).filter((f) => /^media.*\.json$/.test(f)).flatMap((f) => load(f, MediaSchema));
 for (const m of media) if (!ids.has(m.product)) errors.push(`media: ürün yok ${m.product}`);
+const reviews = load("reviews.json", ReviewSchema);
+for (const r of reviews) if (!ids.has(r.product)) errors.push(`review: ürün yok ${r.product}`);
 const guideSlugs = new Set(guides.map((g) => g.slug));
 for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r)) warn.push(`rehber ${g.slug}: ilgili rehber ${r} yok (gösterilmeyecek)`);
 
