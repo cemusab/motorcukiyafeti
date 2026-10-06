@@ -1,0 +1,3066 @@
+[
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "x-spr-pro",
+    "brand": "shoei",
+    "name": "X-SPR Pro",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask"
+    ],
+    "summary": "Shoei'nin MotoGP pistlerinden gelen tam kapalı yarış kaskı. ECE 22.06 ve FIM onaylı, aerodinamiği ve pist detaylarıyla sportif sürücüye yönelik, şehir ve touring konforu ikinci planda.",
+    "description": [
+      "X-SPR Pro, Shoei'nin yarış kaskı; Türkiye'deki mağazalarda çoğunlukla 'X-Spirit Pro' adıyla satılıyor. Kabuk AIM+ adlı altı katlı çoklu kompozit fiberden üretiliyor ve dört dış kabuk boyutuyla (XS-S, M, L, XL-XXL) sunuluyor. Üretici ağırlığı yaklaşık 1.450 g olarak veriyor, bedeni belirtmiyor. ECE 22.06 ve FIM homologasyonu var; FIM 2 onaylı ayrı bir 'X-SPR Pro 02' versiyonu da listeleniyor.",
+      "Pist odaklı detaylar belirgin: arka stabilizatör ve flaplar, alt hava spoyleri, vorteks üreticiler, 7 kapatılabilir hava girişi ve yanak havalandırması. CWR-F2R vizör Pinlock'a hazır ve tear-off uygulamak için iki boyutlu yapıda. Pedler modüler; yanak pedleri dört farklı kalınlıkta, hepsi çıkarılıp yıkanabiliyor. E.Q.R.S. acil durum yanak pedi sistemi ve sıvı alma (hydration) hazırlığı var.",
+      "İç güneş vizörü ya da interkom yuvası gibi touring özellikleri bu kaskın gündeminde değil. Dar, sportif sürüş pozisyonu için kurgulanmış bir kask; dik oturuşlu motorlarda rüzgâr ve görüş açısı aynı verimi vermeyebilir."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ya da sportif sürüşü ciddiye alan sürücüler",
+      "Supersport motor kullanan ve FIM onaylı bir kask isteyenler",
+      "Aerodinamik ve yüksek hızda stabiliteyi önceliklendirenler"
+    ],
+    "notFor": [
+      "Günlük şehir içi ve kurye kullanımı: iç güneş vizörü yok, fiyatı yıpratıcı kurye işine göre çok yüksek",
+      "Dik oturuşlu touring ya da adventure motor sürücüleri"
+    ],
+    "pros": [
+      "ECE 22.06 ve FIM homologasyonu",
+      "Dört dış kabuk boyutu",
+      "Arka flaplar ve alt spoyler ile yüksek hızda stabilite",
+      "Dört farklı kalınlıkta yanak pedi, tüm pedler yıkanabilir",
+      "E.Q.R.S. acil durum sistemi",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Fiyatı Shoei'nin sokak kasklarının belirgin şekilde üzerinde",
+      "Yarış odaklı kalıp ve havalandırma şehir içinde gürültülü ve yorucu olabilir",
+      "Hazır interkom yuvası belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama amacı değil; iç vizör olmaması ve sportif kalıp kısa şehir sürüşlerinde pratik değil.",
+      "uzunYol": "Uzun yolda konfor beklentisi yüksekse touring kaskları daha uygun; havalandırma güçlü ama rüzgâr sesi ön planda olabilir.",
+      "otoban": "Yüksek hız stabilitesi için tasarlandı; arka flaplar ve spoyler otobanda kaskın oturmasına yardım eder.",
+      "sport": "Asıl kullanım alanı. FIM onayı, tear-off uyumlu vizör ve pist aerodinamiği bu kaskı sportif sürüşe göre konumlandırıyor.",
+      "adventure": "Siperliği ve arazi havalandırması olmadığı için uygun değil.",
+      "gozluk": "Üretici gözlük kanalı belirtmiyor; dar yarış kalıbında gözlük sapları baskı yapabilir, mağazada denemek gerekir.",
+      "interkom": "Shoei bu model için özel interkom yuvası belirtmiyor; genel amaçlı bir interkom takılabilir ama kalıp dar.",
+      "kurye": "Kurye kullanımı için uygun değil: iç güneş vizörü yok ve fiyatı günlük yıpranmaya göre çok yüksek."
+    },
+    "verdict": "X-SPR Pro, pist ve sportif sürüş için Shoei'nin en iddialı kaskı; FIM onayı, dört kabuk boyutu ve aerodinamik detaylarıyla bu işi ciddiye alanlara hitap ediyor. Günlük kullanımda iç güneş vizörü ve interkom yuvası eksikliği hissedilir. Şehir, touring ya da kurye kullanımı için daha mantıklı ve ucuz seçenekler var.",
+    "rivals": [
+      "arai/rx-7v-evo",
+      "agv/pista-gp-rr",
+      "shoei/nxr2"
+    ],
+    "priceRange": {
+      "min": 39849,
+      "max": 63255,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Türkiye'de 'X-Spirit Pro' adıyla satılıyor; düz renk ve grafikli fiyatlar farklı."
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/shoei-x-spirit-pro-kapali-kask-mat-siyah-_59213.html",
+        "price": 39849,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spirit-pro-valion-tc-8-kapali-kask",
+        "price": 49990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Valion TC-8"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spr-pro-crosslogo-kask-kirmizi",
+        "price": 55000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Marquez9 TC-1"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spr-pro-toprak-razgatlioglu-2025-tc-2-kask",
+        "price": 63255,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Toprak TC-2"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "X-SPR Pro ile X-Spirit Pro aynı kask mı?",
+        "a": "Evet. Shoei Avrupa'da X-SPR Pro adını kullanıyor; Türkiye'deki mağazalarda aynı model genellikle X-Spirit Pro adıyla listeleniyor."
+      },
+      {
+        "q": "X-SPR Pro'da güneş vizörü var mı?",
+        "a": "Üreticinin özellik listesinde iç güneş vizörü yok. Güneşli havada füme vizör ya da Shoei'nin kendiliğinden kararan vizör seçeneği kullanılabilir."
+      },
+      {
+        "q": "Kask FIM onaylı mı?",
+        "a": "Shoei, X-SPR Pro'yu ECE 22.06 ve FIM homologasyonlu olarak listeliyor. FIM 2 onayı ayrıca X-SPR Pro 02 versiyonunda sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/x-spr-pro/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/x-spr-pro/",
+        "type": "manufacturer",
+        "label": "Shoei Europe X-SPR Pro ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/shoei-x-spirit-pro-kapali-kask-mat-siyah-_59213.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Shoei X-SPR Pro Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spirit-pro-valion-tc-8-kapali-kask",
+        "type": "retailer",
+        "label": "Motodium – Shoei X-SPR Pro Valion TC-8",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spr-pro-crosslogo-kask-kirmizi",
+        "type": "retailer",
+        "label": "Motodium – Shoei X-SPR Pro Marquez9 TC-1",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-x-spr-pro-toprak-razgatlioglu-2025-tc-2-kask",
+        "type": "retailer",
+        "label": "Motodium – Shoei X-SPR Pro Toprak TC-2",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "White",
+      "Matt Black",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "AIM+ (6 katlı çoklu kompozit fiber)",
+      "materialClass": "fiber",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": true,
+      "weightGrams": 1450,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CWR-F2R, Pinlock'a hazır, buğu geciktirici, çift kilitli, tear-off uyumlu",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "7 kapatılabilir giriş, 6 çıkış, yanak havalandırması",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "nxr2",
+    "brand": "shoei",
+    "name": "NXR2",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shoei'nin kompakt, hafif sportif sokak kaskı. Beş kabuk boyutu, interkom hazırlığı ve yaklaşık 1.390 g ağırlığıyla şehirden uzun yola geniş kullanıcıya hitap eden tam kapalı model.",
+    "description": [
+      "NXR2, Shoei'nin 'sporty street' olarak konumlandırdığı tam kapalı kaskı. AIM kabuk beş farklı dış boyutla (XXS-S, M, L, XL-XXL, XXXL) üretiliyor; bu, küçük ve büyük bedenlerde gereksiz hacmi azaltan önemli bir avantaj. Üretici yaklaşık 1.390 g veriyor, bedenini belirtmiyor. Rüzgâr tünelinde önceki NXR'ye göre kaldırma kuvvetinde %6, sürtünmede %4 azalma bildiriliyor.",
+      "CWR-F2 vizör Pinlock'a hazır ve yeni merkezi kilitle geliyor. İçeride çoklu yoğunluklu EPS, 3D orta ped, dört kalınlıkta yanak pedi, kulak pedleri ve E.Q.R.S. acil durum sistemi var; tüm pedler çıkarılıp yıkanabiliyor. Kask interkoma hazır, Shoei SENA SRL EXT'yi öneriyor ama ünite ayrıca satılıyor.",
+      "Shoei Europe ürün sayfasında homologasyon satırı yer almıyor; bu yüzden ECE 22.06 bilgisini kendi kaynağımızda doğrulayamadık ve satın alırken kaskın etiketini kontrol etmeyi öneriyoruz. İç güneş vizörü yok."
+    ],
+    "forWho": [
+      "Tek kaskla şehir, hafta sonu virajları ve ara sıra uzun yol yapmak isteyenler",
+      "Çok küçük ya da çok büyük kafa ölçüsüne sahip, kompakt kabuk arayanlar",
+      "Shoei kalitesini görece erişilebilir fiyata isteyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyenler; NXR2'de yok",
+      "Ağır kurye kullanımı: fiyatı yüksek, güneş vizörü yok"
+    ],
+    "pros": [
+      "Beş dış kabuk boyutu",
+      "Yaklaşık 1.390 g ile hafif",
+      "İnterkoma hazır, kulak pedleri mevcut",
+      "Çoklu yoğunluklu EPS ve E.Q.R.S.",
+      "Tüm pedler çıkarılıp yıkanabiliyor",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Üretici sayfasında homologasyon bilgisi açıkça yazmıyor",
+      "SENA SRL EXT ayrıca satılıyor",
+      "Pinlock lensinin kutudan çıkıp çıkmadığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Hafif ve kompakt olması şehirde rahat; güneş vizörü olmadığı için gün içinde vizör değiştirmek gerekebilir.",
+      "uzunYol": "Uzun yolda yorulmayacak kadar hafif; sessizlik ve güneş vizörü önceliğinizse touring kaskları daha uygun.",
+      "otoban": "Rüzgâr tünelinde geliştirilmiş kabuk ve entegre spoyler yüksek hızda dengeli kalmaya yardımcı olur.",
+      "sport": "Sportif sokak sürüşüne uygun; pist odaklı kullanım için X-SPR Pro daha doğru tercih.",
+      "adventure": "Siperlik yok; asfalt ağırlıklı adventure turlarında iş görür.",
+      "gozluk": "Üretici gözlük kanalı belirtmiyor; yanak pedlerinin farklı kalınlık seçenekleri uyumu iyileştirebilir.",
+      "interkom": "İnterkoma hazır ve kulak cepleri var; Shoei'nin önerdiği SRL EXT ayrıca satın alınmalı.",
+      "kurye": "Hafifliği kurye için avantaj ama güneş vizörü yok ve fiyatı yoğun günlük yıpranmaya göre yüksek."
+    },
+    "verdict": "NXR2, beş kabuk boyutu ve hafifliğiyla Shoei'nin en dengeli tam kapalı kasklarından biri; şehirden virajlı yollara geniş bir kullanım yelpazesine uyuyor. İç güneş vizörü olmaması ve interkomun ayrı satılması göz önünde tutulmalı. Homologasyon etiketini satın alırken kontrol etmek yerinde olur.",
+    "rivals": [
+      "schuberth/s3",
+      "arai/quantic",
+      "agv/k6-s"
+    ],
+    "priceRange": {
+      "min": 29000,
+      "max": 29618,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-nxr-2-siyah-kapali-kask",
+        "price": 29000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-nxr-2-mat-siyah-kapali-kask",
+        "price": 29000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/shoei-nxr-2-kapali-kask-mat-siyah-_59934.html",
+        "price": 29618,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "NXR2'de güneş vizörü var mı?",
+        "a": "Hayır. NXR2 tek vizörlü bir kask; güneşli havalarda füme vizör veya kendiliğinden kararan vizör aksesuarı kullanılabilir."
+      },
+      {
+        "q": "NXR2 ile hangi interkom kullanılır?",
+        "a": "Shoei, SENA SRL EXT'yi öneriyor; kask interkom için hazırlıklı. Ünite kaskla birlikte gelmiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/nxr2/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/nxr2/",
+        "type": "manufacturer",
+        "label": "Shoei Europe NXR2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-nxr-2-siyah-kapali-kask",
+        "type": "retailer",
+        "label": "Motodium – Shoei NXR2 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-nxr-2-mat-siyah-kapali-kask",
+        "type": "retailer",
+        "label": "Motodium – Shoei NXR2 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/shoei-nxr-2-kapali-kask-mat-siyah-_59934.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Shoei NXR2 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ece2206",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Matt Black",
+      "White",
+      "Basalt Grey",
+      "Matt Blue Metallic",
+      "Shine Red",
+      "Chalk Grey"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "AIM (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 5,
+      "ece2206": null,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1390,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CWR-F2, Pinlock'a hazır, buğu geciktirici, merkezi kilit",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Alın ve çenede 6 giriş, arkada 4 çıkış",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "İnterkoma hazır; Shoei SENA SRL EXT'yi öneriyor (ayrı satılır).",
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "j-cruise-3",
+    "brand": "shoei",
+    "name": "J-Cruise 3",
+    "subcategories": [
+      "acik-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shoei'nin premium açık (jet) touring kaskı. İç güneş vizörü, Comlink interkom yuvası ve mikrometrik çene kilidiyle şehir içi ve rahat uzun yol için kurgulanmış.",
+    "description": [
+      "J-Cruise 3, Shoei'nin tam vizörlü açık kask serisinin son halkası. AIM kabuk üç dış boyutla (XS-M, L, XL-XXL) üretiliyor ve üretici ağırlığı 1.400 g olarak veriyor; bedeni belirtilmemiş. ECE 22.06 onaylı. Yenilenen havalandırmada ek bir üst çıkış sayesinde hava akışının %70 arttığı belirtiliyor.",
+      "CJ-2 vizör sistemi hava geçirmez conta ve kolay kilitlenen mekanizmayla geliyor; altında buğu önleyici kaplamalı, büyütülmüş QSV-2 güneş vizörü var. Çene kilidi paslanmaz çelik mikrometrik tip. Shoei Comlink yuvası, SENA SRL3 ünitesinin kaskın hattını bozmadan yerleşmesine olanak tanıyor; ünite ayrıca satılıyor.",
+      "Açık kask olduğu için çene koruması yok. Bu, tam kapalı ya da çene açılır kasklara göre kaza anında yüz ve çene bölgesinin korunmasız kalması anlamına geliyor; kask seçerken bu ödünleşimi bilinçli yapmak gerekir."
+    ],
+    "forWho": [
+      "Scooter ve şehir içi kullanıcılar, sık durup kalkanlar",
+      "Açık kask rahatlığını uzun yolda da isteyen touring sürücüleri",
+      "Entegre interkom yuvası isteyen açık kask kullanıcıları"
+    ],
+    "notFor": [
+      "Çene koruması isteyenler",
+      "Yüksek hızda uzun otoban sürüşü yapanlar",
+      "Bütçe odaklı kuryeler: fiyatı yüksek"
+    ],
+    "pros": [
+      "İç güneş vizörü (QSV-2)",
+      "Shoei Comlink ile temiz SRL3 entegrasyonu",
+      "Mikrometrik paslanmaz çelik çene kilidi",
+      "ECE 22.06 onaylı, üç kabuk boyutu",
+      "Pedler çıkarılıp yıkanabiliyor"
+    ],
+    "cons": [
+      "Çene koruması yok",
+      "SRL3 interkom ayrıca satılıyor",
+      "Açık kask olarak fiyatı yüksek",
+      "Yüksek hızda rüzgâr ve ses tam kapalı kasklardan fazla"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; açık yapı, güneş vizörü ve kolay takılıp çıkarılması şehirde çok pratik.",
+      "uzunYol": "Rahat tempoda uzun yol yapılabilir; vizör ve conta yapısı rüzgârı iyi keser ama yüz yine de dışa açıktır.",
+      "otoban": "Yüksek hızda tam kapalı kask kadar sessiz ve korunaklı değil; kısa otoban etapları için uygundur.",
+      "sport": "Sportif sürüş için uygun değil; çene koruması yok.",
+      "adventure": "Arazi ve tozlu yollar için tasarlanmadı.",
+      "gozluk": "Açık kask yapısı gözlükle kullanımı kolaylaştırır.",
+      "interkom": "Shoei Comlink yuvası sayesinde SRL3 kaskın içine gömülü yerleşir.",
+      "kurye": "Sık in-bin yapan kurye için pratik ama fiyatı yüksek ve çene koruması yok; ekonomik bir kurye tercihi değil."
+    },
+    "verdict": "J-Cruise 3, iç güneş vizörü ve Comlink entegrasyonuyla açık kask segmentinde en donanımlı seçeneklerden biri. Şehir ve rahat touring için konforlu bir paket sunuyor. Çene koruması olmadığını ve fiyatının yüksek olduğunu unutmamak gerekir.",
+    "rivals": [
+      "schuberth/j2",
+      "arai/sz-r-evo",
+      "shoei/j-o2"
+    ],
+    "priceRange": {
+      "min": 33000,
+      "max": 33000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-j-cruise-3-acik-kask-siyah",
+        "price": 33000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-j-cruise-3-acik-kask-mat-siyah",
+        "price": 33000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "J-Cruise 3'te güneş vizörü var mı?",
+        "a": "Evet, QSV-2 adlı iç güneş vizörü var ve buğu önleyici kaplamalı."
+      },
+      {
+        "q": "J-Cruise 3 hangi interkomla uyumlu?",
+        "a": "Kask Shoei Comlink yuvasına sahip ve SENA SRL3 ile uyumlu. SRL3 ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/j-cruise3/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/j-cruise3/",
+        "type": "manufacturer",
+        "label": "Shoei Europe J-Cruise 3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-j-cruise-3-acik-kask-siyah",
+        "type": "retailer",
+        "label": "Motodium – Shoei J-Cruise 3 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-j-cruise-3-acik-kask-mat-siyah",
+        "type": "retailer",
+        "label": "Motodium – Shoei J-Cruise 3 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Matt Black",
+      "Matt Blue Metallic",
+      "Basalt Grey",
+      "White",
+      "Chalk Grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "AIM (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1400,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CJ-2, hava geçirmez conta, düşük optik bozulma",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "Üst başta girişler, arkada çıkışlar; ek üst çıkış ile %70 daha fazla hava akışı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Shoei Comlink yuvası; SENA SRL3 ile uyumlu (ayrı satılır).",
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "glamster-06",
+    "brand": "shoei",
+    "name": "Glamster 06",
+    "subcategories": [
+      "kapali-kask",
+      "fiber-kask"
+    ],
+    "summary": "Shoei'nin Neo-Classic serisinden retro görünümlü tam kapalı kaskı. ECE 22.06 onaylı, yaklaşık 1.300 g ile hafif; neo-retro ve café racer motorlar için stil odaklı bir seçim.",
+    "description": [
+      "Glamster 06, Shoei'nin vintage görünümü modern güvenlikle birleştirdiği Neo-Classic serisinin tam kapalı modeli. AIM kabuk dört dış boyutla (XS-S, M, L, XL-XXL) üretiliyor ve kask oldukça kompakt. Üretici ağırlığı yaklaşık 1.300 g olarak veriyor; beden belirtmiyor. Yeni versiyon ECE 22.06 onayı aldı.",
+      "CPB-1V vizör üç pozisyonda ayarlanabiliyor. İçeride çoklu yoğunluklu EPS, 3D orta ped ve 31-47 mm arası beş farklı kalınlıkta yanak pedi var; tüm pedler çıkarılıp yıkanabiliyor. Double-D çene kilidi ve E.Q.R.S. acil durum sistemi standart.",
+      "Retro kasklarda sık görülen ödünleşimler burada da geçerli: iç güneş vizörü yok, havalandırma modern touring kasklar kadar güçlü değil ve kompakt göz açıklığı görüş alanını biraz daraltabilir. Pinlock uyumu ürün sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Neo-retro, café racer ya da scrambler motor kullananlar",
+      "Hafif ve kompakt tam kapalı kask arayanlar",
+      "Stil ile güvenliği birlikte isteyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü ve interkom yuvası isteyenler",
+      "Uzun otoban etaplarında sessizlik arayanlar",
+      "Kurye kullanımı: havalandırma ve donanım günlük yoğun işe göre sınırlı"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Yaklaşık 1.300 g ile hafif",
+      "Dört dış kabuk boyutu ile kompakt görünüm",
+      "Beş farklı kalınlıkta yanak pedi",
+      "E.Q.R.S. ve Double-D"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Havalandırma sınırlı",
+      "Pinlock uyumu üretici sayfasında belirtilmiyor",
+      "İnterkom yuvası ya da hazırlığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Hafif ve kompakt olduğu için şehirde rahat; güneş vizörü olmaması gündüz kullanımında vizör tercihini önemli kılar.",
+      "uzunYol": "Kısa ve orta mesafede rahat; uzun yolda havalandırma ve ses yalıtımı touring kasklarının gerisinde kalır.",
+      "otoban": "Yüksek hızda stabil ama sessizlik odaklı değil.",
+      "sport": "Klasik tasarım sportif sürüşten çok keyif sürüşüne yönelik.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Kompakt yapı nedeniyle gözlük uyumu kafa yapısına bağlı; denemek gerekir.",
+      "interkom": "Özel yuva yok; kompakt kabukta genel amaçlı interkom yerleşimi sınırlı olabilir.",
+      "kurye": "Kurye kullanımı için uygun değil: güneş vizörü yok, havalandırması sınırlı."
+    },
+    "verdict": "Glamster 06, retro görünümü Shoei kalitesi ve ECE 22.06 güvenliğiyle sunan, hafif ve kompakt bir kask. Neo-retro motor sahipleri için stil ve güvenlik dengesi iyi. İç güneş vizörü ve interkom gibi pratik donanımlar bekleyenler başka modellere bakmalı.",
+    "rivals": [
+      "arai/concept-xe",
+      "shoei/nxr2"
+    ],
+    "priceRange": {
+      "min": 29618,
+      "max": 31820.25,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/shoei-glamster-06-kask-mat-siyah-_59930.html",
+        "price": 29618,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-glamster06-kapali-kask-beyaz",
+        "price": 31820.25,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Glamster ile Glamster 06 arasındaki fark nedir?",
+        "a": "Shoei'ye göre Glamster 06, aynı neo-klasik tasarımın ECE 22.06 homologasyonlu versiyonu."
+      },
+      {
+        "q": "Glamster 06'da güneş vizörü var mı?",
+        "a": "Hayır. Kask tek vizörlü; CPB-1V vizörün şeffaf, açık füme ve koyu füme seçenekleri var."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/glamster/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/glamster/",
+        "type": "manufacturer",
+        "label": "Shoei Europe Glamster 06 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/shoei-glamster-06-kask-mat-siyah-_59930.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Shoei Glamster 06 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-glamster06-kapali-kask-beyaz",
+        "type": "retailer",
+        "label": "Motodium – Shoei Glamster 06 Beyaz",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Matt Black",
+      "Basalt Grey",
+      "Off White",
+      "Laguna Blue"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "AIM (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1300,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CPB-1V, 3 pozisyon ayarlı",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Alın ve çenede giriş, çıkış kanalları",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "hornet-adv-06",
+    "brand": "shoei",
+    "name": "Hornet ADV 06",
+    "subcategories": [
+      "adventure-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shoei'nin siperlikli adventure kaskının ECE 22.06 onaylı versiyonu. Asfalt ile toprak yol arasında gidip gelen sürücüye tam kapalı kask konforu ve arazi kaskı görüşü sunuyor.",
+    "description": [
+      "Hornet ADV 06, Shoei'nin çift amaçlı (on/off-road) kaskının ECE 22.06 homologasyonlu güncel sürümü. Kabuk AIM+ çoklu kompozit fiberden üretiliyor. Üretici farklı kabuk boyutları olduğunu söylüyor ancak sayısını ve ağırlığı bu modelin sayfasında vermiyor.",
+      "V-460 siperlik yüksek hızda kaldırmayı azaltacak şekilde tasarlanmış. CNS-2 vizör Pinlock'a hazır ve hızlı değiştirilebiliyor. Alın, üst baş ve çenede hava girişleri, arkada ve ensede altı çıkış var. Çoklu yoğunluklu EPS, 3D orta ped, dört kalınlıkta yanak pedi, kulak pedleri, E.Q.R.S. ve Double-D çene kilidi standart.",
+      "İç güneş vizörü yok; adventure kullanımda güneşe karşı siperlik ve füme vizör kombinasyonuna güvenmek gerekiyor. Çene açılır değil, bu yüzden duraklamalarda kaskı çıkarmak gerekir."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu karıştıran adventure motor sürücüleri",
+      "Arazi kaskı görüşünü vizör konforuyla isteyenler",
+      "Uzun turlarda havalandırmayı önemseyenler"
+    ],
+    "notFor": [
+      "Ağırlıklı otoban sürücüleri: siperlik yüksek hızda rüzgâr yükü yaratır",
+      "İç güneş vizörü isteyenler",
+      "Kurye kullanımı: siperlik ve fiyat şehir içi yoğun işe uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Pinlock'a hazır CNS-2 vizör",
+      "Kapsamlı havalandırma: 6 çıkış",
+      "E.Q.R.S., Double-D ve yıkanabilir pedler",
+      "İnterkom kurulumuna hazır"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Ağırlık ve kabuk sayısı üretici sayfasında belirtilmiyor",
+      "Siperlik otobanda rüzgâr yükü oluşturabilir",
+      "Türkiye'de güncel 06 versiyonu için yetkili satıcı fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama siperlik ve büyük hacim şehirde gereksiz; güneş vizörü yok.",
+      "uzunYol": "Havalandırma ve vizör uzun turda rahatlık sağlar; sessizlik touring kasklarının gerisinde kalabilir.",
+      "otoban": "Siperlik yüksek hızda kaldırmayı azaltacak şekilde tasarlanmış ama yine de düz kasklara göre rüzgâr yükü daha fazladır.",
+      "sport": "Sportif asfalt sürüşüne yönelik değil.",
+      "adventure": "Asıl kullanım alanı; siperlik, geniş görüş ve güçlü havalandırma toprak yolda işe yarar.",
+      "gozluk": "Vizörle kullanılır; gözlük sapları için özel kanal belirtilmiyor, denemek gerekir.",
+      "interkom": "İnterkom kurulumuna hazır; markaya özel entegre çözüm belirtilmiyor.",
+      "kurye": "Kurye kullanımı için uygun değil; siperlik ve yapı şehir içi yoğun işe göre fazlalık."
+    },
+    "verdict": "Hornet ADV 06, asfalt ve toprak yolu birlikte kullanan sürücüye Shoei kalitesinde güvenilir bir adventure kaskı sunuyor. ECE 22.06 güncellemesi kaskı güncel tutuyor. İç güneş vizörü yokluğu ve siperliğin otobandaki rüzgâr yükü bilinçli kabul edilmesi gereken ödünler.",
+    "rivals": [
+      "arai/tour-x5",
+      "schuberth/e2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hornet ADV ile Hornet ADV 06 farkı nedir?",
+        "a": "06 versiyonu ECE 22.06 homologasyonlu güncel sürüm; temel tasarım ve kullanım amacı aynı."
+      },
+      {
+        "q": "Siperlik çıkarılabiliyor mu?",
+        "a": "Shoei bu bilgiyi ürün sayfasında vermiyor; satın almadan önce kullanım kılavuzundan kontrol etmek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/hornet-adv-06/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/hornet-adv-06/",
+        "type": "manufacturer",
+        "label": "Shoei Europe Hornet ADV 06 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Matt Black",
+      "Matt Deep Grey",
+      "Chalk Grey"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "AIM+ (çoklu kompozit fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CNS-2, Pinlock'a hazır, buğu geciktirici; V-460 siperlik",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Alın, üst baş ve çenede girişler; arkada ve ensede 6 çıkış",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Üretici 'interkom kurulumuna hazır' diyor; özel yuva belirtilmiyor.",
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "vfx-wr-06",
+    "brand": "shoei",
+    "name": "VFX-WR 06",
+    "subcategories": [
+      "cross-kask",
+      "fiber-kask"
+    ],
+    "summary": "Shoei'nin profesyonel motokros/enduro kaskının ECE 22.06 onaylı versiyonu. Dönme enerjisini azaltan M.E.D.S. sistemi ve güçlü havalandırmayla arazi yarışçısına yönelik.",
+    "description": [
+      "VFX-WR 06, Shoei'nin üst seviye arazi kaskı. AIM+ kabuk dört dış boyutla (XS-S, M, L, XL-XXL) üretiliyor ve artık ECE 22.06 onaylı. Üretici bu modelin ağırlığını sayfasında vermiyor.",
+      "Öne çıkan özellik M.E.D.S. (Motion Energy Distribution System): ek bir EPS katmanı kaza anında dönme ivmesi enerjisini azaltmak için tasarlanmış. Üç parçalı çoklu yoğunluklu EPS, nefes alabilen 3D Max-Dry pedler, E.Q.R.S., Double-D çene kilidi ve çamurluk (mud guard) kutuda.",
+      "Bu bir cross kaskı: vizörü yok ve gözlükle (goggle) kullanılıyor. Asfaltta uzun mesafe, otoban ya da şehir içi kullanım için tasarlanmadı; siperlik yüksek hızda belirgin rüzgâr yükü yaratır."
+    ],
+    "forWho": [
+      "Motokros ve enduro sürücüleri",
+      "Arazide en yüksek havalandırma ve koruma teknolojisi isteyenler",
+      "Yarış ya da antrenman temposunda arazi sürüşü yapanlar"
+    ],
+    "notFor": [
+      "Asfalt, şehir ve otoban kullanıcıları",
+      "Vizörlü kask isteyenler",
+      "Kurye kullanımı: vizörsüz cross kaskı trafikte uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "M.E.D.S. dönme enerjisi azaltma sistemi",
+      "Dört dış kabuk boyutu",
+      "Nefes alabilen, yıkanabilir 3D Max-Dry pedler",
+      "Çamurluk kutuda, E.Q.R.S. standart"
+    ],
+    "cons": [
+      "Vizör yok, gözlük ayrıca alınmalı",
+      "Ağırlık üretici sayfasında belirtilmiyor",
+      "Asfaltta ve yüksek hızda kullanışsız",
+      "Türkiye'de yetkili satıcı fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Uygun değil; vizör yok ve siperlik şehir trafiğinde gereksiz.",
+      "uzunYol": "Asfalt uzun yol için tasarlanmadı.",
+      "otoban": "Uygun değil; siperlik ve açık göz bölgesi yüksek hızda rüzgâr yükü ve gürültü yaratır.",
+      "sport": "Asfalt sportif sürüşe değil, arazi yarışına yönelik.",
+      "adventure": "Ağır arazi odaklı adventure sürüşte kullanılabilir ama asfalt bölümlerde konforsuzdur; çift amaçlı kask daha dengeli.",
+      "gozluk": "Cross gözlüğüyle (goggle) kullanılır; numaralı gözlük için OTG tipi goggle gerekir.",
+      "interkom": "Üretici interkom hazırlığı belirtmiyor.",
+      "kurye": "Kurye kullanımı için uygun değil; vizörsüz arazi kaskıdır."
+    },
+    "verdict": "VFX-WR 06, motokros ve enduro için Shoei'nin en teknolojik kaskı; M.E.D.S. sistemi ve güçlü havalandırma ciddi arazi sürücüsüne hitap ediyor. Vizörsüz yapısı onu asfalt kullanımından tamamen ayırıyor. Asfaltla karışık kullanım için Hornet ADV 06 daha doğru tercih.",
+    "rivals": [
+      "arai/mx-v-evo"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "VFX-WR 06 vizörle kullanılabilir mi?",
+        "a": "Hayır, bu bir cross kaskı ve cross gözlüğüyle (goggle) kullanılıyor. Vizörlü çift amaçlı kask arıyorsan Hornet ADV 06'ya bakabilirsin."
+      },
+      {
+        "q": "M.E.D.S. nedir?",
+        "a": "Shoei'nin kaza anında dönme ivmesi enerjisini azaltmak için eklediği ek EPS katmanı sistemi."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/vfx-wr/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/vfx-wr/",
+        "type": "manufacturer",
+        "label": "Shoei Europe VFX-WR 06 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.visor",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "White",
+      "Matt Black",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cross",
+      "shellMaterial": "AIM+ (çoklu kompozit fiber)",
+      "materialClass": "fiber",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": null,
+      "pinlock": false,
+      "pinlockIncluded": null,
+      "sunVisor": false,
+      "ventilation": "Alın, üst baş ve çenede çok sayıda giriş; arkada ve ensede çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "j-o2",
+    "brand": "shoei",
+    "name": "J·O2",
+    "subcategories": [
+      "acik-kask",
+      "fiber-kask"
+    ],
+    "summary": "Shoei'nin retro tarzlı açık kaskı. Neredeyse görünmez entegre vizörü, 1.150 g ağırlığı ve ECE 22.06 onayıyla klasik motorlar ve sakin şehir sürüşü için.",
+    "description": [
+      "J·O2, Shoei'nin klasik görünümlü açık kaskının yeni nesli. AIM kabuk dört dış boyutla (XS-S, M, L, XL-XXL) üretiliyor ve üretici ağırlığı 1.150 g veriyor; beden belirtilmemiş. ECE 22.06 onaylı.",
+      "CJ-4 vizör kabuğa entegre ve kullanılmadığında neredeyse görünmüyor; üç pozisyonda ayarlanabiliyor. Opsiyonel V-480 siperlik ön çıtçıtlara takılıyor, arkada klasik gözlük kayışı var. Çoklu yoğunluklu EPS, Double-D çene kilidi ve dört kalınlıkta yanak pedi standart; tüm pedler yıkanabiliyor.",
+      "J·O2 bir stil kaskı: çene koruması yok, vizör kısa ve yüzün alt kısmını rüzgârdan korumuyor. Havalandırma ve interkom hazırlığı üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Klasik, café racer ve cruiser motor sahipleri",
+      "Şehir içinde düşük-orta hızda sürüş yapanlar",
+      "Hafif ve kompakt açık kask arayanlar"
+    ],
+    "notFor": [
+      "Çene koruması isteyenler",
+      "Otoban ve yüksek hız kullanımı",
+      "Kurye kullanımı: kısa vizör ve çene korumasızlığı yoğun trafik için uygun değil"
+    ],
+    "pros": [
+      "1.150 g ile çok hafif",
+      "ECE 22.06 onaylı",
+      "Kabuğa entegre, gizlenen vizör",
+      "Dört dış kabuk boyutu",
+      "Yıkanabilir pedler"
+    ],
+    "cons": [
+      "Çene koruması yok",
+      "Kısa vizör yüzün altını korumuyor",
+      "İnterkom hazırlığı belirtilmiyor",
+      "Siperlik opsiyonel, ayrıca alınıyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; hafif, kolay takılıp çıkarılıyor ve sakin şehir sürüşüne uygun.",
+      "uzunYol": "Uzun yolda rüzgâr ve ses yorucu olur; kısa turlar için uygun.",
+      "otoban": "Yüksek hızda uygun değil; kısa vizör ve açık yapı rüzgârı kesmez.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Açık yapı gözlükle kullanımı kolaylaştırır.",
+      "interkom": "Üretici interkom hazırlığı belirtmiyor; genel amaçlı küçük bir ünite takılabilir.",
+      "kurye": "Kurye kullanımı için uygun değil: çene koruması yok, yoğun trafikte koruma sınırlı."
+    },
+    "verdict": "J·O2, klasik motorlara yakışan, hafif ve ECE 22.06 onaylı bir açık kask; entegre vizörü günlük kullanımı kolaylaştırıyor. Çene koruması olmadığı ve yüksek hızda rüzgârı kesmediği unutulmamalı. Şehir ve keyif sürüşü dışında daha korunaklı bir kask gerekir.",
+    "rivals": [
+      "shoei/j-cruise-3",
+      "arai/sz-r-evo"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "J·O2'nin vizörü var mı?",
+        "a": "Evet, CJ-4 adlı kabuğa entegre bir vizör var; üç pozisyonda ayarlanıyor ve kullanılmadığında kabuğun içine gizleniyor."
+      },
+      {
+        "q": "Siperlik kaskla birlikte geliyor mu?",
+        "a": "Shoei V-480 siperliği opsiyonel olarak listeliyor; ayrıca satın alınması gerekiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shoei-europe.com/products/jo2/",
+    "sources": [
+      {
+        "url": "https://www.shoei-europe.com/products/jo2/",
+        "type": "manufacturer",
+        "label": "Shoei Europe J·O2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Matt Black",
+      "Matt Brown",
+      "British Green",
+      "Laguna Blue",
+      "Garnet Metallic",
+      "Basalt Grey",
+      "Matt Light Silver",
+      "Off White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "AIM (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1150,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "CJ-4 entegre vizör, 3 pozisyon; opsiyonel V-480 siperlik",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "quantic",
+    "brand": "arai",
+    "name": "Quantic",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Arai'nin uzun yol ve günlük kullanım için geliştirdiği tam kapalı kaskı. ECE 22.06 onaylı, el yapımı PB e-cLc kabuk, Pinlock lensi kutuda ve kapsamlı havalandırma sunuyor.",
+    "description": [
+      "Quantic, Arai'nin 'uzun mesafede yüksek hız konforu' olarak tanımladığı tam kapalı kaskı. Kabuk el yapımı PB e-cLc laminattan üretiliyor; Arai, orta katmanda yeni malzemeler kullanarak aynı dayanımı koruyup ciddi ağırlık azaltımı sağladığını söylüyor. Ancak gram cinsinden ağırlık açıklamıyor. Model ECE 22.06 onaylı; bedenler XS-XL.",
+      "Havalandırma 7 giriş ve 6 çıkıştan oluşan 13 porta dayanıyor. Öne çıkan detay, 3D Arai logo kanalı: düşük hızda bile hava akışını artırdığı belirtiliyor. 3 kademeli tek parça arka çıkış/spoyler Suzuka'da 300 km/s'e kadar test edilmiş. VAS-V Max Vision vizörle Pinlock lensi kutudan çıkıyor; tamamen sökülüp yıkanabilen iç, Facial Contour System, ERS acil durum yanak pedleri, nefes deflektörü ve çıkarılabilir çene perdesi var.",
+      "Arai'nin klasik yaklaşımı geçerli: iç güneş vizörü yok, yerine opsiyonel Pro Shade sistemi sunuluyor. Tabandaki 5 mm genişletilmiş açıklık kaskı takıp çıkarmayı kolaylaştırıyor ve interkom kurulumuna yer bırakılmış."
+    ],
+    "forWho": [
+      "Uzun yol ve günlük kullanım için tek, kaliteli bir tam kapalı kask isteyenler",
+      "Havalandırmayı ve el yapımı kabuğu önemseyenler",
+      "Dik ya da hafif öne eğik oturuşlu naked ve sport-touring motor sürücüleri"
+    ],
+    "notFor": [
+      "İç güneş vizörü şart olanlar",
+      "Bütçesi sınırlı olanlar ve kuryeler: fiyatı yoğun günlük kurye kullanımına göre yüksek"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Pinlock lensi kutuda",
+      "13 portlu kapsamlı havalandırma, düşük hızda da etkili logo kanalı",
+      "Tamamen sökülüp yıkanabilen iç, ERS acil durum pedleri",
+      "Nefes deflektörü ve çene perdesi kutuda",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "İç güneş vizörü yok (Pro Shade opsiyonel)",
+      "Üretici ağırlık açıklamıyor",
+      "Arai'nin dış kabuk boyutu sayısı bu model için belirtilmiyor",
+      "Fiyatı segmentin üst kısmında"
+    ],
+    "usage": {
+      "sehir": "Havalandırması düşük hızda da çalıştığı için şehirde rahat; güneş vizörü olmaması gündüz-gece geçişlerinde pratikliği azaltır.",
+      "uzunYol": "Asıl kullanım alanı; ventilasyon, iç konfor ve stabil spoyler uzun etaplara göre tasarlanmış.",
+      "otoban": "Arka spoyler ve sabit çene spoyleri yüksek hızda dengeyi artırmak için tasarlanmış.",
+      "sport": "Sportif sokak sürüşüne uygun; pist odaklı değilse RX-7V Evo'ya gerek kalmaz.",
+      "adventure": "Siperlik yok; asfalt ağırlıklı adventure turlarında kullanılabilir.",
+      "gozluk": "Arai gözlük kanalı belirtmiyor; değiştirilebilir 5 mm şakak pedi uyumu iyileştirebilir, denemek gerekir.",
+      "interkom": "İnterkom yerleşimi ve hoparlör cepleri var; genel amaçlı interkomlar takılabilir.",
+      "kurye": "Kurye kullanımı için ekonomik değil; iç güneş vizörü de yok."
+    },
+    "verdict": "Quantic, Arai'nin el yapımı kabuk kalitesini günlük ve uzun yol kullanımına taşıyan, havalandırması güçlü bir tam kapalı kask. Pinlock ve çene perdesinin kutudan çıkması artı. İç güneş vizörü isteyen ya da bütçe odaklı kullanıcı için doğru tercih değil.",
+    "rivals": [
+      "shoei/nxr2",
+      "schuberth/s3",
+      "shoei/gt-air-3"
+    ],
+    "priceRange": {
+      "min": 44690,
+      "max": 44690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-quantic-diamond-black-kapali-kask",
+        "price": 44690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Diamond Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-quantic-frost-black-kapali-kask",
+        "price": 44690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Frost Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quantic'te güneş vizörü var mı?",
+        "a": "Hayır. Arai iç güneş vizörü kullanmıyor; bunun yerine opsiyonel Pro Shade sistemi veya koyu vizör sunuyor."
+      },
+      {
+        "q": "Quantic'in ağırlığı ne kadar?",
+        "a": "Arai Europe ürün sayfasında ve föyünde gram cinsinden ağırlık vermiyor; sadece kabuğun önceki yapıya göre hafiflediğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.araihelmet.eu/en/collection/detail/quantic",
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/collection/detail/quantic",
+        "type": "manufacturer",
+        "label": "Arai Europe Quantic ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.araihelmet.eu/storage/uploads/collections/478/en/factsheet-quantic-2025-eng.pdf",
+        "type": "manufacturer",
+        "label": "Arai Europe quantic teknik bilgi föyü (PDF)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-quantic-diamond-black-kapali-kask",
+        "type": "retailer",
+        "label": "Mototaş – Arai Quantic Diamond Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-quantic-frost-black-kapali-kask",
+        "type": "retailer",
+        "label": "Mototaş – Arai Quantic Frost Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "PB e-cLc (çevresel kuşaklı kompleks laminat fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "VAS-V Max Vision; Pinlock lensi kutuda; Pro Shade sistemi opsiyonel",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "13 port: 7 giriş (3D Arai logo kanalı, çift üst giriş, kaş girişleri, 3 konumlu filtreli çene girişi), 6 çıkış",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Üretici 'interkom yerleşimi' ve hoparlör cepleri belirtiyor; markaya özel ünite yok.",
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "concept-xe",
+    "brand": "arai",
+    "name": "Concept-XE",
+    "subcategories": [
+      "kapali-kask",
+      "fiber-kask"
+    ],
+    "summary": "Arai'nin 80'ler esintili neo-retro tam kapalı kaskı. Sade dış hat altında gizli havalandırma, ECE 22.06 onayı ve Pinlock lensiyle stil odaklı ama işlevini kaybetmeyen bir model.",
+    "description": [
+      "Concept-XE, Arai'nin retro ve streetfighter tarzını modern güvenlikle birleştiren tam kapalı kaskı. Kabuk el yapımı PB e-cLc laminattan; Arai orta katmandaki yeni malzemeyle aynı dayanımda önemli bir ağırlık azaltımı bildiriyor ama gram değeri vermiyor. ECE 22.06 onaylı, bedenler XS-XL.",
+      "Dış görünüşü sade tutmak için havalandırma içeride çözülmüş: kaş girişlerinden alınan hava EPS içindeki gizli kanallardan geçip üst kısımdaki üç delikten, yan çıkışlar ve ense havalandırmasının oluşturduğu vakumla dışarı atılıyor. VAS-V Max Vision vizörle Pinlock lensi kutuda; ERS, nefes deflektörü, sabit çene örtüsü ve tamamen sökülebilir antimikrobiyal iç standart.",
+      "Retro tasarımın bedeli olarak havalandırma Quantic kadar güçlü değil, iç güneş vizörü yok ve üretici interkom yerleşiminden söz etmiyor; yalnızca hoparlör cepleri var."
+    ],
+    "forWho": [
+      "Neo-retro, naked ve café racer motor sahipleri",
+      "Sade görünümlü ama Arai güvenliği isteyenler",
+      "Şehir ve hafta sonu sürüşleri yapanlar"
+    ],
+    "notFor": [
+      "İç güneş vizörü ve güçlü havalandırma arayanlar",
+      "Kurye kullanımı: fiyatı ve donanımı yoğun günlük işe uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Pinlock lensi kutuda",
+      "Gizli iç havalandırma ile temiz retro görünüm",
+      "ERS acil durum pedleri ve sökülebilir iç",
+      "Nefes deflektörü standart"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Havalandırma modern touring kasklarına göre sınırlı",
+      "İnterkom yerleşimi belirtilmiyor, yalnızca hoparlör cepleri var",
+      "Ağırlık açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Şehirde stil ve konfor sunar; güneş vizörü olmadığı için vizör seçimi önemli.",
+      "uzunYol": "Orta mesafelerde rahat; uzun ve sıcak etaplarda havalandırma sınırlı kalabilir.",
+      "otoban": "Sabit çene spoyleri ile yüksek hızda stabil; sessizlik odaklı değil.",
+      "sport": "Naked motorla tempolu sürüşe uygun; pist kaskı değil.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Arai gözlük kanalı belirtmiyor; ince orta ped ön bölümde ek alan sağlıyor, yine de denemek gerekir.",
+      "interkom": "Hoparlör cepleri var; özel interkom yerleşimi belirtilmiyor.",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı yüksek ve güneş vizörü yok."
+    },
+    "verdict": "Concept-XE, retro çizgiyi seven ama güvenlikten ödün vermek istemeyen sürücü için Arai kalitesinde bir seçim. Gizli havalandırma görünümü temiz tutuyor, ancak sıcak havada Quantic kadar serinletmiyor. İç güneş vizörü ve interkom entegrasyonu bekleyenler başka modellere bakmalı.",
+    "rivals": [
+      "shoei/glamster-06",
+      "arai/quantic"
+    ],
+    "priceRange": {
+      "min": 43690,
+      "max": 54490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Düz renk ve grafikli fiyatlar farklı."
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kaskconcept-xe-modern-grey-xs-28222",
+        "price": 43690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Modern Grey"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kaskconcept-xe-react-blue-m-28436",
+        "price": 54490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "React Blue"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Concept-XE ile Concept-X farkı nedir?",
+        "a": "Concept-XE güncel ECE 22.06 onaylı versiyon; PB e-cLc kabuk ve VAS-V vizör sistemiyle geliyor."
+      },
+      {
+        "q": "Concept-XE'de Pinlock var mı?",
+        "a": "Evet, VAS-V Max Vision vizörle birlikte şeffaf Pinlock lensi kutudan çıkıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.araihelmet.eu/en/collection/detail/concept-xe",
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/collection/detail/concept-xe",
+        "type": "manufacturer",
+        "label": "Arai Europe Concept-XE ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.araihelmet.eu/storage/uploads/collections/484/en/factsheet-concept-xe-2025-eng.pdf",
+        "type": "manufacturer",
+        "label": "Arai Europe concept-xe teknik bilgi föyü (PDF)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kaskconcept-xe-modern-grey-xs-28222",
+        "type": "retailer",
+        "label": "Mototaş – Arai Concept-XE Modern Grey",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kaskconcept-xe-react-blue-m-28436",
+        "type": "retailer",
+        "label": "Mototaş – Arai Concept-XE React Blue",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "PB e-cLc (çevresel kuşaklı kompleks laminat fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "VAS-V Max Vision; Pinlock lensi kutuda; Pro Shade opsiyonel",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "Gizli çok kademeli iç hava kanalı; kaş girişleri, iç çene havalandırma kapağı, ense ve yan çıkışlar",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "tour-x5",
+    "brand": "arai",
+    "name": "Tour-X5",
+    "subcategories": [
+      "adventure-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Arai'nin siperlikli adventure kaskının ECE 22.06 onaylı yeni nesli. Siperlik, vizör ve gözlük kombinasyonlarıyla asfalttan toprak yola uzanan turlar için.",
+    "description": [
+      "Tour-X5, uzun süre satılan Tour-X4'ün yerini alan, ECE 22.06 onaylı adventure kaskı. PB-cLc2 kabuk, göz açıklığı üzerinde konumlanan kuşakla daha ince EPS kullanımına ve daha geniş yukarı görüşe olanak tanıyor. Bedenler XS-XL; Arai ağırlık açıklamıyor.",
+      "Yeni VAS-A vizör sistemi aletsiz değiştiriliyor ve vizörle Pinlock lensi kutudan çıkıyor. Siperlik her iki yanda tek vidayla sökülüp takılıyor; havayı alın girişlerine yönlendirirken yüksek hızda kaldırmayı azaltacak boşluklar içeriyor. Havalandırma 3 giriş ve 5 çıkıştan oluşuyor; 3D logo kanalı, çene içi kapak ve spoyler işlevli arka çıkış var. İç tamamen sökülebiliyor, ERS acil durum pedleri ve interkom yerleşimi standart.",
+      "İç güneş vizörü yok ve çene açılır değil. Siperlikli yapı otobanda rüzgâr yükü oluşturabiliyor; uzun asfalt etaplarında bazı sürücüler siperliği söküp kullanmayı tercih ediyor."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu birlikte kullanan adventure sürücüleri",
+      "Uzun turlarda siperlik, vizör ve gözlük seçeneklerini esnek kullanmak isteyenler",
+      "Geniş görüş alanını önemseyenler"
+    ],
+    "notFor": [
+      "Ağırlıklı otoban ve şehir kullanıcıları",
+      "İç güneş vizörü isteyenler",
+      "Kurye kullanımı: siperlik ve fiyat yoğun şehir işine uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Aletsiz değişen VAS-A vizör, Pinlock lensi kutuda",
+      "Tek vidayla sökülen siperlik",
+      "Geniş görüş alanı",
+      "ERS ve tamamen yıkanabilir iç",
+      "İnterkom yerleşimi ve kablo cebi"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Ağırlık açıklanmıyor",
+      "Siperlik yüksek hızda rüzgâr yükü yaratabilir",
+      "Grafikli versiyonlarda fiyat çok yükseliyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama siperlik ve hacim şehirde fazla; güneş vizörü yok.",
+      "uzunYol": "Uzun adventure turları için tasarlanmış; geniş görüş ve iç konfor öne çıkıyor.",
+      "otoban": "Siperlik takılıyken rüzgâr yükü hissedilir; siperlik sökülerek tam kapalı kask gibi kullanılabilir.",
+      "sport": "Sportif asfalt sürüşüne yönelik değil.",
+      "adventure": "Asıl kullanım alanı; siperlik, vizör ve gözlük kombinasyonları arazide esneklik sağlar.",
+      "gozluk": "Geniş göz açıklığı gözlük ve cross gözlüğüyle kullanımı kolaylaştırır; numaralı gözlük uyumu için denemek gerekir.",
+      "interkom": "İnterkom yerleşimi, hoparlör cepleri ve ense kablo cebi var.",
+      "kurye": "Kurye kullanımı için uygun değil; siperlikli yapı ve fiyatı şehir içi yoğun işe göre fazla."
+    },
+    "verdict": "Tour-X5, adventure kaskı arayan ve Arai'nin kabuk kalitesine güvenen sürücü için olgun bir seçenek; aletsiz vizör değişimi ve sökülebilir siperlik pratiklik sağlıyor. İç güneş vizörü yok ve fiyatı yüksek. Ağırlıklı asfalt kullanıcıları için tam kapalı bir touring kaskı daha mantıklı olabilir.",
+    "rivals": [
+      "shoei/hornet-adv-06",
+      "schuberth/e2"
+    ],
+    "priceRange": {
+      "min": 62990,
+      "max": 62990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Doğrulanan tek teklif grafikli versiyona ait; düz renkler daha uygun olabilir."
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kasktour-x5-cosmic-fluor-yellow-m-28434",
+        "price": 62990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Cosmic Fluor Yellow"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tour-X5'in siperliği çıkarılabiliyor mu?",
+        "a": "Evet. Arai'ye göre siperlik her iki yanda tek vidayla sökülüp takılıyor."
+      },
+      {
+        "q": "Tour-X5 cross gözlüğüyle kullanılabilir mi?",
+        "a": "Adventure kasklar vizör kaldırılarak gözlükle kullanılabilecek şekilde tasarlanır; Arai Tour-X5 için vizörsüz kullanım seçeneğini kullanım kılavuzunda tarif ediyor. Satın almadan önce gözlüğünle denemeni öneririz."
+      }
+    ],
+    "manufacturerUrl": "https://www.araihelmet.eu/en/collection/detail/tour-x5",
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/collection/detail/tour-x5",
+        "type": "manufacturer",
+        "label": "Arai Europe Tour-X5 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.araihelmet.eu/storage/uploads/collections/487/en/factsheet-tour-x5-2025-eng.pdf",
+        "type": "manufacturer",
+        "label": "Arai Europe tour-x5 teknik bilgi föyü (PDF)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kasktour-x5-cosmic-fluor-yellow-m-28434",
+        "type": "retailer",
+        "label": "Mototaş – Arai Tour-X5 Cosmic Fluor Yellow",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "PB-cLc2 (çevresel kuşaklı kompleks laminat fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "VAS-A Max Vision; aletsiz değişim; Pinlock lensi kutuda; siperlikli",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "3 giriş (3D logo kanalı, üst giriş, 3 konumlu çene girişi), 5 çıkış; iç çene kapağı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Üretici 'interkom yerleşimi', hoparlör cepleri ve ense kablo cebi belirtiyor.",
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "sz-r-evo",
+    "brand": "arai",
+    "name": "SZ-R Evo",
+    "subcategories": [
+      "acik-kask",
+      "fiber-kask"
+    ],
+    "summary": "Arai'nin premium açık (jet) kaskı. RX-7V Evo'dan gelen difüzörler, Air Wing, Pinlock lensi ve gözlük yuvasıyla şehir ve touring için ECE 22.06 onaylı bir model.",
+    "description": [
+      "SZ-R Evo, Arai'nin tam vizörlü açık kaskı. PB-cLc2 kabuk ve tek parça çoklu yoğunluklu EPS (1PMDL) kullanıyor; Arai bu EPS'nin her kabuk ve kafa bedenine göre ayrı ayarlandığını belirtiyor. ECE 22.06 onaylı, bedenler XS-XL; ağırlık açıklanmıyor.",
+      "Havalandırmada RX-7V Evo'dan esinlenen difüzörler ve sabit Air Wing birlikte çalışıyor; giriş verimliliğinin önceki modellere göre %19 arttığı belirtiliyor. Girişler kapalı, yarım ve tam açık olarak ayarlanıyor. Vizörle Pinlock lensi kutuda; suya dayanıklı katmanlı kulak pedleri, çıkarılabilir gözlük yuvası ve antimikrobiyal sökülebilir iç standart.",
+      "Açık kask olduğu için çene koruması yok. İç güneş vizörü yerine opsiyonel Pro Shade sistemi var. Üretici özel interkom yerleşimi belirtmiyor, yalnızca hoparlör cepleri listeleniyor."
+    ],
+    "forWho": [
+      "Şehir içi ve scooter kullanıcıları",
+      "Açık kask rahatlığını kaliteli bir kabukla isteyenler",
+      "Gözlük kullanan sürücüler"
+    ],
+    "notFor": [
+      "Çene koruması isteyenler",
+      "Yüksek hızda uzun otoban kullanıcıları",
+      "Kurye kullanımı: fiyatı yüksek ve çene koruması yok"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Pinlock lensi kutuda",
+      "Gözlük yuvası ve suya dayanıklı kulak pedleri",
+      "Difüzör ve Air Wing ile verimli havalandırma",
+      "Sökülebilir, yıkanabilir iç"
+    ],
+    "cons": [
+      "Çene koruması yok",
+      "İç güneş vizörü yok (Pro Shade opsiyonel)",
+      "İnterkom yerleşimi belirtilmiyor",
+      "Açık kask için fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; hafif his, iyi havalandırma ve kolay takılıp çıkarılma şehirde rahat.",
+      "uzunYol": "Rahat tempoda tur yapılabilir; yüz alt kısmı rüzgâra açık kaldığı için uzun etaplarda yorabilir.",
+      "otoban": "Yüksek hızda tam kapalı kask kadar korunaklı ve sessiz değil.",
+      "sport": "Sportif sürüşe uygun değil; çene koruması yok.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Çıkarılabilir gözlük yuvası gözlük kullanıcıları için iyi bir detay.",
+      "interkom": "Hoparlör cepleri var; genel amaçlı bir interkom takılabilir.",
+      "kurye": "Kurye kullanımı için uygun değil: çene koruması yok ve fiyatı yüksek."
+    },
+    "verdict": "SZ-R Evo, açık kask segmentinde Arai'nin kabuk ve iç kalitesini sunan, gözlük kullanıcılarını düşünen bir model. Pinlock lensinin kutudan çıkması artı. Çene koruması olmaması ve iç güneş vizörü bulunmaması bilinçli kabul edilmesi gereken ödünler.",
+    "rivals": [
+      "shoei/j-cruise-3",
+      "schuberth/j2",
+      "shoei/j-o2"
+    ],
+    "priceRange": {
+      "min": 45390,
+      "max": 45390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kasksz-r-evo-diamond-black__s31595",
+        "price": 45390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Diamond Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kasksz-r-evo-frost-black_s-31596",
+        "price": 45390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Frost Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SZ-R Evo'da güneş vizörü var mı?",
+        "a": "Hayır. Arai iç güneş vizörü kullanmıyor; opsiyonel Pro Shade sistemi veya koyu vizör kullanılabilir."
+      },
+      {
+        "q": "Gözlükle kullanılabilir mi?",
+        "a": "Evet. Arai, iç pedlerde çıkarılabilir bir gözlük yuvası olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.araihelmet.eu/en/collection/detail/sz-r-evo",
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/collection/detail/sz-r-evo",
+        "type": "manufacturer",
+        "label": "Arai Europe SZ-R Evo ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.araihelmet.eu/storage/uploads/collections/488/en/factsheet-sz-r-evo-2025-eng.pdf",
+        "type": "manufacturer",
+        "label": "Arai Europe sz-r-evo teknik bilgi föyü (PDF)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kasksz-r-evo-diamond-black__s31595",
+        "type": "retailer",
+        "label": "Mototaş – Arai SZ-R Evo Diamond Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kasksz-r-evo-frost-black_s-31596",
+        "type": "retailer",
+        "label": "Mototaş – Arai SZ-R Evo Frost Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "PB-cLc2 (çevresel kuşaklı kompleks laminat fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "VAS-Z vizör; Pinlock lensi kutuda; Pro Shade opsiyonel",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": null,
+      "ventilation": "Üst merkez giriş, difüzör sistemi, kaş girişleri; ense ve yan çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "mx-v-evo",
+    "brand": "arai",
+    "name": "MX-V Evo",
+    "subcategories": [
+      "cross-kask",
+      "fiber-kask"
+    ],
+    "summary": "Arai'nin motokros ve enduro kaskı. ECE 22.06 onaylı, Dry-Cool iç, paslanmaz çelik ağızlık filtresi ve gözlük kayışını sabitleyen tasarımla ciddi arazi sürücüsüne yönelik.",
+    "description": [
+      "MX-V Evo, Arai'nin arazi kaskı. PB-cLc2 kabuk, göz açıklığı üzerindeki kuşakla daha ince EPS ve daha geniş yukarı görüş sağlıyor. ECE 22.06 onaylı, bedenler XS-XL; ağırlık açıklanmıyor.",
+      "Havalandırmada temizlenmesi kolay difüzörler, üst merkez giriş ve siperlik altı girişler var; iç çene kapağı tozlu ortamda içeri toz girmesini engelliyor. Ağız bölgesindeki tek parça paslanmaz çelik filtre taş ve çamura karşı dayanıklı ve sökülüp temizlenebiliyor. Dry-Cool iç, nem ve ısıyı hızla uzaklaştırmak için tasarlanmış; ERS acil durum pedleri ve nefes deflektörü standart.",
+      "Vizörsüz bir cross kaskı; cross gözlüğüyle kullanılıyor. Asfaltta, şehirde ve yüksek hızda kullanım için tasarlanmadı."
+    ],
+    "forWho": [
+      "Motokros ve enduro sürücüleri",
+      "Tozlu ve çamurlu ortamda dayanıklı detaylar arayanlar",
+      "Arai kabuk kalitesini arazide isteyenler"
+    ],
+    "notFor": [
+      "Asfalt, şehir ve otoban kullanıcıları",
+      "Vizörlü kask isteyenler",
+      "Kurye kullanımı: vizörsüz arazi kaskı trafikte uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Sökülebilir paslanmaz çelik ağız filtresi",
+      "Gözlük kayışını sabitleyen göz açıklığı tasarımı",
+      "Dry-Cool nem uzaklaştıran iç",
+      "ERS acil durum pedleri"
+    ],
+    "cons": [
+      "Vizör yok, gözlük ayrıca alınmalı",
+      "Ağırlık açıklanmıyor",
+      "Asfaltta kullanışsız",
+      "Türkiye'de yetkili satıcı fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Uygun değil; vizör yok.",
+      "uzunYol": "Asfalt uzun yol için tasarlanmadı.",
+      "otoban": "Uygun değil; siperlik ve açık göz bölgesi yüksek hızda rüzgâr yükü ve gürültü yaratır.",
+      "sport": "Asfalt sportif sürüşe değil, arazi sürüşüne yönelik.",
+      "adventure": "Ağır arazi bölümlerinde iş görür ama asfalt bölümler için çift amaçlı Tour-X5 daha dengeli.",
+      "gozluk": "Cross gözlüğüyle kullanılır; numaralı gözlük için OTG tipi goggle gerekir.",
+      "interkom": "Hoparlör cepleri var; arazi interkomu takılabilir.",
+      "kurye": "Kurye kullanımı için uygun değil; vizörsüz arazi kaskıdır."
+    },
+    "verdict": "MX-V Evo, motokros ve enduroda Arai'nin dayanıklı kabuk ve detay anlayışını sunuyor; çelik ağız filtresi ve gözlük kayışı tasarımı pratikte işe yarayan detaylar. Asfalt kullanımı için uygun değil. Asfaltla karışık sürüş yapanlar Tour-X5'e bakmalı.",
+    "rivals": [
+      "shoei/vfx-wr-06",
+      "arai/tour-x5"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "MX-V Evo vizörle kullanılabilir mi?",
+        "a": "Hayır, bu bir cross kaskı ve cross gözlüğüyle kullanılıyor. Vizörlü çift amaçlı kask için Tour-X5'e bakabilirsin."
+      },
+      {
+        "q": "Ağız filtresi sökülebiliyor mu?",
+        "a": "Evet. Arai, tek parça paslanmaz çelik ağız filtresinin çıkarılıp kolayca temizlenebildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.araihelmet.eu/en/collection/detail/mx-v-evo",
+    "sources": [
+      {
+        "url": "https://www.araihelmet.eu/en/collection/detail/mx-v-evo",
+        "type": "manufacturer",
+        "label": "Arai Europe MX-V Evo ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.araihelmet.eu/storage/uploads/collections/489/en/factsheet-mx-v-evo-2025-eng.pdf",
+        "type": "manufacturer",
+        "label": "Arai Europe mx-v-evo teknik bilgi föyü (PDF)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.visor",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cross",
+      "shellMaterial": "PB-cLc2 (çevresel kuşaklı kompleks laminat fiber)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": null,
+      "pinlock": false,
+      "pinlockIncluded": null,
+      "sunVisor": false,
+      "ventilation": "Üst merkez giriş, siperlik altı girişler, iç çene kapağı; çıkarılabilir 3 parçalı arka çıkış, yan çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "s3",
+    "brand": "schuberth",
+    "name": "S3",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Schuberth'in ECE 22.06 onaylı sport-touring tam kapalı kaskı. 100 km/s'te 85 dB(A) sessizlik, iç güneş vizörü ve önceden kablolanmış interkom altyapısıyla uzun yol odaklı.",
+    "description": [
+      "S3, Schuberth'in ECE 22.06 onaylı ilk tam kapalı kaskı. Kabuk DFP (Direct Fibre Processing) cam elyafından, karbon fiber takviyeli olarak üretiliyor ve iki dış boyutla geliyor: XS-L ve XL-XXXL. Üretici ağırlığı XS-S için 1.490 g, M-L için 1.510 g, XL ve üstü için 1.690 g olarak veriyor (aksesuarlarla yaklaşık 130 g daha fazla).",
+      "Schuberth, rüzgâr tünelindeki çalışmalar sonucu naked motorda 100 km/s'te 85 dB(A) ses seviyesi bildiriyor. İç güneş vizörü, Pinlock 120 lensi takılı vizör, filtreli çift çene girişi ve hava çıkışlı arka spoyler var. S.R.S. (Schuberth Rescue System) ile kurtarma ekipleri yanak pedlerini çekerek çıkarabiliyor. SCHUBERTH INDIVIDUAL programıyla farklı kalınlıkta pedler sipariş edilebiliyor.",
+      "Hoparlörler ve antenler kaskta hazır; ancak SC2 ya da SC EDGE ünitesi ayrıca satın alınıyor. Üretici çene kilidinin tipini ve garanti süresini bu sayfada belirtmiyor."
+    ],
+    "forWho": [
+      "Uzun yolda sessizlik ve konfor arayan sport-touring sürücüleri",
+      "Tak-çalıştır interkom entegrasyonu isteyenler",
+      "Naked ve sport-touring motor kullananlar"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar ve kuryeler: interkomla birlikte toplam maliyet yüksek",
+      "Pist odaklı sürücüler"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "85 dB(A) @ 100 km/s ile sessiz",
+      "İç güneş vizörü ve takılı Pinlock 120",
+      "Önceden kablolanmış SC2/SC EDGE altyapısı",
+      "S.R.S. kurtarma sistemi",
+      "Kişiye özel ped programı"
+    ],
+    "cons": [
+      "İnterkom ünitesi ayrı satılıyor",
+      "Sadece iki dış kabuk boyutu",
+      "XL ve üstünde ağırlık 1.690 g'a çıkıyor",
+      "Çene kilidi tipi ve garanti süresi üretici sayfasında belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü ve City Position vizör ayarı şehirde pratik; ağırlığı kısa yolda sorun olmaz.",
+      "uzunYol": "Asıl kullanım alanı; sessizlik, güneş vizörü ve interkom altyapısı uzun etaplara göre kurgulanmış.",
+      "otoban": "Rüzgâr tünelinde optimize edilen kabuk ve spoyler yüksek hızda sessizlik ve denge için tasarlanmış.",
+      "sport": "Sportif sokak sürüşüne uygun; pist kaskı değil.",
+      "adventure": "Siperlik yok; asfalt ağırlıklı adventure turlarında kullanılabilir.",
+      "gozluk": "Üretici gözlük kanalı belirtmiyor; kişiye özel ped programı uyumu iyileştirebilir, denemek gerekir.",
+      "interkom": "Hoparlör ve antenler kaskta hazır; SC2, SC2 Standard veya SC EDGE takılıp kullanılıyor.",
+      "kurye": "Güneş vizörü pratik ama interkomla birlikte maliyeti yüksek; ekonomik bir kurye tercihi değil."
+    },
+    "verdict": "S3, sessizlik ve interkom entegrasyonunu önemseyen sport-touring sürücüsü için güçlü bir seçenek; iç güneş vizörü ve takılı Pinlock ile kutudan çıktığı gibi kullanıma hazır. İnterkom ünitesi ayrı satıldığı için toplam maliyet yükselir. Sadece iki kabuk boyutu olması küçük bedenlerde hacmi artırabilir.",
+    "rivals": [
+      "shoei/gt-air-3",
+      "arai/quantic",
+      "shoei/nxr2"
+    ],
+    "priceRange": {
+      "min": 36765,
+      "max": 36765,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/schuberth-s3-matt-black-kapali-motosiklet-kaski",
+        "price": 36765,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Matt Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "S3 ile hangi interkom kullanılır?",
+        "a": "Schuberth S3'ü SC2, SC2 Standard ve SC EDGE ile uyumlu olarak listeliyor; hoparlör ve antenler kaskta önceden kurulu, ünite ayrı satılıyor."
+      },
+      {
+        "q": "S3 ne kadar sessiz?",
+        "a": "Schuberth, naked bir motorda 100 km/s'te 85 dB(A) ölçtüğünü belirtiyor. Gerçek ses seviyesi motorun ön camına ve sürüş pozisyonuna göre değişir."
+      },
+      {
+        "q": "S3'ün ağırlığı ne kadar?",
+        "a": "Üreticiye göre M-L (57/59) bedende 1.510 g; XS-S'de 1.490 g, XL ve üzerinde 1.690 g."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/s3",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/s3",
+        "type": "manufacturer",
+        "label": "Schuberth S3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/schuberth-s3-matt-black-kapali-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Ars Motor – Schuberth S3 Matt Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.retention",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Glossy White",
+      "Matt Black",
+      "Concrete Grey",
+      "Spark White",
+      "Spark Blue",
+      "Spark Grey",
+      "Thunder Blue",
+      "Thunder Grey",
+      "Thunder White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "DFP cam elyafı, karbon fiber takviyeli",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1510,
+      "weightSize": "M-L (57/59)",
+      "headShape": null,
+      "visor": "Şeffaf vizör, Pinlock 120 buğu önleyici lens takılı; City Position",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çift çene girişi (değiştirilebilir filtre), ayarlı üst girişler, arka spoylerde hava çıkışı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör, Mesh/BT/FM antenleri ve mikrofon önceden kurulu; SC2, SC2 Standard ve SC EDGE tak-çalıştır (ayrı satılır).",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "e2",
+    "brand": "schuberth",
+    "name": "E2",
+    "subcategories": [
+      "adventure-kask",
+      "cene-acilir-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Schuberth'in çene açılır adventure kaskı. P/J çift onay, ECE 22.06, sökülebilir 3 konumlu siperlik, iç güneş vizörü ve hazır interkom altyapısıyla uzun adventure turları için.",
+    "description": [
+      "E2, Schuberth'in adventure kask serisinin ikinci nesli: C serisinin çene açılır konforunu arazi kaskı görünümüyle birleştiriyor. Kabuk karbon takviyeli DFP cam elyafı, iki dış boyutla (XS-L, XL-XXXL). ECE 22.06 ve P/J çift onaylı, yani çene açıkken de onaylı kullanım mümkün. Ağırlık M-L bedende 1.720 g, XS-S'de 1.700 g, XL-XXL'de 1.900 g.",
+      "Rüzgâr tünelinde geliştirilen siperlik üç konuma ayarlanıyor ve kolayca sökülebiliyor; hafıza fonksiyonu sayesinde çene açılıp kapansa da siperlik ve vizör seçilen konumda kalıyor. Filtreli çift çene girişi, iki konumlu üst giriş ve hava çıkışlı büyük arka spoyler var. İç güneş vizörü, rüzgâr deflektörü ve enseliğinde yansıtıcı alanlar mevcut. Hoparlör ve antenler kaskta hazır; SC2 veya SC EDGE ayrıca alınıyor.",
+      "Bu donanımın bedeli ağırlık: 1,7-1,9 kg ile hafif kasklar arasında değil. Pinlock lensinin kutuda olup olmadığı ve acil durum ped sistemi E2'nin teknik listesinde belirtilmiyor."
+    ],
+    "forWho": [
+      "Uzun adventure turları yapan ve çene açılır pratiklik isteyenler",
+      "Interkomu kaskla temiz entegre etmek isteyenler",
+      "Siperliği duruma göre takıp çıkarmak isteyen sürücüler"
+    ],
+    "notFor": [
+      "Hafif kask önceliği olanlar",
+      "Ağır arazi ve enduro kullanımı",
+      "Kurye kullanımı: ağırlığı ve fiyatı yoğun günlük işe uygun değil"
+    ],
+    "pros": [
+      "ECE 22.06 ve P/J çift onay",
+      "Sökülebilir, 3 konumlu, hafızalı siperlik",
+      "İç güneş vizörü",
+      "Önceden kablolanmış SC2/SC EDGE altyapısı",
+      "Filtreli çift çene girişi"
+    ],
+    "cons": [
+      "1.700-1.910 g ile ağır",
+      "İnterkom ünitesi ayrı satılıyor",
+      "Sadece iki dış kabuk boyutu",
+      "Pinlock ve acil durum ped bilgisi teknik listede yok"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı ve güneş vizörü şehirde pratik; siperlik sökülerek daha kompakt kullanılabilir.",
+      "uzunYol": "Asıl kullanım alanı; güneş vizörü, interkom altyapısı ve çene açılır yapı uzun turda rahatlık sağlar.",
+      "otoban": "Siperlik takılıyken rüzgâr yükü hissedilebilir; siperlik sökülünce touring kask gibi kullanılır.",
+      "sport": "Sportif sürüşe yönelik değil.",
+      "adventure": "Toprak yol ve hafif arazi bölümleri olan turlar için tasarlanmış; ağır enduro için değil.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Hoparlör ve antenler hazır; SC2 veya SC EDGE takılıp kullanılır.",
+      "kurye": "Çene açılır yapı teslimatta pratik ama ağırlığı ve fiyatı kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "E2, çene açılır pratikliği adventure görünümüyle birleştiren, interkom altyapısı hazır ve donanımlı bir kask; uzun adventure turlarında rahatlık sağlıyor. Ağırlığı ve interkomla birlikte toplam maliyeti dikkate alınmalı. Hafiflik isteyenler E2 Carbon'a bakabilir.",
+    "rivals": [
+      "arai/tour-x5",
+      "shoei/hornet-adv-06",
+      "schuberth/e2-carbon"
+    ],
+    "priceRange": {
+      "min": 44175,
+      "max": 48446.65,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/schuberth-e2-matt-black-cene-acilir-siperlikli-motosiklet-kaski",
+        "price": 44175,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Matt Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/schuberth-e2-cene-acilir-motosiklet-kaski-trail-green-_60030.html",
+        "price": 48446.65,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Trail Green"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "E2 çene açıkken sürülebilir mi?",
+        "a": "Evet. E2 P/J çift onaylı; çene açık konumda da onaylı kullanım mümkün. Yüksek hızda çene kapalı sürmek yine de daha güvenli."
+      },
+      {
+        "q": "E2'nin siperliği çıkarılabiliyor mu?",
+        "a": "Evet. Schuberth siperliğin üç konuma ayarlanabildiğini ve kolayca sökülebildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/e2",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/e2",
+        "type": "manufacturer",
+        "label": "Schuberth E2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/schuberth-e2-matt-black-cene-acilir-siperlikli-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Ars Motor – Schuberth E2 Matt Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/schuberth-e2-cene-acilir-motosiklet-kaski-trail-green-_60030.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Schuberth E2 Trail Green",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Glossy White",
+      "Matt Black",
+      "Concrete Grey",
+      "Expedition Blue",
+      "Expedition Grey",
+      "Expedition Green",
+      "Trail Blue",
+      "Trail Grey",
+      "Trail Green",
+      "Trail Yellow"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "DFP cam elyafı, karbon fiber takviyeli",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1720,
+      "weightSize": "M-L (57/59)",
+      "headShape": null,
+      "visor": "Hafızalı vizör mekanizması, City Position; 3 konumlu sökülebilir siperlik",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "Çift çene girişi (değiştirilebilir filtre), 2 konumlu üst giriş, büyütülmüş arka spoylerde hava çıkışı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör ve antenler önceden kurulu; SC2, SC2 Standard ve SC EDGE tak-çalıştır (ayrı satılır). P/J çift onay.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "j2",
+    "brand": "schuberth",
+    "name": "J2",
+    "subcategories": [
+      "acik-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Schuberth'in premium açık (jet) kaskı. ECE 22.06 onayı, çıkarılabilir çene koruması, 100 km/s'te 88 dB(A) ve hazır interkom altyapısıyla şehir ve touring için.",
+    "description": [
+      "J2, Schuberth'in J1, M1 ve M1 Pro ile süren açık kask çizgisinin yeni modeli. Kabuk karbon takviyeli DFP cam elyafı, iki dış boyutla (XS-L, XL-XXXL). ECE 22.06 onaylı. Üretici ağırlığı XS-S'de 1.490 g, M-L'de 1.520 g, XL ve üstünde 1.670 g olarak veriyor.",
+      "Öne çıkan özellik, ek çene koruması sağlayan ve kolayca çıkarılabilen çene parçası. Vizör sınırsız konumda durabiliyor; yeni enselik ve vizördeki çift türbülatör sayesinde naked motorda 100 km/s'te 88 dB(A) bildiriliyor. Kask, interkom ünitesiyle birlikte ECE 22.06'ya göre test edilmiş; hoparlör ve antenler hazır, SC2 veya SC EDGE ayrıca alınıyor.",
+      "Çıkarılabilir çene parçası tam kapalı ya da çene açılır bir kaskın çene korumasıyla aynı şey değil; üretici bunu 'ek çene koruması' olarak tanımlıyor. İç güneş vizörü bu modelin teknik listesinde yer almıyor."
+    ],
+    "forWho": [
+      "Şehir içi ve rahat touring yapan açık kask kullanıcıları",
+      "İnterkomu açık kaskta temiz entegre etmek isteyenler",
+      "Duruma göre ek çene koruması kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Tam çene koruması isteyenler",
+      "Yüksek hızda uzun otoban kullanımı",
+      "Bütçe odaklı kuryeler: interkomla toplam maliyet yüksek"
+    ],
+    "pros": [
+      "ECE 22.06 onaylı",
+      "Çıkarılabilir ek çene koruması",
+      "88 dB(A) @ 100 km/s ile açık kask için sessiz",
+      "Hazır interkom altyapısı, ünite ile test edilmiş",
+      "Kişiye özel ped programı"
+    ],
+    "cons": [
+      "Çıkarılabilir çene parçası tam kapalı kask koruması değil",
+      "İç güneş vizörü teknik listede yok",
+      "Açık kask için ağır (1,5-1,7 kg)",
+      "İnterkom ayrı satılıyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; açık yapı ve hazır interkom altyapısı şehirde pratik.",
+      "uzunYol": "Açık kask için sessiz; rahat tempoda tur yapılabilir.",
+      "otoban": "Yüksek hızda tam kapalı kask kadar korunaklı değil; kısa otoban etapları için uygun.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Açık yapı gözlükle kullanımı kolaylaştırır.",
+      "interkom": "Hoparlör ve antenler hazır; SC2, SC2 Standard veya SC EDGE takılıp kullanılır.",
+      "kurye": "Açık yapı kısa teslimatlarda pratik ama interkomla maliyeti yüksek ve çene koruması sınırlı; ekonomik bir kurye tercihi değil."
+    },
+    "verdict": "J2, açık kask rahatlığını Schuberth'in sessizlik ve interkom entegrasyonu anlayışıyla birleştiriyor; çıkarılabilir çene parçası esneklik katıyor. Bu parça tam kapalı kask koruması sağlamaz. İç güneş vizörü isteyenler için J-Cruise 3 daha uygun olabilir.",
+    "rivals": [
+      "shoei/j-cruise-3",
+      "arai/sz-r-evo"
+    ],
+    "priceRange": {
+      "min": 30330.57,
+      "max": 30330.57,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/schuberth-j2-jet-kask-mat-siyah",
+        "price": 30330.57,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "J2'nin çene parçası ne işe yarıyor?",
+        "a": "Schuberth'e göre çıkarılabilir çene parçası ek çene koruması sağlıyor. Tam kapalı kaskın çene koruması yerine geçmez."
+      },
+      {
+        "q": "J2 hangi interkomla uyumlu?",
+        "a": "SC2, SC2 Standard ve SC EDGE. Schuberth kaskı bu ünitelerle birlikte ECE 22.06'ya göre test ettiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/j2",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/j2",
+        "type": "manufacturer",
+        "label": "Schuberth J2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/schuberth-j2-jet-kask-mat-siyah",
+        "type": "retailer",
+        "label": "Motodium – Schuberth J2 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Glossy White",
+      "Matt Black",
+      "Concrete Grey",
+      "Nova Blue",
+      "Nova Grey",
+      "Nova Sand"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "DFP cam elyafı, karbon fiber takviyeli",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1520,
+      "weightSize": "M-L (57/59)",
+      "headShape": null,
+      "visor": "Sınırsız konumlu vizör, çift türbülatör",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör ve antenler önceden kurulu; SC2, SC2 Standard ve SC EDGE ile ECE 22.06'ya göre test edilmiş (ayrı satılır).",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "s3-carbon",
+    "brand": "schuberth",
+    "name": "S3 Carbon",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "S3'ün el yapımı tam karbon kabuklu versiyonu. Schuberth'e göre S3'ten yaklaşık 200 g hafif; ECE 22.06, Double-D kilit, iç güneş vizörü ve hazır interkom altyapısıyla.",
+    "description": [
+      "S3 Carbon, Schuberth'in sport-touring kaskının tam karbon kabuklu versiyonu. Kabuk, Formula 1 kasklarını üreten Schuberth Performance ekibi tarafından elle laminasyonla üretiliyor ve otoklavda dört saate kadar kürleniyor; her kabuğu tek bir teknisyen baştan sona üretiyor. Üretici bu versiyonun S3'ten 200 g daha hafif olduğunu söylüyor ama gram değerini ayrıca vermiyor.",
+      "Standart S3'ten farklı olarak magnezyum-alüminyum alaşımlı Double-D çene kilidi kullanılıyor. İç güneş vizörü, takılı Pinlock 120 XLT lensi, filtreli çift çene girişi ve S.R.S. kurtarma sistemi var. Naked motorda 100 km/s'te 85 dB(A) bildiriliyor. Hoparlör ve antenler hazır; interkom ünitesi ayrıca alınıyor.",
+      "Tek renk (parlak karbon) seçeneği var. Ağırlık avantajı gerçek ama S3'e göre fiyat farkının bu avantaja değip değmediği kullanıcının önceliğine bağlı; Türkiye'de yetkili satıcı fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Uzun yolda en hafif sport-touring kaskı isteyenler",
+      "Karbon kabuğu ve el işçiliğini önemseyenler",
+      "S3'ün özelliklerini daha hafif bir pakette isteyenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı kullanıcılar ve kuryeler: fiyatı çok yüksek",
+      "Renk ve grafik çeşitliliği isteyenler"
+    ],
+    "pros": [
+      "El yapımı, otoklavda kürlenmiş tam karbon kabuk",
+      "S3'ten yaklaşık 200 g hafif (üretici beyanı)",
+      "Double-D çene kilidi",
+      "İç güneş vizörü ve takılı Pinlock 120 XLT",
+      "85 dB(A) @ 100 km/s",
+      "S.R.S. kurtarma sistemi"
+    ],
+    "cons": [
+      "Kesin ağırlık açıklanmıyor",
+      "Tek renk seçeneği",
+      "İnterkom ayrı satılıyor",
+      "Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü şehirde pratik; karbon kabuk günlük şehir kullanımında gereğinden pahalı bir tercih olabilir.",
+      "uzunYol": "Asıl kullanım alanı; hafiflik uzun etaplarda boyun yorgunluğunu azaltır.",
+      "otoban": "Rüzgâr tünelinde optimize edilmiş kabuk yüksek hızda sessizlik ve denge sağlamak için tasarlanmış.",
+      "sport": "Sportif sokak sürüşüne uygun; pist kaskı değil.",
+      "adventure": "Siperlik yok; asfalt ağırlıklı turlarda kullanılabilir.",
+      "gozluk": "Üretici gözlük kanalı belirtmiyor; denemek gerekir.",
+      "interkom": "Hoparlör ve antenler hazır; SC2 veya SC EDGE takılır.",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı yoğun günlük yıpranmaya göre çok yüksek."
+    },
+    "verdict": "S3 Carbon, S3'ün sessizlik ve interkom altyapısını el yapımı karbon kabukla daha hafif bir pakette sunuyor; Double-D kilit de bir artı. Fiyat farkı ciddi ve kesin ağırlık açıklanmıyor. Hafiflik birinci öncelik değilse standart S3 daha mantıklı.",
+    "rivals": [
+      "schuberth/s3",
+      "arai/quantic"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "S3 Carbon ile S3 arasındaki fark nedir?",
+        "a": "S3 Carbon'un kabuğu el yapımı tam karbon ve üreticiye göre yaklaşık 200 g daha hafif; ayrıca Double-D çene kilidi kullanıyor."
+      },
+      {
+        "q": "S3 Carbon'da güneş vizörü var mı?",
+        "a": "Evet, iç güneş vizörü var ve şeffaf vizörde Pinlock 120 XLT lens takılı geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/s3-carbon",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/s3-carbon",
+        "type": "manufacturer",
+        "label": "Schuberth S3 Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "Glossy Carbon"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Otoklavda kürlenmiş monokok karbon fiber (el yapımı)",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Şeffaf vizör, Pinlock 120 XLT lens takılı",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çift çene girişi (değiştirilebilir filtre), arka spoylerde hava çıkışı, açık EPS kanalları",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör ve antenler önceden kurulu; SC2, SC2 Standard ve SC EDGE (ayrı satılır).",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "e2-carbon",
+    "brand": "schuberth",
+    "name": "E2 Carbon",
+    "subcategories": [
+      "adventure-kask",
+      "cene-acilir-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Schuberth E2 çene açılır adventure kaskının el yapımı tam karbon kabuklu versiyonu. P/J çift onay, ECE 22.06, sökülebilir siperlik ve hazır interkom altyapısıyla.",
+    "description": [
+      "E2 Carbon, E2'nin kabuğunu Schuberth Performance'ın Formula 1 kasklarında kullandığı elle laminasyon ve otoklav kürleme yöntemiyle tam karbondan üretiyor. Amaç, standart E2'nin 1,7-1,9 kg'lık ağırlığını azaltmak; ancak üretici bu versiyon için gram değeri vermiyor. ECE 22.06 ve P/J çift onaylı.",
+      "Diğer özellikler E2 ile aynı çizgide: rüzgâr tünelinde geliştirilmiş, üç konumlu ve sökülebilir hafızalı siperlik; filtreli çift çene girişi; iki konumlu üst giriş ve hava çıkışlı büyük arka spoyler. Hoparlör ve antenler hazır, HD boom mikrofon takılarak SC serisi interkom kullanılıyor; ünite ayrıca alınıyor.",
+      "Tek renk (parlak karbon) seçeneği var. Ağırlık, Pinlock ve acil durum pedi bilgileri bu modelin sayfasında açıkça yer almıyor; Türkiye'de yetkili satıcı fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Adventure turlarında daha hafif bir çene açılır kask isteyenler",
+      "Karbon kabuğu önemseyen E2 adayları",
+      "Hazır interkom altyapısı isteyenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı kullanıcılar ve kuryeler: fiyatı çok yüksek",
+      "Ağır arazi ve enduro kullanımı"
+    ],
+    "pros": [
+      "El yapımı tam karbon kabuk",
+      "ECE 22.06 ve P/J çift onay",
+      "Sökülebilir, 3 konumlu, hafızalı siperlik",
+      "Hazır SC interkom altyapısı",
+      "Filtreli çift çene girişi"
+    ],
+    "cons": [
+      "Kesin ağırlık açıklanmıyor",
+      "Tek renk seçeneği",
+      "İnterkom ayrı satılıyor",
+      "Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı şehirde pratik; karbon kabuk şehir kullanımı için gereğinden pahalı olabilir.",
+      "uzunYol": "Uzun adventure turları için tasarlanmış; daha hafif kabuk uzun etaplarda avantaj.",
+      "otoban": "Siperlik takılıyken rüzgâr yükü hissedilebilir; sökülünce touring kask gibi kullanılır.",
+      "sport": "Sportif sürüşe yönelik değil.",
+      "adventure": "Toprak yol ve hafif arazi içeren turlar için tasarlanmış.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Hoparlör ve antenler hazır; SC2 veya SC EDGE takılır.",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı çok yüksek."
+    },
+    "verdict": "E2 Carbon, E2'nin donanımını el yapımı karbon kabukla sunan, adventure turcusu için üst segment bir seçim. Üreticinin net ağırlık vermemesi karşılaştırmayı zorlaştırıyor. Fiyat farkı hafiflik kazancına değmiyorsa standart E2 aynı işlevi sunuyor.",
+    "rivals": [
+      "schuberth/e2",
+      "arai/tour-x5",
+      "shoei/hornet-adv-06"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "E2 Carbon ile E2 farkı nedir?",
+        "a": "E2 Carbon'un kabuğu el yapımı tam karbon ve otoklavda kürleniyor; işlevsel özellikler (siperlik, havalandırma, interkom altyapısı) E2 ile aynı çizgide."
+      },
+      {
+        "q": "E2 Carbon çene açıkken sürülebilir mi?",
+        "a": "Evet, P/J çift onaylı. Yine de yüksek hızda çene kapalı sürmek daha güvenli."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/e2-carbon",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/e2-carbon",
+        "type": "manufacturer",
+        "label": "Schuberth E2 Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "Gloss Carbon"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "Otoklavda kürlenmiş tam karbon fiber (el yapımı)",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Hafızalı vizör mekanizması; 3 konumlu sökülebilir siperlik",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Çift çene girişi (değiştirilebilir filtre), 2 konumlu üst giriş, büyütülmüş arka spoylerde hava çıkışı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör ve antenler önceden kurulu; SC2, SC2 Standard ve SC EDGE (ayrı satılır). P/J çift onay.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "c5-carbon",
+    "brand": "schuberth",
+    "name": "C5 Carbon",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Schuberth C5 çene açılır kaskının el yapımı tam karbon kabuklu versiyonu. 1.460 g ağırlık, P/J çift onay, ECE 22.06 ve hazır interkom altyapısıyla hafif bir touring modüler.",
+    "description": [
+      "C5 Carbon, Schuberth Performance'ın ilk motosiklet kaskı. Kabuk, Formula 1 kasklarını üreten teknisyenler tarafından elle laminasyonla üretiliyor ve otoklavda kürleniyor. Üretici ağırlığı 1.460 g olarak veriyor; hangi bedene ait olduğu belirtilmemiş. Bu değer çene açılır kasklar için oldukça düşük.",
+      "ECE 22.06 ve P/J çift onaylı, yani çene açıkken de onaylı kullanım mümkün. Filtreli çift çene girişi ve hava çıkışlı yeni arka spoyler ile açık EPS kanalları havalandırmayı destekliyor. Hoparlör ve antenler kaskta hazır; HD boom mikrofon takılarak SC2 kullanılıyor, ünite ayrıca satılıyor. Schuberth Individual programıyla farklı ped kalınlıkları seçilebiliyor.",
+      "Tek renk (parlak karbon) seçeneği var. Türkiye'de yetkili satıcı fiyatını doğrulayamadık; standart C5'e göre belirgin bir fiyat farkı beklenmeli."
+    ],
+    "forWho": [
+      "Hafif bir çene açılır touring kaskı isteyenler",
+      "Uzun yolda boyun yorgunluğunu azaltmak isteyenler",
+      "C5'in donanımını karbon kabukla isteyenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı kullanıcılar ve kuryeler: fiyatı çok yüksek",
+      "Renk seçeneği isteyenler"
+    ],
+    "pros": [
+      "1.460 g ile çene açılır kask için çok hafif",
+      "El yapımı tam karbon kabuk",
+      "ECE 22.06 ve P/J çift onay",
+      "Hazır SC2 interkom altyapısı",
+      "Kişiye özel ped programı"
+    ],
+    "cons": [
+      "Ağırlığın hangi bedene ait olduğu belirtilmiyor",
+      "Tek renk seçeneği",
+      "İnterkom ayrı satılıyor",
+      "Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı ve hafiflik şehirde pratik; karbon kabuk şehir kullanımı için pahalı bir tercih.",
+      "uzunYol": "Asıl kullanım alanı; hafiflik ve hazır interkom altyapısı uzun etaplarda avantaj.",
+      "otoban": "Schuberth'in rüzgâr tüneli geçmişi yüksek hızda sessizlik için güven veriyor; çene açılır kasklar yine de tam kapalılar kadar kompakt değil.",
+      "sport": "Sportif sürüşe yönelik değil.",
+      "adventure": "Siperlik yok; asfalt ağırlıklı adventure turlarında kullanılabilir.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Hoparlör ve antenler hazır; SC2 takılıp kullanılır.",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı yoğun günlük yıpranmaya göre çok yüksek."
+    },
+    "verdict": "C5 Carbon, 1.460 g ağırlığıyla çene açılır segmentin en hafif kasklarından biri ve uzun yolda bu fark hissedilir. İnterkom altyapısı ve P/J onayı C5'in güçlü yanlarını koruyor. Fiyat farkı yüksek; hafiflik kritik değilse standart C5 aynı işlevi sunuyor.",
+    "rivals": [
+      "schuberth/c5",
+      "shoei/neotec-3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "C5 Carbon ne kadar hafif?",
+        "a": "Schuberth 1.460 g veriyor; bu değerin hangi bedene ait olduğunu belirtmiyor."
+      },
+      {
+        "q": "C5 Carbon çene açıkken sürülebilir mi?",
+        "a": "Evet, P/J çift onaylı. Yüksek hızda çene kapalı kullanmak yine de daha güvenli."
+      }
+    ],
+    "manufacturerUrl": "https://www.schuberth.com/en/c5-carbon",
+    "sources": [
+      {
+        "url": "https://www.schuberth.com/en/c5-carbon",
+        "type": "manufacturer",
+        "label": "Schuberth C5 Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.visor",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.sunVisor",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.retention",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ],
+    "colors": [
+      "Glossy Carbon"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Otoklavda kürlenmiş tam karbon fiber (el yapımı)",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1460,
+      "weightSize": null,
+      "headShape": null,
+      "visor": null,
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "Çift çene girişi (değiştirilebilir filtre), hava çıkışlı arka spoyler, açık EPS kanalları",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hoparlör ve antenler önceden kurulu; SC2 tak-çalıştır (ayrı satılır). P/J çift onay.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  }
+]
