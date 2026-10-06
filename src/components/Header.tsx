@@ -33,6 +33,7 @@ export function Header() {
       { label: "Kadın", href: "/kadin" },
       { label: "Erkek", href: "/erkek" },
       { label: "Motosikletime Göre", href: "/motosikletime-gore" },
+      { label: "Motoruma Göre (model)", href: "/motor" },
       { label: "Yeni Başlayanlar", href: "/yeni-baslayanlar" },
       { label: "Ne Almalıyım?", href: "/ne-almaliyim" },
       ...NAV_EXTRA,
@@ -111,6 +112,9 @@ export function Header() {
               Motosikletime Göre
             </Link>
             <div className="invisible absolute top-full left-0 z-50 w-64 rounded-b-lg border border-line bg-white p-4 text-ink opacity-0 shadow-2xl transition group-focus-within:visible group-focus-within:opacity-100 group-hover:visible group-hover:opacity-100">
+              <Link href="/motor" className="mb-3 block rounded bg-paper px-3 py-2 text-sm font-semibold text-red hover:underline">
+                Motor modelime göre bul →
+              </Link>
               <ul className="space-y-1.5 font-medium">
                 {MOTO_TYPES.map((m) => (
                   <li key={m.slug}>

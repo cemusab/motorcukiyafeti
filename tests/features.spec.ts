@@ -80,7 +80,16 @@ test("statik karşılaştırma sayfası ve kask-interkom uyumluluğu", async ({ 
 
 test("sihirbaz ekipman seti üretir", async ({ page }) => {
   await page.goto("/yeni-baslayanlar");
-  await page.getByLabel("Motosiklet türü").selectOption("touring");
+  // 1) Motor modeliyle: PCX seçilince tür otomatik scooter olur, kullanımda pist/arazi çıkmaz
+  await page.getByLabel("1. Motorun hangisi?").fill("Honda PCX 125 (2021+)");
+  await expect(page.getByText(/Honda PCX 125 \(2021\+\) için \d+ parçalık set/)).toBeVisible();
+  const usage = page.getByLabel("2. Ne için kullanacaksın?");
+  await expect(usage.locator("option", { hasText: "Pist" })).toHaveCount(0);
+  await usage.selectOption("kurye");
+  await expect(page.getByText(/ile kuryelik için/)).toBeVisible();
+  // 2) Listede yoksa türle
+  await page.getByRole("button", { name: "Listede yok / henüz almadım" }).click();
+  await page.getByLabel("1. Motosiklet türü").selectOption("touring");
   await expect(page.getByText(/Touring için \d+ parçalık set/)).toBeVisible();
   await expect(page.getByRole("heading", { name: "İnterkom", exact: true })).toBeVisible();
 });

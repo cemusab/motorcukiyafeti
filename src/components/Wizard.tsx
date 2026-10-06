@@ -138,7 +138,7 @@ export function Wizard({ products, bikes = [], compact = false }: { products: Wi
                 <strong className="text-white">{bike.label}</strong> · {typeName}
                 {bike.cc ? ` · ${bike.cc} cc` : ""}
                 {bike.licence ? ` · ${bike.licence} ehliyet` : ""}
-                {bike.notes.length > 0 && <span className="block text-white/60">{bike.notes.join(" ")}</span>}
+                {bike.notes.length > 0 && <span className="block text-white/60">{bike.notes.map((n) => (/[.!?]$/.test(n) ? n : n + ".")).join(" ")}</span>}
               </p>
             )}
           </div>

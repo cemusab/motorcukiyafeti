@@ -196,6 +196,8 @@ export function routeManifest(): RouteEntry[] {
   for (const c of CATEGORIES) add(`/${c.slug}`, "kategori", productsIn(c.slug).length > 0);
   for (const { category, sub } of allSubcategories()) add(`/${category.slug}/${sub.slug}`, "kategori", productsIn(category.slug, sub.slug).length > 0);
   for (const m of MOTO_TYPES) add(`/motosikletime-gore/${m.slug}`, "kategori");
+  if (getMotorcycles().length) add("/motor", "statik");
+  for (const b of getMotorcycles()) add(`/motor/${b.slug}`, "kategori", b.notes.length >= 2);
   for (const p of getProducts()) add(productPath(p), "urun");
   for (const b of getBrands()) add(`/marka/${b.slug}`, "marka");
   for (const g of getGuides()) add(`/rehber/${g.slug}`, "rehber");

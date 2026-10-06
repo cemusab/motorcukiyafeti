@@ -13,7 +13,7 @@ export const metadata = meta({
   path: "/rehber",
 });
 
-const TOPICS: Record<string, string> = { genel: "Başlangıç ve genel", kask: "Kask", interkom: "İnterkom", mont: "Mont ve giyim", malzeme: "Kumaş ve malzeme", koruma: "Koruma", eldiven: "Eldiven", bot: "Bot" };
+const TOPICS: Record<string, string> = { genel: "Başlangıç ve genel", kask: "Kask", interkom: "İnterkom", mont: "Mont ve giyim", malzeme: "Kumaş ve malzeme", sektor: "Sektör ve haberler (kurye dünyası)", koruma: "Koruma", eldiven: "Eldiven", bot: "Bot" };
 
 export default function GuidesPage() {
   const guides = getGuides();

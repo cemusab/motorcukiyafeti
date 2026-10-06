@@ -6,7 +6,7 @@ import { RelatedLinks } from "@/components/Related";
 import { Container } from "@/components/ui";
 import { getSubcategory } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import { isApparel, productsIn } from "@/lib/data";
+import { getMotorcycles, isApparel, productsIn } from "@/lib/data";
 import { clip, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -79,6 +79,23 @@ export default async function MotoTypePage({ params }: PageProps<"/motosikletime
             <span className="block font-display text-xl font-bold">Kişisel ekipman setini çıkar</span>
             <span className="mt-1 block text-sm text-white/70">Mevsim ve bütçene göre önerileri gör.</span>
           </Link>
+          {getMotorcycles().some((b) => b.type === m.slug || (m.slug === "kurye" && b.courierCommon)) && (
+            <section className="rounded-lg border border-line bg-white p-5">
+              <h2 className="mb-2 font-display text-xl font-bold">{m.slug === "kurye" ? "Kuryelerin sık kullandığı motorlar" : "Bu türdeki popüler motorlar"}</h2>
+              <ul className="space-y-1">
+                {getMotorcycles()
+                  .filter((b) => b.type === m.slug || (m.slug === "kurye" && b.courierCommon))
+                  .slice(0, 10)
+                  .map((b) => (
+                    <li key={b.slug}>
+                      <Link href={`/motor/${b.slug}`} className="font-semibold hover:text-red">
+                        {b.brand} {b.model}
+                      </Link>
+                    </li>
+                  ))}
+              </ul>
+            </section>
+          )}
           <section className="rounded-lg border border-line bg-white p-5">
             <h2 className="mb-2 font-display text-xl font-bold">Diğer motor türleri</h2>
             <ul className="space-y-1">

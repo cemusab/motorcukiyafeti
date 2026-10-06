@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "su-gecirmez-membran-gore-tex",
+    "title": "Gore-Tex ve Su Geçirmez Membranlar: Laminasyon, Z-Liner, Drop-liner",
+    "description": "Gore-Tex ve diğer su geçirmez membranların nasıl çalıştığı; laminasyon, Z-liner ve drop-liner yapılarının farkı ve yağmurda doğru mont seçimi.",
+    "topic": "malzeme",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 7,
+    "intro": "Su geçirmez membran, montun katmanları arasına yerleştirilen ve suyu dışarıda tutarken ter buharının dışarı çıkmasına izin veren ince bir zardır; Gore-Tex bu membranların en bilinen markasıdır. Membranın montta nasıl konumlandığı (dış kumaşa laminasyon, Z-liner veya drop-liner) yağmurda kuru kalmanı ve montun ne kadar çabuk kuruyacağını doğrudan belirler. Membran yalnızca su ve rüzgârla ilgilidir; düşmedeki korumayı ise montun EN 17092 sınıfı gösterir.",
+    "sections": [
+      {
+        "heading": "Membran nasıl çalışır?",
+        "paragraphs": [
+          "Nefes alan bir membranın mantığı boyut farkına dayanır. Gore'un açıklamasına göre klasik GORE-TEX membranı genleştirilmiş PTFE'den (ePTFE) yapılır; membranın her inç karesinde yaklaşık dokuz milyar gözenek bulunur ve bu gözenekler su damlasından çok küçük, su buharı molekülünden ise çok büyüktür. Böylece yağmur damlası geçemezken terden oluşan buhar dışarı çıkabilir.",
+          "Gore, son yıllarda genleştirilmiş polietilenden (ePE) yapılan yeni nesil bir membran da sunuyor ve bu ürünleri kasıtlı olarak eklenmiş per- ve polifloroalkil maddeler (PFAS) kullanılmadan üretilmiş, ancak eser miktarda içerebilir şeklinde tanımlıyor. Membran pazarında Gore-Tex dışında pek çok marka da var; birçok motosiklet üreticisi kendi markalı membranlarını kullanıyor.",
+          "Hiçbir membran sihirli değildir: nefes alma, içerisi ile dışarısı arasındaki sıcaklık ve nem farkına bağlıdır. Çok sıcak ve nemli havada en iyi membran bile terin tamamını dışarı atamaz."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Laminasyon: membran dış kumaşa yapışık",
+        "paragraphs": [
+          "Laminasyonlu (laminat) yapıda membran doğrudan dış kumaşın arkasına yapıştırılır. İki katmanlı (2L) yapıda membran dış kumaşa bağlıdır ve iç tarafta ayrı bir astar onu korur; üç katmanlı (3L) yapıda ise dış kumaş, membran ve iç astar tek bir kumaş gibi birbirine yapıştırılmıştır.",
+          "Bu yapının en büyük avantajı, dış kumaşın suyu emip ağırlaşmamasıdır. Yağmur dış yüzeyde kalır, mont kısa sürede kurur ve ıslak kumaşın vücudu soğutması azalır. Dezavantajı ise fiyattır; laminat montlar genellikle en pahalı segmenttedir. Ayrıca membran her zaman montun içinde olduğu için çok sıcak havada ayrıca bir file mont gerekebilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Z-Liner: membran ortada, sabit",
+        "paragraphs": [
+          "Z-liner yapısında membran dış kumaşa yapıştırılmaz; dış kumaş ile iç astar arasında serbest duran ayrı bir katman olarak monta sabitlenir. Çıkarılması gerekmez, bu yüzden sürüş sırasında yağmur başladığında durup bir şey takman gerekmez.",
+          "Bedeli, dış kumaşın yağmuru emebilmesidir. Uzun yağmurda dış kumaş suya doyar, mont ağırlaşır ve kuruması uzun sürer; içerisi kuru kalsa bile soğuk hissi artabilir. Orta fiyatlı touring montlarda sık görülen bir çözümdür."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Drop-liner ve çıkarılabilir iç membran",
+        "paragraphs": [
+          "Drop-liner, membranın montun iç astarına bağlı ayrı bir katman olarak serbestçe sarktığı yapıların genel adıdır. Pek çok uygun fiyatlı 4 mevsim montta ise membran tamamen çıkarılabilen ayrı bir iç ceket olarak gelir; yazın çıkarılıp montun file yüzeyleri açılarak kullanılır.",
+          "Çıkarılabilir membran esneklik sağlar ama iki pratik sorunu vardır: yağmur yolda başladığında durup takman gerekir ve dış kumaş yine suyu emer. Kısa şehir içi kullanımda yeterli olabilir; uzun yolda yağmurda sık sürüyorsan laminat ya da Z-liner yapı daha rahat eder."
+        ],
+        "bullets": [
+          "Laminat: en hızlı kuruyan, en hafif ıslak ağırlık, en pahalı.",
+          "Z-liner: sabit ve pratik, ama dış kumaş ıslanır.",
+          "Çıkarılabilir iç membran: yaz-kış esnekliği, ama yağmurda takma zahmeti ve ıslanan dış kumaş.",
+          "Hepsinde dikişlerin bantlı olması şarttır; bantsız dikişten su sızar."
+        ]
+      },
+      {
+        "heading": "Su geçirmezlik koruma demek değildir",
+        "paragraphs": [
+          "Membran montun düşmedeki korumasına katkı sağlamaz. Su geçirmez etiketi taşıyan bir yağmurluk ya da mont, EN 17092 sınıfı taşımıyorsa sürtünmeye karşı test edilmemiştir. Yağmurluk takımları genellikle sınıflı bir giysinin üstüne giyilmek için tasarlanır.",
+          "Ayrıca su geçirmezlik zamanla azalabilir. Dış kumaşın su itici yüzey işlemi aşındıkça kumaş daha çabuk ıslanır; üreticinin bakım talimatına göre yıkamak ve gerekiyorsa su itici bakım ürünü uygulamak bu etkiyi azaltır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Yerli üreticiler ve bu malzeme",
+        "paragraphs": [
+          "Yerli markaların resmi sitelerinde Gore-Tex membran kullanan bir motosiklet montuna ulaşamadık. Yerli üreticiler genellikle markasız ya da kendi tanımladıkları membranları kullanıyor. Örneğin Yaren Tekstil'in YRN-2789 Motokurye Yağmurluk Takımı'nda dış kumaş, su ve rüzgâr geçirmez membranla laminasyonlu yüzde 100 300D polyester olarak tanımlanıyor ve dış kumaş ile iç astardaki tüm dikişlerin termo kaynak bandıyla kapatıldığı belirtiliyor. Ürün bir yağmurluk olduğu için EN 17092 sınıfı taşımıyor; sınıflı bir montun üstüne giyilmek üzere düşünülmeli."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Gore-Tex mont hiç terletmez mi?",
+        "a": "Terletir, ama terin bir kısmının buhar olarak dışarı çıkmasına izin verir. Çok sıcak ve nemli havada, ya da montun havalandırmaları kapalıyken membran terin tamamını atamaz. Yazın membranlı monttan çok file mont daha rahat eder."
+      },
+      {
+        "q": "Laminat mont mu, çıkarılabilir membranlı mont mu almalıyım?",
+        "a": "Yağmurda sık ve uzun sürüyorsan laminat mont çok daha rahattır çünkü dış kumaş ıslanmaz ve çabuk kurur. Ağırlıklı olarak kuru havada ve şehir içinde sürüyorsan çıkarılabilir membranlı bir 4 mevsim mont daha ekonomik bir seçimdir."
+      },
+      {
+        "q": "Membranlı mont düşmede daha mı iyi korur?",
+        "a": "Hayır. Membran yalnızca su ve rüzgâra karşıdır. Düşmedeki korumayı montun EN 17092 sınıfı ve koruyucuları belirler."
+      },
+      {
+        "q": "Su geçirmez montumu nasıl yıkamalıyım?",
+        "a": "Üreticinin etiketteki talimatına uy. Genel olarak yumuşatıcı kullanmamak, membran dostu bir deterjanla yıkamak ve dış kumaşın su itici özelliği azaldığında uygun bakım ürünü uygulamak önerilir."
+      }
+    ],
+    "relatedGuides": [
+      "yagmurda-motosiklet-ekipmani",
+      "kislik-motosiklet-ekipmani",
+      "cordura-nedir",
+      "motosiklet-montu-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "mont/4-mevsim-mont",
+      "mont/kislik-mont",
+      "mont/touring-mont",
+      "pantolon/tekstil-pantolon"
+    ],
+    "sources": [
+      {
+        "url": "https://www.gore-tex.com/blog/the-gore-tex-membrane-what-it-is-how-it-works-and-why-you-need-it",
+        "type": "manufacturer",
+        "label": "GORE-TEX – Membran nedir ve nasıl çalışır?",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.gore-tex.com/technology/new-products",
+        "type": "manufacturer",
+        "label": "GORE-TEX – ePE membranlı yeni nesil ürünler",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.gore-tex.com/support/care",
+        "type": "manufacturer",
+        "label": "GORE-TEX – Ürün bakım talimatları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-2789 Motokurye Yağmurluk Takım ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

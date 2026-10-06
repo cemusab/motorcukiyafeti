@@ -1,7 +1,7 @@
 import { CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import { GENDERS, activeLists, comparePairs } from "@/lib/catalog";
-import { brandName, displayName, getBrands, getGuides, getProducts, isApparel, productPath } from "@/lib/data";
+import { brandName, displayName, getBrands, getGuides, getMotorcycles, getProducts, isApparel, productPath } from "@/lib/data";
 import { keyChips, productTypeLabel } from "@/lib/labels";
 import type { SearchDoc } from "@/lib/search-core";
 
@@ -25,6 +25,7 @@ export function GET() {
   for (const l of activeLists()) docs.push({ t: l.title, k: "Rehber", h: `/ne-almaliyim/${l.slug}`, d: l.description });
   for (const m of MOTO_TYPES) docs.push({ t: `${m.name} için ekipman`, k: "Rehber", h: `/motosikletime-gore/${m.slug}`, d: m.summary.slice(0, 90) });
   for (const c of comparePairs()) docs.push({ t: `${displayName(c.items[0])} vs ${displayName(c.items[1])}`, k: "Karşılaştırma", h: `/karsilastir/${c.slug}`, w: brandName(c.items[0].brand) });
+  for (const b of getMotorcycles()) docs.push({ t: `${b.brand} ${b.model} için ekipman`, k: "Rehber", h: `/motor/${b.slug}`, d: `${b.cc ?? ""} cc ${b.type}`, w: `${b.brand} ${b.model} motor motosiklet` });
   docs.push(
     { t: "Yeni motor aldım, ne almalıyım?", k: "Araç", h: "/yeni-baslayanlar", w: "sihirbaz yeni baslayan ekipman seti" },
     { t: "Kask + interkom uyumluluğu", k: "Araç", h: "/interkom-uyumlulugu", w: "uyumlu interkom kaskima" },
