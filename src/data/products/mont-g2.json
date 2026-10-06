@@ -1,0 +1,3840 @@
+[
+  {
+    "slug": "racing-5",
+    "brand": "dainese",
+    "name": "Racing 5",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "1,2 mm Tutu sığır derisinden, EN 17092 AA sınıfı, omuz ve dirsekte Level 2 koruyuculu ve Smart Air airbag yeleğinin altına giyilecek şekilde kalıplanmış sport deri mont.",
+    "description": [
+      "Racing 5, Dainese'nin uzun süredir en çok satan deri montlarından Racing serisinin son halkası. Gövde 1,2 mm kalınlığında Tutu sığır derisinden; omuz arkası, kol içi ve yanlarda geniş S1 bi-elastik kumaş paneller var. Üretici kalıbı 'regular ve sportif' olarak tanımlıyor: Super Speed gibi agresif bir pist kesimi değil, naked ya da sport-touring motosiklette rahat edilecek bir duruş. Boyun baskısını azaltmak için Veloce Racing Neck yaka yapısı ve kalçada genişlik ayarı bulunuyor.",
+      "Koruma tarafında omuz ve dirseklerde EN 1621-1 Level 2 kompozit koruyucular, omuzlarda değiştirilebilir alüminyum kayma plakaları standart. Sırt (G tipi) ve çift parça göğüs koruyucu için cep var ama koruyucular kutudan çıkmıyor. Montun kendisi EN 17092 AA sınıfında. Dainese, Smart Air airbag yeleğinin bir beden büyütmeden altına giyilebildiğini ve yeleği monta sabitleyen halkalar bulunduğunu belirtiyor. Göğüste iki hava girişi, sırtta iki fermuarlı çıkış ve içte su geçirmez bir cep dışında hava koruması yok; yağmurda yağmurluk gerekiyor."
+    ],
+    "forWho": [
+      "Naked veya sport motosikletle sıcak havada deri korumayla sürmek isteyenler",
+      "İleride Smart Air airbag yeleği eklemeyi planlayan ve montu buna göre seçmek isteyenler",
+      "Dainese deri pantolonla bağlantılı takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Gün boyu inip binen kuryeler: deri ağırlığı, cep azlığı ve yağmur korumasının olmaması kurye temposuna uymaz",
+      "Yağmur ve soğukta da tek montla idare etmek isteyenler",
+      "Dik oturuşlu adventure motosiklet kullananlar"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı ve omuz/dirsekte Level 2 koruyucu standart",
+      "Smart Air yeleği için beden büyütmeden uyumlu kalıp ve bağlantı halkaları",
+      "Değiştirilebilir alüminyum omuz plakaları",
+      "Geniş bi-elastik paneller sayesinde deri monta göre rahat hareket"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu ayrıca satın alınmalı",
+      "Termal astar ve su geçirmez membran yok",
+      "Delikli değil; çok sıcak trafikte deri yine ısınır",
+      "Tekstil montlara göre belirgin şekilde pahalı"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi kullanımda giyilebilir ama trafikte durunca deri ısınır; günlük kurye işi için uygun değil.",
+      "uzunYol": "Güzel havada otoyol etaplarında rüzgârda sağlam durur; bagaj cebi azlığı ve hava koruması eksikliği uzun turda kısıt.",
+      "yaz": "Üreticinin hedeflediği mevsim. Göğüs girişleri ve sırt çıkışları hareket halinde hava akışı sağlar.",
+      "kis": "Termal astar yok; serin havada içine katman giyilebilir, kış montu değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Güçlü olduğu alan: AA sınıfı, alüminyum omuz plakaları ve pantolon bağlantısıyla viraj sürüşüne uygun."
+    },
+    "verdict": "Racing 5, airbag'e geçiş yolunu açık tutan, dengeli kalıplı bir sport deri mont arayan için güçlü bir aday. AA sertifikası ve Level 2 koruyucular güven veriyor; sırt koruyucunun ayrıca alınması ve yağmur korumasının olmaması hesaba katılmalı.",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "dainese/super-speed-5",
+      "dainese/avro-6"
+    ],
+    "priceRange": {
+      "min": 42790.0,
+      "max": 48990.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceket-racing-5-leather-blk-blk-red-fluo-48-35477",
+        "price": 48990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Red Fluo"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-racing-5-leather-jacket-blackblack-48--32379",
+        "price": 42790.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Sırt koruyucu montla birlikte geliyor mu?",
+        "a": "Hayır. Montta G1/G2 tipi sırt ve çift parça göğüs koruyucu için cep var; Dainese uyumlu Pro-Armor ve Pro-Shape sırt koruyucularını ayrı satıyor."
+      },
+      {
+        "q": "Smart Air yeleği için bir beden büyük almak gerekir mi?",
+        "a": "Üreticiye göre gerekmiyor; kalıp, Smart Air yeleğinin normal bedenle altına giyilebileceği şekilde tasarlanmış."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Montta membran yok; yalnız iç cep su geçirmez. Yağmurda üstüne yağmurluk giymek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/racing-5---men-leather-motorcycle-jacket-2015300110691.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/racing-5---men-leather-motorcycle-jacket-2015300110691.html",
+        "type": "manufacturer",
+        "label": "Dainese – Racing 5 - Men Leather Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceket-racing-5-leather-blk-blk-red-fluo-48-35477",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Racing 5 Black/Red Fluo",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-racing-5-leather-jacket-blackblack-48--32379",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Racing 5 Black/Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Black",
+      "Black/Black/Red-Fluo",
+      "Black/Gold",
+      "White/Blue/Black"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "1,2 mm Tutu sığır derisi, S1 bi-elastik kumaş paneller",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2 hava girişi, sırtta 2 fermuarlı hava çıkışı",
+      "closure": "Mont-pantolon bağlantı fermuarı, bel ayarı, Veloce Racing Neck yaka",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "super-speed-5",
+    "brand": "dainese",
+    "name": "Super Speed 5",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "D-Skin 2.0 deriden, aerodinamik sırt kamburlu, değiştirilebilir RSS 4.0 dirsek sliderlı ve EN 17092 AA sınıfı, pist görünümlü sport deri mont.",
+    "description": [
+      "Super Speed 5, Dainese'nin yol için ürettiği en sportif deri montlardan biri. Gövdede D-Skin 2.0 sığır derisi, koltuk altı ve dirsek içinde aşınmaya dayanıklı ARROW XF streç kumaş, sırtta aerodinamik kambur ve öne eğik sürüş pozisyonu için uzatılmış bel var. Microelastic 2.0 paneller ve farklı yoğunluklu Airlastic elastik çubuklar, montun öne eğik pozisyonda gövdeye oturmasını sağlamak için kullanılıyor.",
+      "Monta EN 17092 AA sınıfı veriliyor. Dirseklerde Level 2 kompozit koruyucu ve değiştirilebilir RSS 4.0 dirsek slider'ı, omuzlarda Level 2 yumuşak Pro-Armor koruyucu ve alüminyum plakalar standart. Sırt ve göğüs koruyucu için cep var, Smart Air yeleği ile uyumlu. İçte 3D Bubble konfor astarı, su geçirmez iç cep ve reflektif detaylar bulunuyor; termal astar ya da membran yok. Kalıp, dik oturuşlu motosiklette rahatsız edecek kadar sportif."
+    ],
+    "forWho": [
+      "Supersport veya agresif naked motosikletle viraj ve pist günü yapanlar",
+      "Tulum yerine pantolonla bağlanan iki parça deri takım isteyenler",
+      "Smart Air airbag yeleği kullanan ya da kullanmayı düşünen sport sürücüler"
+    ],
+    "notFor": [
+      "Kuryeler ve gün boyu şehirde inip binenler: öne eğik kalıp ayakta ve dik oturuşta rahatsız eder",
+      "Touring ve adventure motosiklet kullananlar",
+      "Yağmur ve soğukta tek montla sürmek isteyenler"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı, omuz ve dirsekte Level 2 koruyucu",
+      "Değiştirilebilir RSS 4.0 dirsek slider'ı ve alüminyum omuz plakaları",
+      "Aerodinamik kambur ve uzatılmış bel ile yüksek hızda stabil",
+      "Smart Air uyumu"
+    ],
+    "cons": [
+      "Kalıp çok sportif; dik oturuşta göğüs ve kollarda gerginlik yapar",
+      "Termal astar ve su geçirmez membran yok",
+      "Sırt ve göğüs koruyucu ayrıca alınmalı",
+      "Türkiye'de yerleşik mağazalarda birebir model fiyatı bulamadık"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde giyilebilir ama sportif kalıbı trafikte yorar; kurye kullanımına uygun değil.",
+      "uzunYol": "Sport motosikletle otoyolda rüzgâra karşı iyi oturur; dik oturuşlu uzun turlar için tasarlanmamış.",
+      "yaz": "Yan havalandırmalar var ama delikli değil; sıcak havada Super Speed 5 Perforated versiyonu daha mantıklı.",
+      "kis": "Termal astar yok; soğukta yetersiz.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl hedefi. Kambur, slider ve pantolon bağlantısıyla pist hissi veren bir yol montu."
+    },
+    "verdict": "Super Speed 5, yol montu ile yarış tulumu arasında duran, gerçekten sportif kesimli bir deri mont. Koruma donanımı güçlü; ancak kalıbı yalnız öne eğik sürüşte rahat ve hava koşullarına karşı neredeyse hiç koruma sunmuyor.",
+    "rivals": [
+      "dainese/racing-5",
+      "alpinestars/gp-plus-r-v4-airflow",
+      "dainese/avro-6"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Super Speed 5 ile Racing 5 arasındaki fark ne?",
+        "a": "Super Speed 5 daha sportif kalıplı, aerodinamik kamburlu ve dirsek slider'lı; Racing 5 daha dengeli 'regular' kalıp ve göğüs havalandırmasıyla yol kullanımına daha yakın."
+      },
+      {
+        "q": "Dirsek slider'ı değişir mi?",
+        "a": "Evet. Üretici dirsekteki RSS 4.0 slider'ın değiştirilebilir olduğunu ve yedeğinin ayrı satıldığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/super-speed-5---leather-motorcycle-jacket-men-201530007731I.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/super-speed-5---leather-motorcycle-jacket-men-201530007731I.html",
+        "type": "manufacturer",
+        "label": "Dainese – Super Speed 5 - Leather Motorcycle Jacket Men ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Gold",
+      "Black/Blue/Fluo Red",
+      "Black/Red-Fluo/White"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "D-Skin 2.0 sığır derisi, S1 bi-elastik kumaş, mikrofiber, ARROW XF aşınma dayanımlı streç kumaş",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Yanlarda hava kanalları",
+      "closure": "Mont-pantolon bağlantı sistemi, bilek ve bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "avro-6",
+    "brand": "dainese",
+    "name": "Avro 6",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tutu ve Nirak deriden, çıkarılabilir termal iç ceketli, EN 17092 AA sınıfı ve Smart Air uyumlu, yol odaklı sport deri mont.",
+    "description": [
+      "Avro 6, Dainese'nin yolda sportif sürüş için konumladığı Avro serisinin yeni sürümü. Gövde Tutu sığır derisinden, belirli bölgelerde Nirak deri parçalarla; kol ve sırtta S1 bi-elastik paneller var. Airlastic elastik sistem, montun hem sportif pozisyonda hem de altında Smart Air yeleği varken düzgün oturması için kullanılıyor. Bel ayarı ve yan havalandırmalar kalıbı tamamlıyor.",
+      "Racing 5'ten ayrıldığı en önemli nokta çıkarılabilir termal iç ceket. Bu sayede deri montu bahar ve sonbaharın serin sabahlarında da kullanmak mümkün. Koruma tarafında EN 17092 AA sınıfı, dirseklerde Level 2 kompozit, omuzlarda Level 2 yumuşak Pro-Armor koruyucu ve alüminyum plakalar standart. Sırt, göğüs ve gövde koruyucuları için yer var ama ayrıca alınıyor. Su geçirmez iç cep dışında yağmur koruması bulunmuyor."
+    ],
+    "forWho": [
+      "Deri montu ilkbahar ve sonbaharda da kullanmak isteyen sport/naked sürücüleri",
+      "Smart Air yeleğiyle birlikte kullanılacak bir deri mont arayanlar",
+      "Dainese pantolonla bağlanan takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler: deri yapı ve sınırlı cep, gün boyu iş kullanımında yorucu",
+      "Yağmurda sürmek zorunda olanlar",
+      "Dik oturuşlu touring kullanıcıları"
+    ],
+    "pros": [
+      "Çıkarılabilir termal iç ceket ile daha geniş mevsim aralığı",
+      "EN 17092 AA sınıfı ve Level 2 omuz/dirsek koruması",
+      "Smart Air uyumlu kalıp",
+      "Alüminyum omuz plakaları"
+    ],
+    "cons": [
+      "Membran yok, yağmurda yağmurluk gerekir",
+      "Sırt ve göğüs koruyucu dahil değil",
+      "Delikli panel yok; yazın Racing 5 kadar serin değil",
+      "Türkiye'de birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir; deri olduğu için trafikte ısınır, kurye kullanımı için uygun değil.",
+      "uzunYol": "Termal astarla serin havada hafta sonu turlarına uygun; bagaj cebi kısıtlı.",
+      "yaz": "Yan havalandırmalar var ama delikli değil; sıcakta ısınabilir.",
+      "kis": "Termal iç ceket serin havada yardımcı olur; gerçek kış soğuğu için yetersiz.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport sürüşe uygun kalıp, AA sınıfı ve pantolon bağlantısı var."
+    },
+    "verdict": "Avro 6, tek bir deri montu ilkbahardan sonbahara kullanmak isteyen sport sürücü için mantıklı. Termal iç ceket gerçek bir artı; ancak yağmur koruması yok ve sırt koruyucu ayrıca hesaplanmalı.",
+    "rivals": [
+      "dainese/racing-5",
+      "dainese/super-speed-5",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Avro 6'nın termal astarı çıkarılabilir mi?",
+        "a": "Evet, üretici çıkarılabilir bir termal iç ceket bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "Evet; Dainese montun Smart Air yeleğinin üzerine giyilecek şekilde hazırlandığını belirtiyor. Yelek ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/avro-6---leather-motorcycle-jacket-men-2015300140A77.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/avro-6---leather-motorcycle-jacket-men-2015300140A77.html",
+        "type": "manufacturer",
+        "label": "Dainese – Avro 6 - Leather Motorcycle Jacket Men ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Red-Lava/White"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tutu sığır derisi, Nirak deri parçalar, S1 bi-elastik kumaş",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Yanlarda hava kanalları",
+      "closure": "Mont-pantolon bağlantı sistemi, bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tempest-4-d-dry",
+    "brand": "dainese",
+    "name": "Tempest 4 D-Dry",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "D-Dry membranlı, çıkarılabilir termal astarlı, omuz ve dirsekte Level 2 koruyuculu, EN 17092 A sınıfı ve Smart Air uyumlu yol touring montu.",
+    "description": [
+      "Tempest 4 D-Dry, Dainese'nin motosikleti yıl boyu kullanan sürücüler için tasarladığı yol touring montu. Su geçirmez ve nefes alabilen D-Dry membran yağmuru keserken çıkarılabilir termal astar soğuk aylarda yalıtım sağlıyor. Sıcak günler için göğüste iki hava girişi var. Bel, kol, manşet ve boyunda ayar panelleri ile streç parçalar farklı vücut tiplerine uyum sağlıyor.",
+      "Monta EN 17092 A sınıfı veriliyor; bu, Carve Master 4 ve Gullfoss'un AA sınıfının bir altı. Omuz ve dirseklerde Level 2 Pro-Armor koruyucular standart, sırt koruyucu cebi ve Smart Air uyumu var. İki su geçirmez dış cep, sırtta kargo cebi ve su geçirmez iç cep günlük kullanım ve yolculuk için yeterli depolama sunuyor. Dainese montun Tempest 4 D-Dry pantolonla takım olarak kullanılabileceğini belirtiyor."
+    ],
+    "forWho": [
+      "Motosikleti işe gidiş ve hafta sonu turu için yıl boyu kullananlar",
+      "Yağmur ve serin hava için tek bir orta segment touring mont isteyenler",
+      "Smart Air airbag ile kullanılabilecek bir tekstil mont arayanlar"
+    ],
+    "notFor": [
+      "Pist ve agresif sport sürüş yapanlar",
+      "Yüksek sıcaklıklarda sürekli kullanacaklar: yalnız göğüs girişleri var, file mont kadar serin değil"
+    ],
+    "pros": [
+      "D-Dry membran ve çıkarılabilir termal astar ile dört mevsim kullanım",
+      "Omuz ve dirsekte Level 2 koruyucu standart",
+      "Smart Air uyumu",
+      "Su geçirmez dış ve iç cepler, sırt kargo cebi"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A; AA sınıfı touring montların bir altında",
+      "Sırt koruyucu dahil değil",
+      "Membran içte olduğu için dış kumaş ıslanıp ağırlaşabilir",
+      "Türkiye'de birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidişte rahat ve pratik; çok cepli yapısı işe yarar.",
+      "uzunYol": "Orta mesafeli turlar için tasarlanmış; kargo cebi ve pantolon bağlantısı var.",
+      "yaz": "Göğüs girişleriyle ılık havada idare eder; sıcak yazda file montun yerini tutmaz.",
+      "kis": "Termal astarla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "D-Dry membran yağmura karşı koruma sağlar.",
+      "kurye": "Dört mevsim yapısı ve cepleriyle kurye kullanımına uygun bir aday; yoğun yazın sıcaklık sınırlayıcı.",
+      "sport": "Sport sürüş için tasarlanmamış; koruma seviyesi yol kullanımı için."
+    },
+    "verdict": "Tempest 4 D-Dry, yıl boyu tek montla sürmek isteyen yol sürücüsü için dengeli bir seçim. Level 2 koruyucular ve Smart Air uyumu artı; A sınıfı sertifika ve sınırlı yaz havalandırması ise üst segment touring montlardan ayrıldığı noktalar.",
+    "rivals": [
+      "held/4-touring-2",
+      "dainese/gullfoss-d-dry",
+      "dainese/carve-master-4-gore-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tempest 4 su geçirmez mi?",
+        "a": "Evet. Üretici montta su geçirmez ve nefes alabilen D-Dry membran bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Termal astar ayrı kullanılabilir mi?",
+        "a": "Üretici astarı çıkarılabilir olarak tanımlıyor; ayrı ceket olarak kullanımından söz etmiyor."
+      },
+      {
+        "q": "Hangi pantolonla takım olur?",
+        "a": "Dainese, Tempest 4 D-Dry pantolonla bağlantılı takım olarak kullanılmasını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-jacket-waterproof-men-201650002138T.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-jacket-waterproof-men-201650002138T.html",
+        "type": "manufacturer",
+        "label": "Dainese – Tempest 4 D-Dry - Motorcycle Jacket Waterproof Men ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Red",
+      "Black/Raven/Blue"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Tekstil gövde, bi-elastik streç paneller, D-Dry membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (su geçirmez, nefes alabilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2 hava girişi",
+      "closure": "Mont-pantolon bağlantı sistemi; boyun, bel, kol ve manşet ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "carve-master-4-gore-tex",
+    "brand": "dainese",
+    "name": "Carve Master 4 Gore-Tex",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "kislik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX ePE membranlı, ayrı ceket olarak da giyilebilen termal astarlı, EN 17092 AA sınıfı ve Level 2 koruyuculu sport-touring montu.",
+    "description": [
+      "Carve Master 4 Gore-Tex, Dainese'nin sport-touring montunun dördüncü kuşağı. Yeni GORE-TEX ePE membran su geçirmezliği ve nefes alabilirliği üstleniyor. Gövdede yumuşak ve hafif Mugello streç kumaş geniş paneller halinde kullanılıyor; kalça, kol, bilek ve boyundaki ayarlarla kalıp kişiselleştirilebiliyor. Üretici bir önceki sürüme göre daha yumuşak bir yapıdan söz ediyor.",
+      "Monta EN 17092 AA sınıfı veriliyor. Omuz ve dirsekte havalandırmalı Level 2 Pro-Armor koruyucular ile PU/plastik omuz plakaları standart; sırt ve göğüs koruyucu için cep ve Smart Air uyumu var. Çıkarılabilir termal astar ayrı ceket olarak da giyilebiliyor. Göğüs, sırt ve kollardaki havalandırmalar tek elle açılıyor. İki su geçirmez dış cep, göğüste iki file cep, sırt kargo cebi ve kolda kart cebi bulunuyor."
+    ],
+    "forWho": [
+      "Sport-touring motosikletle serin ve yağışlı havada uzun yol yapanlar",
+      "GORE-TEX garantisi olan, AA sınıfı ve airbag uyumlu bir mont isteyenler",
+      "Eşiyle uyumlu takım kurmak isteyen çiftler (kadın versiyonu var)"
+    ],
+    "notFor": [
+      "Yazın sıcak şehir trafiğinde kullanacaklar",
+      "Sınırlı bütçeyle kurye işinde kullanacaklar: fiyatı yoğun yıpranmaya göre yüksek"
+    ],
+    "pros": [
+      "GORE-TEX ePE membran ve EN 17092 AA sınıfı",
+      "Ayrı ceket olarak da giyilebilen termal astar",
+      "Göğüs, sırt ve kolda tek elle açılan havalandırmalar",
+      "Level 2 koruyucular ve Smart Air uyumu"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu ayrıca alınmalı",
+      "Kışlık konumlandırma nedeniyle sıcak yazda ağır kalır",
+      "Fiyatı tekstil montlar arasında üst segmentte"
+    ],
+    "usage": {
+      "sehir": "Serin ve yağışlı günlerde işe gidişte rahat; yazın şehirde fazla sıcak.",
+      "uzunYol": "Asıl kullanım alanı; cepleri, pantolon bağlantısı ve membranıyla uzun turlara uygun.",
+      "yaz": "Havalandırmalar ılık havada yeterli; sıcak yaz için file mont daha uygun.",
+      "kis": "Termal astar ve GORE-TEX ile soğuk mevsimde güçlü.",
+      "yagmur": "GORE-TEX ePE membran yağmura karşı güvenilir koruma sağlar.",
+      "kurye": "Teknik olarak dayanıklı ama fiyatı yoğun kurye kullanımına göre yüksek.",
+      "sport": "Sport-touring kalıbı viraj sürüşünde rahat; pist montu değil."
+    },
+    "verdict": "Carve Master 4 Gore-Tex, serin ve yağışlı havada uzun yol yapan sport-touring sürücü için en tutarlı Dainese seçeneklerinden. AA sınıfı ve GORE-TEX ePE güçlü yanları; sırt koruyucu ve yüksek fiyat ise bütçeye eklenmeli.",
+    "rivals": [
+      "dainese/super-expedition-gore-tex",
+      "dainese/gullfoss-d-dry",
+      "held/4-touring-2"
+    ],
+    "priceRange": {
+      "min": 45490.0,
+      "max": 45490.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-ebony-black-50-41841",
+        "price": 45490.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Ebony/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Termal astar ayrı giyilebilir mi?",
+        "a": "Evet, Dainese astarın çıkarılabildiğini ve ayrı olarak da kullanılabildiğini belirtiyor."
+      },
+      {
+        "q": "Carve Master 4 hangi sınıfta sertifikalı?",
+        "a": "Üretici montu EN 17092 AA sınıfında sertifikalı olarak listeliyor."
+      },
+      {
+        "q": "Yazın kullanılabilir mi?",
+        "a": "Havalandırmalar ılık havada yardımcı olur, ancak montun hedefi serin ve yağışlı mevsim; sıcak yaz için file mont daha mantıklı."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/carve-master-4-gore-tex---mens-winter-motorcycle-jacket-201590000134C.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/carve-master-4-gore-tex---mens-winter-motorcycle-jacket-201590000134C.html",
+        "type": "manufacturer",
+        "label": "Dainese – Carve Master 4 Gore-Tex® - Men'S Winter Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-ebony-black-50-41841",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Carve Master 4 Gore-Tex Ebony/Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black",
+      "Ebony/Black"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Mugello streç kumaş, Duratex kumaş, GORE-TEX ePE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX ePE",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, sırt ve kollarda tek elle açılan hava kanalları",
+      "closure": "Mont-pantolon bağlantı fermuarı; kalça, kol, bilek ve boyun ayarı, büzgülü etek",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "super-rider-2-absoluteshell",
+    "brand": "dainese",
+    "name": "Super Rider 2 Absøluteshell",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Aşınma bölgelerinde deri takviyeli, çıkarılabilir Absøluteshell su geçirmez membranlı, aerodinamik kamburlu ve EN 17092 A sınıfı slim kesim sport tekstil mont.",
+    "description": [
+      "Super Rider 2 Absøluteshell, deri montun sportif kalıbını tekstilin çok yönlülüğüyle birleştirmeye çalışan bir mont. Gövde Mugello streç kumaştan, düşmede en çok sürtünen bölgelerde sığır derisi takviyeler var. Kalıp dar ve sportif; omuz arkasında streç paneller, kalça, manşet ve pazıda ayar sistemleri bulunuyor. Sırttaki aerodinamik kambur yüksek hızda stabiliteye yardım ediyor.",
+      "Nefes alan file astar sıcak günlerde havalandırma sağlarken, çıkarılabilir Absøluteshell iç membran yağmur ve rüzgâra karşı takılıyor. Omuzlarda alüminyum plakalarla birlikte çıkarılabilir EN 1621-1 kompozit koruyucular standart; üretici sayfasında koruyucu seviyesi belirtilmiyor. Sırt ve çift parça göğüs koruyucu için cep var. Mont EN 17092 A sınıfında. Üretici sayfasında Smart Air uyumundan söz edilmiyor."
+    ],
+    "forWho": [
+      "Deri mont yerine daha çok yönlü, sportif kalıplı bir tekstil mont isteyen naked/sport sürücüleri",
+      "Hem sıcak hem yağışlı günlerde aynı montu kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Geniş, rahat kalıp arayan touring sürücüleri",
+      "Kuryeler: slim kesim ve sınırlı cep, gün boyu kullanımda kısıtlayıcı",
+      "Airbag yeleği kullanmayı planlayanlar (uyum belirtilmemiş)"
+    ],
+    "pros": [
+      "Aşınma bölgelerinde deri takviye",
+      "Çıkarılabilir su geçirmez membran ile geniş kullanım aralığı",
+      "Alüminyum omuz plakaları ve aerodinamik kambur",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Koruyucu seviyesi üretici sayfasında belirtilmemiş",
+      "Membran iç katman olduğundan yağmurda dış kumaş ıslanır",
+      "Termal astar yok"
+    ],
+    "usage": {
+      "sehir": "Sportif görünümüyle şehirde giyilebilir; dar kalıp uzun süre inip binmede yorabilir.",
+      "uzunYol": "Hafta sonu turlarında iş görür; touring montu kadar cep ve konfor sunmaz.",
+      "yaz": "Membran çıkarıldığında file astar ve file panellerle sıcakta kullanılabilir.",
+      "kis": "Termal astar yok; soğukta altına katman gerekir.",
+      "yagmur": "Absøluteshell iç membran takıldığında yağmura karşı koruma sağlar.",
+      "sport": "Sport kalıbı, deri takviyeler ve kamburla viraj sürüşüne yönelik."
+    },
+    "verdict": "Super Rider 2 Absøluteshell, deri mont havasında ama yağmurda da kullanılabilecek sportif bir tekstil mont arayanlara hitap ediyor. Çok yönlü yapısı artı; A sınıfı sertifika ve koruyucu seviyesinin belirtilmemesi ise net eksiler.",
+    "rivals": [
+      "dainese/avro-5",
+      "dainese/carve-master-4-gore-tex",
+      "dainese/racing-5"
+    ],
+    "priceRange": {
+      "min": 37790.0,
+      "max": 37790.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-super-rider-2-black-white-absluteshell-mont",
+        "price": 37790.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/White"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran çıkarılabilir mi?",
+        "a": "Evet. Üretici Absøluteshell su geçirmez membranın çıkarılabilir iç katman olduğunu belirtiyor."
+      },
+      {
+        "q": "Mont deri mi tekstil mi?",
+        "a": "Gövde Mugello streç tekstilden; sürtünmeye en açık bölgelerde sığır derisi takviyeler var."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/super-rider-2-absoluteshell---mens-waterproof-motorcycle-jacket-20165463085I.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/super-rider-2-absoluteshell---mens-waterproof-motorcycle-jacket-20165463085I.html",
+        "type": "manufacturer",
+        "label": "Dainese – Super Rider 2 Absoluteshell™ - Men'S Waterproof Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-super-rider-2-black-white-absluteshell-mont",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Super Rider 2 Absøluteshell Black/Black/White",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/White",
+      "Black/Dark-Gull-Gray/Fluo-Red"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Mugello streç kumaş, sığır derisi takviyeler, file paneller, çıkarılabilir Absøluteshell membran",
+      "materialClass": "karma",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Absøluteshell (çıkarılabilir iç membran)",
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan file astar, file paneller",
+      "closure": "Mont-pantolon bağlantı sistemi; boyun, bilek, bel ve pazı ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "super-expedition-gore-tex",
+    "brand": "dainese",
+    "name": "Super Expedition Gore-Tex",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX ePE membran ve laminasyonlu kumaş kullanan, geniş havalandırma panelli, EN 17092 AA sınıfı ve Smart Air uyumlu adventure montu.",
+    "description": [
+      "Super Expedition Gore-Tex, Dainese'nin asfalt ve toprak yolda orta ve uzun mesafe yapan adventure sürücüleri için tasarladığı ralli görünümlü mont. Üretici GORE-TEX ePE membran ve GORE-TEX laminasyonlu kumaş kullanıldığını, bu sayede yağmurdan sonra hızlı kuruduğunu belirtiyor. Göğüsteki geniş havalandırma panelleri, kol ve sırttaki kanallarla birlikte ılık iklimde ve ayakta sürüşte hava akışı sağlıyor.",
+      "Yapı modüler: Esplora uyumlu termal katman ayrıca satılıyor, yani mont kutudan çıktığında termal astar içermiyor. Monta EN 17092 AA sınıfı veriliyor; omuz ve dirsekte Level 2 kompozit koruyucular, sırt ve göğüs koruyucu cepleri ve Smart Air uyumu var. Farklı iç katman kombinasyonları için içte körük bulunuyor. Önde dört cep, su geçirmez iç cep, sırtta kargo cebi ve kolda belge cebi var."
+    ],
+    "forWho": [
+      "Büyük adventure motosikletle asfalt ve toprak yolda uzun tur yapanlar",
+      "Yağmurlu iklimde hızlı kuruyan laminasyonlu bir mont isteyenler",
+      "Smart Air airbag ile adventure sürüşü yapmak isteyenler"
+    ],
+    "notFor": [
+      "Soğuk iklimde ek termal katman almadan kullanmak isteyenler",
+      "Bütçesi sınırlı şehir kullanıcıları ve kuryeler: adventure odaklı ve pahalı bir mont"
+    ],
+    "pros": [
+      "GORE-TEX laminasyonlu yapı, yağmurdan sonra hızlı kuruma",
+      "EN 17092 AA sınıfı ve Level 2 koruyucular",
+      "Geniş göğüs havalandırma panelleri",
+      "Smart Air uyumu ve bol cep"
+    ],
+    "cons": [
+      "Termal katman dahil değil, ayrı satılıyor",
+      "Sırt ve göğüs koruyucu ayrıca alınmalı",
+      "Türkiye'de birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir ama büyük ve adventure odaklı bir mont.",
+      "uzunYol": "Asıl hedefi; cepler, pantolon bağlantısı ve hava koruması uzun tura göre.",
+      "yaz": "Geniş göğüs panelleri ve kanallarla ılık havada iyi havalanır.",
+      "kis": "Termal astar dahil değil; soğukta ek katman gerekir.",
+      "yagmur": "GORE-TEX laminasyonlu yapıyla güçlü yağmur koruması.",
+      "sport": "Asfaltta sport sürüş için değil, adventure kullanım için tasarlanmış."
+    },
+    "verdict": "Super Expedition Gore-Tex, yağmurda güvenilir ve toprak yolda işlevsel bir adventure montu arayan için üst seviye bir seçim. Termal katmanın ve sırt koruyucunun ayrıca alınması gerekmesi toplam maliyeti artırıyor.",
+    "rivals": [
+      "dainese/gullfoss-d-dry",
+      "dainese/carve-master-4-gore-tex",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Termal astar dahil mi?",
+        "a": "Hayır. Dainese, Esplora uyumlu termal katmanın ayrıca satıldığını belirtiyor."
+      },
+      {
+        "q": "Laminasyonlu mont neden önemli?",
+        "a": "Membranın dış kumaşla birleşik olması kumaşın su emip ağırlaşmasını önler ve yağmurdan sonra daha hızlı kurumasını sağlar."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/super-expedition---gore-tex-motorcycle-jacket-men-201590000634R.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/super-expedition---gore-tex-motorcycle-jacket-men-201590000634R.html",
+        "type": "manufacturer",
+        "label": "Dainese – Super Expedition - Gore-Tex Motorcycle Jacket Men ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Red",
+      "Light-Grey/Blue",
+      "Tidal Foam/Red"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "GORE-TEX laminasyonlu kumaş, GORE-TEX ePE membran, omuz ve dirsekte takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX ePE",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste geniş havalandırma panelleri, kollarda ve sırtta hava kanalları",
+      "closure": "Mont-pantolon bağlantı sistemi; boyun, bel, kol ve manşet ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "gullfoss-d-dry",
+    "brand": "dainese",
+    "name": "Gullfoss D-Dry",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Çıkarılabilir ve montun üstüne de giyilebilen D-Dry membranlı, ayrı giyilebilen termal astarlı, EN 17092 AA sınıfı modüler ralli tarzı adventure montu.",
+    "description": [
+      "Gullfoss D-Dry, Dainese'nin dört mevsim adventure seyahati için tasarladığı modüler ralli montu. En dikkat çekici özelliği D-Dry membran: 10.000 mm su sütununa dayanıklı olarak tanımlanan bu katman çıkarılabiliyor ve cırtlı bağlantılarla montun içine ya da üstüne takılabiliyor. Termal astar da çıkarılabiliyor ve ayrı ceket olarak giyilebiliyor. Kullanılmadığında membran sırt kargo cebine konabiliyor.",
+      "Göğüsteki büyük hava girişleri havayı omuzlar üzerinden sırttaki çıkış kanalına yönlendiriyor; kollarda ayakta sürüşe göre çift sürgülü fermuarlı havalandırma var. Monta EN 17092 AA sınıfı veriliyor; omuz ve dirsekte havalandırmalı Level 2 Pro-Armor koruyucular standart, Pro-Armor Chest 2.0 ve G tipi sırt koruyucu için cepler ile Smart Air uyumu var. Kalça, kol, bilek ve boyunda ayar mevcut."
+    ],
+    "forWho": [
+      "Tek montla sıcak yazdan yağmurlu sonbahara kadar adventure turu yapmak isteyenler",
+      "Membranı dışa takarak montun ıslanmasını önlemek isteyenler",
+      "AA sınıfı ve airbag uyumlu bir adventure montu arayanlar"
+    ],
+    "notFor": [
+      "Katman takıp çıkarmakla uğraşmak istemeyenler: modüler yapı sürekli düzenleme ister",
+      "Sport ve pist sürüşü yapanlar"
+    ],
+    "pros": [
+      "Çıkarılabilir, montun üstüne de giyilebilen D-Dry membran",
+      "Ayrı ceket olarak giyilebilen termal astar",
+      "EN 17092 AA sınıfı, Level 2 koruyucular ve Smart Air uyumu",
+      "Göğüs-sırt kanal sistemiyle güçlü havalandırma"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu dahil değil",
+      "Membran ayrı katman olduğu için yağmur başlayınca takmak için durmak gerekir",
+      "Modüler yapı bazı kullanıcılar için karmaşık"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir; büyük cepleri pratik ama ralli görünümü ve hacmi şehir için iri.",
+      "uzunYol": "Asıl hedefi; modüler katmanlar farklı iklimlerde tur imkânı verir.",
+      "yaz": "Göğüs girişleri ve sırt çıkışı ile sıcak havada iyi havalanır.",
+      "kis": "Termal astar ve membran birlikte soğuk günlerde kullanılabilir.",
+      "yagmur": "D-Dry membran içte veya dışta takılarak yağmur koruması sağlar.",
+      "kurye": "Dört mevsim yapısı uygun; membranın ayrı katman olması sık yağmurda pratik değil.",
+      "sport": "Sport sürüş için tasarlanmamış."
+    },
+    "verdict": "Gullfoss D-Dry, iklimi değişken bölgelerde tek montla tur yapmak isteyen adventure sürücü için çok yönlü bir mont. AA sınıfı ve membranın dışa takılabilmesi güçlü yanları; katman yönetimi ve ayrıca alınacak sırt koruyucu ise hesaba katılmalı.",
+    "rivals": [
+      "dainese/super-expedition-gore-tex",
+      "dainese/tempest-4-d-dry",
+      "held/4-touring-2"
+    ],
+    "priceRange": {
+      "min": 30390.0,
+      "max": 30390.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-black-blacktidal-foam-48-44144",
+        "price": 30390.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/Tidal Foam"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-gargoyle-black-blue-56-44145",
+        "price": 30390.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gargoyle/Black/Blue"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran montun üstüne takılabilir mi?",
+        "a": "Evet. Üretici D-Dry membranın cırtlı bağlantılarla montun içine veya üstüne giyilebildiğini belirtiyor."
+      },
+      {
+        "q": "Termal astar ayrı giyilebilir mi?",
+        "a": "Evet, Dainese termal iç katmanın ayrı olarak da kullanılabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/gullfoss-d-dry---motorcycle-jacket-waterproof-men-201650001936R.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/gullfoss-d-dry---motorcycle-jacket-waterproof-men-201650001936R.html",
+        "type": "manufacturer",
+        "label": "Dainese – Gullfoss D-Dry - Motorcycle Jacket Waterproof Men ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-black-blacktidal-foam-48-44144",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Gullfoss D-Dry Black/Black/Tidal Foam",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-gargoyle-black-blue-56-44145",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Gullfoss D-Dry Gargoyle/Black/Blue",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Tidal Foam",
+      "Gargoyle/Black/Blue",
+      "Tidal Foam/Black/Red"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Tekstil gövde, kauçuklu dayanıklı kumaş takviyeler, çıkarılabilir D-Dry membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (çıkarılabilir, montun içine veya üstüne giyilebilir, 10.000 mm su sütunu)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2 büyük hava girişi, sırttan çıkış kanalı, kollarda çift sürgülü fermuarlı kanallar",
+      "closure": "Mont-pantolon bağlantı sistemi; boyun, bel, kol ve manşet ayarı, yaka kancası",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "air-frame-3-tex",
+    "brand": "dainese",
+    "name": "Air Frame 3 Tex",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "File gövdeli, çıkarılabilir rüzgâr kesici astarlı, omuz ve dirsekte kompozit koruyuculu, EN 17092 A sınıfı yazlık tekstil mont.",
+    "description": [
+      "Air Frame 3 Tex, Dainese'nin yazlık montları arasında uzun süredir en çok tercih edilen serinin güncel sürümü. Gövde büyük ölçüde file kumaştan; QuickDry kumaş parçalar ve nefes alan file astar sıcak havada serin kalmayı amaçlıyor. Çıkarılabilir rüzgâr kesici astar ise sabah serinliğinde veya ılık havada montu kullanılabilir kılıyor. Kollarda yüksek hızda kumaşın uçuşmasını önleyen ayar, bel, boyun ve bilekte ayarlar var.",
+      "Monta EN 17092 A sınıfı veriliyor. Omuz ve dirseklerde çıkarılabilir EN 1621-1 kompozit koruyucular standart; üretici sayfasında seviye belirtilmiyor. G tipi sırt koruyucu ve iki parça Pro-Armor göğüs koruyucu için cep var. Su geçirmez bir iç cep, iki dış cep, reflektif detaylar ve pantolon bağlantı fermuarı bulunuyor. Dainese montu Drake 2 Super Air pantolonla eşleştiriyor. Su geçirmezlik iddiası ve airbag uyumu bilgisi yok."
+    ],
+    "forWho": [
+      "Sıcak iklimde şehir içi ve kısa tur yapan sürücüler",
+      "Yaz için ikinci bir mont arayan, uygun fiyatlı Dainese isteyenler",
+      "Yazın kurye olarak çalışıp koruma sertifikalı file mont arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda kullanacaklar: membran yok",
+      "Soğuk mevsimde tek montla idare etmek isteyenler"
+    ],
+    "pros": [
+      "Geniş file yüzey ile sıcakta iyi havalandırma",
+      "Çıkarılabilir rüzgâr kesici astar",
+      "EN 17092 A sınıfı, sırt ve göğüs koruyucu cepleri",
+      "Türkiye'de yerleşik mağazada fiyatı erişilebilir seviyede"
+    ],
+    "cons": [
+      "Koruyucu seviyesi üretici sayfasında belirtilmemiş",
+      "Su geçirmez değil",
+      "Smart Air uyumu belirtilmemiş",
+      "Sırt ve göğüs koruyucu ayrıca alınmalı"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde rahat; file yapı trafikte de hava aldırır.",
+      "uzunYol": "Sıcak havada tura uygun; yağmur için yanında yağmurluk taşımak gerekir.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "kurye": "Sıcak aylarda kurye kullanımı için mantıklı; sırt koruyucu eklenmesi önerilir.",
+      "sport": "Sport kalıp değil; yol ve şehir kullanımına yönelik."
+    },
+    "verdict": "Air Frame 3 Tex, sıcak havada sertifikalı korumayı uygun fiyatla isteyen sürücü için iyi bir yaz montu. Sırt koruyucu eklemek ve yağmur için ayrı çözüm düşünmek gerekiyor.",
+    "rivals": [
+      "dainese/super-sprint-air-tex",
+      "dainese/herosphere-air-tex",
+      "held/sonic-2-lady"
+    ],
+    "priceRange": {
+      "min": 18990.0,
+      "max": 18990.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketair-frame-3-tex-jacket-blackblackred-fluo-50-46354",
+        "price": 18990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/Red-Fluo"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketair-frame-3-tex-jacket-blackblackwhite-48-46312",
+        "price": 18990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/White"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Air Frame 3 yağmurda kullanılır mı?",
+        "a": "Hayır, montta membran yok. Yalnız iç cep su geçirmez; yağmurda üstüne yağmurluk giyilmeli."
+      },
+      {
+        "q": "Rüzgâr kesici astar çıkarılabilir mi?",
+        "a": "Evet, üretici astarı çıkarılabilir rüzgâr kesici olarak tanımlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/air-frame-3-tex---mens-summer-motorcycle-jacket-in-fabric-2017300055691.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/air-frame-3-tex---mens-summer-motorcycle-jacket-in-fabric-2017300055691.html",
+        "type": "manufacturer",
+        "label": "Dainese – Air Frame 3 Tex - Men'S Summer Motorcycle Jacket In Fabric ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketair-frame-3-tex-jacket-blackblackred-fluo-50-46354",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Air Frame 3 Tex Black/Black/Red-Fluo",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketair-frame-3-tex-jacket-blackblackwhite-48-46312",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Air Frame 3 Tex Black/Black/White",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Black",
+      "Black/Black/Red-Fluo",
+      "Black/Black/White",
+      "Light Gray/Light Gray/Black"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "File kumaş paneller, QuickDry kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File gövde, nefes alan file astar, çıkarılabilir rüzgâr kesici astar",
+      "closure": "Mont-pantolon bağlantı fermuarı; boyun, bel, bilek ve kolda uçuşma önleyici ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "super-sprint-air-tex",
+    "brand": "dainese",
+    "name": "Super Sprint Air Tex",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Softshell kumaş ve geniş file panellerden, çıkarılabilir kapüşonlu, omuz ve dirsekte Level 1 Pro-Armor koruyuculu, EN 17092 A sınıfı ve Smart Air uyumlu şehir yaz montu.",
+    "description": [
+      "Super Sprint Air Tex, sıcak günlerde şehir ve banliyö kullanımına yönelik sportif bir yaz montu. Gövde yumuşak softshell kumaştan, geniş file paneller hava akışı sağlıyor. Tasarım yarış dünyasından grafikler ve omuz plakalarını, şehir tarafından da çıkarılabilir kapüşonu bir araya getiriyor. Sürüş sırasında kapüşonu sabitlemek için halka var.",
+      "Monta EN 17092 A sınıfı veriliyor. Omuz ve dirseklerde havalandırmalı, çıkarılabilir Pro-Armor koruyucular EN 1621-1 Level 1 olarak belirtiliyor; omuzda polipropilen plaka var. Pro-Armor sırt ve göğüs koruyucu cepleri ile Smart Air uyumu bulunuyor. Su geçirmez iç cep ve pantolon bağlantı halkası diğer pratik detaylar. Membran ve termal astar yok."
+    ],
+    "forWho": [
+      "Yazın şehir içi ve kısa banliyö sürüşü yapanlar",
+      "Günlük kıyafete yakın, kapüşonlu sportif bir mont isteyenler",
+      "Smart Air yeleğini yaz montuyla kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda sürmek zorunda olanlar",
+      "Uzun yol ve yüksek hızda en yüksek korumayı arayanlar: koruyucular Level 1"
+    ],
+    "pros": [
+      "Softshell ve file karışımıyla sıcakta rahat",
+      "Smart Air uyumu",
+      "Sırt ve göğüs koruyucu cepleri",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "Omuz ve dirsek koruyucuları Level 1",
+      "Su geçirmez değil",
+      "Termal astar yok, serin havada sınırlı"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi; kapüşon ve sportif tasarım şehirde günlük giyime yakın.",
+      "uzunYol": "Kısa turlar için uygun; uzun yolda koruma ve cep sayısı sınırlı.",
+      "yaz": "Geniş file panellerle sıcakta iyi havalanır.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yazın şehir içi kurye kullanımına uygun; Level 2 koruyucuya yükseltmek önerilir.",
+      "sport": "Sportif görünüm var ama pist için tasarlanmamış."
+    },
+    "verdict": "Super Sprint Air Tex, yazın şehirde rahat ve şık görünen sertifikalı bir mont arayanlar için iyi bir seçim. Level 1 koruyucular ve yağmur korumasının olmaması sınırları belirliyor.",
+    "rivals": [
+      "dainese/air-frame-3-tex",
+      "dainese/herosphere-air-tex",
+      "dainese/ignite-2"
+    ],
+    "priceRange": {
+      "min": 20490.0,
+      "max": 20490.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-cek-super-sprint-air-tex-jacket-blackwhitered-48-46310",
+        "price": 20490.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/White/Red"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kapüşon çıkarılabilir mi?",
+        "a": "Evet, üretici kapüşonun çıkarılabilir olduğunu ve sürüşte sabitlemek için halka bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Koruyucular hangi seviyede?",
+        "a": "Üretici omuz ve dirsekteki Pro-Armor koruyucuları EN 1621-1 Level 1 olarak belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/super-sprint-air-tex---mens-summer-mesh-motorcycle-jacket-2017300036622.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/super-sprint-air-tex---mens-summer-mesh-motorcycle-jacket-2017300036622.html",
+        "type": "manufacturer",
+        "label": "Dainese – Super Sprint Air Tex - Men'S Summer Mesh Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-cek-super-sprint-air-tex-jacket-blackwhitered-48-46310",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Super Sprint Air Tex Black/White/Red",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/White",
+      "Black/White/Red"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Softshell kumaş, geniş file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Geniş file paneller, nefes alan file astar",
+      "closure": "Mont-pantolon bağlantı halkası; boyun, bel, manşet ve kol ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "herosphere-air-tex",
+    "brand": "dainese",
+    "name": "Herosphere Air Tex",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Hafif file gövdeli, omuz ve dirsekte havalandırmalı Pro-Armor koruyuculu, EN 17092 A sınıfı sportif tasarımlı yazlık mont.",
+    "description": [
+      "Herosphere Air Tex, hafifliği öne çıkan, sportif ama teknik görünümlü bir yaz montu. Gövde file kumaştan; Dainese sayfasında astar, membran ya da termal katmandan söz edilmiyor, yani tamamen sıcak hava için tasarlanmış basit bir yapı. Bilek ve kalçada ayar, sırta hava dolmasını önleyen pantolon bağlantı halkası var.",
+      "Monta EN 17092 A sınıfı veriliyor. Omuz ve dirseklerde havalandırmalı, çıkarılabilir EN 1621-1 Pro-Armor koruyucular standart; seviye belirtilmiyor. G tipi sırt ve iki parça göğüs koruyucu için cep var. İki ön cep ve su geçirmez iç cep, telefonu ve belgeleri yağmurdan korumak için yeterli. Ailenin en sade ve uygun fiyatlı yaz montlarından biri."
+    ],
+    "forWho": [
+      "Sıcak iklimde hafif ve serin bir sertifikalı mont isteyenler",
+      "Bütçesini koruyarak Dainese yaz montu almak isteyenler",
+      "Sportif görünümlü naked motosiklet kullanıcıları"
+    ],
+    "notFor": [
+      "Serin sabahlar ve yağmur için çok yönlü mont arayanlar: astar ve membran yok",
+      "Uzun yolda çok cep ve depolama isteyenler"
+    ],
+    "pros": [
+      "Çok hafif file yapı",
+      "EN 17092 A sınıfı, sırt ve göğüs koruyucu cepleri",
+      "Türkiye'de yerleşik mağazada uygun fiyatlı",
+      "Sırt hava dolmasını önleyen pantolon bağlantısı"
+    ],
+    "cons": [
+      "Koruyucu seviyesi belirtilmemiş",
+      "Rüzgâr kesici astar yok",
+      "Su geçirmez değil",
+      "Smart Air uyumu belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde hafif ve serin.",
+      "uzunYol": "Sıcak havada kısa turlara uygun; serin saatlerde astarsız yapı üşütebilir.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yaz aylarında şehir içi kurye kullanımı için uygun ve uygun fiyatlı; sırt koruyucu eklenmeli.",
+      "sport": "Sportif görünümlü; pist kullanımı için değil."
+    },
+    "verdict": "Herosphere Air Tex, sıcak iklimde basit, hafif ve sertifikalı bir yaz montu isteyen için uygun fiyatlı bir seçenek. Astarsız yapısı onu yalnız yaz montu yapıyor.",
+    "rivals": [
+      "dainese/air-frame-3-tex",
+      "dainese/super-sprint-air-tex",
+      "held/sonic-2-lady"
+    ],
+    "priceRange": {
+      "min": 15190.0,
+      "max": 15190.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketherosphere-air-tex-jacket-black-white-stripesred-46--44282",
+        "price": 15190.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/White Stripes/Red"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketherosphere-air-tex-jacket-black-white-yellow-fluo-46--44283",
+        "price": 15190.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/White/Yellow-Fluo"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Herosphere'in astarı var mı?",
+        "a": "Üretici sayfasında çıkarılabilir astar veya membran belirtilmiyor; mont sıcak hava için file yapıda."
+      },
+      {
+        "q": "Sırt koruyucu takılabilir mi?",
+        "a": "Evet, G1/G2 tipi sırt koruyucu için cep var; koruyucu ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/herosphere-air-tex---mens-motorcycle-jacket-in-fabric-201730005133O.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/herosphere-air-tex---mens-motorcycle-jacket-in-fabric-201730005133O.html",
+        "type": "manufacturer",
+        "label": "Dainese – Herosphere Air Tex - Men'S Motorcycle Jacket In Fabric ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketherosphere-air-tex-jacket-black-white-stripesred-46--44282",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Herosphere Air Tex Black/White Stripes/Red",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketherosphere-air-tex-jacket-black-white-yellow-fluo-46--44283",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Herosphere Air Tex Black/White/Yellow-Fluo",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/White Stripes/Red",
+      "Black/White/Yellow-Fluo"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "File kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File gövde",
+      "closure": "Mont-pantolon bağlantı halkası; bilek ve kalça ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "ignite-2",
+    "brand": "dainese",
+    "name": "Ignite 2 Tex",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Rüzgâr geçirmez polar içli kumaştan, tek elle ayarlanan çıkarılabilir kapüşonlu, Level 1 Pro-Armor koruyuculu ve EN 17092 A sınıfı casual şehir montu.",
+    "description": [
+      "Ignite 2 Tex, Dainese'nin şehir koleksiyonundaki en çok satan montun yenilenmiş hali. Görünüm motosiklet montundan çok günlük bir softshell ceketine yakın. Rüzgâr geçirmez yumuşak kumaş ve polar iç yüzey serin havada sıcak tutmayı amaçlıyor. Uno Touch Hood Peak adlı çıkarılabilir kapüşon, içindeki çelik tel sayesinde tek elle yüzün çevresine sıkılaşıp bir siper oluşturuyor; rüzgârda çırpınabilecek ip kullanılmamış.",
+      "Monta EN 17092 A sınıfı veriliyor. Omuz ve dirseklerde havalandırmalı, çıkarılabilir Pro-Armor koruyucular EN 1621-1 Level 1 olarak belirtiliyor; G tipi sırt ve göğüs koruyucu için cep var. Elastik bilek manşetleri, su geçirmez iç cep, iki dış cep, sırtta reflektif detaylar ve pantolon bağlantı halkası bulunuyor. Membran yok; kumaş su itici olarak tanımlanıyor."
+    ],
+    "forWho": [
+      "Şehir içinde günlük kıyafetle uyumlu, korumalı bir mont isteyenler",
+      "Scooter ve küçük hacimli motosikletle işe gidenler",
+      "Serin ilkbahar ve sonbahar günlerinde kısa şehir sürüşü yapanlar"
+    ],
+    "notFor": [
+      "Yağmurda uzun süre sürecek kuryeler: membran yok",
+      "Yüksek hızlı otoyol ve uzun yol kullanıcıları: Level 1 koruyucu ve casual kalıp"
+    ],
+    "pros": [
+      "Günlük ceket görünümü",
+      "Tek elle ayarlanan Uno Touch Hood Peak kapüşon",
+      "Polar iç yüzeyle serin havada sıcak",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Membran yok, yalnız su itici",
+      "Yazın sıcak, havalandırma fermuarı yok",
+      "Smart Air uyumu belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi; günlük giyime yakın görünüm ve pratik kapüşon.",
+      "uzunYol": "Uzun yol için tasarlanmamış.",
+      "yaz": "Polar iç yüzey ve havalandırma eksikliği nedeniyle yazın sıcak.",
+      "kis": "Serin havada iyi; gerçek kış soğuğunda altına katman gerekir.",
+      "yagmur": "Su itici kumaş kısa çiselemede yardımcı olur; yağmurda su geçirir.",
+      "kurye": "Kuru ve serin havada kısa şehir teslimatlarında kullanılabilir; yağmur ve yoğun tempoda yetersiz.",
+      "sport": "Sport sürüş için değil."
+    },
+    "verdict": "Ignite 2 Tex, şehirde motosiklet montu gibi görünmeyen ama sertifikalı koruma isteyen kullanıcı için iyi bir seçenek. Level 1 koruyucular ve membran eksikliği nedeniyle uzun yol ve yağmurlu kullanım için uygun değil.",
+    "rivals": [
+      "dainese/denim-tex",
+      "dainese/daemon-x-safety-hoodie",
+      "dainese/super-sprint-air-tex"
+    ],
+    "priceRange": {
+      "min": 19790.0,
+      "max": 19790.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketignite-2-tex-jacket-black-48--35515",
+        "price": 19790.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ignite 2 su geçirmez mi?",
+        "a": "Hayır. Üretici kumaşı su itici polar olarak tanımlıyor; membran yok, yalnız iç cep su geçirmez."
+      },
+      {
+        "q": "Kapüşon kask altında rahatsız eder mi?",
+        "a": "Kapüşon çıkarılabilir; kullanılmadığında reflektif bir bantla rulo yapılıp sabitlenebiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/ignite-2---men-textile-motorcycle-jacket-2017300019001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/ignite-2---men-textile-motorcycle-jacket-2017300019001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Ignite 2 - Men Textile Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketignite-2-tex-jacket-black-48--35515",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Ignite 2 Tex Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black",
+      "Black/Moss Gray",
+      "Green"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Rüzgâr geçirmez, su itici yumuşak kumaş, polar iç yüzey",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan file astar",
+      "closure": "Mont-pantolon bağlantı halkası, elastik manşetler, Uno Touch Hood Peak kapüşon",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "daemon-x-safety-hoodie",
+    "brand": "dainese",
+    "name": "Daemon-X Safety Hoodie",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Polar kumaştan, içte aramid takviyeli, omuz ve dirsekte ince Pro-Shape 2.0 koruyuculu ve EN 17092 A sınıfı motosiklet kapüşonlusu.",
+    "description": [
+      "Daemon-X Safety Hoodie, sıradan bir kapüşonlu sweatshirt görünümünde ama EN 17092 A sınıfı sertifikalı bir motosiklet giysisi. Dış kumaş polyester polar; düşmede sürtünmeye dayanım için içte aramid elyaflı jarse takviyeler kullanılıyor. Omuz ve dirsekteki Pro-Shape 2.0 yumuşak koruyucular ince olduğundan dışarıdan belli olmuyor ve kalıbı rahat, casual tutuyor.",
+      "Koruyucular EN 1621-1 sertifikalı; seviye üretici sayfasında belirtilmiyor. G tipi sırt koruyucu için cep var. Bir iç, iki dış cep ve kapüşon ipinde Bluetooth kulaklık tutucu bulunuyor. Membran, rüzgâr kesici katman ya da havalandırma sistemi yok; kumaş yapısı gereği rüzgârda serinler ve yağmurda ıslanır. Kısa şehir sürüşleri için bir 'koruyuculu günlük giysi' olarak değerlendirilmeli."
+    ],
+    "forWho": [
+      "Scooter veya küçük motosikletle kısa şehir içi sürüş yapanlar",
+      "Motosiklet montu görünümü istemeyen, sertifikalı casual giysi arayanlar"
+    ],
+    "notFor": [
+      "Otoyol ve uzun yol: polar dış kumaş rüzgârı keser değil",
+      "Kuryeler: yağmur koruması yok, koruma seviyesi gün boyu yoğun kullanım için sınırlı",
+      "Sport sürüş yapanlar"
+    ],
+    "pros": [
+      "Gerçek bir sweatshirt görünümü",
+      "İçte aramid takviye ve EN 17092 A sınıfı",
+      "Dışarıdan belli olmayan ince koruyucular",
+      "Kapüşon ipinde Bluetooth kulaklık tutucu"
+    ],
+    "cons": [
+      "Rüzgâr ve yağmura karşı koruma yok",
+      "Koruyucu seviyesi belirtilmemiş",
+      "Sırt koruyucu dahil değil",
+      "Türkiye'de birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi; kısa şehir içi sürüşlerde günlük giysi gibi.",
+      "uzunYol": "Uygun değil.",
+      "yaz": "Polar kumaş sıcak yazda terletir.",
+      "kis": "Rüzgâr kesici katman olmadığı için soğukta yetersiz.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Daemon-X Safety Hoodie, kısa şehir sürüşlerinde hiç koruma giymemekten çok daha iyi, ama tam bir motosiklet montunun yerini tutmuyor. Rüzgâr ve yağmura karşı korumasız olduğu bilinerek alınmalı.",
+    "rivals": [
+      "dainese/ignite-2",
+      "dainese/denim-tex",
+      "dainese/super-sprint-air-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Bu bir mont mu, sweatshirt mü?",
+        "a": "Görünüm olarak kapüşonlu sweatshirt; ancak EN 17092 A sınıfı sertifikalı, içte aramid takviyeli ve omuz/dirsek koruyuculu bir motosiklet giysisi."
+      },
+      {
+        "q": "Sırt koruyucu takılabilir mi?",
+        "a": "Evet, G tipi sırt koruyucu için cep var; koruyucu ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/daemon-x-safety-hoodie---mens-motorcycle-safety-hoodie-2017300077948.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/daemon-x-safety-hoodie---mens-motorcycle-safety-hoodie-2017300077948.html",
+        "type": "manufacturer",
+        "label": "Dainese – Daemon-X Safety Hoodie - Men'S Motorcycle Safety Hoodie ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.season",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.ventilation",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/White"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      },
+      {
+        "size": "64",
+        "min": 126.0,
+        "max": 130.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Polyester polar kumaş, içte aramid elyaflı jarse takviyeler",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Sabit kapüşon, kapüşon ipinde Bluetooth kulaklık tutucu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "avro-5",
+    "brand": "dainese",
+    "name": "Avro 5 Tex",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "D-Synth 350 kumaştan, çıkarılabilir termal astarlı, PU sert omuz plakalı, EN 17092 A sınıfı ve MotoGP esinli sport tekstil mont.",
+    "description": [
+      "Avro 5 Tex, Dainese'nin sport deri montu Avro'nun kumaş versiyonu. Gövde D-Synth 350 kumaştan; tasarım MotoGP sürücülerinin giydiği montlardan esinleniyor. Veloce Racing Neck yaka yapısı boyun konforunu artırmayı hedefliyor, bilek ve kalçada ayarlar var. Deri montun ağırlığını ve bakımını istemeyen sport sürücü için daha hafif ve kolay bir alternatif.",
+      "Çıkarılabilir termal astar ve göğüs/sırttaki fermuarlı havalandırmalar montu serin günlerden sıcak havaya kadar kullanılabilir kılıyor. Monta EN 17092 A sınıfı veriliyor; omuz ve dirseklerde çıkarılabilir EN 1621-1 kompozit koruyucular ve D-Synth kaplı poliüretan sert omuz plakaları standart, seviye belirtilmiyor. Göğüs ve G tipi sırt koruyucu için cep, su geçirmez iç cep ve evrensel pantolon bağlantı fermuarı var. Membran yok."
+    ],
+    "forWho": [
+      "Deri yerine tekstil sport mont isteyen naked ve sport motosiklet sürücüleri",
+      "Termal astarla ilkbahar-sonbahar kullanımı isteyenler",
+      "Deri montun bütçesine girmeden Dainese sport kalıbı arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda kullanacaklar: membran yok",
+      "Kuryeler: sportif kalıp ve membran eksikliği iş kullanımında kısıt"
+    ],
+    "pros": [
+      "Çıkarılabilir termal astar ve fermuarlı havalandırma",
+      "Sert PU omuz plakaları",
+      "Deri monttan hafif ve bakımı kolay",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A ve koruyucu seviyesi belirtilmemiş",
+      "Su geçirmez değil",
+      "Smart Air uyumu belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Şehirde rahat kullanılır; sportif kalıp dik oturuşta hafif gergin olabilir.",
+      "uzunYol": "Kısa ve orta turlara uygun; yağmur koruması yok.",
+      "yaz": "Havalandırmalar açık ve astar çıkarılmışken ılık-sıcak havada iyi.",
+      "kis": "Termal astarla serin havada kullanılabilir; kış soğuğunda yetersiz.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kalıp ve omuz plakalarıyla viraj sürüşüne yönelik."
+    },
+    "verdict": "Avro 5 Tex, deri montun görünüşünü ve kalıbını tekstilde arayan sport sürücüye uygun fiyatlı bir seçenek. Koruma seviyesi deri Avro'nun gerisinde; yağmur koruması da yok.",
+    "rivals": [
+      "dainese/super-rider-2-absoluteshell",
+      "dainese/avro-6",
+      "dainese/racing-5"
+    ],
+    "priceRange": {
+      "min": 20990.0,
+      "max": 20990.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketavro-5-tex-jacket-blackblackblack-48-44162",
+        "price": 20990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketavro-5-tex-jacket-blackbluewhite-48-44163",
+        "price": 20990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Blue/White"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Avro 5 Tex ile deri Avro 6 arasındaki fark ne?",
+        "a": "Avro 5 Tex D-Synth kumaştan ve EN 17092 A sınıfında; deri Avro 6 AA sınıfı, Level 2 koruyuculu ve Smart Air uyumlu."
+      },
+      {
+        "q": "Termal astar çıkarılabilir mi?",
+        "a": "Evet, üretici çıkarılabilir termal astar bulunduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/avro-5---mens-fabric-motorcycle-jacket-2017300053O45.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/avro-5---mens-fabric-motorcycle-jacket-2017300053O45.html",
+        "type": "manufacturer",
+        "label": "Dainese – Avro 5 - Men'S Fabric Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketavro-5-tex-jacket-blackblackblack-48-44162",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Avro 5 Tex Black/Black/Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketavro-5-tex-jacket-blackbluewhite-48-44163",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Avro 5 Tex Black/Blue/White",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Black",
+      "Black/Blue/White",
+      "Black/Red-Fluo/White",
+      "Black/White/Black"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      },
+      {
+        "size": "56",
+        "min": 110.0,
+        "max": 114.0
+      },
+      {
+        "size": "58",
+        "min": 114.0,
+        "max": 118.0
+      },
+      {
+        "size": "60",
+        "min": 118.0,
+        "max": 122.0
+      },
+      {
+        "size": "62",
+        "min": 122.0,
+        "max": 126.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "D-Synth 350 kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Göğüs ve sırtta fermuarlı hava kanalları, nefes alan file astar",
+      "closure": "Evrensel mont-pantolon bağlantı fermuarı, Veloce Racing Neck yaka, bilek ve kalça ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tempest-4-d-dry-lady",
+    "brand": "dainese",
+    "name": "Tempest 4 D-Dry Kadın",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın vücuduna göre kalıplanmış, D-Dry membranlı, çıkarılabilir termal astarlı, Level 2 omuz/dirsek koruyuculu ve EN 17092 A sınıfı dört mevsim yol touring montu.",
+    "description": [
+      "Tempest 4 D-Dry Kadın, Dainese'nin yıl boyu motosiklet kullanan kadın sürücüler için hazırladığı yol touring montu. Üretici kalıbın özellikle kadın vücuduna göre tasarlandığını ve arkada yolcu olarak sürüşü de düşündüğünü belirtiyor. Su geçirmez ve nefes alabilen D-Dry membran yağmuru keserken çıkarılabilir termal astar soğuk aylarda yalıtım sağlıyor. Göğüsteki hava girişleri ılık havada işe yarıyor.",
+      "Monta EN 17092 A sınıfı veriliyor; omuz ve dirseklerde Level 2 Pro-Armor koruyucular standart, sırt koruyucu ve Smart Air uyumu var. Bel, kol, manşet ve boyundaki ayar panelleri ile streç parçalar kalıbı kişiselleştiriyor. İki su geçirmez dış cep, sırt kargo cebi, su geçirmez iç cep ve pantolon bağlantısı bulunuyor. Eşleşen Tempest 4 D-Dry kadın pantolonla takım kurulabiliyor."
+    ],
+    "forWho": [
+      "Motosikleti yıl boyu işe gidiş ve tur için kullanan kadın sürücüler",
+      "Arkada yolcu olarak uzun yola çıkan kadınlar",
+      "Airbag uyumlu, orta segment bir touring montu arayanlar"
+    ],
+    "notFor": [
+      "Sport ve pist sürüşü yapanlar",
+      "Sıcak yazda tek mont olarak kullanmak isteyenler: yalnız göğüs girişleri var"
+    ],
+    "pros": [
+      "Kadın kalıbı ve geniş ayar seçenekleri",
+      "D-Dry membran ve çıkarılabilir termal astar",
+      "Level 2 omuz ve dirsek koruyucu",
+      "Smart Air uyumu"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Sırt koruyucu dahil değil",
+      "Membran içte; dış kumaş ıslanabilir",
+      "Türkiye'de birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda pratik; cepleri yeterli.",
+      "uzunYol": "Orta mesafe turlar ve yolcu kullanımı için tasarlanmış.",
+      "yaz": "Ilık havada idare eder; sıcak yazda file mont daha uygun.",
+      "kis": "Termal astarla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "D-Dry membran yağmur koruması sağlar.",
+      "kurye": "Dört mevsim yapısıyla kurye kullanımına uygun; yazın sıcaklık kısıt.",
+      "sport": "Sport için değil."
+    },
+    "verdict": "Tempest 4 D-Dry Kadın, yıl boyu tek montla sürmek isteyen kadın sürücü veya yolcu için dengeli bir seçim. Level 2 koruyucular ve airbag uyumu artı; A sınıfı sertifika ve sınırlı yaz havalandırması eksi.",
+    "rivals": [
+      "dainese/mangen-absoluteshell-pro-lady",
+      "dainese/carve-master-4-gore-tex-lady",
+      "buse/open-road-3-damen"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Erkek modelinden farkı ne?",
+        "a": "Kalıp kadın vücuduna göre tasarlanmış ve beden aralığı 38–54. Membran, astar ve koruma donanımı benzer."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet, üretici D-Dry su geçirmez ve nefes alabilen membran bulunduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-jacket-waterproof-women-201650002238T.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-jacket-waterproof-women-201650002238T.html",
+        "type": "manufacturer",
+        "label": "Dainese – Tempest 4 D-Dry - Motorcycle Jacket Waterproof Women ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Red",
+      "Black/Raven/Blue"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [
+      {
+        "size": "38",
+        "min": 72.0,
+        "max": 76.0
+      },
+      {
+        "size": "40",
+        "min": 76.0,
+        "max": 80.0
+      },
+      {
+        "size": "42",
+        "min": 80.0,
+        "max": 84.0
+      },
+      {
+        "size": "44",
+        "min": 84.0,
+        "max": 88.0
+      },
+      {
+        "size": "46",
+        "min": 88.0,
+        "max": 92.0
+      },
+      {
+        "size": "48",
+        "min": 92.0,
+        "max": 96.0
+      },
+      {
+        "size": "50",
+        "min": 96.0,
+        "max": 100.0
+      },
+      {
+        "size": "52",
+        "min": 100.0,
+        "max": 104.0
+      },
+      {
+        "size": "54",
+        "min": 104.0,
+        "max": 108.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tekstil gövde, streç paneller, D-Dry membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (su geçirmez, nefes alabilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste hava girişleri",
+      "closure": "Mont-pantolon bağlantı sistemi; boyun, bel, kol ve manşet ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "racing-5-lady",
+    "brand": "dainese",
+    "name": "Racing 5 Kadın",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıplı, 1,2 mm Tutu sığır derisinden, EN 17092 AA sınıfı, Level 2 omuz/dirsek koruyuculu ve Smart Air uyumlu sport deri mont.",
+    "description": [
+      "Racing 5 Kadın, Dainese'nin Racing deri montunun kadın kalıplı versiyonu. Gövde 1,2 mm Tutu sığır derisinden; kol, omuz arkası ve yanlarda S1 bi-elastik paneller ile kalçada ayar var. Veloce Racing Neck yaka boyundaki baskıyı azaltmak için tasarlanmış. Kalıp 'regular ve sportif': naked ya da sport-touring motosiklette rahat, pist montu kadar agresif değil.",
+      "Monta EN 17092 AA sınıfı veriliyor; omuz ve dirsekte CE Level 2 kompozit koruyucular ve değiştirilebilir alüminyum omuz plakaları standart. G1 tipi sırt koruyucu için cep var. Dainese, montun Smart Air yeleğinin üzerine beden büyütmeden giyilebildiğini belirtiyor. Göğüste iki hava girişi, sırtta iki fermuarlı çıkış ve su geçirmez iç cep var; membran ve termal astar yok."
+    ],
+    "forWho": [
+      "Sıcak havada deri korumayla sürmek isteyen kadın naked/sport sürücüler",
+      "Airbag yeleğine geçmeyi planlayan kadın sürücüler",
+      "Dainese deri pantolonla takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler ve gün boyu inip binenler: deri ağırlığı ve yağmur korumasının olmaması iş kullanımına uymaz",
+      "Yağmur ve soğukta da tek mont isteyenler"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı ve Level 2 koruyucular",
+      "Kadın kalıbı ve geniş streç paneller",
+      "Smart Air uyumu",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "Sırt koruyucu dahil değil; erkek modelindeki göğüs koruyucu cebi belirtilmiyor",
+      "Membran ve termal astar yok",
+      "Tekstil montlara göre pahalı"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir kullanımına uygun; trafikte deri ısınır, kurye işi için değil.",
+      "uzunYol": "Güzel havada hafta sonu turlarında iyi; cep ve hava koruması sınırlı.",
+      "yaz": "Hedef mevsim; göğüs girişleri ve sırt çıkışları hava akışı sağlar.",
+      "kis": "Kış montu değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Güçlü olduğu alan."
+    },
+    "verdict": "Racing 5 Kadın, kadın kalıbında AA sınıfı bir deri mont arayan sport sürücü için güçlü bir aday. Airbag uyumu artı; yağmur koruması yok ve sırt koruyucu ayrıca alınmalı.",
+    "rivals": [
+      "alpinestars/stella-t-dyno-air",
+      "dainese/air-frame-3-tex-lady",
+      "held/sonic-2-lady"
+    ],
+    "priceRange": {
+      "min": 48990.0,
+      "max": 48990.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceket-racing-5-leather-wmn-blk-blk-40-35478",
+        "price": 48990.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kadın bedenleri nasıl?",
+        "a": "Üretici 38–54 arası İtalyan bedenleri listeliyor; beden tablosu göğüs çevresine göre veriliyor."
+      },
+      {
+        "q": "Smart Air ile kullanılabilir mi?",
+        "a": "Evet, Dainese montun Smart Air yeleği üzerine bir beden büyütmeden giyilebildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/racing-5---womens-leather-motorcycle-jacket-2015300115622.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/racing-5---womens-leather-motorcycle-jacket-2015300115622.html",
+        "type": "manufacturer",
+        "label": "Dainese – Racing 5 - Women'S Leather Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceket-racing-5-leather-wmn-blk-blk-40-35478",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Racing 5 Kadın Black/Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black",
+      "Black/White"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [
+      {
+        "size": "38",
+        "min": 72.0,
+        "max": 76.0
+      },
+      {
+        "size": "40",
+        "min": 76.0,
+        "max": 80.0
+      },
+      {
+        "size": "42",
+        "min": 80.0,
+        "max": 84.0
+      },
+      {
+        "size": "44",
+        "min": 84.0,
+        "max": 88.0
+      },
+      {
+        "size": "46",
+        "min": 88.0,
+        "max": 92.0
+      },
+      {
+        "size": "48",
+        "min": 92.0,
+        "max": 96.0
+      },
+      {
+        "size": "50",
+        "min": 96.0,
+        "max": 100.0
+      },
+      {
+        "size": "52",
+        "min": 100.0,
+        "max": 104.0
+      },
+      {
+        "size": "54",
+        "min": 104.0,
+        "max": 108.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "1,2 mm Tutu sığır derisi, S1 bi-elastik kumaş paneller",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2 hava girişi, sırtta 2 fermuarlı hava çıkışı",
+      "closure": "Mont-pantolon bağlantı fermuarı, bel ayarı, Veloce Racing Neck yaka",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "air-frame-3-tex-lady",
+    "brand": "dainese",
+    "name": "Air Frame 3 Tex Kadın",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıplı, file gövdeli, çıkarılabilir rüzgâr kesici astarlı, omuz ve dirsekte kompozit koruyuculu ve EN 17092 A sınıfı yazlık tekstil mont.",
+    "description": [
+      "Air Frame 3 Tex Kadın, Dainese'nin popüler yaz montunun kadın vücuduna göre kalıplanmış sürümü. Gövde ağırlıklı olarak file kumaş ve QuickDry kumaştan; nefes alan file astar sıcak havada serinlik sağlıyor. Çıkarılabilir rüzgâr kesici astar ise ılık havada veya sabah serinliğinde kullanılabiliyor. Fermuarlı kalça ayarı, boyun ayarı ve kolda uçuşma önleyici ayar kalıbı oturtuyor.",
+      "Monta EN 17092 A sınıfı veriliyor. Omuz ve dirseklerde çıkarılabilir EN 1621-1 kompozit koruyucular var; seviye belirtilmiyor. G tipi sırt koruyucu için cep bulunuyor. Su geçirmez iç cep, iki dış cep, reflektif detaylar ve pantolon bağlantı fermuarı standart. Dainese montu Drake 2 Super Air kadın pantolonla eşleştiriyor. Membran ve airbag uyumu bilgisi yok."
+    ],
+    "forWho": [
+      "Sıcak iklimde şehir içi ve kısa tur yapan kadın sürücüler",
+      "Yaz için uygun fiyatlı, sertifikalı bir Dainese montu isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda sürecekler: membran yok",
+      "Serin mevsimde tek montla idare etmek isteyenler"
+    ],
+    "pros": [
+      "File yapı ile sıcakta iyi havalandırma",
+      "Çıkarılabilir rüzgâr kesici astar",
+      "Kadın kalıbı ve fermuarlı kalça ayarı",
+      "EN 17092 A sınıfı"
+    ],
+    "cons": [
+      "Koruyucu seviyesi belirtilmemiş",
+      "Su geçirmez değil",
+      "Airbag uyumu belirtilmemiş",
+      "Türkiye'de birebir kadın modeli fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde rahat ve serin.",
+      "uzunYol": "Sıcak havada tura uygun; yağmurluk taşımak gerekir.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Sıcak aylarda şehir içi kullanım için uygun; sırt koruyucu eklenmeli.",
+      "sport": "Sport kalıp değil."
+    },
+    "verdict": "Air Frame 3 Tex Kadın, yazın sertifikalı ve serin bir mont isteyen kadın sürücü için mantıklı bir başlangıç. Sırt koruyucu ve yağmur için ayrı çözüm düşünülmeli.",
+    "rivals": [
+      "held/sonic-2-lady",
+      "alpinestars/stella-t-dyno-air",
+      "dainese/racing-5-lady"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Göğüs koruyucu takılabilir mi?",
+        "a": "Kadın modelinin üretici sayfasında yalnız G tipi sırt koruyucu cebi belirtiliyor; göğüs koruyucu cebinden söz edilmiyor."
+      },
+      {
+        "q": "Rüzgâr kesici astar çıkarılabilir mi?",
+        "a": "Evet, astar çıkarılabilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/air-frame-3-tex---womens-summer-motorcycle-jacket-in-fabric-2017300058318.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/air-frame-3-tex---womens-summer-motorcycle-jacket-in-fabric-2017300058318.html",
+        "type": "manufacturer",
+        "label": "Dainese – Air Frame 3 Tex - Women'S Summer Motorcycle Jacket In Fabric ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black/Black",
+      "Black/White/White",
+      "Light Gray/Light Gray/Black"
+    ],
+    "sizes": [
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [
+      {
+        "size": "40",
+        "min": 76.0,
+        "max": 80.0
+      },
+      {
+        "size": "42",
+        "min": 80.0,
+        "max": 84.0
+      },
+      {
+        "size": "44",
+        "min": 84.0,
+        "max": 88.0
+      },
+      {
+        "size": "46",
+        "min": 88.0,
+        "max": 92.0
+      },
+      {
+        "size": "48",
+        "min": 92.0,
+        "max": 96.0
+      },
+      {
+        "size": "50",
+        "min": 96.0,
+        "max": 100.0
+      },
+      {
+        "size": "52",
+        "min": 100.0,
+        "max": 104.0
+      },
+      {
+        "size": "54",
+        "min": 104.0,
+        "max": 108.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "File kumaş paneller, QuickDry kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File gövde, nefes alan file astar, çıkarılabilir rüzgâr kesici astar",
+      "closure": "Mont-pantolon bağlantı fermuarı; fermuarlı kalça ayarı, boyun ayarı, kolda uçuşma önleyici ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "carve-master-4-gore-tex-lady",
+    "brand": "dainese",
+    "name": "Carve Master 4 Gore-Tex Kadın",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "kislik-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıplı, GORE-TEX ePE membranlı, ayrı giyilebilen termal astarlı, EN 17092 AA sınıfı, Level 2 koruyuculu ve Smart Air uyumlu sport-touring montu.",
+    "description": [
+      "Carve Master 4 Gore-Tex Kadın, Dainese'nin sport-touring montunun kadın kalıplı dördüncü kuşağı. GORE-TEX ePE membran su geçirmezlik ve nefes alabilirlik sağlarken geniş Mugello streç kumaş paneller sürüş sırasında hareketi kolaylaştırıyor. Kalça, kol, bilek ve boyundaki ayarlarla kalıp kişiselleştirilebiliyor. Çıkarılabilir termal astar ayrı ceket olarak da kullanılabiliyor.",
+      "Monta EN 17092 AA sınıfı veriliyor; omuz ve dirsekte havalandırmalı Level 2 Pro-Armor koruyucular ve PU/plastik omuz plakaları standart. Sırt koruyucu cebi ve Smart Air uyumu var. Göğüs, sırt ve kollardaki havalandırmalar tek elle açılıyor. İki su geçirmez dış cep, göğüste iki file cep, sırt kargo cebi ve kolda kart cebi bulunuyor. Erkek modeliyle çift takımı oluşturulabiliyor."
+    ],
+    "forWho": [
+      "Serin ve yağışlı havada uzun yol yapan kadın sürücüler ve yolcular",
+      "GORE-TEX, AA sınıfı ve airbag uyumunu tek montta isteyenler",
+      "Eşiyle uyumlu takım kurmak isteyen çiftler"
+    ],
+    "notFor": [
+      "Sıcak yaz trafiğinde kullanacaklar",
+      "Kurye kullanımı için düşük bütçe arayanlar: üst segment fiyat"
+    ],
+    "pros": [
+      "GORE-TEX ePE membran ve EN 17092 AA sınıfı",
+      "Ayrı giyilebilen termal astar",
+      "Level 2 koruyucular ve Smart Air uyumu",
+      "Türkiye'de yerleşik mağazada satışta"
+    ],
+    "cons": [
+      "Sırt koruyucu dahil değil; erkek modelindeki göğüs koruyucu cebi belirtilmiyor",
+      "Sıcak yazda ağır kalır",
+      "Fiyatı üst segmentte"
+    ],
+    "usage": {
+      "sehir": "Serin ve yağışlı günlerde işe gidişte rahat; yazın sıcak.",
+      "uzunYol": "Asıl kullanım alanı.",
+      "yaz": "Havalandırmalar ılık havada yeterli; sıcak yaz için uygun değil.",
+      "kis": "Termal astar ve GORE-TEX ile soğukta güçlü.",
+      "yagmur": "GORE-TEX ePE membran ile güvenilir yağmur koruması.",
+      "kurye": "Teknik olarak uygun ama fiyatı yoğun kurye kullanımına göre yüksek.",
+      "sport": "Sport-touring kalıbı; pist montu değil."
+    },
+    "verdict": "Carve Master 4 Gore-Tex Kadın, serin ve yağışlı havada uzun yol yapan kadın sürücü için Dainese'nin en kapsamlı touring seçeneklerinden. Yüksek fiyat ve ayrıca alınacak sırt koruyucu hesaba katılmalı.",
+    "rivals": [
+      "dainese/mangen-absoluteshell-pro-lady",
+      "dainese/tempest-4-d-dry-lady",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "priceRange": {
+      "min": 45490.0,
+      "max": 45490.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-wmn-black-black-44-41932",
+        "price": 45490.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-wmn-ebonybalck-42-41941",
+        "price": 45490.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Ebony/Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kadın modelinin beden aralığı nedir?",
+        "a": "Üretici 38–54 arası bedenleri listeliyor; beden tablosu göğüs çevresine göre veriliyor."
+      },
+      {
+        "q": "Termal astar ayrı giyilebilir mi?",
+        "a": "Evet, astar çıkarılabiliyor ve ayrı olarak kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/carve-master-4-gore-tex--womens-winter-motorcycle-jacket-201590000334C.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/carve-master-4-gore-tex--womens-winter-motorcycle-jacket-201590000334C.html",
+        "type": "manufacturer",
+        "label": "Dainese – Carve Master 4 Gore-Tex® -Women'S Winter Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-wmn-black-black-44-41932",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Carve Master 4 Gore-Tex Kadın Black/Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketcarve-master-4-g.tex-wmn-ebonybalck-42-41941",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Carve Master 4 Gore-Tex Kadın Ebony/Black",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black/Black",
+      "Ebony/Black"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [
+      {
+        "size": "38",
+        "min": 74.0,
+        "max": 78.0
+      },
+      {
+        "size": "40",
+        "min": 78.0,
+        "max": 82.0
+      },
+      {
+        "size": "42",
+        "min": 82.0,
+        "max": 86.0
+      },
+      {
+        "size": "44",
+        "min": 86.0,
+        "max": 90.0
+      },
+      {
+        "size": "46",
+        "min": 90.0,
+        "max": 94.0
+      },
+      {
+        "size": "48",
+        "min": 94.0,
+        "max": 98.0
+      },
+      {
+        "size": "50",
+        "min": 98.0,
+        "max": 102.0
+      },
+      {
+        "size": "52",
+        "min": 102.0,
+        "max": 106.0
+      },
+      {
+        "size": "54",
+        "min": 106.0,
+        "max": 110.0
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Mugello streç kumaş, Duratex kumaş, GORE-TEX ePE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX ePE",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, sırt ve kollarda tek elle açılan hava kanalları",
+      "closure": "Mont-pantolon bağlantı fermuarı; kalça, kol, bilek ve boyun ayarı, büzgülü etek",
+      "madeIn": null
+    }
+  }
+]
