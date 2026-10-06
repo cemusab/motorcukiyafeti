@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "motosiklet-zincir-bakimi-ve-yaglama",
+    "title": "Motosiklet Zincir Bakımı ve Yağlama: Ne Zaman, Nasıl, Nelere Dikkat?",
+    "description": "Motosiklet zinciri ne zaman ve nasıl temizlenip yağlanır? O-ring ve X-ring zincire uygun ürünler, gerginlik kontrolü ve güvenlik kuralları.",
+    "topic": "genel",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 7,
+    "intro": "Motosiklet zinciri, motor kapalıyken ve arka teker elle çevrilerek, contalara uygun bir temizleyiciyle silinip yine contalara uygun bir zincir yağıyla yağlanır. Temizlik ve yağlama sıklığı ile gerginlik değeri motosikletine göre değiştiği için kullanım kılavuzundaki aralığı esas almalı; yağmurlu sürüş ve yıkamadan sonra ise beklemeden yağlamalısın.",
+    "sections": [
+      {
+        "heading": "Önce güvenlik",
+        "paragraphs": [
+          "Zincir ve dişli arasına kaptırılan parmak ciddi ve kalıcı yaralanmalara yol açabilir. Zincir bakımını hiçbir zaman motor çalışırken ve vites takılıyken teker döndürerek yapma. Sık görülen \"motoru çalıştırıp birinci viteste yağlamak\" alışkanlığı tehlikelidir.",
+          "Motosikleti orta sehpaya ya da arka sehpaya (paddock stand) al, motoru kapat, vitesi boşa al ve arka tekeri elle çevir. Kimyasal sıçramasına karşı nitril eldiven ve göz koruması kullan."
+        ],
+        "bullets": [
+          "Motor kapalı, vites boşta",
+          "Arka teker sehpada, elle çevrilir",
+          "Elini zincirin dişliye girdiği noktadan uzak tut",
+          "Nitril eldiven ve koruyucu gözlük kullan"
+        ]
+      },
+      {
+        "heading": "O-ring, X-ring ve contasız zincir",
+        "paragraphs": [
+          "Günümüz yol motosikletlerinin çoğunda O-ring, X-ring ya da benzeri contalı zincir bulunur. Bu zincirlerde pim ile burç arasındaki gres fabrikada içeri konur ve contalar tarafından içeride tutulur. Dışarıdan sürülen yağın görevi; contaları, makaraları ve dişliyle temas eden yüzeyleri korumak ve paslanmayı önlemektir.",
+          "Contalar bazı kimyasallardan zarar görür. D.I.D, contalı zincirlerin gazyağı ile temizlenmesini önermez; ayrıca buhar, tiner, benzin, benzen gibi uçucu çözücülerin ve tel fırçanın kullanılmamasını belirtir. Contasız zincirler daha çok küçük hacimli, eski ya da ekonomik modellerde ve arazi yarışlarında görülür ve daha sık yağlama ister."
+        ],
+        "bullets": [
+          "Contalı zincirde contaya uygun (O-ring/X-ring safe) ürün kullan",
+          "Gazyağı, benzin, tiner ve buhar kullanma",
+          "Tel fırça kullanma, yumuşak zincir fırçası seç"
+        ]
+      },
+      {
+        "heading": "Adım adım temizlik ve yağlama",
+        "paragraphs": [
+          "Zincir yağı temiz ve kuru zincire sürülmelidir; kumlu, kirli bir zincire yağ sürmek aşındırıcı bir macun oluşturur. Motul'un zincir bakım talimatı da temizleyiciyi sıkıp kısa süre beklemeyi, çok kirliyse aşındırmayan bir fırçayla fırçalayıp işlemi tekrarlamayı, ardından zinciri kurulayıp yağlamayı önerir."
+        ],
+        "bullets": [
+          "Motosikleti sehpaya al, motoru kapat, vitesi boşa al",
+          "Arka tekere ve fren diskine kimyasal gelmemesi için diski bir bezle koru",
+          "Contaya uygun zincir temizleyiciyi sık, ürün talimatındaki süre kadar beklet",
+          "Yumuşak zincir fırçasıyla makaraları ve plakaları fırçala",
+          "Temiz bir bezle sil ve zincirin tamamen kurumasını bekle",
+          "Yağı zincirin iç tarafına, makaralar ile plakaların arasına ince bir tabaka halinde uygula, tekeri elle çevirerek tüm zinciri dolaş",
+          "Ürün talimatına göre bekle, fazla yağı bezle al"
+        ]
+      },
+      {
+        "heading": "Ne sıklıkla?",
+        "paragraphs": [
+          "Tek bir doğru aralık yok. Motosiklet üreticileri zincir temizlik, yağlama ve gerginlik kontrolü aralıklarını kullanım kılavuzunda kilometre olarak verir; zincir ve yağ üreticilerinin önerileri de farklılık gösterebilir. Kullanım kılavuzundaki aralığı temel al ve koşullara göre sıklaştır.",
+          "Yağmurlu havada, tozlu ve kumlu yollarda sürdükten sonra ya da motosikleti yıkadıktan sonra beklemeden yağla. Kuryeler gibi her gün uzun mesafe yapanlar, zinciri çok daha sık kontrol etmeli."
+        ],
+        "bullets": [
+          "Temel aralık: kullanım kılavuzundaki aralık",
+          "Yağmur, toz ve yıkamadan sonra: hemen",
+          "Zincir kuru görünüyor ya da ses yapıyorsa: hemen"
+        ]
+      },
+      {
+        "heading": "Gerginlik (boşluk) kontrolü",
+        "paragraphs": [
+          "Çok gergin zincir dişlileri, rulmanları ve zinciri hızla aşındırır; çok gevşek zincir ise dişliden atlayabilir ve tehlikeli olabilir. Doğru boşluk değeri ve hangi konumda (sehpada mı, yan sehpada mı) ölçüleceği motosiklete göre değişir. Bu değer kullanım kılavuzunda, birçok motosiklette de salıncak kolu üzerindeki bir etikette yazar.",
+          "Boşluğu, zincirin alt kolunun ortasında, iki dişli arasında zinciri yukarı aşağı iterek ölç. Tekeri biraz çevirip birkaç noktada tekrarla; zincir her yerde aynı boşluğu göstermiyorsa düzensiz aşınmış olabilir. Ayar yapmayı bilmiyorsan, arka teker hizası da etkileneceği için servise bırak."
+        ],
+        "bullets": [
+          "Değeri kullanım kılavuzundan ya da salıncak etiketinden öğren",
+          "Alt kolun ortasında, birkaç noktada ölç",
+          "Ayar sonrası teker hizasını ve aks somununu kontrol et"
+        ]
+      },
+      {
+        "heading": "Zincir ve dişliler ne zaman değişir?",
+        "paragraphs": [
+          "D.I.D'ye göre paslanma, sertleşmiş (bükülmeyen) baklalar, eksik ya da hasarlı contalar ve olağandışı ses, zincirin değişmesi gerektiğini gösterir; bu durumda zincir ve dişlilerin birlikte değiştirilmesi önerilir. D.I.D ayrıca akü asidi bulaşan zincirin tamamen değiştirilmesi gerektiğini belirtir.",
+          "Arka dişlinin dişleri sivrileşmiş, kancalaşmış ya da bir yöne yatmışsa dişliler de aşınmıştır. Eski dişliyle yeni zincir kullanmak yeni zinciri hızla aşındırır."
+        ],
+        "bullets": [
+          "Pas, sert bakla, eksik conta veya anormal ses",
+          "Gerginlik ayarı sık sık bozuluyor",
+          "Dişli dişleri sivrilmiş ya da kancalaşmış",
+          "Zincir ve dişlileri set halinde değiştir"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Zinciri motor çalışırken yağlamak daha kolay değil mi?",
+        "a": "Kolay görünür ama çok tehlikelidir. Bez ya da eldiven zincire takılıp eli dişliye çekebilir. Her zaman motor kapalıyken, tekeri elle çevirerek yağla."
+      },
+      {
+        "q": "Zincir yağı yerine motor yağı ya da genel amaçlı sprey kullanılır mı?",
+        "a": "Önerilmez. Motor yağı dönen zincirden hızla savrulur, bazı genel amaçlı spreyler ise contalara uygun olmayabilir ve yağlama için tasarlanmamıştır. Contalı zincire uygun olduğu belirtilen bir zincir yağı kullan."
+      },
+      {
+        "q": "Zincir yağı lastiğe ya da diske bulaşırsa ne yapmalıyım?",
+        "a": "Fren diskine bulaşan yağı uygun bir fren temizleyiciyle hemen temizle. Lastiğe bulaştıysa temizle ve ilk kilometrelerde dikkatli sür. Balataya yağ işlediyse balataların değiştirilmesi gerekebilir."
+      },
+      {
+        "q": "Scooter'ımda zincir yok, bu rehber bana uyar mı?",
+        "a": "Çoğu scooter kayış ya da kapalı aktarma kullanır ve zincir bakımı gerektirmez. Kayışın kontrol ve değişim aralığı kullanım kılavuzunda yazar."
+      }
+    ],
+    "relatedGuides": ["motosiklet-nasil-yikanir", "motor-yagi-degisimi-dikkat-edilecekler", "motosiklet-eldiveni-nasil-secilir", "kurye-motosiklet-ekipmanlari", "yagmurda-motosiklet-ekipmani"],
+    "relatedCategories": ["eldiven", "eldiven/yazlik-eldiven"],
+    "sources": [
+      { "url": "https://didchain.com/blogs/news/d-i-d-chain-maintenance", "type": "manufacturer", "label": "D.I.D: zincir bakımı, temizlik ve değişim", "checkedAt": "2026-10-06" },
+      { "url": "https://motul.incony.de/media/motulData/DO/base/c1_chain_clean_en_fr_motul.pdf", "type": "manufacturer", "label": "Motul: C1 Chain Clean ürün bilgisi ve kullanım", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sportsbikeshop.co.uk/articles/advice-and-guides/how-to-clean-and-lube-a-motorcycle-chain", "type": "retailer", "label": "Sportsbikeshop: zincir temizleme ve yağlama adımları", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

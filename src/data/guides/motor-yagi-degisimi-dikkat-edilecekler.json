@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "motor-yagi-degisimi-dikkat-edilecekler",
+    "title": "Motosiklet Motor Yağı: Değişim Aralığı, Doğru Yağ Seçimi ve Dikkat Edilecekler",
+    "description": "Motosiklete hangi motor yağı konur? JASO MA, MA2 ve MB farkı, viskozite, değişim aralığı, scooter yağı ve atık yağın Türkiye'de yasal teslimi.",
+    "topic": "genel",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 7,
+    "intro": "Motosikletine, kullanım kılavuzunda yazan viskozitede ve kılavuzun istediği JASO sınıfında bir dört zamanlı motosiklet yağı koymalısın: ıslak kavramalı vitesli motosikletler genellikle JASO MA ya da MA2, otomatik şanzımanlı scooter'lar ise çoğu zaman JASO MB ister. Değişim aralığı da modelden modele değiştiği için kılavuzdaki aralığa uymalı, çıkan atık yağı ise Türkiye'de yetkili yağ değişim noktalarına teslim etmelisin.",
+    "sections": [
+      {
+        "heading": "Motosiklet yağı neden otomobil yağından farklı?",
+        "paragraphs": [
+          "Vitesli motosikletlerin çoğunda motor, şanzıman ve kavrama aynı yağı paylaşır; kavrama diskleri bu yağın içinde çalışır (ıslak kavrama). Otomobil yağlarının bir kısmı yakıt tasarrufu için sürtünme azaltıcı katkılar içerir. Bu katkılar ıslak kavramada disklerin birbirini tutmasını zayıflatıp kavrama kaçırmasına yol açabilir.",
+          "Bu sorun nedeniyle Japon Otomotiv Standartları Kuruluşu (JASO), dört zamanlı motosiklet yağları için JASO T 903 standardını oluşturdu. Standart, yağı kavrama ile uyumuna göre sınıflandırır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "JASO MA, MA1, MA2 ve MB farkı",
+        "paragraphs": [
+          "JASO T 903'te MA, ıslak kavramalı motosikletler için; MB ise otomatik şanzımanlı (genellikle CVT'li scooter) motorlar içindir. MA sınıfı içinde MA1 ve MA2 alt sınıfları vardır; MA2 daha yüksek sürtünme performansı gösterir. Bu sınıflar laboratuvarda kavramanın tutma ve kavrama süresi ölçülerek belirlenir.",
+          "MB yağlar sürtünme azaltıcı içerebileceği için MA isteyen bir motosiklette kavrama kaçırmasına yol açabilir; bu yüzden MA isteyen motora MB konmamalıdır. Bazı scooter'ların kılavuzu MA, bazılarınınki MB ister; kendi modelinin kılavuzuna bak."
+        ],
+        "bullets": [
+          "MA / MA2: ıslak kavramalı vitesli motosikletler",
+          "MB: otomatik şanzımanlı scooter'lar (kılavuz izin veriyorsa)",
+          "MA isteyen motora MB koyma",
+          "Bidonun arkasında JASO sınıfı ve kayıt kodu yazar"
+        ]
+      },
+      {
+        "heading": "Viskozite: 10W-30, 10W-40 ne demek?",
+        "paragraphs": [
+          "10W-40 gibi bir ifadede ilk kısım (10W) yağın soğukta ne kadar akıcı olduğunu, ikinci kısım (40) çalışma sıcaklığındaki kıvamını gösterir. Doğru viskozite, motorun tasarımına ve kullanıldığı iklime göre üretici tarafından belirlenir.",
+          "Örneğin Honda'nın bazı model kılavuzları JASO T 903 MA sınıfında SAE 10W-30 yağ önerir; başka modeller farklı viskozite isteyebilir. Kılavuzda birden fazla viskozite ortam sıcaklığına göre bir tablo halinde verilmiş olabilir. \"Daha kalın yağ daha iyi korur\" düşüncesi doğru değildir; kılavuzun dışına çıkma."
+        ],
+        "bullets": [
+          "Viskoziteyi kullanım kılavuzundan al",
+          "Kılavuzdaki sıcaklık tablosuna bak",
+          "Ek olarak API sınıfı istenmişse onu da karşıla"
+        ]
+      },
+      {
+        "heading": "Değişim aralığı ve filtre",
+        "paragraphs": [
+          "Yağ değişim aralığı modele, motor tipine ve kullanım koşullarına göre değişir. Doğru bilgi, kullanım kılavuzundaki bakım tablosunda kilometre ve süre olarak verilir; hangisi önce dolarsa o geçerlidir. Kılavuzlar genelde yoğun şehir içi kullanım, kısa mesafeler, tozlu ortam ve yüksek devir gibi ağır koşullarda aralığın kısaltılmasını önerir.",
+          "Kuryeler gibi günde uzun süre dur-kalk trafikte çalışan motosikletler çoğu zaman ağır kullanım kapsamına girer. Yağ filtresinin ne zaman değişeceği de kılavuzda yazar; her yağ değişiminde değil, belirli aralıklarla değişmesi istenebilir."
+        ],
+        "bullets": [
+          "Kilometre ve süre: kullanım kılavuzundaki aralık",
+          "Ağır kullanımda kılavuzun kısa aralığını uygula",
+          "Filtre değişimini kılavuza göre planla",
+          "Yağ seviyesini düzenli olarak gözetleme camı ya da çubukla kontrol et"
+        ]
+      },
+      {
+        "heading": "Kendin değiştireceksen: güvenlik",
+        "paragraphs": [
+          "Motor yağı değişimi basit görünür, ama sıcak yağ ve egzoz yanık riski taşır; boşaltma tapasının fazla sıkılması karterin dişlerine zarar verebilir. Tork değeri, yağ miktarı ve seviyenin nasıl kontrol edileceği (motosiklet dik mi, yan sehpada mı) kullanım kılavuzunda yazar. Emin değilsen değişimi servise bırak."
+        ],
+        "bullets": [
+          "Kılavuz önerirse motoru kısa süre çalıştırıp ılıt; yağ ve egzoz sıcakken yanığa dikkat et",
+          "Nitril eldiven ve göz koruması kullan",
+          "Uygun bir kap ve huni kullan, yağı yere dökme",
+          "Varsa yeni conta kullan, tapayı kılavuzdaki torkta sık",
+          "Kılavuzdaki miktarda yağ koy, seviyeyi kılavuzdaki konumda kontrol et",
+          "Motoru çalıştırıp sızıntı kontrol et"
+        ]
+      },
+      {
+        "heading": "Atık yağ: Türkiye'de yasal teslim",
+        "paragraphs": [
+          "Kullanılmış motor yağı tehlikeli atıktır. 21 Aralık 2019 tarihli Resmî Gazete'de yayımlanan Atık Yağların Yönetimi Yönetmeliği, atık yağların toprağa, kanalizasyona, denizlere, göllere ve akarsulara verilmesini yasaklar. Yönetmelik, motor yağını kendi değiştiren araç sahiplerinin atık yağı motor yağı değişim noktalarına teslim etmesini öngörür; bu noktalar akaryakıt istasyonları, servisler ve tamirhaneler gibi yetkilendirilmiş yerlerdir.",
+          "Pratikte, boşalttığın yağı sızdırmaz ve kapaklı bir kapta (örneğin yeni yağın boş bidonunda) biriktir, başka sıvılarla karıştırma ve yakınındaki bir akaryakıt istasyonuna ya da servise teslim et. Yağlı bezleri ve eski filtreyi de çöpe atmak yerine aynı yere sor."
+        ],
+        "bullets": [
+          "Atık yağı toprağa, gidere ya da çöpe dökme",
+          "Kapaklı kapta biriktir, başka sıvılarla karıştırma",
+          "Akaryakıt istasyonu ya da servis gibi yağ değişim noktasına teslim et",
+          "Eski filtre ve yağlı bezler için de teslim noktasına sor"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Motosiklete otomobil yağı konur mu?",
+        "a": "Islak kavramalı motosiklette önerilmez. Bazı otomobil yağlarındaki sürtünme azaltıcı katkılar kavrama kaçırmasına yol açabilir. Kılavuzun istediği JASO sınıfında bir motosiklet yağı kullan."
+      },
+      {
+        "q": "Scooter'a hangi yağ konur?",
+        "a": "Otomatik şanzımanlı scooter'ların çoğu JASO MB yağı kabul eder, ancak bazıları MA ister. Doğru sınıfı ve viskoziteyi modelinin kullanım kılavuzundan kontrol et."
+      },
+      {
+        "q": "Sentetik yağ kullanırsam değişim aralığını uzatabilir miyim?",
+        "a": "Motosiklet üreticisi aksini söylemiyorsa hayır. Kullanım kılavuzundaki aralık, hangi yağ kullanılırsa kullanılsın garanti ve motor sağlığı açısından esas alınmalıdır."
+      },
+      {
+        "q": "Atık motor yağını nereye götürebilirim?",
+        "a": "Atık Yağların Yönetimi Yönetmeliği'ne göre motor yağı değişim noktalarına, yani yetkili akaryakıt istasyonları, servisler ve tamirhanelere teslim etmelisin. Toprağa, kanalizasyona ya da çöpe dökmek yasaktır."
+      },
+      {
+        "q": "Yağ seviyesi ne sıklıkla kontrol edilmeli?",
+        "a": "Kullanım kılavuzunun önerdiği sıklıkta; birçok kılavuz sürüş öncesi kontrollerde yağ seviyesine bakmayı önerir. Seviyeyi kılavuzdaki konumda (dik ya da yan sehpada) ve önerilen motor sıcaklığında kontrol et."
+      }
+    ],
+    "relatedGuides": ["motosiklet-zincir-bakimi-ve-yaglama", "motosiklet-nasil-yikanir", "scooter-surucu-ekipmanlari", "kurye-motosiklet-ekipmanlari", "ilk-motosiklet-ekipmanlari"],
+    "relatedCategories": ["eldiven", "eldiven/yazlik-eldiven"],
+    "sources": [
+      { "url": "https://www.intertek.com/automotive/jaso-t903-2023/", "type": "homologation", "label": "Intertek: JASO T 903:2023 testleri ve MA/MB sınıfları", "checkedAt": "2026-10-06" },
+      { "url": "https://www.rymax-lubricants.com/blog/what-does-the-jaso-oil-specification-mean/", "type": "manufacturer", "label": "Rymax: JASO MA, MA1, MA2 ve MB açıklaması", "checkedAt": "2026-10-06" },
+      { "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_CRF110FE_EN/2500_2500/0072.pdf", "type": "retailer", "label": "Honda kullanım kılavuzu sayfası: önerilen yağ (JASO T 903 MA, SAE 10W-30)", "checkedAt": "2026-10-06" },
+      { "url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191221-1.htm", "type": "homologation", "label": "Resmî Gazete – Atık Yağların Yönetimi Yönetmeliği (21 Aralık 2019, sayı 30985)", "checkedAt": "2026-10-06" }
+    ]
+  }
+]
