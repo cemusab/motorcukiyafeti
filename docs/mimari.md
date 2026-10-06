@@ -44,3 +44,13 @@ Her rehber ve karşılaştırma sayfası ilk iki cümlede soruya doğrudan cevap
 4. **Ürün genişletme:** yerli markalar (Yaren Tekstil, Forte GT, Sway, Scudo, Tech90), kurye ürünleri, pantolon/koruma/airbag kategorileri.
 5. Lisanslı ürün görselleri (üretici medya kitleri / izinli feed).
 6. Shopify / headless commerce bağlantısı: `Offer` modeli satıcı bağımsız tasarlandı.
+
+## FC-Moto analizinden gelen öneriler (bkz. `docs/arastirma/fc-moto-analizi.md`)
+- [x] Ölçüne göre beden filtresi (cm → üretici tablosundaki beden)
+- [ ] Kalıp rozeti (dar/normal/bol) ve filtresi – `buyerInsights.fit`
+- [ ] Ortak "Kullanım alanı" filtresi – yeni `ridingStyles` alanı
+- [ ] Yağmurluk ve termal giyim kategorileri, kurye kiti sayfası
+- [ ] Koruma kategorisini bölgelere ayırma, airbag tip/tetikleme filtreleri
+- [ ] Sertifika kartı (EN 17092 / EN 13594 KP / EN 13634 haneleri, uygunluk beyanı PDF linki)
+- [ ] Kategoriye özel filtreler (eldiven bilek boyu, dokunmatik; bot konç boyu; interkom tekli/çiftli)
+- [ ] "Bununla iyi gider" blokları (mont+pantolon fermuarı, kask+uyumlu interkom, mont+sırt koruması)

@@ -4,6 +4,8 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Icon } from "@/components/Icon";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductCard, ProductVisual } from "@/components/ProductCard";
+import { ProductGallery } from "@/components/ProductGallery";
+import { VideoList } from "@/components/VideoList";
 import { CompareButton, FavoriteButton } from "@/components/ProductActions";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice } from "@/components/ui";
@@ -17,6 +19,7 @@ import {
   formatDate,
   formatTL,
   getBrand,
+  getMedia,
   getGuides,
   getProductById,
   getProducts,
@@ -81,6 +84,7 @@ function productLd(p: Product) {
     category: getCategory(p.category)?.name,
     description: p.summary,
     url: abs(productPath(p)),
+    ...(getMedia(p).images.length ? { image: getMedia(p).images.map((i) => i.url) } : {}),
     ...(offers.length
       ? {
           offers: {
@@ -113,6 +117,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
     .filter((g) => g.relatedCategories.some((r) => r === p.category || p.subcategories.some((s) => r === `${p.category}/${s}`)))
     .map((g) => g.slug);
   const sub = c.groups.flatMap((g) => g.items).find((i) => p.subcategories.includes(i.slug));
+  const media = getMedia(p);
 
   const crumbs = [
     { name: c.name, href: `/${c.slug}` },
@@ -127,6 +132,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
     ...(compat.length ? [["uyumluluk", p.category === "kask" ? "Uyumlu interkomlar" : "Uyumlu kasklar"]] : []),
     ...(p.sizeChart.length ? [["beden", "Beden tablosu"]] : []),
     ["fiyat", "Fiyatlar"],
+    ...(media.videos.length ? [["videolar", "Videolar"]] : []),
     ...(p.faq.length ? [["sss", "Sık sorulanlar"]] : []),
     ["kaynaklar", "Kaynaklar"],
   ];
@@ -139,7 +145,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
       </Container>
 
       <Container className="mt-5 grid gap-8 lg:grid-cols-[minmax(0,5fr)_minmax(0,6fr)]">
-        <ProductVisual p={p} className="aspect-square rounded-xl" />
+        <ProductGallery images={media.images} fallback={<ProductVisual p={p} className="aspect-square rounded-xl" />} />
         <div>
           {p.status === "discontinued" && (
             <div className="mb-4">
@@ -465,6 +471,14 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
               </Notice>
             )}
           </section>
+
+          {media.videos.length > 0 && (
+            <section id="videolar">
+              <h2 className="mb-2 font-display text-3xl font-bold">Video incelemeler</h2>
+              <p className="mb-4 text-sm text-mute">Videolar YouTube&apos;dan gelir ve yalnızca oynat düğmesine bastığında yüklenir.</p>
+              <VideoList videos={media.videos} />
+            </section>
+          )}
 
           {p.faq.length > 0 && (
             <section id="sss">

@@ -6,7 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema } from "../src/data/schema";
+import { ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema } from "../src/data/schema";
 import { allSubcategories } from "../src/data/categories";
 
 const root = path.join(__dirname, "..", "src", "data");
@@ -63,6 +63,8 @@ for (const c of compat) {
   if (!ids.has(c.intercom)) errors.push(`compat: interkom yok ${c.intercom}`);
   if (c.verified && !c.source) errors.push(`compat ${c.helmet}+${c.intercom}: doğrulanmış ama kaynak yok`);
 }
+const media = load("media.json", MediaSchema);
+for (const m of media) if (!ids.has(m.product)) errors.push(`media: ürün yok ${m.product}`);
 const guideSlugs = new Set(guides.map((g) => g.slug));
 for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r)) warn.push(`rehber ${g.slug}: ilgili rehber ${r} yok (gösterilmeyecek)`);
 

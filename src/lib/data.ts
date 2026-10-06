@@ -20,7 +20,9 @@ import {
   type Guide,
   type Helmet,
   type Intercom,
+  type Media,
   type Product,
+  MediaSchema,
 } from "@/data/schema";
 
 const DATA = path.join(process.cwd(), "src", "data");
@@ -93,6 +95,11 @@ export const getCompat = cache((): Compat[] => {
   const ids = new Set(getProducts().map(productId));
   return readArray("compat.json", CompatSchema).filter((c) => ids.has(c.helmet) && ids.has(c.intercom));
 });
+
+const getMediaMap = cache(() => new Map(readArray("media.json", MediaSchema).map((m) => [m.product, m])));
+const EMPTY_MEDIA = (id: string): Media => ({ product: id, images: [], videos: [] });
+/** Üretici görselleri ve YouTube videoları; kayıt yoksa boş döner. */
+export const getMedia = (p: Pick<Product, "brand" | "slug">): Media => getMediaMap().get(productId(p)) ?? EMPTY_MEDIA(productId(p));
 
 export function displayName(p: Pick<Product, "brand" | "name">) {
   return `${brandName(p.brand)} ${p.name}`;

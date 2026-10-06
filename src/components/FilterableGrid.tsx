@@ -26,6 +26,9 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
   }, [params, defs]);
   const sort = (params.get("sirala") as Sort) ?? "onerilen";
   const maxPrice = params.get("fiyat") ? Number(params.get("fiyat")) : null;
+  const olcu = params.get("olcu") ? Number(params.get("olcu")) : null;
+  const sizeFor = (i: FacetItem, cm: number) => i.sizes.filter((s) => cm >= s.min && cm <= s.max + 0.99).map((s) => s.size);
+  const measureLabel = items.find((i) => i.sizes.length)?.measure ?? "Ölçü (cm)";
 
   const options = useMemo(() => {
     const o: Record<string, { value: string; count: number }[]> = {};
@@ -43,6 +46,7 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
   const visible = useMemo(() => {
     let list = items.filter((i) => Object.entries(selected).every(([k, vals]) => vals.some((v) => (i.values[k] ?? []).includes(v))));
     if (maxPrice != null) list = list.filter((i) => i.price != null && i.price <= maxPrice);
+    if (olcu != null) list = list.filter((i) => sizeFor(i, olcu).length > 0);
     const by = {
       onerilen: () => 0,
       "fiyat-artan": (a: FacetItem, b: FacetItem) => (a.price ?? 9e9) - (b.price ?? 9e9),
@@ -51,7 +55,7 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
       ad: (a: FacetItem, b: FacetItem) => a.name.localeCompare(b.name, "tr"),
     }[sort];
     return sort === "onerilen" ? list : [...list].sort(by);
-  }, [items, selected, maxPrice, sort]);
+  }, [items, selected, maxPrice, sort, olcu]);
 
   const update = (mut: (p: URLSearchParams) => void) => {
     const p = new URLSearchParams(params.toString());
@@ -72,7 +76,8 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
   Children.forEach(children, (c) => {
     if (isValidElement(c) && c.key) byId.set(String(c.key), c);
   });
-  const activeCount = Object.values(selected).flat().length + (maxPrice != null ? 1 : 0);
+  const activeCount = Object.values(selected).flat().length + (maxPrice != null ? 1 : 0) + (olcu != null ? 1 : 0);
+  const hasSizes = items.some((i) => i.sizes.length);
   const hasWeight = items.some((i) => i.weight != null);
 
   const filters = (
@@ -94,6 +99,29 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
             </ul>
           </fieldset>
         ) : null,
+      )}
+      {hasSizes && (
+        <fieldset>
+          <legend className="mb-1 font-display text-lg font-bold">Ölçüne göre beden</legend>
+          <label htmlFor="olcu" className="mb-2 block text-sm text-mute">
+            {measureLabel}
+          </label>
+          <input
+            id="olcu"
+            type="number"
+            inputMode="numeric"
+            min={40}
+            max={140}
+            placeholder="ör. 57"
+            defaultValue={olcu ?? ""}
+            onChange={(e) => {
+              const v = e.target.value;
+              update((p) => (v && Number(v) >= 40 ? p.set("olcu", v) : p.delete("olcu")));
+            }}
+            className="h-10 w-28 rounded-md border border-line px-3"
+          />
+          <p className="mt-1 text-xs text-mute">Üreticinin resmi beden tablosu olan ürünler gösterilir.</p>
+        </fieldset>
       )}
       {priceCap && (
         <fieldset>
@@ -150,6 +178,18 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
             </select>
           </div>
         </div>
+        {olcu != null && visible.length > 0 && (
+          <div className="mb-4 rounded-md border border-line bg-white p-3 text-sm">
+            <p className="font-semibold">{olcu} cm için üretici tablosuna göre bedenin:</p>
+            <ul className="mt-1 flex flex-wrap gap-x-4 gap-y-1">
+              {visible.map((i) => (
+                <li key={i.id}>
+                  {i.name}: <strong className="text-red">{sizeFor(i, olcu).join(" / ")}</strong>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
         {visible.length ? (
           <div className="grid grid-cols-1 gap-4 min-[420px]:grid-cols-2 xl:grid-cols-3">{visible.map((i) => byId.get(i.id))}</div>
         ) : (

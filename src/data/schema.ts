@@ -212,3 +212,31 @@ export const GuideSchema = z.object({
   sources: z.array(SourceSchema).default([]),
 });
 export type Guide = z.infer<typeof GuideSchema>;
+
+/** Ürün medyası (src/data/media.json): üretici görselleri ve YouTube videoları. Ürün kaydından ayrı tutulur. */
+export const MediaSchema = z.object({
+  product: z.string(), // "shoei/neotec-3"
+  images: z
+    .array(
+      z.object({
+        url: z.string().url(), // doğrudan görsel adresi (üretici sunucusu)
+        alt: z.string(),
+        credit: z.string(), // ör. "Shoei"
+        sourcePage: z.string().url(), // görselin alındığı resmi sayfa
+      }),
+    )
+    .default([]),
+  videos: z
+    .array(
+      z.object({
+        youtubeId: z.string().regex(/^[A-Za-z0-9_-]{11}$/),
+        title: z.string(),
+        channel: z.string(),
+        kind: z.enum(["resmi", "inceleme", "kurulum"]),
+        lang: z.string(), // "tr", "en", "de"...
+        checkedAt: isoDate,
+      }),
+    )
+    .default([]),
+});
+export type Media = z.infer<typeof MediaSchema>;

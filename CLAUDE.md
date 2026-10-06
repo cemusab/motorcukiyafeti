@@ -15,10 +15,11 @@ Veri şimdilik `src/data/**/*.json` dosyalarında, `src/data/schema.ts` (zod) il
 1. Çalışmayan link, buton, boş href yok. Hedefi olmayan sayfaya link verilmez. Route listesi `src/lib/catalog.ts > routeManifest()`; sitemap ve testler bunu kullanır.
 2. Uydurma veri yok. Puan, yorum, fiyat, ağırlık, standart, interkom uyumluluğu kaynaksız yazılmaz. Doğrulanamayan alan `null` + `unverified` listesine; arayüzde "Doğrulanıyor".
 3. Her kayıtta `sources` (url, type, label, checkedAt), `manufacturerUrl`, `lastCheckedAt`, `dataConfidence`.
-4. Rakip sitelerden metin/fotoğraf kopyalanmaz. Hakkımız olmayan görsel yok; ürünler kendi SVG çizimlerimizle gösterilir. Alıcı yorumları (`buyerInsights`) kendi cümlemizle özetlenir.
+4. Rakip/perakendeci sitelerden metin veya fotoğraf kopyalanmaz. Ürün görselleri yalnızca **üreticinin resmi sitesinden**, kaynak gösterilerek kullanılır (site sahibinin kararı, `src/data/media.json`); görsel yoksa SVG çizim gösterilir. YouTube videoları youtube-nocookie ile, tıklayınca yüklenir. Alıcı yorumları (`buyerInsights`) kendi cümlemizle özetlenir.
 5. Sayısal "MotorcuKiyafeti puanı" yok. Karşılaştırma kararları `src/lib/compare-core.ts` içindeki şeffaf kurallarla verilir; veri yoksa kazanan ilan edilmez.
 6. Mevcut çalışan özellik silinmez. Her değişiklikten sonra `npm run qa` (validate + build + Playwright) çalışır; kırmızıyken iş bitmiş sayılmaz.
 7. Çalışmayan özellik mock bırakılmaz: ya tamamlanır ya arayüzden kaldırılır.
+8. KVKK ve GDPR: yeni bir veri işleme (form, analitik, çerez, yeni üçüncü taraf) eklenirse önce `src/data/legal.json` metinleri güncellenir; rıza gerektiren çerez/izleme rızasız çalışmaz.
 
 ## Komutlar
 - `npm run dev` – geliştirme sunucusu (arka planda çalıştır, bekleme)

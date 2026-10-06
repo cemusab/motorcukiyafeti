@@ -4,7 +4,15 @@ import { brandName, productId } from "./data";
 import { HELMET_TYPE } from "./labels";
 
 export type FacetDef = { key: string; label: string };
-export type FacetItem = { id: string; values: Record<string, string[]>; price: number | null; weight: number | null; name: string };
+export type FacetItem = {
+  id: string;
+  values: Record<string, string[]>;
+  price: number | null;
+  weight: number | null;
+  name: string;
+  sizes: { size: string; min: number; max: number }[];
+  measure: string | null;
+};
 
 const tri = (v: boolean | null, yes: string) => (v === true ? [yes] : []);
 
@@ -53,5 +61,13 @@ export function facetItem(p: Product): FacetItem {
       ...(s.protectors.some((x) => x.level === 2) ? ["Level 2 koruyucu"] : []),
     ];
   }
-  return { id: productId(p), values: v, price: p.priceRange?.min ?? null, weight, name: `${brandName(p.brand)} ${p.name}` };
+  return {
+    id: productId(p),
+    values: v,
+    price: p.priceRange?.min ?? null,
+    weight,
+    name: `${brandName(p.brand)} ${p.name}`,
+    sizes: p.unverified.includes("sizeChart") ? [] : p.sizeChart,
+    measure: p.sizeChartMeasure,
+  };
 }

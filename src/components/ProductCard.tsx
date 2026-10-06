@@ -1,13 +1,22 @@
 import Link from "next/link";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { brandName, priceLabel, productId, productPath } from "@/lib/data";
+import { brandName, getMedia, priceLabel, productId, productPath } from "@/lib/data";
 import { productTypeLabel, keyChips } from "@/lib/labels";
 import { Icon } from "./Icon";
 import { CompareButton, FavoriteButton } from "./ProductActions";
 
-export function ProductVisual({ p, className = "" }: { p: Product; className?: string }) {
+export function ProductVisual({ p, className = "", eager = false }: { p: Product; className?: string; eager?: boolean }) {
   const icon = getCategory(p.category)?.icon ?? "kask";
+  const img = getMedia(p).images[0];
+  if (img)
+    return (
+      <div className={`relative grid place-items-center overflow-hidden bg-white ${className}`}>
+        {/* Üretici görseli; kaynak ve telif bilgisi ürün sayfasında gösterilir. */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={img.url} alt={img.alt} loading={eager ? "eager" : "lazy"} decoding="async" referrerPolicy="no-referrer" className="size-full object-contain p-4" />
+      </div>
+    );
   return (
     <div className={`relative grid place-items-center overflow-hidden bg-gradient-to-br from-[#1d2026] to-[#0d0f12] text-white ${className}`}>
       <svg className="absolute inset-0 size-full opacity-[.07]" aria-hidden>
