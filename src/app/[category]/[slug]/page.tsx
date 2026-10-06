@@ -4,22 +4,11 @@ import { PrismaClient } from '@prisma/client';
 
 const prisma = new PrismaClient();
 
-
 export async function generateStaticParams() {
   const items = await prisma.product.findMany({ select: { slug: true, category: { select: { slug: true } } } });
   return items.map((item: any) => ({ slug: item.slug, category: item.category.slug }));
 }
- } } });
-  return items.map((item) => ({ slug: item.slug, category: item.category.slug }));
-}
 export const dynamicParams = false;
-
-
- });
-  return items.map((item) => ({ slug: item.slug }));
-}
-
-
 
 import { Metadata } from "next";
 

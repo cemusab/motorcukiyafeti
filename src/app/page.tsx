@@ -81,14 +81,14 @@ export default async function Home() {
       <section className="max-w-[1200px] mx-auto px-4 mb-20 mt-8">
         <div className="flex flex-wrap justify-center gap-4">
           {[
-            { name: "Kask", url: "/kask", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0352/2048/shoei_rf1400_helmet_black.jpg&w=200&h=200&fit=contain&bg=white" }, 
-            { name: "Mont", url: "/mont", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0369/0713/alpinestars_gp_plus_r_v3_rideknit_leather_jacket_black_white_red.jpg&w=200&h=200&fit=contain&bg=white" },
-            { name: "Pantolon", url: "/pantolon", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0126/6656/alpinestars_missile_v2_leather_pants.jpg&w=200&h=200&fit=contain&bg=white" }, 
+            { name: "Kask", url: "/kask", img: "https://placehold.co/200x200/ffffff/333333.png?text=Kask" }, 
+            { name: "Mont", url: "/mont", img: "https://placehold.co/200x200/ffffff/333333.png?text=Mont" },
+            { name: "Pantolon", url: "/pantolon", img: "https://placehold.co/200x200/ffffff/333333.png?text=Pantolon" }, 
             { name: "Eldiven", url: "/eldiven", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0126/6692/alpinestars_sp8_v3_gloves.jpg&w=200&h=200&fit=contain&bg=white" },
-            { name: "Bot", url: "/bot", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0177/3494/alpinestars_smx6_v2_vented_boots.jpg&w=200&h=200&fit=contain&bg=white" }, 
-            { name: "İnterkom", url: "/interkom", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0481/3180/cardo_packtalk_edge_headset.jpg&w=200&h=200&fit=contain&bg=white" },
-            { name: "Koruma", url: "/koruma", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0126/6822/alpinestars_nucleon_kr1_cell_back_protector.jpg&w=200&h=200&fit=contain&bg=white" }, 
-            { name: "Yağmurluk", url: "/yagmurluk", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0177/3626/nelson_rigg_stormrider_rain_suit_black.jpg&w=200&h=200&fit=contain&bg=white" }
+            { name: "Bot", url: "/bot", img: "https://placehold.co/200x200/ffffff/333333.png?text=Bot" }, 
+            { name: "İnterkom", url: "/interkom", img: "https://placehold.co/200x200/ffffff/333333.png?text=Interkom" },
+            { name: "Koruma", url: "/koruma", img: "https://placehold.co/200x200/ffffff/333333.png?text=Koruma" }, 
+            { name: "Yağmurluk", url: "/yagmurluk", img: "https://placehold.co/200x200/ffffff/333333.png?text=Yagmurluk" }
           ].map(cat => (
             <Link href={cat.url} key={cat.name} className="w-[120px] h-[130px] bg-white rounded-2xl shadow-sm border border-gray-100 flex flex-col items-center justify-center hover:border-red-500 hover:shadow-md transition group">
               <div className="w-16 h-16 mb-2 flex items-center justify-center overflow-hidden">
