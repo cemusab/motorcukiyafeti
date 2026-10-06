@@ -4,8 +4,9 @@ import Link from 'next/link';
 
 const prisma = new PrismaClient();
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const article = await prisma.article.findUnique({ where: { slug: params.slug } });
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
+  const article = await prisma.article.findUnique({ where: { slug: resolvedParams.slug } });
   if (!article) return { title: 'Bulunamadı' };
   
   return {
@@ -14,9 +15,10 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   };
 }
 
-export default async function ArticlePage({ params }: { params: { slug: string } }) {
+export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
   const article = await prisma.article.findUnique({
-    where: { slug: params.slug }
+    where: { slug: resolvedParams.slug }
   });
 
   if (!article) notFound();
