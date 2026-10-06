@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Motosiklet Kaskı Modelleri ve Fiyatları | MotorcuKiyafeti',
-  description: 'En iyi kapalı, çene açılır ve yarım motosiklet kaskı markaları. Kadıköy, İstanbul ve tüm Türkiye'ye online motosiklet kaskı incelemeleri.',
+  title: "Motosiklet Kaskı Modelleri ve Fiyatları | MotorcuKiyafeti",
+  description: "En iyi kapalı, çene açılır ve yarım kask markaları. Tüm Türkiye'ye online kask incelemeleri.",
   keywords: ["motosiklet kaskı", "kask modelleri", "çene açılır kask", "kapalı kask", "Shoei kask", "AGV kask", "İstanbul kask mağazası"],
 };
 

@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Yazlık ve Kışlık Motosiklet Eldiveni | MotorcuKiyafeti',
-  description: 'En iyi korumalı motorcu eldivenleri. Deri, yazlık fileli ve kışlık su geçirmez Gore-Tex motosiklet eldiveni modelleri.',
+  title: "Yazlık ve Kışlık Motosiklet Eldiveni | MotorcuKiyafeti",
+  description: "En iyi korumalı motorcu eldivenleri. Deri, yazlık fileli ve kışlık motosiklet eldiveni modelleri.",
   keywords: ["motosiklet eldiveni", "yazlık motor eldiveni", "kışlık motor eldiveni", "korumalı motor eldiveni", "deri eldiven"],
 };
 

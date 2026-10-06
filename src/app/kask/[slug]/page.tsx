@@ -11,9 +11,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const product = await prisma.product.findUnique({ where: { slug: resolvedParams.slug }, include: { brand: true } });
   if (!product) return { title: "Ürün Bulunamadı" };
   return {
-    title: `${product.brand?.name || ""} ${product.model} Kask İncelemesi ve Fiyatı | MotorcuKiyafeti`,
-    description: `${product.brand?.name} ${product.model} teknik özellikleri, uyumlu interkomlar ve kullanıcı yorumları. Türkiye motosiklet kaskı rehberi.`,
-    keywords: [product.model, product.brand?.name || "", "motosiklet kaskı", "kapalı kask", "kask fiyatları", "motor kaskı inceleme"],
+    title: `${product.brand?.name || ""} ${product.name} Kask İncelemesi ve Fiyatı | MotorcuKiyafeti`,
+    description: `${product.brand?.name} ${product.name} teknik özellikleri, uyumlu interkomlar ve kullanıcı yorumları. Türkiye motosiklet kaskı rehberi.`,
+    keywords: [product.name, product.brand?.name || "", "motosiklet kaskı", "kapalı kask", "kask fiyatları", "motor kaskı inceleme"],
   };
 }
 

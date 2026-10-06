@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Motosiklet İnterkom Sistemleri ve Fiyatları | MotorcuKiyafeti',
-  description: 'En iyi kask içi iletişim (interkom) sistemleri. Cardo, Sena modelleri ve kask uyumluluk rehberi.',
+  title: "Motosiklet İnterkom Sistemleri ve Fiyatları | MotorcuKiyafeti",
+  description: "En iyi kask içi iletişim sistemleri. Cardo, Sena modelleri ve kask uyumluluk rehberi.",
   keywords: ["motosiklet interkom", "kask kamerası", "Cardo interkom", "Sena interkom", "kask içi kulaklık"],
 };
 

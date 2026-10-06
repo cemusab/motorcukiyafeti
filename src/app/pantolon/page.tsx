@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korumalı Motosiklet Pantolonu ve Kevlar Kot | MotorcuKiyafeti',
-  description: 'Erkek ve kadın motosiklet pantolonu, kevlar kot ve kışlık su geçirmez motorcu pantolonları incelemeleri.',
+  title: "Korumalı Motosiklet Pantolonu ve Kevlar Kot | MotorcuKiyafeti",
+  description: "Erkek ve kadın motosiklet pantolonu, kevlar kot ve kışlık su geçirmez motorcu pantolonları.",
   keywords: ["motosiklet pantolonu", "kevlar motor kotu", "korumalı motor pantolonu", "kışlık motor pantolonu"],
 };
 

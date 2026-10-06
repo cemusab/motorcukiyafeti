@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Kışlık ve Yazlık Motorcu Montu Modelleri | MotorcuKiyafeti',
-  description: 'En iyi yazlık motorcu montu, kışlık motorcu montu ve deri korumalı motosiklet ceketleri. Ankara, İzmir ve tüm Türkiye için ekipman rehberi.',
+  title: "Kışlık ve Yazlık Motorcu Montu Modelleri | MotorcuKiyafeti",
+  description: "En iyi yazlık, kışlık ve deri korumalı motosiklet ceketleri. Tüm Türkiye için ekipman rehberi.",
   keywords: ["motorcu montu", "kışlık motorcu montu", "yazlık motorcu montu", "korumalı motosiklet montu", "deri motor ceket", "Dainese mont"],
 };
 

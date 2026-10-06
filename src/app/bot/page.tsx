@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Motosiklet Botu ve Korumalı Ayakkabı Modelleri | MotorcuKiyafeti',
-  description: 'Korumalı motosiklet botu, günlük motorcu ayakkabısı ve touring çizme incelemeleri. İstanbul Hasanpaşa mağazaları ve online rehber.',
+  title: "Motosiklet Botu ve Korumalı Ayakkabı Modelleri | MotorcuKiyafeti",
+  description: "Korumalı motosiklet botu, günlük motorcu ayakkabısı ve touring çizme incelemeleri.",
   keywords: ["motosiklet botu", "motorcu ayakkabısı", "korumalı motor botu", "gore-tex motosiklet botu"],
 };
 
