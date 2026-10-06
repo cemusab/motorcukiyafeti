@@ -36,6 +36,7 @@ model Brand {
   name        String
   isOem       Boolean   @default(false)
   products    Product[]
+  sizeGuides  SizeGuide[]
 }
 
 model Category {
@@ -43,6 +44,7 @@ model Category {
   slug        String    @unique
   name        String
   products    Product[]
+  sizeGuides  SizeGuide[]
 }
 
 model ProductSpec {
@@ -87,7 +89,9 @@ model ProductPrice {
   merchantId     String
   price          Float
   campaignPrice  Float?
-  stockStatus    Boolean   @default(true)
+  inStock        Boolean   @default(true)
+  stockText      String    @default("Stokta")
+  deliveryTime   String    @default("1-3 İş Günü")
   size           String?
   color          String?
   url            String
@@ -95,4 +99,15 @@ model ProductPrice {
 
   product        Product   @relation(fields: [productId], references: [id])
   merchant       Merchant  @relation(fields: [merchantId], references: [id])
+}
+
+model SizeGuide {
+  id         String   @id @default(uuid())
+  brandId    String
+  categoryId String
+  content    String   
+  brand      Brand    @relation(fields: [brandId], references: [id])
+  category   Category @relation(fields: [categoryId], references: [id])
+  
+  @@unique([brandId, categoryId])
 }

@@ -138,19 +138,33 @@ export default async function KaskDetail({ params }: { params: Promise<{ categor
                 <div className="space-y-3">
                   {product.prices && product.prices.length > 0 ? (
                     product.prices.map((p) => (
-                      <a key={p.id} href={p.url} target="_blank" rel="noopener noreferrer" className={`flex items-center justify-between p-3 rounded-xl border ${p.stockStatus ? 'bg-white border-gray-200 hover:border-red-400' : 'bg-gray-50 border-gray-100 opacity-70'} transition`}>
-                        <div className="flex items-center gap-3">
-                          {p.merchant.logoUrl ? (
-                            <img src={p.merchant.logoUrl} alt={p.merchant.name} className="h-6 object-contain" />
-                          ) : (
-                            <span className="font-bold text-sm">{p.merchant.name}</span>
+                      <div key={p.id} className={`flex flex-col gap-2 p-4 rounded-xl border ${p.inStock ? 'bg-white border-gray-200 hover:border-red-400' : 'bg-gray-50 border-gray-100 opacity-70'} transition`}>
+                        <div className="flex items-center justify-between">
+                          <div className="flex items-center gap-3">
+                            {p.merchant.logoUrl ? (
+                              <img src={p.merchant.logoUrl} alt={p.merchant.name} className="h-6 object-contain" />
+                            ) : (
+                              <span className="font-bold text-sm">{p.merchant.name}</span>
+                            )}
+                          </div>
+                          <div className="text-right">
+                            <div className="font-black text-lg text-gray-900">{p.price.toLocaleString('tr-TR')} TL</div>
+                          </div>
+                        </div>
+                        <div className="flex items-center gap-3 mt-1 text-xs font-semibold">
+                          <span className={`px-2 py-1 rounded flex items-center gap-1 ${p.inStock ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}`}>
+                            {p.inStock ? '✓ ' + (p.stockText || 'Stokta') : '✗ Stokta Yok'}
+                          </span>
+                          {p.inStock && p.deliveryTime && (
+                            <span className="text-gray-600 bg-gray-100 px-2 py-1 rounded flex items-center gap-1">
+                              🚚 {p.deliveryTime}
+                            </span>
                           )}
                         </div>
-                        <div className="text-right">
-                          <div className="font-black text-gray-900">{p.price.toLocaleString('tr-TR')} TL</div>
-                          {!p.stockStatus && <div className="text-[10px] text-red-500 font-bold">Stokta Yok</div>}
-                        </div>
-                      </a>
+                        <a href={p.url} target="_blank" rel="noopener noreferrer" className={`mt-2 text-center text-sm font-bold py-2 rounded-lg transition ${p.inStock ? 'bg-gray-900 text-white hover:bg-black' : 'bg-gray-200 text-gray-400 cursor-not-allowed pointer-events-none'}`}>
+                          {p.inStock ? 'Satıcıya Git →' : 'Tükendi'}
+                        </a>
+                      </div>
                     ))
                   ) : (
                     <div className="text-4xl font-black text-gray-900 mb-1">{product.basePriceMin?.toLocaleString('tr-TR')} TL</div>
@@ -174,7 +188,12 @@ export default async function KaskDetail({ params }: { params: Promise<{ categor
                   <tr className="border-b border-gray-100"><th className="py-3 font-medium text-gray-500">Ağırlık</th><td className="py-3 font-bold text-gray-900">1.650 g (M beden)</td></tr>
                 </tbody>
               </table>
-              <button className="text-blue-600 text-sm font-bold mt-4">Tüm Teknik Özellikler ▾</button>
+              <div className="flex items-center justify-between mt-4">
+    <button className="text-blue-600 text-sm font-bold hover:underline">Tüm Teknik Özellikler ▾</button>
+    <button className="text-gray-900 bg-gray-100 hover:bg-gray-200 px-4 py-2 rounded-lg text-sm font-bold border border-gray-300 transition flex items-center gap-2">
+      📏 Beden Tablosu (Size Guide)
+    </button>
+  </div>
             </div>
           </aside>
         </div>
