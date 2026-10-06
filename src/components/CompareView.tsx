@@ -63,7 +63,7 @@ export function CompareView({ items, onRemove }: { items: CompareEntry[]; onRemo
                 </th>
                 {items.map((i) => (
                   <td key={i.id} className="p-3">
-                    {i.price != null ? `${fmt(i.price)}'den` : <span className="text-mute">Doğrulanmadı</span>}
+                    {i.price != null ? `${fmt(i.price)}'den` : <span className="text-mute">Doğrulanıyor</span>}
                   </td>
                 ))}
               </tr>

@@ -1,0 +1,429 @@
+{
+  "updatedAt": "2026-10-06",
+  "pages": [
+    {
+      "slug": "kvkk-aydinlatma-metni",
+      "title": "KVKK Aydınlatma Metni",
+      "description": "Motorcu Kıyafeti sitesinde hangi kişisel verilerin, hangi amaç ve hukuki sebeple işlendiğine dair 6698 sayılı KVKK kapsamındaki bilgilendirme.",
+      "intro": "Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (KVKK) 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ uyarınca, motorcukiyafeti.com (“Motorcu Kıyafeti” veya “Site”) ziyaretçilerini bilgilendirmek amacıyla hazırlanmıştır. Site; üyelik, form, bülten, analiz (istatistik) aracı, reklam veya takip çerezi içermeyen, bilgi ve karşılaştırma amaçlı statik bir web sitesidir.",
+      "sections": [
+        {
+          "heading": "1. Veri sorumlusu",
+          "paragraphs": [
+            "KVKK kapsamında veri sorumlusu {{VERI_SORUMLUSU}}’dur.",
+            "Bize aşağıdaki iletişim bilgileri üzerinden ulaşabilirsiniz."
+          ],
+          "bullets": [
+            "Adres: {{ADRES}}",
+            "E-posta: {{EPOSTA}}",
+            "KEP adresi: {{KEP}}",
+            "MERSİS numarası: {{MERSIS}}"
+          ]
+        },
+        {
+          "heading": "2. İşlenen kişisel veriler",
+          "paragraphs": [
+            "Site, ziyaretçilerden adınız, e-posta adresiniz veya telefon numaranız gibi kimlik ya da iletişim bilgisi talep etmez. Siteyi görüntülediğinizde yalnızca aşağıdaki teknik veriler, sayfaların size iletilmesi sırasında barındırma hizmeti sağlayıcısı tarafından işlenir:"
+          ],
+          "bullets": [
+            "IP adresi",
+            "Tarayıcı ve cihaz bilgisi (user agent)",
+            "Talep edilen sayfa adresi (URL)",
+            "Talebin tarih ve saati"
+          ]
+        },
+        {
+          "heading": "3. İşleme amaçları",
+          "paragraphs": [
+            "Yukarıdaki teknik veriler yalnızca şu amaçlarla işlenir:"
+          ],
+          "bullets": [
+            "Site içeriğinin tarayıcınıza teknik olarak iletilmesi (barındırma ve içerik dağıtımı)",
+            "Bilgi güvenliğinin sağlanması; kötüye kullanım, saldırı ve hatalı trafiğin tespiti ve önlenmesi",
+            "Teknik arızaların tespiti ve giderilmesi"
+          ]
+        },
+        {
+          "heading": "4. Toplama yöntemi ve hukuki sebep",
+          "paragraphs": [
+            "Teknik veriler, Site’yi ziyaret ettiğinizde tarayıcınızın sunucuya gönderdiği istekler aracılığıyla otomatik yollarla toplanır ve sunucu/erişim kayıtlarına (log) yazılır.",
+            "Bu işleme, KVKK’nın 5. maddesinin ikinci fıkrasının (f) bendi uyarınca “ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” hukuki sebebine dayanır. Meşru menfaatimiz, Site’nin güvenli ve kesintisiz biçimde sunulmasıdır.",
+            "Site’de açık rızaya dayalı bir işleme faaliyeti bulunmamaktadır. İleride açık rıza gerektiren bir işleme (örneğin rızaya bağlı ziyaretçi istatistikleri) eklenirse, açık rıza ayrıca ve bu metinden ayrı olarak talep edilir; bu metin de güncellenir."
+          ]
+        },
+        {
+          "heading": "5. Tarayıcınızda saklanan listeler (favoriler ve karşılaştırma)",
+          "paragraphs": [
+            "Favorilere veya karşılaştırma listesine ürün eklediğinizde, eklediğiniz ürünlerin kimlikleri yalnızca kendi tarayıcınızın yerel depolama alanında (localStorage; “mk:fav” ve “mk:cmp” anahtarları) tutulur.",
+            "Bu bilgiler sunucularımıza veya üçüncü kişilere gönderilmez; tarafımızca görülemez ve erişilemez. Listeler yalnızca sizin işleminizle oluşur ve tarayıcı verilerinizi silerek ya da Site’deki ilgili düğmelerle istediğiniz zaman temizlenebilir."
+          ]
+        },
+        {
+          "heading": "6. Kişisel verilerin aktarılması ve yurt dışına aktarım",
+          "paragraphs": [
+            "Site, Vercel Inc. (ABD) tarafından sağlanan barındırma ve küresel içerik dağıtım ağı (edge network) altyapısı üzerinden sunulmaktadır. Bölüm 2’de sayılan teknik veriler, barındırma hizmeti kapsamında Vercel tarafından ve Vercel’in yurt içinde ve yurt dışında bulunan sunucularında işlenir. Bu durum KVKK’nın 9. maddesi kapsamında yurt dışına aktarım niteliği taşır.",
+            "7499 sayılı Kanun ile değişik KVKK’nın 9. maddesi uyarınca yurt dışına aktarım; yeterlilik kararı, uygun güvenceler (ör. Kurul tarafından ilan edilen standart sözleşme; bu sözleşme imzalanmasından itibaren beş iş günü içinde Kuruma bildirilir) veya arızi aktarım hallerinden birine dayanılarak yapılabilir. Barındırma hizmetine ilişkin aktarımın dayandığı mekanizma hakkında {{EPOSTA}} adresinden bilgi talep edebilirsiniz.",
+            "Bunun dışında kişisel verileriniz; yalnızca kanunen yetkili kamu kurum ve kuruluşlarının usulüne uygun talepleri hâlinde ve hukuki yükümlülüklerimiz çerçevesinde bu kurumlarla paylaşılabilir."
+          ]
+        },
+        {
+          "heading": "7. Üçüncü taraf içerikler",
+          "paragraphs": [
+            "Site’deki bazı içerikler doğrudan üçüncü tarafların sunucularından tarayıcınıza yüklenir. Bu durumda tarayıcınız, teknik bir gereklilik olarak IP adresinizi ve tarayıcı bilgilerinizi ilgili üçüncü tarafa kendisi iletir. Bu üçüncü tarafların veri işleme faaliyetleri kendi gizlilik politikalarına tabidir."
+          ],
+          "bullets": [
+            "Ürün görselleri: Üreticilerin (ör. Shoei, AGV, Alpinestars) resmî sunucularından yüklenir.",
+            "Video küçük resimleri: Video bölümü görüntülendiğinde Google’a ait i.ytimg.com alan adından yüklenir.",
+            "YouTube videoları: youtube-nocookie.com üzerinden, yalnızca oynat düğmesine tıkladığınızda yüklenir. Tıklamadan önce YouTube oynatıcısı yüklenmez.",
+            "Dış bağlantılar: Üretici ve satıcı sitelerine verilen bağlantılara tıkladığınızda, ilgili sitenin kendi gizlilik ve çerez uygulamaları geçerli olur."
+          ]
+        },
+        {
+          "heading": "8. Saklama süresi",
+          "paragraphs": [
+            "Sunucu/erişim kayıtları, yalnızca güvenlik ve hizmetin sunulması amaçlarıyla gerekli olduğu süre boyunca ve barındırma hizmeti sağlayıcısının saklama politikaları çerçevesinde sınırlı bir süre tutulur; süre sonunda silinir veya anonim hâle getirilir.",
+            "Tarayıcınızdaki favori ve karşılaştırma listeleri, siz silene kadar yalnızca kendi cihazınızda kalır."
+          ]
+        },
+        {
+          "heading": "9. KVKK’nın 11. maddesi kapsamındaki haklarınız",
+          "paragraphs": [
+            "KVKK’nın 11. maddesi uyarınca veri sorumlusuna başvurarak şu haklarınızı kullanabilirsiniz:"
+          ],
+          "bullets": [
+            "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
+            "İşlenmişse buna ilişkin bilgi talep etme",
+            "İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme",
+            "Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme",
+            "Eksik veya yanlış işlenmişse düzeltilmesini isteme",
+            "KVKK’nın 7. maddesindeki şartlar çerçevesinde silinmesini veya yok edilmesini isteme",
+            "Düzeltme, silme veya yok etme işlemlerinin, verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme",
+            "İşlenen verilerin münhasıran otomatik sistemlerle analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme",
+            "Kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme"
+          ]
+        },
+        {
+          "heading": "10. Başvuru ve değişiklikler",
+          "paragraphs": [
+            "Haklarınızı nasıl kullanabileceğiniz “İlgili Kişi Başvuru Rehberi” sayfasında açıklanmıştır. Başvurularınız en geç otuz gün içinde ücretsiz olarak sonuçlandırılır (KVKK m. 13).",
+            "İleride iletişim formu veya rızaya bağlı analiz aracı gibi yeni bir işleme faaliyeti eklenirse bu metin güncellenir. Güncel sürüm her zaman bu sayfada yayımlanır."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gizlilik-politikasi",
+      "title": "Gizlilik Politikası (GDPR)",
+      "description": "Avrupa Birliği’nden ziyaret edenler için GDPR (AB 2016/679) kapsamında Motorcu Kıyafeti sitesindeki kişisel veri işleme, hukuki dayanaklar ve haklar.",
+      "intro": "Bu politika, Avrupa Birliği ve Avrupa Ekonomik Alanı’ndan (AEA) motorcukiyafeti.com’u ziyaret eden kişilere, Genel Veri Koruma Tüzüğü’nün (AB) 2016/679 (GDPR) 13. maddesinde öngörülen bilgileri sunmak amacıyla hazırlanmıştır. Türkiye’deki ziyaretçiler için “KVKK Aydınlatma Metni” geçerlidir; iki metin aynı veri işleme faaliyetlerini anlatır.",
+      "sections": [
+        {
+          "heading": "1. Kapsam ve GDPR’ın uygulanması",
+          "paragraphs": [
+            "Veri sorumlusu AB dışında (Türkiye’de) yerleşiktir. GDPR’ın 3(2). maddesi uyarınca GDPR, AB dışında yerleşik bir veri sorumlusuna, AB’deki kişilere mal veya hizmet sunulması ya da bu kişilerin AB içindeki davranışlarının izlenmesi hâlinde uygulanır. Site Türkçe bir bilgi sitesidir; ziyaretçi davranışlarını izlemez ve analiz aracı kullanmaz.",
+            "Buna rağmen şeffaflık amacıyla, GDPR’ın uygulanabileceği ölçüde AB/AEA’dan gelen ziyaretçilere bu bilgileri sunuyoruz."
+          ]
+        },
+        {
+          "heading": "2. Veri sorumlusu",
+          "paragraphs": [
+            "Veri sorumlusu: {{VERI_SORUMLUSU}}"
+          ],
+          "bullets": [
+            "Adres: {{ADRES}}",
+            "E-posta: {{EPOSTA}}"
+          ]
+        },
+        {
+          "heading": "3. İşlenen veriler, amaçlar ve hukuki dayanak",
+          "paragraphs": [
+            "Site’de hesap, form, bülten, analiz aracı, reklam veya takip çerezi bulunmamaktadır. İşlenen tek kişisel veri kategorisi, sayfaların sunulması sırasında oluşan sunucu/erişim kayıtlarıdır."
+          ],
+          "bullets": [
+            "Veriler: IP adresi, tarayıcı/cihaz bilgisi (user agent), talep edilen URL, tarih ve saat.",
+            "Amaçlar: Site’nin tarayıcınıza iletilmesi, güvenlik (saldırı ve kötüye kullanımın önlenmesi), hata tespiti.",
+            "Hukuki dayanak: GDPR m. 6(1)(f) – meşru menfaat. Meşru menfaatimiz, Site’nin güvenli, istikrarlı ve kesintisiz biçimde sunulmasıdır.",
+            "Verilerin sağlanması: Sözleşmesel veya yasal bir zorunluluk değildir; ancak bu teknik veriler iletilmeden Site görüntülenemez.",
+            "Otomatik karar verme ve profil oluşturma (GDPR m. 22) yapılmamaktadır."
+          ]
+        },
+        {
+          "heading": "4. Alıcılar ve veri işleyen",
+          "paragraphs": [
+            "Site, Vercel Inc. (ABD) tarafından sağlanan barındırma ve küresel içerik dağıtım ağı (edge network) üzerinden sunulur. Vercel, sunucu/erişim kayıtlarını hizmetin sunulması ve güvenlik amacıyla işler.",
+            "Kişisel veriler bunun dışında yalnızca yasal bir yükümlülük bulunması hâlinde yetkili makamlarla paylaşılabilir. Veriler satılmaz ve reklam amacıyla kullanılmaz."
+          ]
+        },
+        {
+          "heading": "5. Üçüncü ülkelere aktarım",
+          "paragraphs": [
+            "Vercel Inc. ABD’de yerleşiktir. Avrupa Komisyonu, 10 Temmuz 2023 tarihli kararla AB–ABD Veri Gizliliği Çerçevesi’ne (EU–U.S. Data Privacy Framework, DPF) sertifikalı ABD kuruluşları için yeterlilik kararı almıştır (GDPR m. 45). Vercel Inc., DPF’ye katıldığını beyan etmektedir; aktarımlar bu çerçeveye ve gerektiğinde standart sözleşme hükümlerine (GDPR m. 46) dayanır.",
+            "Video küçük resimleri ve videolar Google LLC’ye (ABD) ait alan adlarından yüklenir; Google LLC de DPF katılımcısıdır.",
+            "Bir kuruluşun güncel DPF sertifika durumunu dataprivacyframework.gov adresindeki listeden kontrol edebilirsiniz."
+          ]
+        },
+        {
+          "heading": "6. Doğrudan üçüncü taraflardan yüklenen içerikler",
+          "paragraphs": [
+            "Aşağıdaki içerikler doğrudan üçüncü taraf sunucularından yüklenir. Bu sırada tarayıcınız IP adresinizi ve tarayıcı bilgilerinizi ilgili sağlayıcıya kendisi iletir; bu sağlayıcıların işlemeleri kendi gizlilik politikalarına tabidir."
+          ],
+          "bullets": [
+            "Ürün görselleri: Üreticilerin resmî sunucularından (ör. Shoei, AGV, Alpinestars).",
+            "Video küçük resimleri: Video bölümü görüntülendiğinde i.ytimg.com (Google) üzerinden.",
+            "YouTube videoları: youtube-nocookie.com üzerinden ve yalnızca oynat düğmesine tıkladıktan sonra. Oynatma başladıktan sonra YouTube/Google kendi tarafında çerez veya yerel depolama gibi teknolojiler kullanabilir.",
+            "Dış bağlantılar: Üretici ve satıcı sitelerine geçtiğinizde o sitelerin politikaları geçerlidir.",
+            "Yazı tipleri Site’nin kendi sunucusundan yüklenir; Google Fonts gibi harici yazı tipi hizmetlerine istek gönderilmez."
+          ]
+        },
+        {
+          "heading": "7. Cihazınızda saklanan bilgiler",
+          "paragraphs": [
+            "Favori ve karşılaştırma listeleri yalnızca sizin işleminizle, tarayıcınızın yerel depolama alanında (localStorage; “mk:fav”, “mk:cmp”) tutulur ve hiçbir zaman sunucuya gönderilmez. Bu depolama, açıkça talep ettiğiniz işlevin (liste tutma) sunulması için kesinlikle gereklidir; bu nedenle ePrivacy Direktifi’nin (2002/58/AT) 5(3). maddesindeki istisna kapsamında değerlendirilir ve onay gerektirmez. Ayrıntılar için “Çerez Politikası” sayfasına bakınız."
+          ]
+        },
+        {
+          "heading": "8. Saklama süresi",
+          "paragraphs": [
+            "Sunucu/erişim kayıtları, güvenlik ve hizmetin sunulması için gerekli olan süreyle sınırlı olarak ve barındırma sağlayıcısının saklama politikaları çerçevesinde tutulur; ardından silinir veya anonim hâle getirilir. Yerel depolamadaki listeler siz silene kadar yalnızca cihazınızda kalır."
+          ]
+        },
+        {
+          "heading": "9. Haklarınız",
+          "paragraphs": [
+            "GDPR kapsamında aşağıdaki haklara sahipsiniz. Taleplerinizi {{EPOSTA}} adresine iletebilirsiniz; talepler kural olarak bir ay içinde yanıtlanır (GDPR m. 12(3))."
+          ],
+          "bullets": [
+            "Erişim hakkı (m. 15)",
+            "Düzeltme hakkı (m. 16)",
+            "Silme hakkı (m. 17)",
+            "İşlemenin kısıtlanmasını isteme hakkı (m. 18)",
+            "Veri taşınabilirliği hakkı (m. 20) – uygulanabildiği ölçüde",
+            "İtiraz hakkı (m. 21): Meşru menfaate dayanan işlemeye, özel durumunuzdan kaynaklanan gerekçelerle her zaman itiraz edebilirsiniz.",
+            "Yalnızca otomatik işlemeye dayalı kararlara tabi olmama hakkı (m. 22)"
+          ]
+        },
+        {
+          "heading": "10. Denetim makamına şikâyet ve değişiklikler",
+          "paragraphs": [
+            "GDPR’ın 77. maddesi uyarınca, özellikle mutat ikametgâhınızın, işyerinizin veya iddia edilen ihlalin gerçekleştiği AB üye devletindeki bir veri koruma denetim makamına şikâyette bulunma hakkınız vardır.",
+            "İleride iletişim formu veya onaya dayalı analiz aracı eklenirse bu politika güncellenir."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cerez-politikasi",
+      "title": "Çerez Politikası",
+      "description": "Motorcu Kıyafeti sitesi takip veya reklam çerezi kullanmaz. Tarayıcıda saklanan favori ve karşılaştırma listeleri ile üçüncü taraf içerikler hakkında bilgi.",
+      "intro": "Bu politika, motorcukiyafeti.com’un çerezleri ve tarayıcıda veri saklayan benzer teknolojileri (ör. localStorage) nasıl kullandığını açıklar. Kısaca: Site, analiz, reklam veya takip amaçlı çerez kullanmaz; yalnızca sizin işleminizle oluşan favori ve karşılaştırma listelerini kendi tarayıcınızda saklar.",
+      "sections": [
+        {
+          "heading": "1. Çerez ve yerel depolama nedir?",
+          "paragraphs": [
+            "Çerezler, ziyaret ettiğiniz web siteleri tarafından tarayıcınıza kaydedilen küçük metin dosyalarıdır. Yerel depolama (localStorage) ise tarayıcınızda bilgi saklamaya yarayan benzer bir teknolojidir; çerezlerden farklı olarak her istekte sunucuya otomatik gönderilmez.",
+            "Kişisel Verileri Koruma Kurumu’nun 2022 tarihli “Çerez Uygulamaları Hakkında Rehber”i çerezleri esas alır; benzer teknolojilere de aynı ilkelerin gözetilmesi beklenebilir. AB’de ise ePrivacy Direktifi’nin 5(3). maddesi, kullanıcının cihazına bilgi kaydetmeyi ve bu bilgiye erişmeyi teknolojiden bağımsız olarak düzenler (EDPB 2/2023 sayılı Rehber)."
+          ]
+        },
+        {
+          "heading": "2. Hangi teknolojileri kullanıyoruz?",
+          "paragraphs": [
+            "Site şu anda çerez yerleştirmez. Yalnızca aşağıdaki yerel depolama öğeleri, siz ilgili düğmeyi kullandığınızda oluşturulur:"
+          ],
+          "bullets": [
+            "Ad: mk:fav | Tür: localStorage | Amaç: Favorilere eklediğiniz ürünlerin listesini tutmak | Süre: Siz silene kadar (tarayıcı verisi temizlenene veya listeden çıkarılana kadar) | Taraf: Birinci taraf (motorcukiyafeti.com); sunucuya gönderilmez",
+            "Ad: mk:cmp | Tür: localStorage | Amaç: Karşılaştırma listesine eklediğiniz ürünleri tutmak | Süre: Siz silene kadar | Taraf: Birinci taraf (motorcukiyafeti.com); sunucuya gönderilmez"
+          ]
+        },
+        {
+          "heading": "3. Hukuki değerlendirme: neden onay istemiyoruz?",
+          "paragraphs": [
+            "KVKK Çerez Rehberi, internet sitesinin çalışması veya kullanıcının açıkça talep ettiği bir hizmetin sunulması için zorunlu olan çerezleri, açık rıza gerektirmeyen “zorunlu çerezler” olarak değerlendirir; analiz, reklam ve takip gibi zorunlu olmayan çerezler ise açık rızaya tabidir.",
+            "ePrivacy Direktifi’nin 5(3). maddesi de kullanıcının açıkça talep ettiği bir hizmetin sunulması için kesinlikle gerekli olan depolamayı onay şartından istisna tutar.",
+            "“mk:fav” ve “mk:cmp” öğeleri yalnızca sizin başlattığınız bir işlemle oluşur, yalnızca talep ettiğiniz liste işlevini sağlar, sunucuya gönderilmez ve sizi tanımlamak veya izlemek için kullanılmaz. Bu nedenle onay gerektirmeyen işlevsel/zorunlu kategoride değerlendirilir ve Site’de çerez onay banner’ı gösterilmez."
+          ]
+        },
+        {
+          "heading": "4. Üçüncü taraf içerikler",
+          "paragraphs": [
+            "Aşağıdaki içerikler üçüncü taraf sunucularından yüklenir. Site bu sağlayıcılar adına çerez yerleştirmez; ancak bu sağlayıcıların kendi uygulamaları üzerinde kontrolümüz yoktur."
+          ],
+          "bullets": [
+            "Ad: Ürün görselleri | Amaç: Ürün fotoğraflarının gösterilmesi | Süre: — | Taraf: Üçüncü taraf (üreticilerin resmî sunucuları, ör. Shoei, AGV, Alpinestars); tarayıcınız IP adresini ve tarayıcı bilgisini bu sunuculara iletir",
+            "Ad: Video küçük resimleri (i.ytimg.com) | Amaç: Video önizleme görselinin gösterilmesi | Süre: — | Taraf: Üçüncü taraf (Google); video bölümü görüntülendiğinde yüklenir",
+            "Ad: YouTube oynatıcısı (youtube-nocookie.com) | Amaç: Videonun oynatılması | Süre: Google’ın kendi politikalarına göre | Taraf: Üçüncü taraf (Google); yalnızca oynat düğmesine tıkladığınızda yüklenir ve oynatma sonrasında Google tarafından çerez veya yerel depolama kullanılabilir"
+          ]
+        },
+        {
+          "heading": "5. Kullanmadığımız teknolojiler",
+          "bullets": [
+            "Analiz/istatistik çerezleri veya araçları",
+            "Reklam ve yeniden hedefleme çerezleri",
+            "Sosyal medya takip pikselleri",
+            "Tarayıcı parmak izi (fingerprinting) yöntemleri",
+            "Harici yazı tipi servisleri (yazı tipleri Site’nin kendi sunucusundan yüklenir)"
+          ]
+        },
+        {
+          "heading": "6. Tercihlerinizi nasıl yönetirsiniz?",
+          "paragraphs": [
+            "Favori ve karşılaştırma listelerini Site’deki “kaldır” veya “temizle” düğmeleriyle silebilirsiniz. Ayrıca tarayıcınızın ayarlarından bu site için saklanan verileri (site verileri / yerel depolama) temizleyebilirsiniz.",
+            "Gizli/özel pencerede veya yerel depolamaya izin verilmediğinde listeler yalnızca sayfa açık kaldığı sürece bellekte tutulur ve Site çalışmaya devam eder.",
+            "YouTube videolarını oynatmadığınız sürece YouTube oynatıcısı yüklenmez."
+          ]
+        },
+        {
+          "heading": "7. Değişiklikler",
+          "paragraphs": [
+            "İleride onaya dayalı bir analiz aracı veya zorunlu olmayan başka bir teknoloji eklenirse, bu teknoloji kullanılmadan önce onayınız istenir, onay vermemek veya onayı geri almak kolay bir yöntemle mümkün kılınır ve bu politika güncellenir.",
+            "Sorularınız için: {{EPOSTA}}"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "basvuru",
+      "title": "İlgili Kişi Başvuru Rehberi",
+      "description": "KVKK 11. madde kapsamındaki haklarınızı Motorcu Kıyafeti’ne nasıl iletebileceğiniz: başvuru yolları, gerekli bilgiler, 30 günlük cevap süresi ve Kurula şikâyet.",
+      "intro": "Bu rehber, 6698 sayılı KVKK’nın 11. maddesinde sayılan haklarınızı kullanmak için veri sorumlusuna nasıl başvurabileceğinizi, KVKK’nın 13. ve 14. maddeleri ile Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ çerçevesinde açıklar.",
+      "sections": [
+        {
+          "heading": "1. Hangi haklarınızı kullanabilirsiniz?",
+          "paragraphs": [
+            "KVKK’nın 11. maddesi kapsamındaki haklarınız (öğrenme, bilgi talep etme, amaç ve aktarım bilgisi, düzeltme, silme veya yok etme, üçüncü kişilere bildirim, otomatik analize itiraz ve zararın giderilmesi) “KVKK Aydınlatma Metni” sayfasında sayılmıştır.",
+            "Hatırlatma: Site yalnızca teknik sunucu/erişim kayıtları işler; favori ve karşılaştırma listeleriniz yalnızca kendi tarayıcınızda tutulduğu için tarafımızca görülemez. Bu listeleri doğrudan tarayıcınızdan silebilirsiniz."
+          ]
+        },
+        {
+          "heading": "2. Başvuru yolları",
+          "paragraphs": [
+            "Tebliğ’in 5. maddesi uyarınca başvurunuzu aşağıdaki yöntemlerden biriyle yapabilirsiniz:"
+          ],
+          "bullets": [
+            "Yazılı olarak: Islak imzalı dilekçeyle {{ADRES}} adresine elden teslim veya posta/kargo yoluyla",
+            "Kayıtlı elektronik posta (KEP) ile: {{KEP}}",
+            "Güvenli elektronik imza veya mobil imza ile imzalanmış başvuruyu {{EPOSTA}} adresine göndererek",
+            "Daha önce tarafımıza bildirdiğiniz ve sistemimizde kayıtlı bulunan e-posta adresinizden {{EPOSTA}} adresine e-posta göndererek"
+          ]
+        },
+        {
+          "heading": "3. Başvuruda bulunması gereken bilgiler",
+          "paragraphs": [
+            "Tebliğ’in 5. maddesine göre başvuruda şu bilgilerin yer alması zorunludur:"
+          ],
+          "bullets": [
+            "Ad, soyad ve başvuru yazılı ise imza",
+            "Türkiye Cumhuriyeti vatandaşları için T.C. kimlik numarası; yabancılar için uyruk, pasaport numarası veya varsa kimlik numarası",
+            "Tebligata esas yerleşim yeri veya iş yeri adresi",
+            "Varsa bildirime esas elektronik posta adresi, telefon ve faks numarası",
+            "Talep konusu (hangi hakkınızı, hangi veriler için kullanmak istediğiniz)",
+            "Varsa konuya ilişkin bilgi ve belgeler"
+          ]
+        },
+        {
+          "heading": "4. Kimlik doğrulama ve sunucu kayıtlarına ilişkin talepler",
+          "paragraphs": [
+            "Kişisel verilerin yetkisiz kişilere açıklanmasını önlemek için, başvurunun size ait olduğunu doğrulamak amacıyla ek bilgi isteyebiliriz.",
+            "Sunucu/erişim kayıtları ad veya e-posta gibi bilgilerle değil, IP adresi ve zaman bilgisiyle ilişkilidir. Bu kayıtlarla ilgili bir talepte bulunacaksanız, sorgulamanın yapılabilmesi için ilgili IP adresini ve yaklaşık tarih/saat aralığını belirtmeniz faydalı olur. Kayıtların saklama süresi sınırlı olduğundan, talep tarihinde ilgili kayıt artık bulunmayabilir."
+          ]
+        },
+        {
+          "heading": "5. Cevap süresi ve ücret",
+          "paragraphs": [
+            "KVKK’nın 13. maddesi uyarınca başvurunuz, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırılır. İşlemin ayrıca bir maliyet gerektirmesi hâlinde Kurulca belirlenen tarife uygulanabilir: Tebliğ’in 7. maddesine göre yazılı cevaplarda on sayfaya kadar ücret alınmaz, on sayfanın üzerindeki her sayfa için 1 Türk Lirası işlem ücreti alınabilir; cevabın CD veya flash bellek gibi bir kayıt ortamında verilmesi hâlinde ücret, kayıt ortamının maliyetini geçemez.",
+            "Cevap size yazılı olarak veya elektronik ortamda bildirilir. Talebiniz kabul edilebilir ya da gerekçesi açıklanarak reddedilebilir. Başvurunun veri sorumlusunun hatasından kaynaklanması hâlinde alınan ücret iade edilir."
+          ]
+        },
+        {
+          "heading": "6. Kişisel Verileri Koruma Kurulu’na şikâyet",
+          "paragraphs": [
+            "KVKK’nın 14. maddesi uyarınca başvurunuzun reddedilmesi, verilen cevabı yetersiz bulmanız veya süresinde cevap verilmemesi hâllerinde; cevabı öğrendiğiniz tarihten itibaren otuz gün ve her hâlde başvuru tarihinden itibaren altmış gün içinde Kişisel Verileri Koruma Kurulu’na şikâyette bulunabilirsiniz.",
+            "Kurul’a şikâyet yoluna gidilebilmesi için önce veri sorumlusuna başvurulmuş olması gerekir. Şikâyetler Kişisel Verileri Koruma Kurumu’nun internet sitesindeki (kvkk.gov.tr) yöntemlerle iletilebilir."
+          ]
+        },
+        {
+          "heading": "7. AB/AEA’dan başvuranlar",
+          "paragraphs": [
+            "AB veya AEA’da bulunuyorsanız GDPR’ın 15–22. maddelerindeki haklarınıza ilişkin taleplerinizi de aynı iletişim kanallarından iletebilirsiniz. Ayrıntılar “Gizlilik Politikası (GDPR)” sayfasındadır."
+          ]
+        },
+        {
+          "heading": "8. İletişim",
+          "paragraphs": [
+            "Veri sorumlusu: {{VERI_SORUMLUSU}}"
+          ],
+          "bullets": [
+            "Adres: {{ADRES}}",
+            "E-posta: {{EPOSTA}}",
+            "KEP: {{KEP}}"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6698.pdf",
+      "label": "6698 sayılı Kişisel Verilerin Korunması Kanunu (güncel metin, mevzuat.gov.tr)"
+    },
+    {
+      "url": "https://www.kvkk.gov.tr/Icerik/6649/Personal-Data-Protection-Law",
+      "label": "KVKK – Kanun metni (Kişisel Verileri Koruma Kurumu)"
+    },
+    {
+      "url": "https://www.resmigazete.gov.tr/eskiler/2024/03/20240312-1.htm",
+      "label": "7499 sayılı Kanun – Resmî Gazete, 12.03.2024 (KVKK m. 6, 9, 18 değişiklikleri; yürürlük 01.06.2024)"
+    },
+    {
+      "url": "https://www.resmigazete.gov.tr/eskiler/2024/07/20240710-2.htm",
+      "label": "Kişisel Verilerin Yurt Dışına Aktarılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik – Resmî Gazete, 10.07.2024"
+    },
+    {
+      "url": "https://www.kvkk.gov.tr/Icerik/8043/Standart-Sozlesme-Bildirim-Modulu-Hakkinda-Kamuoyu-Duyurusu",
+      "label": "KVKK – Standart Sözleşme Bildirim Modülü Hakkında Kamuoyu Duyurusu"
+    },
+    {
+      "url": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-5.htm",
+      "label": "Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ – Resmî Gazete, 10.03.2018"
+    },
+    {
+      "url": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-6.htm",
+      "label": "Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ – Resmî Gazete, 10.03.2018"
+    },
+    {
+      "url": "https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/fb193dbb-b159-4221-8a7b-3addc083d33f.pdf",
+      "label": "KVKK – Çerez Uygulamaları Hakkında Rehber (2022)"
+    },
+    {
+      "url": "https://www.kvkk.gov.tr/Icerik/5395/Aydinlatma-Yukumlulugunun-Yerine-Getirilmesi-Rehberi-Kurum-Internet-Sayfasinda-Yayinlanmistir-",
+      "label": "KVKK – Aydınlatma Yükümlülüğünün Yerine Getirilmesi Rehberi"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "label": "Genel Veri Koruma Tüzüğü (AB) 2016/679 – EUR-Lex"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/dir/2002/58/oj",
+      "label": "ePrivacy Direktifi 2002/58/AT – EUR-Lex"
+    },
+    {
+      "url": "https://www.edpb.europa.eu/documents/guideline/guidelines-22023-on-technical-scope-of-art-53-of-eprivacy-directive_en",
+      "label": "EDPB – Guidelines 2/2023 on Technical Scope of Art. 5(3) ePrivacy Directive (v2.0, 07.10.2024)"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/dec_impl/2023/1795/oj",
+      "label": "Komisyon Uygulama Kararı (AB) 2023/1795 – AB–ABD Veri Gizliliği Çerçevesi yeterlilik kararı"
+    },
+    {
+      "url": "https://www.dataprivacyframework.gov/list",
+      "label": "Data Privacy Framework – Katılımcı listesi"
+    },
+    {
+      "url": "https://vercel.com/legal/privacy-policy",
+      "label": "Vercel – Privacy Policy"
+    },
+    {
+      "url": "https://policies.google.com/privacy/frameworks",
+      "label": "Google – Veri aktarım çerçeveleri"
+    }
+  ]
+}

@@ -5,22 +5,51 @@ import { GEAR, MOTO_TYPES, WIZARD_OPTIONS, budgetTip, wizardSet, type GearKey, t
 import { useList } from "@/lib/store";
 import { Icon } from "./Icon";
 
-export type WizardProduct = { id: string; name: string; href: string; category: string; subs: string[]; price: number | null; season: string | null };
+export type WizardProduct = {
+  id: string;
+  name: string;
+  href: string;
+  category: string;
+  subs: string[];
+  price: number | null;
+  season: string | null;
+  gender: string | null;
+  notFor: string;
+};
+
+type Gender = "fark-etmez" | "erkek" | "kadin";
 
 const GEAR_CAT: Partial<Record<GearKey, string>> = { kask: "kask", mont: "mont", pantolon: "pantolon", eldiven: "eldiven", bot: "bot", interkom: "interkom" };
 
-function pickFor(key: GearKey, input: WizardInput, products: WizardProduct[]) {
+/** Kullanıcının durumuna uymayan ürünleri dışlamak için "uygun değil" metninde aranan kelimeler. */
+function contextWords(i: WizardInput) {
+  const w = ["yeni başla", "acemi", "ilk kask"];
+  if (i.tur === "kurye" || i.kullanim === "kurye") w.push("kurye");
+  if (i.tur === "scooter") w.push("scooter");
+  if (i.kullanim === "sehir" || i.kullanim === "is") w.push("şehir içi", "günlük");
+  if (i.butce === "ekonomik") w.push("bütçe");
+  return w;
+}
+
+function pickFor(key: GearKey, input: WizardInput, gender: Gender, products: WizardProduct[]) {
   const cat = GEAR_CAT[key];
   if (!cat) return [];
   const moto = MOTO_TYPES.find((m) => m.slug === input.tur)!;
   const subs: string[] = moto.subs.filter((s) => s.startsWith(cat + "/")).map((s) => s.split("/")[1]);
-  let list = products.filter((p) => p.category === cat);
+  const avoid = contextWords(input);
+  let list = products.filter(
+    (p) =>
+      p.category === cat &&
+      !p.subs.includes("kaska-ozel-interkom") &&
+      !avoid.some((w) => p.notFor.includes(w)) &&
+      (p.gender == null || p.gender === "unisex" || (gender !== "fark-etmez" && p.gender === gender)),
+  );
   if (cat === "mont" || cat === "eldiven") {
     const seasonal = list.filter((p) => !p.season || p.season === input.mevsim || p.season === "4-mevsim");
     if (seasonal.length) list = seasonal;
   }
-  const bySub = list.filter((p) => p.subs.some((s) => subs.includes(s)));
-  if (bySub.length) list = bySub;
+  // Motor türüne uygun alt kategoride ürün yoksa (ör. enduro için cross kask) alakasız öneri yapılmaz.
+  if (subs.length) list = list.filter((p) => p.subs.some((s) => subs.includes(s)));
   const priced = list.filter((p) => p.price != null).sort((a, b) => a.price! - b.price!);
   if (priced.length >= 2 && input.butce !== "sinirsiz") {
     const third = Math.max(1, Math.ceil(priced.length / 3));
@@ -33,10 +62,11 @@ function pickFor(key: GearKey, input: WizardInput, products: WizardProduct[]) {
 export function Wizard({ products, compact = false }: { products: WizardProduct[]; compact?: boolean }) {
   const [input, setInput] = useState<WizardInput>({ tur: "naked", kullanim: "sehir", mevsim: "4-mevsim", butce: "orta" });
   const [shown, setShown] = useState(!compact);
+  const [gender, setGender] = useState<Gender>("fark-etmez");
   const fav = useList("mk:fav");
   const keys = useMemo(() => wizardSet(input), [input]);
   const total = keys.reduce((s, k) => s + GEAR[k].share, 0);
-  const picks = useMemo(() => Object.fromEntries(keys.map((k) => [k, pickFor(k, input, products)])), [keys, input, products]);
+  const picks = useMemo(() => Object.fromEntries(keys.map((k) => [k, pickFor(k, input, gender, products)])), [keys, input, gender, products]);
   const allPickIds = Object.values(picks).flat().map((p) => p.id);
   const moto = MOTO_TYPES.find((m) => m.slug === input.tur)!;
 
@@ -58,11 +88,22 @@ export function Wizard({ products, compact = false }: { products: WizardProduct[
 
   return (
     <div>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
         {field("w-tur", "Motosiklet türü", input.tur, MOTO_TYPES.map((m) => ({ v: m.slug, l: m.name })), (v) => setInput({ ...input, tur: v as MotoSlug }))}
         {field("w-kul", "Kullanım amacı", input.kullanim, WIZARD_OPTIONS.kullanim, (v) => setInput({ ...input, kullanim: v }))}
         {field("w-mev", "Mevsim", input.mevsim, WIZARD_OPTIONS.mevsim, (v) => setInput({ ...input, mevsim: v as WizardInput["mevsim"] }))}
         {field("w-but", "Bütçe", input.butce, WIZARD_OPTIONS.butce, (v) => setInput({ ...input, butce: v }))}
+        {field(
+          "w-cin",
+          "Giyim kalıbı",
+          gender,
+          [
+            { v: "fark-etmez", l: "Fark etmez (unisex)" },
+            { v: "erkek", l: "Erkek" },
+            { v: "kadin", l: "Kadın" },
+          ],
+          (v) => setGender(v as Gender),
+        )}
       </div>
       {!shown && (
         <button type="button" onClick={() => setShown(true)} className="mt-5 flex h-12 items-center gap-2 rounded-md bg-red px-6 font-semibold text-white hover:bg-red-dark">

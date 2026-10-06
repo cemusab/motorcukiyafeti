@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { CATEGORIES } from "@/data/categories";
 import { getBrands, getGuides } from "@/lib/data";
+import { legalReady } from "@/lib/legal";
 import { Logo } from "./Header";
 
 export function Footer() {
@@ -82,9 +83,17 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 py-5 text-xs text-white/50">
           <p>© {new Date().getFullYear()} motorcukiyafeti.com · Marka adları ve ürün isimleri sahiplerine aittir.</p>
-          <p className="flex gap-4">
+          <p className="flex flex-wrap gap-x-4 gap-y-1">
             <Link href="/hakkimizda" className="hover:text-white">Hakkımızda</Link>
             <Link href="/veri-politikasi" className="hover:text-white">Veri ve Kaynak Politikası</Link>
+            {legalReady() && (
+              <>
+                <Link href="/kvkk-aydinlatma-metni" className="hover:text-white">KVKK Aydınlatma Metni</Link>
+                <Link href="/gizlilik-politikasi" className="hover:text-white">Gizlilik (GDPR)</Link>
+                <Link href="/cerez-politikasi" className="hover:text-white">Çerez Politikası</Link>
+                <Link href="/basvuru" className="hover:text-white">KVKK Başvuru</Link>
+              </>
+            )}
           </p>
         </div>
       </div>

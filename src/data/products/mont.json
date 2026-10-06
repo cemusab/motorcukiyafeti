@@ -654,7 +654,8 @@
     "sizeChartMeasure": "Göğüs çevresi (cm)",
     "unverified": [
       "specs.madeIn",
-      "specs.airbagCompatible"
+      "specs.airbagCompatible",
+      "specs.season"
     ],
     "slug": "4-touring-2",
     "brand": "held",
@@ -732,7 +733,7 @@
     "dataConfidence": "high",
     "specs": {
       "gender": "erkek",
-      "season": "4-mevsim",
+      "season": null,
       "material": "AIRGUARD 500D dış kabuk (polyamid/polyester), polyester astar",
       "materialClass": "tekstil",
       "ceStandard": "EN 17092-4:2020",
@@ -904,7 +905,7 @@
       "season": null,
       "material": "Streç denim",
       "materialClass": "tekstil",
-      "ceStandard": null,
+      "ceStandard": "EN 17092",
       "ceClass": "A",
       "protectors": [
         {

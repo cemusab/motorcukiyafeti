@@ -24,9 +24,14 @@ export function VideoList({ videos }: { videos: Media["videos"] }) {
                 className="absolute inset-0 size-full"
               />
             ) : (
-              <button type="button" onClick={() => setPlaying(v.youtubeId)} className="group absolute inset-0" aria-label={`Videoyu oynat: ${v.title}`}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={`https://i.ytimg.com/vi/${v.youtubeId}/hqdefault.jpg`} alt="" loading="lazy" className="size-full object-cover opacity-90 group-hover:opacity-100" />
+              <button
+                type="button"
+                onClick={() => setPlaying(v.youtubeId)}
+                className="group absolute inset-0 bg-[radial-gradient(circle_at_70%_30%,rgba(212,32,42,.35),transparent_60%)]"
+                aria-label={`Videoyu oynat: ${v.title}`}
+              >
+                {/* Gizlilik: oynatılana kadar YouTube/Google sunucularına istek gönderilmez. */}
+                <span className="absolute inset-x-4 bottom-3 text-left text-xs text-white/60">Oynattığında YouTube'a bağlanılır</span>
                 <span className="absolute inset-0 grid place-items-center">
                   <span className="grid size-16 place-items-center rounded-full bg-red text-white shadow-lg transition group-hover:scale-110">
                     <svg viewBox="0 0 24 24" className="ml-1 size-7" fill="currentColor" aria-hidden>

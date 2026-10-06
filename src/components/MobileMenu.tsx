@@ -55,9 +55,10 @@ export function MobileMenu({ nav }: { nav: MobileNav }) {
                 {nav.categories.map((c) => (
                   <li key={c.href} className="border-b border-line">
                     <div className="flex">
-                      <Link href={c.href} className="flex-1 px-4 py-3.5 text-lg font-semibold">
+                      <Link href={c.href} onClick={() => setOpen(false)} className="flex-1 px-4 py-3.5 text-lg font-semibold">
                         {c.name}
                       </Link>
+                      {c.items.length > 0 && (
                       <button
                         type="button"
                         className="px-4"
@@ -67,12 +68,13 @@ export function MobileMenu({ nav }: { nav: MobileNav }) {
                       >
                         <Icon name="chevron" className={`size-5 transition ${expanded === c.href ? "rotate-90" : ""}`} />
                       </button>
+                      )}
                     </div>
                     {expanded === c.href && (
                       <ul className="bg-paper pb-2">
                         {c.items.map((i) => (
                           <li key={i.href}>
-                            <Link href={i.href} className="block px-6 py-2.5 text-[15px]">
+                            <Link href={i.href} onClick={() => setOpen(false)} className="block px-6 py-2.5 text-[15px]">
                               {i.name}
                             </Link>
                           </li>
@@ -83,7 +85,7 @@ export function MobileMenu({ nav }: { nav: MobileNav }) {
                 ))}
                 {nav.extra.map((e) => (
                   <li key={e.href} className="border-b border-line">
-                    <Link href={e.href} className="block px-4 py-3.5 font-semibold">
+                    <Link href={e.href} onClick={() => setOpen(false)} className="block px-4 py-3.5 font-semibold">
                       {e.label}
                     </Link>
                   </li>

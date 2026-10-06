@@ -490,7 +490,7 @@
     "notFor": [
       "Sportif ya da pist odaklı sürüş yapanlar",
       "Kuryeler: fiyatı ve mekanizması günlük yoğun kullanımın maliyetine göre ağır",
-      "Interkomunu marka bağımsız seçmek isteyenler: entegre sistem Schuberth ünitelerine göre tasarlandı"
+      "İnterkomunu marka bağımsız seçmek isteyenler: entegre sistem Schuberth ünitelerine göre tasarlandı"
     ],
     "pros": [
       "P/J ve ECE 22.06 çift onay",
@@ -706,7 +706,7 @@
     ],
     "notFor": [
       "Pist ya da çok sportif sürüş odaklı olanlar",
-      "Interkom olarak SMART HJC dışında bir sistemi entegre biçimde kullanmak isteyenler"
+      "İnterkom olarak SMART HJC dışında bir sistemi entegre biçimde kullanmak isteyenler"
     ],
     "pros": [
       "ECE 22.06 onaylı, karbon içerikli kompozit kabuk",
@@ -1429,7 +1429,7 @@
       "Listedeki en pahalı kask",
       "İç güneş vizörü yok",
       "Yol kullanımında havalandırma ve ses yalıtımı sürüş pozisyonuna göre konforsuz olabilir",
-      "Interkom hazırlığı üreticinin sayfasında belirtilmemiş"
+      "İnterkom hazırlığı üreticinin sayfasında belirtilmemiş"
     ],
     "usage": {
       "sehir": "Şehir için fazla uzmanlaşmış: dik oturuşta görüş ve havalandırma yarış pozisyonu kadar iyi çalışmaz, iç vizör de yok.",
@@ -1622,7 +1622,7 @@
       "racing-kask",
       "fiber-kask"
     ],
-    "summary": "Arai'nin Japonya'da elde üretilen amiral gemisi kapalı kaskı. ECE 22.06 onaylı, yuvarlak ve pürüzsüz kabuk felsefesiyle pist ve sportif yol sürüşüne yönelik.",
+    "summary": "Arai'nin Japonya'da elde üretilen en üst segment modeli kapalı kaskı. ECE 22.06 onaylı, yuvarlak ve pürüzsüz kabuk felsefesiyle pist ve sportif yol sürüşüne yönelik.",
     "description": [
       "RX-7V Evo, Arai'nin en üst seviye yol/yarış kaskı ve Japonya'da elde üretiliyor. Kabuk PB-SNC2 adı verilen, F1 kasklarından gelen bir lif kuşağıyla güçlendirilmiş kompozit yapıda. Arai'nin temel yaklaşımı, darbede kaskın yüzeyden kayarak enerjinin bir kısmını hiç almaması; bu yüzden kabuk mümkün olduğunca yuvarlak ve pürüzsüz tutuluyor. Önceki RX-7V'ye göre en önemli fark ECE 22.06 onayı.",
       "Kaskta VAS-V Max Vision vizör ve kutudan çıkan Pinlock lens var; Pro Shade güneş sistemi opsiyonel. İç güneş vizörü yok. Yanak pedleri ve iç astar çıkarılıp yıkanabiliyor, 5 mm'lik soyulabilir pedlerle kalıp ayarlanabiliyor. Acil durum çıkarma sistemi (ERS), nefes deflektörü ve çene perdesi bulunuyor; çene bağı çift D halkalı.",
@@ -2034,7 +2034,7 @@
     ],
     "cons": [
       "Termoplastik kabuk; 1.530 g ile hafif değil",
-      "Pinlock 70, Pinlock 120'ye göre daha küçük bir buğu önleyici alanı kapsar",
+      "Kutudan Pinlock 70 lens çıkar; Pinlock 120 kadar güçlü buğu önleme sağlamaz, çok soğuk ve yağışlı havada fark edilir",
       "Bağımsız SHARP test sonucuna ulaşamadık",
       "LS2'nin yeni Storm III modeli geldiği için Storm II stokları zamanla azalabilir"
     ],

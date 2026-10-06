@@ -19,6 +19,7 @@ export function productTypeLabel(p: Product) {
   return [s.gender && s.gender !== "unisex" ? GENDER[s.gender] : null, s.season ? SEASON[s.season] : null, s.materialClass, CAT[p.category]]
     .filter(Boolean)
     .join(" ")
+    .toLocaleLowerCase("tr")
     .replace(/^./, (c) => c.toLocaleUpperCase("tr"));
 }
 
@@ -35,7 +36,7 @@ export function keyChips(p: Product): string[] {
   }
   if (p.category === "interkom") {
     const s = p.specs;
-    return [s.mesh ? "Mesh" : null, s.bluetoothVersion ? `BT ${s.bluetoothVersion}` : null, s.talkTimeHours ? `${s.talkTimeHours} sa konuşma` : null, s.speakers?.split(" ")[0] ?? null]
+    return [s.mesh ? "Mesh" : null, s.bluetoothVersion ? `BT ${s.bluetoothVersion}` : null, s.talkTimeHours ? `${s.talkTimeHours} sa konuşma` : null, s.usbC ? "USB-C" : null]
       .filter(Boolean)
       .slice(0, 4) as string[];
   }

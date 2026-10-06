@@ -50,7 +50,7 @@ export default function BrandsPage() {
               {byCountry.get(country)!.map((b) => (
                 <li key={b.slug}>
                   <Link href={`/marka/${b.slug}`} className="group flex h-full flex-col rounded-lg border border-line bg-white p-5 hover:border-ink hover:shadow-md">
-                    <span className="font-display text-2xl font-bold tracking-wide uppercase group-hover:text-red">{b.name}</span>
+                    <span lang="en" className="font-display text-2xl font-bold tracking-wide uppercase group-hover:text-red">{b.name}</span>
                     <span className="mt-1 text-sm text-mute">{b.categories.map(catName).join(" · ")}</span>
                     <span className="mt-2 line-clamp-2 text-sm text-ink-2">{b.strengths.slice(0, 2).join(", ")}</span>
                     {counts.get(b.slug) ? <span className="mt-auto pt-3 text-xs font-semibold text-red">{counts.get(b.slug)} ürün incelendi</span> : null}

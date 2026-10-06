@@ -7,7 +7,7 @@ import { RelatedLinks } from "@/components/Related";
 import { Container, Notice, PageHead } from "@/components/ui";
 import { allSubcategories, getSubcategory } from "@/data/categories";
 import { displayName, getGuides, productPath, productsIn } from "@/lib/data";
-import { itemListLd, meta } from "@/lib/seo";
+import { clip, itemListLd, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => allSubcategories().map(({ category, sub }) => ({ kategori: category.slug, alt: sub.slug }));
@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: PageProps<"/[kategori]/[alt]"
   const n = productsIn(kategori, alt).length;
   return meta({
     title: `${s.sub.name} Modelleri ve Seçim Rehberi`,
-    description: `${s.sub.intro} ${n ? `${n} model teknik özellikleriyle.` : "Seçim kriterleri ve rehberler."}`.slice(0, 160),
+    description: clip(`${s.sub.intro} ${n ? `${n} model teknik özellikleriyle.` : "Seçim kriterleri ve rehberler."}`),
     path: `/${kategori}/${alt}`,
     noindex: n === 0,
   });

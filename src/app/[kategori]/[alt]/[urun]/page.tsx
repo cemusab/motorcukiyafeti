@@ -28,7 +28,7 @@ import {
   productPath,
 } from "@/lib/data";
 import { keyChips, productTypeLabel, specRows } from "@/lib/labels";
-import { faqLd, meta } from "@/lib/seo";
+import { clip, faqLd, meta } from "@/lib/seo";
 import { abs } from "@/lib/site";
 
 export const dynamicParams = false;
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: PageProps<"/[kategori]/[alt]/
   const price = priceLabel(p);
   return meta({
     title: `${displayName(p)} İnceleme, Teknik Özellikler${price ? " ve Fiyat" : ""}`,
-    description: `${p.summary}`.slice(0, 158),
+    description: clip(p.summary),
     path: productPath(p),
   });
 }
@@ -162,7 +162,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
               </Notice>
             </div>
           )}
-          <p className="text-sm font-semibold tracking-wide text-mute uppercase">
+          <p lang="en" className="text-sm font-semibold tracking-wide text-mute uppercase">
             {brandHasPage(p.brand) ? (
               <Link href={`/marka/${p.brand}`} className="hover:text-red">
                 {brandName(p.brand)}
@@ -208,7 +208,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
                 Üreticinin sayfası <Icon name="external" className="size-4" />
               </a>
               <FavoriteButton id={id} name={name} />
-              <CompareButton id={id} name={name} />
+              <CompareButton id={id} name={name} category={p.category} />
             </div>
           </div>
         </div>
@@ -353,7 +353,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
 
           {compat.length > 0 && (
             <section id="uyumluluk">
-              <h2 className="mb-2 font-display text-3xl font-bold">{p.category === "kask" ? "Bu kaskla uyumlu interkomlar" : "Bu interkomun kask uyumluluğu"}</h2>
+              <h2 className="mb-2 font-display text-3xl font-bold">{p.category === "kask" ? (compat.some((x) => x.verified && x.level !== "uyumsuz") ? "Bu kaskla uyumlu interkomlar" : "Takılabilecek interkomlar") : "Bu interkomun kask uyumluluğu"}</h2>
               <p className="mb-4 text-mute">
                 Yeşil “doğrulandı” etiketi olan bilgiler üretici kaynağına dayanır; diğerleri genel beklentidir ve satın almadan önce teyit edilmelidir.
               </p>
@@ -373,7 +373,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
                         </div>
                         <span className={`rounded px-2 py-1 text-xs font-bold ${COMPAT_LABEL[x.level].c}`}>{COMPAT_LABEL[x.level].t}</span>
                         <span className={`rounded px-2 py-1 text-xs font-semibold ${x.verified ? "bg-ok/10 text-ok" : "bg-paper text-mute"}`}>
-                          {x.verified ? "Doğrulandı" : "Doğrulanmadı"}
+                          {x.verified ? "Doğrulandı" : "Teyit edilmedi"}
                         </span>
                       </li>
                     );

@@ -50,7 +50,7 @@ export function CompatBoard({ helmet }: { helmet: Helmet }) {
                         {displayName(ic)}
                       </Link>
                       <span className={`shrink-0 rounded px-2 py-0.5 text-xs font-semibold ${c.verified ? "bg-ok/10 text-ok" : "bg-paper text-mute"}`}>
-                        {c.verified ? "Doğrulandı" : "Doğrulanmadı"}
+                        {c.verified ? "Doğrulandı" : "Teyit edilmedi"}
                       </span>
                     </div>
                     <p className="mt-2 text-sm text-ink-2">{c.note}</p>

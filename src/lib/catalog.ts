@@ -3,6 +3,7 @@
  * ve merkezi route manifest'i. Sitemap, arama indeksi ve testler hep bu dosyadaki listeleri kullanır.
  */
 import "server-only";
+import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import type { Helmet, Product } from "@/data/schema";
@@ -71,7 +72,7 @@ export const LIST_DEFS: ListDef[] = [
     slug: "en-hafif-kasklar",
     title: "En Hafif Motosiklet Kaskları",
     description: "Üretici verisine göre ağırlığı doğrulanmış kaskların hafiften ağıra sıralaması ve ağırlığın hangi bedene ait olduğu.",
-    intro: "Kask ağırlığı özellikle uzun yolda boyun yorgunluğunu belirler. Ağırlık değerleri bedene göre değiştiği için her modelde ölçümün hangi bedene ait olduğunu da yazdık.",
+    intro: "Kask ağırlığı özellikle uzun yolda boyun yorgunluğunu belirler. Ağırlık bedene göre değişir; üretici belirttiyse ölçümün hangi bedene ait olduğunu da yazdık.",
     criteria: "Yalnızca ağırlığı kaynakla doğrulanmış kasklar listelenir; sıralama ağırlığa göredir, farklı beden ölçümleri birebir kıyaslanamaz.",
     pick: () =>
       helmetsBy((h) => h.specs.weightGrams != null && !h.unverified.includes("specs.weightGrams")).sort(
@@ -83,7 +84,7 @@ export const LIST_DEFS: ListDef[] = [
     title: "Uzun Yol İçin Kask Önerileri",
     description: "Güneş vizörü, Pinlock ve interkom hazırlığı olan, uzun yolda konfor sunan kaskların listesi ve seçim kriterleri.",
     intro: "Uzun yolda konfor, sessizlik ve pratiklik güvenlik kadar önemlidir. Bu listede güneş vizörü ve interkom hazırlığı doğrulanmış kasklar yer alıyor.",
-    criteria: "Kriterler: güneş vizörü var, interkom hazırlığı var. Sessizlik bağımsız test verisi olmadan sıralamaya katılmadı.",
+    criteria: "Güneş vizörü ve interkom hazırlığı olan kasklar. Sessizlik, bağımsız test verisi olmadan sıralamaya katılmadı.",
     pick: () => helmetsBy((h) => h.specs.sunVisor === true && h.specs.intercomReady === true),
   },
   {
@@ -91,9 +92,14 @@ export const LIST_DEFS: ListDef[] = [
     title: "Yeni Başlayanlar İçin Kask",
     description: "İlk kaskını alacaklar için ECE 22.06 onaylı, kapalı veya çene açılır ve fiyat/performans odaklı kask seçenekleri.",
     intro: "İlk kaskta en önemli üç şey doğru beden, ECE 22.06 onayı ve çene korumasıdır. Pahalı kask her zaman daha iyi oturan kask değildir.",
-    criteria: "Kriterler: ECE 22.06 doğrulanmış, kapalı veya çene açılır tip; Türkiye fiyatı bulunan modeller fiyata göre sıralandı.",
+    criteria: "ECE 22.06 doğrulanmış, kapalı veya çene açılır tip ve yeni başlayanlar için uygun değil diye işaretlenmemiş kasklar; Türkiye fiyatına göre ucuzdan pahalıya sıralandı.",
     pick: () =>
-      helmetsBy((h) => h.specs.ece2206 === true && ["kapali", "cene-acilir"].includes(h.specs.helmetType)).sort(
+      helmetsBy(
+        (h) =>
+          h.specs.ece2206 === true &&
+          ["kapali", "cene-acilir"].includes(h.specs.helmetType) &&
+          !/yeni başla|acemi|ilk kask/.test(h.notFor.join(" ").toLocaleLowerCase("tr")),
+      ).sort(
         (a, b) => (a.priceRange?.min ?? 9e9) - (b.priceRange?.min ?? 9e9),
       ),
   },
@@ -127,7 +133,7 @@ export const LIST_DEFS: ListDef[] = [
     description: "Asfalt, toprak ve değişken hava için katmanlı, havalandırmalı touring ve adventure motosiklet montları.",
     intro: "Adventure montu aynı gün sıcak, yağmur ve tozla başa çıkmalıdır. Çıkarılabilir katmanlar ve bol havalandırma temel beklentidir.",
     criteria: "Touring / adventure alt kategorisindeki montlar.",
-    pick: () => productsIn("mont", "touring-mont"),
+    pick: () => productsIn("mont", "touring-mont").sort((a, b) => Number(isApparel(a) && a.specs.gender === "kadin") - Number(isApparel(b) && b.specs.gender === "kadin")),
   },
 ];
 
@@ -154,7 +160,8 @@ export function productsForGender(g: GenderSlug, category?: string) {
   });
 }
 export function genderCategories(g: GenderSlug) {
-  return CATEGORIES.filter((c) => productsForGender(g, c.slug).length > 0);
+  // Kask ve interkom cinsiyetsizdir; ayrı cinsiyet sayfası yinelenen içerik olur.
+  return CATEGORIES.filter((c) => c.slug !== "kask" && c.slug !== "interkom" && productsForGender(g, c.slug).length > 0);
 }
 
 /* ---------- İnterkom uyumluluk ---------- */
@@ -178,13 +185,14 @@ export function routeManifest(): RouteEntry[] {
   ["/", "/markalar", "/rehber", "/karsilastir", "/interkom-uyumlulugu", "/yeni-baslayanlar", "/motosikletime-gore", "/ne-almaliyim", "/hakkimizda", "/veri-politikasi"].forEach((p) =>
     add(p, "statik"),
   );
+  if (legalReady()) LEGAL_SLUGS.forEach((s) => add(`/${s}`, "statik"));
   add("/favoriler", "statik", false);
   add("/arama", "statik", false);
   for (const g of GENDERS) {
     add(`/${g.slug}`, "kategori");
     for (const c of genderCategories(g.slug)) add(`/${g.slug}/${c.slug}`, "kategori");
   }
-  for (const c of CATEGORIES) add(`/${c.slug}`, "kategori");
+  for (const c of CATEGORIES) add(`/${c.slug}`, "kategori", productsIn(c.slug).length > 0);
   for (const { category, sub } of allSubcategories()) add(`/${category.slug}/${sub.slug}`, "kategori", productsIn(category.slug, sub.slug).length > 0);
   for (const m of MOTO_TYPES) add(`/motosikletime-gore/${m.slug}`, "kategori");
   for (const p of getProducts()) add(productPath(p), "urun");
@@ -208,6 +216,8 @@ export function wizardProducts() {
     subs: p.subcategories,
     price: p.priceRange?.min ?? null,
     season: isApparel(p) ? p.specs.season : null,
+    gender: isApparel(p) ? p.specs.gender : null,
+    notFor: p.notFor.join(" ").toLocaleLowerCase("tr"),
   }));
 }
 

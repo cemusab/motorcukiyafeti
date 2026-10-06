@@ -28,7 +28,7 @@ export function ProductVisual({ p, className = "", eager = false }: { p: Product
         <rect width="100%" height="100%" fill="url(#mk-grid)" />
       </svg>
       <Icon name={icon} className="relative size-1/2 max-h-28 text-white/90 drop-shadow-[0_8px_16px_rgba(212,32,42,.45)]" />
-      <span className="absolute bottom-2 left-3 font-display text-sm font-bold tracking-wider text-white/50 uppercase">{brandName(p.brand)}</span>
+      <span lang="en" className="absolute bottom-2 left-3 font-display text-sm font-bold tracking-wider text-white/50 uppercase">{brandName(p.brand)}</span>
     </div>
   );
 }
@@ -43,13 +43,13 @@ export function ProductCard({ p }: { p: Product }) {
       <ProductVisual p={p} className="aspect-[4/3]" />
       <div className="absolute top-2 right-2 z-10 flex gap-1.5">
         <FavoriteButton id={id} name={name} compact />
-        <CompareButton id={id} name={name} compact />
+        <CompareButton id={id} name={name} category={p.category} compact />
       </div>
       {p.status === "discontinued" && (
         <span className="absolute top-2 left-2 rounded bg-warn px-2 py-0.5 text-xs font-semibold text-white">Üretimi sona erdi</span>
       )}
       <div className="flex flex-1 flex-col p-4">
-        <p className="text-xs font-semibold tracking-wide text-mute uppercase">{brandName(p.brand)}</p>
+        <p lang="en" className="text-xs font-semibold tracking-wide text-mute uppercase">{brandName(p.brand)}</p>
         <h3 className="mt-0.5 font-display text-xl leading-tight font-bold">
           <Link href={href} className="after:absolute after:inset-0 after:content-[''] hover:text-red">
             {p.name}

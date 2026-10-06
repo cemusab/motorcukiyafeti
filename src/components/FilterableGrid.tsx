@@ -171,8 +171,8 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
               className="h-10 rounded-md border border-line bg-white px-2 text-sm"
             >
               <option value="onerilen">Önerilen</option>
-              <option value="fiyat-artan">Fiyat: düşükten yükseğe</option>
-              <option value="fiyat-azalan">Fiyat: yüksekten düşüğe</option>
+              {prices.length > 0 && <option value="fiyat-artan">Fiyat: düşükten yükseğe</option>}
+              {prices.length > 0 && <option value="fiyat-azalan">Fiyat: yüksekten düşüğe</option>}
               {hasWeight && <option value="hafif">En hafif</option>}
               <option value="ad">Ada göre</option>
             </select>

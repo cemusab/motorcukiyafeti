@@ -11,6 +11,9 @@ export function CompareTray({ names }: { names: Record<string, string> }) {
   const items = list.filter((id) => names[id]);
   if (!items.length || path.startsWith("/karsilastir")) return null;
   return (
+    <>
+    {/* Sabit çubuk sayfa sonundaki footer bağlantılarını örtmesin diye boşluk */}
+    <div className="h-24" aria-hidden />
     <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-white/95 shadow-[0_-8px_24px_rgba(0,0,0,.08)] backdrop-blur">
       <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-2 px-4 py-3">
         <span className="mr-1 text-sm font-semibold">Karşılaştır ({items.length}/4):</span>
@@ -36,5 +39,6 @@ export function CompareTray({ names }: { names: Record<string, string> }) {
         </div>
       </div>
     </div>
+    </>
   );
 }

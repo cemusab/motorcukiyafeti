@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getCategory } from "@/data/categories";
 import { GENDERS, genderCategories, productsForGender, type GenderSlug } from "@/lib/catalog";
 import { getGuide } from "@/lib/data";
-import { meta } from "@/lib/seo";
+import { clip, meta } from "@/lib/seo";
 import { Breadcrumbs } from "./Breadcrumbs";
 import { Icon } from "./Icon";
 import { ProductListing } from "./ProductListing";
@@ -20,7 +20,7 @@ export function genderMeta(g: GenderSlug, cat?: string) {
   const c = cat ? getCategory(cat) : undefined;
   return meta({
     title: c ? `${gd.name} Motosiklet ${c.name} Modelleri` : gd.long,
-    description: (c ? `${gd.name} sürücüler için ${c.name.toLocaleLowerCase("tr")} modelleri: teknik özellikler, koruma sınıfları ve Türkiye fiyatları.` : INTRO[g]).slice(0, 160),
+    description: clip((c ? `${gd.name} sürücüler için ${c.name.toLocaleLowerCase("tr")} modelleri: teknik özellikler, koruma sınıfları ve Türkiye fiyatları.` : INTRO[g])),
     // Kask ve interkom listeleri cinsiyetten bağımsız olduğu için canonical ana kategoriyi gösterir (yinelenen içerik önlemi).
     path: c ? (c.slug === "kask" || c.slug === "interkom" ? `/${c.slug}` : `/${g}/${c.slug}`) : `/${g}`,
   });

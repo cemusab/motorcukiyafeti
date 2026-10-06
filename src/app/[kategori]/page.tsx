@@ -7,7 +7,7 @@ import { RelatedLinks } from "@/components/Related";
 import { Container, Notice, PageHead } from "@/components/ui";
 import { CATEGORIES, getCategory } from "@/data/categories";
 import { displayName, getBrands, getGuides, productPath, productsIn } from "@/lib/data";
-import { itemListLd, meta } from "@/lib/seo";
+import { clip, itemListLd, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => CATEGORIES.map((c) => ({ kategori: c.slug }));
@@ -18,8 +18,9 @@ export async function generateMetadata({ params }: PageProps<"/[kategori]">) {
   const n = productsIn(kategori).length;
   return meta({
     title: `Motosiklet ${c.name} Rehberi, Modeller ve Karşılaştırma`,
-    description: `${c.intro.slice(0, 120)}${n ? ` ${n} model kaynaklı teknik veriyle.` : ""}`.slice(0, 160),
+    description: n ? `${clip(c.intro, 120)} ${n} model kaynaklı teknik veriyle.` : clip(c.intro),
     path: `/${kategori}`,
+    noindex: n === 0,
   });
 }
 

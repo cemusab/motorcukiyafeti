@@ -6,6 +6,7 @@
 import { useSyncExternalStore } from "react";
 
 type Key = "mk:fav" | "mk:cmp";
+const CMP_CAT = "mk:cmp-cat";
 const mem: Record<string, string[]> = {};
 const listeners = new Set<() => void>();
 const EMPTY: string[] = [];
@@ -53,10 +54,23 @@ export function useList(key: Key) {
   return {
     list,
     has: (id: string) => list.includes(id),
-    toggle: (id: string) => {
+    /** Karşılaştırmada: farklı kategoriden ürün eklenirse liste o kategoriyle yeniden başlar; 4 üründen sonra eklenmez. */
+    toggle: (id: string, category?: string) => {
       const cur = read(key);
-      if (cur.includes(id)) write(key, cur.filter((x) => x !== id));
-      else write(key, key === "mk:cmp" ? [...cur, id].slice(-MAX_COMPARE) : [...cur, id]);
+      if (cur.includes(id)) return write(key, cur.filter((x) => x !== id));
+      if (key !== "mk:cmp") return write(key, [...cur, id]);
+      let prevCat: string | null = null;
+      try {
+        prevCat = window.localStorage.getItem(CMP_CAT);
+      } catch {}
+      if (category && prevCat !== category) {
+        try {
+          window.localStorage.setItem(CMP_CAT, category);
+        } catch {}
+        return write(key, [id]);
+      }
+      if (cur.length >= MAX_COMPARE) return;
+      write(key, [...cur, id]);
     },
     remove: (id: string) => write(key, read(key).filter((x) => x !== id)),
     clear: () => write(key, []),

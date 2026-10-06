@@ -9,7 +9,7 @@ import { Container } from "@/components/ui";
 import { CATEGORIES } from "@/data/categories";
 import { comparePairs } from "@/lib/catalog";
 import { displayName, formatDate, getBrand, getBrands, getGuides, getProducts } from "@/lib/data";
-import { meta } from "@/lib/seo";
+import { clip, meta } from "@/lib/seo";
 import { abs } from "@/lib/site";
 
 export const dynamicParams = false;
@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps<"/marka/[slug]">) {
   const b = getBrand(slug)!;
   return meta({
     title: `${b.name} – Marka Rehberi, Öne Çıkan Ürünler${b.country ? `, ${b.country}` : ""}`,
-    description: `${b.name}${b.country ? ` (${b.country})` : ""} hakkında: güçlü olduğu ürünler, ürün aileleri, Türkiye'deki modeller ve alternatif markalar.`.slice(0, 160),
+    description: clip(`${b.name}${b.country ? ` (${b.country})` : ""} hakkında: güçlü olduğu ürünler, ürün aileleri, Türkiye'deki modeller ve alternatif markalar.`),
     path: `/marka/${slug}`,
   });
 }
@@ -42,7 +42,7 @@ export default async function BrandPage({ params }: PageProps<"/marka/[slug]">) 
           <div className="[&_a]:text-white/70 [&_span]:text-white">
             <Breadcrumbs items={[{ name: "Markalar", href: "/markalar" }, { name: b.name, href: `/marka/${b.slug}` }]} />
           </div>
-          <h1 className="mt-4 font-display text-5xl font-bold tracking-wide uppercase sm:text-6xl">{b.name}</h1>
+          <h1 lang={b.country === "Türkiye" ? "tr" : "en"} className="mt-4 font-display text-5xl font-bold tracking-wide uppercase sm:text-6xl">{b.name}</h1>
           <p className="mt-2 text-lg text-white/70">
             {[b.country, b.founded ? `${b.founded}'den beri` : null, b.categories.map((c) => CATEGORIES.find((x) => x.slug === c)?.short ?? c).join(", ")]
               .filter(Boolean)

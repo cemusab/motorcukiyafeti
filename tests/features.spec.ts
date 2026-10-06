@@ -60,9 +60,9 @@ test("kategori filtreleri ürün listesini daraltır", async ({ page, isMobile }
 
 test("karşılaştırma: iki kask seçilir, tablo ve kısa cevap görünür", async ({ page }) => {
   await page.goto("/kask/shoei/neotec-3");
-  await page.getByRole("button", { name: /Neotec 3 karşılaştırmaya ekle/ }).first().click();
+  await page.getByRole("button", { name: /Neotec 3 karşılaştır$/ }).first().click();
   await page.goto("/kask/schuberth/c5");
-  await page.getByRole("button", { name: /C5 karşılaştırmaya ekle/ }).first().click();
+  await page.getByRole("button", { name: /C5 karşılaştır$/ }).first().click();
   await page.goto("/karsilastir");
   await expect(page.getByRole("heading", { name: "Kısa cevap" })).toBeVisible();
   await expect(page.getByRole("table")).toContainText("Kask tipi");

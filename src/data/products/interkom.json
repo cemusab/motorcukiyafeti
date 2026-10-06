@@ -9,7 +9,7 @@
     ],
     "status": "active",
     "successor": null,
-    "summary": "Cardo'nun amiral gemisi mesh interkomu: 2. nesil DMC, 40 mm JBL hoparlör, mıknatıslı Air Mount ve IP67 su geçirmezlik. Kalabalık grup sürüşleri için tasarlandı.",
+    "summary": "Cardo'nun en üst segment modeli mesh interkomu: 2. nesil DMC, 40 mm JBL hoparlör, mıknatıslı Air Mount ve IP67 su geçirmezlik. Kalabalık grup sürüşleri için tasarlandı.",
     "description": [
       "Packtalk Edge, Cardo'nun Dynamic Mesh Communication (DMC) teknolojisinin ikinci nesliyle çalışan üst segment interkomu. Üretici, grup içinde 31 sürücüye kadar bağlantı, sürücüden sürücüye 1,6 km ve grup genelinde 8 km'ye varan menzil belirtiyor. Mesh ağında sıradaki biri menzilden çıktığında bağlantı kendini yeniden kurduğu için, uzun konvoylarda klasik Bluetooth zincirinde yaşanan kopmalar büyük ölçüde azalıyor.",
       "Cihazın gündelik kullanımdaki en belirgin farkı Air Mount adı verilen mıknatıslı yuva. Ünite kaska yaklaştırıldığında yerine oturuyor, eldivenle çıkarıp takmak kolay. Bluetooth 5.2, USB-C şarj (20 dakikada yaklaşık 2 saatlik konuşma), FM radyo, ses paylaşımı, interkom kaydı ve Cardo Connect uygulaması üzerinden kablosuz yazılım güncellemesi standart. Üretici pil ömrünü 13 saat olarak veriyor.",
@@ -313,7 +313,7 @@
     ],
     "status": "active",
     "successor": null,
-    "summary": "Sena'nın Mesh 3.0 ve Harman Kardon sesli önceki nesil amiral gemisi. 60S'in gölgesinde kalsa da kanıtlanmış ve hâlâ yetenekli bir mesh interkom.",
+    "summary": "Sena'nın Mesh 3.0 ve Harman Kardon sesli önceki nesil en üst segment modeli. 60S'in gölgesinde kalsa da kanıtlanmış ve hâlâ yetenekli bir mesh interkom.",
     "description": [
       "50S, Sena'nın Mesh Intercom 3.0 altyapısını kullanan ve 60S gelene kadar markanın en üst modeli olan interkom. Açık Mesh modunda 6 kanal üzerinden pratikte sınırsız sürücü, kapalı Group Mesh modunda 24 kişiye kadar özel grup, ayrıca klasik 4 kişilik Bluetooth interkom destekliyor. Üretici açık arazide 2 km menzil belirtiyor; ağdaki sürücü sayısı arttıkça toplam menzil de uzuyor.",
       "Hoparlör ve mikrofon Harman Kardon ile birlikte geliştirildi. 8 dilde sesli komut, Siri ve Google Asistan desteği, 76-108 MHz FM radyo ve Sena Motorcycles uygulaması standart. Üretici Mesh'te 13, Bluetooth interkomda 16 saat konuşma süresi ve 2,5 saatlik tam şarj belirtiyor; 20 dakikalık şarj yaklaşık 2 saat kullanım veriyor. WiFi şarj kablosu, şarj sırasında yazılımı otomatik güncelleyebiliyor.",
@@ -448,7 +448,7 @@
     ],
     "status": "active",
     "successor": null,
-    "summary": "Sena'nın güncel amiral gemisi: Mesh 3.0, 2. nesil Harman Kardon 40 mm hoparlör, yapay zekâ destekli gürültü engelleme, IPX7 ve 24 saate varan konuşma süresi.",
+    "summary": "Sena'nın güncel en üst segment modeli: Mesh 3.0, 2. nesil Harman Kardon 40 mm hoparlör, yapay zekâ destekli gürültü engelleme, IPX7 ve 24 saate varan konuşma süresi.",
     "description": [
       "60S, 50S'in yerini alan ve Sena'nın şu anki en üst evrensel interkomu. Mesh Intercom 3.0 ile 6 kanallı Açık Mesh'te pratikte sınırsız sürücü, Group Mesh'te 24 kişiye kadar kapalı grup ve klasik Bluetooth interkom destekliyor; ayrıca telefon uygulaması üzerinden çalışan Wave Intercom ile uzaktaki kişilere bağlanılabiliyor. Üretici her iki modda da açık arazide 2 km menzil belirtiyor.",
       "Asıl ilerleme pil ve ses tarafında. Üretici Bluetooth interkomda 24, Mesh'te 17 saat konuşma süresi ve yalnızca 1,5 saatlik tam şarj veriyor; bu değerler 50S'e göre belirgin biçimde daha iyi. 2. nesil Harman Kardon 40 mm hoparlörler ve yapay zekâ tabanlı gürültü engelleme, yüksek hızda rüzgâr sesine karşı konuşmanın anlaşılırlığını artırmayı hedefliyor. USB-C şarj, IPX7 su geçirmezlik, mıknatıslı montaj ve kablosuz yazılım güncellemesi de var.",

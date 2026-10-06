@@ -8,7 +8,7 @@ import { comparePairs } from "@/lib/catalog";
 import { compareEntry } from "@/lib/compare";
 import { verdicts } from "@/lib/compare-core";
 import { displayName, formatDate } from "@/lib/data";
-import { faqLd, meta } from "@/lib/seo";
+import { faqLd, clip, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => comparePairs().map((c) => ({ slug: c.slug }));
@@ -19,8 +19,8 @@ export async function generateMetadata({ params }: PageProps<"/karsilastir/[slug
   const { slug } = await params;
   const [a, b] = pair(slug)!.items;
   return meta({
-    title: `${displayName(a)} vs ${displayName(b)}: Hangisi Daha İyi?`,
-    description: `${displayName(a)} ile ${displayName(b)} karşılaştırması: ağırlık, güvenlik standartları, özellikler, Türkiye fiyatı ve hangi sürücüye hangisinin uygun olduğu.`.slice(0, 160),
+    title: `${displayName(a)} vs ${displayName(b)}`.length > 48 ? `${displayName(a)} vs ${displayName(b)}` : `${displayName(a)} vs ${displayName(b)}: Hangisi Daha İyi?`,
+    description: clip(`${displayName(a)} ile ${displayName(b)} karşılaştırması: ağırlık, güvenlik standartları, özellikler, Türkiye fiyatı ve hangi sürücüye hangisinin uygun olduğu.`),
     path: `/karsilastir/${slug}`,
   });
 }

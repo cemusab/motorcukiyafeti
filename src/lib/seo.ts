@@ -25,6 +25,16 @@ export function meta({
   };
 }
 
+/** Metni kelime veya cümle sınırında keser (meta description için). */
+export function clip(text: string, max = 158) {
+  const t = text.replace(/\s+/g, " ").trim();
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max);
+  const sentence = cut.lastIndexOf(". ");
+  if (sentence > max * 0.6) return cut.slice(0, sentence + 1);
+  return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:(–-]+$/, "") + "…";
+}
+
 export type Crumb = { name: string; href: string };
 
 export function breadcrumbLd(items: Crumb[]) {

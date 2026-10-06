@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { CATEGORIES, NAV_EXTRA } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import { getGuides } from "@/lib/data";
+import { getGuides, productsIn } from "@/lib/data";
 import { Icon } from "./Icon";
 import { SearchBox } from "./SearchBox";
 import { MobileMenu, type MobileNav } from "./MobileMenu";
@@ -27,7 +27,7 @@ export function Header() {
     categories: CATEGORIES.map((c) => ({
       name: c.name,
       href: `/${c.slug}`,
-      items: c.groups.flatMap((g) => g.items.map((i) => ({ name: i.name, href: `/${c.slug}/${i.slug}` }))),
+      items: c.groups.flatMap((g) => g.items.filter((i) => productsIn(c.slug, i.slug).length).map((i) => ({ name: i.name, href: `/${c.slug}/${i.slug}` }))),
     })),
     extra: [
       { label: "Kadın", href: "/kadin" },
@@ -49,12 +49,12 @@ export function Header() {
           <SearchBox />
         </div>
         <nav aria-label="Hızlı erişim" className="ml-auto flex items-center gap-1 text-sm">
-          <Link href="/karsilastir" className="hidden items-center gap-1.5 rounded px-2.5 py-2 hover:bg-white/10 sm:flex">
+          <Link href="/karsilastir" aria-label="Karşılaştır" className="hidden items-center gap-1.5 rounded px-2.5 py-2 hover:bg-white/10 sm:flex">
             <Icon name="compare" />
             <span className="hidden lg:inline">Karşılaştır</span>
             <HeaderCounters kind="cmp" />
           </Link>
-          <Link href="/favoriler" className="flex items-center gap-1.5 rounded px-2.5 py-2 hover:bg-white/10">
+          <Link href="/favoriler" aria-label="Favoriler" className="flex items-center gap-1.5 rounded px-2.5 py-2 hover:bg-white/10">
             <Icon name="heart" />
             <span className="hidden lg:inline">Favoriler</span>
             <HeaderCounters kind="fav" />
@@ -77,7 +77,7 @@ export function Header() {
               </Link>
               <div className="invisible absolute top-full left-0 z-50 w-[min(720px,90vw)] translate-y-1 rounded-b-lg border border-line bg-white p-6 text-ink opacity-0 shadow-2xl transition group-focus-within:visible group-focus-within:translate-y-0 group-focus-within:opacity-100 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100">
                 <div className="grid grid-cols-3 gap-6">
-                  {c.groups.map((g) => (
+                  {c.groups.map((g) => ({ ...g, items: g.items.filter((i) => productsIn(c.slug, i.slug).length) })).filter((g) => g.items.length).map((g) => (
                     <div key={g.title}>
                       <p className="mb-2 text-xs font-semibold tracking-wider text-mute uppercase">{g.title}</p>
                       <ul className="space-y-1.5 font-medium">

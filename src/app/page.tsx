@@ -18,7 +18,7 @@ export const metadata = meta({
 });
 
 const FEATURES = [
-  { icon: "star", label: "Uzman İncelemeler", href: "/rehber" },
+  { icon: "star", label: "Editör Rehberleri", href: "/rehber" },
   { icon: "shield", label: "Kaynaklı Teknik Bilgi", href: "/veri-politikasi" },
   { icon: "interkom", label: "Kask + İnterkom Uyumluluğu", href: "/interkom-uyumlulugu" },
   { icon: "compare", label: "Karşılaştırma Araçları", href: "/karsilastir" },
@@ -141,6 +141,7 @@ export default function Home() {
               <li key={b.slug}>
                 <Link
                   href={`/marka/${b.slug}`}
+                  lang="en"
                   className="block rounded-md border border-line bg-white px-4 py-2.5 font-display text-xl font-bold tracking-wide text-ink-2 uppercase transition hover:border-ink hover:text-red"
                 >
                   {b.name}
@@ -153,7 +154,7 @@ export default function Home() {
 
       {picks.length > 0 && (
         <Container className="mt-14">
-          <SectionTitle title="Editörün Seçimleri" sub="Teknik verisi üretici kaynaklarıyla en eksiksiz doğrulanmış ürünlerimiz." href="/kask" linkLabel="Tüm kasklar" />
+          <SectionTitle title="Editörün Seçimleri" sub="Teknik verisi üretici kaynaklarıyla en eksiksiz doğrulanmış ürünlerimiz." />
           <ProductGrid items={picks} />
         </Container>
       )}

@@ -27,7 +27,7 @@
     "helmet": "hjc/rpha-91",
     "intercom": "cardo/packtalk-edge",
     "level": "standart",
-    "note": "RPHA 91 kendi SMART HJC sistemlerine (21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
     "verified": false,
     "source": null
   },
@@ -107,7 +107,7 @@
     "helmet": "hjc/rpha-91",
     "intercom": "cardo/freecom-4x",
     "level": "standart",
-    "note": "RPHA 91 kendi SMART HJC sistemlerine (21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
     "verified": false,
     "source": null
   },
@@ -187,7 +187,7 @@
     "helmet": "hjc/rpha-91",
     "intercom": "sena/50s",
     "level": "standart",
-    "note": "RPHA 91 kendi SMART HJC sistemlerine (21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
     "verified": false,
     "source": null
   },
@@ -267,7 +267,7 @@
     "helmet": "hjc/rpha-91",
     "intercom": "sena/60s",
     "level": "standart",
-    "note": "RPHA 91 kendi SMART HJC sistemlerine (21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
     "verified": false,
     "source": null
   },

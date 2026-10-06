@@ -21,21 +21,38 @@ export function norm(s: string) {
     .trim();
 }
 
+/** Damerau-Levenshtein (yer değiştirmiş harfleri de tek hata sayar: "sheoi" → "shoei"). */
 function lev(a: string, b: string, max: number) {
   if (Math.abs(a.length - b.length) > max) return max + 1;
-  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  const d: number[][] = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) d[0][j] = j;
   for (let i = 1; i <= a.length; i++) {
-    const cur = [i];
-    let best = i;
+    let best = Infinity;
     for (let j = 1; j <= b.length; j++) {
-      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
-      best = Math.min(best, cur[j]);
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + cost);
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1);
+      best = Math.min(best, d[i][j]);
     }
     if (best > max) return max + 1;
-    prev = cur;
   }
-  return prev[b.length];
+  return d[a.length][b.length];
 }
+
+/** Sorgudaki kategori kelimesi (ör. "mont", "kask") sonuçları o kategoriye kısıtlar. */
+const CATEGORY_WORDS: Record<string, string> = {
+  kask: "/kask",
+  kasklar: "/kask",
+  mont: "/mont",
+  montlar: "/mont",
+  ceket: "/mont",
+  eldiven: "/eldiven",
+  bot: "/bot",
+  botlar: "/bot",
+  ayakkabi: "/bot",
+  interkom: "/interkom",
+  pantolon: "/pantolon",
+};
 
 /** "10 bin altı", "10000 tl alti", "15k altı" gibi bütçe ifadelerini yakalar. */
 export function parseBudget(q: string): { max: number; rest: string } | null {
@@ -54,19 +71,30 @@ export function search(docs: SearchDoc[], q: string, limit = 24) {
     .split(" ")
     .filter((t) => t && !STOP.has(t));
   if (!terms.length && !budget) return [];
+  const catTerm = terms.find((t) => CATEGORY_WORDS[t]);
+  const catPrefix = catTerm ? CATEGORY_WORDS[catTerm] : null;
   const scored: { doc: SearchDoc; score: number }[] = [];
   for (const doc of docs) {
     if (budget && (doc.p == null || doc.p > budget.max)) continue;
+    // Bütçe sorgusu veya ürün odaklı sorguda kategori kelimesi varsa yalnız o kategorideki ürünler.
+    if (catPrefix && doc.k === "Ürün" && !doc.h.startsWith(catPrefix + "/")) continue;
+    if (catPrefix && budget && doc.k !== "Ürün") continue;
     const title = norm(doc.t);
+    const titleWords = title.split(" ");
     const hay = `${title} ${norm(doc.w ?? "")} ${norm(doc.d ?? "")}`;
     const words = hay.split(" ");
     let score = 0;
     let ok = true;
     for (const t of terms) {
-      if (title.startsWith(t)) score += 6;
-      else if (title.includes(t)) score += 4;
-      else if (hay.includes(t)) score += 2;
-      else if (t.length >= 4 && words.some((w) => lev(t, w.slice(0, t.length + 1), 2) <= (t.length > 6 ? 2 : 1))) score += 1;
+      if (t === catTerm && doc.k === "Ürün") {
+        score += 1;
+        continue;
+      }
+      if (titleWords.some((w) => w === t)) score += 7;
+      else if (titleWords.some((w) => w.startsWith(t))) score += 5;
+      else if (words.some((w) => w === t)) score += 3;
+      else if (hay.includes(t)) score += 1.5;
+      else if (t.length >= 4 && words.some((w) => lev(t, w.slice(0, t.length + 1), 2) <= (t.length >= 5 ? 2 : 1) || lev(t, w, 2) <= (t.length >= 5 ? 2 : 1))) score += 1;
       else {
         ok = false;
         break;
@@ -74,7 +102,7 @@ export function search(docs: SearchDoc[], q: string, limit = 24) {
     }
     if (!ok) continue;
     if (budget && !terms.length) score = 1;
-    scored.push({ doc, score: score + (doc.k === "Ürün" ? 0.5 : 0) });
+    scored.push({ doc, score: score + (doc.k === "Ürün" ? 0.5 : 0) + (doc.k === "Kategori" && catTerm && doc.h === catPrefix ? 6 : 0) });
   }
   return scored.sort((a, b) => b.score - a.score).slice(0, limit).map((s) => s.doc);
 }

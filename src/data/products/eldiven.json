@@ -389,7 +389,6 @@
     ],
     "sizeChartMeasure": "El çevresi (cm)",
     "unverified": [
-      "specs.ceClass",
       "specs.madeIn"
     ],
     "slug": "sambia-ktc-2",
@@ -462,6 +461,12 @@
         "type": "retailer",
         "label": "Motomax – Held Sambia KTC 2 Gri/Siyah",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shop.held.de/",
+        "type": "manufacturer",
+        "label": "Held resmi mağaza – CE sınıfı (EN 13594:2015 Level 1 KP)",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -471,7 +476,7 @@
       "material": "Kanguru derisi avuç, deri detaylı file el sırtı, SuperFabric ve Armaprotec takviyeler",
       "materialClass": "deri",
       "ceStandard": "EN 13594:2015",
-      "ceClass": null,
+      "ceClass": "Level 1 KP",
       "protectors": [
         {
           "area": "parmak",
@@ -597,7 +602,6 @@
     ],
     "sizeChartMeasure": "El çevresi (cm)",
     "unverified": [
-      "specs.ceClass",
       "specs.madeIn"
     ],
     "slug": "desert-2",
@@ -670,6 +674,12 @@
         "type": "retailer",
         "label": "Motomax – Held Desert 2 Kadın",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shop.held.de/",
+        "type": "manufacturer",
+        "label": "Held resmi mağaza – CE sınıfı (EN 13594:2015 Level 1 KP)",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -679,7 +689,7 @@
       "material": "Kanguru derisi avuç, deri detaylı file el sırtı, SuperFabric takviyeler",
       "materialClass": "karma",
       "ceStandard": "EN 13594:2015",
-      "ceClass": null,
+      "ceClass": "Level 1 KP",
       "protectors": [
         {
           "area": "parmak",
@@ -748,7 +758,6 @@
     ],
     "sizeChartMeasure": "El çevresi (cm)",
     "unverified": [
-      "specs.ceClass",
       "specs.madeIn",
       "priceRange"
     ],
@@ -762,7 +771,7 @@
     "summary": "Kadın eline göre kalıplanmış, keçi derisi, 3M Thinsulate yalıtım ve Held-Tex su geçirmez membranlı kış eldiveni; EN 13594:2015 sertifikalı, sert eklem korumalı.",
     "description": [
       "Ice Queen II, Held'in kadınlara özel kış eldiveni. Dış yüzey keçi derisi, içeride 3M Thinsulate yalıtım ve su, rüzgâr geçirmeyen, nefes alan Held-Tex membran var. Parmaklarda deri streç paneller, dokunmatik ekran kullanımını sağlayan özel parmak ve başparmak derisi ve vizör silecek bulunuyor. Bilek ve kol ağzında cırtlı ayar mevcut.",
-      "Koruma için sert plastik eklem koruyucu (darbe testinden geçmiş) ve el kenarında SuperFabric takviye var; eldiven EN 13594:2015 kapsamında sertifikalı, seviye bilgisi ürün sayfasında belirtilmiyor. Bedenler D-6'dan D-8'e kadar yarım numaralı. Held modeli ilkbahar–sonbahar ve kış için konumlandırıyor."
+      "Bedenler D-6'dan D-8'e kadar yarım numaralı. Held modeli ilkbahar–sonbahar ve kış için konumlandırıyor."
     ],
     "forWho": [
       "Kışın da motosiklet kullanan, erkek eldivenlerinde parmak boyu ve avuç genişliği uymayan kadın sürücüler",
@@ -810,6 +819,12 @@
         "type": "manufacturer",
         "label": "Held – Ice Queen II Winter ladies glove ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shop.held.de/",
+        "type": "manufacturer",
+        "label": "Held resmi mağaza – CE sınıfı (EN 13594:2015 Level 1 KP)",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -819,7 +834,7 @@
       "material": "Keçi derisi, 3M Thinsulate astar, SuperFabric el kenarı takviyesi",
       "materialClass": "deri",
       "ceStandard": "EN 13594:2015",
-      "ceClass": null,
+      "ceClass": "Level 1 KP",
       "protectors": [
         {
           "area": "parmak",

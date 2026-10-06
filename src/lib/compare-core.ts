@@ -27,14 +27,25 @@ export function verdicts(items: CompareEntry[]): Verdict[] {
   const out: Verdict[] = [];
   const cat = items[0]?.category;
   if (cat === "kask") {
-    const light = by(items, "specs.weightGrams", "low");
+    // Ağırlıklar ancak aynı bedende ölçülmüşse ve fark anlamlıysa (≥50 g) kıyaslanır.
+    const wRows = items.map((i) => i.rows.find((r) => r.key === "specs.weightGrams" && !r.unverified && r.num != null));
+    const sizes = wRows.map((r) => r?.value.match(/\((.+) beden\)/)?.[1] ?? null);
+    const comparable = wRows.every((r) => r) && sizes.every((s) => s && s === sizes[0]);
+    const light = comparable ? by(items, "specs.weightGrams", "low") : null;
+    const nums = wRows.map((r) => r?.num ?? 0).sort((a, b) => a - b);
     out.push(
-      light
-        ? { q: "Hafiflik için hangisi?", winner: light.i.name, why: `Üretici verisine göre ${light.v} g ile en hafif model. Ağırlıklar farklı bedenlerde ölçülmüş olabilir; tablodaki beden notuna bak.` }
-        : { q: "Hafiflik için hangisi?", winner: null, why: "Doğrulanmış ağırlık verisi en az iki modelde olmadığı için karar vermiyoruz." },
+      light && nums[1] - nums[0] >= 50
+        ? { q: "Hafiflik için hangisi?", winner: light.i.name, why: `Aynı bedende (${sizes[0]}) üretici ölçümüne göre ${light.v} g ile en hafif model.` }
+        : {
+            q: "Hafiflik için hangisi?",
+            winner: null,
+            why: comparable
+              ? "Aynı bedendeki ağırlık farkı 50 g'ın altında; pratikte hissedilmez."
+              : "Ağırlıklar farklı bedenlerde ölçülmüş veya beden belirtilmemiş; doğrudan kıyaslanamaz. Değerler tabloda.",
+          },
     );
     const tour = items.filter((i) => i.flags.sunVisor && i.flags.intercomReady);
-    out.push({
+    if (tour.length) out.push({
       q: "Uzun yol için hangisi?",
       winner: tour.length === 1 ? tour[0].name : null,
       why:

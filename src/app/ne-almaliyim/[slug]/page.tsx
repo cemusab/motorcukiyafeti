@@ -31,7 +31,7 @@ export default async function ListPage({ params }: PageProps<"/ne-almaliyim/[slu
         <p className="mt-4 max-w-3xl text-lg">{l.intro}</p>
         <div className="mt-4 max-w-3xl">
           <Notice>
-            <strong>Seçim kriteri:</strong> {l.criteria}
+            <strong>Nasıl seçtik?</strong> {l.criteria}
           </Notice>
         </div>
       </Container>
@@ -47,7 +47,12 @@ export default async function ListPage({ params }: PageProps<"/ne-almaliyim/[slu
                     {displayName(p)}
                   </Link>
                 </h2>
-                <p className="text-sm text-mute">{productTypeLabel(p)}</p>
+                <p className="text-sm text-mute">
+                  {productTypeLabel(p)}
+                  {p.category === "kask" && p.specs.weightGrams
+                    ? ` · ${p.specs.weightGrams} g${p.specs.weightSize ? ` (${p.specs.weightSize} beden)` : " (beden belirtilmemiş)"}`
+                    : ""}
+                </p>
                 <p className="mt-2 text-ink-2">{p.summary}</p>
                 <ul className="mt-3 flex flex-wrap gap-1.5">
                   {keyChips(p).map((c) => (

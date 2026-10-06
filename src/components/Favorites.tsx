@@ -38,7 +38,7 @@ export function Favorites() {
             <p className="text-sm text-mute">{i.type}</p>
           </div>
           <span className="text-sm font-semibold">{i.price ? `${i.price.toLocaleString("tr-TR")} TL'den` : ""}</span>
-          <button type="button" onClick={() => cmp.toggle(i.id)} className="h-9 rounded-md border border-line px-3 text-sm font-semibold hover:border-ink">
+          <button type="button" onClick={() => cmp.toggle(i.id, i.category)} className="h-9 rounded-md border border-line px-3 text-sm font-semibold hover:border-ink">
             {cmp.has(i.id) ? "Karşılaştırmada" : "Karşılaştır"}
           </button>
           <button type="button" onClick={() => fav.remove(i.id)} aria-label={`${i.name} favorilerden çıkar`} className="grid size-9 place-items-center rounded-md border border-line hover:border-red hover:text-red">

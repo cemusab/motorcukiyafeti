@@ -6,7 +6,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Container } from "@/components/ui";
 import { compatForHelmet, compatSlug, helmetsWithCompat } from "@/lib/catalog";
 import { brandName, displayName, getProductById, productId } from "@/lib/data";
-import { faqLd, meta } from "@/lib/seo";
+import { faqLd, clip, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => helmetsWithCompat().map((h) => ({ slug: compatSlug(h) }));
@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: PageProps<"/interkom-uyumlulu
   const h = find(slug)!;
   return meta({
     title: `${displayName(h)} Uyumlu İnterkomlar`,
-    description: `${displayName(h)} kaskına hangi interkom uyar? Kaska özel, entegre, standart montaj ve uyumsuz modeller; doğrulama durumu ve kaynaklarıyla.`.slice(0, 160),
+    description: clip(`${displayName(h)} kaskına hangi interkom uyar? Kaska özel, entegre, standart montaj ve uyumsuz modeller; doğrulama durumu ve kaynaklarıyla.`),
     path: `/interkom-uyumlulugu/${slug}`,
   });
 }

@@ -33,7 +33,7 @@ export function CompareTool({ pairs }: { pairs: { slug: string; title: string }[
   const setIds = (next: string[]) => {
     const n = next.slice(0, MAX_COMPARE);
     cmp.clear();
-    n.forEach((id) => cmp.toggle(id));
+    n.forEach((id) => cmp.toggle(id, activeCat));
     router.replace(n.length ? `/karsilastir?urunler=${n.join(",")}` : "/karsilastir", { scroll: false });
   };
 

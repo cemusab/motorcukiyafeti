@@ -6,8 +6,8 @@ import { RelatedLinks } from "@/components/Related";
 import { Container } from "@/components/ui";
 import { getSubcategory } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import { productsIn } from "@/lib/data";
-import { meta } from "@/lib/seo";
+import { isApparel, productsIn } from "@/lib/data";
+import { clip, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => MOTO_TYPES.map((m) => ({ tur: m.slug }));
@@ -15,7 +15,7 @@ const find = (s: string) => MOTO_TYPES.find((m) => m.slug === s);
 
 export async function generateMetadata({ params }: PageProps<"/motosikletime-gore/[tur]">) {
   const m = find((await params).tur)!;
-  return meta({ title: `${m.name} İçin Motosiklet Ekipmanı`, description: m.summary.slice(0, 158), path: `/motosikletime-gore/${m.slug}` });
+  return meta({ title: `${m.name} İçin Motosiklet Ekipmanı`, description: clip(m.summary), path: `/motosikletime-gore/${m.slug}` });
 }
 
 export default async function MotoTypePage({ params }: PageProps<"/motosikletime-gore/[tur]">) {
@@ -25,7 +25,13 @@ export default async function MotoTypePage({ params }: PageProps<"/motosikletime
     const [c, sub] = s.split("/");
     return getSubcategory(c, sub)!;
   });
-  const products = [...new Map(subs.flatMap((s) => productsIn(s.category.slug, s.sub.slug).slice(0, 2)).map((p) => [p.brand + p.slug, p])).values()].slice(0, 8);
+  // Bu kullanım için "uygun değil" olarak işaretlenmiş ve kadın kalıbı ürünler genel öneriden çıkarılır.
+  const avoid = m.slug === "kurye" ? ["kurye"] : m.slug === "scooter" ? ["scooter", "şehir içi"] : [];
+  const fits = (p: ReturnType<typeof productsIn>[number]) =>
+    !avoid.some((w) => p.notFor.join(" ").toLocaleLowerCase("tr").includes(w)) &&
+    !p.subcategories.includes("kaska-ozel-interkom") &&
+    !(isApparel(p) && p.specs.gender === "kadin");
+  const products = [...new Map(subs.flatMap((s) => productsIn(s.category.slug, s.sub.slug).filter(fits).slice(0, 2)).map((p) => [p.brand + p.slug, p])).values()].slice(0, 8);
   const blocks = [
     { t: "Kask", d: m.helmet },
     { t: "Mont ve giyim", d: m.jacket },
