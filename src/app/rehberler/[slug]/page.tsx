@@ -4,6 +4,13 @@ import Link from 'next/link';
 
 const prisma = new PrismaClient();
 
+export async function generateStaticParams() {
+  const items = await prisma.article.findMany({ select: { slug: true } });
+  return items.map((item) => ({ slug: item.slug }));
+}
+export const dynamicParams = false;
+
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
   const article = await prisma.article.findUnique({ where: { slug: resolvedParams.slug } });

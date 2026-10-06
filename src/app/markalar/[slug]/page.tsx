@@ -4,6 +4,13 @@ import { notFound } from 'next/navigation';
 
 const prisma = new PrismaClient();
 
+export async function generateStaticParams() {
+  const items = await prisma.brand.findMany({ select: { slug: true } });
+  return items.map((item) => ({ slug: item.slug }));
+}
+export const dynamicParams = false;
+
+
 // Sahte (Mock) Marka Bilgileri Veritabanı
 const brandInfo: Record<string, any> = {
   'shoei': { hq: 'Japonya 🇯🇵', distributor: 'Özen Motor', strongCats: ['Kapalı Kask', 'Modüler Kask'], retailers: ['Motomax', 'Feyizoğlu', 'Özen Motor'], officialSite: 'shoei.com' },
