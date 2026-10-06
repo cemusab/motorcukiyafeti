@@ -1,0 +1,3452 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "open-road-3",
+    "brand": "buse",
+    "name": "Open Road III",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Çıkarılabilir Humax membran ve termal astarlı, EN 17092-3:2020 AA sınıfı, omuz ve dirsekte Level 2 koruyuculu, geniş beden aralığına sahip Büse erkek touring montu.",
+    "description": [
+      "Open Road III, Büse'nin uzun süredir sattığı Open Road touring serisinin üçüncü nesli. Dış kumaş Tactel polyamid; omuz ve dirseklerde Hitena takviyesi, hareket bölgelerinde streç paneller var. Su ve rüzgâr geçirmezlik, termal astarla birleşik ve dış kumaşın altına takılan çıkarılabilir Humax membranla sağlanıyor. Normal bedenlerin yanında kısa ve uzun boy bedenleri ile 12XL'e kadar büyük beden seçeneği sunması, serinin en belirgin farkı.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde (dirsek yüksekliği ayarlı) Level 2 YF koruyucular standart; sırt koruyucusu sonradan eklenebiliyor. Göğüs, kol ve sırtta havalandırma fermuarları, kalça, bel, kol ve boyunda genişlik ayarı, 8 dış (2'si su geçirmez) ve 3 iç cep bulunuyor. Pantolona bağlantı fermuarı ile Open Road III pantolonla takım kurulabiliyor."
+    ],
+    "forWho": [
+      "Yılın büyük bölümünde tek montla uzun yol yapmak isteyen touring sürücüleri",
+      "Standart dışı boy veya kiloda olup kısa, uzun ya da çok büyük beden arayanlar",
+      "AA sınıfı ve Level 2 koruyucuyu makul Avrupa fiyatıyla isteyenler"
+    ],
+    "notFor": [
+      "Sadece sıcak yaz günlerinde sürenler; membranlı katmanlı yapı file montlar kadar serin değil",
+      "Kurye olarak gün boyu in-bin yapanlar: çok katmanlı ve cepli touring yapı ağır ve hantal gelir",
+      "Türkiye'de mağazada deneyerek almak isteyenler: yerel satış noktası bulunamadı"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu standart",
+      "Kısa, uzun ve 12XL'e kadar büyük beden seçeneği",
+      "Çıkarılabilir membran ve termal astarla geniş mevsim aralığı",
+      "8 dış, 3 iç cep; 2 su geçirmez dış cep"
+    ],
+    "cons": [
+      "Sırt koruyucusu standart değil",
+      "Membran dış kumaşın altında; yağmurda dış kumaş ıslanıp ağırlaşır",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Katmanlı yapı sıcak şehir trafiğinde bunaltabilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama çok cepli, katmanlı touring yapı kısa şehir sürüşleri için fazla gelebilir.",
+      "uzunYol": "Asıl hedefi bu; AA sınıfı, bol cep, ayar noktaları ve pantolon bağlantısı uzun tur için tasarlanmış.",
+      "yaz": "Membran ve astar çıkarılıp havalandırmalar açıldığında ılık havada idare eder; çok sıcakta file mont kadar serin değil.",
+      "kis": "Termal astar ve membran birlikte takıldığında serin ve soğuk günlerde rahat ettirir.",
+      "yagmur": "Çıkarılabilir Humax membran su geçirmezliği sağlıyor; dış kumaş ıslanabileceği için uzun yağmurda ağırlaşma beklenmeli.",
+      "sport": "Sport kalıp değil; dik oturuşlu touring ve adventure motosikletler için.",
+      "kurye": "Dayanıklı ama ağır ve pahalı; kurye kullanımı için daha basit bir mont daha mantıklı."
+    },
+    "verdict": "Open Road III, AA sınıfı ve Level 2 koruyucuları dört mevsim kullanılabilen bir pakette sunan klasik bir Avrupa touring montu. Özellikle standart bedenlere sığmayan sürücüler için geniş beden aralığı ciddi avantaj. Sırt koruyucunun ayrıca alınması ve Türkiye'de satış noktası olmaması dezavantaj.",
+    "rivals": [
+      "buse/highland-3",
+      "ixs/tourster-stx-2-0",
+      "held/4-touring-2"
+    ],
+    "faq": [
+      {
+        "q": "Open Road III su geçirmez mi?",
+        "a": "Evet; üretici çıkarılabilir Humax membranla montun su, rüzgâr geçirmez ve nefes alabilir olduğunu belirtiyor. Membran ayrı bir iç katman olduğu için dış kumaş yağmurda ıslanabilir."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Sırt koruyucu cebi var; Büse uyumlu SAS-TEC sırt koruyucularını ayrıca satıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Büse beden tablosunda göğüs çevresine bakılır; örneğin 52 beden 101–104 cm, 56 beden 109–112 cm göğüs çevresine karşılık gelir. Kısa ve uzun boy için ayrı beden serileri var."
+      }
+    ],
+    "manufacturerUrl": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III Textiljacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah",
+      "Mavi",
+      "Açık gri",
+      "Gri"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64",
+      "7XL",
+      "8XL",
+      "9XL",
+      "10XL",
+      "11XL",
+      "12XL",
+      "28 kısa",
+      "29 kısa",
+      "30 kısa",
+      "31 kısa",
+      "32 kısa",
+      "98 uzun",
+      "102 uzun",
+      "106 uzun",
+      "110 uzun",
+      "114 uzun",
+      "118 uzun"
+    ],
+    "sizeChart": [
+      {
+        "size": "48",
+        "min": 93,
+        "max": 96
+      },
+      {
+        "size": "50",
+        "min": 97,
+        "max": 100
+      },
+      {
+        "size": "52",
+        "min": 101,
+        "max": 104
+      },
+      {
+        "size": "54",
+        "min": 105,
+        "max": 108
+      },
+      {
+        "size": "56",
+        "min": 109,
+        "max": 112
+      },
+      {
+        "size": "58",
+        "min": 113,
+        "max": 116
+      },
+      {
+        "size": "60",
+        "min": 117,
+        "max": 120
+      },
+      {
+        "size": "62",
+        "min": 121,
+        "max": 124
+      },
+      {
+        "size": "64",
+        "min": 125,
+        "max": 128
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Tactel polyamid dış kumaş, omuz ve dirseklerde Hitena takviye, streç paneller, çıkarılabilir Humax membran + termal astar, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (çıkarılabilir, termal astarla birleşik)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kol ve sırtta havalandırma fermuarları",
+      "closure": "Ön fermuar, Flexi-Snap boyun ayarı, neopren kenarlı yaka, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "highland-3",
+    "brand": "buse",
+    "name": "Highland III",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "750D Tactel dış kumaşlı, çıkarılabilir Humax membran ceketli, EN 17092-3:2020 AA sınıfı ve Level 2 omuz/dirsek koruyuculu Büse adventure-touring montu.",
+    "description": [
+      "Highland III, Büse'nin adventure görünümlü touring montu ve Open Road III'ün bir alt fiyat seviyesinde duruyor. Dış kumaş 750 denye Tactel; omuz ve dirseklerde Hitena takviyesi, omuz ve dirseklerde esnek ribana paneller var. Su ve rüzgâr koruması, önde ek yalıtımı olan çıkarılabilir Humax membran ceketle sağlanıyor. Normal bedenlerin yanında kısa, uzun ve 12XL'e kadar büyük bedenleri bulunuyor.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde (dirsek yüksekliği ayarlı) çıkarılabilir Level 2 YF koruyucular standart; sırt koruyucusu ayrıca eklenebiliyor. Göğüs, kol ve sırtta havalandırma fermuarları, kalça, bel, kol ve boyunda ayar, 7 dış ve 3 iç cep (biri neopren telefon cebi) var. Siyah, siyah/sarı, arduvaz grisi, mavi ve kum renk seçenekleri sunuluyor."
+    ],
+    "forWho": [
+      "Adventure veya touring motosikletle her mevsim yol yapan sürücüler",
+      "AA sınıfı touring montu Open Road'dan biraz daha uygun fiyata arayanlar",
+      "Standart dışı beden ihtiyacı olan sürücüler"
+    ],
+    "notFor": [
+      "Yoğun yaz sıcağında şehir içi kullanım için serin bir mont arayanlar",
+      "Kurye temposunda gün boyu kullanım: katmanlı yapı ve ağırlık uzun vardiyada yorar",
+      "Sport sürüş pozisyonu için kalıplanmış bir mont isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu standart",
+      "750D Tactel dış kumaş ve Hitena takviyeler",
+      "Çok geniş beden ve renk seçeneği",
+      "Su geçirmez dış ve iç cepler"
+    ],
+    "cons": [
+      "Sırt koruyucusu standart değil",
+      "Membran dış kumaşın altında; dış katman yağmurda ıslanır",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Sıcak havada file mont kadar serin değil"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama hacimli touring yapı şehir içinde ağır gelebilir.",
+      "uzunYol": "Güçlü olduğu alan; AA sınıfı, ayar noktaları ve cepler uzun tur için yeterli.",
+      "yaz": "Membran çıkarılıp havalandırmalar açıldığında ılık havada kullanılabilir; çok sıcak günlerde bunaltır.",
+      "kis": "Önü yalıtımlı membran ceketle serin ve soğuk günlerde rahat; çok soğukta altına ara katman gerekebilir.",
+      "yagmur": "Humax membran ceket su geçirmezliği sağlıyor; dış kumaş ıslanıp ağırlaşabilir.",
+      "sport": "Sport kullanım için değil; dik oturuşlu motosikletlere uygun.",
+      "kurye": "Dayanıklı ama ağır; kurye için uygun maliyetli ve hafif bir mont daha mantıklı."
+    },
+    "verdict": "Highland III, AA sınıfı ve Level 2 koruyucuları Open Road III'e göre daha uygun fiyatla sunan, adventure görünümlü sağlam bir touring montu. Membranın ayrı katman olması ve sırt koruyucunun ayrıca alınması hesaba katılmalı.",
+    "rivals": [
+      "buse/open-road-3",
+      "ixs/tourster-stx-2-0",
+      "macna/flexodus"
+    ],
+    "faq": [
+      {
+        "q": "Highland III ile Open Road III arasındaki fark nedir?",
+        "a": "İkisi de AA sınıfı ve Level 2 koruyuculu. Highland III daha adventure görünümlü ve daha uygun fiyatlı; Open Road III'te streç paneller ve bir dış cep daha fazla var."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, sırt koruyucu cebi var; koruyucu ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Büse beden tablosuna göre göğüs çevresi ölçülür; 50 beden 97–100 cm, 54 beden 105–108 cm göğüse karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.buese.com/de/buese-highland-iii-textiljacke-bu11574",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-highland-iii-textiljacke-bu11574",
+        "type": "manufacturer",
+        "label": "Büse – Highland III Textiljacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Sarı",
+      "Arduvaz grisi",
+      "Mavi",
+      "Kum"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64",
+      "7XL",
+      "8XL",
+      "9XL",
+      "10XL",
+      "11XL",
+      "12XL",
+      "26 kısa",
+      "28 kısa",
+      "29 kısa",
+      "30 kısa",
+      "31 kısa",
+      "32 kısa",
+      "33 kısa",
+      "35 kısa",
+      "98 uzun",
+      "102 uzun",
+      "106 uzun",
+      "110 uzun"
+    ],
+    "sizeChart": [
+      {
+        "size": "48",
+        "min": 93,
+        "max": 96
+      },
+      {
+        "size": "50",
+        "min": 97,
+        "max": 100
+      },
+      {
+        "size": "52",
+        "min": 101,
+        "max": 104
+      },
+      {
+        "size": "54",
+        "min": 105,
+        "max": 108
+      },
+      {
+        "size": "56",
+        "min": 109,
+        "max": 112
+      },
+      {
+        "size": "58",
+        "min": 113,
+        "max": 116
+      },
+      {
+        "size": "60",
+        "min": 117,
+        "max": 120
+      },
+      {
+        "size": "62",
+        "min": 121,
+        "max": 124
+      },
+      {
+        "size": "64",
+        "min": 125,
+        "max": 128
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "750D Tactel polyamid dış kumaş, omuz ve dirseklerde Hitena takviye, çıkarılabilir Humax membran ceket, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (çıkarılabilir membran ceket)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kol ve sırtta havalandırma fermuarları",
+      "closure": "Ön fermuar, Flexi-Snap boyun ayarı, neopren kenarlı yaka, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "livorno",
+    "brand": "buse",
+    "name": "Livorno",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Göğüs, sırt ve kollarda geniş file panelli, EN 17092-4:2020 A sınıfı, Level 1 omuz ve dirsek koruyuculu Büse yazlık tekstil mont.",
+    "description": [
+      "Livorno, Büse'nin sıcak hava için tasarladığı file panelli tekstil montu. Gövde elastik ve dayanıklı polyester kumaştan; omuz ve dirseklerde Hitena takviyesi, göğüs, sırt ve kollarda ise hava geçiren geniş file paneller var. İçte nefes alan file astar kullanılıyor. Membran veya termal astar yok; yani mont doğrudan yaz kullanımına odaklı.",
+      "Üretici montu EN 17092-4:2020 A sınıfında sertifikalandırıyor. Omuz ve dirseklerde (dirsek yüksekliği ayarlı) çıkarılabilir Level 1 YF koruyucular standart, sırt koruyucusu ayrıca eklenebiliyor. Kalça, kol ve boyunda genişlik ayarı, pantolon bağlantı fermuarı, 3 dış ve 2 iç cep bulunuyor. S'den 9XL'e uzanan beden aralığı sunuluyor."
+    ],
+    "forWho": [
+      "Yaz aylarında şehir içi ve kısa tur sürüşü yapanlar",
+      "Sıcakta hafif ve hava alan, temel korumalı bir mont arayanlar",
+      "Büyük beden ihtiyacı olan sürücüler (9XL'e kadar)"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada da tek montla idare etmek isteyenler; membran yok",
+      "Daha yüksek koruma sınıfı (AA) ve Level 2 koruyucu isteyenler",
+      "Kurye olarak yıl boyu tek mont arayanlar: yaz dışında yetersiz kalır"
+    ],
+    "pros": [
+      "Geniş file paneller ile iyi hava akışı",
+      "9XL'e kadar beden seçeneği",
+      "Hafif ve sade yapı",
+      "Pantolon bağlantı fermuarı"
+    ],
+    "cons": [
+      "A sınıfı; AA sınıfı montlara göre aşınma dayanımı daha düşük",
+      "Koruyucular Level 1",
+      "Su geçirmezlik iddiası yok",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Sıcak günlerde şehir içi kullanım için uygun; hafif ve hava alıyor.",
+      "uzunYol": "Sıcak havada kısa turlarda kullanılabilir; az cep ve hava koruması olmaması uzun turda kısıt yaratır.",
+      "yaz": "Asıl hedefi bu; göğüs, sırt ve kollardaki file paneller hareket halinde serinletir.",
+      "kis": "Termal astar yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; üstüne yağmurluk gerekir.",
+      "sport": "Sport kalıp değil; temel korumalı rahat bir yazlık mont.",
+      "kurye": "Yaz aylarında kurye kullanımı için düşünülebilir ama A sınıfı ve Level 1 koruyucu yoğun trafikte sınırlı koruma demek."
+    },
+    "verdict": "Livorno, sıcak havada hafif ve hava alan bir mont isteyen sürücü için sade bir seçenek. A sınıfı sertifika ve Level 1 koruyucular temel düzeyde koruma sağlıyor; daha fazla güvenlik isteyen Level 2 koruyucu ve sırt koruyucu eklemeyi düşünmeli.",
+    "rivals": [
+      "spidi/tech-armor-2",
+      "macna/blitz",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "faq": [
+      {
+        "q": "Livorno su geçirmez mi?",
+        "a": "Hayır, üretici su geçirmezlik iddiasında bulunmuyor ve montta membran yok. Yağmur için ayrı yağmurluk gerekir."
+      },
+      {
+        "q": "Koruyucular hangi seviyede?",
+        "a": "Omuz ve dirseklerde çıkarılabilir Level 1 YF koruyucular var. Sırt koruyucusu ayrıca eklenebiliyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Büse beden tablosuna göre M beden 97–100 cm, XL beden 105–108 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+        "type": "manufacturer",
+        "label": "Büse – Livorno Textiljacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.waterproof",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah",
+      "Açık gri"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL",
+      "7XL",
+      "8XL",
+      "9XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 93,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 97,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 101,
+        "max": 104
+      },
+      {
+        "size": "XL",
+        "min": 105,
+        "max": 108
+      },
+      {
+        "size": "2XL",
+        "min": 109,
+        "max": 112
+      },
+      {
+        "size": "3XL",
+        "min": 113,
+        "max": 116
+      },
+      {
+        "size": "4XL",
+        "min": 117,
+        "max": 120
+      },
+      {
+        "size": "5XL",
+        "min": 121,
+        "max": 124
+      },
+      {
+        "size": "6XL",
+        "min": 125,
+        "max": 128
+      },
+      {
+        "size": "7XL",
+        "min": 129,
+        "max": 132
+      },
+      {
+        "size": "8XL",
+        "min": 133,
+        "max": 136
+      },
+      {
+        "size": "9XL",
+        "min": 137,
+        "max": 140
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Elastik polyester dış kumaş, omuz ve dirseklerde Hitena takviye, file paneller, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, sırt ve kollarda geniş file paneller",
+      "closure": "Ön fermuar, neopren kenarlı yaka, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "lago-3-damen",
+    "brand": "buse",
+    "name": "Lago III Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "450D polyester dış kumaşlı, Z-Liner Humax membranlı, çıkarılabilir termal astarlı, EN 17092-3:2020 AA sınıfı Büse kadın tekstil montu.",
+    "description": [
+      "Lago III Kadın, Büse'nin giriş-orta fiyat seviyesindeki dört mevsim kadın montu. Dış kumaş 450 denye polyester; omuz ve dirseklerde ripstop takviye var. Su geçirmezlik, dış kumaş ile astar arasına sabitlenen Z-Liner tipi Humax membranla sağlanıyor; termal astar ise çıkarılabiliyor. 34'ten 58'e uzanan kadın beden aralığı sunuluyor.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde (dirsek yüksekliği ayarlı) çıkarılabilir Level 2 YF koruyucular standart; sırt koruyucusu ayrıca eklenebiliyor. Göğüs ve sırtta havalandırma fermuarları, kalça, bel, kol ve boyunda genişlik ayarı, 4 su geçirmez dış cep ve 1 su geçirmez iç cep var."
+    ],
+    "forWho": [
+      "Bütçesini aşmadan AA sınıfı, su geçirmez bir kadın montu arayanlar",
+      "Şehir içi ve hafta sonu turlarını aynı montla yapmak isteyen kadın sürücüler",
+      "Geniş kadın beden aralığına ihtiyaç duyanlar"
+    ],
+    "notFor": [
+      "Yoğun yaz sıcağında serin kalmak isteyenler; sabit membran sıcakta ısı tutar",
+      "Çok sayıda cep ve gelişmiş touring detayları arayanlar",
+      "Kurye olarak yaz-kış her gün kullanmak isteyenler: sabit membran yazın bunaltır"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Tüm cepler su geçirmez",
+      "34–58 arası geniş kadın beden aralığı"
+    ],
+    "cons": [
+      "Membran sabit (Z-Liner); yazın çıkarılamaz",
+      "Sırt koruyucusu standart değil",
+      "Havalandırma yalnız göğüs ve sırtta",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Uygun; sade yapısı ve su geçirmez cepleriyle günlük kullanıma yatkın.",
+      "uzunYol": "Hafta sonu turları için yeterli; uzun turlarda cep sayısı sınırlı kalabilir.",
+      "yaz": "Sabit membran nedeniyle sıcak günlerde bunaltabilir; ılık havada havalandırmalar açılarak kullanılabilir.",
+      "kis": "Termal astarla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "Z-Liner Humax membran yağmura karşı koruma sağlıyor.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Yaz sıcağında bunaltacağı için yıl boyu kurye kullanımına uygun değil."
+    },
+    "verdict": "Lago III Kadın, AA sınıfı ve Level 2 koruyucuları uygun fiyat seviyesinde sunan dört mevsim bir kadın montu. Membranın sabit olması yaz konforunu sınırlıyor; ılık ve serin iklimlerde günlük ve tur kullanımında mantıklı bir seçim.",
+    "rivals": [
+      "buse/open-road-3-damen",
+      "ixs/tourster-stx-1-0-damen",
+      "macna/flexodus-women"
+    ],
+    "faq": [
+      {
+        "q": "Membran çıkarılabiliyor mu?",
+        "a": "Hayır. Humax membran Z-Liner olarak montun içine sabitlenmiş; çıkarılabilen katman termal astar."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, sırt koruyucu cebi var; koruyucu ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Büse kadın beden tablosuna göre 38 beden 85–88 cm, 42 beden 93–96 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.buese.com/de/buese-lago-iii-damen-textiljacke-bu11635",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-lago-iii-damen-textiljacke-bu11635",
+        "type": "manufacturer",
+        "label": "Büse – Lago III Damen Textiljacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Sarı"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "sizeChart": [
+      {
+        "size": "34",
+        "min": 77,
+        "max": 80
+      },
+      {
+        "size": "36",
+        "min": 81,
+        "max": 84
+      },
+      {
+        "size": "38",
+        "min": 85,
+        "max": 88
+      },
+      {
+        "size": "40",
+        "min": 89,
+        "max": 92
+      },
+      {
+        "size": "42",
+        "min": 93,
+        "max": 96
+      },
+      {
+        "size": "44",
+        "min": 97,
+        "max": 100
+      },
+      {
+        "size": "46",
+        "min": 101,
+        "max": 104
+      },
+      {
+        "size": "48",
+        "min": 105,
+        "max": 110
+      },
+      {
+        "size": "50",
+        "min": 111,
+        "max": 116
+      },
+      {
+        "size": "52",
+        "min": 117,
+        "max": 122
+      },
+      {
+        "size": "54",
+        "min": 123,
+        "max": 128
+      },
+      {
+        "size": "56",
+        "min": 129,
+        "max": 134
+      },
+      {
+        "size": "58",
+        "min": 135,
+        "max": 140
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "450D polyester dış kumaş, omuz ve dirseklerde ripstop takviye, Z-Liner Humax membran, çıkarılabilir termal astar, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (Z-Liner, sabit)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs ve sırtta havalandırma fermuarları",
+      "closure": "Ön fermuar, neopren kenarlı yaka, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "tourster-gtx-1-0",
+    "brand": "ixs",
+    "name": "Tourster-GTX 1.0",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "3 katmanlı GORE-TEX laminat, SuperFabric takviyeler, EN 17092-2:2020 AAA sınıfı ve omuz, dirsek, sırtta Level 2 koruyucularla gelen, airbag uyumlu iXS üst seviye touring montu.",
+    "description": [
+      "Tourster-GTX 1.0, iXS'in touring serisinin en üst modeli. Dış kumaş, streçli 3 katmanlı GORE-TEX laminat; yani membran dış kumaşa yapıştırılmış durumda ve mont yağmurda ıslanıp ağırlaşmıyor. Aşınmaya en açık bölgeler SuperFabric ile takviye edilmiş. İçte markanın E.C.I. adını verdiği 3D file astar, soğukta ısıyı tutup sıcakta hava sirkülasyonuna izin verecek şekilde tasarlanmış. Yakaya entegre su geçirmez fırtına başlığı, çift yönlü ön fermuar ve çok sayıda ayarlanabilir havalandırma bulunuyor.",
+      "Üretici montu EN 17092-2:2020 AAA sınıfında sertifikalandırıyor; bu, yol montları için en yüksek sınıf. Omuz ve dirseklerde EN 1621-1:2012 Level 2, sırtta EN 1621-2:2014 Level 2 Honeycomb koruyucular standart; bölünmüş göğüs koruyucusu (EN 1621-3 Level 1) için hazırlık var. Mont airbag yeleğiyle kullanıma hazır. Bel, kol ve üst kolda ayar, yüksekliği ayarlanabilen bel, 4 ön (2'si su geçirmez), kol, sırt ve 3 iç cep, pantolonla manyetik ön bağlantı ve kısa arka bağlantı fermuarı var."
+    ],
+    "forWho": [
+      "Her havada uzun tur yapan ve en yüksek koruma sınıfını isteyen touring sürücüleri",
+      "Membranı dış kumaşa laminat, yağmurda ağırlaşmayan bir mont arayanlar",
+      "İleride airbag yeleği kullanmayı düşünenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar: fiyatı segmentin çok üstünde",
+      "Kurye kullanımı: yüksek fiyat ve touring odaklı yapı günlük iş temposu için mantıklı değil",
+      "Sadece sıcak yaz günlerinde kısa şehir sürüşü yapanlar"
+    ],
+    "pros": [
+      "EN 17092-2:2020 AAA sınıfı",
+      "3 katmanlı GORE-TEX laminat; dış kumaş ıslanıp ağırlaşmıyor",
+      "Omuz, dirsek ve sırtta Level 2 koruyucu standart",
+      "Airbag uyumlu",
+      "Kısa ve uzun boy bedenleri"
+    ],
+    "cons": [
+      "Fiyatı çok yüksek",
+      "Göğüs koruyucusu standart değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Laminat yapı nedeniyle çok sıcak havada file montlar kadar serin değil"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama fiyatı ve touring yapısı kısa şehir sürüşleri için fazla.",
+      "uzunYol": "Asıl hedefi bu; AAA sınıfı, laminat su geçirmezlik, bol cep ve ayar noktaları uzun tur için tasarlanmış.",
+      "yaz": "Çok sayıda havalandırma ve 3D file astar ılık-sıcak havada yardımcı oluyor; yine de file mont kadar serin değil.",
+      "kis": "Laminat rüzgâr kesiyor; termal astar belirtilmediği için çok soğukta altına ara katman gerekebilir.",
+      "yagmur": "GORE-TEX laminat sayesinde yağmurda dış kumaş ıslanmıyor; entegre fırtına başlığı da var.",
+      "sport": "Sport kalıp değil; touring ve adventure sürüş pozisyonu için.",
+      "kurye": "Teknik olarak dayanıklı ama fiyatı kurye kullanımı için mantıklı değil."
+    },
+    "verdict": "Tourster-GTX 1.0, AAA sertifikası, GORE-TEX laminat ve standart sırt koruyucuyla touring montlarında üst sınıfı hedefliyor. Her havada uzun yol yapan sürücü için çok kapsamlı bir paket; fiyatı ise segmentin en üstünde ve Türkiye'de resmi satış noktası bulunamadı.",
+    "rivals": [
+      "ixs/tourster-stx-2-0",
+      "spidi/mission-v-h2out",
+      "held/4-touring-2"
+    ],
+    "faq": [
+      {
+        "q": "Tourster-GTX 1.0 hangi koruma sınıfında?",
+        "a": "iXS'in İngilizce ürün sayfasına göre mont EN 17092-2:2020 standardında AAA sınıfında sertifikalı."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Evet. Omuz, dirsek ve sırtta Level 2 Honeycomb koruyucular standart; yalnız göğüs koruyucusu ayrıca alınıyor."
+      },
+      {
+        "q": "Airbag yeleğiyle kullanılabilir mi?",
+        "a": "Üretici montun airbag-ready olduğunu belirtiyor; airbag yeleği ayrıca satın alınır."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-GTX 1.0 Laminatjacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/en/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-GTX 1.0 Laminated Jacket (İngilizce ürün sayfası)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/cdn/shop/files/Size_Chart_moto_jacke_herren_textil.jpg",
+        "type": "manufacturer",
+        "label": "iXS – erkek tekstil mont beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Koyu gri"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "KL",
+      "KXL",
+      "K2XL",
+      "K3XL",
+      "K4XL",
+      "LM",
+      "LL",
+      "LXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 89
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 95
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 107
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 119
+      },
+      {
+        "size": "3XL",
+        "min": 120,
+        "max": 125
+      },
+      {
+        "size": "4XL",
+        "min": 126,
+        "max": 131
+      },
+      {
+        "size": "5XL",
+        "min": 132,
+        "max": 137
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "3 katmanlı GORE-TEX laminat X-Stretch dış kumaş (%92 poliamid, %8 elastan), SuperFabric takviyeler, E.C.I. 3D file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-2:2020",
+      "ceClass": "AAA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (3 katmanlı laminat)",
+      "airbagCompatible": true,
+      "ventilation": "Çok sayıda ayarlanabilir havalandırma açıklığı",
+      "closure": "Çift yönlü ön fermuar, entegre fırtına başlığı, pantolonla manyetik ön bağlantı ve kısa arka bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "tourster-stx-2-0",
+    "brand": "ixs",
+    "name": "Tourster-STX 2.0",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Laminat solto-TEX membranlı, EN 17092-3:2020 AA sınıfı, omuz, dirsek ve sırtta Level 2 koruyucu standart, airbag uyumlu iXS touring montu.",
+    "description": [
+      "Tourster-STX 2.0, iXS'in Tourster serisinde GTX modelinin bir alt basamağı. Dış kumaş 2 katmanlı ripstop X-Stretch; markanın kendi solto-TEX membranı bu kumaşa laminat olarak yapıştırılmış, dolayısıyla su geçirmezlik ayrı bir iç ceketle değil doğrudan dış katmanla sağlanıyor. Aşınmaya açık bölgelerde T.O.S. takviyeler ve GTX modelindeki E.C.I. 3D file astar teknolojisi kullanılıyor.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde EN 1621-1:2012 Level 2, sırtta EN 1621-2:2014 Level 2 Honeycomb koruyucular standart; göğüs koruyucu için cep var. Mont airbag yeleğiyle kullanılabilecek esneklikte. Entegre su geçirmez fırtına başlığı, çift yönlü ön fermuar, 4 ön cep (2'si su geçirmez), arka kargo cebi ve uzun pantolon bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Her havada tur yapan, yağmurda ağırlaşmayan laminat mont isteyen sürücüler",
+      "Sırt koruyucusu standart gelen AA sınıfı bir touring montu arayanlar",
+      "GTX modelinin fiyatına çıkmadan laminat yapı isteyenler"
+    ],
+    "notFor": [
+      "Çok sıcak iklimde yaz kullanımı için serin mont arayanlar",
+      "Kurye olarak gün boyu in-bin yapanlar: touring odaklı ve pahalı",
+      "Sport sürüş pozisyonuna göre kalıplanmış mont isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Laminat membran; dış kumaş yağmurda ağırlaşmıyor",
+      "Omuz, dirsek ve sırtta Level 2 koruyucu standart",
+      "Airbag uyumlu",
+      "Kısa boy bedenleri"
+    ],
+    "cons": [
+      "Göğüs koruyucusu standart değil",
+      "Termal astar belirtilmemiş; soğukta ara katman gerekebilir",
+      "Türkiye'de doğrulanmış satış fiyatı yok",
+      "Cep sayısı GTX modeline göre daha az"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; laminat yapısı ani yağmurda pratik ama touring kesimi şehir için hacimli olabilir.",
+      "uzunYol": "Güçlü olduğu alan; AA sınıfı, standart sırt koruyucu ve laminat su geçirmezlik uzun tur için uygun.",
+      "yaz": "Havalandırmalar ve 3D file astar ılık havada yardımcı; çok sıcakta file mont kadar serin değil.",
+      "kis": "Rüzgâr kesiyor ama termal astar belirtilmediği için soğukta altına ara katman giyilmeli.",
+      "yagmur": "Laminat solto-TEX membran ve entegre fırtına başlığı ile yağmura karşı iyi hazırlıklı.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Dayanıklı ama fiyatı ve touring yapısı kurye kullanımı için ideal değil."
+    },
+    "verdict": "Tourster-STX 2.0, laminat membran, AA sınıfı ve standart sırt koruyucuyu bir arada sunan dengeli bir touring montu. GTX modelinin AAA sınıfına ve GORE-TEX'ine ihtiyaç duymayan, her havada sürüş yapan sürücü için mantıklı bir orta yol.",
+    "rivals": [
+      "ixs/tourster-gtx-1-0",
+      "buse/open-road-3",
+      "macna/flexodus"
+    ],
+    "faq": [
+      {
+        "q": "Tourster-STX 2.0'ın membranı çıkarılabiliyor mu?",
+        "a": "Hayır. solto-TEX membran dış kumaşa laminat olarak uygulanmış; bu sayede dış kumaş yağmurda su çekmiyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Evet, EN 1621-2:2014 Level 2 Honeycomb sırt koruyucu standart. Göğüs koruyucu ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "iXS erkek tekstil tablosuna göre M beden 96–101 cm, L beden 102–107 cm göğüs çevresine karşılık geliyor. Kısa boy bedenleri ceket boyunu yaklaşık 4 cm kısaltıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixs.com/products/tourster-stx-2-0-laminatjacke-dunkelgrau-schwarz-cool-grau",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/tourster-stx-2-0-laminatjacke-dunkelgrau-schwarz-cool-grau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-STX 2.0 Laminatjacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/cdn/shop/files/Size_Chart_moto_jacke_herren_textil.jpg",
+        "type": "manufacturer",
+        "label": "iXS – erkek tekstil mont beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Koyu gri / Siyah / Gri",
+      "Siyah",
+      "Lacivert / Mavi gri / Gri"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "KL",
+      "KXL",
+      "K2XL",
+      "K3XL",
+      "K4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 89
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 95
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 107
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 119
+      },
+      {
+        "size": "3XL",
+        "min": 120,
+        "max": 125
+      },
+      {
+        "size": "4XL",
+        "min": 126,
+        "max": 131
+      },
+      {
+        "size": "5XL",
+        "min": 132,
+        "max": 137
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "2 katmanlı ripstop X-Stretch dış kumaş (%94 poliamid, %6 elastan), laminat solto-TEX membran, T.O.S. takviyeler, E.C.I. 3D file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "solto-TEX (laminat)",
+      "airbagCompatible": true,
+      "ventilation": "Çok sayıda ayarlanabilir havalandırma açıklığı",
+      "closure": "Çift yönlü ön fermuar, entegre fırtına başlığı, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "ace-1-0",
+    "brand": "ixs",
+    "name": "Ace 1.0",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "summary": "Sığır derisi gövdeli, ön kavisli sport kesimli, EN 17092-3:2020 AA sınıfı, Level 2 omuz ve dirsek koruyuculu, airbag uyumlu iXS deri mont.",
+    "description": [
+      "Ace 1.0, iXS'in yarış görünümlü deri montu. Gövde sığır derisinden; hareket bölgelerinde X-Stretch streç paneller kullanılmış. Kesim, öne eğik sürüş pozisyonuna göre önceden şekillendirilmiş 'performance' kalıp; omuzlarda yarış tarzı dış kapaklar var. Fazla detay yerine sade bir yapı tercih edilmiş: 2 ön ve 2 iç cep, bel ve kol ağzı ayarı.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor ve airbag-ready olduğunu belirtiyor. Omuz ve dirseklerde EN 1621-1:2012 Level 2 SCC Honeycomb koruyucular standart; sırt (EN 1621-2 Level 2) ve bölünmüş göğüs (EN 1621-3 Level 1) koruyucuları için cep var ama koruyucular ayrıca satılıyor. Uzun pantolon bağlantı fermuarı ve pantolon bağlantı halkası ile deri pantolonla takım kurulabiliyor."
+    ],
+    "forWho": [
+      "Naked veya sport motosikletle hafta sonu viraj sürüşü yapanlar",
+      "Uygun fiyatlı, AA sınıfı bir deri mont arayanlar",
+      "İleride airbag yeleği eklemeyi düşünen sport sürücüler"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta da kullanacak tek mont arayanlar",
+      "Kurye olarak gün boyu kullanım: sport kalıp ve deri yapı uzun vardiyada yorucu",
+      "Dik oturuşlu touring motosiklet kullananlar"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Airbag uyumlu",
+      "Deri mont için görece uygun Avrupa fiyatı"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Su geçirmezlik veya termal astar yok",
+      "Havalandırma detayı belirtilmemiş; sıcakta deri ısınır",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde kullanılabilir ama sport kalıp dik oturuşta rahatsız edebilir.",
+      "uzunYol": "Sport motosikletle hızlı etaplarda rüzgârda iyi oturur; az cep ve hava koruması olmaması uzun turda kısıt yaratır.",
+      "yaz": "Delikli panel belirtilmediği için sıcak günlerde trafikte ısınır.",
+      "kis": "Termal astar yok; serin havada altına katman giyilebilir.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Güçlü olduğu alan; ön kavisli kesim, AA sınıfı ve pantolon bağlantısı viraj sürüşü için tasarlanmış.",
+      "kurye": "Uygun değil; deri ve sport kalıp kurye temposuna uymaz."
+    },
+    "verdict": "Ace 1.0, AA sınıfı ve airbag uyumunu görece uygun fiyatla sunan sade bir sport deri mont. Sırt koruyucunun ayrıca alınması ve havalandırma ile su korumasının olmaması, onu ılıman havada sport sürüşe yönelik bir mont yapıyor.",
+    "rivals": [
+      "macna/blitz",
+      "spidi/hyper-v-pro-perforated",
+      "furygan/raptor-evo-3"
+    ],
+    "faq": [
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Sırt ve göğüs koruyucuları için cep var; iXS uyumlu SCC Honeycomb koruyucuları ayrıca satıyor."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "Üretici montun airbag-ready olduğunu belirtiyor; airbag yeleği ayrıca alınır."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "iXS deri mont tablosunda harf bedenlerde M 96–101 cm, L 102–107 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixs.com/products/ace-1-0-lederjacke-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ace-1-0-lederjacke-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Ace 1.0 Lederjacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/cdn/shop/files/Size_Chart_moto_jacke_herren_leder.jpg",
+        "type": "manufacturer",
+        "label": "iXS – erkek deri mont beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.waterproof",
+      "specs.ventilation",
+      "specs.season"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Beyaz / Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 89
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 95
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 107
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 119
+      },
+      {
+        "size": "3XL",
+        "min": 120,
+        "max": 125
+      },
+      {
+        "size": "4XL",
+        "min": 126,
+        "max": 131
+      },
+      {
+        "size": "5XL",
+        "min": 132,
+        "max": 137
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Sığır derisi dış malzeme, X-Stretch poliamid streç paneller, polyester iç astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": null,
+      "closure": "Ön fermuar, uzun pantolon bağlantı fermuarı ve bağlantı halkası",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "tourster-bigair-1-0-damen",
+    "brand": "ixs",
+    "name": "Tourster-BigAir 1.0 Kadın",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Geniş AeroMesh panelli, sürekli havalandırmalı, EN 17092-3:2020 AA sınıfı ve Level 2 omuz/dirsek koruyuculu, airbag uyumlu iXS kadın yaz touring montu.",
+    "description": [
+      "Tourster-BigAir 1.0 Kadın, sıcak havada uzun mesafe sürüş için tasarlanmış bir file touring montu. Gövdede su itici ve rüzgâr kesen 450D kaplamalı X-Stretch kumaş, geniş bölgelerde ise esnek AeroMesh file kullanılmış; içte hızlı kuruyan file astar var. Havalandırma kalıcı, yani fermuarla açılıp kapanan bir sistem değil, file paneller sürekli hava alıyor.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor ve airbag-ready olduğunu belirtiyor. Omuz ve yüksekliği ayarlanabilen dirseklerde EN 1621-1:2012 Level 2 impacTec koruyucular standart; sırt ve bölünmüş göğüs koruyucuları için hazırlık var. Bel, üst kol, kol ağzı ve etekte kordon ve G-kanca ayarı, 2 ön, 2 file, 2 iç ve büyük bir arka kargo cebi bulunuyor."
+    ],
+    "forWho": [
+      "Sıcak iklimde uzun yol yapan kadın sürücüler",
+      "Yaz montunda AA sınıfından vazgeçmek istemeyenler",
+      "Şehir içi ve tur kullanımını aynı yazlık montla yapmak isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ek katman taşımak istemeyenler; mont su geçirmez değil",
+      "Serin ve soğuk havada da kullanacak tek mont arayanlar",
+      "Kurye olarak yıl boyu tek mont isteyenler: yaz dışında yetersiz kalır"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Geniş kalıcı file paneller",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Airbag uyumlu",
+      "Kadın kalıbı ve geniş ayar seçenekleri"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Su geçirmez değil; yalnız su itici dış kumaş",
+      "Havalandırma kapatılamadığı için serin havada üşütür",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Sıcak günlerde şehir içinde de rahat; geniş file paneller trafikte serin tutar.",
+      "uzunYol": "Sıcak havada uzun mesafe için tasarlanmış; kargo cebi ve AA sınıfı tur için yeterli.",
+      "yaz": "Asıl hedefi bu; kalıcı file paneller hareket halinde sürekli hava akışı sağlıyor.",
+      "kis": "Termal astar yok, havalandırma kapatılamıyor; kış için uygun değil.",
+      "yagmur": "Su itici dış kumaş kısa çiselemede yardımcı olur; yağmur için ayrı yağmurluk gerekir.",
+      "sport": "Sport kalıp değil; dik oturuşlu sürüş için.",
+      "kurye": "Yaz aylarında kullanılabilir ama kış ve yağmur için ayrı ekipman gerekir."
+    },
+    "verdict": "Tourster-BigAir 1.0 Kadın, AA sınıfı ve Level 2 koruyucuları sıcak havaya uygun file yapıyla birleştiren bir yaz touring montu. Sırt koruyucusunun ayrıca alınması ve yağmur koruması olmaması, onu sıcak iklim ve kuru hava için net bir seçim yapıyor.",
+    "rivals": [
+      "spidi/super-net-evo-lady",
+      "alpinestars/stella-t-dyno-air",
+      "ixs/tourster-stx-1-0-damen"
+    ],
+    "faq": [
+      {
+        "q": "Tourster-BigAir su geçirmez mi?",
+        "a": "Hayır. Dış kumaş su itici ve rüzgâr kesici olarak tanımlanıyor; geniş file panellerden su girer. Yağmurda üstüne yağmurluk giyilmeli."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, sırt ve göğüs koruyucuları için hazırlık var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "iXS kadın tekstil tablosuna göre DM beden 89–94 cm, DL beden 95–100 cm göğüs çevresine karşılık geliyor; kalça ölçüsü de tabloda verilmiş."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-damen-tourster-bigair-1-0-jacke-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-damen-tourster-bigair-1-0-jacke-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Damen Tourster-BigAir 1.0 Jacke ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/cdn/shop/files/Size_Chart_moto_jacke_damen_textil.jpg",
+        "type": "manufacturer",
+        "label": "iXS – kadın tekstil mont beden tablosu",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Açık gri / Mavi / Kırmızı",
+      "Koyu gri / Taş grisi / Turuncu"
+    ],
+    "sizes": [
+      "DXS",
+      "DS",
+      "DM",
+      "DL",
+      "DXL",
+      "D2XL",
+      "D3XL",
+      "D4XL",
+      "D5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "DXS",
+        "min": 77,
+        "max": 82
+      },
+      {
+        "size": "DS",
+        "min": 83,
+        "max": 88
+      },
+      {
+        "size": "DM",
+        "min": 89,
+        "max": 94
+      },
+      {
+        "size": "DL",
+        "min": 95,
+        "max": 100
+      },
+      {
+        "size": "DXL",
+        "min": 101,
+        "max": 106
+      },
+      {
+        "size": "D2XL",
+        "min": 107,
+        "max": 112
+      },
+      {
+        "size": "D3XL",
+        "min": 113,
+        "max": 118
+      },
+      {
+        "size": "D4XL",
+        "min": 119,
+        "max": 124
+      },
+      {
+        "size": "D5XL",
+        "min": 125,
+        "max": 130
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "450D kaplamalı X-Stretch polyester dış kumaş, elastik AeroMesh file paneller, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Kalıcı AeroMesh file paneller",
+      "closure": "Ön fermuar, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [
+      {
+        "seller": "ARS Motor",
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-siyah",
+        "price": 37800,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "ARS Motor",
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-yesil",
+        "price": 37800,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Yeşil"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "ARS Motor",
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-kum",
+        "price": 37800,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "M",
+          "2XL"
+        ],
+        "colors": [
+          "Kum"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 37800,
+      "max": 37800,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "mission-v-h2out",
+    "brand": "spidi",
+    "name": "Mission-V H2Out",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont",
+      "sehir-mont"
+    ],
+    "summary": "3 katmanlı H2Out laminat dış kabuk ve çıkarılabilir A sınıfı file koruma ceketinden oluşan, Step-In Armor katman sistemli Spidi şehir-adventure montu.",
+    "description": [
+      "Mission-V, Spidi'nin Step-In Armor katman sistemine dayanan, şehir ve adventure kullanımını birleştirmeye çalışan bir mont. Sistem iki ana parçadan oluşuyor: dışta 3 katmanlı H2Out laminat Stretch Performance kumaştan su geçirmez bir 'Hard Shell', içte ise koruyucuları taşıyan file 'Armor' ceketi. Dış kabuk tek başına günlük ceket olarak, iç file ceket ise sıcak havada tek başına motosiklet montu olarak giyilebiliyor. İsteğe bağlı termal katman ve çıkarılabilir kapüşonla farklı kombinasyonlar kurulabiliyor.",
+      "Koruma, içteki file ceket üzerinden sağlanıyor: bu katman EN 17092-4:2020 A sınıfında sertifikalı ve omuz ile dirseklerde EN 1621-1 Level 2 Warrior koruyucular standart; sırt ve göğüs koruyucuları için hazırlık var. Dış kabuğun su geçirmezlik ve nefes alabilirlik değerleri 10K/10K olarak verilmiş; gövde-kol arasında ve omuzlarda doğrudan hava alan havalandırma açıklıkları, omuz ve dirseklerde çift kat kumaş ve 3M reflektif detaylar bulunuyor. Üreticinin verdiği ortalama ağırlık 2,0 kg."
+    ],
+    "forWho": [
+      "Şehir içinde her gün kullanıp hafta sonu tura çıkan sürücüler",
+      "Yazın file ceket, yağmurda kabuk olarak katmanları değiştirmek isteyenler",
+      "Motordan inince de normal ceket gibi görünen bir mont arayanlar"
+    ],
+    "notFor": [
+      "AA veya AAA sınıfı arayanlar: koruyucu katman A sınıfında",
+      "Tek parça, katman takıp çıkarmayla uğraşmak istemeyenler",
+      "Bütçesi sınırlı kurye sürücüleri: Türkiye fiyatı yüksek"
+    ],
+    "pros": [
+      "3 katmanlı H2Out laminat dış kabuk; dış kumaş yağmurda ağırlaşmıyor",
+      "Çıkarılabilir file koruma ceketi yazın tek başına kullanılabiliyor",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Türkiye'de yetkili mağazada satılıyor"
+    ],
+    "cons": [
+      "Koruma sınıfı A; touring rakiplerinin AA/AAA sınıfının altında",
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Termal katman ayrıca satılıyor",
+      "Türkiye fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Güçlü olduğu alan; dış kabuk günlük ceket görünümünde, motordan inince de rahat giyiliyor.",
+      "uzunYol": "Kargo ve katman esnekliğiyle tura uygun; A sınıfı koruma uzun otoban etaplarında hesaba katılmalı.",
+      "yaz": "Yalnız iç file ceket giyildiğinde sıcak havada serin bir yaz montuna dönüşüyor.",
+      "kis": "Rüzgâr ve su kesen kabuk ile isteğe bağlı termal katman eklenince serin ve soğuk havada kullanılabilir.",
+      "yagmur": "3 katmanlı H2Out laminat kabuk ve su geçirmez fermuarlar yağmura karşı iyi koruma sağlar.",
+      "sport": "Sport kalıp değil; şehir ve adventure odaklı.",
+      "kurye": "Katman sistemi her mevsime uyum sağlasa da yüksek fiyatı kurye kullanımı için mantıksız kılıyor."
+    },
+    "verdict": "Mission-V, laminat su geçirmez kabuk ve çıkarılabilir file koruma ceketiyle her mevsime uyarlanabilen akıllı bir şehir-adventure sistemi. Esnekliği güçlü yanı; A sınıfı koruma, ayrıca alınması gereken sırt koruyucu ve yüksek Türkiye fiyatı ise satın almadan önce tartılmalı.",
+    "rivals": [
+      "spidi/tech-armor-2",
+      "macna/flexodus",
+      "ixs/tourster-gtx-1-0"
+    ],
+    "faq": [
+      {
+        "q": "Mission-V'nin koruma sınıfı nedir?",
+        "a": "Koruyucuları taşıyan iç file Armor ceketi EN 17092-4:2020 A sınıfında sertifikalı. Omuz ve dirseklerde Level 2 Warrior koruyucular standart."
+      },
+      {
+        "q": "İç file ceket tek başına giyilebilir mi?",
+        "a": "Evet. Spidi, iç koruma katmanının sıcak havada tek başına file motosiklet montu olarak kullanılabileceğini belirtiyor."
+      },
+      {
+        "q": "Türkiye'de nereden alınabilir?",
+        "a": "Kontrol tarihinde ARS Motor'da siyah, yeşil ve kum renklerde 37.800 TL liste fiyatıyla listeleniyordu."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/mission-v-h2out-jacket-d332",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/mission-v-h2out-jacket-d332",
+        "type": "manufacturer",
+        "label": "Spidi – Mission-V H2Out ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-siyah",
+        "type": "retailer",
+        "label": "ARS Motor – Spidi Mission-V Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-yesil",
+        "type": "retailer",
+        "label": "ARS Motor – Spidi Mission-V Yeşil",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/spidi-mission-v-h2out-lamine-4-mevsim-ceket-kum",
+        "type": "retailer",
+        "label": "ARS Motor – Spidi Mission-V Kum",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible"
+    ],
+    "colors": [
+      "Siyah",
+      "Koyu yeşil",
+      "Kum"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 82,
+        "max": 88
+      },
+      {
+        "size": "S",
+        "min": 88,
+        "max": 94
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XL",
+        "min": 106,
+        "max": 112
+      },
+      {
+        "size": "XXL",
+        "min": 112,
+        "max": 118
+      },
+      {
+        "size": "3XL",
+        "min": 118,
+        "max": 124
+      },
+      {
+        "size": "4XL",
+        "min": 124,
+        "max": 130
+      },
+      {
+        "size": "5XL",
+        "min": 130,
+        "max": 136
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "3 katmanlı H2Out laminat Stretch Performance dış kabuk, yüksek mukavemetli polyester file iç koruma ceketi, elastik paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "H2Out (3 katmanlı laminat, 10K/10K)",
+      "airbagCompatible": null,
+      "ventilation": "Gövde-kol arasında ve omuzlarda havalandırma açıklıkları; iç file ceket",
+      "closure": "Su geçirmez fermuarlar, çıkarılabilir kapüşon, Step-In Armor bağlantı fermuarı ve düğmeleri",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "hyper-v-pro-perforated",
+    "brand": "spidi",
+    "name": "Hyper-V Pro Perforated",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "summary": "1,0–1,2 mm sığır derisi, geniş delikli paneller, dar ve ön kavisli sport kesim, EN 17092-3:2020 AA sınıfı ve Level 2 Warrior Lite koruyuculu Spidi deri mont.",
+    "description": [
+      "Hyper-V Pro Perforated, Spidi'nin yol ve pist arasında duran performans odaklı deri montu. Gövde 1,0–1,2 mm kalınlığında parlak yüzeyli sığır derisinden; hareket bölgelerinde yüksek mukavemetli elastik Nylon 6.6 paneller var. Geniş delikli bölgeler sıcak havada hava akışı sağlıyor. Kesim dar ve vücuda oturan; kollar ön kavisli, ön boy ise yatık sürüş pozisyonuna göre kısa tutulmuş.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde çıkarılabilir EN 1621-1 Level 2 Warrior Lite koruyucular, omuzlarda dış Warrior kapaklar standart; sırt ve göğüs koruyucuları için hazırlık var. Sabit file astar, ayarlanabilir bel, pantolon bağlantı fermuarı bulunuyor. Step-In Wear sistemiyle uyumlu olduğu için isteğe bağlı termal veya su geçirmez iç katmanlar eklenebiliyor. Ortalama ağırlık 2,5 kg olarak verilmiş."
+    ],
+    "forWho": [
+      "Supersport veya sport naked motosikletle sıcak havada viraj sürüşü yapanlar",
+      "Dar ve yatık pozisyona göre kalıplanmış deri mont arayanlar",
+      "Deri pantolonla takım kurmak isteyen sport sürücüler"
+    ],
+    "notFor": [
+      "Dik oturuşlu touring veya scooter kullanıcıları: kısa ön boy ve dar kesim rahatsız eder",
+      "Kurye olarak gün boyu kullanım: dar sport kalıp ve deri yapı uygun değil",
+      "Yağmurda da tek mont isteyenler: delikli deri su geçirir"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Geniş delikli paneller ile sıcak havada hava akışı",
+      "Omuz ve dirsekte Level 2 koruyucu, dış omuz kapakları",
+      "Step-In Wear iç katmanlarıyla mevsim aralığı genişletilebiliyor"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Dar sport kesim günlük kullanımda kısıtlayıcı",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde giyilebilir ama dar ve yatık pozisyona göre kalıp dik oturuşta rahatsız eder.",
+      "uzunYol": "Sport motosikletle hızlı etaplarda iyi oturur; cep ve hava koruması sınırlı.",
+      "yaz": "Delikli paneller hareket halinde hava aldırır; trafikte durunca deri sıcaklığı hissedilir.",
+      "kis": "Tek başına kış montu değil; isteğe bağlı termal iç katmanla serin havada kullanılabilir.",
+      "yagmur": "Delikli deri su geçirir; isteğe bağlı yağmur iç katmanı ya da yağmurluk gerekir.",
+      "sport": "Güçlü olduğu alan; ön kavisli kollar, kısa ön boy ve AA sınıfı sport sürüş için tasarlanmış.",
+      "kurye": "Uygun değil; kurye temposu için tasarlanmamış."
+    },
+    "verdict": "Hyper-V Pro Perforated, sıcak havada sport sürüş yapan ve dar kesimli bir deri mont isteyen sürücü için güçlü bir aday. AA sertifikası ve delikli yapısı artısı; sırt koruyucunun ayrıca alınması ve günlük kullanımı zorlaştıran kalıp eksi tarafı.",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "furygan/raptor-evo-3",
+      "macna/blitz"
+    ],
+    "faq": [
+      {
+        "q": "Hyper-V Pro Perforated hangi sınıfta?",
+        "a": "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Montta Warrior sırt ve göğüs koruyucuları için hazırlık var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Spidi erkek deri tablosuna göre 50 beden 100–104 cm, 52 beden 104–108 cm göğüs çevresine karşılık geliyor. Kesim dar olduğu için ara bedende büyüğü düşünmek gerekebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/hyper-v-pro-perforated-leather-jacket-p255",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/hyper-v-pro-perforated-leather-jacket-p255",
+        "type": "manufacturer",
+        "label": "Spidi – Hyper-V Pro Perforated Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Beyaz",
+      "Floresan kırmızı / Beyaz / Siyah"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "sizeChart": [
+      {
+        "size": "46",
+        "min": 88,
+        "max": 94
+      },
+      {
+        "size": "48",
+        "min": 94,
+        "max": 100
+      },
+      {
+        "size": "50",
+        "min": 100,
+        "max": 104
+      },
+      {
+        "size": "52",
+        "min": 104,
+        "max": 108
+      },
+      {
+        "size": "54",
+        "min": 108,
+        "max": 112
+      },
+      {
+        "size": "56",
+        "min": 112,
+        "max": 116
+      },
+      {
+        "size": "58",
+        "min": 116,
+        "max": 120
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "1,0–1,2 mm sığır derisi, elastik Nylon 6.6 paneller, sabit file astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş delikli deri paneller",
+      "closure": "Ön fermuar, ayarlanabilir bel, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "tech-armor-2",
+    "brand": "spidi",
+    "name": "Tech Armor 2",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Geniş file panelli, ripstop ve streç kumaşlı, EN 17092-3:2020 AA sınıfı, Level 2 omuz/dirsek koruyuculu ve Step-In Armor katmanlarıyla uyumlu Spidi yaz adventure montu.",
+    "description": [
+      "Tech Armor 2, Spidi'nin Step-In Armor sistemine göre tasarlanmış file montu. Koruyucuları vücuda yakın tutan bir taban katman mantığıyla çalışıyor: geniş, yüksek hava geçirgenliğine sahip file paneller, yırtılmaya dayanıklı ripstop naylon ve Performance Stretch kumaşla birleşiyor. Örgü kol ağızları, çok sayıda ayar noktası ve iç-dış cep düzeniyle adventure ve arazi kullanımı da hedeflenmiş.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde çıkarılabilir EN 1621-1 Level 2 Warrior L2 koruyucular standart, sırt koruyucu için hazırlık var. Fermuarlarla Spidi'nin su geçirmez dış kabukları ve termal katmanları (ör. Mission-V kabuğu) takılabildiği için yazlık mont dört mevsim bir sisteme dönüştürülebiliyor. Ortalama ağırlık 1,5 kg."
+    ],
+    "forWho": [
+      "Sıcak havada adventure veya touring sürüşü yapanlar",
+      "Yaz montunda AA sınıfı isteyenler",
+      "Spidi Step-In Armor kabuklarıyla katmanlı bir sistem kurmak isteyenler"
+    ],
+    "notFor": [
+      "Tek başına yağmur ve soğuk koruması bekleyenler: kabuk ayrıca alınmalı",
+      "Sport kalıp arayanlar",
+      "Kurye olarak yıl boyu tek mont isteyenler: yaz dışında ek katman gerekir"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Geniş file paneller",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Step-In Armor kabuk ve astarlarıyla dört mevsime genişletilebiliyor"
+    ],
+    "cons": [
+      "Sırt koruyucusu standart değil",
+      "Tek başına su geçirmez değil",
+      "Dört mevsim kullanım için ek kabuk satın almak gerekiyor",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Sıcak günlerde şehir içinde rahat; file yapısı trafikte de hava alır.",
+      "uzunYol": "Sıcak havada tur için uygun; uzun yolda yağmur için kabuk veya yağmurluk taşınmalı.",
+      "yaz": "Asıl hedefi bu; geniş file paneller sürekli hava akışı sağlıyor.",
+      "kis": "Tek başına kış için uygun değil; Step-In Armor termal ve su geçirmez katmanlarıyla kullanılabilir.",
+      "yagmur": "Su geçirmez değil; uyumlu H2Out kabuk ya da yağmurluk gerekir.",
+      "sport": "Sport kalıp değil; adventure ve touring odaklı.",
+      "kurye": "Yaz aylarında kullanılabilir; yılın geri kalanı için ek kabuk gerekir."
+    },
+    "verdict": "Tech Armor 2, AA sınıfı ve Level 2 koruyucuları bol havalandırmalı bir file montta sunuyor ve Spidi kabuklarıyla genişletilebilen bir sistemin temelini oluşturuyor. Sadece yaz montu arayanlar için bile güçlü; dört mevsim kullanım ise ek kabuk maliyeti demek.",
+    "rivals": [
+      "spidi/mission-v-h2out",
+      "buse/livorno",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "faq": [
+      {
+        "q": "Tech Armor 2 su geçirmez mi?",
+        "a": "Hayır. Su geçirmezlik için Spidi'nin Step-In Armor uyumlu H2Out kabuklarından biri üstüne takılabiliyor ya da yağmurluk kullanılabiliyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, montta sırt koruyucu için hazırlık var; Spidi'nin Warrior sırt koruyucuları ayrıca satılıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Spidi erkek tablosuna göre M beden 94–100 cm, L beden 100–106 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/motorcycle-mesh-jacket-tech-armor-2-t379",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/motorcycle-mesh-jacket-tech-armor-2-t379",
+        "type": "manufacturer",
+        "label": "Spidi – Tech Armor 2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah",
+      "Askeri yeşil"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 82,
+        "max": 88
+      },
+      {
+        "size": "S",
+        "min": 88,
+        "max": 94
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XL",
+        "min": 106,
+        "max": 112
+      },
+      {
+        "size": "XXL",
+        "min": 112,
+        "max": 118
+      },
+      {
+        "size": "3XL",
+        "min": 118,
+        "max": 124
+      },
+      {
+        "size": "4XL",
+        "min": 124,
+        "max": 130
+      },
+      {
+        "size": "5XL",
+        "min": 130,
+        "max": 136
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Yüksek mukavemetli polyester file, ripstop naylon, Performance Stretch elastik kumaş, sabit file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş yüksek hava geçirgenliğine sahip file paneller",
+      "closure": "Ön fermuar, örgü kol ağızları, ayarlanabilir bel, pantolon bağlantı fermuarı, Step-In Armor bağlantı fermuarları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "super-net-evo-lady",
+    "brand": "spidi",
+    "name": "Super Net Evo Kadın",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Yüksek mukavemetli file ve Cordura takviyeli, kadın kalıplı, EN 17092-3:2020 AA sınıfı ve Level 2 omuz/dirsek koruyuculu 1 kg'lık Spidi yazlık mont.",
+    "description": [
+      "Super Net Evo Kadın, Spidi'nin yaz file montunun kadın kalıbı. Gövdede yüksek mukavemetli file paneller elastik kumaş bölümleri ve Cordura poliamid takviyelerle birleşiyor. Ortalama ağırlık 1,0 kg ile bu grubun en hafif montlarından biri. Kadın vücut yapısına göre ayrı kalıp kullanılmış.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor. Omuz ve dirseklerde çıkarılabilir EN 1621-1 Level 2 Warrior L2 koruyucular standart; kadın sırt koruyucusu için hazırlık var. Step-In Armor uyumlu olduğu için YKK fermuar ve bağlantı halkalarıyla Spidi'nin su geçirmez kabukları veya rüzgârlık katmanları üstüne takılabiliyor."
+    ],
+    "forWho": [
+      "Sıcak havada şehir içi ve kısa tur sürüşü yapan kadın sürücüler",
+      "Hafif ama AA sınıfı bir yaz montu arayanlar",
+      "İleride Spidi katmanlarıyla sistemi genişletmek isteyenler"
+    ],
+    "notFor": [
+      "Yağmur ve serin havada tek mont isteyenler",
+      "Bol cepli touring montu arayanlar",
+      "Kurye olarak yıl boyu tek mont isteyenler: yaz dışında yetersiz"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Yaklaşık 1 kg ile çok hafif",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Kadın kalıbı"
+    ],
+    "cons": [
+      "Sırt koruyucusu standart değil",
+      "Su geçirmez değil",
+      "Renk seçeneği yalnız siyah",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Sıcak günlerde şehir içinde rahat ve hafif.",
+      "uzunYol": "Sıcak havada kısa turlar için uygun; cep ve hava koruması sınırlı.",
+      "yaz": "Asıl hedefi bu; geniş file paneller hareket halinde serin tutar.",
+      "kis": "Tek başına uygun değil; uyumlu Spidi katmanlarıyla mevsim uzatılabilir.",
+      "yagmur": "Su geçirmez değil; üstüne kabuk veya yağmurluk gerekir.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Yaz aylarında kullanılabilir ama yıl boyu kurye ihtiyacını tek başına karşılamaz."
+    },
+    "verdict": "Super Net Evo Kadın, AA sınıfı ve Level 2 koruyucuları 1 kg civarında bir file montta sunan, sıcak hava için net bir seçim. Sırt koruyucunun ayrıca alınması ve yağmur koruması olmaması, onu kuru ve sıcak günlerin montu yapıyor.",
+    "rivals": [
+      "ixs/tourster-bigair-1-0-damen",
+      "alpinestars/stella-t-dyno-air",
+      "macna/flexodus-women"
+    ],
+    "faq": [
+      {
+        "q": "Super Net Evo Kadın su geçirmez mi?",
+        "a": "Hayır, file bir yaz montu. Yağmurda üstüne Spidi'nin uyumlu kabuklarından biri veya yağmurluk giyilmeli."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Spidi'nin kadın sırt koruyucuları için hazırlık var; koruyucu ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Spidi kadın tablosuna göre M beden 88–94 cm, L beden 94–100 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/super-net-evo-lady-textile-jacket-t385",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/super-net-evo-lady-textile-jacket-t385",
+        "type": "manufacturer",
+        "label": "Spidi – Super Net Evo Lady ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 80,
+        "max": 86
+      },
+      {
+        "size": "S",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "M",
+        "min": 88,
+        "max": 94
+      },
+      {
+        "size": "L",
+        "min": 94,
+        "max": 100
+      },
+      {
+        "size": "XL",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XXL",
+        "min": 106,
+        "max": 112
+      },
+      {
+        "size": "3XL",
+        "min": 112,
+        "max": 120
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Yüksek mukavemetli polyester file, elastik kumaş, Cordura poliamid takviyeler, sabit file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş file paneller",
+      "closure": "Ön fermuar, Step-In Armor YKK bağlantı fermuarı ve halkaları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": null,
+    "dataConfidence": "high",
+    "slug": "flexodus",
+    "brand": "macna",
+    "name": "Flexodus",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Çıkarılabilir su geçirmez membran ve termal astarlı, sırt çantasına dönüşebilen Confold yapılı, Class AA ve Level 2 omuz/dirsek koruyuculu Macna adventure-touring montu.",
+    "description": [
+      "Flexodus, Macna'nın dört mevsim adventure-touring montu. Su geçirmez membran ve termal astar ayrı ayrı çıkarılabiliyor ve tek başına da giyilebiliyor. Göğüs, kol ve sırtta havalandırma var; göğüsteki Summer Comfort Flex paneli sökülerek havalandırma artırılabiliyor. Mont ısıtmalı Thermax iç ceket kullanımına hazır; Water Exhaust detayı membranla dış kat arasında biriken suyu dışarı atmak için tasarlanmış.",
+      "Montun en ayırt edici özelliği, patentli Confold yapısıyla katlanıp kask askılı bir sırt çantasına dönüşebilmesi. Koruma tarafında omuz ve dirseklerde CE sertifikalı Level 2 R.I.S.C. koruyucular standart; sırt ve göğüs koruyucuları için cep var ama koruyucular ayrıca satılıyor. Üretici montu EN 17092 Class AA olarak sınıflandırıyor. Kol ağzında katmanları birbirine bağlayan Easy Cuff fermuarı, kol boyuna uyum sağlayan Dyna Cuff, jean kemerine bağlanan Belt Loop kayışı ve tekstil/deri pantolonlar için uzun bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Yılın her mevsiminde tur ve günlük kullanım için tek mont arayanlar",
+      "Motordan inince montu sırt çantası gibi taşımak isteyenler",
+      "Isıtmalı iç ceket kullanmayı düşünen sürücüler"
+    ],
+    "notFor": [
+      "Sport sürüş pozisyonu için kalıp arayanlar",
+      "Kurye olarak çok yoğun kullanım: çok katmanlı yapı ve ağırlık gün boyu in-bin yaparken yorar",
+      "Türkiye'de mağazadan hemen almak isteyenler: yerel satış noktası bulunamadı"
+    ],
+    "pros": [
+      "Class AA sınıflandırması",
+      "Çıkarılabilir, ayrı giyilebilir membran ve termal astar",
+      "Sırt çantasına dönüşebilen Confold yapı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Isıtmalı Thermax iç ceket uyumu"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Membran ayrı katman; dış kumaş yağmurda ıslanabilir",
+      "Resmi beden tablosu ürün sayfasından doğrulanamadı",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Uygun; sırt çantasına dönüşme özelliği şehirde park ettikten sonra pratik.",
+      "uzunYol": "Güçlü olduğu alan; katman seçenekleri ve havalandırma uzun turda farklı hava koşullarına uyum sağlıyor.",
+      "yaz": "Membran ve astar çıkarılıp göğüs paneli açıldığında ılık-sıcak havada kullanılabilir.",
+      "kis": "Termal astar ve isteğe bağlı ısıtmalı Thermax iç ceketle soğuk havaya hazırlanabiliyor.",
+      "yagmur": "Çıkarılabilir su geçirmez membranla yağmura karşı koruma var; Water Exhaust biriken suyu tahliye ediyor.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Çok yönlü ama katmanlı ve ağır; kurye için daha sade bir mont daha mantıklı."
+    },
+    "verdict": "Flexodus, çıkarılabilir katmanları, Thermax uyumu ve sırt çantasına dönüşen yapısıyla pratik detaylarda öne çıkan bir dört mevsim mont. AA sınıfı ve Level 2 koruyucular yeterli bir temel sunuyor; sırt koruyucunun ayrıca alınması ve Türkiye'de satış olmaması dezavantaj.",
+    "rivals": [
+      "buse/highland-3",
+      "ixs/tourster-stx-2-0",
+      "spidi/mission-v-h2out"
+    ],
+    "faq": [
+      {
+        "q": "Flexodus sırt çantasına nasıl dönüşüyor?",
+        "a": "Macna'nın patentli Confold yapısı sayesinde mont katlanıp sırt çantası olarak taşınabiliyor; çantada kask askısı (Helmet Loop) ve eldiven gibi eşyalar için yer var."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. R.I.S.C. sırt ve göğüs koruyucuları için cep var; koruyucular ayrıca satılıyor."
+      },
+      {
+        "q": "Isıtmalı ceketle kullanılabilir mi?",
+        "a": "Evet, üretici montun Thermax hazır olduğunu belirtiyor; termal astar çıkarılıp yerine ısıtmalı Thermax ceket takılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/jackets-textile-waterproof-macna-flexodus",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/jackets-textile-waterproof-macna-flexodus",
+        "type": "manufacturer",
+        "label": "Macna – Flexodus ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Mavi",
+      "Gri / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Tekstil dış kumaş (Soft flex, Ripstop 2 mm, Fybrex, Dynamic stretch, Foamesh), çıkarılabilir su geçirmez membran ve termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir su geçirmez membran (IN&OUT)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kol ve sırtta havalandırma; sökülebilir Summer Comfort Flex göğüs paneli",
+      "closure": "Ön fermuar, Easy Cuff ve Dyna Cuff kol ağzı, Collar Loop, Belt Loop, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": null,
+    "dataConfidence": "high",
+    "slug": "flexodus-women",
+    "brand": "macna",
+    "name": "Flexodus Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Kadın kalıplı, çıkarılabilir su geçirmez membran ve termal astarlı, sırt çantasına dönüşebilen, EN 17092 Class AA ve Level 2 omuz/dirsek koruyuculu Macna dört mevsim mont.",
+    "description": [
+      "Flexodus Kadın, Macna'nın dört mevsim adventure-touring montunun kadın kalıplı versiyonu. Su geçirmez membran ve termal astar ayrı ayrı çıkarılabiliyor ve tek başına giyilebiliyor. Göğüs, kol ve sırtta havalandırma, sökülebilir Summer Comfort Flex göğüs paneli, Thermax ısıtmalı iç ceket hazırlığı ve membranla dış kat arasındaki suyu tahliye eden Water Exhaust detayı erkek modelle aynı.",
+      "Patentli Confold yapısıyla mont katlanıp kask askılı bir sırt çantasına dönüşebiliyor. Koruma tarafında omuz ve dirseklerde CE sertifikalı Level 2 R.I.S.C. koruyucular standart; sırt ve göğüs koruyucuları için cep var ama koruyucular ayrıca satılıyor. Üretici montu EN 17092 Class AA olarak sınıflandırıyor. Kol ağzında katmanları birbirine bağlayan Easy Cuff fermuarı, kol boyuna uyum sağlayan Dyna Cuff, jean kemerine bağlanan Belt Loop kayışı ve tekstil/deri pantolonlar için uzun bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Her mevsim tur ve günlük kullanım için tek mont arayan kadın sürücüler",
+      "Motordan inince montu kolayca taşımak isteyenler",
+      "Isıtmalı iç ceket kullanmayı düşünenler"
+    ],
+    "notFor": [
+      "Çok küçük veya çok büyük beden ihtiyacı olanlar: beden aralığı XS–XXL",
+      "Kurye olarak yoğun kullanım: katmanlı yapı gün boyu in-bin yaparken yorar",
+      "Türkiye'de mağazadan almak isteyenler: yerel satış noktası bulunamadı"
+    ],
+    "pros": [
+      "EN 17092 Class AA",
+      "Çıkarılabilir, ayrı giyilebilir membran ve termal astar",
+      "Sırt çantasına dönüşebilen Confold yapı",
+      "Omuz ve dirsekte Level 2 koruyucu"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Beden aralığı XS–XXL ile sınırlı",
+      "Resmi beden tablosu ürün sayfasından doğrulanamadı",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Uygun; sırt çantasına dönüşme özelliği şehirde pratik.",
+      "uzunYol": "Güçlü olduğu alan; katman seçenekleri uzun turda değişen havaya uyum sağlıyor.",
+      "yaz": "Membran ve astar çıkarılıp göğüs paneli açıldığında ılık-sıcak havada kullanılabilir.",
+      "kis": "Termal astar ve isteğe bağlı ısıtmalı Thermax iç ceketle soğuk havaya hazırlanabiliyor.",
+      "yagmur": "Çıkarılabilir su geçirmez membran yağmura karşı koruma sağlıyor.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Çok yönlü ama katmanlı ve ağır; kurye için daha sade bir mont daha mantıklı."
+    },
+    "verdict": "Flexodus Kadın, AA sınıfı ve Level 2 koruyucuları çıkarılabilir katmanlar ve sırt çantası dönüşümüyle birleştiren pratik bir dört mevsim kadın montu. Sırt koruyucunun ayrıca alınması ve sınırlı beden aralığı göz önünde tutulmalı.",
+    "rivals": [
+      "buse/lago-3-damen",
+      "buse/open-road-3-damen",
+      "ixs/tourster-stx-1-0-damen"
+    ],
+    "faq": [
+      {
+        "q": "Flexodus Kadın ile erkek modelin farkı nedir?",
+        "a": "Özellikler aynı; kadın versiyonu kadın vücut yapısına göre kalıplanmış ve XS–XXL beden aralığında sunuluyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, R.I.S.C. sırt ve göğüs koruyucuları için cep var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Membran çıkarılabiliyor mu?",
+        "a": "Evet. Su geçirmez membran ve termal astar ayrı ayrı çıkarılabiliyor ve tek başına giyilebiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/jackets-textile-waterproof-ladies-macna-flexodus-women",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/jackets-textile-waterproof-ladies-macna-flexodus-women",
+        "type": "manufacturer",
+        "label": "Macna – Flexodus Women ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Gri / Yeşil"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tekstil dış kumaş (Soft flex DL, Ripstop 2 mm), çıkarılabilir su geçirmez membran ve termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir su geçirmez membran (IN&OUT)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kol ve sırtta havalandırma; sökülebilir Summer Comfort Flex göğüs paneli",
+      "closure": "Ön fermuar, Easy Cuff ve Dyna Cuff kol ağzı, Collar Loop, Belt Loop, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": null,
+    "dataConfidence": "high",
+    "slug": "blitz",
+    "brand": "macna",
+    "name": "Blitz",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "summary": "Delikli sığır derisi, aramid iplikli streç paneller ve Armax dış omuz korumalı, EN 17092 Class AA sınıfı, ılık ve sıcak hava için Macna sport deri mont.",
+    "description": [
+      "Blitz, Macna'nın MotoGP esintili sport deri montu. Gövde (yer yer delikli) sığır derisinden; hareket bölgelerinde aramid iplikli, dört yöne esneyen Dynamic stretch kumaş, havalandırma için 3D file kullanılmış. Üretici montu ılık ve sıcak hava koşulları için tanımlıyor. Yumuşak neopren Floating Collar yaka boynu tahriş etmeyecek şekilde tasarlanmış.",
+      "Dışta omuzlar Macna'nın patentli Armax yapısıyla korunuyor; içte omuz ve dirseklerde CE sertifikalı Level 1 R.I.S.C. koruyucular var. Sırt ve göğüs koruyucuları için cep bulunuyor, koruyucular ayrıca satılıyor. Üretici montu EN 17092 Class AA olarak sınıflandırıyor. Uzun 8V pantolon bağlantı fermuarı ve jean kemerine bağlanan Belt Loop kayışı mevcut."
+    ],
+    "forWho": [
+      "Naked veya sport motosikletle ılık-sıcak havada sürüş yapanlar",
+      "AA sınıfı bir deri montu orta fiyat seviyesinde arayanlar",
+      "Jean ile de kullanılabilecek sport bir deri mont isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta da tek mont isteyenler",
+      "Level 2 koruyucu bekleyenler: içteki koruyucular Level 1",
+      "Kurye olarak gün boyu kullanım: sport kalıp ve deri yapı uygun değil"
+    ],
+    "pros": [
+      "EN 17092 Class AA",
+      "Delikli deri ve 3D file ile sıcak havaya uygun",
+      "Armax dış omuz koruması",
+      "Belt Loop ile jean bağlantısı"
+    ],
+    "cons": [
+      "İç koruyucular Level 1",
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde giyilebilir; sport kalıp dik oturuşta biraz zorlayabilir.",
+      "uzunYol": "Sport motosikletle ılık havada tur yapılabilir; hava koruması ve cep sınırlı.",
+      "yaz": "Delikli deri ve file paneller sıcak havada hava aldırır.",
+      "kis": "Termal astar yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; deri düzenli bakımla bir miktar su iter ama yağmurluk gerekir.",
+      "sport": "Güçlü olduğu alan; sport kalıp, AA sınıfı ve pantolon bağlantısı viraj sürüşü için uygun.",
+      "kurye": "Uygun değil; deri sport mont kurye temposuna uymaz."
+    },
+    "verdict": "Blitz, AA sınıfı ve delikli deri yapısıyla sıcak havada sport sürüş için mantıklı bir deri mont. Level 1 iç koruyucular ve ayrıca alınması gereken sırt koruyucu, güvenliği artırmak isteyen için ek bütçe anlamına geliyor.",
+    "rivals": [
+      "ixs/ace-1-0",
+      "spidi/hyper-v-pro-perforated",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "faq": [
+      {
+        "q": "Blitz koruyucuları hangi seviyede?",
+        "a": "İçte omuz ve dirseklerde CE sertifikalı Level 1 R.I.S.C. koruyucular var; omuzlarda ayrıca dış Armax koruması bulunuyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, R.I.S.C. sırt ve göğüs koruyucuları için cep var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Yağmurda kullanılır mı?",
+        "a": "Su geçirmez değil. Üretici derinin düzenli yağlanırsa bir miktar su ittiğini belirtiyor; yağmurda yağmurluk gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/jackets-leather-macna-blitz",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/jackets-leather-macna-blitz",
+        "type": "manufacturer",
+        "label": "Macna – Blitz ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "sizeChart",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Gri",
+      "Siyah / Kırmızı",
+      "Siyah / Beyaz"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "sizeChart": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Kısmen delikli sığır derisi, aramid iplikli Dynamic stretch kumaş, 3D file",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Delikli deri bölgeler ve 3D file paneller",
+      "closure": "Ön fermuar, neopren Floating Collar, Belt Loop, uzun 8V pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "odessa-evo-3in1-vented",
+    "brand": "furygan",
+    "name": "Odessa Evo 3in1 Vented+",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Geniş file panelli, iki çıkarılabilir astarlı (DRYCORE su geçirmez + termal) 3'ü 1 arada, EN 17092-4:2020 A sınıfı, D3O Spectre omuz/dirsek koruyuculu Furygan mont.",
+    "description": [
+      "Odessa Evo 3in1 Vented+, Furygan'ın file tabanlı dört mevsim montu. Dış katmanda yüksek mukavemetli polyester, ripstop ve geniş file paneller birleşiyor; göğüste büyük streç paneller var. İki ayrı astar ve üç farklı yapılandırma mümkün: tam takıldığında DRYCORE Absolute astarla su ve rüzgâr geçirmez, sıcak bir mont; astarlar çıkarıldığında ise havadar bir yazlık mont elde ediliyor. Astarlar bu nesilde baskı düğme yerine daha hafif mikro çıtçıtlarla tutturuluyor.",
+      "Üretici montu EN 17092-4:2020 A sınıfında sertifikalandırıyor. Omuz ve dirseklerde Furygan ve D3O'nun birlikte geliştirdiği ince ve esnek D3O Spectre koruyucular standart; sırt ve göğüs için D3O koruyucu cepleri var. In&Out membran konsepti, su geçirmez astarın gerekirse montun üstüne de giyilebilmesine izin veriyor. Kalça ayar fermuarları, pantolon kemer bağlantı tırnakları, 2 dış ve 2 iç cep bulunuyor; beden aralığı S–3XL."
+    ],
+    "forWho": [
+      "Yazın file, kışın astarlı tek bir şehir montu isteyenler",
+      "Hafif ve esnek koruyucuları tercih eden sürücüler",
+      "Orta bütçeyle dört mevsim kullanılacak bir mont arayanlar"
+    ],
+    "notFor": [
+      "AA veya AAA sınıfı arayanlar: mont A sınıfında",
+      "Uzun turlarda bol cep ve hacim isteyenler: yalnız 4 cep var",
+      "3XL üstü beden ihtiyacı olanlar",
+      "Kurye olarak yağmurda sık in-bin yapanlar: su geçirmezlik iç astara bağlı, astar değişimi zaman alır"
+    ],
+    "pros": [
+      "3'ü 1 arada yapı: file yaz montu, su geçirmez ve termal astar",
+      "D3O Spectre omuz ve dirsek koruyucuları",
+      "Astarlar mikro çıtçıtlarla hızlı takılıp çıkarılıyor",
+      "Göğüste geniş streç paneller"
+    ],
+    "cons": [
+      "EN 17092-4:2020 A sınıfı; AA montlara göre aşınma dayanımı düşük",
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Koruyucu seviyesi ürün sayfasında belirtilmemiş",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Uygun; hafif yapısı ve katman seçenekleriyle günlük şehir kullanımı için tasarlanmış.",
+      "uzunYol": "Kısa turlar için yeterli; az cep ve A sınıfı uzun otoban turlarında sınırlayıcı.",
+      "yaz": "Astarlar çıkarıldığında geniş file paneller iyi hava akışı sağlar.",
+      "kis": "Termal ve DRYCORE astar birlikte takıldığında serin ve soğuk havada kullanılabilir.",
+      "yagmur": "DRYCORE Absolute astarla su geçirmez; dış file katman ıslanacağı için uzun yağmurda ağırlaşma beklenmeli.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Mevsim esnekliği kurye için çekici ama A sınıfı ve iç astarla sağlanan su geçirmezlik yoğun kullanımda zayıf yan."
+    },
+    "verdict": "Odessa Evo 3in1 Vented+, file tabanı ve iki çıkarılabilir astarıyla tek montla dört mevsim şehir kullanımı isteyenler için pratik bir çözüm. Hafif D3O Spectre koruyucular artısı; A sınıfı sertifika ve ayrıca alınması gereken sırt koruyucu ise eksisi.",
+    "rivals": [
+      "furygan/montroc-kevlar-primaloft-3in1",
+      "spidi/mission-v-h2out",
+      "macna/flexodus"
+    ],
+    "faq": [
+      {
+        "q": "Odessa Evo su geçirmez mi?",
+        "a": "Evet, DRYCORE Absolute astar takıldığında su ve rüzgâr geçirmez oluyor (10k/15k). Astar dış file katmanın altında olduğu için dış kumaş ıslanır."
+      },
+      {
+        "q": "Koruma sınıfı nedir?",
+        "a": "Üretici montu EN 17092-4:2020 A sınıfında sertifikalandırıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Furygan mont tablosuna göre M beden 93–99 cm, L beden 100–106 cm göğüs çevresine karşılık geliyor; mont S–3XL arasında sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.furygan.com/produit/odessa-evo-3in1-vented/?lang=en",
+    "sources": [
+      {
+        "url": "https://www.furygan.com/produit/odessa-evo-3in1-vented/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – Odessa Evo 3in1 Vented+ ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.furygan.com/fury-care-center/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – resmi beden rehberi (Jackets)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.level",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah / Beyaz",
+      "İnci / Siyah / Pembe"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 92
+      },
+      {
+        "size": "M",
+        "min": 93,
+        "max": 99
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XL",
+        "min": 107,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 120
+      },
+      {
+        "size": "3XL",
+        "min": 121,
+        "max": 124
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Yüksek mukavemetli polyester (600D+), ripstop, file paneller, bi-stretch takviyeler, Skin Protect astar, çıkarılabilir DRYCORE Absolute su geçirmez astar ve termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "DRYCORE Absolute (çıkarılabilir astar, 10k/15k)",
+      "airbagCompatible": null,
+      "ventilation": "Geniş file paneller",
+      "closure": "Ön fermuar, mikro çıtçıtlı astar bağlantıları, kalça ayar fermuarları, pantolon kemer bağlantı tırnakları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "montroc-kevlar-primaloft-3in1",
+    "brand": "furygan",
+    "name": "Montroc Kevlar Primaloft 3in1+",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Kevlar takviyeli ripstop, AFS Max havalandırma, In&Out Humax membran ve PrimaLoft Black termal astarlı, EN 17092-3:2020 AA sınıfı Furygan adventure montu.",
+    "description": [
+      "Montroc Kevlar Primaloft 3in1+, Furygan'ın adventure serisinin üst modeli. Dış yapı yüksek mukavemetli polyester ve ripstop; omuz ve dirseklerde Kevlar elyaflı dolgulu takviyeler var. AFS Max ayarlanabilir havalandırma sistemi, geniş file paneller ve önde açılarak tam boy 3D file paneli ortaya çıkaran Summer Flap ile sıcak havaya uyum sağlıyor. Soğuk ve yağmur için çıkarılabilir In&Out Humax su geçirmez astar (10k/15k) ve PrimaLoft Black dolgulu tam termal astar bulunuyor.",
+      "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor ve bu seviyenin bu kadar havalandırmalı bir montta nadir olduğunu vurguluyor. Omuz ve dirseklerde Level 2 D3O koruyucular standart; sırt ve göğüs için D3O koruyucu cepleri var. Yüksekliği ayarlanabilen DW-Fit bel ayarı, 5 dış (biri kart cebi) ve 2 iç cep, kolay erişilebilen su geçirmez iç cep mevcut. In&Out membran gerektiğinde montun üstüne de giyilebiliyor."
+    ],
+    "forWho": [
+      "Adventure motosikletle farklı iklimlerde uzun tur yapanlar",
+      "Havalandırmalı ama AA sınıfı bir mont arayanlar",
+      "Kevlar takviyeli, sıcak tutan termal astarı olan bir mont isteyenler"
+    ],
+    "notFor": [
+      "Sport sürüş pozisyonu için kalıp arayanlar",
+      "Kurye olarak yoğun şehir kullanımı: üst segment fiyat ve hacimli adventure yapı",
+      "Laminat (dış kumaşa yapışık) su geçirmezlik bekleyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Omuz ve dirsekte Level 2 D3O koruyucu",
+      "AFS Max ve Summer Flap ile yüksek havalandırma",
+      "PrimaLoft Black termal astar ve Humax su geçirmez astar",
+      "Kevlar takviyeli omuz ve dirsekler"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Su geçirmez astar dış kumaşın altında; dış kat yağmurda ıslanır",
+      "Üst segment fiyat",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure yapısı ve cepleri şehir için hacimli.",
+      "uzunYol": "Güçlü olduğu alan; AA sınıfı, katmanlar ve cepler uzun adventure turları için tasarlanmış.",
+      "yaz": "Astarlar çıkarılıp AFS Max ve Summer Flap açıldığında sıcak havada iyi hava alır.",
+      "kis": "PrimaLoft Black termal astar ve Humax astarla soğuk havada sıcak tutar.",
+      "yagmur": "In&Out Humax astarla su geçirmez; astar montun üstüne de giyilebiliyor.",
+      "sport": "Sport kalıp değil.",
+      "kurye": "Dayanıklı ama pahalı ve hacimli; kurye için gereğinden fazla."
+    },
+    "verdict": "Montroc, yüksek havalandırmayı AA sınıfı koruma ve iyi bir termal astarla birleştiren kapsamlı bir adventure montu. Farklı iklimlerde tur yapan sürücü için güçlü bir aday; sırt koruyucunun ayrıca alınması ve ayrı katman su geçirmezlik ise bilinmeli.",
+    "rivals": [
+      "furygan/odessa-evo-3in1-vented",
+      "buse/highland-3",
+      "ixs/tourster-gtx-1-0"
+    ],
+    "faq": [
+      {
+        "q": "Montroc'un koruma sınıfı nedir?",
+        "a": "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor; omuz ve dirseklerde Level 2 D3O koruyucular standart."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, D3O sırt ve göğüs koruyucuları için cep var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Furygan mont tablosuna göre L beden 100–106 cm, XL beden 107–113 cm göğüs çevresine karşılık geliyor; mont S–4XL arasında sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.furygan.com/produit/montroc-kevlar-primaloft-3in1/?lang=en",
+    "sources": [
+      {
+        "url": "https://www.furygan.com/produit/montroc-kevlar-primaloft-3in1/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – Montroc Kevlar Primaloft 3in1+ ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.furygan.com/fury-care-center/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – resmi beden rehberi (Jackets)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / İnci / Antrasit / Neon sarı",
+      "Siyah / İnci / Kırmızı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 92
+      },
+      {
+        "size": "M",
+        "min": 93,
+        "max": 99
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XL",
+        "min": 107,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 120
+      },
+      {
+        "size": "3XL",
+        "min": 121,
+        "max": 124
+      },
+      {
+        "size": "4XL",
+        "min": 125,
+        "max": 127
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Yüksek mukavemetli polyester (600D+), ripstop, Kevlar elyaflı takviyeler, file paneller, bi-stretch paneller, In&Out Humax su geçirmez astar, PrimaLoft Black termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Humax (In&Out, çıkarılabilir, 10k/15k)",
+      "airbagCompatible": null,
+      "ventilation": "AFS Max ayarlanabilir havalandırma, file paneller, Summer Flap 3D file ön panel",
+      "closure": "Modüler ön kapama (Summer Flap), DW-Fit bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "offers": [],
+    "priceRange": null,
+    "buyerInsights": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "dataConfidence": "high",
+    "slug": "raptor-evo-3",
+    "brand": "furygan",
+    "name": "Raptor Evo 3",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "summary": "Sığır derisi ve 3D file yapılı, yarış esintili sport kesimli, EN 17092-2:2020 AAA sınıfı, D3O omuz/dirsek koruyuculu ve dış kapaklı Furygan deri mont.",
+    "description": [
+      "Raptor Evo 3, Furygan'ın uzun süredir satılan Raptor sport deri mont serisinin son nesli. Kalıp önceki versiyonlara göre daha yarış odaklı; omuz ve dirseklerde genişleme körükleri ve bi-stretch paneller sürüş pozisyonunda hareket serbestliği sağlıyor. Malzeme sığır derisi ve 3D file; AFS havalandırma sistemi sıcak havada hava akışı yaratıyor. İçte sabit nefes alan astar ve göğüste alüminyum katmanlı, ince ama sıcak tutan çıkarılabilir termal astar var.",
+      "Üretici montu EN 17092-2:2020 AAA sınıfında sertifikalandırıyor; bu, yol montları için en yüksek sınıf. Omuz ve dirseklerde D3O koruyucular ve dış koruma kapakları standart, sırt ve göğüs için D3O koruyucu cepleri var. Bel ayar tırnakları, neopren yaka ve kol ağzı, 2 dış ve 2 iç cep ile tüm Furygan tekstil ve deri pantolonlarla uyumlu bağlantı fermuarı bulunuyor. Furygan, her montun Nîmes'teki fabrikasında kesilip kontrol edildiğini belirtiyor."
+    ],
+    "forWho": [
+      "Sport veya naked motosikletle hızlı yol sürüşü yapan ve en yüksek sertifikayı isteyenler",
+      "Deri pantolonla takım kurmak isteyen sport sürücüler",
+      "Serin günlerde de kullanmak için termal astarlı bir deri mont arayanlar"
+    ],
+    "notFor": [
+      "Dik oturuşlu touring motosiklet kullananlar",
+      "Kurye olarak gün boyu kullanım: deri sport kalıp ve ağırlık uygun değil",
+      "Yağmurda da tek mont isteyenler: su geçirmezlik iddiası yok"
+    ],
+    "pros": [
+      "EN 17092-2:2020 AAA sınıfı",
+      "D3O omuz ve dirsek koruyucuları ile dış kapaklar",
+      "Alüminyum katmanlı çıkarılabilir termal astar",
+      "Tüm Furygan pantolonlarla bağlantı fermuarı",
+      "5 renk seçeneği"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Koruyucu seviyesi ürün sayfasında belirtilmemiş",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde giyilebilir; sport kalıp dik oturuşta zorlayabilir.",
+      "uzunYol": "Sport motosikletle hızlı etaplarda iyi oturur; az cep ve yağmur koruması uzun turda kısıt.",
+      "yaz": "AFS havalandırma ve 3D file yardım ediyor; yine de deri mont olduğu için trafikte ısınır.",
+      "kis": "Çıkarılabilir termal astarla serin havada kullanılabilir; gerçek kış montu değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Güçlü olduğu alan; AAA sınıfı, yarış kalıbı ve pantolon bağlantısı sport sürüş için tasarlanmış.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Raptor Evo 3, AAA sertifikası ve yarış esintili kalıbıyla sport sürüş için güçlü bir deri mont. Termal astarı sayesinde mevsim aralığı benzerlerinden geniş; sırt koruyucunun ayrıca alınması ve su korumasının olmaması hesaba katılmalı.",
+    "rivals": [
+      "spidi/hyper-v-pro-perforated",
+      "ixs/ace-1-0",
+      "alpinestars/gp-plus-r-v4-airflow"
+    ],
+    "faq": [
+      {
+        "q": "Raptor Evo 3 hangi sınıfta?",
+        "a": "Üretici montu EN 17092-2:2020 AAA sınıfında sertifikalandırıyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. D3O sırt ve göğüs koruyucuları için cep var; koruyucular ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Furygan mont tablosuna göre M beden 93–99 cm, L beden 100–106 cm göğüs çevresine karşılık geliyor; mont S–3XL arasında sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.furygan.com/produit/raptor-evo-3/?lang=en",
+    "sources": [
+      {
+        "url": "https://www.furygan.com/produit/raptor-evo-3/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – Raptor Evo 3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.furygan.com/fury-care-center/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – resmi beden rehberi (Jackets)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.protectors.level",
+      "specs.protectors.standard",
+      "specs.waterproof",
+      "specs.season"
+    ],
+    "colors": [
+      "Siyah / Kırmızı",
+      "Siyah / Beyaz",
+      "Siyah / Neon sarı",
+      "Siyah / Kırmızı / Kırmızı",
+      "Siyah / Beyaz / Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 92
+      },
+      {
+        "size": "M",
+        "min": 93,
+        "max": 99
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 106
+      },
+      {
+        "size": "XL",
+        "min": 107,
+        "max": 113
+      },
+      {
+        "size": "2XL",
+        "min": 114,
+        "max": 120
+      },
+      {
+        "size": "3XL",
+        "min": 121,
+        "max": 124
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Sığır derisi ve 3D file, bi-stretch paneller, sabit nefes alan astar, alüminyum katmanlı çıkarılabilir termal astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-2:2020",
+      "ceClass": "AAA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "AFS havalandırma sistemi",
+      "closure": "Ön fermuar, bel ayar tırnakları, neopren yaka ve kol ağzı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  }
+]
