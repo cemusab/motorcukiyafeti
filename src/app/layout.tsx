@@ -178,7 +178,7 @@ export default function RootLayout({
                   </p>
                 </div>
                 <div>
-                  <h4 className="text-gray-400 font-bold mb-3 uppercase tracking-wider">Hizmet Bölgelerimiz (SEO GEO)</h4>
+                  <h4 className="text-gray-400 font-bold mb-3 uppercase tracking-wider">Hizmet Bölgelerimiz</h4>
                   <p className="leading-relaxed">
                     İstanbul motosiklet ekipman mağazaları, Kadıköy Hasanpaşa motor mağazaları, Şirinevler motosiklet aksesuar, Ankara motosiklet ekipman mağazası, İzmir motosiklet mağazaları, Antalya motorcu kıyafeti, Bursa motosiklet giyim, tüm Türkiye'ye online motosiklet rehberi.
                   </p>
