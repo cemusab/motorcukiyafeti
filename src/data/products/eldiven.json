@@ -9,8 +9,27 @@
       "held/ice-queen-2",
       "held/sambia-ktc-2"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-sp-8-v3-korumali-motosiklet-eldiveni-siyah-/-beyaz",
+        "price": 10160,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 10160,
+      "max": 10160,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
     "lastCheckedAt": "2026-10-06",
     "colors": [
       "Black Black"
@@ -30,8 +49,7 @@
       "specs.season",
       "specs.waterproof",
       "specs.madeIn",
-      "sizeChart",
-      "priceRange"
+      "sizeChart"
     ],
     "slug": "sp-8-v3",
     "brand": "alpinestars",
@@ -89,6 +107,12 @@
         "url": "https://www.alpinestars.com/products/sp-8-v3",
         "type": "manufacturer",
         "label": "Alpinestars – SP-8 v3 Gloves ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-sp-8-v3-korumali-motosiklet-eldiveni-siyah-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars SP-8 v3 Siyah/Beyaz",
         "checkedAt": "2026-10-06"
       }
     ],

@@ -193,8 +193,37 @@
       "sena/60s",
       "sena/srl3"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 17958,
+      "max": 18848,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Tekli paket."
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/cardo-freecom-4x-bluetooth-ve-intercom-tekli-paket-_56612.html",
+        "price": 18848,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/cardo-freecom-4x-jbl-intercom-tekli-paket",
+        "price": 17958,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "faq": [
       {
         "q": "Freecom 4x ile Packtalk Edge arasındaki temel fark ne?",
@@ -216,6 +245,18 @@
         "type": "manufacturer",
         "label": "Cardo Systems – Freecom 4x ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/cardo-freecom-4x-bluetooth-ve-intercom-tekli-paket-_56612.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Cardo Freecom 4X tekli paket",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/cardo-freecom-4x-jbl-intercom-tekli-paket",
+        "type": "retailer",
+        "label": "Motodium – Cardo Freecom 4X tekli paket",
+        "checkedAt": "2026-10-06"
       }
     ],
     "lastCheckedAt": "2026-10-06",
@@ -223,8 +264,7 @@
     "unverified": [
       "specs.usbC",
       "specs.siri",
-      "specs.googleAssistant",
-      "priceRange"
+      "specs.googleAssistant"
     ],
     "colors": [],
     "sizes": [],

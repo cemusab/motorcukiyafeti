@@ -3,8 +3,51 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 39000,
+      "max": 39849,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/shoei-neotec-3-ceneden-acilir-kask-mat-mavi-_58069.html",
+        "price": 39849,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-neotec-3-cene-acilir-kask-mavi",
+        "price": 39000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mat Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/shoei-neotec-3-cene-acilir-motosiklet-kaski",
+        "price": 39849,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": null,
     "slug": "neotec-3",
@@ -88,6 +131,24 @@
         "type": "homologation",
         "label": "SHARP Neotec 3 test sonucu",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/shoei-neotec-3-ceneden-acilir-kask-mat-mavi-_58069.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Shoei Neotec 3 Mat Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-neotec-3-cene-acilir-kask-mavi",
+        "type": "retailer",
+        "label": "Motodium – Shoei Neotec 3 Mat Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/shoei-neotec-3-cene-acilir-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – Shoei Neotec 3",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -96,7 +157,6 @@
       "specs.emergencyCheekPads",
       "specs.madeIn",
       "specs.headShape",
-      "priceRange",
       "sizeChart"
     ],
     "colors": [
@@ -158,8 +218,51 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 36157,
+      "max": 44157,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-gt-air-3-kapali-kask-mat-siyah",
+        "price": 36157,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/shoei-gt-air-3-kapali-motosiklet-kaski",
+        "price": 37157,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/shoei-gt-air-3-mike-tc-6-kapali-kask_59941.html",
+        "price": 44157,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mike TC-6"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": null,
     "slug": "gt-air-3",
@@ -243,6 +346,24 @@
         "type": "homologation",
         "label": "SHARP GT-Air 3 test sonucu",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-gt-air-3-kapali-kask-mat-siyah",
+        "type": "retailer",
+        "label": "Motodium – Shoei GT-Air 3 Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/shoei-gt-air-3-kapali-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – Shoei GT-Air 3",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/shoei-gt-air-3-mike-tc-6-kapali-kask_59941.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Shoei GT-Air 3 Mike TC-6",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -250,7 +371,6 @@
       "specs.weightSize",
       "specs.madeIn",
       "specs.headShape",
-      "priceRange",
       "sizeChart"
     ],
     "colors": [
@@ -311,8 +431,40 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 39200,
+      "max": 41470.33,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/schuberth-c5-cene-acilir-kask-gri",
+        "price": 39200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/schuberth-c5-ceneden-acilir-kask-parlak-siyah-_59187.html",
+        "price": 41470.33,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Parlak Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": null,
     "slug": "c5",
@@ -401,6 +553,18 @@
         "type": "homologation",
         "label": "SHARP C5 test sonucu",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/schuberth-c5-cene-acilir-kask-gri",
+        "type": "retailer",
+        "label": "Motodium – Schuberth C5 Gri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/schuberth-c5-ceneden-acilir-kask-parlak-siyah-_59187.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Schuberth C5 Parlak Siyah",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -412,7 +576,6 @@
       "specs.emergencyCheekPads",
       "specs.madeIn",
       "specs.headShape",
-      "priceRange",
       "sizeChart"
     ],
     "colors": [
@@ -472,8 +635,53 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 29700,
+      "max": 37593.6,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-rpha91-kask-nardo-gri-6",
+        "price": 29700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Nardo Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-91-kask-beyaz",
+        "price": 32065.13,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha91-kask-carbon-solid-kask",
+        "price": 37593.6,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mat Karbon"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": "Kafa çevresi (cm)",
     "slug": "rpha-91",
@@ -567,6 +775,24 @@
         "type": "homologation",
         "label": "SHARP RPHA 91 test sonucu",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-rpha91-kask-nardo-gri-6",
+        "type": "retailer",
+        "label": "Ars Motor – HJC RPHA 91 Nardo Gri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-91-kask-beyaz",
+        "type": "retailer",
+        "label": "Motodium – HJC RPHA 91 Beyaz",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha91-kask-carbon-solid-kask",
+        "type": "retailer",
+        "label": "Motodium – HJC RPHA 91 Mat Karbon",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "medium",
@@ -576,8 +802,7 @@
       "specs.breathGuard",
       "specs.emergencyCheekPads",
       "specs.madeIn",
-      "specs.headShape",
-      "priceRange"
+      "specs.headShape"
     ],
     "colors": [
       "Pearl White",
@@ -666,8 +891,40 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 12420,
+      "max": 14310,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-i71-kask-metal-siyah-2",
+        "price": 12420,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Metal Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/hjc-i71-sera-mc2-kapali-kask",
+        "price": 14310,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Sera MC2"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": "Kafa çevresi (cm)",
     "slug": "i71",
@@ -763,6 +1020,18 @@
         "type": "review",
         "label": "Visordown i71 tanıtım haberi (kabuk sayısı, renkler)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-i71-kask-metal-siyah-2",
+        "type": "retailer",
+        "label": "Ars Motor – HJC i71 Metal Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/hjc-i71-sera-mc2-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – HJC i71 Sera MC2",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "medium",
@@ -777,8 +1046,7 @@
       "specs.emergencyCheekPads",
       "specs.madeIn",
       "specs.headShape",
-      "colors",
-      "priceRange"
+      "colors"
     ],
     "colors": [
       "Pearl White",
@@ -863,8 +1131,40 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 28990,
+      "max": 28990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/agv-k6s-mplk-kapali-kask-mat-siyah-_57716.html",
+        "price": 28990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/agv-kaskk6-s-mplk-mono-mono-matt-black-27997",
+        "price": 28990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mono Matt Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": "Kafa çevresi (cm)",
     "slug": "k6-s",
@@ -953,12 +1253,23 @@
         "type": "homologation",
         "label": "SHARP K6-S test sonucu",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/agv-k6s-mplk-kapali-kask-mat-siyah-_57716.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – AGV K6 S Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/agv-kaskk6-s-mplk-mono-mono-matt-black-27997",
+        "type": "retailer",
+        "label": "Mototaş – AGV K6 S Mono Matt Black",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.headShape"
     ],
     "colors": [
@@ -1047,8 +1358,40 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 89690,
+      "max": 92890,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/agv-kaskpista-gp-rr-mplk-mono-iridium-carbon-l-28284",
+        "price": 89690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mono Iridium Carbon"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/agv-kaskpista-gp-rr-mplk-carbonblkred-m-28650",
+        "price": 92890,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Carbon Black/Red"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": "Kafa çevresi (cm)",
     "slug": "pista-gp-rr",
@@ -1130,14 +1473,25 @@
         "type": "manufacturer",
         "label": "AGV Pista GP RR Mono White ürün sayfası (teknik özellikler, beden tablosu)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/agv-kaskpista-gp-rr-mplk-mono-iridium-carbon-l-28284",
+        "type": "retailer",
+        "label": "Mototaş – AGV Pista GP RR Mono Iridium Carbon",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/agv-kaskpista-gp-rr-mplk-carbonblkred-m-28650",
+        "type": "retailer",
+        "label": "Mototaş – AGV Pista GP RR Carbon Black/Red",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
     "unverified": [
       "specs.intercomReady",
       "specs.madeIn",
-      "specs.headShape",
-      "priceRange"
+      "specs.headShape"
     ],
     "colors": [
       "Mono White",
@@ -1224,8 +1578,40 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 62490,
+      "max": 69990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-rx7-v-evo-black-kapali-kask",
+        "price": 62490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Black"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/arai-kaskrx7-v-evo_ogura_28501",
+        "price": 69990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Ogura"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": null,
     "slug": "rx-7v-evo",
@@ -1308,6 +1694,18 @@
         "type": "distributor",
         "label": "Arai İngiltere distribütörü RX-7V Evo sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-rx7-v-evo-black-kapali-kask",
+        "type": "retailer",
+        "label": "Mototaş – Arai RX-7V Evo Black",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/arai-kaskrx7-v-evo_ogura_28501",
+        "type": "retailer",
+        "label": "Mototaş – Arai RX-7V Evo Ogura",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "medium",
@@ -1318,7 +1716,6 @@
       "specs.fim",
       "specs.intercomReady",
       "specs.headShape",
-      "priceRange",
       "sizeChart"
     ],
     "colors": [
@@ -1570,8 +1967,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 7499,
+      "max": 7499,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-storm-2-kapali-kask-mat-siyah-_57882.html",
+        "price": 7499,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/ls2-storm-2-full-face-motosiklet-kaski",
+        "price": 7499,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
     "lastCheckedAt": "2026-10-06",
     "sizeChartMeasure": "Kafa çevresi (cm)",
     "slug": "ff800-storm-ii",
@@ -1647,6 +2074,18 @@
         "type": "manufacturer",
         "label": "LS2 Storm II ürün sayfası (teknik özellikler, beden tablosu)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-storm-2-kapali-kask-mat-siyah-_57882.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 Storm II Mat Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/ls2-storm-2-full-face-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – LS2 Storm II",
+        "checkedAt": "2026-10-06"
       }
     ],
     "dataConfidence": "high",
@@ -1658,8 +2097,7 @@
       "specs.madeIn",
       "specs.headShape",
       "specs.warrantyYears",
-      "colors",
-      "priceRange"
+      "colors"
     ],
     "colors": [
       "Jeans",

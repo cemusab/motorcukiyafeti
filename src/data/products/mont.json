@@ -781,8 +781,27 @@
       "held/sonic-2-lady",
       "revit/sand-5-h2o-ladies"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketdenim-tex-jacket-blue-46-28239",
+        "price": 19690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Blue"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 19690,
+      "max": 19690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
     "lastCheckedAt": "2026-10-06",
     "colors": [
       "Blue"
@@ -810,8 +829,7 @@
       "specs.ventilation",
       "specs.madeIn",
       "specs.airbagCompatible",
-      "sizeChart",
-      "priceRange"
+      "sizeChart"
     ],
     "slug": "denim-tex",
     "brand": "dainese",
@@ -871,6 +889,12 @@
         "url": "https://www.dainese.com/us/en/denim-tex---mens-motorcycle-jacket-in-fabric-201735264008.html",
         "type": "manufacturer",
         "label": "Dainese – Denim Tex Men's Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketdenim-tex-jacket-blue-46-28239",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Denim Tex Blue",
         "checkedAt": "2026-10-06"
       }
     ],
