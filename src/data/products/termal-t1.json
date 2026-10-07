@@ -1,0 +1,298 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "slug": "clip-in-thermo-top",
+    "brand": "held",
+    "name": "Clip-in Thermo Top",
+    "category": "termal",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "3M Thinsulate astarlı, su ve rüzgâr itici softshell dış kumaşlı, kask altı kapüşonlu termal ara katman ceketi; Held Clip-in montlara fermuarla bağlanabiliyor ya da tek başına giyilebiliyor.",
+    "description": [
+      "Clip-in Thermo Top, Held'in Clip-in sistemli montlarının altına takılan ya da ayrı giyilebilen termal ara katman. Dış yüzey su ve rüzgâr itici, nefes alan ve esneyen softshell kumaştan; içte 3M Thinsulate yalıtım astarı var. Yanlarda, kollarda ve sırtta streç softshell paneller hareket serbestliği sağlıyor; yakası yumuşak ve kaskın altına giyilebilen entegre bir kapüşonu var.",
+      "Üç dış ve bir iç cep bulunuyor; bağlantı fermuarıyla Held Clip-in uyumlu montlara takılabiliyor. Bu bir koruyucu giysi değil, CE sertifikası ve koruyucu içermiyor; mont altında sıcaklık katmanı olarak düşünülmeli. Unisex kesim S–5XL erkek, ayrıca kadın bedenleri var. Türkiye'de Motomax'ta 'Held Clip-in Thermo' adıyla satılıyor."
+    ],
+    "forWho": [
+      "Dört mevsim montunu kışa hazırlamak isteyenler",
+      "Held Clip-in sistemli mont kullananlar",
+      "Mola verdiğinde de giyilebilecek sıcak bir ara katman arayanlar"
+    ],
+    "notFor": [
+      "Tek başına motosiklet montu olarak kullanmak isteyenler: koruma ve sertifika yok",
+      "Kurye için sınırlı bütçeyle ısınmak isteyenler: fiyatı bir termal içliğin çok üstünde"
+    ],
+    "pros": [
+      "3M Thinsulate yalıtım",
+      "Su ve rüzgâr itici softshell dış kumaş",
+      "Kask altına giyilebilen kapüşon",
+      "Held Clip-in montlara bağlanabiliyor, ayrı da giyilebiliyor"
+    ],
+    "cons": [
+      "Koruma ve CE sertifikası yok",
+      "Termal ara katman için pahalı",
+      "Clip-in avantajı yalnız Held montlarla"
+    ],
+    "usage": {
+      "sehir": "Mont altında soğuk sabahlar için iyi bir katman; motordan inince tek başına da giyilir.",
+      "uzunYol": "Kış turlarında ara katman olarak çok kullanışlı.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "Su itici ama su geçirmez değil; dış katman olarak yağmurda kullanılmamalı.",
+      "kurye": "Mont altında işe yarar ama fiyatı yüksek; kurye için daha ucuz termal içlikler bütçeye daha uygun."
+    },
+    "verdict": "Clip-in Thermo Top, dört mevsim montu kış montuna çevirmek ya da Held Clip-in sistemini tamamlamak isteyen sürücü için iyi düşünülmüş bir termal ara katman. Koruma içermediği ve fiyatı yüksek olduğu için bir mont yerine değil, montun altına alınacak bir yatırım olarak görülmeli.",
+    "rivals": [
+      "alpinestars/ride-tech-top-long-sleeve-winter",
+      "klim/aggressor-shirt-efire",
+      "odlo/active-warm-base-layer-top"
+    ],
+    "priceRange": {
+      "min": 11650,
+      "max": 11650,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-clip-in-thermo-ceket-11082",
+        "price": 11650,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Held dışındaki montlarla kullanılabilir mi?",
+        "a": "Fermuarla bağlanma yalnız Held Clip-in uyumlu montlarda çalışır; diğer montların altında normal bir termal ceket gibi giyilebilir."
+      },
+      {
+        "q": "Koruyucu içeriyor mu?",
+        "a": "Hayır. Termal ara katman; koruma montun kendisinden gelmeli."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Clip-in-Thermo-Top-Jacket/009755-00-001-0-5-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Clip-in-Thermo-Top-Jacket/009755-00-001-0-5-XL",
+        "type": "manufacturer",
+        "label": "Held – Clip-in Thermo Top Jacket ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-clip-in-thermo-ceket-11082",
+        "type": "retailer",
+        "label": "Motomax – Held Clip-in Thermo ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Dış: %92 polyester %8 elastan ve %84 poliamid %16 elastan softshell; dolgu: %69 polipropilen %31 polyester (3M Thinsulate); astar: polyester",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bağlantı fermuarı (Held Clip-in), entegre kapüşon",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "active-warm-base-layer-top",
+    "brand": "odlo",
+    "name": "Active Warm Base Layer Top",
+    "category": "termal",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "Geri dönüştürülmüş polyesterden, vücuda oturan, nem atan ve hızlı kuruyan uzun kollu termal üst içlik; koku önleyici HeiQ Mint işlemli, Odlo'nun Romanya'daki fabrikasında üretiliyor.",
+    "description": [
+      "Active Warm, Odlo'nun yıllardır sattığı en bilinen termal içlik serisi. Üst içlik %100 geri dönüştürülmüş polyesterden, vücuda tam oturan (next-to-skin) kesimle ve bisiklet yaka olarak üretiliyor. Kumaş ısıyı tutarken nemi dışarı atıyor ve hızlı kuruyor; bu, motosiklette uzun süre hareketsiz oturup sonra mola verdiğinde terle üşümeyi azaltıyor. Koku oluşumunu azaltan HeiQ Mint işlemi var.",
+      "Motosiklete özel bir ürün değil; kayak ve kış sporları için tasarlanmış. Ancak ince ve esnek olduğu için mont altında ilk katman olarak motorcular arasında yaygın. Pamuklu içliğin aksine terle ıslanıp soğumuyor. Türkiye'de Motomax'ın outlet (GARAJJ) bölümünde siyah renkte satılıyor; outlet ürünlerinde beden ve stok sınırlı olabiliyor."
+    ],
+    "forWho": [
+      "Kışın montun altına ince ama sıcak bir ilk katman isteyenler",
+      "Gün boyu motorda kalan, terleyip üşüyen kuryeler",
+      "Uygun fiyatlı termal içlik arayanlar"
+    ],
+    "notFor": [
+      "Rüzgâr kesici veya koruyucu bir giysi arayanlar",
+      "Bol kesim içlik sevenler: vücuda tam oturur"
+    ],
+    "pros": [
+      "Nem atan, hızlı kuruyan geri dönüştürülmüş polyester",
+      "Vücuda oturan, mont altında hacim yapmayan kesim",
+      "Koku önleyici HeiQ Mint işlemi",
+      "Fiyatı motosiklete özel termal içliklerin altında"
+    ],
+    "cons": [
+      "Motosiklete özel değil; uzun bel ve kol gibi sürüş pozisyonuna özel kesim yok",
+      "Türkiye'de outlet bölümünde satıldığı için beden ve stok sınırlı olabilir",
+      "Merino kadar koku ve sıcaklık dengesi sunmaz"
+    ],
+    "usage": {
+      "sehir": "Mont altında ilk katman olarak çok uygun.",
+      "uzunYol": "Kış turlarında ilk katman; yedek bir tane taşımak kolay.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "Su geçirmez değil; içlik olarak kullanılır.",
+      "kurye": "Ucuz, hızlı kuruyan ve hafif olduğu için gün boyu çalışan kurye için iyi bir ilk katman."
+    },
+    "verdict": "Odlo Active Warm, motosiklete özel olmasa da mont altında ilk katman olarak işini iyi yapan, uygun fiyatlı bir termal içlik. Nem atma ve hızlı kurumasıyla pamuklu içliklerden belirgin şekilde daha iyi; motosiklete özel uzun kesim arayanlar marka içliklerine bakmalı.",
+    "rivals": [
+      "revit/thermic-shirt",
+      "alpinestars/ride-tech-top-long-sleeve-winter",
+      "held/clip-in-thermo-top"
+    ],
+    "priceRange": {
+      "min": 1230,
+      "max": 1230,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Motomax outlet (GARAJJ) fiyatı, siyah renk."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/odlo-active-warm-termal-ust-iclik-siyah",
+        "price": 1230,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Motosiklette termal içlik neden pamuklu olmamalı?",
+        "a": "Pamuk teri emip tutar ve ıslandığında soğuk yapar. Active Warm gibi sentetik içlikler nemi dışarı atıp hızlı kurur, mola verince üşümeyi azaltır."
+      },
+      {
+        "q": "Nasıl bir kesimi var?",
+        "a": "Odlo kesimi vücuda tam oturan (next-to-skin) olarak tanımlıyor; mont altında hacim yapmaz."
+      }
+    ],
+    "manufacturerUrl": "https://www.odlo.com/eu-en/p/active-warm-base-layer-top-159102.html",
+    "sources": [
+      {
+        "url": "https://www.odlo.com/eu-en/p/active-warm-base-layer-top-159102.html",
+        "type": "manufacturer",
+        "label": "Odlo – Active Warm Base Layer Top (159102) ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/odlo-active-warm-termal-ust-iclik-siyah",
+        "type": "retailer",
+        "label": "Motomax – Odlo Active Warm Termal Üst İçlik ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "%100 geri dönüştürülmüş polyester, HeiQ Mint koku önleyici işlem",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bisiklet yaka, kapamasız",
+      "madeIn": "Romanya"
+    }
+  }
+]

@@ -60,7 +60,8 @@ Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur y
 5. Bu dosyaya tur kaydı ekle; kullanıcıya kısa rapor ver.
 
 **Tur kayıtları / plan:**
-- [ ] Tur 1 (+ blog: reflektörlü yelek ve görünürlük standartları; kışın motosiklet sürüşü): YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
+- [x] Tur 1 (+ blog: reflektörlü yelek ve görünürlük standartları; kışın motosiklet sürüşü): YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
+  - 7 Eki 2026 tamamlandı: 25 ürün (12 görünürlük yeleği koruma-t1: Tex Motor Forte GT ×5, Rev'it, Oxford ×2, Richa ×3, Bering; 13 kışlık: Scudo Alaska, Tex Motor Forte GT mont ×4 ve yağmurluk ×2, Scudo/Knox/Dainese ×2 eldiven, Held ve Odlo termal) + 2 blog (reflektorlu-yelek-ve-gorunurluk-standartlari, kisin-motosiklet-surusu). 16 ürün TR fiyatlı. Atlananlar: Halvarssons (site kapalı), Yaren YRN-6035/6037 (fiyat yok). Açık not: Yaren kışlık ürünleri fiyat çıkınca; EN 17353 model bazında teyit edilecek (Tex Motor).
 - [ ] Tur 2 (+ blog: kurye ekipmanı yıllık maliyet; yerli üretici profili): Kurye ürünleri (yerli kurye mont/pantolon/yağmurluk, kurye çantası, telefon tutucu) + eksik TR fiyatları
 - [ ] Tur 3 (+ blog: bütçeyle tam ekipman seti; ehliyet sınıfları ve ekipman): Search Console verisine göre aranan markalar/modeller
 - [ ] Sonra: haftada ~2 tur ritmi

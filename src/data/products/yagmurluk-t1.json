@@ -1,0 +1,256 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "forte-gt-2001150",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001150 PU Yağmurluk Takım",
+    "category": "yagmurluk",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Poliamid ve poliüretan (PU) malzemeden, dikişsiz frekans baskı teknolojisiyle üretilen hafif iki parça yağmurluk takımı; reflektif hatlı, lastikli ve ipli bilekli, L bedende yaklaşık 650 g.",
+    "description": [
+      "Forte GT 2001150, Tex Motor'un poliamid ve poliüretan (PU) kaplamalı kumaştan ürettiği ceket ve pantolondan oluşan yağmurluk takımı. Dikişler iğneyle değil frekans (yüksek frekans kaynak) baskıyla birleştiriliyor; bu yöntem dikiş deliklerinden su girişini önlemeye yönelik. Üretici L beden için alt-üst toplam ağırlığı yaklaşık 650 g olarak veriyor; aynı markanın PVC takımının yaklaşık yarısı, bu yüzden katlanıp çantada taşınması daha kolay.",
+      "Reflektif hatlar ışık geldiğinde görünürlüğü artırıyor; bilekler lastikli ve ipli. Siyah ve taş (gri) renk seçenekleri var. Tex Motor su sütunu veya nefes alma değeri vermiyor ve ürünü 'suya ve rüzgâra dayanıklı' olarak tanımlıyor. Koruyucu bir giysi değil; mont ve pantolonun üstüne giyilmek üzere."
+    ],
+    "forWho": [
+      "Montunun üstüne hafif, katlanınca az yer kaplayan bir yağmurluk isteyenler",
+      "Yağmurlu günlerde çalışan kuryeler",
+      "Çantada sürekli yağmurluk taşıyan şehir sürücüleri"
+    ],
+    "notFor": [
+      "Su sütunu değeri belli, membranlı teknik yağmurluk arayanlar",
+      "Yoğun yağmurda saatlerce otoban sürüşü yapacaklar: PVC veya membranlı modeller daha dayanıklı olabilir"
+    ],
+    "pros": [
+      "Yaklaşık 650 g, hafif ve katlanabilir",
+      "Dikişsiz frekans baskı birleştirme",
+      "Reflektif hatlar",
+      "İki renk seçeneği"
+    ],
+    "cons": [
+      "Su sütunu ve nefes alma değeri verilmemiş",
+      "Paça ve ayak bileği detayı belirtilmemiş",
+      "Sitede online satış yok; bayilerde fiyat değişebilir"
+    ],
+    "usage": {
+      "sehir": "Çantada taşıyıp yağmur başlayınca giymek için uygun.",
+      "uzunYol": "Hafifliği sayesinde yedek olarak taşınabilir.",
+      "yaz": "Yaz sağanakları için kullanılabilir; nefes alma değeri belirtilmediği için sıcakta terletebilir.",
+      "kis": "Kış montunun üstüne rüzgâr ve yağmur katmanı olarak.",
+      "yagmur": "Asıl kullanım alanı.",
+      "kurye": "Hafif ve katlanabilir olduğu için kuryenin çantasında sürekli durabilecek bir takım."
+    },
+    "verdict": "Forte GT 2001150, hafif ve kolay taşınan bir yağmurluk takımı isteyen şehir sürücüsü ve kurye için mantıklı: dikişsiz birleştirme ve reflektif hatlar var. Su sütunu değeri verilmediği için uzun süreli sağanakta dayanımı garanti edilemiyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001160",
+      "tex-motor/forte-gt-2001140",
+      "yaren-tekstil/yrn-2789"
+    ],
+    "priceRange": {
+      "min": 4640,
+      "max": 4640,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001150-siyah-yagmurluk/",
+        "price": 4640,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001150-tas-yagmurluk/",
+        "price": 4640,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Taş"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "PU ile PVC yağmurluk arasındaki fark ne?",
+        "a": "PU kaplamalı kumaş daha hafif ve esnek; PVC daha ağır ama genelde daha kalın ve sert. Forte GT'de PU takım yaklaşık 650 g, PVC takım yaklaşık 1280 g (L beden)."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Tex Motor suya ve rüzgâra dayanıklı olarak tanımlıyor ve dikişsiz frekans baskı kullanıyor; su sütunu değeri vermiyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001150-siyah-yagmurluk/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001150-siyah-yagmurluk/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001150 PU Yağmurluk Takım (siyah) ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Taş"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Poliamid ve poliüretan (PU); alt-üst yaklaşık 650 ± 50 g (L beden)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Lastikli ve ipli bilekler",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "forte-gt-2001160",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001160 PVC Yağmurluk Takım",
+    "category": "yagmurluk",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Dayanıklı PVC malzemeden, dikişsiz frekans baskıyla üretilen uygun fiyatlı iki parça yağmurluk takımı; reflektif hatlı, lastikli ve ipli bilekli, L bedende yaklaşık 1280 g.",
+    "description": [
+      "Forte GT 2001160, Tex Motor'un PVC'den ürettiği ceket ve pantolon yağmurluk takımı. PVC, kumaş tabanlı PU yağmurluklara göre daha kalın ve ağır; üretici L beden alt-üst ağırlığı yaklaşık 1280 g olarak veriyor. Dikişler frekans baskı ile birleştirilmiş, böylece iğne deliğinden su girişi önleniyor.",
+      "Reflektif hatlar görünürlüğü destekliyor, bilekler lastikli ve ipli. Siyah-taş renk kombinasyonunda satılıyor. Tex Motor su sütunu veya nefes alma değeri vermiyor; PVC nefes almadığı için uzun kullanımda içeride terleme olur. Fiyatı aynı markanın PU takımının yaklaşık yarısı."
+    ],
+    "forWho": [
+      "En düşük bütçeyle sağlam bir yağmurluk takımı arayanlar",
+      "Yağmurlukları sık yıpranan ve sık değiştiren kuryeler",
+      "Kısa ama yoğun yağmurlu şehir içi sürüşler"
+    ],
+    "notFor": [
+      "Yağmurluğu çantada taşımak isteyenler: PU takımın iki katı ağırlıkta",
+      "Uzun süre giyecekler: PVC nefes almaz, terletir"
+    ],
+    "pros": [
+      "Uygun fiyat",
+      "Dayanıklı PVC malzeme",
+      "Dikişsiz frekans baskı birleştirme",
+      "Reflektif hatlar"
+    ],
+    "cons": [
+      "Yaklaşık 1280 g, hantal",
+      "Nefes almaz",
+      "Su sütunu değeri verilmemiş"
+    ],
+    "usage": {
+      "sehir": "Kısa, yoğun yağmurlu şehir içi sürüşler için uygun.",
+      "uzunYol": "Uzun yolda ağırlığı ve nefes almaması dezavantaj.",
+      "yaz": "Sıcakta çok terletir.",
+      "kis": "Kış montunun üstüne rüzgâr ve yağmur katmanı olarak iş görür.",
+      "yagmur": "Asıl kullanım alanı.",
+      "kurye": "Ucuz ve dayanıklı olduğu için kurye için mantıklı; terleme ve ağırlık bilinçli kabul edilmeli."
+    },
+    "verdict": "Forte GT 2001160, düşük fiyatlı ve sağlam bir yağmurluk isteyen kurye ve şehir sürücüsü için yeterli bir PVC takım. Ağır ve nefes almadığı için uzun yolda ve çantada taşımada PU takım daha iyi bir seçim.",
+    "rivals": [
+      "tex-motor/forte-gt-2001150",
+      "yaren-tekstil/yrn-2789",
+      "scudo/peru"
+    ],
+    "priceRange": {
+      "min": 2560,
+      "max": 2560,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001160-pvc-yagmurluk-takim-siyah-tas/",
+        "price": 2560,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah/Taş"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "PVC yağmurluk terletir mi?",
+        "a": "Evet. PVC nefes almayan bir malzeme; uzun süre giyildiğinde içeride nem birikir. Kısa ve yoğun yağmur için uygundur."
+      },
+      {
+        "q": "Ne kadar ağır?",
+        "a": "Tex Motor L beden alt-üst ağırlığını 1280 ± 50 g olarak veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001160-pvc-yagmurluk-takim-siyah-tas/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001160-pvc-yagmurluk-takim-siyah-tas/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001160 PVC Yağmurluk Takım ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah/Taş"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "PVC; alt-üst yaklaşık 1280 ± 50 g (L beden)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Lastikli ve ipli bilekler",
+      "madeIn": null
+    }
+  }
+]

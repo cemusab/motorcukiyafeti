@@ -1,0 +1,38 @@
+[
+  {
+    "product": "tex-motor/forte-gt-2001150",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/01/1-1150-scaled.jpg",
+        "alt": "Forte GT 2001150 PU yağmurluk takımı, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001150-siyah-yagmurluk/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/01/2-1150-scaled.jpg",
+        "alt": "Forte GT 2001150 PU yağmurluk takımı, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001150-siyah-yagmurluk/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-2001160",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/09/1-2001160-SIYAH-TAS-scaled.jpg",
+        "alt": "Forte GT 2001160 PVC yağmurluk takımı, siyah-taş",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001160-pvc-yagmurluk-takim-siyah-tas/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2026/09/2-2001160-SIYAH-TAS-scaled.jpg",
+        "alt": "Forte GT 2001160 PVC yağmurluk takımı, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001160-pvc-yagmurluk-takim-siyah-tas/"
+      }
+    ],
+    "videos": []
+  }
+]

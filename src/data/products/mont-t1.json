@@ -1,0 +1,786 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "alaska",
+    "brand": "scudo",
+    "name": "Alaska",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Scudo'nun kışlık erkek montu; Cordura ve Oxford dış kumaşlı iki versiyonu var. Kapitone sıcak astarlı, EN 17092-4:2020 A sınıfı ve omuz, dirsek, sırtta EN 1621 korumalı yerli mont.",
+    "description": [
+      "Alaska, yerli marka Scudo'nun erkek mont serisindeki doğrudan kışa yönelik model. Aynı kesim iki dış kumaşla satılıyor: daha dayanıklı Cordura versiyonu ve daha uygun fiyatlı Oxford versiyonu. Ürün görsellerinde montun içinde kapitone (dikişli dolgulu) sıcak tutan bir astar görülüyor. Scudo'nun ürün sayfası astarın çıkarılıp çıkarılamadığını, su geçirmez membran olup olmadığını ve kumaş gramajını yazmıyor; bu yüzden bu alanları doğrulanmamış bıraktık.",
+      "Scudo, ürünlerinin EN 17092-4:2020 A sınıfında sertifikalı olduğunu belirtiyor. Omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumalar var; sırt koruması montla birlikte geliyor. Koruyucuların Level 1 mi Level 2 mi olduğu yazılmıyor. Beden aralığı S–4XL. Fiyatı Scudo'nun 4 mevsim Roma modelinin iki katına yakın; bu fark Cordura kumaş ve kışlık astardan geliyor."
+    ],
+    "forWho": [
+      "Kışın şehir içinde her gün motor kullanan ve yerli, sertifikalı bir mont arayan sürücüler",
+      "Sırt koruması dahil, ayrı koruyucu almak istemeyenler",
+      "Cordura dış kumaşın aşınma dayanımını önemseyenler"
+    ],
+    "notFor": [
+      "Yağmurda uzun süre kalan kuryeler: su geçirmezlik bilgisi doğrulanmadı, üstüne yağmurluk gerekebilir",
+      "Yaz kullanımı",
+      "AA veya AAA sınıfı yüksek koruma arayanlar"
+    ],
+    "pros": [
+      "EN 17092-4:2020 A sınıfı ve EN 1621 sertifikalı omuz, dirsek, sırt koruması dahil",
+      "Kapitone sıcak astarla doğrudan kışa yönelik",
+      "Cordura ve Oxford olmak üzere iki fiyat seçeneği",
+      "Türkiye'de üreticinin kendi mağazasında stoklu satılıyor"
+    ],
+    "cons": [
+      "Ürün sayfasında membran, su geçirmezlik ve havalandırma bilgisi yok",
+      "Astarın çıkarılabilir olup olmadığı belirtilmemiş",
+      "Koruyucu seviyesi (Level 1/2) yazmıyor",
+      "Yerli rakiplerine göre fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; soğuk şehir içi sürüşler için tasarlanmış.",
+      "uzunYol": "Soğuk havada kısa şehirlerarası yolculuklar için uygun; yağmur riski varsa yağmurluk yanına alınmalı.",
+      "yaz": "Uygun değil; kalın astarlı kışlık bir mont.",
+      "kis": "Hedef kullanımı; kapitone astar soğukta sıcak tutar.",
+      "yagmur": "Su geçirmezlik bilgisi doğrulanamadı; yoğun yağmurda üstüne yağmurluk giyilmeli.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Korumaları dahil ve dayanıklı Cordura seçeneği var; ancak su geçirmezlik belirsiz olduğu için yağmurda yağmurlukla birlikte düşünülmeli."
+    },
+    "verdict": "Alaska, yerli ve sertifikalı bir kışlık mont arayan şehir sürücüsü için güçlü bir aday: A sınıfı sertifika, dahil sırt koruması ve kapitone astar sunuyor. Su geçirmezlik ve membran bilgisi verilmediği için yağmurlu günlerde yağmurlukla tamamlanması gerekebilir.",
+    "rivals": [
+      "tex-motor/forte-gt-aspendos",
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "tex-motor/forte-gt-scorpion"
+    ],
+    "priceRange": {
+      "min": 14190,
+      "max": 17990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Oxford versiyon 14.190 TL, Cordura versiyon 17.990 TL; havale/EFT ile %7 indirim uygulanıyor."
+    },
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-alaska-cordura-siyah-kislik-erkek-motosiklet-ceketi-l",
+        "price": 17990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL"
+        ],
+        "colors": [
+          "Siyah (Cordura)"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-alaska-oxford-siyah-kislik-erkek-motosiklet-ceketi-2xl",
+        "price": 14190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL"
+        ],
+        "colors": [
+          "Siyah (Oxford)"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Cordura ve Oxford versiyon arasındaki fark ne?",
+        "a": "Kesim ve korumalar aynı; fark dış kumaşta. Cordura aşınmaya karşı daha dayanıklı kabul edilen bir kumaş ve kontrol tarihinde 3.800 TL daha pahalıydı."
+      },
+      {
+        "q": "Alaska su geçirmez mi?",
+        "a": "Scudo'nun ürün sayfası su geçirmez membran veya su sütunu bilgisi vermiyor. Yağmurlu günler için ayrı bir yağmurluk düşünmek daha güvenli."
+      },
+      {
+        "q": "Sırt koruması dahil mi?",
+        "a": "Evet. Scudo tüm ceketlerinde EN 1621-2:2014 sertifikalı sırt korumasının montla birlikte verildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-alaska-cordura-siyah-kislik-erkek-motosiklet-ceketi-l",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-alaska-cordura-siyah-kislik-erkek-motosiklet-ceketi-l",
+        "type": "manufacturer",
+        "label": "Scudo – Alaska Cordura Kışlık Erkek Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-alaska-oxford-siyah-kislik-erkek-motosiklet-ceketi-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Alaska Oxford Kışlık Erkek Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.ventilation",
+      "specs.closure",
+      "specs.madeIn",
+      "specs.protectors.level",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Cordura veya Oxford dış kumaş (iki versiyon), kapitone sıcak astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "forte-gt-aspendos",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001061 Aspendos",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ripstop dış kumaşlı, çıkarılabilir kapitone astarlı ve fermuarlı havalandırmalı yerli kışlık mont; EN 17092-4:2020 sertifikalı, omuz, dirsek ve sırtta CE korumalı.",
+    "description": [
+      "Aspendos, Tex Motor'un kendi markası Forte GT altında satılan kışlık mont. Dış kabuk yırtılmaya dayanıklı ripstop kumaştan; içinde fermuarla çıkarılabilen kapitone bir astar var. Astar çıkarılınca mont serin günlerde daha hafif kullanılabiliyor. Fermuarlı havalandırma kanalları, trafikte ısınınca terlemeyi azaltmak için konmuş; bu, aynı fiyat aralığındaki birçok kışlık montta bulunmayan bir detay.",
+      "Tex Motor montun EN 17092-4:2020 standardına göre üretildiğini ve omuz, dirsek, sırt bölgelerinde CE sertifikalı korumalar bulunduğunu belirtiyor; sınıf harfi (A/AA) ve koruyucu seviyesi sayfada yazmıyor. Su geçirmez membran bilgisi de verilmiyor. Tex Motor'un sitesinde online satış yok; fiyat liste fiyatı olarak gösteriliyor ve ürün bayilerden alınıyor."
+    ],
+    "forWho": [
+      "Uygun bütçeyle kışlık, astarlı ve sertifikalı mont arayan şehir sürücüleri",
+      "Kışın trafikte ısınıp terleyen, havalandırmalı mont isteyenler",
+      "Yerli markayı ve yaygın bayi ağını tercih edenler"
+    ],
+    "notFor": [
+      "Yağmurda saatlerce çalışan kuryeler: su geçirmezlik belirtilmemiş, yağmurluk şart",
+      "Yaz sıcakları",
+      "Yüksek sınıf (AA/AAA) koruma arayanlar"
+    ],
+    "pros": [
+      "Ripstop dış kumaş yırtılmaya dayanıklı",
+      "Çıkarılabilir kapitone astar",
+      "Fermuarlı havalandırma kanalları",
+      "EN 17092-4:2020 ve CE korumalar; fiyatı ithal kışlık montların çok altında"
+    ],
+    "cons": [
+      "CE sınıfı (A/AA) ve koruyucu seviyesi yazmıyor",
+      "Su geçirmez membran bilgisi yok",
+      "Sitede online satış yok; bayi fiyatları değişebilir"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; astarla soğuk sabahlarda, astarsız serin günlerde.",
+      "uzunYol": "Kısa ve orta mesafede yeterli; yağışlı havada yağmurlukla tamamlanmalı.",
+      "yaz": "Uygun değil.",
+      "kis": "Kapitone astar ve rüzgâra karşı kapalı yapısıyla hedef mevsimi.",
+      "yagmur": "Su geçirmezlik belirtilmediği için yağmurda üstüne yağmurluk gerekir.",
+      "sport": "Sport kalıbı yok.",
+      "kurye": "Fiyatı, korumaları ve havalandırmasıyla kuryeye uygun bir taban; yağmurlu günlerde yağmurlukla kullanılmalı."
+    },
+    "verdict": "Aspendos, kışlık bir montta istenen temel üçlüyü (kapitone astar, sertifikalı korumalar, dayanıklı kumaş) uygun fiyata veriyor ve havalandırma kanallarıyla trafikte terlemeyi azaltıyor. Su geçirmezlik ve sınıf bilgisi olmadığı için yağmurluk ve beklentiyle birlikte değerlendirilmeli.",
+    "rivals": [
+      "tex-motor/forte-gt-scorpion",
+      "scudo/alaska",
+      "yaren-tekstil/yrn-1493-kislik-kurye"
+    ],
+    "priceRange": {
+      "min": 6490,
+      "max": 6490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001061-aspendos/",
+        "price": 6490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Aspendos'un astarı çıkıyor mu?",
+        "a": "Evet. Tex Motor kapitone iç astarın çıkarılabilir olduğunu belirtiyor; astarsız kullanımda mont daha hafif oluyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Ürün sayfasında su geçirmez membran veya su sütunu bilgisi yok. Yağmur için ayrı yağmurluk önerilir."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001061-aspendos/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001061-aspendos/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001061 Aspendos Mont ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizes",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Ripstop dış kumaş, çıkarılabilir kapitone iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Fermuarlı havalandırma kanalları",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "forte-gt-hattena",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001086 Hattena",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Şehir içi ve kurumsal (kurye/servis) kullanım için tasarlanmış uzun kesim kışlık mont; çıkarılabilir kapitone astar, ayarlanabilir bel kemeri, EN 17092-4:2020 ve CE korumalar.",
+    "description": [
+      "Hattena, Forte GT'nin özellikle şehir içi ve kurumsal kullanım için geliştirdiği uzun kesim kışlık mont. Uzun boy, oturur pozisyonda beli ve kalçanın üst kısmını kapatarak soğuk havanın montun altından girmesini azaltıyor; scooter ve kurye motorlarında bu fark hissediliyor. İçeride çıkarılabilir kapitone astar, belde ayarlanabilir kemer var.",
+      "Tex Motor montun EN 17092-4:2020 standardına göre üretildiğini, omuz, dirsek ve sırtta CE sertifikalı darbe emici pedler bulunduğunu belirtiyor. Sınıf harfi, koruyucu seviyesi ve su geçirmezlik bilgisi sayfada yok. Aynı ailedeki Metropolis modeli kurumsal logo alanlarıyla öne çıkarken Hattena daha sade bir uzun kış montu."
+    ],
+    "forWho": [
+      "Kışın scooter veya kurye motoruyla gün boyu şehir içinde çalışanlar",
+      "Belini ve kalçasını soğuktan koruyan uzun kesim mont arayanlar",
+      "Ekibine uygun fiyatlı, sertifikalı kışlık mont almak isteyen firmalar"
+    ],
+    "notFor": [
+      "Sportif sürüş pozisyonu: uzun kesim öne eğik pozisyonda toplanır",
+      "Yaz kullanımı",
+      "Yağmura tek başına güvenmek isteyenler: su geçirmezlik belirtilmemiş"
+    ],
+    "pros": [
+      "Uzun kesim, oturur pozisyonda bel ve kalçayı kapatır",
+      "Çıkarılabilir kapitone astar",
+      "Ayarlanabilir bel kemeri",
+      "EN 17092-4:2020 ve CE korumalar uygun fiyata"
+    ],
+    "cons": [
+      "Su geçirmezlik ve membran bilgisi yok",
+      "CE sınıfı ve koruyucu seviyesi belirtilmemiş",
+      "Havalandırma detayı belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; dik oturuşlu scooter ve kurye motorları için uygun.",
+      "uzunYol": "Mümkün ama yağmur ve hız altında rüzgâr için tasarlanmamış.",
+      "yaz": "Uygun değil.",
+      "kis": "Uzun kesim ve kapitone astar soğuk şehir içi sürüşlerde avantaj sağlar.",
+      "yagmur": "Su geçirmezlik belirtilmediği için yağmurluk gerekir.",
+      "sport": "Uygun değil; uzun kesim sportif pozisyona uymaz.",
+      "kurye": "Doğrudan kurumsal ve şehir içi profesyonel kullanım için tasarlanmış; uzun kesim gün boyu soğukta avantaj."
+    },
+    "verdict": "Hattena, kışın gün boyu şehir içinde motorda kalan kurye ve servis sürücüsü için mantıklı bir uzun kesim mont: beli kapatıyor, astarı çıkarılabiliyor ve sertifikalı korumaları var. Yağmura karşı ayrı yağmurluk ve beklentisi düşük bir sınıf bilgisiyle birlikte değerlendirilmeli.",
+    "rivals": [
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "tex-motor/forte-gt-aspendos",
+      "scudo/alaska"
+    ],
+    "priceRange": {
+      "min": 5995,
+      "max": 5995,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001086-hattena/",
+        "price": 5995,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hattena ile Metropolis arasındaki fark ne?",
+        "a": "İkisi de Forte GT'nin uzun kesim şehir montu. Metropolis'te cırtlı logo alanları ve omuz havalandırması öne çıkarılıyor; Hattena daha sade ve doğrudan kışa yönelik."
+      },
+      {
+        "q": "Kurye için uygun mu?",
+        "a": "Tex Motor modeli şehir içi ve kurumsal kullanım için geliştirdiğini belirtiyor. Uzun kesim ve çıkarılabilir astar kurye için avantaj; yağmur için yağmurluk gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001086-hattena/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001086-hattena/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001086 Hattena Mont ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.ventilation",
+      "specs.madeIn",
+      "sizes",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir bel kemeri",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "forte-gt-energy",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001075 Energy",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Göğüs koruması dahil dört bölgeli CE korumalı, omuzda TPU dış korumalı ve çıkarılabilir kapitone astarlı sportif görünümlü yerli kışlık mont; EN 17092-4:2020.",
+    "description": [
+      "Energy, Forte GT'nin kışlık serisinde korumaya en çok yatırım yapılan model. Omuz, dirsek ve sırta ek olarak göğüs bölgesinde de CE sertifikalı koruma bulunuyor; omuzlarda ayrıca dış yüzeye dikilmiş TPU paneller var. Göğüs koruması bu fiyat aralığındaki montlarda çoğunlukla ayrı satın alınması gereken bir parça.",
+      "İçeride çıkarılabilir kapitone astar var; kesim vücuda daha oturan ve sportif. Tex Motor montun EN 17092-4:2020 standardına uygun üretildiğini belirtiyor; sınıf, koruyucu seviyesi, dış kumaş tipi ve su geçirmezlik bilgisi sayfada yok. Online satış yok, liste fiyatı bayiler için referans."
+    ],
+    "forWho": [
+      "Kışlık montta göğüs koruması da isteyenler",
+      "Naked veya sport-touring motorla şehir ve çevre yolunda sürenler",
+      "Sportif görünümlü, uygun fiyatlı kış montu arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda uzun süre çalışan kuryeler: su geçirmezlik belirtilmemiş",
+      "Bol kesim ve kalın ara katman giymek isteyenler",
+      "Yaz kullanımı"
+    ],
+    "pros": [
+      "Omuz, dirsek, sırt ve göğüste CE korumalar dahil",
+      "Omuzda TPU dış koruma panelleri",
+      "Çıkarılabilir kapitone astar",
+      "Dört bölge korumaya göre uygun fiyat"
+    ],
+    "cons": [
+      "Dış kumaş tipi ve su geçirmezlik bilgisi yok",
+      "CE sınıfı ve koruyucu seviyesi belirtilmemiş",
+      "Vücuda oturan kesim kalın ara katmanı sınırlayabilir"
+    ],
+    "usage": {
+      "sehir": "Uygun; dört bölge koruma şehir içinde güven verir.",
+      "uzunYol": "Kuru ve soğuk havada kısa-orta mesafe için uygun.",
+      "yaz": "Uygun değil.",
+      "kis": "Kapitone astarla hedef mevsimi.",
+      "yagmur": "Su geçirmezlik belirtilmediği için yağmurluk gerekir.",
+      "sport": "Sportif kesimli; sokak sürüşü için uygun, pist için değil.",
+      "kurye": "Korumaları güçlü; ancak su geçirmezlik belirsiz olduğu için yağmurlu kurye günlerinde yağmurlukla kullanılmalı."
+    },
+    "verdict": "Energy, kışlık montta göğüs korumasını da dahil isteyen ve bütçesi sınırlı sürücü için öne çıkan bir yerli seçenek. Kumaş ve su geçirmezlik bilgisinin eksikliği, yağmurlu günlerde ek yağmurluk gerektirebilir.",
+    "rivals": [
+      "tex-motor/forte-gt-aspendos",
+      "tex-motor/forte-gt-scorpion",
+      "scudo/alaska"
+    ],
+    "priceRange": {
+      "min": 6830,
+      "max": 6830,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001075-energy/",
+        "price": 6830,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Göğüs koruması dahil mi?",
+        "a": "Evet. Tex Motor omuz, dirsek, sırt ve göğüs bölgelerinde CE sertifikalı korumalar bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Astarı çıkarılabilir mi?",
+        "a": "Evet, kapitone iç astar çıkarılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001075-energy/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001075-energy/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001075 Energy Mont ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.ventilation",
+      "specs.madeIn",
+      "sizes",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Çıkarılabilir kapitone iç astar, omuzda TPU dış koruma panelleri (dış kumaş tipi belirtilmemiş)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "forte-gt-simurg",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001077 Simurg",
+    "category": "mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Türkiye'de üretilen, ripstop dış kumaşlı, çıkarılabilir kapitone astarlı, suni deri detaylı ve reflektif hatlı kışlık mont; EN 17092-4:2020 ve omuz-dirsekte EN 1621-1:2012 Flexist korumalar.",
+    "description": [
+      "Simurg, Forte GT'nin kışlık serisinde Türkiye'de üretildiği açıkça belirtilen model. Dış kabuk aşınmaya dayanıklı ripstop kumaş; suni deri detaylar görünümü tamamlıyor, reflektif hatlar gece görünürlüğünü artırıyor. İçeride çıkarılabilir kapitone astar var; bu yüzden Tex Motor'un tanıtım videosunda model 4 mevsim olarak da anılıyor.",
+      "Tex Motor montun EN 17092-4:2020 sertifikalı olduğunu ve omuz ile dirsekte EN 1621-1:2012 sertifikalı Flexist korumalar bulunduğunu belirtiyor. Sırt koruması ve koruyucu seviyesi sayfada açıkça yazmıyor. Şehir içi ve touring kullanımına yönelik çok amaçlı bir mont olarak konumlanıyor; Forte GT kışlık montları içinde en pahalılardan biri."
+    ],
+    "forWho": [
+      "Türkiye'de üretilmiş, sertifikalı bir kışlık mont arayanlar",
+      "Şehir içi ve hafta sonu touring'i aynı montla yapmak isteyenler",
+      "Gece sürüşlerinde reflektif detay isteyenler"
+    ],
+    "notFor": [
+      "Su geçirmez membranlı mont arayanlar: membran bilgisi verilmemiş",
+      "Sırt korumasını dahil isteyenler: sayfada sırt koruması belirtilmemiş",
+      "Yaz sıcakları"
+    ],
+    "pros": [
+      "Türkiye'de üretim açıkça belirtilmiş",
+      "Omuz ve dirsekte EN 1621-1:2012 Flexist korumalar",
+      "Ripstop dış kumaş ve çıkarılabilir kapitone astar",
+      "Reflektif hatlar"
+    ],
+    "cons": [
+      "Su geçirmezlik ve membran bilgisi yok",
+      "Sırt koruması ve koruyucu seviyesi belirtilmemiş",
+      "Forte GT kışlık serisinde fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Uygun; reflektif hatlar trafikte görünürlüğü artırır.",
+      "uzunYol": "Kuru havada touring için uygun; yağmur ihtimalinde yağmurluk gerekir.",
+      "yaz": "Astarsız serin yaz akşamlarında olabilir, sıcakta uygun değil.",
+      "kis": "Kapitone astarla hedef mevsimi.",
+      "yagmur": "Su geçirmezlik belirtilmemiş; yağmurluk gerekir.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Kullanılabilir ama sırt koruması ve su geçirmezlik belirsiz olduğu için kurye için Hattena veya membranlı modeller daha uygun."
+    },
+    "verdict": "Simurg, yerli üretim ve EN 1621-1 korumalarıyla şehir ve touring arasında gidip gelen sürücüye uygun bir kışlık mont. Sırt koruması ve su geçirmezlik bilgisi eksik olduğu için satın almadan önce bayide bu iki nokta kontrol edilmeli.",
+    "rivals": [
+      "tex-motor/forte-gt-aspendos",
+      "tex-motor/forte-gt-energy",
+      "scudo/alaska"
+    ],
+    "priceRange": {
+      "min": 7775,
+      "max": 7775,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001077-simurg/",
+        "price": 7775,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Simurg kışlık mı 4 mevsim mi?",
+        "a": "Ürün sayfası kışlık tasarım olarak tanıtıyor; astarı çıkarılabildiği için Tex Motor'un videosunda 4 mevsim olarak da geçiyor. Yazın sıcakta kullanım için tasarlanmamış."
+      },
+      {
+        "q": "Hangi korumalar var?",
+        "a": "Omuz ve dirsekte EN 1621-1:2012 sertifikalı Flexist korumalar belirtiliyor. Sırt koruması ürün sayfasında açıkça yazmıyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001077-simurg/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001077-simurg/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001077 Simurg Mont ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.ventilation",
+      "sizes",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Ripstop dış kumaş, suni deri detaylar, çıkarılabilir kapitone astar, reflektif hatlar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": null
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  }
+]

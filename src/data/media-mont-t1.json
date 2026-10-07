@@ -1,0 +1,107 @@
+[
+  {
+    "product": "scudo/alaska",
+    "images": [
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/844/scudo-alaska-erkek-motosiklet-montu-kislik-cordura-siyah.png",
+        "alt": "Scudo Alaska Cordura kışlık erkek motosiklet montu, siyah",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-alaska-cordura-siyah-kislik-erkek-motosiklet-ceketi-l"
+      },
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/844/scudo-alaska-erkek-motosiklet-montu-kislik-cordura-siyah-3.png",
+        "alt": "Scudo Alaska montun kapitone iç astarı",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-alaska-cordura-siyah-kislik-erkek-motosiklet-ceketi-l"
+      },
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/994/scudo-alaska-erkek-motosiklet-montu-kislik-oxford-siyah.png",
+        "alt": "Scudo Alaska Oxford kışlık erkek motosiklet montu, siyah",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-alaska-oxford-siyah-kislik-erkek-motosiklet-ceketi-2xl"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-aspendos",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-1061-ASPENDOS.jpg",
+        "alt": "Forte GT Aspendos kışlık motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001061-aspendos/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-1061-ASPENDOS.jpg",
+        "alt": "Forte GT Aspendos kışlık mont, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001061-aspendos/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-hattena",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-1086-HATTENA.jpg",
+        "alt": "Forte GT Hattena uzun kesim kışlık motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001086-hattena/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-1086-HATTENA.jpg",
+        "alt": "Forte GT Hattena uzun kışlık mont, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001086-hattena/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-energy",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/11/1-1075-ENERGY-scaled.jpg",
+        "alt": "Forte GT Energy kışlık motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001075-energy/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/11/ENERGY-5-scaled.jpg",
+        "alt": "Forte GT Energy montu motosiklet üzerinde",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001075-energy/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-simurg",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-1077-SIMURG.jpg",
+        "alt": "Forte GT Simurg kışlık motosiklet montu, önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001077-simurg/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-1077-SIMURG.jpg",
+        "alt": "Forte GT Simurg kışlık mont, ikinci görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001077-simurg/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Z5BbkSrpQGA",
+        "title": "FORTE GT 2001077 SİMURG 4 MEVSIM MONT",
+        "channel": "Tex Motor",
+        "kind": "resmi",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

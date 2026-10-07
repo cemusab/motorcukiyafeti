@@ -1,0 +1,100 @@
+[
+  {
+    "product": "scudo/parma-wp-carbon-3",
+    "images": [
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/553/parma-wp-carob-3-1.jpeg",
+        "alt": "Scudo Parma WP Carbon 3 su geçirmez kışlık motosiklet eldiveni, üstten",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-3-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-xl"
+      },
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/553/parma-wp-carbon-3-2.jpeg",
+        "alt": "Scudo Parma WP Carbon 3 eldiven, avuç içi",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-3-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-xl"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "knox/zero-mk4",
+    "images": [
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/Zero-Mk4-On-Black-Studio-1.jpg",
+        "alt": "Knox Zero MK4 kış motosiklet eldiveni, siyah",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/zero-mk4/"
+      },
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/KNXZeroMK4_004.jpg",
+        "alt": "Knox Zero MK4 eldiven sürüş sırasında",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/zero-mk4/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Ny6u2tFulQI",
+        "title": "Knox Zero MK4 Kışlık Motosiklet Eldiveni",
+        "channel": "MOTOMAX",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "5oBGCDSGgvw",
+        "title": "The Knox Zero MK4 - a top tier winter glove",
+        "channel": "Demon Tweeks",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "dainese/livigno-gore-tex",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/f46e218b-6ff7-4c78-b999-8215ab34cc64/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Livigno Gore-Tex kış eldiveni, siyah, üstten",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/livigno-gore-tex---mens-waterproof-motorcycle-gloves-2018100010001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/8a0cac59-1fff-46cf-8835-1579a3b8b388/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Livigno Gore-Tex eldiven, yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/livigno-gore-tex---mens-waterproof-motorcycle-gloves-2018100010001.html"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "bIu6yqxbv7w",
+        "title": "Dainese Livigno Gore-Tex: Hem Güvenli Hem Sıcak! #deinese #motorcycle #Dainese #Motosiklet #GoreTex",
+        "channel": "Ali KARACA",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "dainese/trento-d-dry",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/7f49785f-8699-4292-9c67-fc708990b805/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Trento D-Dry kış eldiveni, siyah/yeşil, üstten",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/trento-d-dry--mens-waterproof-motorcycle-gloves-201810001152F.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/9ec7b712-3f6e-4d42-91f5-455dc2db6fd5/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Trento D-Dry eldiven, yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/trento-d-dry--mens-waterproof-motorcycle-gloves-201810001152F.html"
+      }
+    ],
+    "videos": []
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "odlo",
+    "name": "Odlo",
+    "country": "İsviçre",
+    "founded": 1946,
+    "website": "https://www.odlo.com/",
+    "about": [
+      "Odlo, 1946'da Norveç'te Odd Roar Lofterød tarafından kurulan ve 1986'dan bu yana İsviçre merkezli olan bir fonksiyonel iç giyim ve outdoor giyim markası. En bilinen ürünleri, nem atan ve sıcak tutan termal içlikler (base layer).",
+      "Ürünler kayak, koşu ve outdoor sporları için tasarlanıyor, motosiklete özel değil; ancak ince ve vücuda oturan termal içlikleri mont altında ilk katman olarak motorcular arasında da kullanılıyor. Odlo, Active Warm serisinin Avrupa'daki (Romanya) kendi fabrikasında üretildiğini belirtiyor."
+    ],
+    "strengths": [
+      "Nem atan, hızlı kuruyan sentetik ve merino termal içlikler",
+      "Vücuda oturan, mont altında hacim yapmayan kesimler"
+    ],
+    "categories": [
+      "termal"
+    ],
+    "families": [
+      {
+        "name": "Active Warm",
+        "note": "Geri dönüştürülmüş polyesterden, en çok satan termal içlik serisi.",
+        "url": "https://www.odlo.com/eu-en/p/active-warm-base-layer-top-159102.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Odlo Active Warm Base Layer Top",
+        "url": "https://www.odlo.com/eu-en/p/active-warm-base-layer-top-159102.html",
+        "reason": "Mont altında ince ve sıcak ilk katman; nemi dışarı atıp hızlı kurur."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "alpinestars",
+      "held"
+    ],
+    "history": [
+      {
+        "year": 1946,
+        "event": "Odd Roar Lofterød, Odlo'yu Norveç'te kurdu."
+      },
+      {
+        "year": 1986,
+        "event": "Marka merkezini İsviçre'ye taşıdı."
+      }
+    ],
+    "strongestLine": "Termal içlik (base layer)",
+    "sources": [
+      {
+        "url": "https://www.odlo.com/eu-en/explore/about-odlo",
+        "type": "manufacturer",
+        "label": "Odlo – About Odlo sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.odlo.com/eu-en/p/active-warm-base-layer-top-159102.html",
+        "type": "manufacturer",
+        "label": "Odlo – Active Warm Base Layer Top ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

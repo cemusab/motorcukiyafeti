@@ -1,0 +1,1384 @@
+[
+  {
+    "slug": "athos-3-air",
+    "brand": "revit",
+    "name": "Athos 3 Air",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Neon sarı file kumaştan, 3M Scotchlite reflektif şeritli, mont üstüne dar oturan ve tamamen havalandırmalı hafif görünürlük yeleği.",
+    "description": [
+      "Athos 3 Air, REV'IT!'in mont üstüne giyilen görünürlük yeleğinin file kumaşlı sürümü. Neon sarı polyester file gövde, göğüste, sırtta ve omuzların arka tarafında 3M Scotchlite reflektif şeritlerle birleşiyor. Önden tek fermuarla açılıp kapanıyor; dar (slim) kesimi sayesinde yüksek hızda kumaşın rüzgarda dalgalanması azalıyor.",
+      "Yelek bir koruyucu değil; tek işi gündüz floresan renkle, gece reflektif şeritlerle sürücüyü fark edilir kılmak. Gövdenin tamamı file olduğu için yazlık file montların hava akışını kesmiyor. Üretici sayfasında herhangi bir görünürlük standardı (EN 17353 veya EN ISO 20471) belirtilmiyor; reflektif yüzey alanı da yayımlanmıyor. Beden aralığı XS'den 4XL'e kadar geniş."
+    ],
+    "forWho": [
+      "Yazın file montla şehir içi ve banliyö sürüşü yapan, hava akışından ödün vermeden görünür olmak isteyenler",
+      "Koyu renk montunu değiştirmeden gündüz ve akşam görünürlüğünü artırmak isteyenler",
+      "Rüzgarda çırpınmayan, vücuda oturan ince bir yelek arayanlar"
+    ],
+    "notFor": [
+      "Belgeli (EN 17353 / EN ISO 20471) yelek şartı olan kurye firmalarında çalışanlar; üretici bir standart beyan etmiyor",
+      "Cep ve kart bölmesi isteyenler; yelekte depolama yok",
+      "Kalın kış montu üstüne giymeyi planlayanlar; dar kesim bir beden büyük almayı gerektirebilir"
+    ],
+    "pros": [
+      "Tamamen file gövde; yazlık montlarla birlikte bile sıcak yapmıyor",
+      "Dar kesim sayesinde otoban hızında kumaş daha az dalgalanıyor",
+      "3M Scotchlite şeritler göğüs, sırt ve omuz arkasında",
+      "XS–4XL arası geniş beden seçeneği"
+    ],
+    "cons": [
+      "Üretici bir görünürlük standardı veya reflektif alan değeri yayımlamıyor",
+      "Cep, kart bölmesi veya ayar kayışı yok",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şehir içi trafikte, özellikle akşamüstü ve tünellerde fark edilmeyi belirgin artırır; tek fermuarla hızlı giyilir.",
+      "uzunYol": "Uzun yolda dar kesimi rahatsız etmez; gece otoban sürüşlerinde reflektif şeritler işe yarar.",
+      "yaz": "Asıl kullanım alanı. File gövde, file montun havalandırmasını kapatmıyor.",
+      "kis": "Kalın montun üstüne bedeni doğru seçilirse giyilir; dar kalıp nedeniyle deneyerek almak gerekir.",
+      "yagmur": "Yağmurluğun üstüne giyilerek görünürlük sağlanır; yeleğin kendisi su geçirmez değil.",
+      "kurye": "Görünürlük için kullanılabilir ama cep yok ve belge beyanı olmadığı için firma şartı olan kuryelerde yetmeyebilir."
+    },
+    "verdict": "Athos 3 Air, yazın file montla dolaşan ve sade, çırpınmayan bir görünürlük katmanı isteyen sürücü için doğru adres. Standart beyanı ve cep olmaması, onu iş amaçlı kullanımda belgeli rakiplerin gerisinde bırakıyor.",
+    "rivals": [
+      "oxford/active-bright-top",
+      "richa/safety-mesh",
+      "tex-motor/tex-1182"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Athos 3 Air hangi görünürlük standardına sahip?",
+        "a": "Üreticinin ürün sayfasında EN 17353 ya da EN ISO 20471 gibi bir standart belirtilmiyor. Belgeli yelek gerekiyorsa EN ISO 20471 beyanı olan modellere bakmak gerekir."
+      },
+      {
+        "q": "Mont üstüne hangi bedeni almalıyım?",
+        "a": "Yelek dar kesimli ve montun üstüne giyilecek şekilde tasarlanmış. Kalın kış montu kullanacaksanız normal bedeninizden bir büyüğünü deneyerek almanız daha güvenli olur."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/en-us/products/en-motorcycle-vest-athos-3-air-neon-yellow",
+    "sources": [
+      {
+        "url": "https://revitsport.com/en-us/products/en-motorcycle-vest-athos-3-air-neon-yellow",
+        "type": "manufacturer",
+        "label": "REV'IT! – Vest Athos 3 Air ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Neon Yellow"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Polyester file (stretch)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Tamamen file gövde",
+      "closure": "Ön orta fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "active-bright-top",
+    "brand": "oxford",
+    "name": "Active Bright Top",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Floresan sarı, yanları elastik, tam boy ön fermuarlı ve nefes alan astarlı, Oxford'un mont üstüne giyilen klasik reflektif yeleği.",
+    "description": [
+      "Active Bright Top, Oxford'un uzun süredir satılan mont üstü görünürlük yeleği. Floresan sarı gövdenin üzerinde yüksek yansıtıcılı şeritler bulunuyor; yan taraflardaki elastik bölümler yeleği montun üstüne sıkıca oturtarak rüzgarda dalgalanmayı azaltıyor. Önde tam boy fermuar, içte ise nefes alan bir astar var.",
+      "Üretici yeleği CE onaylı olarak tanıtıyor ve belge olarak EN 1150:1999'u gösteriyor. Bu, iş amaçlı olmayan kullanıcılar için eski bir görünürlük standardı; bugün bu alanın güncel karşılığı EN 17353:2020. Ürün sayfasında EN 17353 veya EN ISO 20471 beyanı yok. Beden aralığı XS'den 4XL'e kadar uzanıyor ve Oxford beden rehberini ayrı bir belge olarak yayımlıyor."
+    ],
+    "forWho": [
+      "Her mevsim mont üstüne giyeceği basit, dayanıklı bir görünürlük katmanı arayanlar",
+      "Deri veya koyu renk tekstil montunu daha görünür hale getirmek isteyen günlük sürücüler",
+      "Büyük beden (3XL–4XL) yelek bulmakta zorlananlar"
+    ],
+    "notFor": [
+      "EN ISO 20471 veya EN 17353 belgesi şart koşulan kurye işleri; üretici yalnızca eski EN 1150 belgesini gösteriyor",
+      "Cep ve kart bölmesi isteyenler; bu modelde depolama yok, cepli sürüm Utility Bright Top",
+      "Sıcak yaz günlerinde file yelek arayanlar; gövde file değil"
+    ],
+    "pros": [
+      "Elastik yanlar sayesinde mont üstünde sıkı oturuyor",
+      "Tam boy ön fermuar ile kolay giyilip çıkarılıyor",
+      "XS–4XL arası geniş beden aralığı",
+      "Üreticinin CE belgesi beyanı var (EN 1150:1999)"
+    ],
+    "cons": [
+      "Belge, motosiklet sürücüleri için güncel EN 17353 değil, eski EN 1150 standardı",
+      "Cep yok",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şehir trafiğinde gündüz floresan renk, akşam reflektif şeritlerle fark edilirliği artırır.",
+      "uzunYol": "Elastik yanlar yeleği yerinde tuttuğu için uzun etaplarda da dalgalanma sınırlı kalır.",
+      "yaz": "Gövde file olmadığından sıcak günlerde montun havalandırmasını bir miktar kapatır.",
+      "kis": "Kış montunun üstüne giymeye uygun; bedeni kalın monta göre seçmek gerekir.",
+      "yagmur": "Yağmurluğun üstüne giyilerek kötü havada görünürlük sağlar.",
+      "kurye": "Görünürlük için işe yarar ama cep olmaması ve belge türü nedeniyle kurye işi için cepli, EN ISO 20471 belgeli modeller daha uygun."
+    },
+    "verdict": "Active Bright Top, sade ve sıkı oturan bir görünürlük yeleği isteyen günlük sürücü için makul bir seçim. Belgesinin eski EN 1150 olması ve cep bulunmaması, iş amaçlı kullanımda onu geri planda bırakıyor.",
+    "rivals": [
+      "revit/athos-3-air",
+      "oxford/utility-bright-top",
+      "richa/safety-mesh"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "EN 1150 ile EN 17353 arasındaki fark nedir?",
+        "a": "EN 1150, profesyonel olmayan kullanım için eski bir görünürlük standardıdır. EN 17353:2020 bu alanın güncel standardıdır ve orta riskli durumlar (bisiklet, motosiklet, yol kenarı) için floresan ve reflektif alan şartlarını tanımlar. Oxford bu yelek için yalnızca EN 1150:1999 beyan ediyor."
+      },
+      {
+        "q": "Cepli sürümü var mı?",
+        "a": "Evet. Oxford'un Utility Bright Top modeli ID cebi, fermuarlı göğüs cebi ve kutu cepleriyle aynı görünürlük fikrini cepli olarak sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.oxfordproducts.com/oxford-active-bright-top-m-of398.html",
+    "sources": [
+      {
+        "url": "https://www.oxfordproducts.com/oxford-active-bright-top-m-of398.html",
+        "type": "manufacturer",
+        "label": "Oxford Products – Oxford Active Bright Top ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.material",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Fluorescent yellow"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1150:1999",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan astar",
+      "closure": "Tam boy ön fermuar, elastik yan paneller",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "utility-bright-top",
+    "brand": "oxford",
+    "name": "Utility Bright Top",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Şeffaf ID cebi, fermuarlı göğüs cebi ve üç kutu cebiyle cepli, 360 derece reflektif, file astarlı floresan sarı görünürlük yeleği.",
+    "description": [
+      "Utility Bright Top, Oxford'un görünürlük yeleğinin cepli ve iş odaklı sürümü. Floresan sarı gövdede şeffaf bir kimlik (ID) cebi, fermuarlı göğüs cebi, önde iki ve arkada bir kutu cebi bulunuyor. Reflektif malzeme 360 derece yerleştirilmiş, kenarlar elastik biyeli ve belirli bölgelerde esneyen paneller var. İçte nefes alan file astar kullanılmış.",
+      "Oxford yeleği montun üzerine giyilecek şekilde boyutlandırdığını, büyük beden mont kullananların büyük beden yelek seçmesi gerektiğini belirtiyor. Belge olarak EN 1150 görünürlük standardı gösteriliyor; EN 17353 veya EN ISO 20471 beyanı yok. Ceplerin sayısı ve şeffaf ID cebi, paket ve evrak taşıyan sürücüler için pratik bir düzen sunuyor."
+    ],
+    "forWho": [
+      "Telefon, cüzdan ve küçük evrakı yelekte taşımak isteyen günlük sürücüler",
+      "Kimlik veya firma kartını görünür taşıması gereken iş amaçlı sürücüler",
+      "Gece ve kötü havada her açıdan görünür olmak isteyenler"
+    ],
+    "notFor": [
+      "Belgeli EN ISO 20471 / EN 17353 yelek şartı olan kurye firmaları; üretici yalnızca EN 1150 beyan ediyor",
+      "XS–S bedene ihtiyacı olanlar; beden aralığı M'den başlıyor",
+      "Çok sıcak havada tamamen file gövde isteyenler"
+    ],
+    "pros": [
+      "Şeffaf ID cebi, fermuarlı göğüs cebi ve üç kutu cebi",
+      "360 derece reflektif yerleşim",
+      "Nefes alan file astar",
+      "Mont üstüne göre boyutlandırılmış kalıp"
+    ],
+    "cons": [
+      "Belge, güncel EN 17353 yerine eski EN 1150 standardı",
+      "Ceplerin dolu olması yüksek hızda yeleği öne doğru çekebilir",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şehir içi sık inip binmede cepler ve ID cebi işe yarar; floresan renk trafikte fark edilir.",
+      "uzunYol": "Uzun yolda ceplere ağır eşya koymamak, yeleğin dalgalanmasını azaltır.",
+      "yaz": "File astar havalandırmaya yardım eder ama dış gövde file değil.",
+      "kis": "Kış montunun üstünde rahat kullanılır; bedeni monta göre seçin.",
+      "yagmur": "Yağmurluk üstünde görünürlük sağlar; ceplerin su geçirmezliği belirtilmiyor.",
+      "kurye": "Cepleri ve ID cebi kurye kullanımına uygun; ancak firmanız belgeli yelek istiyorsa EN ISO 20471 beyanlı modelleri tercih edin."
+    },
+    "verdict": "Utility Bright Top, cep düzeni ve 360 derece reflektif yapısıyla iş amaçlı sürüşe en uygun Oxford yeleği. Belgesinin eski EN 1150 olması tek önemli eksik; belgeli yelek şartı yoksa pratik bir seçim.",
+    "rivals": [
+      "oxford/active-bright-top",
+      "tex-motor/forte-gt-2001190",
+      "tex-motor/forte-gt-2001188"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Kaç cebi var?",
+        "a": "Üreticiye göre şeffaf ID cebi, fermuarlı göğüs cebi, önde iki kutu cebi ve arkada bir kutu cebi bulunuyor."
+      },
+      {
+        "q": "Beden nasıl seçilmeli?",
+        "a": "Oxford yeleği mont üstüne giyilecek şekilde boyutlandırıyor ve büyük beden mont kullananların büyük beden yelek almasını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.oxfordproducts.com/oxford-utility-bright-top-m-of5001m.html",
+    "sources": [
+      {
+        "url": "https://www.oxfordproducts.com/oxford-utility-bright-top-m-of5001m.html",
+        "type": "manufacturer",
+        "label": "Oxford Products – Oxford Utility Bright Top ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.material",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1150:1999",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan file astar",
+      "closure": "Ön fermuar, elastik biye ve esnek paneller",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "safety-flare",
+    "brand": "richa",
+    "name": "Safety Flare",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Gövdesinin tamamı Richa Flare reflektif kumaştan, gümüş renkli, yan fermuarlarla birden çok bedene ayarlanan esnek görünürlük yeleği.",
+    "description": [
+      "Safety Flare, Richa'nın sitesinde ceket kategorisinde listelense de kolsuz bir görünürlük yeleği. Diğer yeleklerden farkı, gövdenin tamamen reflektif Richa Flare kumaştan yapılması: floresan sarı yerine gümüş renkli bir yüzey var ve far ışığı aldığında yeleğin tamamı parlıyor. Yumuşak dokulu ve esneyen kumaş, yan esnek paneller ve iç file astarla birlikte rahat bir oturuş sağlıyor.",
+      "Özel yerleştirilmiş fermuarlar yeleğin birden fazla bedene uyarlanmasına izin veriyor; bu yüzden bedenler S-M-L, XL-2XL-3XL ve 4XL-5XL-6XL olarak gruplanmış. İçte iki cep, dışta şeffaf bir ID cebi var. Richa sertifika alanında 'NVT' (uygulanmaz) yazıyor; yani yelek için bir görünürlük standardı beyan edilmiyor. Gümüş yüzey gece çok güçlü yansıtırken gündüz floresan renkli yelekler kadar dikkat çekmeyebilir."
+    ],
+    "forWho": [
+      "Çoğunlukla akşam ve gece sürüş yapan, far ışığında en yüksek yansımayı isteyenler",
+      "Floresan sarı yerine daha sade, gümüş görünümlü bir yelek tercih edenler",
+      "Kalın kış montu ve ince yaz montu arasında aynı yeleği kullanmak isteyenler (ayarlanabilir beden)"
+    ],
+    "notFor": [
+      "Gündüz görünürlüğü öncelikli olanlar; floresan renk yok",
+      "Belgeli yelek şartı olan kurye firmaları; üretici standart beyan etmiyor",
+      "Çok sıcak havada file gövde arayanlar"
+    ],
+    "pros": [
+      "Gövdenin tamamı reflektif; gece farlarda çok geniş yansıma yüzeyi",
+      "Fermuarlarla üç bedene uyarlanabilen kalıp",
+      "İki iç cep ve şeffaf ID cebi",
+      "Esneyen kumaş ve yan paneller"
+    ],
+    "cons": [
+      "Floresan renk olmadığı için gündüz görünürlüğü sınırlı",
+      "Üretici bir görünürlük standardı beyan etmiyor (NVT)",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Akşam şehir trafiğinde araç farlarında belirgin parlar; gündüz etkisi floresan yeleklerden zayıf.",
+      "uzunYol": "Gece otoban ve aydınlatmasız yollarda en güçlü yanı ortaya çıkar.",
+      "yaz": "File astarlı ama gövde reflektif kumaş; çok sıcakta file yelekler kadar serin değil.",
+      "kis": "Ayarlanabilir kalıp kalın montla kullanımı kolaylaştırır.",
+      "yagmur": "Yağmurluk üstünde gece görünürlüğü sağlar.",
+      "kurye": "Gece vardiyasında görünürlük için güçlü; ancak cep sayısı sınırlı ve belge beyanı yok."
+    },
+    "verdict": "Safety Flare, gecenin yeleği: tamamen reflektif gövdesi farlarda çok etkili. Gündüz floresan renkli yelekler kadar dikkat çekmemesi ve standart beyanının olmaması, onu tek başına her koşulun yeleği yapmıyor.",
+    "rivals": [
+      "richa/safety-mesh",
+      "oxford/active-bright-top",
+      "revit/athos-3-air"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Gündüz de görünür mü?",
+        "a": "Gümüş reflektif yüzey, ışık aldığında güçlü yansıtır; ancak floresan sarı veya turuncu bir renk olmadığı için gündüz dikkat çekiciliği floresan yeleklerden düşüktür."
+      },
+      {
+        "q": "Bedenler neden gruplu?",
+        "a": "Richa yelekte özel konumlandırılmış fermuarlar kullanıyor; bu fermuarlarla tek yelek üç ayrı bedene uyarlanabiliyor. Bedenler S-M-L, XL-2XL-3XL ve 4XL-5XL-6XL olarak satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/safety-flare-jacket/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/safety-flare-jacket/",
+        "type": "manufacturer",
+        "label": "Richa – Safety Flare ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "sizes": [
+      "S-M-L",
+      "XL-2XL-3XL",
+      "4XL-5XL-6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Dış: %100 polyester, D190 naylon kaplama (Richa Flare reflektif)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Yumuşak file astar",
+      "closure": "Ön fermuar; beden ayarlı yan fermuarlar ve esnek yan paneller",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "safety-mesh",
+    "brand": "richa",
+    "name": "Safety Mesh",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Geniş file panelli, 600D poliamid takviyeli, 3M reflektif detaylı, sarı veya turuncu floresan renkte dar kesimli görünürlük yeleği.",
+    "description": [
+      "Safety Mesh, Richa'nın havalandırmayı öne alan görünürlük yeleği. Floresan gövdede geniş file paneller var; böylece altındaki motosiklet montunun havalandırması büyük ölçüde korunuyor. Aşınmaya dayanıklı 600D poliamid katman yeleğe dayanım katıyor, 3M reflektif detaylar ise önde ve arkada yer alıyor.",
+      "Kumaş esneyen bir yapıda ve kalıp sürüşte çırpınmayı önleyecek şekilde dar (slim) kesilmiş. Önde büyük bir fermuar var. Renk seçeneği floresan sarı ve floresan turuncu; bedenler XS-S'den 5XL-6XL'e kadar ikili gruplar halinde. Richa sertifika alanında 'NVT' yazıyor; görünürlük standardı beyan edilmiyor. Modelin koleksiyon yılı 2013 olarak gösteriliyor, yani uzun süredir üretimde olan oturmuş bir tasarım."
+    ],
+    "forWho": [
+      "Yazın file veya havalandırmalı montla sürüp görünür olmak isteyenler",
+      "Turuncu floresan yelek tercih edenler",
+      "Dar kesimli, rüzgarda çırpınmayan bir yelek arayanlar"
+    ],
+    "notFor": [
+      "Belgeli yelek şartı olan kurye firmaları; üretici standart beyan etmiyor",
+      "Cep isteyenler; ürün açıklamasında cep belirtilmiyor",
+      "Kalın kış montu üstüne bol bir yelek arayanlar"
+    ],
+    "pros": [
+      "Geniş file paneller sayesinde havalandırmalı montlarla uyumlu",
+      "Aşınmaya dayanıklı 600D poliamid katman",
+      "Sarı ve turuncu floresan renk seçeneği",
+      "XS-S'den 5XL-6XL'e kadar geniş beden aralığı"
+    ],
+    "cons": [
+      "Üretici bir görünürlük standardı beyan etmiyor (NVT)",
+      "Cep bilgisi yok",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Floresan renk gündüz, 3M detaylar akşam şehir trafiğinde fark edilmeyi artırır.",
+      "uzunYol": "Dar kalıp uzun yolda dalgalanmayı azaltır.",
+      "yaz": "File paneller sayesinde yazın en rahat seçeneklerden biri.",
+      "kis": "Kalın montun üstüne bedeni doğru seçilerek kullanılabilir.",
+      "yagmur": "Yağmurluk üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Yaz kuryeliğinde serin kalır; ancak cep ve belge beyanı olmadığından firma şartlarını kontrol edin."
+    },
+    "verdict": "Safety Mesh, sıcak havada görünür kalmak isteyen sürücü için dengeli bir yelek: file paneller serin tutuyor, 600D katman dayanım veriyor. Standart beyanının ve cep bilgisinin olmaması, iş amaçlı kullanımda eksik kalıyor.",
+    "rivals": [
+      "revit/athos-3-air",
+      "oxford/active-bright-top",
+      "richa/safety-flare"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Turuncu mu sarı mı daha görünür?",
+        "a": "İki renk de floresan ve gündüz dikkat çekici. Arka planın (yeşillik, sarı taksiler, sonbahar yaprakları) rengine göre biri öne çıkabilir; tercihi sürdüğünüz ortama göre yapabilirsiniz."
+      },
+      {
+        "q": "Yazlık file montla kullanılır mı?",
+        "a": "Evet. Richa yelekte geniş file paneller kullandığını ve montun havalandırmasının korunmasını hedeflediğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/safety-mesh-jacket/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/safety-mesh-jacket/",
+        "type": "manufacturer",
+        "label": "Richa – Safety Mesh ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Yellow fluo",
+      "Orange fluo"
+    ],
+    "sizes": [
+      "XS-S",
+      "M-L",
+      "XL-2XL",
+      "3XL-4XL",
+      "5XL-6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester, 600D poliamid takviye",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş file paneller",
+      "closure": "Ön büyük fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "safety-belt-vest",
+    "brand": "richa",
+    "name": "Safety Belt Vest",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kemer tipi, katlanınca mont cebine sığan, bel, göğüs ve boy ayarlı, neon sarı ve 3M reflektif şeritli hafif görünürlük aparatı.",
+    "description": [
+      "Safety Belt Vest klasik bir yelek değil; omuzdan geçen bantlar ve bel kemerinden oluşan kemer tipi bir görünürlük aparatı. Neon sarı bantlar önde ve arkada 3M reflektif parçalarla dönüşümlü olarak yerleştirilmiş. Belde, göğüste ve boyda ayarlanabiliyor; böylece ince yaz montundan kalın kış montuna kadar farklı katmanların üstüne uyarlanıyor.",
+      "En büyük avantajı hacim: katlandığında mont cebine sığıyor, bu yüzden yalnızca gece veya kötü havada takmak isteyen sürücü onu sürekli yanında taşıyabiliyor. Buna karşılık bantlı yapı, tam gövdeli bir yeleğe göre çok daha az floresan ve reflektif yüzey sunuyor. Richa sertifika alanında 'NVT' yazıyor; standart beyanı yok."
+    ],
+    "forWho": [
+      "Görünürlük katmanını sürekli giymek yerine cepte taşıyıp gerektiğinde takmak isteyenler",
+      "Montunun üstüne tam yelek giymekten hoşlanmayanlar",
+      "Farklı kalınlıkta montlarda aynı aparatı kullanmak isteyenler"
+    ],
+    "notFor": [
+      "En geniş görünürlük yüzeyini isteyenler; bant yapısı tam yeleğe göre az alan sunar",
+      "Kurye olarak tüm gün yelek giymesi gerekenler; belge beyanı ve cep yok, tam gövdeli belgeli yelek daha doğru",
+      "Firması belgeli yelek isteyen iş sürücüleri"
+    ],
+    "pros": [
+      "Katlanınca mont cebine sığacak kadar küçük",
+      "Bel, göğüs ve boy ayarı",
+      "3M reflektif parçalar önde ve arkada",
+      "Montun havalandırmasını neredeyse hiç kapatmıyor"
+    ],
+    "cons": [
+      "Tam yeleğe göre çok daha az floresan ve reflektif yüzey",
+      "Üretici bir görünürlük standardı beyan etmiyor (NVT)",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Akşam saatlerinde cepten çıkarıp takılabilen pratik bir ek görünürlük sağlar.",
+      "uzunYol": "Gece etapları için cepte taşınabilir; tam yelek kadar geniş alan sunmaz.",
+      "yaz": "Bant yapısı sayesinde montun hava akışını engellemez.",
+      "kis": "Ayarları sayesinde kalın kış montu üstüne de uyarlanır.",
+      "yagmur": "Yağmurluk üstüne takılarak görünürlük sağlar."
+    },
+    "verdict": "Safety Belt Vest, yanında her zaman bir görünürlük katmanı bulundurmak isteyen sürücü için pratik bir yedek. Bant yapısı nedeniyle tam yelek kadar görünürlük sağlamaz; ana görünürlük ekipmanı olarak değil, cepte duran bir tamamlayıcı olarak düşünülmeli.",
+    "rivals": [
+      "bering/high-visibility-vest-en20471",
+      "tex-motor/tex-1182"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tam yelek yerine yeterli mi?",
+        "a": "Bant tipi yapı daha az yüzey sunduğu için tam gövdeli bir yelek kadar görünürlük sağlamaz. Gece ve kötü havada ek önlem olarak, cepte taşınan bir yedek olarak düşünmek daha doğru."
+      },
+      {
+        "q": "Hangi montlarla uyumlu?",
+        "a": "Bel, göğüs ve boy ayarlı olduğu için ince yaz montundan kalın kış montuna kadar farklı katmanların üstüne uyarlanabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/safety-belt-vest/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/safety-belt-vest/",
+        "type": "manufacturer",
+        "label": "Richa – Safety Belt Vest ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Yellow fluo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Bant tipi açık yapı",
+      "closure": "Bel, göğüs ve boy ayarlı kemer",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "high-visibility-vest-en20471",
+    "brand": "bering",
+    "name": "High Visibility Vest EN20471",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Bering'in kıyafetin üstüne giyilen, üreticiye göre EN ISO 20471 sınıf 2 belgeli, floresan sarı ve reflektif şeritli sade görünürlük yeleği.",
+    "description": [
+      "Bering'in bu yeleği, gösterişten uzak ve işini yapan klasik bir yüksek görünürlük yeleği. Kıyafetin üstüne giyilmek üzere tasarlanmış floresan sarı gövde ve reflektif şeritlerden oluşuyor. Üretici yeleğin EN 20471 standardına göre CE seviye 2 (sınıf 2) belgeli olduğunu belirtiyor; bu, iş güvenliği tarafında kullanılan profesyonel yüksek görünürlük standardı.",
+      "Bedenler S/M, L/XL ve 2XL/3XL olarak ikili gruplar halinde ve kalıp mont üstüne göre geniş tutulmuş. Ürün sayfasında malzeme, cep veya kapama tipi gibi ayrıntılar verilmiyor; bu nedenle yeleği belgesi ve fiyat/performansı için düşünmek gerekiyor. İki ve üç tekerlekli araç kullanıcılarına yönelik olarak tanıtılıyor."
+    ],
+    "forWho": [
+      "Belgeli (EN ISO 20471) bir yelek isteyen ama fazla para vermek istemeyenler",
+      "Kurye ve iş amaçlı sürücüler; belge sınıfı açıkça beyan ediliyor",
+      "Scooter ve üç tekerlekli araç kullanan şehir sürücüleri"
+    ],
+    "notFor": [
+      "Cepli, ayar kayışlı, motosiklete özel kalıplı bir yelek arayanlar; sayfada bu tür ayrıntı yok",
+      "Dar kesimli ve rüzgarda çırpınmayan bir yelek isteyen otoban sürücüleri"
+    ],
+    "pros": [
+      "Üretici EN ISO 20471 sınıf 2 belgesi beyan ediyor",
+      "Mont üstüne giyilecek geniş beden grupları",
+      "Basit ve hızlı giyilen yapı"
+    ],
+    "cons": [
+      "Malzeme, cep ve kapama ayrıntıları yayımlanmıyor",
+      "İkili beden grupları ince montla bol gelebilir",
+      "Türkiye'de yetkili mağazada fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şehir trafiğinde belgeli floresan yüzey ve reflektif şeritlerle görünürlük sağlar.",
+      "uzunYol": "Kullanılabilir; geniş kalıp yüksek hızda dalgalanabilir.",
+      "yaz": "Malzeme bilgisi verilmediği için havalandırma performansı belirsiz.",
+      "kis": "Geniş kalıbı kalın kış montunun üstüne giymeyi kolaylaştırır.",
+      "yagmur": "Yağmurluğun üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Belge sınıfı açıkça beyan edildiği için kurye kullanımına uygun; cep bilgisi yok."
+    },
+    "verdict": "Bering'in yeleği, belgeli bir görünürlük katmanını en sade haliyle isteyen sürücü için mantıklı. EN ISO 20471 sınıf 2 beyanı güçlü yanı; ürün ayrıntılarının azlığı ve motosiklete özel detayların olmaması zayıf yanı.",
+    "rivals": [
+      "richa/safety-belt-vest",
+      "tex-motor/forte-gt-2001189",
+      "oxford/active-bright-top"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "EN ISO 20471 sınıf 2 ne anlama geliyor?",
+        "a": "EN ISO 20471 profesyonel yüksek görünürlük giysileri için kullanılan standarttır. Sınıflar, giysideki floresan ve reflektif malzemenin en az yüzey alanına göre belirlenir; sınıf 2 orta seviyedir ve yelekler için yaygın sınıftır."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Bering bedenleri S/M, L/XL ve 2XL/3XL olarak ikili gruplar halinde sunuyor. Yeleği montun üstüne giyeceğiniz için mont bedeninize karşılık gelen grubu seçmek mantıklı."
+      }
+    ],
+    "manufacturerUrl": "https://bering-moto.com/en/products/high-visibility-vest-en20471-fluorescent",
+    "sources": [
+      {
+        "url": "https://bering-moto.com/en/products/high-visibility-vest-en20471-fluorescent",
+        "type": "manufacturer",
+        "label": "Bering – High Visibility Vest EN20471 Fluorescent ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.closure",
+      "specs.ventilation",
+      "sizeChart",
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Fluorescent yellow"
+    ],
+    "sizes": [
+      "S/M",
+      "L/XL",
+      "2XL/3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN ISO 20471",
+      "ceClass": "Class 2",
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "forte-gt-2001186",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001186 Reflektif Yelek",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Yerli Tex Motor'un Oxford kumaşlı, file astarlı, dört kargo cepli ve yan ayar kemerli, sarı ve siyah renk seçenekli kurye odaklı reflektif yeleği.",
+    "description": [
+      "Forte GT 2001186, İstanbul merkezli Tex Motor'un Forte GT giyim markası altında sattığı cepli reflektif yelek. Dış kumaş dayanıklı Oxford kumaş, içi terletmeyi azaltan file astar. Önde dört kargo cep, arkada bel hizasında çok amaçlı bir cep ve yanlarda ayar kemerleri bulunuyor; yani yelek hem görünürlük katmanı hem de küçük bir taşıma düzeni olarak düşünülmüş.",
+      "Üretici ürün sayfasında yeleği 'CE sertifikalı' ve 'Avrupa güvenlik standartlarına uygun' olarak tanımlıyor, ancak model için hangi standardın ve sınıfın geçerli olduğunu yazmıyor. Tex Motor ayrıca Forte GT reflektif yeleklerinin EN 17353:2020 standardına göre üretildiğini genel bir sertifika sayfasında belirtiyor; bu sayfa model listesi vermediği için standart alanını doğrulanmış saymadık. Sarı sürüm floresan renk ve reflektif hatlarla gündüz ve gece görünürlük sağlarken siyah sürümde görünürlük büyük ölçüde reflektif hatlara kalıyor."
+    ],
+    "forWho": [
+      "Gün boyu yelekle çalışan, cepte telefon, fiş ve bozuk para taşıyan kuryeler",
+      "Uygun fiyatlı, yerli üretim markadan cepli reflektif yelek isteyenler",
+      "Montun üstünde ek taşıma alanı isteyen şehir içi sürücüler"
+    ],
+    "notFor": [
+      "Model bazında belgelenmiş EN 17353 / EN ISO 20471 sınıfı arayanlar; ürün sayfası yalnızca genel 'CE sertifikalı' diyor",
+      "Gündüz görünürlüğü isteyip siyah sürümü düşünenler; siyah renkte floresan yüzey yok"
+    ],
+    "pros": [
+      "Dört kargo cep ve arka bel cebi",
+      "Yan ayar kemerleriyle farklı mont kalınlıklarına uyum",
+      "Dayanıklı Oxford kumaş ve file iç astar",
+      "Üreticinin sitesinde açık liste fiyatı"
+    ],
+    "cons": [
+      "Model için standart ve sınıf belirtilmiyor",
+      "Beden seçenekleri ve beden tablosu ürün sayfasında yok",
+      "Üreticinin sitesinde online satış yok; bayilerden almak gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Sık inip binilen şehir trafiğinde cepleri ve yan ayarlarıyla pratik.",
+      "uzunYol": "Uzun yolda kullanılabilir; dolu cepler yüksek hızda yeleği dalgalandırabilir.",
+      "yaz": "File astar terlemeyi azaltır ama Oxford dış kumaş file yelekler kadar hava geçirmez.",
+      "kis": "Yan ayar kemerleri kalın kış montunun üstüne giymeyi kolaylaştırır.",
+      "yagmur": "Yağmurluğun üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Asıl hedef kitlesi. Cep düzeni kurye kullanımına uygun; firmanız belge sınıfı istiyorsa satıcıdan model belgesini isteyin."
+    },
+    "verdict": "Forte GT 2001186, cep düzeni ve fiyatıyla kurye için mantıklı bir yerli yelek. Model bazında standart beyanının olmaması ve beden bilgisinin eksikliği, satın almadan önce bayiden teyit almayı gerektiriyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001188",
+      "tex-motor/forte-gt-2001190",
+      "oxford/utility-bright-top"
+    ],
+    "priceRange": {
+      "min": 1560,
+      "max": 1760,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Üreticinin kendi sitesindeki liste fiyatı; sitede online satış yok, bayilerde fiyat farklı olabilir."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek-sari/",
+        "price": 1760,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Sarı"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek/",
+        "price": 1560,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bu yelek EN 17353 belgeli mi?",
+        "a": "Ürün sayfası yalnızca 'CE sertifikalı' diyor. Tex Motor genel bir sayfada Forte GT reflektif yeleklerinin EN 17353:2020'ye göre üretildiğini belirtiyor ama model listesi vermiyor. Belge gerekiyorsa satıcıdan bu modelin uygunluk beyanını isteyin."
+      },
+      {
+        "q": "Sarı ile siyah arasında fark var mı?",
+        "a": "Özellikler aynı, fiyat farklı. Sarı sürüm floresan rengiyle gündüz de dikkat çeker; siyah sürümde görünürlük daha çok reflektif hatlara dayanır."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek-sari/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek-sari/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001186 Reflektif Yelek Sarı ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001186 Reflektif Yelek Siyah ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/en-173532020-reflektif-sertifikasi/",
+        "type": "manufacturer",
+        "label": "Tex Motor – EN 17353:2020 reflektif yelek sertifika bilgilendirmesi",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizes",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Sarı",
+      "Siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Oxford kumaş, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File iç astar",
+      "closure": "Yan ayar kemerleri",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "forte-gt-2001188",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001188 Reflektif Yelek",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tex Motor'un sarı ve turuncu floresan renkli, Oxford kumaşlı, göğüste fermuarlı cepli, üç kargo cepli ve yan ayarlı reflektif yeleği.",
+    "description": [
+      "Forte GT 2001188, aynı ailenin 2001186 modeline yakın ama cep düzeni farklı bir yelek. Dış kumaş Oxford kumaş, içte file astar var. Önde üç kargo cep, göğüste fermuarlı bir cep, arkada bel hizasında çok amaçlı cep ve yanlarda ayar kemerleri bulunuyor. Renk seçeneği floresan sarı ve floresan turuncu; ikisi de gündüz floresan renk, gece reflektif hatlarla görünürlük sağlıyor.",
+      "Üretici yeleği 'CE sertifikalı' ve Avrupa güvenlik standartlarına uygun olarak tanıtıyor ama ürün sayfasında standart adı ve sınıf yazmıyor. Tex Motor'un genel sertifika sayfası Forte GT reflektif yelekleri için EN 17353:2020 beyan ediyor; model bazında liste olmadığı için bu bilgiyi doğrulanmış standart olarak işlemedik. Göğüsteki fermuarlı cep, telefonu veya cüzdanı kargo ceplere göre daha güvenli taşımayı sağlıyor."
+    ],
+    "forWho": [
+      "Telefonu fermuarlı cepte güvenle taşımak isteyen kuryeler",
+      "Turuncu floresan yelek isteyenler",
+      "Yerli markadan, bayiden kolay bulunan cepli yelek arayanlar"
+    ],
+    "notFor": [
+      "Model bazında belgelenmiş standart sınıfı arayanlar; ürün sayfasında sınıf yok",
+      "Çok sıcak havada file gövdeli bir yelek arayanlar"
+    ],
+    "pros": [
+      "Göğüste fermuarlı cep, üç kargo cep ve arka bel cebi",
+      "Sarı ve turuncu floresan renk seçeneği",
+      "Yan ayar kemerleri",
+      "Üreticinin sitesinde açık liste fiyatı"
+    ],
+    "cons": [
+      "Model için standart ve sınıf belirtilmiyor",
+      "Beden seçenekleri ve beden tablosu yayımlanmıyor",
+      "Üreticinin sitesinde online satış yok"
+    ],
+    "usage": {
+      "sehir": "Floresan renk ve reflektif hatlarla şehir trafiğinde belirgin; cepler sık kullanıma uygun.",
+      "uzunYol": "Kullanılabilir; cepleri boş tutmak yüksek hızda konforu artırır.",
+      "yaz": "File astar yardımcı olur, ancak Oxford dış kumaş file yelekler kadar serin değil.",
+      "kis": "Yan ayar kemerleri kalın montla kullanımı kolaylaştırır.",
+      "yagmur": "Yağmurluk üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Fermuarlı göğüs cebi ve kargo cepleriyle kurye kullanımı için tasarlanmış; belge şartınız varsa model belgesini satıcıdan isteyin."
+    },
+    "verdict": "Forte GT 2001188, fermuarlı göğüs cebi ve turuncu renk seçeneğiyle ailenin en kullanışlı cepli modellerinden biri. Model bazında standart sınıfının yazmaması ve beden bilgisinin eksikliği, alırken bayiden teyit gerektiriyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001186",
+      "tex-motor/forte-gt-2001190",
+      "oxford/utility-bright-top"
+    ],
+    "priceRange": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Üreticinin kendi sitesindeki liste fiyatı; sitede online satış yok, bayilerde fiyat farklı olabilir."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001188-reflektif-yelek/",
+        "price": 2000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Sarı"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001188-turuncu-reflektif-yelek/",
+        "price": 2000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Turuncu"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "2001186 ile farkı nedir?",
+        "a": "2001188'de göğüste fermuarlı bir cep ve üç kargo cep var; 2001186'da dört kargo cep bulunuyor. 2001188 ayrıca turuncu renk seçeneğiyle geliyor."
+      },
+      {
+        "q": "Belgesi var mı?",
+        "a": "Ürün sayfası 'CE sertifikalı' diyor ama standart ve sınıf yazmıyor. Tex Motor genel olarak Forte GT reflektif yeleklerini EN 17353:2020'ye uygun tanıtıyor; model bazında teyit için satıcıdan uygunluk beyanını isteyin."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001188-reflektif-yelek/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001188-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001188 Reflektif Yelek ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001188-turuncu-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001188 Reflektif Yelek Turuncu ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/en-173532020-reflektif-sertifikasi/",
+        "type": "manufacturer",
+        "label": "Tex Motor – EN 17353:2020 reflektif yelek sertifika bilgilendirmesi",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizes",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Sarı",
+      "Turuncu"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Oxford kumaş, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File iç astar",
+      "closure": "Yan ayar kemerleri",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "forte-gt-2001189",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001189 Reflektif Yelek",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Üreticiye göre EN ISO 20471 ve EN ISO 13688 belgeli, Oxford ripstop kumaşlı, file astarlı, sırtında kurye yazısı için cırtlı alanı olan yerli reflektif yelek.",
+    "description": [
+      "Forte GT 2001189, Tex Motor'un yeni nesil reflektif yeleklerinden. Üretici bu model için EN ISO 20471:2013/A1:2016 (yüksek görünürlük) ve EN ISO 13688:2013/A1:2021 (koruyucu giysi genel şartları) belgelerini açıkça yazıyor; bu, Forte GT ailesinde model bazında standart beyanı olan ilk yeleklerden. Dış kumaş dayanıklı Oxford ripstop, iç astar ise hava sirkülasyonu sağlayan file.",
+      "Göğüste iki fonksiyonel cep ve bir kartvizit cebi var. Sırtta cırtlı bir alan bulunuyor: standart olarak Forte GT logosu takılı geliyor, kullanıcı buraya kendi cırtlı yamasını takabiliyor ya da üreticiden 'KURYE' yazılı yama isteyebiliyor. Ürün sayfasında EN ISO 20471 sınıfı, beden seçenekleri ve fiyat yayımlanmıyor."
+    ],
+    "forWho": [
+      "Belge beyanı olan, uygun fiyatlı yerli bir kurye yeleği arayanlar",
+      "Sırtına firma veya 'KURYE' yaması takmak isteyen motokuryeler",
+      "Kartvizit veya kimlik kartı taşıması gereken iş amaçlı sürücüler"
+    ],
+    "notFor": [
+      "EN ISO 20471 sınıfını (1/2/3) bilerek almak isteyenler; ürün sayfasında sınıf yok",
+      "Çok sayıda kargo cep isteyenler; cep düzeni göğüsle sınırlı"
+    ],
+    "pros": [
+      "Model bazında EN ISO 20471 ve EN ISO 13688 beyanı",
+      "Sırtta değiştirilebilir cırtlı yama alanı",
+      "Oxford ripstop dış kumaş ve file astar",
+      "Göğüste iki cep ve kartvizit cebi"
+    ],
+    "cons": [
+      "EN ISO 20471 sınıfı belirtilmiyor",
+      "Fiyat ve beden bilgisi ürün sayfasında yok",
+      "Üreticinin sitesinde online satış yok"
+    ],
+    "usage": {
+      "sehir": "Şehir trafiğinde belgeli yüksek görünürlük sağlar; göğüs cepleri hızlı erişim için pratik.",
+      "uzunYol": "Kullanılabilir; ripstop kumaş uzun kullanımda dayanıklı.",
+      "yaz": "File astar hava sirkülasyonuna yardım eder.",
+      "kis": "Mont üstüne giyilir; bedeni monta göre seçmek gerekir.",
+      "yagmur": "Yağmurluk üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Kurye kullanımı için tasarlanmış: belge beyanı, kartvizit cebi ve sırtta kurye yaması alanı var."
+    },
+    "verdict": "Forte GT 2001189, belge beyanı ve kurye yaması alanıyla motokurye için güçlü bir yerli seçenek. Sınıf, beden ve fiyat bilgisinin yayımlanmaması alışverişte bayiye sormayı zorunlu kılıyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001190",
+      "bering/high-visibility-vest-en20471",
+      "tex-motor/tex-1182"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Sırtındaki cırtlı alan ne işe yarıyor?",
+        "a": "Üreticiye göre bu alanda standart olarak Forte GT logosu bulunuyor. Kullanıcı kendi cırtlı yamasını takabiliyor ya da 'KURYE' yazılı özel yama talep edebiliyor."
+      },
+      {
+        "q": "Hangi belgeler var?",
+        "a": "Tex Motor bu model için EN ISO 20471:2013/A1:2016 ve EN ISO 13688:2013/A1:2021 belgelerini belirtiyor. EN ISO 20471 sınıfı ürün sayfasında yazmıyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001189-reflektif-yelek/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001189-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001189 Reflektif Yelek ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "priceRange",
+      "sizes",
+      "sizeChart",
+      "specs.closure",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Oxford ripstop kumaş, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN ISO 20471",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File iç astar",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "forte-gt-2001190",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001190 Reflektif Yelek",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "EN ISO 20471 ve EN ISO 13688 belgeli, yan fermuarlarıyla iki beden genişleyen, dört fermuarlı cepli ve cırtlı sırt alanlı yerli kurye yeleği.",
+    "description": [
+      "Forte GT 2001190, 2001189 ile aynı belge ve kumaş altyapısını paylaşıyor ama daha çok cebe ve ayarlanabilir kalıba sahip. Üretici yelek için EN ISO 20471:2013/A1:2016 ve EN ISO 13688:2013/A1:2021 belgelerini belirtiyor. Dış kumaş Oxford ripstop, iç astar file. Göğüste iki, karın bölgesinin sağında ve solunda iki olmak üzere toplam dört fermuarlı cep bulunuyor.",
+      "Modelin öne çıkan detayı, koltuk altından aşağı uzanan iki yan fermuar: açıldığında yelek yaklaşık iki beden genişliyor, kapatıldığında vücuda daha yakın oturuyor. Bu sayede aynı yelek hem ince yaz montunun hem kalın kış montunun üstüne uyarlanabiliyor. Sırttaki cırtlı alana Forte GT logosu, kişisel yama ya da 'KURYE' yazılı yama takılabiliyor. EN ISO 20471 sınıfı, beden listesi ve fiyat ürün sayfasında yayımlanmıyor."
+    ],
+    "forWho": [
+      "Yaz ve kış aynı yeleği kullanmak isteyen kuryeler",
+      "Telefon, cüzdan ve fişleri fermuarlı ceplerde güvenle taşımak isteyenler",
+      "Belge beyanı olan yerli bir yelek arayanlar"
+    ],
+    "notFor": [
+      "EN ISO 20471 sınıfını önceden bilmek isteyenler; ürün sayfasında sınıf yok",
+      "En sade ve hafif yeleği arayanlar; fermuar ve cepler ağırlık ve hacim ekler"
+    ],
+    "pros": [
+      "Yan fermuarlarla yaklaşık iki beden genişleyen kalıp",
+      "Dört fermuarlı cep",
+      "Model bazında EN ISO 20471 ve EN ISO 13688 beyanı",
+      "Sırtta değiştirilebilir cırtlı yama alanı"
+    ],
+    "cons": [
+      "EN ISO 20471 sınıfı belirtilmiyor",
+      "Fiyat ve beden bilgisi ürün sayfasında yok",
+      "Üreticinin sitesinde online satış yok"
+    ],
+    "usage": {
+      "sehir": "Fermuarlı cepler ve belgeli görünürlük ile şehir içi iş sürüşüne uygun.",
+      "uzunYol": "Yan fermuarlar kapatılınca vücuda oturur, uzun yolda dalgalanma azalır.",
+      "yaz": "File astar ve yan fermuarları kapatılmış dar kalıp ile ince montla kullanılabilir.",
+      "kis": "Yan fermuarlar açılarak kalın kış montunun üstüne giyilebilir.",
+      "yagmur": "Yağmurluk üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Kurye için en kapsamlı Forte GT yeleklerinden: dört fermuarlı cep, ayarlanabilir kalıp ve kurye yaması alanı."
+    },
+    "verdict": "Forte GT 2001190, ayarlanabilir kalıbı ve fermuarlı cepleriyle dört mevsim çalışan kuryeye en çok hitap eden yerli yelek. Sınıf, beden ve fiyat bilgisi eksik; bunları bayiden teyit ederek almak gerekiyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001189",
+      "tex-motor/forte-gt-2001188",
+      "oxford/utility-bright-top"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Yan fermuarlar ne işe yarıyor?",
+        "a": "Üreticiye göre koltuk altından aşağı uzanan iki yan fermuar açıldığında yelek yaklaşık iki beden genişliyor. Böylece kalın kış montunun üstüne de, ince yaz montunun üstüne de giyilebiliyor."
+      },
+      {
+        "q": "2001189 ile farkı nedir?",
+        "a": "İkisi aynı belge ve kumaşa sahip. 2001190'da dört fermuarlı cep ve genişleyen yan fermuarlar var; 2001189'da göğüste iki cep ve bir kartvizit cebi bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001190-reflektif-yelek/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001190-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001190 Reflektif Yelek ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "priceRange",
+      "sizes",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Oxford ripstop kumaş, file iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN ISO 20471",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File iç astar",
+      "closure": "İki yan fermuar (yaklaşık iki beden genişleme)",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tex-1182",
+    "brand": "tex-motor",
+    "name": "TEX 1182 Cepli Reflektif Yelek",
+    "category": "koruma",
+    "subcategories": [
+      "gorunurluk-yelegi"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Fileli polyester kumaştan, fermuarlı, iki yan cepli, kartvizit ve kalem bölmeli, mont üstüne giyilen hafif ve çok uygun fiyatlı reflektif yelek.",
+    "description": [
+      "TEX 1182, Tex Motor'un en temel cepli reflektif yeleklerinden. Fileli polyester kumaştan yapılmış, hafif ve mont üstüne giyilecek şekilde tasarlanmış. Gece görünürlüğünü artıran reflektif hatlar, önde fermuar, iki yan cep, göğüste kartvizit bölmesi ve diğer göğüste kalem cebi bulunuyor.",
+      "Ürün sayfasında herhangi bir standart veya sertifika belirtilmiyor; bu nedenle yeleği belgeli bir kişisel koruyucu donanım olarak değil, düşük bütçeli bir görünürlük katmanı olarak değerlendirmek gerekiyor. Fiyatı ailenin cepli Forte GT modellerinin çok altında olduğu için yedek yelek olarak ya da kısa süreli kullanım için mantıklı."
+    ],
+    "forWho": [
+      "Çok düşük bütçeyle cepli bir görünürlük yeleği arayanlar",
+      "Yedek veya ikinci yelek isteyen kuryeler",
+      "Yazın file, hafif bir yelek isteyen şehir sürücüleri"
+    ],
+    "notFor": [
+      "Belgeli yelek şartı olan kurye firmaları; ürün sayfasında standart yok",
+      "Uzun ömürlü, dayanıklı kumaş arayanlar; Oxford kumaşlı Forte GT modelleri daha sağlam görünüyor"
+    ],
+    "pros": [
+      "Çok uygun liste fiyatı",
+      "Fileli, hafif kumaş",
+      "İki yan cep, kartvizit ve kalem bölmesi"
+    ],
+    "cons": [
+      "Standart veya sertifika belirtilmiyor",
+      "Beden ve renk bilgisi ürün sayfasında yok",
+      "Üreticinin sitesinde online satış yok"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde temel görünürlük ve küçük eşya taşıma için yeterli.",
+      "uzunYol": "Hafif file kumaş yüksek hızda dalgalanabilir.",
+      "yaz": "Fileli kumaş sayesinde sıcak havada rahat.",
+      "kis": "Mont üstüne giyilebilir; beden seçeneklerini bayiden teyit edin.",
+      "yagmur": "Yağmurluk üstüne giyilerek görünürlük sağlar.",
+      "kurye": "Yedek veya bütçe yeleği olarak kullanılabilir; firma belge istiyorsa EN ISO 20471 beyanlı Forte GT 2001189/2001190 daha uygun."
+    },
+    "verdict": "TEX 1182, cepli bir reflektif yeleğe en düşük bütçeyle ulaşmanın yolu. Belge beyanının olmaması ve hafif kumaşı, onu ana yelekten çok yedek veya kısa süreli kullanım için uygun kılıyor.",
+    "rivals": [
+      "tex-motor/forte-gt-2001189",
+      "bering/high-visibility-vest-en20471",
+      "richa/safety-belt-vest"
+    ],
+    "priceRange": {
+      "min": 380,
+      "max": 380,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Üreticinin kendi sitesindeki liste fiyatı; sitede online satış yok, bayilerde fiyat farklı olabilir."
+    },
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-1182-cepli-reflektif-yelek/",
+        "price": 380,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Sertifikası var mı?",
+        "a": "Ürün sayfasında bir standart veya sertifika belirtilmiyor. Belgeli yelek gerekiyorsa Tex Motor'un EN ISO 20471 beyanlı Forte GT 2001189 veya 2001190 modellerine bakın."
+      },
+      {
+        "q": "Kaç cebi var?",
+        "a": "Üreticiye göre iki yan cep, göğüste bir kartvizit bölmesi ve diğer göğüste bir kalem cebi bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-1182-cepli-reflektif-yelek/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-1182-cepli-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX 1182 Cepli Reflektif Yelek ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "sizes",
+      "colors",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Fileli polyester kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Fileli kumaş",
+      "closure": "Ön fermuar",
+      "madeIn": null
+    }
+  }
+]
