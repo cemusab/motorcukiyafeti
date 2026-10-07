@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "pando-moto",
+    "name": "Pando Moto",
+    "country": "Litvanya",
+    "founded": 2011,
+    "website": "https://pandomoto.com/",
+    "about": [
+      "Pando Moto, 2011'de Litvanya'nın başkenti Vilnius'ta kurulan bir motosiklet giyim markası. Şirket, Harley-Davidson bayisinin üstündeki küçük bir ofiste başladı ve yerel Harley-Davidson Baltic iş birliğiyle büyüdü. Markanın odağı, günlük kıyafet gibi görünen ama CE sertifikalı koruma sunan motosiklet kotları.",
+      "Pando Moto, kotlarında Cordura denim, Dyneema, Armalith, aramid ve Balistex gibi yüksek dayanımlı malzemeler kullanıyor; tek katlı Dyneema koleksiyonunu 2015'te tanıttı. Bugün kot pantolonların yanında mont, bot, eldiven, koruyucu iç giyim ve aksesuar da satıyor ve ürünlerini kendi online mağazası ve bayileriyle Avrupa, Amerika ve Asya'ya ulaştırıyor."
+    ],
+    "strengths": [
+      "Günlük görünümlü, CE sertifikalı motosiklet kotları",
+      "Tek katlı Dyneema ve Armalith kot seçenekleri",
+      "Kadın kalıplarında geniş kot seçimi",
+      "AAA sınıfına ulaşan kot modelleri"
+    ],
+    "categories": [
+      "pantolon",
+      "mont",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Erkek motosiklet kotları",
+        "note": "Karl Devil, Robby, Mark, Boss gibi Cordura, Dyneema ve Balistex modeller.",
+        "url": "https://pandomoto.com/products/karl-devil-aaa-motorcycle-jeans-for-men-slim-fit-balistex-and-cordura"
+      },
+      {
+        "name": "Kadın motosiklet kotları",
+        "note": "Kusari, Lorica, Kaya gibi yüksek belli ve dar kesim modeller.",
+        "url": "https://pandomoto.com/products/kusari-cor-02-women-motorcycle-jeans-skinny-fit-cordura"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Karl Devil AAA+",
+        "url": "https://pandomoto.com/products/karl-devil-aaa-motorcycle-jeans-for-men-slim-fit-balistex-and-cordura",
+        "reason": "Slim fit kot görünümünde EN 17092-2 AAA sınıfı ve D3O Ghost korumalar."
+      }
+    ],
+    "alternatives": [
+      "rokker",
+      "revit",
+      "riderdenim"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "event": "Marka Vilnius'ta, Harley-Davidson bayisinin üstündeki küçük bir ofiste kuruldu."
+      },
+      {
+        "year": 2014,
+        "event": "Milano'daki EICMA fuarında uluslararası pazara açıldı."
+      },
+      {
+        "year": 2015,
+        "event": "Tek katlı Dyneema koleksiyonu tanıtıldı."
+      },
+      {
+        "year": 2017,
+        "event": "Çin, Japonya, Tayland ve Güney Kore gibi Asya pazarlarına girildi."
+      },
+      {
+        "year": 2021,
+        "event": "Yeni logo ve görsel kimlikle yeniden markalaşma yapıldı."
+      },
+      {
+        "year": 2023,
+        "event": "Deri giyim koleksiyonu piyasaya sürüldü."
+      }
+    ],
+    "strongestLine": "Günlük görünümlü, CE sertifikalı motosiklet kotları",
+    "sources": [
+      {
+        "url": "https://pandomoto.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "Pando Moto – Hakkımızda",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.webbikeworld.com/pando-moto-jeans-blacker-safer-comfier",
+        "type": "review",
+        "label": "webBikeWorld – Pando Moto tanıtımı",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "rokker",
+    "name": "ROKKER",
+    "country": "İsviçre",
+    "founded": 2006,
+    "website": "https://www.therokkercompany.com/",
+    "about": [
+      "The ROKKER Company, 2006'da İsviçre'de Kai Glatt ve Michael Kuratli tarafından kurulan bir motosiklet giyim markası. İlk motosiklet kotu prototipini Aralık 2006'da tamamladı ve Şubat 2007'de Swiss-Moto fuarında tanıttı. Markanın amacı, motosiklet ekipmanı gibi görünmeyen ama sürtünmeye dayanıklı ve korumalı kotlar üretmek.",
+      "ROKKER, kendi geliştirdiği Rokkertech kumaşıyla tek katlı motosiklet kotlarına odaklanıyor; ürün yelpazesinde kargo pantolon, chino, mont, bot ve aksesuar da var. Şirket ürünlerini yalnız Avrupa'da, Portekiz başta olmak üzere ürettiğini belirtiyor. 2020'de daha genç sürücülere yönelik Riding Culture markasını başlattı."
+    ],
+    "strengths": [
+      "Tek katlı, yüksek dayanımlı motosiklet kotları (Rokkertech)",
+      "Avrupa üretimi ve uzun garanti",
+      "Motosiklet ekipmanı gibi görünmeyen tasarımlar"
+    ],
+    "categories": [
+      "pantolon",
+      "mont",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Rokkertech kotlar",
+        "note": "Tek katlı, AA ve AAA sınıfı Rokkertech kumaşlı kotlar.",
+        "url": "https://www.therokkercompany.com/products/rokkertech-tapered-slim-d-blue"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Rokkertech Tapered Slim",
+        "url": "https://www.therokkercompany.com/products/rokkertech-tapered-slim-d-blue",
+        "reason": "Tek katlı yapıda AA sınıfı ve D3O korumalar; Avrupa üretimi."
+      }
+    ],
+    "alternatives": [
+      "pando-moto",
+      "revit",
+      "alpinestars"
+    ],
+    "history": [
+      {
+        "year": 2006,
+        "event": "Kai Glatt ve Michael Kuratli şirketi kurdu; ilk motosiklet kotu prototipi tamamlandı."
+      },
+      {
+        "year": 2007,
+        "event": "Swiss-Moto fuarında ilk kez sergilendi; girişimcilik ödülü aldı."
+      },
+      {
+        "year": 2009,
+        "event": "Avrupa'da 10 bayiye ulaşıldı ve ürün yelpazesi genişletildi."
+      },
+      {
+        "year": 2020,
+        "event": "Genç sürücülere yönelik Riding Culture markası başlatıldı."
+      }
+    ],
+    "strongestLine": "Tek katlı Rokkertech motosiklet kotları",
+    "sources": [
+      {
+        "url": "https://www.therokkercompany.com/pages/the-rokker-story",
+        "type": "manufacturer",
+        "label": "ROKKER – şirket hikâyesi",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.therokkercompany.com/",
+        "type": "manufacturer",
+        "label": "ROKKER resmi sitesi",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]
