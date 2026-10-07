@@ -3,6 +3,7 @@
  * ve merkezi route manifest'i. Sitemap, arama indeksi ve testler hep bu dosyadaki listeleri kullanır.
  */
 import "server-only";
+import { memo } from "./memo";
 import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
@@ -31,7 +32,7 @@ export const pairSlug = (a: Product, b: Product) => {
 };
 
 /** Yalnızca editoryal olarak rakip işaretlenmiş ürünler için statik karşılaştırma sayfası üretilir (thin content önlemi). */
-export function comparePairs() {
+export const comparePairs = memo(() => {
   const seen = new Map<string, [Product, Product]>();
   for (const p of getProducts()) {
     for (const rid of p.rivals) {
@@ -42,7 +43,7 @@ export function comparePairs() {
     }
   }
   return [...seen.entries()].map(([slug, items]) => ({ slug, items }));
-}
+});
 
 export function pairsFor(p: Product) {
   return comparePairs().filter((x) => x.items.some((i) => productId(i) === productId(p)));
@@ -143,7 +144,7 @@ export function listItems(slug: string) {
   return LIST_DEFS.find((l) => l.slug === slug)?.pick() ?? [];
 }
 /** En az 2 ürünü olmayan liste yayınlanmaz. */
-export const activeLists = () => LIST_DEFS.filter((l) => l.pick().length >= 2);
+export const activeLists = memo(() => LIST_DEFS.filter((l) => l.pick().length >= 2));
 
 /* ---------- Cinsiyet sayfaları ---------- */
 
@@ -175,13 +176,13 @@ export function compatForIntercom(id: string) {
   return getCompat().filter((c) => c.intercom === id);
 }
 export const compatSlug = (p: Product) => `${p.brand}-${p.slug}`;
-export const helmetsWithCompat = () => getHelmets().filter((h) => compatForHelmet(productId(h)).length > 0);
+export const helmetsWithCompat = memo(() => getHelmets().filter((h) => compatForHelmet(productId(h)).length > 0));
 
 /* ---------- Route manifest ---------- */
 
 export type RouteEntry = { path: string; group: "statik" | "kategori" | "urun" | "marka" | "rehber" | "karsilastirma"; index: boolean };
 
-export function routeManifest(): RouteEntry[] {
+export const routeManifest = memo((): RouteEntry[] => {
   const r: RouteEntry[] = [];
   const add = (path: string, group: RouteEntry["group"], index = true) => r.push({ path, group, index });
   ["/", "/markalar", "/rehber", "/karsilastir", "/interkom-uyumlulugu", "/yeni-baslayanlar", "/motosikletime-gore", "/ne-almaliyim", "/hakkimizda", "/veri-politikasi", "/iletisim"].forEach((p) =>
@@ -206,7 +207,7 @@ export function routeManifest(): RouteEntry[] {
   for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma");
   for (const h of helmetsWithCompat()) add(`/interkom-uyumlulugu/${compatSlug(h)}`, "karsilastirma");
   return r;
-}
+});
 
 
 

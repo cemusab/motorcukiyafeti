@@ -5,7 +5,7 @@
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
-import { cache } from "react";
+import { memo } from "./memo";
 import { z } from "zod";
 import {
   ApparelSchema,
@@ -40,7 +40,7 @@ function readArray<T>(rel: string, schema: z.ZodType<T>): T[] {
   });
 }
 
-export const getProducts = cache((): Product[] => {
+export const getProducts = memo((): Product[] => {
   // Her kategori birden fazla dosyaya bölünebilir: products/mont.json, products/mont-kadin.json …
   const files = (cat: string) => fs.readdirSync(path.join(DATA, "products")).filter((f) => f === `${cat}.json` || f.startsWith(`${cat}-`));
   const helmets = files("kask").flatMap((f) => readArray(`products/${f}`, HelmetSchema));
@@ -73,7 +73,7 @@ export function productsIn(category: string, sub?: string) {
   return getProducts().filter((p) => p.category === category && (!sub || p.subcategories.includes(sub)));
 }
 
-export const getBrands = cache((): Brand[] =>
+export const getBrands = memo((): Brand[] =>
   fs
     .readdirSync(DATA)
     .filter((f) => /^brands.*\.json$/.test(f))
@@ -90,7 +90,7 @@ export const localFirst = <T extends Pick<Product, "brand">>(list: T[]) => [...l
 /** Sadece kayıtlı markalara link verilir; diğerleri düz metin gösterilir. */
 export const brandHasPage = (slug: string) => !!getBrand(slug);
 
-export const getGuides = cache((): Guide[] => {
+export const getGuides = memo((): Guide[] => {
   const dir = path.join(DATA, "guides");
   if (!fs.existsSync(dir)) return [];
   return fs
@@ -101,12 +101,12 @@ export const getGuides = cache((): Guide[] => {
 });
 export const getGuide = (slug: string) => getGuides().find((g) => g.slug === slug);
 
-export const getCompat = cache((): Compat[] => {
+export const getCompat = memo((): Compat[] => {
   const ids = new Set(getProducts().map(productId));
   return readArray("compat.json", CompatSchema).filter((c) => ids.has(c.helmet) && ids.has(c.intercom));
 });
 
-const getMediaMap = cache(
+const getMediaMap = memo(
   () =>
     new Map(
       fs
@@ -121,11 +121,11 @@ const EMPTY_MEDIA = (id: string): Media => ({ product: id, images: [], videos: [
 export const getMedia = (p: Pick<Product, "brand" | "slug">): Media => getMediaMap().get(productId(p)) ?? EMPTY_MEDIA(productId(p));
 
 /** Site sahibinin onayladığı kullanıcı yorumları. */
-export const getReviews = cache(() => readArray("reviews.json", ReviewSchema));
+export const getReviews = memo(() => readArray("reviews.json", ReviewSchema));
 export const reviewsFor = (p: Pick<Product, "brand" | "slug">) => getReviews().filter((r) => r.product === productId(p)).sort((a, b) => b.approvedAt.localeCompare(a.approvedAt));
 
 /** Türkiye'de çok satan / ilgi gören motosiklet modelleri. */
-export const getMotorcycles = cache(() => {
+export const getMotorcycles = memo(() => {
   const file = path.join(DATA, "motorcycles.json");
   if (!fs.existsSync(file)) return [];
   const raw = JSON.parse(fs.readFileSync(file, "utf8")) as { models?: unknown[] };
