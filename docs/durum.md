@@ -47,11 +47,20 @@ Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur y
    d. Mevsim (Ekim–Şubat: kışlık mont/eldiven, termal, yağmurluk, ısıtmalı)
    e. Search Console'da aranan marka/ürünler (veri gelince)
 3. Kurallar: `docs/agent-urun-talimati.md`; uydurma veri yok; yeni ürün dosyaları `src/data/products/{kategori}-{tur}.json`.
+   **Her turda ayrıca 2–3 blog yazısı** (`src/data/guides/`): turun ürünleriyle bağlantılı rehber + güncel/sezonluk konu. İlk iki cümle soruyu doğrudan cevaplar (GEO), her rakam kaynaklı, özgün Türkçe. Konu havuzu:
+   - Reflektörlü yelek ve görünürlük (EN 17353 vs EN ISO 20471), kışın motosiklet sürüşü, buzlu/ıslak zeminde sürüş
+   - Kurye ekipmanı yıllık maliyet hesabı, kurye mont/yağmurluk karşılaştırması, kurye iş güvenliği güncel düzenlemeler
+   - Yerli üretici profilleri (Yaren, Tex Motor, YDS, Riderdenim, Tech90): ne üretiyorlar, sertifikaları
+   - "X bütçeyle tam ekipman seti" (10/20/40 bin TL), yeni başlayanlar için ilk alışveriş listesi
+   - Ehliyet sınıfları (A1/A2/A, B ile 125cc), motor alırken ekipman bütçesi
+   - Kask bedeni sorunları, gözlüklüler için kask, kadın sürücü kalıp rehberi
+   - Sezon: kış bakımı ve motoru kışa hazırlama, ilkbahar ekipman kontrolü
+   - MotoGP/WorldSBK sezon notları (Toprak Razgatlıoğlu dahil) — yalnız doğrulanmış bilgi
 4. Bitince `npm run validate` + `npm run qa` yeşil → **tek commit, tek push** (`main`).
 5. Bu dosyaya tur kaydı ekle; kullanıcıya kısa rapor ver.
 
 **Tur kayıtları / plan:**
-- [ ] Tur 1: YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
-- [ ] Tur 2: Kurye ürünleri (yerli kurye mont/pantolon/yağmurluk, kurye çantası, telefon tutucu) + eksik TR fiyatları
-- [ ] Tur 3: Search Console verisine göre aranan markalar/modeller
+- [ ] Tur 1 (+ blog: reflektörlü yelek ve görünürlük standartları; kışın motosiklet sürüşü): YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
+- [ ] Tur 2 (+ blog: kurye ekipmanı yıllık maliyet; yerli üretici profili): Kurye ürünleri (yerli kurye mont/pantolon/yağmurluk, kurye çantası, telefon tutucu) + eksik TR fiyatları
+- [ ] Tur 3 (+ blog: bütçeyle tam ekipman seti; ehliyet sınıfları ve ekipman): Search Console verisine göre aranan markalar/modeller
 - [ ] Sonra: haftada ~2 tur ritmi

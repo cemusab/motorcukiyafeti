@@ -29,7 +29,7 @@ Veri şimdilik `src/data/**/*.json` dosyalarında, `src/data/schema.ts` (zod) il
 - Önizleme deployment'ı gerekiyorsa kullanıcıya sor.
 
 ## "devam" protokolü
-Kullanıcı "devam" dediğinde `docs/durum.md` > "devam protokolü" bölümündeki sıradaki veri turunu yap (tur başına toplam 20–30 kaliteli ürün, öncelik: TR'de satılan + fiyatlı, yerli, kurye, mevsim). Tur sonunda tek push.
+Kullanıcı "devam" dediğinde `docs/durum.md` > "devam protokolü" bölümündeki sıradaki veri turunu yap (tur başına toplam 20–30 kaliteli ürün + 2–3 blog yazısı, öncelik: TR'de satılan + fiyatlı, yerli, kurye, mevsim). Tur sonunda tek push.
 
 ## Komutlar
 - `npm run dev` – geliştirme sunucusu (arka planda çalıştır, bekleme)
