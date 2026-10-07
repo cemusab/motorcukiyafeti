@@ -21,6 +21,13 @@ Veri şimdilik `src/data/**/*.json` dosyalarında, `src/data/schema.ts` (zod) il
 7. Çalışmayan özellik mock bırakılmaz: ya tamamlanır ya arayüzden kaldırılır.
 8. KVKK ve GDPR: yeni bir veri işleme (form, analitik, çerez, yeni üçüncü taraf) eklenirse önce `src/data/legal.json` metinleri güncellenir; rıza gerektiren çerez/izleme rızasız çalışmaz.
 
+## Deploy disiplini (Vercel limitleri dolmuştu)
+- Her küçük değişiklikte push ETME. İlgili değişiklikleri biriktir, tek committe birleştir.
+- Push'tan önce yerelde `npm run qa` (validate + build + Playwright) yeşil olmalı.
+- Canlıya çıkış yalnızca `main`'e push ile ve günde mümkün olduğunca bir kez. `v2` ve diğer dallar Vercel'de derlenmez (`scripts/vercel-ignore.sh`).
+- Yalnızca docs/*.md/tests değişikliği derleme tetiklemez; yine de gereksiz push yapma.
+- Önizleme deployment'ı gerekiyorsa kullanıcıya sor.
+
 ## Komutlar
 - `npm run dev` – geliştirme sunucusu (arka planda çalıştır, bekleme)
 - `npm run validate` – veri kalitesi kontrolü (şema, yinelenen kayıt, kırık referans, kaynaksız fiyat)
