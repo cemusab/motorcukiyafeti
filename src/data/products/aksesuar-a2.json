@@ -1,0 +1,1718 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "pinlock/120-xlt-maxvision"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/pinlock-pin70-bugu-onleyici/",
+        "price": 960,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "DKS002 (Sway uyumlu)"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 960,
+      "max": 960,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "colors"
+    ],
+    "slug": "70-maxvision",
+    "brand": "pinlock",
+    "name": "Pinlock 70 MaxVision",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Pinlock'a hazır vizörlerin içine takılan, günlük ve uzun yol kullanımında buğuyu önleyen orta-üst seviye anti-fog lens; vizörü geniş kaplayan MaxVision kesimli.",
+    "description": [
+      "Pinlock 70, Hollandalı Pinlock'un dört kademeli buğu önleme serisinin (30, 70, 120, 200) ikinci basamağı. Üretici bu seviyeyi 'her sürüşte tutarlı ve güvenilir buğu önleme' için konumlandırıyor; şehir içine yönelik Pinlock 30'a göre daha fazla nem tutabilen bir yüzeye sahip. Lens, vizörün iç tarafına iki eksantrik pimle gerilerek takılıyor; kenarındaki conta lens ile vizör arasında kapalı bir hava yastığı oluşturuyor. Bu çift cam benzeri yalıtım, soğuk havada vizörün iç yüzeyinin çiğlenmesini engelliyor.",
+      "MaxVision, lensin vizörün görüş alanını olabildiğince geniş kaplaması anlamına geliyor; böylece buğulanmayan bölge kenarlara kadar uzanıyor. Önemli nokta, Pinlock lenslerin kaska özel olması: her vizör için ayrı bir DKS ürün kodu var ve yalnızca pimli (Pinlock'a hazır) vizörlere takılabiliyor. Türkiye'de Pinlock'u Tex Motor dağıtıyor; Tex Motor'un sattığı DKS002 kodlu Pinlock 70, 2025 ve sonrası üretilen Sway kasklarına uygun olarak listeleniyor. Başka marka kask için doğru kodu Pinlock'un lens bulucusundan kontrol etmek gerekiyor."
+    ],
+    "forWho": [
+      "Pinlock'a hazır vizörlü kaskı olup kutudan lens çıkmamış ya da eski lensi yıpranmış sürücüler",
+      "Sonbahar-kış aylarında da her gün motosiklet kullanan, sabah soğuğunda vizörü buğulanan sürücüler",
+      "Sway kask kullanıcıları (DKS002 kodlu lens)"
+    ],
+    "notFor": [
+      "Vizöründe Pinlock pimi bulunmayan kasklar: lens takılamaz",
+      "Çok nemli ve soğuk havada uzun süre yavaş giden, en üst seviye performans isteyenler (Pinlock 120 veya 200 daha uygun)"
+    ],
+    "pros": [
+      "Kanıtlanmış çift katman prensibi; sprey ve silmeli ürünlerden çok daha kalıcı çözüm",
+      "MaxVision kesimiyle geniş buğusuz görüş alanı",
+      "Eksantrik pimlerle lens gerginliği ayarlanabiliyor",
+      "Tex Motor üzerinden Türkiye'de resmi dağıtım ve liste fiyatı var"
+    ],
+    "cons": [
+      "Kaska özel; yanlış DKS kodlu lens takılmaz, satın almadan önce model eşleştirmesi şart",
+      "Lens ile vizör arasına toz veya su girerse görüş bozulabilir, düzenli temizlik ister",
+      "Ek bir yüzey olduğu için gece karşı far yansımalarını az da olsa artırabilir"
+    ],
+    "usage": {
+      "sehir": "Dur-kalklarda nefesle buğulanmayı engeller; vizörü aralık bırakma ihtiyacını büyük ölçüde ortadan kaldırır.",
+      "uzunYol": "Uzun etaplarda tutarlı performans için tasarlanmış seviye; sabah ve akşam serinliğinde fark yaratır.",
+      "kis": "Soğuk havada asıl işe yaradığı dönem; çok düşük sıcaklık ve yüksek nemde 120 seviyesi daha rahat eder.",
+      "yagmur": "Yağmurda vizör içi buğuyu engeller; dış yüzeydeki su damlaları için ayrıca vizör bakımı gerekir.",
+      "kurye": "Gün boyu inip binen kuryeler için kask başına en etkili güvenlik iyileştirmelerinden biri; lens vizörle birlikte temiz tutulmalı."
+    },
+    "verdict": "Pinlock 70, Pinlock'a hazır vizörü olan her sürücünün kaskına takması gereken temel buğu önleyici. Fiyatı düşük, etkisi belirgin. Tek dikkat edilecek nokta lensin kaska özel olması: satın almadan önce kendi vizörünüzün DKS kodunu doğrulayın.",
+    "faq": [
+      {
+        "q": "Pinlock 70 her kaska takılır mı?",
+        "a": "Hayır. Yalnız Pinlock pimi bulunan vizörlere takılır ve her vizör için ayrı bir DKS kodlu lens vardır. Pinlock'un sitesindeki lens bulucuda kask modelinizi seçerek doğru kodu bulabilirsiniz."
+      },
+      {
+        "q": "Pinlock 70 ile 120 arasındaki fark nedir?",
+        "a": "Rakam, lensin nem tutma ve buğu önleme kapasitesini gösteriyor. 120 daha zorlu hava koşulları için tasarlanmış; 70 ise günlük ve uzun yol kullanımında yeterli bir orta-üst seviye."
+      },
+      {
+        "q": "Türkiye'de nereden alınır?",
+        "a": "Pinlock'un Türkiye dağıtıcısı Tex Motor. Tex Motor'un sitesinde DKS002 kodlu Pinlock 70 liste fiyatıyla yer alıyor; satış bayiler üzerinden yapılıyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Buğu önleyici vizör lensi (Pinlock)",
+      "material": null,
+      "compatibility": "Pinlock pimli vizörler; lens kaska özeldir (DKS kodu). Tex Motor'daki DKS002: 2025 ve sonrası Sway SW 861, 865, 867, 868, 869, 917, 919, X60, X65, X600, V6",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Pinlock 70 buğu önleme seviyesi",
+        "MaxVision geniş lens kesimi",
+        "Lens ile vizör arasında hava yastığı oluşturan conta",
+        "Eksantrik pimlerle gerginlik ayarı",
+        "Nem emen lens yüzeyi"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://pinlock.com/products/solutions",
+    "sources": [
+      {
+        "url": "https://pinlock.com/products/solutions",
+        "type": "manufacturer",
+        "label": "Pinlock – buğu önleme seviyeleri (30/70/120/200)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://pinlock.com/technology",
+        "type": "manufacturer",
+        "label": "Pinlock – anti-fog teknolojisi ve MaxVision",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/pinlock-pin70-bugu-onleyici/",
+        "type": "distributor",
+        "label": "Tex Motor – TEX 513 Pinlock Pin70 Buğu Önleyici (DKS002)",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "pinlock/70-maxvision"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Clear"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "120-xlt-maxvision",
+    "brand": "pinlock",
+    "name": "Pinlock 120 XLT MaxVision",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Zorlu hava için tasarlanmış, ışık geçirgenliği yüksek XLT malzemeli Pinlock lensi; gece kullanımına da uygun, kaska özel DKS koduyla seçiliyor.",
+    "description": [
+      "Pinlock 120, üreticinin 'her koşulda gelişmiş buğu önleme' olarak tanımladığı üst seviye lens. 70'e göre daha fazla nem tutabilen yüzeyi sayesinde soğuk, yağmurlu ve nemli havada daha uzun süre buğusuz görüş sağlıyor. XLT ise yeni bir hammadde formülü: Pinlock'a göre bu lensler daha berrak, ışık geçirgenliği ECE 22.06 gereksinimlerinin üzerinde ve bu yüzden gece kullanımına da uygun. Renkler ve kontrast, standart lenslere göre daha canlı görünüyor.",
+      "Örnek olarak veri tabanımızdaki LS2 FF811 Vector II için Pinlock'un listelediği lens, DKS457 kodlu şeffaf 120 XLT MaxVision; LS2'ye özel pimlerle takılıyor. Diğer kasklarda da mantık aynı: Pinlock lens bulucusunda kask modelinizi seçip DKS kodunu öğrenmeniz gerekiyor. Pinlock lensleri doğrudan satmıyor; bazı Shoei, HJC veya LS2 kasklarında lens zaten kutudan çıkıyor, bu yüzden almadan önce kaskınızın kutusunu kontrol etmeye değer."
+    ],
+    "forWho": [
+      "Kışın da düzenli süren, sisli ve yağmurlu sabahlarda yola çıkan sürücüler",
+      "Gece sık sürdüğü için şeffaf ve yüksek ışık geçirgenliğine önem veren sürücüler",
+      "Eski Pinlock 30/70 lensinden daha güçlü bir performansa geçmek isteyenler"
+    ],
+    "notFor": [
+      "Vizöründe Pinlock pimi olmayan kask kullananlar",
+      "Kaskı kutudan Pinlock 120 lensle gelen ve lensi hâlâ sağlam olanlar: ikinci bir lense gerek yok"
+    ],
+    "pros": [
+      "Serinin üst seviyesi; zorlu havada daha uzun buğusuz görüş",
+      "XLT malzeme ile yüksek ışık geçirgenliği, gece kullanımına uygun",
+      "MaxVision kesimiyle geniş buğusuz alan",
+      "Bazı modellerde renkli (Dark Smoke, Yellow) seçenekler bulunabiliyor"
+    ],
+    "cons": [
+      "Kaska özel; doğru DKS kodunu bulmak ve satıcıda o kodu aramak gerekiyor",
+      "Türkiye'de birebir 120 XLT için güncel TL fiyatını yetkili bir mağazada doğrulayamadık",
+      "Lens ile vizör arasına toz girerse sökülüp temizlenmesi gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Trafikte nefesle oluşan buğuyu güvenle keser; şehir içi için gerekenden fazla kapasite sunar.",
+      "uzunYol": "Uzun etaplarda ve sıcaklık değişen dağ geçişlerinde güçlü yanı ortaya çıkar.",
+      "kis": "Asıl tasarım hedefi; soğuk ve nemli havada 70'e göre daha uzun süre berrak kalır.",
+      "yagmur": "Yağmurda vizör içi buğuyu önler; XLT berraklığı karanlık ve yağışlı havada avantajlıdır.",
+      "kurye": "Her hava koşulunda çalışan kuryeler için mantıklı bir yatırım; lensin doğru kodla alınması gerekir."
+    },
+    "verdict": "Pinlock 120 XLT, kışın ve gece de süren sürücü için Pinlock serisinin en mantıklı seçeneği. Berraklığı ve buğu önleme kapasitesi 70'in üzerinde. Lens kaska özel olduğu için doğru DKS kodunu bulmak ilk iş; kaskınız kutudan bu lensle geldiyse ek alım gerekmez.",
+    "faq": [
+      {
+        "q": "XLT ne anlama geliyor?",
+        "a": "Pinlock'un daha berrak ve ışık geçirgenliği yüksek lens malzemesi. Üretici, XLT lenslerin ECE 22.06 gereksinimlerinin üzerinde ışık geçirdiğini ve gece kullanımına uygun olduğunu belirtiyor."
+      },
+      {
+        "q": "LS2 Vector II için hangi lens gerekiyor?",
+        "a": "Pinlock'un lens bulucusu LS2 Vector II için DKS457 kodlu şeffaf 120 XLT MaxVision lensi gösteriyor; LS2'ye özel pimlerle takılıyor."
+      },
+      {
+        "q": "Pinlock 200 varken 120 almak mantıklı mı?",
+        "a": "Pinlock 200 serinin en yeni ve en güçlü seviyesi, ama her kask için henüz sunulmuyor. Çoğu sürücü için 120 XLT gündelik ve kış kullanımında yeterli bir performans sunuyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Buğu önleyici vizör lensi (Pinlock)",
+      "material": null,
+      "compatibility": "Pinlock pimli vizörler; lens kaska özeldir (DKS kodu). Örnek: LS2 Vector II için DKS457, LS2'ye özel pim",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Pinlock 120 buğu önleme seviyesi",
+        "XLT yüksek ışık geçirgenliği (üreticiye göre ECE 22.06 gereksiniminin üzerinde)",
+        "Gece kullanımına uygun şeffaf lens",
+        "MaxVision geniş lens kesimi",
+        "Eksantrik pimlerle gerginlik ayarı"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://pinlock.com/brands/LS2/Vector%20II/Clear",
+    "sources": [
+      {
+        "url": "https://pinlock.com/brands/LS2/Vector%20II/Clear",
+        "type": "manufacturer",
+        "label": "Pinlock – LS2 Vector II için 120XLT Clear lens (DKS457)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://pinlock.com/products/solutions",
+        "type": "manufacturer",
+        "label": "Pinlock – buğu önleme seviyeleri",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://pinlock.com/technology",
+        "type": "manufacturer",
+        "label": "Pinlock – XLT ve MaxVision teknolojisi",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "alpine-hearing/motosafe-sport",
+      "earpeace/moto-pro",
+      "auritech/biker"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-2095-pinlock-kulak-tikaci/",
+        "price": 1425,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1425,
+      "max": 1425,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.certification",
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "slug": "earplugs",
+    "brand": "pinlock",
+    "name": "Kulak Tıkacı (Earplugs)",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Pinlock'un rüzgâr gürültüsünü filtreleyen, iki boy kulak ucu ve anahtarlık tipi kutuyla gelen, interkom kullanımına uygun motosiklet kulak tıkacı.",
+    "description": [
+      "Pinlock'un adı vizör lensleriyle anılsa da marka son dönemde motosiklete özel kulak tıkacı da sunuyor. Üretici, hassas filtrenin rüzgâr gürültüsünü 24 dB azalttığını, buna karşın konuşma, siren, korna ve yaklaşan araç seslerinin duyulmaya devam ettiğini belirtiyor. Bu değeri sayfada SNR olarak değil, 'rüzgâr gürültüsü azaltma' olarak veriyor; başka markaların SNR değerleriyle birebir karşılaştırırken bunu akılda tutmak gerekiyor.",
+      "Kutudan Medium (M) ve Large (L) olmak üzere iki boy kulak ucu çıkıyor; doğru boy hem konfor hem de sızdırmazlık için önemli. Taşıma için anahtarlığa takılabilen yumuşak bir kutu var; Türkiye dağıtıcısı Tex Motor bunu manyetik anahtarlık olarak tanımlıyor. Üretici tıkaçların interkom ile uyumlu olduğunu, filtrenin rüzgâr sesini keserken interkom sesini net bıraktığını söylüyor. Türkiye'de Tex Motor liste fiyatıyla satılıyor."
+    ],
+    "forWho": [
+      "Uzun yolda rüzgâr uğultusundan yorulan, interkomu da kullanmak isteyen sürücüler",
+      "Pinlock ürünlerini Tex Motor bayilerinden kolayca tedarik etmek isteyenler",
+      "Köpük tıkaçlardan daha uzun ömürlü, yıkanabilir bir çözüme geçmek isteyenler"
+    ],
+    "notFor": [
+      "Çok küçük kulak kanalı olan ve S boy uç arayanlar: kutuda yalnız M ve L var",
+      "Farklı koruma seviyeleri arasında filtre değiştirmek isteyenler: tek filtre seviyesi sunuluyor"
+    ],
+    "pros": [
+      "Üreticiye göre 24 dB rüzgâr gürültüsü azaltma",
+      "İki boy kulak ucu (M ve L) kutudan çıkıyor",
+      "Anahtarlığa takılabilen saklama kutusu kaybolmayı zorlaştırıyor",
+      "Türkiye'de resmi dağıtıcı üzerinden bulunabiliyor"
+    ],
+    "cons": [
+      "Azaltma değeri SNR olarak belirtilmediği için diğer markalarla kıyas zor",
+      "Small boy uç yok",
+      "Filtre seviyesi değiştirilemiyor"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde de kullanılabilir; çevre sesleri tamamen kesilmez ama trafikte dikkatli olunmalı.",
+      "uzunYol": "En çok fark yarattığı yer; rüzgâr uğultusunu azaltarak yorgunluğu düşürür.",
+      "sport": "Yüksek hızlı sürüşte rüzgâr gürültüsünü azaltır; pist için daha yüksek koruma seviyeli modeller de değerlendirilebilir.",
+      "kurye": "Gün boyu kask altında kalan kuryeler için işitme sağlığı açısından faydalı; tıkaçların temiz tutulması gerekir."
+    },
+    "verdict": "Pinlock kulak tıkacı, interkom kullanan ve rüzgâr gürültüsünden yorulan sürücü için Türkiye'de kolay bulunan sade bir çözüm. Azaltma değerinin SNR olarak verilmemesi ve tek filtre seviyesi kısıt; buna karşın iki boy uç ve anahtarlık kutusu günlük kullanımı kolaylaştırıyor.",
+    "faq": [
+      {
+        "q": "Kulak tıkacıyla interkom duyulur mu?",
+        "a": "Üretici, filtrenin rüzgâr sesini keserken interkom sesini net bıraktığını belirtiyor. Gerekirse interkom ses seviyesini biraz artırmak yeterli olur."
+      },
+      {
+        "q": "24 dB değeri SNR mi?",
+        "a": "Pinlock bu değeri rüzgâr gürültüsü azaltma olarak veriyor, SNR olarak belirtmiyor. Bu yüzden SNR değeri yayımlanan modellerle doğrudan kıyaslanmamalı."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": null,
+      "compatibility": "Evrensel; kask ve interkomla kullanım için",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Üreticiye göre 24 dB rüzgâr gürültüsü azaltma",
+        "Medium ve Large iki boy kulak ucu",
+        "Anahtarlığa takılabilen saklama kutusu",
+        "İnterkom uyumlu hassas filtre"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://pinlock.com/products/earplugs",
+    "sources": [
+      {
+        "url": "https://pinlock.com/products/earplugs",
+        "type": "manufacturer",
+        "label": "Pinlock – Earplugs ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/tex-2095-pinlock-kulak-tikaci/",
+        "type": "distributor",
+        "label": "Tex Motor – TEX 2095 Pinlock Kulak Tıkacı",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Clear",
+      "Dark Smoke",
+      "Mellow Smoke",
+      "Spectra Blue",
+      "Spectra Fire Orange",
+      "Spectra Silver"
+    ],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "cns-3c-vizor",
+    "brand": "shoei",
+    "name": "CNS-3C Vizör",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Shoei Neotec 3 için orijinal yedek vizör; Pinlock'a hazır, UV filtresi %99'un üzerinde, ECE R22.06 uyumlu ve aletsiz hızlı söküm sistemli.",
+    "description": [
+      "CNS-3C, Shoei'nin çene açılır modeli Neotec 3'e özel orijinal vizörü. Çizilen, yıpranan ya da güneşli günler için koyu renkli ikinci bir vizör isteyen Neotec 3 sahiplerine yönelik. Shoei'nin resmi sayfasına göre vizör zararlı UV ışınlarının %99'undan fazlasını filtreliyor ve ECE R22.06 ile uyumlu. Aletsiz hızlı söküm mekanizması sayesinde vizör değişimi birkaç saniye sürüyor.",
+      "Vizör Pinlock'a hazır; Shoei'nin listelediği uyumlu iç lens CWR-1/CW-1/CNS-1 Pinlock (ayrı satılıyor). Şeffaf, Dark Smoke, Mellow Smoke ve aynalı Spectra (Blue, Fire Orange, Silver) seçenekleri var. Koyu ve aynalı vizörlerin gece kullanımına uygun olmadığını, bazı ülkelerde trafikte yasal sınırlamalara tabi olabileceğini unutmamak gerekiyor; Neotec 3'te zaten iç güneş vizörü bulunduğu için çoğu sürücüye şeffaf yedek yeterli. Türkiye'de birebir bu vizör için yetkili bir motor ekipmanı mağazasında TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Vizörü çizilmiş ya da matlaşmış Shoei Neotec 3 sahipleri",
+      "Neotec 3'üne yedek ya da aynalı görünüm için ikinci bir vizör isteyenler"
+    ],
+    "notFor": [
+      "Neotec 3 dışındaki kasklar: vizör yalnız bu modele uyuyor",
+      "Gece de süren ve tek vizör kullanmak isteyenler için koyu/aynalı seçenekler"
+    ],
+    "pros": [
+      "Orijinal parça; Neotec 3'e birebir oturur ve ECE R22.06 uyumlu",
+      "%99'un üzerinde UV filtresi",
+      "Aletsiz hızlı söküm",
+      "Pinlock'a hazır, çok sayıda renk seçeneği"
+    ],
+    "cons": [
+      "Pinlock iç lensi ayrı satılıyor",
+      "Spectra aynalı versiyonlar şeffafa göre belirgin pahalı",
+      "Türkiye'de güncel TL fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şeffaf vizör günlük kullanım için yeterli; Pinlock lensle dur-kalkta buğulanmaz.",
+      "uzunYol": "Neotec 3'ün touring karakterine uygun; aynalı versiyonlar gün boyu güneşli turlarda göz yorgunluğunu azaltır.",
+      "yaz": "Koyu veya aynalı vizör yaz öğlelerinde ferahlık sağlar, ancak tünel ve akşam için şeffafa dönmek gerekir.",
+      "yagmur": "Pinlock ile buğu sorunu çözülür; dış yüzeyin temiz tutulması görüşü iyileştirir."
+    },
+    "verdict": "CNS-3C, Neotec 3 sahibi için vizör değişiminin tek doğru adresi: orijinal, ECE uyumlu ve hızlı takılıyor. Kaskta iç güneş vizörü olduğu için çoğu sürücüye şeffaf versiyon yeter. Aynalı seçenekler görünüm için cazip ama gece kullanımına uygun değil.",
+    "faq": [
+      {
+        "q": "CNS-3C başka Shoei kasklara takılır mı?",
+        "a": "Shoei bu vizörü yalnız Neotec 3 için listeliyor. GT-Air 3 CNS-1C, NXR2 ise CWR-F2 vizör kullanıyor."
+      },
+      {
+        "q": "Pinlock lens vizörle birlikte geliyor mu?",
+        "a": "Hayır. Vizör Pinlock'a hazır; Shoei'nin listelediği CWR-1/CW-1/CNS-1 Pinlock lens ayrı satılıyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Yedek vizör",
+      "material": null,
+      "compatibility": "Shoei Neotec 3",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "ECE R22.06 uyumlu",
+      "features": [
+        "%99'un üzerinde UV filtresi",
+        "Pinlock'a hazır (CWR-1/CW-1/CNS-1 Pinlock lens, ayrı satılır)",
+        "Aletsiz hızlı söküm mekanizması"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://shoei-helmets.com/products/neotec-3-cns-3c-pinlock-ready-shield.html",
+    "sources": [
+      {
+        "url": "https://shoei-helmets.com/products/neotec-3-cns-3c-pinlock-ready-shield.html",
+        "type": "manufacturer",
+        "label": "Shoei (ABD) – Neotec 3 CNS-3C Pinlock Ready Shield",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Clear",
+      "Light Smoke",
+      "Mellow Smoke",
+      "Dark Smoke",
+      "Yellow",
+      "Blue Mirror",
+      "Chrome Mirror",
+      "Gold Mirror",
+      "Red/Orange Mirror"
+    ],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "cwr-f2-vizor",
+    "brand": "shoei",
+    "name": "CWR-F2 Vizör",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Shoei NXR2 (ABD'de RF-1400) ve X-Fifteen için orijinal Pinlock'a hazır vizör; 3D kalıplı, %99 UV korumalı, kenarlarında gürültüyü azaltan vortex jeneratörleri var.",
+    "description": [
+      "CWR-F2, Shoei'nin kapalı kasklarında kullanılan vizör ailesinin güncel versiyonu. Shoei'nin resmi ABD sayfası vizörü RF-1400 ve X-Fifteen için listeliyor; RF-1400, Avrupa ve Türkiye'de NXR2 adıyla satılan model. 3D kalıplanmış yüzey optik bozulmayı azaltıyor, kenarlardaki vortex jeneratörleri hava akışını düzenleyip rüzgâr gürültüsünü azaltmaya yardım ediyor. Ortadaki tutamak vizörü tek elle açıp kapamayı kolaylaştırıyor.",
+      "Vizör %99'un üzerinde UV koruması sunuyor, ECE R22.06 ile uyumlu ve aletsiz söküm sistemine sahip. Buğu için CWR-F2/CWR-F2R Pinlock lens (ayrı satılır) takılabiliyor. Şeffaf, Light/Mellow/Dark Smoke, sarı ve çeşitli aynalı seçenekler var. Not: Avrupa'daki X-SPR Pro, pist kullanımına yönelik çift kilitli CWR-F2R vizörüyle geliyor; NXR2 sahipleri için doğru yedek ise CWR-F2. Türkiye'de birebir bu vizör için yetkili mağazada TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Vizörü yıpranmış Shoei NXR2 kullanıcıları",
+      "NXR2'ye güneşli günler için koyu ya da aynalı ikinci vizör isteyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü arayanlar: NXR2'de iç vizör yok, koyu vizör gece kullanılmamalı",
+      "X-SPR Pro sahipleri: kaskın orijinali CWR-F2R vizör"
+    ],
+    "pros": [
+      "Orijinal parça, ECE R22.06 uyumlu",
+      "Vortex jeneratörleriyle gürültü ve hava akışı yönetimi",
+      "Geniş renk ve aynalı seçenek yelpazesi",
+      "Aletsiz hızlı değişim"
+    ],
+    "cons": [
+      "Pinlock lens ayrı satılıyor",
+      "Model adları bölgeye göre değiştiği için (RF-1400 / NXR2) uyumluluğu kontrol etmek gerekiyor",
+      "Türkiye'de güncel TL fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şeffaf vizör ve Pinlock lensle günlük kullanımda sorunsuz.",
+      "uzunYol": "Vortex jeneratörleri otoyol hızında rüzgâr gürültüsünü azaltmaya yardım eder.",
+      "yaz": "NXR2'de iç güneş vizörü olmadığı için yaz günlerinde koyu bir yedek vizör pratik bir çözüm.",
+      "sport": "Sportif sürüşte geniş görüş alanı sunar; pist için çift kilitli CWR-F2R tercih edilebilir."
+    },
+    "verdict": "CWR-F2, Shoei NXR2 sahibinin doğru yedek vizörü. Orijinal kalite, ECE uyumu ve hızlı söküm sunuyor. NXR2'de iç güneş vizörü olmadığı için koyu bir ikinci vizör almak mantıklı, ancak gece ve tünel için şeffafı yanınızda tutun.",
+    "faq": [
+      {
+        "q": "RF-1400 ile NXR2 aynı kask mı?",
+        "a": "Shoei bu modeli ABD'de RF-1400, Avrupa'da NXR2 adıyla satıyor ve her ikisi de CWR-F2 vizör kullanıyor."
+      },
+      {
+        "q": "Hangi Pinlock lens takılır?",
+        "a": "Shoei, CWR-F2/CWR-F2R Pinlock lensin bu vizörle uyumlu olduğunu belirtiyor; lens ayrı satılıyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Yedek vizör",
+      "material": null,
+      "compatibility": "Shoei NXR2 (ABD'de RF-1400) ve X-Fifteen",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "ECE R22.06 uyumlu",
+      "features": [
+        "3D kalıplanmış optik yüzey",
+        "%99'un üzerinde UV koruması",
+        "Kenarlarda vortex jeneratörleri",
+        "Orta tutamak",
+        "Aletsiz hızlı söküm",
+        "Pinlock'a hazır (CWR-F2/CWR-F2R lens, ayrı satılır)"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://shoei-helmets.com/products/cwr-f2-pinlock-ready-face-shield.html",
+    "sources": [
+      {
+        "url": "https://shoei-helmets.com/products/cwr-f2-pinlock-ready-face-shield.html",
+        "type": "manufacturer",
+        "label": "Shoei (ABD) – CWR-F2 Pinlock Ready Face Shield",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Clear",
+      "Dark Smoke",
+      "Mellow Smoke",
+      "Spectra Blue",
+      "Spectra Fire Orange",
+      "Spectra Silver"
+    ],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.certification",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "cns-1c-vizor",
+    "brand": "shoei",
+    "name": "CNS-1C Vizör",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Shoei GT-Air 3 için orijinal Pinlock'a hazır yedek vizör; %99'un üzerinde UV filtresi, aletsiz değişim ve orta tutamaklı tasarım.",
+    "description": [
+      "CNS-1C, Shoei'nin touring odaklı kapalı kaskı GT-Air 3'e özel vizör. Shoei'nin resmi sayfasına göre vizör zararlı UV ışınlarının %99'undan fazlasını filtreliyor, aletsiz hızlı değişim mekanizmasına ve ortada konumlanan bir açma tutamağına sahip. Rüzgâr, yağmur ve toza karşı koruma sağlayan sağlam bir yapı olarak tanımlanıyor.",
+      "Vizör Pinlock'a hazır; uyumlu iç lens CWR-1/CW-1/CNS-1 Pinlock (ayrı satılır). Şeffaf, Dark Smoke, Mellow Smoke ve Spectra aynalı (Blue, Fire Orange, Silver) seçenekleri var. GT-Air 3'te iç güneş vizörü bulunduğu için çoğu kullanıcıya şeffaf yedek yeterli; aynalı versiyonlar daha çok görünüm tercihi. Shoei'nin bu sayfasında ECE R22.06 uyumu açıkça belirtilmediği için bu alanı doğrulanmamış bıraktık. Türkiye'de TL fiyatını yetkili bir mağazada doğrulayamadık."
+    ],
+    "forWho": [
+      "Vizörü çizilmiş Shoei GT-Air 3 sahipleri",
+      "GT-Air 3'üne aynalı ya da renkli ikinci bir vizör isteyenler"
+    ],
+    "notFor": [
+      "GT-Air 3 dışındaki kasklar (Neotec 3 için CNS-3C gerekiyor)",
+      "Gece de kullanılacak tek vizör arayanlar için koyu/aynalı seçenekler"
+    ],
+    "pros": [
+      "Orijinal parça, GT-Air 3'e birebir uyum",
+      "%99'un üzerinde UV filtresi",
+      "Aletsiz değişim ve orta tutamak",
+      "Pinlock'a hazır"
+    ],
+    "cons": [
+      "Pinlock lens ayrı satılıyor",
+      "ECE uyumu bu sayfada açıkça belirtilmiyor",
+      "Spectra versiyonlar pahalı; Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şeffaf vizör ve Pinlock ile günlük kullanımda sorunsuz.",
+      "uzunYol": "GT-Air 3'ün touring kimliğine uygun; iç güneş vizörüyle birlikte şeffaf yedek çoğu tur için yeterli.",
+      "yaz": "Aynalı vizör yaz turlarında parlamayı azaltır, ama akşam ve tünelde şeffafa dönülmeli.",
+      "yagmur": "Pinlock lensle vizör içi buğu önlenir."
+    },
+    "verdict": "CNS-1C, GT-Air 3 sahibinin vizör yenilerken alması gereken orijinal parça. Hızlı takılıyor ve UV koruması yüksek. Kaskta iç güneş vizörü olduğundan şeffaf versiyon çoğu sürücü için en mantıklı seçim.",
+    "faq": [
+      {
+        "q": "CNS-1C ile CNS-3C aynı mı?",
+        "a": "Hayır. Shoei CNS-1C'yi GT-Air 3, CNS-3C'yi Neotec 3 için listeliyor; birbirinin yerine kullanılmamalı."
+      },
+      {
+        "q": "Hangi Pinlock lens uyumlu?",
+        "a": "Shoei, CWR-1/CW-1/CNS-1 Pinlock lensin bu vizörle uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Yedek vizör",
+      "material": null,
+      "compatibility": "Shoei GT-Air 3",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "%99'un üzerinde UV filtresi",
+        "Aletsiz hızlı değişim",
+        "Orta konumlu açma tutamağı",
+        "Pinlock'a hazır (CWR-1/CW-1/CNS-1 lens, ayrı satılır)"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://shoei-helmets.com/products/cns-1c-pinlock-ready-face-shield.html",
+    "sources": [
+      {
+        "url": "https://shoei-helmets.com/products/cns-1c-pinlock-ready-face-shield.html",
+        "type": "manufacturer",
+        "label": "Shoei (ABD) – CNS-1C Pinlock Ready Face Shield",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-68-europe-kask-cantasi/",
+        "price": 1515,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1515,
+      "max": 1515,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.capacityLiters",
+      "specs.madeIn"
+    ],
+    "slug": "68-europe-kask-cantasi",
+    "brand": "tex-motor",
+    "name": "68 Europe Kask Çantası",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Güçlendirilmiş impertex kumaştan, darbe emici yumuşak dış katmanlı, reflektörlü ve omuz askılı kask taşıma çantası; Türkiye'de Tex Motor liste fiyatıyla satılıyor.",
+    "description": [
+      "Tex 68 Europe, kaskı motosiklet dışında taşırken ve saklarken çizilmeye ve küçük darbelere karşı korumak için tasarlanmış bir kask çantası. Tex Motor'un açıklamasına göre dış yüzey güçlendirilmiş impertex kumaştan; yumuşak dış katman darbeyi emip dağıtıyor. Kumaş suya, rüzgâra ve aşınmaya dayanıklı olarak tanımlanıyor, ancak tam su geçirmezlik iddiası yok.",
+      "Çantada reflektör hatlar, ek omuz askısı ve kolay açılıp kapanan fermuar bulunuyor. Kaskı işe, toplu taşımaya ya da tatile götürenler için elde taşımaya göre daha güvenli ve pratik. Tex Motor iç ölçü veya hangi kask boylarının sığdığına dair bir bilgi vermediği için büyük çene açılır ya da adventure kasklarla uyumu satın almadan önce mağazada denemek mantıklı. Tex Motor kendi sitesinde online satış yapmıyor; fiyat, bayilerde değişebilen liste fiyatı."
+    ],
+    "forWho": [
+      "Kaskını motosikletten sonra ofise, okula ya da toplu taşımaya götüren sürücüler",
+      "Kaskını evde ya da tatilde tozdan ve çizikten korumak isteyenler",
+      "Uygun fiyatlı, Türkiye'de kolay bulunan bir çanta arayanlar"
+    ],
+    "notFor": [
+      "Kaskı yağmurda motosiklete bağlı bırakmak isteyenler: tam su geçirmezlik iddiası yok",
+      "Kurye kullanımı: gün içinde sık inip binen kurye için kaskı çantaya koyup çıkarmak pratik değil"
+    ],
+    "pros": [
+      "Darbe emici yumuşak dış katman",
+      "Reflektör hatlar ve omuz askısı",
+      "Suya, rüzgâra ve aşınmaya dayanıklı kumaş",
+      "Türkiye'de yerleşik dağıtıcı ve bayi ağı"
+    ],
+    "cons": [
+      "İç ölçü ve uyumlu kask boyutu belirtilmemiş",
+      "Su geçirmez değil, yalnız suya dayanıklı",
+      "Kask çantası ek bir taşıma yükü; sırt çantası gibi ikinci eşya taşıma alanı yok"
+    ],
+    "usage": {
+      "sehir": "Kaskı park sonrası taşımak ve iş yerinde saklamak için pratik.",
+      "uzunYol": "Konaklamalarda kaskı otel odasında tozdan ve çarpmalardan korur.",
+      "yagmur": "Kısa süreli yağmurda dayanıklı kumaş işe yarar; uzun süre yağmura maruz bırakılmamalı."
+    },
+    "verdict": "Tex 68 Europe, kaskını sık sık elde taşıyan sürücü için makul fiyatlı ve işlevsel bir çanta. Yumuşak dış katman ve omuz askısı en güçlü yanları. Ölçü bilgisi olmadığından büyük kasklar için mağazada denemek gerekiyor.",
+    "faq": [
+      {
+        "q": "Çanta su geçirmez mi?",
+        "a": "Tex Motor kumaşı suya dayanıklı olarak tanımlıyor; tam su geçirmezlik iddiası yok. Uzun süre yağmurda bırakılmamalı."
+      },
+      {
+        "q": "Her kask sığar mı?",
+        "a": "Üretici iç ölçü vermiyor. Çene açılır veya siperlikli büyük kasklar için satın almadan önce bayide denemenizi öneririz."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kask çantası",
+      "material": "Güçlendirilmiş impertex",
+      "compatibility": "Kask taşıma ve saklama (iç ölçü belirtilmemiş)",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Darbe emici yumuşak dış katman",
+        "Suya, rüzgâra ve aşınmaya dayanıklı kumaş",
+        "Reflektör hatlar",
+        "Ek omuz askısı",
+        "Fermuarlı kapanış"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://texmotor.com/urun/tex-68-europe-kask-cantasi/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-68-europe-kask-cantasi/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX 68 Europe Kask Çantası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "motul/m1-helmet-visor-clean",
+      "muc-off/helmet-cleaning-kit"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "30 ml",
+      "250 ml"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "helmet-visor-goggle-cleaner",
+    "brand": "muc-off",
+    "name": "Helmet, Visor & Goggle Cleaner",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Deiyonize su ve pH nötr sabunlarla hazırlanan, solvent içermeyen, polikarbonat dahil tüm vizör ve lens malzemelerinde güvenli kask-vizör temizleme spreyi.",
+    "description": [
+      "Muc-Off'un kask, vizör ve gözlük temizleyicisi, kir, toz, böcek ve yağlı kalıntıları hızlıca temizlemek için tasarlanmış bir sprey. Üretici formülün birçok kask üreticisinin önerdiği şekilde deiyonize su ile hazırlandığını, pH nötr sabunlar içerdiğini ve polikarbonat dahil tüm lens malzemelerinde güvenle kullanılabildiğini belirtiyor. Biyolojik olarak parçalanabilir ve solvent ya da zararlı kimyasal içermiyor.",
+      "Ürün 30 ml cep boyu ve 250 ml olmak üzere iki boyda satılıyor. 30 ml'lik şişe, tanktaki ya da sele altındaki küçük bir alanda taşınıp mola sırasında vizör silmek için pratik. Solvent içermemesi, kaplamalı vizörlerde ve Pinlock lenslerde agresif temizleyicilere göre daha güvenli bir tercih yapıyor. Doğru sonuç için yumuşak ve temiz bir mikrofiber bezle kullanılmalı; kuru kağıt havlu vizörü çizebilir. Türkiye'de yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Vizörünü sık temizleyen, kaplamalı ya da aynalı vizöre zarar vermek istemeyen sürücüler",
+      "Yolda mola sırasında böcek ve kir temizlemek için küçük bir şişe taşımak isteyenler",
+      "Bisiklet gözlüğü, kayak gözlüğü gibi diğer lensleri de aynı ürünle temizlemek isteyenler"
+    ],
+    "notFor": [
+      "Kaskın iç astarını temizlemek isteyenler: bu ürün dış yüzey ve lensler için",
+      "Kurumuş yoğun böcek kalıntısını tek uygulamada çözmesini bekleyenler: önce ıslak bezle yumuşatmak gerekebilir"
+    ],
+    "pros": [
+      "Deiyonize su ve pH nötr formül, solvent içermiyor",
+      "Polikarbonat dahil tüm lens malzemelerinde güvenli",
+      "Biyolojik olarak parçalanabilir",
+      "30 ml cep boyu seçeneği yolda taşımaya uygun"
+    ],
+    "cons": [
+      "Mikrofiber bez 30/250 ml şişeyle birlikte gelmiyor",
+      "Buğu önleyici etkisi iddia edilmiyor",
+      "Türkiye'de TL fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Haftalık vizör ve kask dış yüzeyi temizliği için yeterli.",
+      "uzunYol": "30 ml şişe yolda böcek temizliği için tank çantasında taşınabilir.",
+      "yaz": "Böcek yoğunluğunun arttığı yaz aylarında en çok ihtiyaç duyulan bakım ürünü.",
+      "kurye": "Gün sonu hızlı vizör temizliği için pratik; mikrofiber bezle birlikte kullanılmalı."
+    },
+    "verdict": "Muc-Off Helmet, Visor & Goggle Cleaner, kaplamalı vizörlere ve Pinlock lenslere zarar vermeden temizlik isteyen sürücü için güvenli ve sade bir sprey. Solvent içermemesi en önemli artısı. Mikrofiber bezi ayrıca edinmek ve kurumuş böcekleri önce yumuşatmak gerekiyor.",
+    "faq": [
+      {
+        "q": "Pinlock lenste kullanılabilir mi?",
+        "a": "Üretici formülün polikarbonat dahil tüm lens malzemelerinde güvenli olduğunu belirtiyor. Pinlock lensin iç yüzeyini yine de çok nazikçe, yumuşak bezle silmek gerekir."
+      },
+      {
+        "q": "Hangi boyları var?",
+        "a": "Muc-Off ürünü 30 ml ve 250 ml şişelerle sunuyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kask ve vizör temizleyici sprey",
+      "material": null,
+      "compatibility": "Kask dış yüzeyi, vizörler, gözlük ve goggle lensleri (polikarbonat dahil)",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Deiyonize su bazlı formül",
+        "pH nötr sabunlar",
+        "Solvent ve zararlı kimyasal içermez",
+        "Biyolojik olarak parçalanabilir",
+        "30 ml ve 250 ml şişe"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://muc-off.com/products/visor-lens-goggle-cleaner",
+    "sources": [
+      {
+        "url": "https://muc-off.com/products/visor-lens-goggle-cleaner",
+        "type": "manufacturer",
+        "label": "Muc-Off – Helmet Visor & Goggle Cleaner ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "motul/m2-helmet-interior-clean",
+      "muc-off/helmet-visor-goggle-cleaner"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "helmet-cleaning-kit",
+    "brand": "muc-off",
+    "name": "Helmet Cleaning Kit",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Kask içi için Foam Fresh temizleme köpüğü, vizör temizleyici ve iki mikrofiber bezden oluşan, kaskın içini ve dışını birlikte ele alan bakım seti.",
+    "description": [
+      "Muc-Off Helmet Cleaning Kit, kask bakımının iki tarafını tek kutuda topluyor. Foam Fresh adlı köpük, kaskın iç astarındaki kiri ve teri nazikçe kabartıp temizlemek için; vizör temizleyici ise vizör, gözlük ve lenslerdeki toz, kir, ter ve kalıntılar için. Sete ayrıca bir premium mikrofiber parlatma bezi ve bir mikrofiber detay bezi dahil; üretici bezlerdeki bölünmüş lif yapısının emiciliği artırdığını belirtiyor.",
+      "Sökülemeyen ya da her hafta sökmek istenmeyen kask astarları için köpük bazlı iç temizlik pratik bir ara çözüm. Yine de astarı sökülüp yıkanabilen kasklarda köklü temizlik için üreticinin yıkama talimatı esas alınmalı. Set, tek tek ürün almaya göre başlangıç için derli toplu bir paket sunuyor. Türkiye'de yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Kask bakımına sıfırdan başlayan ve iç-dış temizliği tek pakette isteyen sürücüler",
+      "Yaz aylarında kask içi ter kokusundan şikâyet edenler",
+      "Hediye olarak pratik bir motorcu bakım seti arayanlar"
+    ],
+    "notFor": [
+      "Zaten ayrı ayrı temizleyici ve mikrofiber bezi olanlar",
+      "Kaskın dış boyasına cila veya koruyucu kaplama arayanlar: sette böyle bir ürün yok"
+    ],
+    "pros": [
+      "İç astar (Foam Fresh) ve vizör temizliği tek sette",
+      "İki ayrı mikrofiber bez dahil",
+      "Astarı sökmeden ara temizlik imkânı",
+      "Kompakt kutu, saklaması kolay"
+    ],
+    "cons": [
+      "Ürün hacimleri ürün sayfasında belirtilmiyor",
+      "Köpük, sökülüp yıkanan astarın yerini tam olarak tutmaz",
+      "Türkiye'de TL fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Haftalık iç ve dış bakım için yeterli bir başlangıç seti.",
+      "yaz": "Terin arttığı yaz aylarında iç astar kokusunu kontrol altında tutmaya yardım eder.",
+      "kurye": "Gün boyu kask takan kuryeler için düzenli iç temizlik hijyen açısından önemli; köpük astarı sökmeden pratik bir ara bakım sağlar."
+    },
+    "verdict": "Muc-Off Helmet Cleaning Kit, kask bakımına düzenli başlamak isteyen sürücü için derli toplu bir paket. İç astar köpüğü ve vizör temizleyicinin birlikte gelmesi en büyük artısı. Astarı sökülebilen kasklarda yine de dönemsel tam yıkamayı ihmal etmemek gerekir.",
+    "faq": [
+      {
+        "q": "Setin içinde neler var?",
+        "a": "Foam Fresh iç temizlik köpüğü, vizör temizleyici, premium mikrofiber parlatma bezi ve mikrofiber detay bezi."
+      },
+      {
+        "q": "Astarı sökmeden temizlemek yeterli mi?",
+        "a": "Köpük ara bakım için pratik. Astarı sökülüp yıkanabilen kasklarda dönemsel olarak üreticinin talimatına göre tam yıkama yapılmalı."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kask bakım seti",
+      "material": null,
+      "compatibility": "Kask iç astarı, vizör ve lensler",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Foam Fresh iç astar temizleme köpüğü",
+        "Vizör temizleyici",
+        "Premium mikrofiber parlatma bezi",
+        "Mikrofiber detay bezi"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://muc-off.com/products/helmet-cleaning-kit",
+    "sources": [
+      {
+        "url": "https://muc-off.com/products/helmet-cleaning-kit",
+        "type": "manufacturer",
+        "label": "Muc-Off – Helmet Cleaning Kit ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "muc-off/helmet-visor-goggle-cleaner"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "250 ml"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "m1-helmet-visor-clean",
+    "brand": "motul",
+    "name": "MC Care M1 Helmet & Visor Clean",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Kaskın dış yüzeyi ve vizör için nötr, aşındırıcı olmayan 250 ml temizleyici sprey; iz bırakmadan temizliyor ve böcek kalıntılarında etkili.",
+    "description": [
+      "Motul'un MC Care bakım serisindeki M1, kaskın dış kabuğu ve vizörü için geliştirilmiş nötr ve agresif olmayan bir temizleyici. Motul'a göre ürün yağlı ve kuru kiri yüzeye zarar vermeden çözüyor, iz bırakmıyor, tüm kasklar ve tüm vizör teknolojileri için uygun. Böcek kalıntılarını temizlemedeki etkisi de üreticinin öne çıkardığı noktalardan.",
+      "Ürün 250 ml sprey şişede geliyor (ürün kodu 102992). Kullanımı basit: sprey kask ve vizöre uygulanıyor, birkaç saniye bekletilip yumuşak, kuru bir bezle siliniyor. Kaplamalı ve aynalı vizörlerde agresif cam temizleyiciler yerine bu tür nötr ürünler tercih edilmeli. Seri içinde kask içi için ayrı bir ürün olan M2 bulunuyor. Motul Türkiye'de yaygın satılsa da bu birebir ürün için yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Kask ve vizörünü düzenli temizleyen, kaplamalı vizöre zarar vermek istemeyen sürücüler",
+      "Zincir ve bakım ürünlerinde zaten Motul MC Care serisini kullananlar",
+      "Yaz turlarında böcek kalıntısıyla uğraşan sürücüler"
+    ],
+    "notFor": [
+      "Kask iç astarını temizlemek isteyenler (bunun için M2 Helmet Interior Clean)",
+      "Yolda cepte taşıyacak küçük şişe arayanlar: tek boy 250 ml"
+    ],
+    "pros": [
+      "Nötr ve aşındırıcı olmayan formül",
+      "Tüm kask ve vizör teknolojileri için uygun",
+      "Böcek kalıntılarında etkili",
+      "İz bırakmadan temizlik"
+    ],
+    "cons": [
+      "Yalnız 250 ml; cep boyu yok",
+      "Bez dahil değil",
+      "Türkiye'de birebir ürün fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Haftalık dış yüzey ve vizör temizliği için yeterli.",
+      "uzunYol": "Tur sonrası konaklamada kaskı ve vizörü böcekten arındırmak için uygun; şişe boyu tank çantası için biraz büyük.",
+      "yaz": "Böcek yoğunluğu yüksek yaz aylarında en çok işe yaradığı dönem.",
+      "kurye": "Gün sonu vizör bakımı için pratik; görüşü doğrudan etkilediği için düzenli kullanılmalı."
+    },
+    "verdict": "Motul M1, kask ve vizör dış temizliği için güvenilir ve nötr bir sprey. Kaplamalı vizörlerde gönül rahatlığıyla kullanılabilir ve böcek kalıntılarında etkili. Yalnız 250 ml boyutu yolda taşımayı zorlaştırıyor; iç temizlik için serinin M2'si ayrıca gerekiyor.",
+    "faq": [
+      {
+        "q": "Aynalı vizörde kullanılabilir mi?",
+        "a": "Motul ürünün tüm vizör teknolojileri için uygun olduğunu belirtiyor. Aynalı kaplamalarda yine de yumuşak ve temiz bir mikrofiber bezle, bastırmadan silmek gerekir."
+      },
+      {
+        "q": "Kask içinde kullanılır mı?",
+        "a": "Hayır. M1 dış yüzey ve vizör içindir; kask içi için Motul M2 Helmet Interior Clean önerilir."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kask ve vizör temizleyici sprey",
+      "material": null,
+      "compatibility": "Tüm kask dış yüzeyleri ve vizör teknolojileri",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Nötr, aşındırıcı olmayan formül",
+        "İz bırakmadan temizleme",
+        "Yağlı ve kuru kiri çözme",
+        "Böcek kalıntısı temizliği",
+        "250 ml sprey (ürün kodu 102992)"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/35776",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/35776",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care M1 Helmet & Visor Clean",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motul.com/en-AE/products/35776",
+        "type": "manufacturer",
+        "label": "Motul – MC Care M1 Helmet & Visor Clean (İngilizce ürün sayfası)",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "muc-off/helmet-cleaning-kit"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "250 ml"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.certification",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "m2-helmet-interior-clean",
+    "brand": "motul",
+    "name": "MC Care M2 Helmet Interior Clean",
+    "subcategories": [
+      "kask-aksesuari"
+    ],
+    "summary": "Kask iç astarını temizleyip dezenfekte eden, ter ve uzun kullanımdan kaynaklanan kokuları hızla gideren 250 ml sprey.",
+    "description": [
+      "Motul MC Care M2, kaskın iç kısmı için geliştirilmiş temizleyici ve dezenfektan bir sprey. Motul'a göre ürün tüm kask iç astarlarına uygun; teri ve uzun kullanımdan kaynaklanan kokuları hızla nötralize ediyor ve iç kısmı hijyenik tutuyor. Motul Türkiye sayfası ürünü kısaca kask içi dezenfektanı, kokuları tamamen gideren bir ürün olarak tanımlıyor.",
+      "Ürün 250 ml sprey şişede satılıyor (ürün kodu 105504). Astarı sökülemeyen kasklarda ya da sık sık sökülüp yıkanması pratik olmayan durumlarda ara bakım için kullanışlı. Spreyin ardından kaskın tamamen kurumasını beklemek gerekiyor; nemli bırakılan astar kokunun geri dönmesine yol açabilir. Bu ürün astarın dönemsel olarak yıkanmasının yerini tamamen tutmaz. Türkiye'de birebir ürün için yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Sıcak havada çok terleyen ve kask içi kokusundan şikâyet eden sürücüler",
+      "Kaskını başkasıyla paylaşan veya ikinci el kask temizlemek isteyenler",
+      "Astarı sökülmeyen ya da sökmesi zahmetli kask kullananlar"
+    ],
+    "notFor": [
+      "Vizör ve dış kabuğu temizlemek isteyenler (bunun için M1)",
+      "Kaskı hemen kullanması gerekenler: uygulamadan sonra tam kurumayı beklemek gerekiyor"
+    ],
+    "pros": [
+      "Kask içini hem temizliyor hem dezenfekte ediyor",
+      "Kokulara karşı hızlı etki",
+      "Tüm kask iç astarı tiplerine uygun",
+      "Astarı sökmeden pratik bakım"
+    ],
+    "cons": [
+      "Uygulama sonrası kuruma süresi gerekiyor",
+      "Astarın dönemsel yıkamasının yerini tam tutmaz",
+      "Türkiye'de birebir ürün fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Haftalık iç bakım için yeterli; kaskı akşam spreyleyip sabaha kurumuş halde kullanmak pratik.",
+      "yaz": "Terin en yoğun olduğu yaz aylarında asıl işe yaradığı dönem.",
+      "kurye": "Gün boyu kask takan kuryeler için hijyen açısından faydalı; uygulama vardiya sonrasında yapılmalı ki kask kuruyabilsin."
+    },
+    "verdict": "Motul M2, kask içi koku ve hijyen sorununa pratik bir ara çözüm. Özellikle astarı sökülmeyen kasklarda ve yaz aylarında işe yarıyor. Uygulama sonrası kaskın tamamen kurumasını beklemek ve astarı dönemsel olarak yıkamayı sürdürmek gerekiyor.",
+    "faq": [
+      {
+        "q": "Astarı sökmeden kullanılabilir mi?",
+        "a": "Evet, ürün kaskın içine doğrudan uygulanmak üzere tasarlanmış. Uygulamadan sonra kaskın tamamen kurumasını bekleyin."
+      },
+      {
+        "q": "Vizörde kullanılabilir mi?",
+        "a": "Hayır. M2 kask içi içindir; vizör ve dış kabuk için Motul M1 Helmet & Visor Clean kullanılmalı."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kask içi temizleyici ve dezenfektan sprey",
+      "material": null,
+      "compatibility": "Tüm kask iç astarları",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Kask içini temizler ve dezenfekte eder",
+        "Ter ve kullanım kaynaklı kokuları hızla giderir",
+        "250 ml sprey (ürün kodu 105504)"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/35775",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/35775",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care M2 Helmet Interior Clean",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motul.com/en-AE/products/35775",
+        "type": "manufacturer",
+        "label": "Motul – MC Care M2 Helmet Interior Clean (İngilizce ürün sayfası)",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "alpine-hearing/motosafe-sport",
+      "earpeace/moto",
+      "auritech/biker"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Beyaz/Siyah"
+    ],
+    "sizes": [
+      "Tek boy"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "motosafe-tour",
+    "brand": "alpine-hearing",
+    "name": "MotoSafe Tour",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Tur ve tali yol sürüşleri için 17 dB SNR koruma sunan, silikonsuz yumuşak malzemeli, 100 kullanıma kadar tekrar kullanılabilen motosiklet kulak tıkacı.",
+    "description": [
+      "MotoSafe Tour, Hollandalı Alpine'in motosiklet serisinin tur kullanımına yönelik versiyonu. Üretici bu tıkaçların ortalama 17 dB (SNR) azaltma sağladığını, AlpineAcousticFilters adlı filtreler sayesinde trafik, navigasyon, interkom ve motor sesinin duyulmaya devam ettiğini belirtiyor. Yani amaç sessizlik değil, zararlı rüzgâr gürültüsünü düşürürken çevreyle bağı korumak.",
+      "Tıkaçlar silikonsuz, yumuşak bir malzemeden; üretici kask altında uzun süre takıldığında da terleme ve kaşıntı yapmadığını söylüyor. Tek boy sunuluyor (9–12 mm çap aralığı) ve 100 kullanıma kadar tekrar kullanılabiliyor. Kutudan kompakt bir taşıma kabı ve yerleştirme yardımcısı çıkıyor; CE sertifikalı ve ANSI testli. Daha yüksek hız ve otoyol için serinin 20 dB SNR'lik MotoSafe Sport versiyonu var. Türkiye'de Tour'un tek başına satışını yetkili bir motor ekipmanı mağazasında doğrulayamadık; Motomax Tour ve Sport'u içeren Duo paketi satıyor."
+    ],
+    "forWho": [
+      "Orta hızlarda tur yapan, tali yollarda ve tatil sürüşlerinde rüzgâr gürültüsünü azaltmak isteyenler",
+      "İnterkom ve navigasyon sesini duymaya devam etmek isteyen sürücüler",
+      "Köpük tıkaçlardan rahatsız olan, tekrar kullanılabilir bir çözüm arayanlar"
+    ],
+    "notFor": [
+      "Ağırlıklı otoyol, pist veya açık kask kullananlar: daha yüksek korumalı MotoSafe Sport uygun",
+      "Kulak kanalı 9 mm'den dar ya da 12 mm'den geniş olanlar: tek boy sunuluyor"
+    ],
+    "pros": [
+      "17 dB SNR; çevre seslerini kesmeden rüzgâr gürültüsünü azaltır",
+      "Silikonsuz, yumuşak ve kask altında rahat malzeme",
+      "100 kullanıma kadar tekrar kullanılabilir",
+      "Taşıma kabı ve yerleştirme yardımcısı dahil"
+    ],
+    "cons": [
+      "Tek boy; farklı uç seçeneği yok",
+      "Otoyol hızları için koruma seviyesi düşük kalabilir",
+      "Türkiye'de tekli satışı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Şehirde de takılabilir; çevre sesleri duyulmaya devam eder.",
+      "uzunYol": "Asıl hedefi tur ve tali yol sürüşleri; uzun günlerde yorgunluğu azaltır.",
+      "yaz": "Silikonsuz malzeme sıcakta kaşıntıyı azaltacak şekilde tasarlanmış.",
+      "kurye": "Gün boyu kask takan kuryeler için işitme sağlığına katkı sağlar; çevre seslerinin duyulması trafikte önemli bir artı."
+    },
+    "verdict": "MotoSafe Tour, orta hızlarda tur yapan ve interkomu kullanmaya devam etmek isteyen sürücü için dengeli bir kulak tıkacı. 17 dB SNR, çevreyle bağı koparmadan yorgunluğu azaltıyor. Otoyolda veya açık kaskta daha yüksek koruma isteyenler Sport versiyonuna yönelmeli.",
+    "faq": [
+      {
+        "q": "Tour ile Sport arasındaki fark nedir?",
+        "a": "Tour 17 dB SNR ile tur ve tali yollar için, Sport 20 dB SNR ile otoyol, pist ve açık kask kullanımı için tasarlanmış."
+      },
+      {
+        "q": "Farklı boyları var mı?",
+        "a": "Hayır. Alpine, MotoSafe tıkaçlarının tek boy olduğunu ve çoğu kulak kanalına uyacak şekilde tasarlandığını belirtiyor (9–12 mm)."
+      },
+      {
+        "q": "Ne kadar süre kullanılabilir?",
+        "a": "Üretici 100 kullanıma kadar tekrar kullanılabildiğini söylüyor; ılık su ve sabunla temizlenebiliyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": "Silikonsuz yumuşak malzeme",
+      "compatibility": "Evrensel; tek boy (Ø 9–12 mm)",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "SNR 17 dB; CE sertifikalı, ANSI testli",
+      "features": [
+        "SNR 17 dB",
+        "AlpineAcousticFilters",
+        "100 kullanıma kadar tekrar kullanılabilir",
+        "Taşıma kabı ve yerleştirme yardımcısı dahil",
+        "Beyaz/siyah renk"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.alpinehearingprotection.com/products/motosafetour",
+    "sources": [
+      {
+        "url": "https://www.alpinehearingprotection.com/products/motosafetour",
+        "type": "manufacturer",
+        "label": "Alpine Hearing Protection – MotoSafe Tour ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "alpine-hearing/motosafe-tour",
+      "earpeace/moto-pro",
+      "pinlock/earplugs"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpine-motosafe-sport-kulak-tikaci",
+        "price": 1090,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1090,
+      "max": 1090,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "Beyaz/Kırmızı"
+    ],
+    "sizes": [
+      "Tek boy"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "slug": "motosafe-sport",
+    "brand": "alpine-hearing",
+    "name": "MotoSafe Sport",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Otoyol, pist ve açık kask kullanımı için 20 dB SNR koruma sunan, akustik filtreli, silikonsuz ve tekrar kullanılabilir motosiklet kulak tıkacı.",
+    "description": [
+      "MotoSafe Sport, Alpine'in motosiklet serisinin yüksek hız versiyonu. Üretici 20 dB (SNR) azaltma değeri veriyor ve bu tıkaçları otoyol, pist ve açık kask kullanımı için konumlandırıyor; bu senaryolarda rüzgâr gürültüsü belirgin şekilde artıyor. AlpineAcousticFilters sayesinde trafik, navigasyon ve interkom sesi duyulmaya devam ediyor. Alpine'in yayımladığı ölçümlerde ortalama azaltma 500 Hz'de 16,3 dB iken 2000 Hz'de 30,5 dB'e çıkıyor; yani filtre özellikle tiz rüzgâr gürültüsünü bastırıyor.",
+      "Tıkaçlar tek boy (9–12 mm çap), beyaz/kırmızı renkte; kutudan kompakt taşıma kabı ve yerleştirme yardımcısı çıkıyor. CE sertifikalı ve ANSI testli. Türkiye'de Motomax, ürünü distribütör garantili olarak satıyor. Daha düşük hızlarda ve turda çevreyi daha çok duymak isteyenler için 17 dB'lik MotoSafe Tour versiyonu bulunuyor."
+    ],
+    "forWho": [
+      "Ağırlıklı otoyolda yüksek hızda süren sürücüler",
+      "Açık kask kullanan ve rüzgâr gürültüsüne daha çok maruz kalanlar",
+      "Track day'e katılan ama interkom ya da talimatları duymaya devam etmek isteyenler"
+    ],
+    "notFor": [
+      "Çoğunlukla şehir içinde düşük hızda sürenler: 17 dB'lik Tour versiyonu daha dengeli",
+      "Farklı boy uç ihtiyacı olanlar: tek boy sunuluyor"
+    ],
+    "pros": [
+      "20 dB SNR; yüksek hızda belirgin rahatlama",
+      "Tiz frekanslarda yüksek azaltma, konuşma bandında daha ılımlı",
+      "Silikonsuz yumuşak malzeme, kask altında konforlu",
+      "Türkiye'de Motomax üzerinden distribütör garantili satış"
+    ],
+    "cons": [
+      "Tek boy",
+      "Düşük hızda çevre seslerini gereğinden fazla azaltabilir",
+      "Filtre değiştirilemiyor; seviye sabit"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama şehir içi için koruma seviyesi gereğinden yüksek olabilir; trafik seslerine dikkat edilmeli.",
+      "uzunYol": "Otoyol ağırlıklı uzun yolda yorgunluğu belirgin şekilde azaltır.",
+      "sport": "Asıl hedefi yüksek hız ve pist; açık kaskta da tercih edilmeli.",
+      "kurye": "Otoyol ağırlıklı çalışan kuryeler için uygun; şehir içi kurye işinde Tour versiyonu daha dengeli."
+    },
+    "verdict": "MotoSafe Sport, otoyolda ve yüksek hızda süren ya da açık kask kullanan sürücü için doğru Alpine modeli. 20 dB SNR, rüzgâr uğultusunu belirgin şekilde azaltırken interkomu duymayı sürdürüyor. Şehir içi ağırlıklı kullanıcılar Tour versiyonunu değerlendirmeli.",
+    "faq": [
+      {
+        "q": "SNR değeri nedir?",
+        "a": "Alpine, MotoSafe Sport için 20 dB SNR değeri veriyor. Bu, Tour versiyonundaki 17 dB'den daha yüksek bir koruma demek."
+      },
+      {
+        "q": "Türkiye'de nereden alınır?",
+        "a": "Motomax ürünü distribütör garantili olarak satıyor; kontrol tarihindeki fiyat 1.090 TL idi."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": "Silikonsuz yumuşak malzeme",
+      "compatibility": "Evrensel; tek boy (Ø 9–12 mm)",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "SNR 20 dB; CE sertifikalı, ANSI testli",
+      "features": [
+        "SNR 20 dB",
+        "AlpineAcousticFilters",
+        "Tekrar kullanılabilir",
+        "Taşıma kabı ve yerleştirme yardımcısı dahil",
+        "Beyaz/kırmızı renk"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.alpinehearingprotection.com/products/motosafe-sport",
+    "sources": [
+      {
+        "url": "https://www.alpinehearingprotection.com/products/motosafe-sport",
+        "type": "manufacturer",
+        "label": "Alpine Hearing Protection – MotoSafe Sport ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpine-motosafe-sport-kulak-tikaci",
+        "type": "retailer",
+        "label": "Motomax – Alpine MotoSafe Sport Kulak Tıkacı",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "alpine-hearing/motosafe-tour",
+      "earpeace/moto",
+      "pinlock/earplugs"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "biker",
+    "brand": "auritech",
+    "name": "Biker",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Patentli seramik filtresi kulak kanalında derine yerleşen, EN 352-2 sertifikalı, silikonsuz ve yıkanabilir İngiliz motosiklet kulak tıkacı.",
+    "description": [
+      "Auritech Biker'ın ayırt edici özelliği, hassas ayarlı ve patentli seramik filtresi. Üretici filtrenin kulak kanalında diğer ürünlere göre daha derine yerleştiğini, böylece kulak zarına ulaşan sesin önce filtreden geçtiğini belirtiyor. Filtre frekans seçici: tiz rüzgâr, yol ve motor gürültüsünü bastırırken konuşma, navigasyon, siren ve korna gibi düşük frekanslı seslerin duyulmasına izin veriyor; tıkalı kulak (oklüzyon) hissi yaratmadığı iddia ediliyor.",
+      "Gövde silikonsuz, hipoalerjenik termoplastikten ve üç kademeli (tri-sectional) bir tasarıma sahip; nominal 6–12 mm çap aralığındaki kulak kanallarına uyması hedefleniyor. Yıkanabilir ve tekrar kullanılabilir. Auritech, ürünün EN 352-2 standardına göre sertifikalı olduğunu ve en yüksek test frekansında bağımsız ölçülen APV değerinin 27,9 dB olduğunu belirtiyor; SNR değeri sayfada yalnız tablo görselinde yer aldığı için kaydımıza almadık. Türkiye'de yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Köpük tıkaçların tüm sesi boğmasından rahatsız olan sürücüler",
+      "İnterkom kullanan ve konuşmaları net duymak isteyenler",
+      "Silikona hassasiyeti olan, hipoalerjenik malzeme arayanlar"
+    ],
+    "notFor": [
+      "Filtre seviyesini koşula göre değiştirmek isteyenler: tek filtre",
+      "Türkiye'de mağazadan hemen almak isteyenler: yerel satış doğrulanamadı"
+    ],
+    "pros": [
+      "Patentli, frekans seçici seramik filtre",
+      "EN 352-2 sertifikası",
+      "Silikonsuz, hipoalerjenik malzeme",
+      "Geniş kanal uyumu (nominal 6–12 mm), tek ürünle çoğu kullanıcıya uyuyor"
+    ],
+    "cons": [
+      "SNR değeri metin olarak yayımlanmıyor",
+      "Filtre seviyesi değiştirilemiyor",
+      "Türkiye'de fiyat ve bulunabilirlik doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Trafik sesleri ve sirenler duyulmaya devam ettiği için şehirde de kullanılabilir.",
+      "uzunYol": "Uzun yolda rüzgâr ve yol gürültüsünü azaltarak yorgunluğu düşürür.",
+      "sport": "Yüksek hızda tiz rüzgâr gürültüsünü bastırmak için tasarlanmış.",
+      "kurye": "Gün boyu kullanımda konforlu ve yıkanabilir; çevre seslerini duyurması kurye için önemli."
+    },
+    "verdict": "Auritech Biker, seramik filtresi ve EN 352-2 sertifikasıyla teknik olarak güçlü bir kulak tıkacı. Sesi boğmadan rüzgâr gürültüsünü kesmesi interkom kullanıcıları için artı. SNR'nin açık metinle verilmemesi ve Türkiye'de kolay bulunmaması ise eksi yanları.",
+    "faq": [
+      {
+        "q": "Auritech Biker hangi standarda göre sertifikalı?",
+        "a": "Üretici ürünün EN 352-2 standardına göre sertifikalı olduğunu ve Almanya'daki IFA tarafından test edildiğini belirtiyor."
+      },
+      {
+        "q": "Silikona alerjim var, kullanabilir miyim?",
+        "a": "Auritech gövdenin silikonsuz, hipoalerjenik termoplastikten yapıldığını belirtiyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": "Silikonsuz, hipoalerjenik termoplastik",
+      "compatibility": "Evrensel; nominal 6–12 mm kulak kanalı",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "EN 352-2",
+      "features": [
+        "Patentli, frekans seçici seramik filtre",
+        "Filtre kulak kanalında derine yerleşir",
+        "Üç kademeli gövde tasarımı",
+        "En yüksek test frekansında APV 27,9 dB (EN 352-2:2020)",
+        "Yıkanabilir ve tekrar kullanılabilir"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.auritech.co.uk/universal-fit-earplugs/biker.html",
+    "sources": [
+      {
+        "url": "https://www.auritech.co.uk/universal-fit-earplugs/biker.html",
+        "type": "manufacturer",
+        "label": "Auritech – Biker Earplugs ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "earpeace/moto-pro",
+      "alpine-hearing/motosafe-tour",
+      "auritech/biker"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "Small",
+      "Standart"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "moto",
+    "brand": "earpeace",
+    "name": "MOTO",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "17, 20 ve 26 dB SNR değerinde üç değiştirilebilir filtre setiyle gelen, iki boy hipoalerjenik silikon uçlu ve alüminyum kutulu motosiklet kulak tıkacı.",
+    "description": [
+      "EarPeace MOTO'nun en güçlü yanı esneklik: kutudan üç farklı filtre seti çıkıyor ve sürücü koşula göre koruma seviyesini değiştirebiliyor. Üreticiye göre şeffaf filtreler 17 dB, kırmızılar 20 dB, siyahlar 26 dB SNR değerinde. Şehir içi ve kısa sürüşte düşük, uzun otoyol etaplarında yüksek filtre kullanmak mümkün. EarPeace tıkaçların interkoma ve kaskın oturuşuna engel olmadan rüzgâr gürültüsünü azalttığını belirtiyor.",
+      "Kulak uçları hipoalerjenik silikondan ve iki boyda (small ve standart, her birinden üçer adet) geliyor; taşıma için alüminyum bir kutu dahil. Gövde EarPeace'in çift koni tasarımını kullanıyor. Daha çok kişiye uyan Contour uçlar ve PRO filtreler isteyenler için markanın MOTO PRO modeli var. Türkiye'de yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Şehir içi ve otoyolu karışık kullanan, koruma seviyesini değiştirmek isteyen sürücüler",
+      "İnterkom kullanan ve konuşmaları duymaya devam etmek isteyenler",
+      "Küçük kulak kanalı nedeniyle small boy uç arayanlar"
+    ],
+    "notFor": [
+      "Silikona hassasiyeti olanlar: uçlar silikon",
+      "Türkiye'de mağazadan hemen almak isteyenler: yerel satış doğrulanamadı"
+    ],
+    "pros": [
+      "17, 20 ve 26 dB SNR üç filtre seti kutudan çıkıyor",
+      "İki boy hipoalerjenik silikon uç",
+      "Alüminyum taşıma kutusu",
+      "Fiyatına göre zengin içerik"
+    ],
+    "cons": [
+      "Küçük filtrelerin değiştirilmesi yolda biraz uğraştırıcı olabilir",
+      "Large boy uç yok",
+      "Türkiye'de fiyat ve bulunabilirlik doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "17 dB filtreyle trafik sesleri duyulmaya devam ederken uğultu azalır.",
+      "uzunYol": "20 veya 26 dB filtreyle otoyolda yorgunluğu belirgin şekilde azaltır.",
+      "sport": "26 dB filtre yüksek hız ve pist için en güçlü seçenek.",
+      "kurye": "Şehir içi kurye işinde 17 dB filtreyle hem işitme korunur hem çevre sesleri duyulur."
+    },
+    "verdict": "EarPeace MOTO, tek kutuda üç koruma seviyesi sunarak farklı sürüş türlerini kapsayan esnek bir kulak tıkacı. Small boy uç ve alüminyum kutu günlük kullanımda artı. Türkiye'de bulunabilirliği ise kısıtlı görünüyor.",
+    "faq": [
+      {
+        "q": "Hangi filtreyi kullanmalıyım?",
+        "a": "Üretici değerlerine göre 17 dB şehir ve kısa sürüş, 20 dB karışık kullanım, 26 dB ise uzun otoyol ve yüksek hız için uygun."
+      },
+      {
+        "q": "MOTO ile MOTO PRO arasındaki fark ne?",
+        "a": "MOTO çift koni uçlu ve üç filtre setli; MOTO PRO ise Contour uçlar ve PRO filtrelerle (20 veya 24 dB SNR) geliyor, tek filtre seti seçiliyor."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": "Hipoalerjenik silikon",
+      "compatibility": "Evrensel; small ve standart boy uç",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "SNR 17 / 20 / 26 dB (değiştirilebilir filtreler)",
+      "features": [
+        "Üç değiştirilebilir filtre seti: 17 dB, 20 dB, 26 dB SNR",
+        "Small ve standart boy uçlar (3'er adet)",
+        "Alüminyum taşıma kutusu",
+        "Çift koni gövde tasarımı"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.earpeace.com/products/motorcycle-ear-plugs",
+    "sources": [
+      {
+        "url": "https://www.earpeace.com/products/motorcycle-ear-plugs",
+        "type": "manufacturer",
+        "label": "EarPeace – MOTO Earplugs ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "aksesuar",
+    "rivals": [
+      "earpeace/moto",
+      "alpine-hearing/motosafe-sport",
+      "pinlock/earplugs"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [
+      "Standart",
+      "Large"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "moto-pro",
+    "brand": "earpeace",
+    "name": "MOTO PRO",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Contour kulak uçları ve 20 veya 24 dB SNR PRO filtre seçeneğiyle gelen, interkomu engellemeden rüzgâr gürültüsünü azaltan üst seviye motosiklet kulak tıkacı.",
+    "description": [
+      "MOTO PRO, EarPeace'in motosiklet serisinin üst modeli. Üretici, kişiye özel kalıba yakın oturuş sunduğunu söylediği Contour uçları, sesi daha dengeli ve tam spektrumda ileten PRO filtrelerle birleştiriyor. Satın alırken iki filtre seviyesinden biri seçiliyor: High (20 dB SNR) yoğun interkom kullanımı ve kısa sürüşler için, Max (24 dB SNR) ise uzun ve çok günlük yolculuklar için öneriliyor.",
+      "Kutudan seçilen PRO filtre seti, standart ve large boy Contour uçlar (her birinden üçer adet) ve alüminyum taşıma kutusu çıkıyor. Kirlendiğinde uçlar filtreler çıkarılarak ılık sabunlu suyla yıkanabiliyor. Standart MOTO'ya göre tek filtre seviyesiyle geliyor ama daha rafine bir ses ve oturuş hedefliyor; diğer seviye ayrı filtre seti olarak alınabiliyor. Türkiye'de yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Uzun yolda interkom ve müzik kullanan, ses kalitesinden ödün vermek istemeyen sürücüler",
+      "Standart tıkaçların kulağına tam oturmadığından şikâyet edenler",
+      "Large boy uç ihtiyacı olanlar"
+    ],
+    "notFor": [
+      "Küçük kulak kanalı olup small boy arayanlar: kutuda standart ve large var",
+      "Tek kutuda birden fazla koruma seviyesi isteyenler: MOTO modeli daha uygun"
+    ],
+    "pros": [
+      "Contour uçlarla kalıba yakın oturuş",
+      "PRO filtrelerle daha dengeli, boğuk olmayan ses",
+      "20 veya 24 dB SNR seçeneği",
+      "Alüminyum taşıma kutusu dahil"
+    ],
+    "cons": [
+      "Kutuda yalnız tek filtre seviyesi",
+      "Small boy uç yok",
+      "Türkiye'de fiyat ve bulunabilirlik doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "High (20 dB) filtreyle şehirde de kullanılabilir; çevre seslerine dikkat edilmeli.",
+      "uzunYol": "Max (24 dB) filtre çok günlük uzun turlar için tasarlanmış.",
+      "sport": "Yüksek hızda rüzgâr gürültüsünü belirgin şekilde azaltır.",
+      "kurye": "Gün boyu kask takan kuryeler için konforlu; şehir içi işte High filtre daha uygun."
+    },
+    "verdict": "MOTO PRO, ses kalitesine ve oturuşa önem veren uzun yol sürücüsü için EarPeace'in en rafine motosiklet tıkacı. Contour uçlar ve PRO filtreler fark yaratıyor. Tek filtre seviyesiyle gelmesi nedeniyle kullanım şeklinize göre doğru seviyeyi seçmek önemli.",
+    "faq": [
+      {
+        "q": "High mı Max mı seçmeliyim?",
+        "a": "EarPeace, yoğun interkom kullanımı ve kısa sürüşler için High (20 dB SNR), uzun ve çok günlük yolculuklar için Max (24 dB SNR) öneriyor."
+      },
+      {
+        "q": "Kutuda hangi boylar var?",
+        "a": "Standart ve large boy Contour uçlar, her birinden üçer adet."
+      }
+    ],
+    "specs": {
+      "accessoryType": "Kulak tıkacı",
+      "material": null,
+      "compatibility": "Evrensel; standart ve large boy Contour uç",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "SNR 20 dB (High) veya 24 dB (Max)",
+      "features": [
+        "Contour kulak uçları",
+        "PRO akustik filtreler (20 dB veya 24 dB SNR seçenekli)",
+        "Standart ve large boy uç (3'er adet)",
+        "Alüminyum taşıma kutusu",
+        "Yıkanabilir uçlar"
+      ],
+      "madeIn": null
+    },
+    "manufacturerUrl": "https://www.earpeace.com/products/moto-pro",
+    "sources": [
+      {
+        "url": "https://www.earpeace.com/products/moto-pro",
+        "type": "manufacturer",
+        "label": "EarPeace – MOTO PRO Earplugs ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]
