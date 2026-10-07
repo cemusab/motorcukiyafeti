@@ -23,3 +23,6 @@ Açık konular: www → apex yönlendirmesi (Vercel alan adı ayarı, kullanıc�
 Yeni kategoriler: yağmurluk, termal, aksesuar; koruma alt grupları. Görsel optimizasyonu en çok kullanılan 49 alan adıyla sınırlı (Next.js 50 limit), diğerleri unoptimized.
 ✅ Uyumluluk genişletildi: 17 kaska özel interkom, 167 kayıt (doğrulanmış 108+9), interkoma hazır tüm kasklara otomatik "teyit edilmedi" satırları.
 Sıradaki: yayına alma (kullanıcı onayı); admin/DB; Search Console.
+
+## Güncel rapor ve yol haritası
+Tam durum ve adım adım plan: `docs/RAPOR.md` (7 Ekim 2026). Şu anki aşama: **AŞAMA 1 — İndeksleme** (büyük değişiklik yok; Search Console/Analytics takibi).

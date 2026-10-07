@@ -33,4 +33,4 @@ Yeni ürün: ilgili `src/data/products/{kategori}.json` dosyasına şemaya uygun
 Koyu başlık, beyaz yüzeyler, kırmızı (#d4202a) vurgu; Barlow Condensed başlık, Barlow gövde; mobile-first. Referans: `docs/design/reference.webp` (içindeki puan/fiyatlar örnektir). İlk prototip: `docs/design/prototype.html`.
 
 ## Sıradaki işler
-Bkz. `docs/mimari.md > Yol haritası`.
+Güncel durum ve adım adım yol haritası: `docs/RAPOR.md`. Oturum notları: `docs/durum.md`.
