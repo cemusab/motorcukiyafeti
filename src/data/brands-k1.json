@@ -1,0 +1,363 @@
+[
+  {
+    "slug": "d3o",
+    "name": "D3O",
+    "country": "Birleşik Krallık",
+    "founded": 1999,
+    "website": "https://www.d3o.com/",
+    "about": [
+      "D3O, normalde esnek kalan ama darbe anında sertleşerek enerjiyi emen ve dağıtan bir malzeme geliştiren İngiliz şirketidir. Malzemenin temeli 1999'da Richard Palmer ve Philip Green'in darbe altında sertleşen (dilatant) bir akışkanla yaptığı deneylere ve aynı yıl yapılan patent başvurusuna dayanıyor.",
+      "D3O motosiklet pazarına 2009'da girdi ve bugün kendi adıyla perakende ürün satmaktan çok, mont ve pantolon üreticilerine sırt, göğüs, dirsek, diz ve omuz koruyucuları tedarik ediyor. Bu nedenle D3O koruyucularını çoğunlukla başka markaların giysilerinin içinde veya ortak markalı paketlerde görürsün. Motosiklet ailesinde Viper ve Viper Air sırt koruyucuları ile LP1/LP2 uzuv koruyucuları öne çıkıyor."
+    ],
+    "strengths": [
+      "Darbe anında sertleşen esnek malzeme",
+      "Geniş OEM kullanımı; birçok mont markasında standart",
+      "Sıcak ve soğuk koşullarda belgeli uzuv koruyucuları"
+    ],
+    "categories": [
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Viper Air",
+        "note": "Hafif ve havalandırmalı, mont cebine takılan sırt koruyucuları (L1 ve L2).",
+        "url": "https://www.d3o.com/partners/solutions/molded-parts/d3o-viper-air-l2-back-protector/"
+      },
+      {
+        "name": "Racing LP2 Pro",
+        "note": "Uzatılmış kapsamalı Level 2 dirsek ve diz koruyucuları.",
+        "url": "https://www.d3o.com/partners/solutions/molded-parts/d3o-racing-lp2-pro-limb-protectors/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "D3O Viper Air L2 sırt koruyucu",
+        "url": "https://www.d3o.com/partners/solutions/molded-parts/d3o-viper-air-l2-back-protector/",
+        "reason": "Mont cebine takılan sırt pedini daha hafif ve daha iyi havalanan bir Level 2 koruyucuyla yükseltmek için."
+      }
+    ],
+    "alternatives": [
+      "sas-tec",
+      "knox",
+      "tech90"
+    ],
+    "history": [
+      {
+        "year": 1999,
+        "event": "Richard Palmer ve Philip Green'in darbe altında sertleşen malzeme deneyleri sonucunda patent başvurusu yapıldı."
+      },
+      {
+        "year": 2006,
+        "event": "Malzeme ilk kez ticari olarak ABD ve Kanada kayak takımlarının ekipmanında kullanıldı."
+      },
+      {
+        "year": 2009,
+        "event": "D3O, CE belgeli motosiklet koruyucularıyla motosiklet pazarına girdi."
+      }
+    ],
+    "strongestLine": "Motosiklet giysi üreticilerine tedarik edilen esnek sırt ve uzuv koruyucuları",
+    "sources": [
+      {
+        "url": "https://www.d3o.com/",
+        "type": "manufacturer",
+        "label": "D3O resmi sitesi",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/D3O",
+        "type": "review",
+        "label": "Wikipedia – D3O",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "sas-tec",
+    "name": "SAS-TEC",
+    "country": "Almanya",
+    "founded": null,
+    "website": "https://www.sas-tec.de/",
+    "about": [
+      "SAS-TEC, Almanya'nın Markgröningen kentinde bulunan ve motosiklet, kayak ve bisiklet için darbe koruyucuları üreten bir firmadır. Ürünleri viskoelastik yumuşak köpükten yapılıyor ve markanın patentli Tripleflex tasarımıyla çok sayıda havalandırma açıklığı olan, son derece esnek bir yapıya sahip.",
+      "SAS-TEC daha çok mont ve pantolon üreticilerine koruyucu tedarik ediyor; Held, Modeka ve Helite gibi markaların ürünlerinde SAS-TEC koruyucularla karşılaşmak mümkün. Ürün kodları (ör. SC-1/FB2-L, SC-1/KB2air) koruyucunun bölgesini, seviyesini ve ölçüsünü tanımlıyor; bu da cep ölçüsüne göre doğru yedek parçayı bulmayı kolaylaştırıyor."
+    ],
+    "strengths": [
+      "Viskoelastik, darbe sonrası tekrar kullanılabilen koruyucular",
+      "Çok ince ve esnek Level 2 seçenekleri",
+      "Geniş ölçü ve bölge yelpazesi"
+    ],
+    "categories": [
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Rücken-Protektoren (sırt)",
+        "note": "FB ve FB2 ailesi dahil mont cebine takılan sırt koruyucuları.",
+        "url": "https://www.sas-tec.de/protektoren/ruecken-protektoren/"
+      },
+      {
+        "name": "Knie-Protektoren (diz)",
+        "note": "Level 1 ve Level 2 diz ve çok amaçlı uzuv koruyucuları.",
+        "url": "https://www.sas-tec.de/protektoren/knie-protektoren/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "SAS-TEC SC-1/KB2air",
+        "url": "https://www.sas-tec.de/produkte/sc-1-kb2air/",
+        "reason": "10 mm kalınlıkta, Level 2 sınırının yaklaşık %25 altında kuvvet ileten çok amaçlı uzuv koruyucusu."
+      }
+    ],
+    "alternatives": [
+      "d3o",
+      "knox",
+      "tech90"
+    ],
+    "history": [],
+    "strongestLine": "Viskoelastik köpükten ince, esnek mont ve pantolon koruyucuları",
+    "sources": [
+      {
+        "url": "https://www.sas-tec.de/ueber-uns/",
+        "type": "manufacturer",
+        "label": "SAS-TEC – Über uns",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.sas-tec.de/protektoren/",
+        "type": "manufacturer",
+        "label": "SAS-TEC – Protektoren",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "knox",
+    "name": "Knox",
+    "country": "Birleşik Krallık",
+    "founded": 1981,
+    "website": "https://www.planet-knox.com/",
+    "about": [
+      "Knox, eski motosiklet yarışçısı Geoff Travell'in 1981'de kurduğu İngiliz koruyucu ekipman markasıdır. Marka, Pro-Tek adıyla döşemelik köpükten yapılmış bir sırt koruyucuyla başladı; 1995'te ilk CE onaylı motosiklet koruyucularını çıkardı. Bugün Cumbria'daki Cockermouth'tan yönetiliyor.",
+      "Knox'un kimliği iki ürün grubuna dayanıyor: darbede kilitlenen yumuşak Micro-Lock malzemeli sırt ve uzuv koruyucuları ile mont yerine veya altında giyilen zırhlı gömlekler (Urbane Pro, Action Pro). 2010'da tanıttığı skafoid koruma sistemi (SPS) de eldivenlerde bilinen bir yeniliktir. Türkiye'de Motomax gibi yetkili satıcılarda bulunuyor."
+    ],
+    "strengths": [
+      "Zırhlı gömlek (armoured shirt) kategorisinin öncülerinden",
+      "Yumuşak, darbede kilitlenen Micro-Lock koruyucular",
+      "Sıcak iklime uygun file ürünler"
+    ],
+    "categories": [
+      "koruma",
+      "mont",
+      "pantolon",
+      "eldiven"
+    ],
+    "families": [
+      {
+        "name": "Body Armour",
+        "note": "Askılı sırt koruyucuları, göğüs koruyucuları ve koruyucu iç giyim.",
+        "url": "https://www.planet-knox.com/motorcycle-body-armour/"
+      },
+      {
+        "name": "Armoured Shirts",
+        "note": "Urbane Pro, Action Pro ve Honister gibi zırhlı gömlekler.",
+        "url": "https://www.planet-knox.com/motorcycle-armoured-shirts/"
+      },
+      {
+        "name": "Micro-Lock Compact",
+        "note": "İnce ve hafif Level 2 yedek koruyucular.",
+        "url": "https://www.planet-knox.com/micro-lock-compact/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Knox Urbane Pro MK3",
+        "url": "https://www.planet-knox.com/product/mens-urbane-pro-mk3/",
+        "reason": "EN 17092 AA belgeli, tek başına giyilebilen file zırhlı gömlek; sıcak iklimde mont alternatifi."
+      }
+    ],
+    "alternatives": [
+      "alpinestars",
+      "dainese",
+      "sas-tec"
+    ],
+    "history": [
+      {
+        "year": 1981,
+        "event": "Geoff Travell, döşemelik köpükten ilk sırt koruyucuyu yaptı; marka Pro-Tek adıyla başladı."
+      },
+      {
+        "year": 1995,
+        "event": "İlk CE onaylı motosiklet koruyucuları piyasaya çıktı."
+      },
+      {
+        "year": 2010,
+        "event": "Patentli skafoid koruma sistemi (SPS) tanıtıldı."
+      },
+      {
+        "year": 2016,
+        "event": "Micro-Lock koruyucu malzemesi piyasaya sürüldü."
+      },
+      {
+        "year": 2019,
+        "event": "Urbane Pro zırhlı gömlek tanıtıldı."
+      },
+      {
+        "year": 2022,
+        "event": "Micro-Lock Compact ve Seasonless® giyim sistemi çıktı."
+      },
+      {
+        "year": 2023,
+        "event": "Urbane Pro MK3 piyasaya sürüldü."
+      }
+    ],
+    "strongestLine": "Zırhlı gömlekler ve Micro-Lock sırt koruyucuları",
+    "sources": [
+      {
+        "url": "https://www.planet-knox.com/knox-history/",
+        "type": "manufacturer",
+        "label": "Knox – Knox History",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.planet-knox.com/",
+        "type": "manufacturer",
+        "label": "Knox resmi sitesi",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "helite",
+    "name": "Helite",
+    "country": "Fransa",
+    "founded": 2002,
+    "website": "https://www.helite.com/",
+    "about": [
+      "Helite, mekanik mühendis Gérard Thévenot'nun 2002'de Fransa'nın Dijon kentinde kurduğu bir airbag koruma şirketidir. Thévenot'nun amacı yüksek riskli sporlar için kişisel koruyucu donanım geliştirmekti; şirketin ilk patenti de motosiklet sürücülerine yönelik bireysel koruma airbag'i üzerine oldu.",
+      "Helite bugün motosiklet, binicilik, bisiklet ve iş güvenliği gibi alanlarda airbag sistemleri üretiyor ve ürünlerini Fransa'da üretiyor. Motosiklet tarafında motosiklete kordonla bağlanan mekanik Turtle yelekleri en bilinen ürünü; markanın elektronik tetiklemeli e-Turtle seçenekleri ve airbag'li montları da var."
+    ],
+    "strengths": [
+      "Pil gerektirmeyen mekanik airbag sistemleri",
+      "Montun üstüne giyilen yelek formu",
+      "Kullanıcı tarafından kartuş değiştirilerek tekrar kullanım"
+    ],
+    "categories": [
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Mekanik motosiklet airbag'leri",
+        "note": "Turtle 2 yelek ve airbag'li montlar.",
+        "url": "https://www.helite.com/airbag-moto-mecanique/"
+      },
+      {
+        "name": "Elektronik motosiklet airbag'leri",
+        "note": "Elektronik tetiklemeli e-Turtle serisi.",
+        "url": "https://www.helite.com/airbag-moto-electronique-helite/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Helite Turtle 2",
+        "url": "https://shop.helite.com/en/mechanical-motorcycle-aibargs/55-958-airbag-turtle-2.html",
+        "reason": "Pil ve abonelik gerektirmeyen, montun üstüne giyilen, SAS-TEC Level 2 sırt koruyuculu mekanik airbag yelek."
+      }
+    ],
+    "alternatives": [
+      "alpinestars",
+      "dainese",
+      "held"
+    ],
+    "history": [
+      {
+        "year": 2002,
+        "event": "Gérard Thévenot, Helite'i Dijon'da kurdu; ilk patent motosiklet sürücüleri için bireysel koruma airbag'i oldu."
+      }
+    ],
+    "strongestLine": "Motosiklete kordonla bağlanan mekanik airbag yelekler (Turtle)",
+    "sources": [
+      {
+        "url": "https://www.helite.com/histoire-protection-airbag-helite/",
+        "type": "manufacturer",
+        "label": "Helite – Histoire",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.helite.com/airbag-moto-mecanique/",
+        "type": "manufacturer",
+        "label": "Helite – Airbag moto mécanique",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "in-and-motion",
+    "name": "In&motion",
+    "country": "Fransa",
+    "founded": 2014,
+    "website": "https://www.inemotion.com/",
+    "about": [
+      "In&motion, 2014'te Fransa'nın Annecy bölgesinde kurulan ve akıllı airbag sistemleri geliştiren bir teknoloji şirketidir. Şirketin merkezinde In&box adlı elektronik kontrol ünitesi var: altı sensörle (üç ivmeölçer, üç jiroskop) sürücünün pozisyonunu saniyede yaklaşık 1.000 kez analiz eden ve düşmeyi algıladığında şişiriciyi tetikleyen bir modül.",
+      "In&motion kendi markalı motosiklet yeleği satmak yerine teknolojisini iXS, Held, Klim, RST, Furygan ve Ixon gibi giyim markalarının airbag yelek ve montlarına lisanslıyor. In&box ünitesi bu ürünlerden ayrı olarak satın alınıyor veya aylık/yıllık abonelikle kiralanıyor; yazılım güncellemeleriyle yeni sürüş modları eklenebiliyor. Bu modelde aynı ünite farklı markaların uyumlu yelekleri arasında taşınabiliyor."
+    ],
+    "strengths": [
+      "Markalar arası taşınabilen elektronik kontrol ünitesi",
+      "Yazılım güncellemeleriyle gelişen algılama modları",
+      "Satın alma veya abonelik seçenekleri"
+    ],
+    "categories": [
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Moto – uyumlu ürünler",
+        "note": "In&motion teknolojisiyle çalışan iXS, Held, Klim, RST ve diğer markaların airbag ürünleri.",
+        "url": "https://www.inemotion.com/en/moto/equipped-products/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "In&motion ile çalışan iXS iPRO 1.0",
+        "url": "https://www.ixs.com/en/products/ixs-airbag-weste-ipro-1-0-schwarz",
+        "reason": "In&box ünitesiyle çalışan hafif, mont altı elektronik airbag yelek."
+      },
+      {
+        "label": "In&motion ile çalışan Held eVest 2",
+        "url": "https://shop.held.de/en/eVest-2-electronically-activated-airbag-system/092670-00-028-0-M",
+        "reason": "D3O Level 2 sırt koruyuculu ve FIM homologasyonlu In&motion yeleği."
+      }
+    ],
+    "alternatives": [
+      "alpinestars",
+      "dainese",
+      "helite"
+    ],
+    "history": [
+      {
+        "year": 2014,
+        "event": "In&motion, Annecy'de akıllı airbag sistemleri geliştirmek üzere kuruldu."
+      }
+    ],
+    "strongestLine": "Farklı markaların yeleklerinde çalışan elektronik airbag kontrol ünitesi (In&box)",
+    "sources": [
+      {
+        "url": "https://www.inemotion.com/en/",
+        "type": "manufacturer",
+        "label": "In&motion resmi sitesi",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.inemotion.com/en/moto/equipped-products/",
+        "type": "manufacturer",
+        "label": "In&motion – Moto equipped products",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.cbinsights.com/company/inmotion-2",
+        "type": "review",
+        "label": "CB Insights – In&motion şirket profili",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]
