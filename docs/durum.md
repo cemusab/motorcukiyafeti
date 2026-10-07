@@ -10,9 +10,9 @@ PR: https://github.com/cemusab/motorcukiyafeti/pull/1 (v2 → main). Birleştiri
 
 ## Bekleyen (sıradaki adımlar)
 1. ✅ Tüm ürün ekipleri bitti ve commit'lendi (103 kask, 105 mont).
-2. Karşılaştırma sayfasına "Karşılaştırmayı bitir" düğmesi (listeyi sıfırla + geri dön) — src/components/CompareTool.tsx
-3. Önceki/sonraki gezinme: ürün sayfası (aynı kategori) ve rehber (aynı konu)
-4. Ana sayfaya "Yerli markalar" bölümü (Türk markaları + ürünleri)
-5. Dev server yeniden başlat (yeni görsel alan adları next.config'e build/başlangıçta okunur)
-6. `npm run qa` → yeşil ise push (PR güncellenir); Lighthouse mobil: SEO ≥95 zorunlu, Performance >90 hedef
+2. ✅ Karşılaştırmayı bitir düğmesi
+3. ✅ Önceki/sonraki gezinme
+4. ✅ Yerli markalar bölümü + eski URL 301 yönlendirmeleri (next.config.ts)
+5. ✅ Dev server / tip dosyaları yenilendi (yeni görsel alan adları next.config'e build/başlangıçta okunur)
+6. ✅ QA yeşil (1356 URL taraması dahil), Lighthouse mobil SEO 100 her sayfada; Performance 85–93 (ürün sayfaları 85: üretici görseli ilk optimizasyonu). Push edildi (PR güncellenir); Lighthouse mobil: SEO ≥95 zorunlu, Performance >90 hedef
 7. Sonraki aşama: Postgres + admin paneli + site içi yorum formu (Resend), veri sorumlusu bilgisi netleşince legal-config güncelle

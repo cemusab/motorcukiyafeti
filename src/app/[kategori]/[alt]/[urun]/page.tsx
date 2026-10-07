@@ -7,6 +7,7 @@ import { ProductCard, ProductVisual } from "@/components/ProductCard";
 import { ProductGallery } from "@/components/ProductGallery";
 import { VideoList } from "@/components/VideoList";
 import { Reviews } from "@/components/Reviews";
+import { PrevNext } from "@/components/PrevNext";
 import { CompareButton, FavoriteButton } from "@/components/ProductActions";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice } from "@/components/ui";
@@ -21,6 +22,7 @@ import {
   formatTL,
   getBrand,
   getMedia,
+  localFirst,
   getGuides,
   getProductById,
   getProducts,
@@ -119,6 +121,10 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
     .map((g) => g.slug);
   const sub = c.groups.flatMap((g) => g.items).find((i) => p.subcategories.includes(i.slug));
   const media = getMedia(p);
+  // Önceki/sonraki: aynı kategorideki ürünler, liste sırasıyla (yerli markalar önce).
+  const siblings = localFirst(getProducts().filter((x) => x.category === p.category));
+  const pos = siblings.findIndex((x) => productId(x) === id);
+  const nav = (x?: Product) => (x ? { href: productPath(x), title: displayName(x) } : undefined);
 
   const crumbs = [
     { name: c.name, href: `/${c.slug}` },
@@ -555,6 +561,10 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
           )}
           <RelatedLinks guides={guides.slice(0, 5)} categories={[p.category, ...p.subcategories.map((s) => `${p.category}/${s}`)]} />
         </aside>
+      </Container>
+
+      <Container className="mt-14">
+        <PrevNext label="Ürünler arasında gezin" prev={nav(siblings[pos - 1])} next={nav(siblings[pos + 1])} />
       </Container>
 
       {rivals.length > 0 && (

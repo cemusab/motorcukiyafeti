@@ -5,6 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import type { CompareEntry } from "@/lib/compare-core";
 import { MAX_COMPARE, useList } from "@/lib/store";
 import { CompareView } from "./CompareView";
+import { Icon } from "./Icon";
 
 const CAT_NAME: Record<string, string> = { kask: "Kask", interkom: "İnterkom", mont: "Mont", eldiven: "Eldiven", bot: "Bot", pantolon: "Pantolon", koruma: "Koruma" };
 
@@ -83,8 +84,15 @@ export function CompareTool({ pairs }: { pairs: { slug: string; title: string }[
             </select>
           </div>
           {sameCat.length > 0 && (
-            <button type="button" onClick={() => setIds([])} className="h-11 px-3 text-sm font-semibold text-mute hover:text-ink">
-              Temizle
+            <button
+              type="button"
+              onClick={() => {
+                setIds([]);
+                router.push(`/${activeCat}`);
+              }}
+              className="flex h-11 items-center gap-1.5 rounded-md border border-ink px-4 text-sm font-semibold hover:bg-ink hover:text-white"
+            >
+              <Icon name="check" className="size-4" /> Karşılaştırmayı bitir
             </button>
           )}
         </div>

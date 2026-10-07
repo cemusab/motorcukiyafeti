@@ -8,7 +8,7 @@ import { Wizard } from "@/components/Wizard";
 import { CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import { comparePairs, editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
-import { displayName, getBrands, getGuide, getGuides, getMedia, productsIn } from "@/lib/data";
+import { displayName, getBrands, getGuide, getGuides, getMedia, getProducts, isLocal, productsIn } from "@/lib/data";
 import { getSubcategory } from "@/data/categories";
 import { meta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
@@ -65,6 +65,14 @@ export default function Home() {
   const guides = getGuides();
   const brands = getBrands();
   const picks = editorPicks(8);
+  const localBrands = brands.filter((b) => b.country === "Türkiye");
+  // Yerli ürünler: her yerli markadan sırayla, en fazla 8 ürün.
+  const localProducts = (() => {
+    const lists = localBrands.map((b) => getProducts().filter((p) => p.brand === b.slug && isLocal(p)));
+    const out = [];
+    for (let i = 0; out.length < 8 && i < 10; i++) for (const l of lists) if (l[i] && out.length < 8) out.push(l[i]);
+    return out;
+  })();
   const pairs = comparePairs().slice(0, 4);
   const banner = (slug: string) => getGuide(slug);
   const heroImg = coverImage("kask", "racing-kask");
@@ -199,6 +207,36 @@ export default function Home() {
             ))}
           </ul>
         </Container>
+      )}
+
+      {localBrands.length > 0 && (
+        <section className="mt-14 bg-white py-12" aria-labelledby="yerli">
+          <Container>
+            <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
+              <div>
+                <p className="text-sm font-semibold tracking-wide text-red uppercase">Türkiye&apos;de üretiliyor</p>
+                <h2 id="yerli" className="font-display text-3xl leading-none font-bold sm:text-4xl">
+                  Yerli markalar
+                </h2>
+                <p className="mt-2 max-w-2xl text-mute">Kurye montundan Kevlar kota, çene açılır kasktan Dyneema monta kadar yerli üreticilerin ürünleri; teknik verileri ve fiyatlarıyla.</p>
+              </div>
+              <Link href="/markalar#ulke-turkiye" className="flex items-center gap-1 text-sm font-semibold text-red hover:underline">
+                Tüm yerli markalar <Icon name="arrow" className="size-4" />
+              </Link>
+            </div>
+            <ul className="mb-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+              {localBrands.map((b) => (
+                <li key={b.slug}>
+                  <Link href={`/marka/${b.slug}`} className="group block h-full rounded-lg border border-line p-4 hover:border-red">
+                    <span className="block font-display text-xl font-bold group-hover:text-red">{b.name}</span>
+                    {b.strongestLine && <span className="mt-1 block text-sm text-mute">{b.strongestLine}</span>}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            {localProducts.length > 0 && <ProductGrid items={localProducts} />}
+          </Container>
+        </section>
       )}
 
       {picks.length > 0 && (

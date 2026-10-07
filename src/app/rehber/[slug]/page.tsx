@@ -4,6 +4,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductCard } from "@/components/ProductCard";
 import { RelatedLinks } from "@/components/Related";
+import { PrevNext } from "@/components/PrevNext";
 import { Container } from "@/components/ui";
 import { formatDate, getGuide, getGuides, getProducts, productId } from "@/lib/data";
 import { faqLd, meta } from "@/lib/seo";
@@ -34,6 +35,9 @@ export default async function GuidePage({ params }: PageProps<"/rehber/[slug]">)
     .filter((p) => cats.some((r) => r === p.category || p.subcategories.some((s) => r === `${p.category}/${s}`)))
     .slice(0, 4);
   const related = g.relatedGuides.filter((r) => getGuide(r));
+  const sameTopic = getGuides().filter((x) => x.topic === g.topic);
+  const gi = sameTopic.findIndex((x) => x.slug === g.slug);
+  const gnav = (x?: (typeof sameTopic)[number]) => (x ? { href: `/rehber/${x.slug}`, title: x.title } : undefined);
 
   return (
     <>
@@ -126,6 +130,9 @@ export default async function GuidePage({ params }: PageProps<"/rehber/[slug]">)
               </ul>
             </section>
           )}
+          <div className="mt-10">
+            <PrevNext label="Rehberler arasında gezin" prev={gnav(sameTopic[gi - 1])} next={gnav(sameTopic[gi + 1])} />
+          </div>
         </article>
         <aside className="space-y-6 lg:sticky lg:top-32 lg:self-start">
           <RelatedLinks guides={related} categories={cats} />

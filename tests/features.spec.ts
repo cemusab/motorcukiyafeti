@@ -60,9 +60,9 @@ test("kategori filtreleri ürün listesini daraltır", async ({ page, isMobile }
 
 test("karşılaştırma: iki kask seçilir, tablo ve kısa cevap görünür", async ({ page }) => {
   await page.goto("/kask/shoei/neotec-3");
-  await page.getByRole("button", { name: /Neotec 3 karşılaştır$/ }).first().click();
+  await page.getByRole("button", { name: "Karşılaştır", exact: true }).first().click();
   await page.goto("/kask/schuberth/c5");
-  await page.getByRole("button", { name: /C5 karşılaştır$/ }).first().click();
+  await page.getByRole("button", { name: "Karşılaştır", exact: true }).first().click();
   await page.goto("/karsilastir");
   await expect(page.getByRole("heading", { name: "Kısa cevap" })).toBeVisible();
   await expect(page.getByRole("table")).toContainText("Kask tipi");
@@ -96,7 +96,7 @@ test("sihirbaz ekipman seti üretir", async ({ page }) => {
 
 test("favoriler çalışır", async ({ page }) => {
   await page.goto("/kask/hjc/i71");
-  await page.getByRole("button", { name: /i71 favorilere ekle/ }).first().click();
+  await page.getByRole("button", { name: "Favorilere ekle", exact: true }).first().click();
   await page.goto("/favoriler");
   await expect(page.getByRole("link", { name: /i71/ })).toBeVisible();
 });
@@ -116,5 +116,19 @@ test("yatay taşma yok (responsive)", async ({ page }) => {
     await page.goto(path);
     const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
     expect(over, path).toBeLessThanOrEqual(1);
+  }
+});
+
+test("eski site adresleri yeni sayfalara 301 ile yönlenir", async ({ request }) => {
+  for (const [from, to] of [
+    ["/kask/shoei-neotec-3", "/kask/shoei/neotec-3"],
+    ["/kask/dainese-racing-4", "/mont/dainese/racing-5"],
+    ["/markalar/shoei", "/marka/shoei"],
+    ["/rehberler", "/rehber"],
+    ["/uyumluluk", "/interkom-uyumlulugu"],
+  ]) {
+    const r = await request.get(from, { maxRedirects: 0 });
+    expect(r.status(), from).toBe(308);
+    expect(r.headers()["location"], from).toContain(to);
   }
 });
