@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "quad-lock",
+    "name": "Quad Lock",
+    "country": "Avustralya",
+    "founded": 2011,
+    "website": "https://www.quadlockcase.com/",
+    "about": [
+      "Quad Lock, Avustralyalı Annex Products şirketinin akıllı telefon bağlantı markası. İlk ürün 2011'de Kickstarter kampanyasıyla bisikletçiler için bir iPhone bağlantısı olarak çıktı; ürün yelpazesi zamanla motosiklet, araç, koşu ve deniz kullanımına genişledi.",
+      "Sistemin temeli, telefona özel kılıf veya universal adaptör ile çevrilerek kilitlenen patentli çift kademeli kilit. Motosiklet tarafında gidon, ayna, furş ve debriyaj bağlantılarının yanında titreşim sönümleyici ve su geçirmez kablosuz şarj başlıkları gibi modüller sunuluyor."
+    ],
+    "strengths": [
+      "Hızlı ve güvenli çevir-kilitle telefon bağlantısı",
+      "Geniş motosiklet bağlantı seçeneği",
+      "Telefon kamerası için ayrı titreşim sönümleyici modül"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Motorcycle Handlebar Mounts",
+        "note": "Standart, PRO ve Large gidon bağlantıları.",
+        "url": "https://www.quadlockcase.com/products/motorcycle-mount"
+      },
+      {
+        "name": "Vibration Dampener",
+        "note": "Motosiklet bağlantıları için titreşim sönümleyici modül.",
+        "url": "https://www.quadlockcase.com/products/vibration-dampener"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Handlebar Mount PRO",
+        "url": "https://www.quadlockcase.com/products/motorcycle-mount",
+        "reason": "Alüminyum gövdesi ve geniş gidon çapı uyumuyla markanın en çok tercih edilen motosiklet bağlantısı."
+      }
+    ],
+    "alternatives": [
+      "sp-connect",
+      "givi"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "event": "İlk Quad Lock iPhone bağlantısı Kickstarter kampanyasıyla piyasaya çıktı."
+      }
+    ],
+    "strongestLine": "Motosiklet ve bisiklet için çevir-kilitle telefon bağlantıları",
+    "sources": [
+      {
+        "url": "https://www.quadlockcase.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "Quad Lock – Hakkımızda",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.quadlockcase.com/collections/shop-motorcycle",
+        "type": "manufacturer",
+        "label": "Quad Lock – Motosiklet ürünleri",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "sp-connect",
+    "name": "SP Connect",
+    "country": "Avusturya",
+    "founded": 2016,
+    "website": "https://sp-connect.com/",
+    "about": [
+      "SP Connect, merkezi Viyana'da bulunan SP United grubunun 2016'da piyasaya sürdüğü akıllı telefon bağlantı sistemi. Grup 1988'den beri faaliyet gösteriyor ve Almanya, Avusturya, İsviçre, Çin ve ABD'de lokasyonlara sahip.",
+      "Sistem, entegre bağlantı mekanizmalı telefon kılıfı ile 90° çevirerek kilitlenen bağlantılardan oluşuyor. Motosiklet için gidon, ayna, debriyaj ve furş bağlantılarının yanında titreşim sönümleyici ve kablosuz şarj modülleri sunuluyor; aynı kılıf araç ve bisiklet bağlantılarıyla da kullanılabiliyor."
+    ],
+    "strengths": [
+      "Modüler kılıf ve bağlantı ekosistemi",
+      "Titreşim sönümleyici ve kablosuz şarj modülleri",
+      "Türkiye'de geniş ürün yelpazesiyle satışta"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Moto Mount Pro",
+        "note": "Gidona takılan, 360° ayarlanabilir bağlantı.",
+        "url": "https://sp-connect.com/products/moto-mount-pro"
+      },
+      {
+        "name": "Anti Vibration Module",
+        "note": "Titreşim sönümleyici, şarjlı ve şarjsız versiyonlar.",
+        "url": "https://sp-connect.com/products/anti-vibration-module"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Moto Mount Pro",
+        "url": "https://sp-connect.com/products/moto-mount-pro",
+        "reason": "Beş farklı gidon çapına uyan, markanın ana motosiklet bağlantısı."
+      }
+    ],
+    "alternatives": [
+      "quad-lock",
+      "givi"
+    ],
+    "history": [
+      {
+        "year": 1988,
+        "event": "SP grubunun faaliyetleri başladı."
+      },
+      {
+        "year": 2016,
+        "event": "SP Connect akıllı telefon bağlantı sistemi piyasaya sürüldü."
+      }
+    ],
+    "strongestLine": "Kılıf tabanlı modüler telefon bağlantı sistemi",
+    "sources": [
+      {
+        "url": "https://sp-connect.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "SP Connect – Hakkımızda",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "abus",
+    "name": "ABUS",
+    "country": "Almanya",
+    "founded": 1924,
+    "website": "https://www.abus.com/",
+    "about": [
+      "ABUS, 1924'ten beri güvenlik teknolojisi üreten bir Alman şirketi. Kapı ve asma kilitlerden ev güvenlik sistemlerine, bisiklet kasklarından motosiklet kilitlerine kadar geniş bir ürün gamı var.",
+      "Motosiklet tarafında GRANIT serisi disk kilitleri, U kilitler ve kilit-zincir kombinasyonları öne çıkıyor. Ürün sayfalarında Sold Secure, ART, SBSC ve FG gibi bağımsız test mühürleri listeleniyor; XPlus silindir maymuncuk gibi manipülasyonlara karşı geliştirilmiş."
+    ],
+    "strengths": [
+      "Bağımsız test mühürleriyle belgelenmiş kilitler",
+      "Alarmlı disk kilidi ve ağır zincir seçenekleri",
+      "XPlus silindir ve yedek anahtar için Code Card"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "GRANIT Detecto",
+        "note": "Alarmlı disk kilitleri.",
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Brake-Disc-Locks-Motorbike"
+      },
+      {
+        "name": "Kilit-zincir kombinasyonları",
+        "note": "CityChain ve Power XS gibi motosiklet zincir setleri.",
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Lock-Chain-Combinations-Motorbike"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "GRANIT Detecto XPlus 8077 2.0",
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Brake-Disc-Locks-Motorbike/GRANIT-Detecto-XPlus-8077-2.0",
+        "reason": "Sold Secure Powered Cycle Gold ve ART onaylı, ön alarmlı disk kilidi."
+      }
+    ],
+    "alternatives": [
+      "xena",
+      "oxford"
+    ],
+    "history": [
+      {
+        "year": 1924,
+        "event": "ABUS kuruldu."
+      }
+    ],
+    "strongestLine": "Sertifikalı motosiklet disk ve zincir kilitleri (GRANIT)",
+    "sources": [
+      {
+        "url": "https://www.abus.com/int",
+        "type": "manufacturer",
+        "label": "ABUS – Ana sayfa (Security technology since 1924)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks",
+        "type": "manufacturer",
+        "label": "ABUS – Motosiklet kilitleri",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "xena",
+    "name": "Xena",
+    "country": "Birleşik Krallık",
+    "founded": 1995,
+    "website": "https://www.xenasecurity.com/",
+    "about": [
+      "Xena Security, 1995'te bir grup İngiliz mühendis ve motosiklet tutkunu tarafından kuruldu. Marka alarmlı motosiklet kilitleri üzerine uzmanlaşmış; disk kilidine entegre alarm fikrini temel ürün çizgisi haline getirdi.",
+      "2019'da disk kilidi alarmlarına akıllı telefon bağlantısı ve kontrolü eklendi. Ürün gamında alarmlı disk kilitleri, alarmsız disk kilitleri, zincir ve kablolar, U kilitler ve zemin ankrajı bulunuyor."
+    ],
+    "strengths": [
+      "Alarmlı disk kilitlerinde uzmanlık",
+      "Paslanmaz çelik gövdeli modeller",
+      "Akıllı telefon kontrollü versiyonlar"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Disk kilidi alarmları",
+        "note": "XX6, XX10, XX14 ve XX15 serileri.",
+        "url": "https://www.xenasecurity.com/xena-disc-lock-alarms/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "XX15 Disc-Lock Alarm",
+        "url": "https://www.xenasecurity.com/products/disc-lock-alarms/xx15-standard/",
+        "reason": "Markanın en yüksek güvenlik seviyesindeki paslanmaz çelik alarmlı disk kilidi."
+      }
+    ],
+    "alternatives": [
+      "abus",
+      "oxford"
+    ],
+    "history": [
+      {
+        "year": 1995,
+        "event": "Xena Security İngiltere'de kuruldu."
+      },
+      {
+        "year": 2019,
+        "event": "Disk kilidi alarmlarına akıllı telefon bağlantısı eklendi."
+      }
+    ],
+    "strongestLine": "Alarmlı disk kilitleri",
+    "sources": [
+      {
+        "url": "https://www.xenasecurity.com/the-brand/",
+        "type": "manufacturer",
+        "label": "Xena – Marka sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "oxford",
+    "name": "Oxford Products",
+    "country": "Birleşik Krallık",
+    "founded": 1973,
+    "website": "https://www.oxfordproducts.com/",
+    "about": [
+      "Oxford Products, 1973'te motosiklet kaporta parçaları satarak başlayan İngiliz motosiklet ve bisiklet aksesuar markası. Bugün kilitler, çantalar, ısıtmalı giyim, bakım ürünleri ve sürücü ekipmanını kapsayan geniş bir katalog sunuyor.",
+      "Güvenlik tarafında Boss serisi alarmlı kilitler ve HD zincirler, bagaj tarafında su geçirmez Aqua serisi rulo çantalar öne çıkıyor. Ürün sayfalarında Sold Secure gibi bağımsız test onayları belirtiliyor."
+    ],
+    "strengths": [
+      "Sold Secure onaylı alarmlı kilitler",
+      "Erişilebilir fiyatlı su geçirmez çantalar",
+      "Geniş aksesuar kataloğu"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Boss Alarm",
+        "note": "Alarmlı disk kilidi ve asma kilitler.",
+        "url": "https://www.oxfordproducts.com/oxford-boss-alarm-14mm-disc-lock-yellow-of3.html"
+      },
+      {
+        "name": "Aqua T",
+        "note": "Su geçirmez rulo çantalar.",
+        "url": "https://www.oxfordproducts.com/oxford-aqua-t-30-roll-bag-m-ol401.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Boss Alarm 14mm Disc Lock",
+        "url": "https://www.oxfordproducts.com/oxford-boss-alarm-14mm-disc-lock-yellow-of3.html",
+        "reason": "Sold Secure Powered Cycle Gold onaylı, zincirle genişletilebilen alarmlı kilit."
+      }
+    ],
+    "alternatives": [
+      "abus",
+      "xena",
+      "kriega"
+    ],
+    "history": [
+      {
+        "year": 1973,
+        "event": "Oxford, motosiklet kaportası satarak kuruldu."
+      }
+    ],
+    "strongestLine": "Alarmlı kilitler ve su geçirmez motosiklet çantaları",
+    "sources": [
+      {
+        "url": "https://www.oxfordproducts.com/about",
+        "type": "manufacturer",
+        "label": "Oxford Products – Hakkımızda",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "kriega",
+    "name": "Kriega",
+    "country": "Birleşik Krallık",
+    "founded": 2000,
+    "website": "https://kriega.com/",
+    "about": [
+      "Kriega, 2000'de kurulan ve merkezi Galler'de bulunan motosiklet çantası markası. İlk ürünü tek bir sırt çantası modeliydi; marka zamanla motosiklete özel sırt çantaları, su geçirmez US-Drypack sistemi, rulo çantalar ve yumuşak yan çantalar üretmeye başladı.",
+      "Yükü omuzdan göğse aktaran Quadloc askı sistemi, CORDURA ve Hypalon kumaşlar ile alüminyum alaşımlı bağlantı parçaları markanın karakteristik özellikleri. Kriega'nın Galler'in yağmurlu ve rüzgârlı koşullarında test edilmiş su geçirmez tasarımlara odaklandığı belirtiliyor."
+    ],
+    "strengths": [
+      "Motosiklete özel sırt çantası askı sistemi",
+      "Modüler su geçirmez US-Drypack sistemi",
+      "Dayanıklı CORDURA ve Hypalon malzemeler"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "US-Drypack",
+        "note": "Modüler, universal bağlantılı su geçirmez çantalar.",
+        "url": "https://kriega.com/sports/touring/us-20-drypack19"
+      },
+      {
+        "name": "Rider packs",
+        "note": "R20, Trail18 gibi motosiklet sırt çantaları.",
+        "url": "https://kriega.com/riderpacks/r20"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "R20 Backpack",
+        "url": "https://kriega.com/riderpacks/r20",
+        "reason": "QUADLOC-lite askılı, günlük ve arazi kullanımına uygun çok yönlü sırt çantası."
+      }
+    ],
+    "alternatives": [
+      "sw-motech",
+      "givi",
+      "oxford"
+    ],
+    "history": [
+      {
+        "year": 2000,
+        "event": "Kriega tek bir sırt çantası modeliyle Galler'de faaliyete başladı."
+      }
+    ],
+    "strongestLine": "Motosiklet sırt çantaları ve su geçirmez modüler çantalar",
+    "sources": [
+      {
+        "url": "https://kriega.com/history",
+        "type": "manufacturer",
+        "label": "Kriega – Our Story",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "sw-motech",
+    "name": "SW-Motech",
+    "country": "Almanya",
+    "founded": 1999,
+    "website": "https://sw-motech.com/",
+    "about": [
+      "SW-Motech, 1999'da Jörg Diehl, Kai Jockel ve Jürgen Swora tarafından Hessen'deki Bracht'ta bir ahırda kurulan Alman motosiklet aksesuar üreticisi. Şirket metal aksesuarlarla başladı; 2000'de hızlı kilitli ilk sökülebilir bagaj taşıyıcısını satışa sundu.",
+      "2005'te patentli QUICK-LOCK depo halkası, 2008'de ilk alüminyum çanta geldi. Bugün ürün gamı çanta taşıyıcıları, alüminyum ve yumuşak bagaj, depo üstü çantaları, sırt çantaları, koruma demirleri ve ergonomi parçalarını kapsıyor."
+    ],
+    "strengths": [
+      "Motosiklete özel taşıyıcı ve bagaj sistemleri",
+      "QUICK-LOCK depo halkası sistemi",
+      "Geniş PRO yumuşak çanta serisi"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "PRO tank bags",
+        "note": "Depo halkası, kayış veya mıknatısla bağlanan depo üstü çantaları.",
+        "url": "https://sw-motech.com/en/discover/motorcycle-luggage/pro-tank-bags"
+      },
+      {
+        "name": "Backpacks",
+        "note": "PRO Cosmo gibi motosiklet sırt çantaları.",
+        "url": "https://sw-motech.com/en/discover/motorcycle-luggage/backpacks"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "PRO Cosmo backpack",
+        "url": "https://sw-motech.com/en/p/4052572223574?sku=BC.RUC.00.004.30000",
+        "reason": "15 inç laptop bölmeli, yağmur kılıflı günlük motosiklet sırt çantası."
+      }
+    ],
+    "alternatives": [
+      "givi",
+      "kriega"
+    ],
+    "history": [
+      {
+        "year": 1999,
+        "event": "SW-Motech, Bracht'ta kuruldu."
+      },
+      {
+        "year": 2000,
+        "event": "Hızlı kilitli ilk sökülebilir bagaj taşıyıcısı satışa sunuldu."
+      },
+      {
+        "year": 2005,
+        "event": "Patentli QUICK-LOCK depo halkası tanıtıldı."
+      },
+      {
+        "year": 2008,
+        "event": "İlk alüminyum çanta üretimi başladı."
+      }
+    ],
+    "strongestLine": "Motosiklet bagaj ve taşıyıcı sistemleri",
+    "sources": [
+      {
+        "url": "https://sw-motech.com/en/brand-history",
+        "type": "manufacturer",
+        "label": "SW-Motech – Marka tarihçesi",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]
