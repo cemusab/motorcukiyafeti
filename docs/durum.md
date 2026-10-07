@@ -26,3 +26,11 @@ Sıradaki: yayına alma (kullanıcı onayı); admin/DB; Search Console.
 
 ## Güncel rapor ve yol haritası
 Tam durum ve adım adım plan: `docs/RAPOR.md` (7 Ekim 2026). Şu anki aşama: **AŞAMA 1 — İndeksleme** (büyük değişiklik yok; Search Console/Analytics takibi).
+
+## Bekleyen iş (7 Eki 2026, dış değerlendirmeden) — 18:10 sonrası yapılacak
+1. Görseller: kırık görsel yedeği (onError → SVG), haftalık görsel kontrol betiği, optimize edilmeyen görseller (HJC interkom), `docs/gorsel-izinleri.md` (üretici medya koşulları özeti, karar sahibe).
+2. Ana sayfa: "Editörün Seçimleri" ile "Yerli markalar" ürünleri çakışmasın.
+3. Küçük hatalar: üstteki "/arama" etiketi; Pantolon menüsü rehber linki (doğru rehber veya yeni "pantolon nasıl seçilir"); "Popüler Markalar" gerçek popülerlik sırası (ABUS/BUFF başta olmasın).
+4. Kartlarda fiyat yanında satıcı sayısı + kontrol tarihi.
+5. ÖNCELİK — karşılaştırmalar: bütçe segmentli (10 bin altı, 10–20, 20–35 bin kask; mont/eldiven/bot için de) hazır karşılaştırmalar ve listeler; öne çıkan karşılaştırmalar yeni başlayan/kurye segmentinden.
+Not: Repo `cemusab/motorcukiyafeti`, Vercel'e bağlı; sıfırdan başlanmayacak, mevcut v2 üzerinde düzeltilecek.
