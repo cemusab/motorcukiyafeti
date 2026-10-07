@@ -72,6 +72,15 @@ Motorcu Kıyafeti, 6–7 Ekim 2026'da sıfırdan yeniden yazıldı ve **7 Ekim 2
 
 ---
 
+### 7 Ekim akşamı eklenenler
+- **Bütçeye göre karşılaştırmalar:** 17 hazır sayfa (`/karsilastir/butce/...`): kask 10 bin altı / 10–20 / 20–35 / 35+ bin, mont, pantolon, eldiven, bot, interkom dilimleri; "Kime uygun?" kartları, kısa cevap, dilimdeki tüm modeller. Ana sayfa, `/karsilastir` ve `/ne-almaliyim`'de öne çıkarıldı; hazır ikili karşılaştırmalar uygun fiyatlıdan pahalıya sıralı.
+- Ürün kartlarında fiyatın yanında **satıcı sayısı + kontrol tarihi**.
+- Görsel yüklenemezse otomatik **kategori çizimi**; `npm run images` ile görsel kontrolü (1.010 görsel, 0 kırık). İzin planı: `docs/gorsel-izinleri.md`.
+- Ana sayfa: "Editörün Seçimleri" ile "Yerli markalar" çakışması giderildi; "Popüler Markalar" ürün sayısına göre, mobilde ilk 8.
+- Düzeltmeler: "beden beden" şablon hatası, kartlarda gerçek kabuk malzemesi, mega menü rehber linki gerçek rehber adıyla, alt markalı ürün adlarında tekrar giderildi.
+- **Vercel deploy disiplini:** `vercel.json` + `scripts/vercel-ignore.sh` — yalnız `main` ve yalnız kod/veri değişikliğinde derleme; değişiklikler biriktirilip tek push.
+- Dış değerlendirmedeki "/karsilastir eski metin", "başlık tekrarı", "/rehberler 404", "en kapsamlı iddiası" maddeleri canlıda kontrol edildi: yeni sitede yok; Google önbelleğindeki eski siteden kaynaklı, yeniden taranınca düzelecek.
+
 ## 3. Açık kalanlar / bilinen eksikler ⚠️
 
 1. **Veri sorumlusu** KVKK metinlerinde geçici olarak "Motorcu Kıyafeti" — şirket/şahıs bilgisi netleşince `src/data/legal-config.ts` güncellenmeli (adres, gerekirse KEP/MERSİS).
