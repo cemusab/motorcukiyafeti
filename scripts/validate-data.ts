@@ -37,7 +37,7 @@ const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma", "yagmurluk", "t
 const accessories = pfiles("aksesuar").flatMap((f) => load(`products/${f}`, AccessorySchema));
 const brands = fs.readdirSync(root).filter((f) => /^brands.*\.json$/.test(f)).flatMap((f) => load(f, BrandSchema));
 for (const b of brands) if (brands.filter((x) => x.slug === b.slug).length > 1) errors.push(`Yinelenen marka: ${b.slug}`);
-const compat = load("compat.json", CompatSchema);
+const compat = fs.readdirSync(root).filter((f) => /^compat.*\.json$/.test(f)).flatMap((f) => load(f, CompatSchema));
 const guideDir = path.join(root, "guides");
 const guides = fs.existsSync(guideDir)
   ? fs.readdirSync(guideDir).filter((f) => f.endsWith(".json")).flatMap((f) => load(`guides/${f}`, GuideSchema))

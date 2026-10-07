@@ -7,7 +7,7 @@ import { memo } from "./memo";
 import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import type { Helmet, Product } from "@/data/schema";
+import type { Compat, Helmet, Product } from "@/data/schema";
 import {
   displayName,
   getBrands,
@@ -169,9 +169,34 @@ export function genderCategories(g: GenderSlug) {
 
 /* ---------- İnterkom uyumluluk ---------- */
 
-export function compatForHelmet(id: string) {
-  return getCompat().filter((c) => c.helmet === id);
+/** Kaska özel (belirli kask modelleri için) interkomlar evrensel öneri listesine girmez. */
+const isUniversalIntercom = (p: Product) => p.category === "interkom" && !p.subcategories.includes("kaska-ozel-interkom");
+
+/**
+ * Bir kaskın uyumluluk listesi: kayıtlı (kaynaklı) eşleşmeler + kayıt olmayan evrensel interkomlar için
+ * otomatik "standart montaj, teyit edilmedi" satırları. Otomatik satırlar hiçbir zaman "doğrulandı" sayılmaz.
+ */
+export function compatForHelmet(id: string): Compat[] {
+  const stored = getCompat().filter((c) => c.helmet === id);
+  const helmet = getHelmets().find((h) => productId(h) === id);
+  if (!helmet || helmet.specs.intercomReady === false) return stored;
+  const have = new Set(stored.map((c) => c.intercom));
+  const own = helmet.specs.intercomNotes ? ` Üreticinin notu: ${helmet.specs.intercomNotes}` : "";
+  const generated = getProducts()
+    .filter((p) => isUniversalIntercom(p) && !have.has(productId(p)))
+    .map(
+      (p): Compat => ({
+        helmet: id,
+        intercom: productId(p),
+        level: "standart",
+        verified: false,
+        source: null,
+        note: `Evrensel kelepçe veya yapışkan aparatla takılan bir ünite olduğu için genelde kullanılabilir; hoparlör cebi ve montaj yerini satın almadan önce satıcıyla teyit et.${own}`,
+      }),
+    );
+  return [...stored, ...generated];
 }
+export const hasVerifiedCompat = (id: string) => getCompat().some((c) => c.helmet === id && c.verified);
 export function compatForIntercom(id: string) {
   return getCompat().filter((c) => c.intercom === id);
 }
@@ -205,7 +230,7 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const g of getGuides()) add(`/rehber/${g.slug}`, "rehber");
   for (const l of activeLists()) add(`/ne-almaliyim/${l.slug}`, "rehber");
   for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma");
-  for (const h of helmetsWithCompat()) add(`/interkom-uyumlulugu/${compatSlug(h)}`, "karsilastirma");
+  for (const h of helmetsWithCompat()) add(`/interkom-uyumlulugu/${compatSlug(h)}`, "karsilastirma", hasVerifiedCompat(productId(h)));
   return r;
 });
 

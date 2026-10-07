@@ -105,7 +105,19 @@ export const getGuide = (slug: string) => getGuides().find((g) => g.slug === slu
 
 export const getCompat = memo((): Compat[] => {
   const ids = new Set(getProducts().map(productId));
-  return readArray("compat.json", CompatSchema).filter((c) => ids.has(c.helmet) && ids.has(c.intercom));
+  const all = fs
+    .readdirSync(DATA)
+    .filter((f) => /^compat.*\.json$/.test(f))
+    .flatMap((f) => readArray(f, CompatSchema));
+  // Aynı kask–interkom çifti birden fazla dosyada varsa doğrulanmış olan kazanır.
+  const best = new Map<string, Compat>();
+  for (const c of all) {
+    if (!ids.has(c.helmet) || !ids.has(c.intercom)) continue;
+    const k = c.helmet + "|" + c.intercom;
+    const cur = best.get(k);
+    if (!cur || (!cur.verified && c.verified)) best.set(k, c);
+  }
+  return [...best.values()];
 });
 
 const getMediaMap = memo(

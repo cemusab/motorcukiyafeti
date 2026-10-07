@@ -4,7 +4,7 @@ import { CompatBoard } from "@/components/CompatBoard";
 import { HelmetPicker } from "@/components/HelmetPicker";
 import { JsonLd } from "@/components/JsonLd";
 import { Container } from "@/components/ui";
-import { compatForHelmet, compatSlug, helmetsWithCompat } from "@/lib/catalog";
+import { compatForHelmet, compatSlug, hasVerifiedCompat, helmetsWithCompat } from "@/lib/catalog";
 import { brandName, displayName, getProductById, productId } from "@/lib/data";
 import { faqLd, clip, meta } from "@/lib/seo";
 
@@ -19,6 +19,8 @@ export async function generateMetadata({ params }: PageProps<"/interkom-uyumlulu
     title: `${displayName(h)} Uyumlu İnterkomlar`,
     description: clip(`${displayName(h)} kaskına hangi interkom uyar? Kaska özel, entegre, standart montaj ve uyumsuz modeller; doğrulama durumu ve kaynaklarıyla.`),
     path: `/interkom-uyumlulugu/${slug}`,
+    // Yalnız otomatik (teyit edilmemiş) satırları olan sayfalar indekslenmez.
+    noindex: !hasVerifiedCompat(productId(h)),
   });
 }
 
