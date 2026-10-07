@@ -2,16 +2,38 @@ import fs from "node:fs";
 import path from "node:path";
 import type { NextConfig } from "next";
 
-/** Üretici görsellerinin barındığı alan adları media*.json dosyalarından okunur; yalnızca bunlar optimize edilir. */
-function imageHosts() {
+/**
+ * Üretici görsellerinin barındığı alan adları media*.json dosyalarından okunur.
+ * Next.js en fazla 50 remotePattern kabul eder: en çok görsel barındıran 49 ana alan adı (alt alan adlarıyla) optimize edilir,
+ * diğerleri `unoptimized` olarak doğrudan yüklenir (src/lib/img.ts).
+ */
+function baseDomain(h: string) {
+  const p = h.split(".");
+  return p.length >= 3 && ["com", "co", "net", "org"].includes(p[p.length - 2]) && p[p.length - 1].length === 2 ? p.slice(-3).join(".") : p.slice(-2).join(".");
+}
+function imageBases() {
   const dir = path.join(process.cwd(), "src", "data");
-  const hosts = new Set<string>();
+  const count = new Map<string, number>();
+  const hosts = new Map<string, Set<string>>();
   for (const f of fs.readdirSync(dir).filter((x) => /^media.*\.json$/.test(x))) {
     for (const m of JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")) as { images?: { url: string }[] }[])
-      for (const i of m.images ?? []) hosts.add(new URL(i.url).hostname);
+      for (const i of m.images ?? []) {
+        const h = new URL(i.url).hostname;
+        const b = baseDomain(h);
+        count.set(b, (count.get(b) ?? 0) + 1);
+        hosts.set(b, (hosts.get(b) ?? new Set()).add(h));
+      }
   }
-  return [...hosts];
+  // Tek bir alan adı kullanan tabanlar için tam ad, birden fazlası için "**.taban" deseni.
+  return [...count.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 49)
+    .map(([b]) => {
+      const hs = [...hosts.get(b)!];
+      return { base: b, pattern: hs.length === 1 ? hs[0] : `**.${b}` };
+    });
 }
+const IMG_BASES = imageBases();
 
 /**
  * Eski sitenin (v1) indekslenmiş adreslerinden yeni yapıya kalıcı (301) yönlendirmeler.
@@ -81,11 +103,13 @@ function legacyRedirects() {
 }
 
 const nextConfig: NextConfig = {
+  // İstemci ve sunucu bileşenleri hangi görselin optimize edilebileceğini bilsin diye (src/lib/img.ts)
+  env: { NEXT_PUBLIC_IMG_PATTERNS: IMG_BASES.map((x) => x.pattern).join(",") },
   async redirects() {
     return legacyRedirects();
   },
   images: {
-    remotePatterns: imageHosts().map((hostname) => ({ protocol: "https" as const, hostname })),
+    remotePatterns: IMG_BASES.map((x) => ({ protocol: "https" as const, hostname: x.pattern })),
     formats: ["image/avif", "image/webp"],
     minimumCacheTTL: 60 * 60 * 24 * 30,
   },

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { canOptimize } from "@/lib/img";
 import Link from "next/link";
 import { Icon } from "@/components/Icon";
 import { ProductGrid } from "@/components/ProductCard";
@@ -92,7 +93,7 @@ export default function Home() {
         <HeroArt />
         {heroImg && (
           <div className="absolute top-[11%] right-[6%] bottom-[11%] hidden w-[36%] xl:block">
-            <Image src={heroImg.url} alt="" fill sizes="36vw" className="object-contain drop-shadow-[0_30px_50px_rgba(212,32,42,.35)]" />
+            <Image unoptimized={!canOptimize(heroImg.url)} src={heroImg.url} alt="" fill sizes="36vw" className="object-contain drop-shadow-[0_30px_50px_rgba(212,32,42,.35)]" />
           </div>
         )}
         <Container className="relative py-10 sm:py-14">
@@ -131,7 +132,7 @@ export default function Home() {
                 <Link href={`/kask/${slug}`} className="group relative flex aspect-[4/3] flex-col items-center justify-end overflow-hidden p-4 text-center">
                   <span className="absolute inset-0 bg-[radial-gradient(circle_at_50%_40%,rgba(255,255,255,.14),transparent_60%)] transition group-hover:bg-[radial-gradient(circle_at_50%_40%,rgba(212,32,42,.35),transparent_65%)]" />
                   <span className="absolute inset-x-6 top-4 bottom-14 transition group-hover:scale-105">
-                    <Image src={img.url} alt="" fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain drop-shadow-[0_12px_24px_rgba(0,0,0,.6)]" />
+                    <Image unoptimized={!canOptimize(img.url)} src={img.url} alt="" fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain drop-shadow-[0_12px_24px_rgba(0,0,0,.6)]" />
                   </span>
                   <span className="relative font-display text-2xl font-bold tracking-wide text-white uppercase sm:text-3xl">{sub.sub.name.replace(" (Modüler)", "")}lar</span>
                 </Link>
@@ -165,7 +166,7 @@ export default function Home() {
                 <Link href={`/${c.slug}`} className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
                   {img ? (
                     <span className="relative block size-16">
-                      <Image src={img.url} alt="" fill sizes="64px" className="object-contain transition group-hover:scale-110" />
+                      <Image unoptimized={!canOptimize(img.url)} src={img.url} alt="" fill sizes="64px" className="object-contain transition group-hover:scale-110" />
                     </span>
                   ) : (
                     <Icon name={c.icon} className="size-16 p-2 text-ink-2 transition group-hover:text-red" />
