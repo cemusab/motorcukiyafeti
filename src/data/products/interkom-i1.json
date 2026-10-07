@@ -1,0 +1,2043 @@
+[
+  {
+    "slug": "packtalk-pro",
+    "brand": "cardo",
+    "name": "Packtalk Pro",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Cardo'nun mesh ailesinin en donanımlı üyesi: 2. nesil DMC, 45 mm JBL hoparlör, otomatik aç/kapa ve uygulama üzerinden kaza algılama. Büyük gruplarla sık sürenler için.",
+    "description": [
+      "Packtalk Pro, Packtalk Edge'in üzerine konumlanan modeli. Aynı 2. nesil Dynamic Mesh Communication altyapısını kullanıyor; üretici grup içinde 31 sürücüye kadar bağlantı ve sürücüden sürücüye 1,6 km menzil belirtiyor. Edge'den farkı daha büyük, 45 mm JBL hoparlörler, kaskın hareketine göre çalışan otomatik açma/kapama ve Cardo Connect uygulamasıyla birlikte çalışan kaza algılama özelliği.",
+      "Kaza algılama yalnız yol sürüşünde ve belirli bölgelerde etkin; uygulama açık ve telefon bağlı olmalı. Türkiye'de bu özelliğin ne ölçüde kullanılabildiği üreticinin sayfasında net değil, bu yüzden satın alma kararını tek başına buna bağlamamak gerekir. Mıknatıslı Air Mount, IP67 su geçirmezlik, sesli komut ve kablosuz yazılım güncellemesi standart; üretici 3 yıl garanti veriyor.",
+      "Diğer büyük markaların cihazlarıyla Bluetooth üzerinden konuşabiliyor, ancak mesh avantajı yalnız Cardo DMC cihazlar arasında geçerli. Üretici sayfasında konuşma süresi ve Bluetooth sürümü açıkça yazmadığı için bu alanları boş bıraktık."
+    ],
+    "forWho": [
+      "Düzenli olarak kalabalık Cardo gruplarıyla sürenler",
+      "Kaskı çıkarıp taktığında cihazı açıp kapatmakla uğraşmak istemeyenler",
+      "En güçlü ses çıkışını arayan, otoyolda rüzgâr gürültüsü yüksek sürücüler"
+    ],
+    "notFor": [
+      "Tek başına sürüp yalnız navigasyon ve telefon için interkom arayanlar",
+      "Bütçesi sınırlı kurye kullanımı; aynı işi çok daha ucuz modeller görür",
+      "Grubu Sena mesh kullananlar"
+    ],
+    "pros": [
+      "45 mm JBL hoparlörlerle serinin en güçlü sesi",
+      "2. nesil DMC ile 31 kişiye kadar mesh grup",
+      "Otomatik aç/kapa ve mıknatıslı Air Mount",
+      "IP67 ve 3 yıl garanti"
+    ],
+    "cons": [
+      "Fiyatı Edge'in de üzerinde",
+      "Kaza algılama bölgeye bağlı ve uygulama gerektiriyor",
+      "Üretici sayfasında pil süresi açıkça verilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için fazlasıyla yeterli ama tek başına kullanımda ödenen paranın büyük kısmı kullanılmayan mesh ve grup özelliklerine gider.",
+      "ciftSurucu": "Yolcuyla ya da tek arkadaşla kusursuz çalışır; yalnız iki kişi için daha uygun fiyatlı Cardo modelleri de yeterli.",
+      "grup": "Asıl güçlü olduğu alan. Gruptakiler Cardo DMC kullanıyorsa kopan bağlantı kendiliğinden toparlanıyor.",
+      "uzunYol": "Güçlü hoparlörler otoyol hızında anlaşılırlığı artırıyor; IP67 yağmurda içi rahatlatıyor.",
+      "sehir": "Otomatik aç/kapa, kısa duraklamaların çok olduğu şehir kullanımında pratik.",
+      "kurye": "Teknik olarak dayanıklı ve kullanışlı, ancak fiyatı kurye kullanımı için yüksek; kaybolma ya da hasar riskini düşününce daha ekonomik modeller mantıklı."
+    },
+    "verdict": "Packtalk Pro, Cardo ekosisteminde grup sürüşü yapan ve en iyisini isteyen için anlamlı. Ses gücü ve otomatik aç/kapa günlük kullanımda fark ediliyor. Kaza algılama bölgesel kısıtlara bağlı olduğundan, Edge ile arasındaki fiyat farkını ses ve konfor için ödediğini bilerek almak gerekir.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "sena/60s",
+      "interphone/era-1x"
+    ],
+    "offers": [
+      {
+        "seller": "motodium",
+        "url": "https://www.motodium.com.tr/urun/cardo-packtalk-pro-intercom-tekli-paket",
+        "price": 33170.82,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Packtalk Pro ile Packtalk Edge arasındaki fark ne?",
+        "a": "İkisi de 2. nesil DMC mesh kullanıyor. Pro'da 45 mm JBL hoparlör, otomatik aç/kapa ve uygulamayla çalışan kaza algılama var; Edge 40 mm JBL hoparlörle geliyor."
+      },
+      {
+        "q": "Kaza algılama Türkiye'de çalışır mı?",
+        "a": "Üretici özelliğin yalnız yol sürüşünde ve belirli bölgelerde etkin olduğunu belirtiyor. Kullanmadan önce Cardo Connect uygulamasında bölge desteğini kontrol etmek gerekir."
+      },
+      {
+        "q": "Sena kullanan arkadaşımla konuşabilir miyim?",
+        "a": "Evet, Bluetooth interkom üzerinden. Mesh bağlantısı ise yalnız Cardo DMC cihazlar arasında kurulur."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/packtalk-pro",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/packtalk-pro",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Packtalk Pro ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/cardo-packtalk-pro-intercom-tekli-paket",
+        "type": "retailer",
+        "label": "Motodium – Cardo Packtalk Pro tekli paket",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": true,
+      "meshTech": "Dynamic Mesh Communication (DMC) 2. nesil",
+      "meshMaxRiders": 31,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": null,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "45 mm, Sound by JBL",
+      "waterproof": "IP67",
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Diğer büyük markalarla Bluetooth interkom bağlantısı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Packtalk Pro ünitesi",
+        "45 mm JBL hoparlörler",
+        "Air Mount yuvası",
+        "Kelepçe",
+        "Yapışkan plaka",
+        "2 yuvarlak, 2 dikdörtgen cırt bant",
+        "2 hoparlör yükseltici",
+        "Hibrit (boom) mikrofon",
+        "Kablolu mikrofon",
+        "Temizlik pedleri"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.bluetoothMaxRiders",
+      "specs.talkTimeHours",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": {
+      "min": 33170.82,
+      "max": 33170.82,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli paket; tek satıcıda bulunan fiyat."
+    }
+  },
+  {
+    "slug": "packtalk-neo",
+    "brand": "cardo",
+    "name": "Packtalk Neo",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Edge'in mesh altyapısını ve JBL sesini daha uygun fiyata sunan model: 2. nesil DMC, Bluetooth 5.2, IP67. Mıknatıslı yuva yerine klasik kelepçe kullanıyor.",
+    "description": [
+      "Packtalk Neo, Cardo'nun mesh serisinde Edge'in hemen altında duruyor. Üretici, 2. nesil Dynamic Mesh Communication ile 31 sürücüye kadar grup, sürücüler arasında 1,6 km menzil, Bluetooth 5.2 ve 40 mm Sound by JBL hoparlör belirtiyor. Kısacası grup sürüşünün çekirdeği Edge ile aynı.",
+      "Tasarrufun yapıldığı yer montaj: Edge'deki mıknatıslı Air Mount yerine kızaklı klasik bir yuva var. Cihazı her gün söküp takacaksan bu fark hissedilir, kaskta sabit kalacaksa pek önemli değil. 20 dakikalık şarjla yaklaşık 2 saat konuşma, doğal sesli komut, müzik paylaşımı, diğer markalarla Bluetooth bağlantı ve kablosuz yazılım güncellemesi mevcut. Garanti 2 yıl.",
+      "Üretici sayfasında toplam konuşma süresi ve FM radyo bilgisi açıkça yer almadığı için bu alanları doğrulanmamış olarak bıraktık."
+    ],
+    "forWho": [
+      "Cardo grubuna katılmak isteyip Edge'e bütçe ayırmak istemeyenler",
+      "Cihazı kaskta sabit bırakan sürücüler",
+      "Mesh grubu ve iyi ses kalitesini birlikte arayanlar"
+    ],
+    "notFor": [
+      "Ünitesini her gün söküp takacak olanlar (mıknatıslı yuva yok)",
+      "Grubu Sena mesh kullananlar",
+      "Yalnız telefon ve navigasyon isteyen tek sürücüler"
+    ],
+    "pros": [
+      "Edge ile aynı 2. nesil DMC ve 31 kişilik grup",
+      "40 mm JBL hoparlör",
+      "IP67 su geçirmezlik",
+      "Hızlı şarj ve kablosuz güncelleme"
+    ],
+    "cons": [
+      "Mıknatıslı Air Mount yok; söküp takmak daha zahmetli",
+      "Garanti Edge ve Pro'dan kısa (2 yıl)",
+      "Mesh yalnız Cardo DMC cihazlarla"
+    ],
+    "usage": {
+      "tekSurucu": "Tek başına kullanımda iyi çalışır ama mesh özelliği boşa kalır; Freecom 2x gibi modeller daha mantıklı olabilir.",
+      "ciftSurucu": "Yolcu veya arkadaşla rahat kullanılır; ileride gruba katılma ihtimali varsa iyi bir orta yol.",
+      "grup": "Cardo DMC kullanan gruplarda Edge ile aynı rahatlıkla çalışır.",
+      "uzunYol": "IP67 ve sürüş sırasında şarj imkânı uzun etaplarda işe yarar; pil süresini üretici sayfasında doğrulayamadık.",
+      "sehir": "Şehirde sorunsuz; park edince üniteyi sökmek mıknatıslı modellere göre biraz daha uğraştırır.",
+      "kurye": "Dayanıklı ve su geçirmez olması artı; ancak gün boyu kask takıp çıkaran kurye için fiyat ve klasik yuva dezavantaj."
+    },
+    "verdict": "Packtalk Neo, Cardo grubunda olmak isteyen ama Edge'in fiyatını fazla bulan sürücü için akıllıca bir seçim. Mesh ve ses tarafında ödün yok; fark çoğunlukla montajın pratikliğinde. Üniteyi sık söküyorsan Edge'i, sabit kullanacaksan Neo'yu düşün.",
+    "rivals": [
+      "cardo/packtalk-edge",
+      "sena/50s",
+      "midland/r1-mesh"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Packtalk Neo, Edge ile aynı grupta konuşabilir mi?",
+        "a": "Evet. İkisi de 2. nesil DMC kullanıyor; aynı mesh grubunda sorunsuz konuşurlar."
+      },
+      {
+        "q": "Neo'nun Edge'den eksiği ne?",
+        "a": "En belirgin fark mıknatıslı Air Mount yuvasının olmaması ve garantinin 2 yıl olması. Mesh altyapısı ve JBL hoparlör boyutu aynı."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/packtalk-neo",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/packtalk-neo",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Packtalk Neo ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Dynamic Mesh Communication (DMC) 2. nesil",
+      "meshMaxRiders": 31,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": null,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat konuşma",
+      "speakers": "40 mm, Sound by JBL",
+      "waterproof": "IP67",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Diğer büyük markalarla Bluetooth interkom bağlantısı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Packtalk Neo ünitesi",
+        "40 mm JBL hoparlörler",
+        "Hibrit (boom) mikrofon",
+        "Kablolu mikrofon",
+        "Kelepçe ve yuva",
+        "Yapışkan plaka",
+        "Cırt bantlar",
+        "Hoparlör yükseltici pedler",
+        "Temizlik pedleri"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.talkTimeHours",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fmRadio",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "freecom-2x",
+    "brand": "cardo",
+    "name": "Freecom 2x",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "İki kişilik Bluetooth interkom: 800 m menzil, 40 mm JBL hoparlör, FM radyo ve kablosuz güncelleme. Sürücü-yolcu ya da tek arkadaşla sürenler için dengeli seçim.",
+    "description": [
+      "Freecom 2x, Cardo'nun Bluetooth serisinde iki kişilik bağlantıya odaklanan modeli. Üretici 800 metreye kadar interkom menzili, 40 mm Sound by JBL hoparlör, ön ayarlı FM radyo ve Cardo Connect uygulaması üzerinden kablosuz yazılım güncellemesi belirtiyor. Mesh yok; bağlantı klasik Bluetooth interkomu.",
+      "Tam şarj yaklaşık 2 saat sürüyor, 20 dakikalık şarj ise yaklaşık 2 saat konuşma sağlıyor. Freecom x ve Spirit modelleri arasında müzik paylaşımı yapılabiliyor; Sena, Midland ve UClear gibi diğer markalarla da Bluetooth üzerinden eşleşebiliyor. Üretici cihazı su geçirmez olarak tanımlıyor ancak sayfada IP sınıfı yazmıyor.",
+      "Dört kişiye kadar bağlantı gerekiyorsa aynı ailedeki Freecom 4x'e bakmak gerekir; 2x tam olarak sürücü-yolcu ya da iki motor için tasarlanmış."
+    ],
+    "forWho": [
+      "Yolcusuyla konuşmak isteyen sürücüler",
+      "Genelde tek bir arkadaşla sürenler",
+      "JBL ses kalitesini makul fiyata isteyenler"
+    ],
+    "notFor": [
+      "Üç ve daha fazla motorla grup sürüşü yapanlar",
+      "Mesh grubu kurmak isteyenler"
+    ],
+    "pros": [
+      "40 mm JBL hoparlörle segmentine göre güçlü ses",
+      "FM radyo ve müzik paylaşımı",
+      "Kablosuz yazılım güncellemesi",
+      "Diğer markalarla Bluetooth uyumu"
+    ],
+    "cons": [
+      "En fazla iki kişi",
+      "Mesh desteği yok",
+      "Üretici sayfasında IP sınıfı ve toplam konuşma süresi verilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için rahatça yeterli; JBL hoparlör tek başına kullanımda da fark ettiriyor.",
+      "ciftSurucu": "Tam hedef kitlesi. Sürücü-yolcu ya da iki motor arasında 800 m menzil çoğu durumda yeterli.",
+      "grup": "Üçüncü kişi eklenemiyor; grup için Freecom 4x veya mesh modeller gerekir.",
+      "uzunYol": "Sürüş sırasında şarj edilebiliyor; uzun etaplarda güç kaynağı bağlamak mümkün.",
+      "sehir": "Şehir içinde telefon ve navigasyon için pratik; jog-dial eldivenle kullanılabiliyor.",
+      "kurye": "Telefon görüşmeleri ve navigasyon için işini görür; fiyatı kurye için orta-üst seviyede."
+    },
+    "verdict": "Freecom 2x, iki kişilik iletişim için Cardo'nun dengeli modeli. JBL ses ve FM radyo günlük kullanımda değer katıyor. Gruba katılma ihtimalin varsa baştan 4x ya da mesh bir model seçmek daha mantıklı.",
+    "rivals": [
+      "cardo/freecom-4x",
+      "cardo/spirit-hd",
+      "sena/5r"
+    ],
+    "offers": [
+      {
+        "seller": "motodium",
+        "url": "https://www.motodium.com.tr/urun/cardo-freecom-2x-jbl-intercom-tekli-paket",
+        "price": 14806,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "feyizoglu",
+        "url": "https://www.feyizoglu.com/cardo-freecom-2x-bluetooth-ve-intercom-tekli-paket-_56614.html",
+        "price": 14809,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Freecom 2x ile 4x farkı ne?",
+        "a": "2x en fazla iki kişiyle bağlanır ve menzili 800 m'ye kadar. 4x dört kişiye kadar bağlantı ve daha uzun menzil sunar."
+      },
+      {
+        "q": "Başka marka interkomla konuşabilir mi?",
+        "a": "Üretici Sena, Midland ve UClear gibi markalarla Bluetooth interkom bağlantısı kurabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/freecom-2x",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/freecom-2x",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Freecom 2x ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/cardo-freecom-2x-jbl-intercom-tekli-paket",
+        "type": "retailer",
+        "label": "Motodium – Cardo Freecom 2x tekli paket",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/cardo-freecom-2x-bluetooth-ve-intercom-tekli-paket-_56614.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Cardo Freecom 2x tekli paket",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 800,
+      "talkTimeHours": null,
+      "chargeTimeHours": 2,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat konuşma",
+      "speakers": "40 mm, Sound by JBL",
+      "waterproof": "Su geçirmez (IP sınıfı belirtilmemiş)",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Sena, Midland, UClear vb. ile Bluetooth interkom (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Freecom 2x ünitesi",
+        "40 mm JBL hoparlörler",
+        "Hibrit (boom) mikrofon",
+        "Kablolu mikrofon",
+        "Kelepçe ve yuva",
+        "Yapışkan plaka",
+        "Cırt bantlar",
+        "Hoparlör yükseltici pedler",
+        "Temizlik pedleri"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.talkTimeHours",
+      "specs.usbC",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": {
+      "min": 14806,
+      "max": 14809,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli paket."
+    }
+  },
+  {
+    "slug": "spirit-hd",
+    "brand": "cardo",
+    "name": "Spirit HD",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "Cardo'nun giriş seviyesi iki kişilik Bluetooth interkomu: 600 m menzil, 40 mm HD hoparlör, FM radyo. Temel ihtiyaçlar için sade ve uygun fiyatlı.",
+    "description": [
+      "Spirit HD, Cardo'nun en uygun fiyatlı interkom ailesinin HD hoparlörlü versiyonu. Üretici iki sürücüye kadar bağlantı, 600 m interkom menzili, 40 mm HD hoparlör, üç ses profili ve 6 kanal ön ayarlı FM radyo belirtiyor. Standart Spirit'ten farkı daha büyük hoparlörler.",
+      "Tam şarj yaklaşık 2 saat sürüyor; 20 dakikalık şarj yaklaşık 2 saat konuşma sağlıyor. Freecom x ile müzik paylaşımı yapılabiliyor, diğer büyük markalarla Bluetooth üzerinden eşleşebiliyor ve Cardo Connect uygulamasıyla kablosuz güncelleniyor. Üretici tüm Cardo ünitelerini su geçirmez olarak tanımlıyor ancak IP sınıfı belirtmiyor.",
+      "600 m menzil iki motorun açık yolda birbirini kaybetmeden gitmesine yeter, ama trafikte ve virajlı yolda bu mesafe hızla kısalır. Sürücü-yolcu kullanımı için bu bir sorun değil."
+    ],
+    "forWho": [
+      "İlk interkomunu alan ve temel özellikler isteyen sürücüler",
+      "Yolcusuyla konuşmak isteyenler",
+      "Telefon, navigasyon ve FM radyoyu tek cihazda isteyen kuryeler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar",
+      "İki motor arasında uzun menzil bekleyenler"
+    ],
+    "pros": [
+      "Uygun fiyat",
+      "40 mm HD hoparlör ve FM radyo",
+      "Kablosuz yazılım güncellemesi",
+      "Diğer markalarla Bluetooth uyumu"
+    ],
+    "cons": [
+      "Menzil 600 m ile sınırlı",
+      "En fazla iki kişi",
+      "IP sınıfı ve konuşma süresi üretici sayfasında belirtilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için yeterli; tek sürücü için fiyat-performans dengesi iyi.",
+      "ciftSurucu": "Sürücü-yolcu için ideal. İki motor arasında menzil kısa kalabilir.",
+      "grup": "Uygun değil; en fazla iki kişi bağlanıyor.",
+      "uzunYol": "Sürüş sırasında şarj edilebiliyor; uzun yolda hoparlör kalitesi temel düzeyde yeterli.",
+      "sehir": "Şehirde telefon ve navigasyon için pratik ve hafif bir çözüm.",
+      "kurye": "Telefon ve navigasyon odaklı kurye kullanımı için uygun fiyatlı bir seçenek; kayıp veya hasar durumunda maliyeti düşük."
+    },
+    "verdict": "Spirit HD, temel ihtiyaçları güvenilir bir markadan karşılamak isteyen için mantıklı. Menzil ve kişi sayısı sınırlı ama telefon, navigasyon ve yolcuyla konuşma için yeterli. İki motor arası iletişim önemliyse Freecom 2x'e çıkmak değer.",
+    "rivals": [
+      "cardo/freecom-2x",
+      "sena/5r",
+      "ejeas/q7"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Spirit ile Spirit HD arasındaki fark ne?",
+        "a": "Spirit HD, standart Spirit'e göre daha büyük 40 mm HD hoparlörlerle geliyor; diğer temel özellikler benzer."
+      },
+      {
+        "q": "Kaç kişiyle konuşabilirim?",
+        "a": "Üretici en fazla iki sürücüyle bağlantı belirtiyor. Daha kalabalık gruplar için Freecom 4x veya mesh modeller gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.cardosystems.com/products/spirit-hd",
+    "sources": [
+      {
+        "url": "https://www.cardosystems.com/products/spirit-hd",
+        "type": "manufacturer",
+        "label": "Cardo Systems – Spirit HD ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 600,
+      "talkTimeHours": null,
+      "chargeTimeHours": 2,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla yaklaşık 2 saat konuşma",
+      "speakers": "40 mm HD",
+      "waterproof": "Su geçirmez (IP sınıfı belirtilmemiş)",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Diğer büyük markalarla Bluetooth interkom (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": [
+        "Spirit HD ünitesi",
+        "40 mm HD hoparlörler",
+        "Hibrit (boom) mikrofon",
+        "Kablolu mikrofon",
+        "Kelepçe ve yuva",
+        "Yapışkan plaka",
+        "Cırt bantlar",
+        "Hoparlör yükseltici pedler",
+        "Temizlik pedleri"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.talkTimeHours",
+      "specs.usbC",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "50r",
+    "brand": "sena",
+    "name": "50R",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "50S'in alçak profilli, düğmeli kardeşi: Mesh ve Bluetooth interkom, Harman Kardon ses, sesli komut. Kaskın dışına az taşan, ince bir üst segment ünite.",
+    "description": [
+      "50R, Sena'nın 50 serisinin kaskın yanında daha az yer kaplayan, jog-dial yerine düğmelerle kullanılan versiyonu. Üretici Bluetooth 5.0, Group Mesh'te 24 sürücüye, Bluetooth interkomda 4 sürücüye kadar bağlantı ve açık arazide 2 km menzil belirtiyor. Open Mesh modunda katılımcı sayısı pratikte sınırsız.",
+      "Pil tarafında üretici Bluetooth interkomda 13 saat, Mesh interkomda 11 saat konuşma süresi veriyor; tam şarj 2,5 saat. 20 dakikalık şarj 6 saat Bluetooth veya 3,5 saat Mesh kullanım sağlıyor. Ses sistemi Harman Kardon imzalı; FM radyo 10 ön ayarlı istasyonla geliyor, Siri ve Google Asistan'a doğrudan erişim ve çok dilli sesli komut var.",
+      "Düğmeli kullanım jog-dial'e göre eldivenle biraz daha fazla dikkat istiyor; buna karşılık ünite ince ve rüzgârda daha az çıkıntı yapıyor. Su geçirmezlik sınıfı üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Sena mesh grubuyla süren ve ince bir ünite isteyenler",
+      "Sportif veya aerodinamik kasklarda çıkıntıyı sevmeyenler",
+      "Mesh ve Bluetooth'u aynı cihazda isteyenler"
+    ],
+    "notFor": [
+      "Kalın eldivenle döner düğme (jog-dial) kullanmayı tercih edenler",
+      "Grubu Cardo DMC kullananlar",
+      "Yalnız telefon için interkom arayan bütçeli kurye kullanımı"
+    ],
+    "pros": [
+      "İnce, alçak profilli gövde",
+      "Mesh'te 24, Bluetooth'ta 4 kişi",
+      "Harman Kardon ses",
+      "Hızlı şarjla 20 dakikada 6 saat Bluetooth kullanım"
+    ],
+    "cons": [
+      "Düğmeler eldivenle jog-dial kadar rahat değil",
+      "Mesh'te pil süresi 11 saate düşüyor",
+      "Su geçirmezlik sınıfı belirtilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için fazlasıyla yeterli; sesli komut sayesinde düğmeye dokunmadan arama yapılabiliyor.",
+      "ciftSurucu": "Bluetooth veya Mesh ile yolcu ya da arkadaşla rahatça kullanılır.",
+      "grup": "Sena mesh gruplarında güçlü; Open Mesh ile kalabalık gruplara kolayca katılınır.",
+      "uzunYol": "Mesh'te 11, Bluetooth'ta 13 saatlik süre uzun bir günü karşılar; hızlı şarj molada iş görür.",
+      "sehir": "İnce gövdesi şehirde de pratik; park ederken kaskı asarken takılma riski az.",
+      "kurye": "Teknik olarak uygun ama fiyatı kurye kullanımı için yüksek."
+    },
+    "verdict": "50R, Sena ekosisteminde üst segment özellikleri ince bir gövdede isteyenler için iyi bir seçim. Mesh ve Bluetooth bir arada, ses kalitesi güçlü. Kalın eldivenle döner düğme rahatlığını önemsiyorsan 50S daha uygun olabilir.",
+    "rivals": [
+      "sena/50s",
+      "cardo/packtalk-neo",
+      "interphone/u-com-8r"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "50R ile 50S arasındaki fark ne?",
+        "a": "İkisi aynı serinin üyesi. 50S döner düğmeyle (jog-dial) kullanılır, 50R ise düğmeli ve daha alçak profilli bir gövdeye sahip."
+      },
+      {
+        "q": "Mesh'te kaç kişiyle konuşabilirim?",
+        "a": "Üretici Group Mesh'te 24 sürücüye kadar bağlantı belirtiyor. Open Mesh modunda katılımcı sayısı pratikte sınırsız."
+      },
+      {
+        "q": "Pil ne kadar dayanıyor?",
+        "a": "Üretici Bluetooth interkomda 13, Mesh interkomda 11 saate kadar konuşma süresi veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/50r/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/50r/",
+        "type": "manufacturer",
+        "label": "Sena – 50R ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 2000,
+      "talkTimeHours": 13,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla 6 saat Bluetooth veya 3,5 saat Mesh interkom",
+      "speakers": "Sound by Harman Kardon",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.usbC",
+      "specs.waterproof",
+      "specs.musicSharing",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "spider-st1",
+    "brand": "sena",
+    "name": "Spider ST1",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Yalnız Mesh ile çalışan, uygun fiyatlı Sena interkomu: 24 kişilik Group Mesh, 18 saat konuşma, jog-dial. Grubu Sena kullananlar için ekonomik giriş kapısı.",
+    "description": [
+      "Spider ST1, Sena'nın Mesh'e odaklanmış kompakt ünitesi. Klasik Bluetooth interkom yerine yalnız Mesh Intercom 3.0 kullanıyor; telefona ise Bluetooth 5.2 ile bağlanıyor. Üretici Group Mesh'te 24 sürücüye kadar bağlantı ve iki sürücü arasında açık arazide 2 km menzil belirtiyor; Open Mesh'te katılımcı sayısı pratikte sınırsız.",
+      "Üretici 18 saat konuşma süresi, 2,5 saatte tam şarj ve 20 dakikalık şarjla 2 saat kullanım veriyor. Audio Multitasking sayesinde mesh konuşması sürerken navigasyon ya da müzik arkaplanda duyulabiliyor. Kumanda, eldivenle kolay kullanılan jog-dial ile yapılıyor.",
+      "Dikkat edilmesi gereken nokta: Bluetooth interkom olmadığı için başka marka bir interkomla doğrudan konuşamıyor. Grubun Sena Mesh kullanmıyorsa bu cihaz doğru seçim değil."
+    ],
+    "forWho": [
+      "Grubu Sena Mesh kullanan ve uygun fiyatlı ünite arayanlar",
+      "Uzun pil ömrü isteyenler",
+      "Eldivenle kolay kullanım isteyenler"
+    ],
+    "notFor": [
+      "Farklı marka interkom kullanan arkadaşlarıyla konuşmak isteyenler",
+      "Mesh grubu olmayan tek sürücüler"
+    ],
+    "pros": [
+      "Mesh'e göre uygun fiyat",
+      "18 saat konuşma süresi",
+      "Jog-dial ile eldivenle kolay kullanım",
+      "Group Mesh'te 24 kişi"
+    ],
+    "cons": [
+      "Bluetooth interkom ve diğer markalarla uyum yok",
+      "Su geçirmezlik sınıfı belirtilmiyor",
+      "FM radyo bilgisi üretici sayfasında yok"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için kullanılabilir ama asıl değeri mesh grubunda; tek başına sürene daha ucuz Bluetooth modeller yeter.",
+      "ciftSurucu": "İki kişi de Sena Mesh kullanıyorsa sorunsuz; yolcu farklı marka kullanıyorsa konuşamazsınız.",
+      "grup": "Sena Mesh gruplarına en ekonomik katılım yollarından biri.",
+      "uzunYol": "18 saatlik konuşma süresi uzun günleri rahat karşılıyor.",
+      "sehir": "Şehir içinde de rahat; jog-dial trafikte hızlı ses ayarı sağlıyor.",
+      "kurye": "Kurye kullanımında genelde telefon ve navigasyon yeterli olduğundan mesh avantajı çoğu zaman kullanılmaz."
+    },
+    "verdict": "Spider ST1, Sena Mesh grubuna katılmanın en akılcı yollarından biri. Pil süresi ve kullanım kolaylığı güçlü. Ancak Bluetooth interkom olmadığı için grubun tamamı Sena Mesh kullanmıyorsa başka bir model seçmelisin.",
+    "rivals": [
+      "sena/spider-rt1",
+      "sena/50s",
+      "ejeas/q8"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Spider ST1 başka marka interkomla konuşabilir mi?",
+        "a": "Hayır. Yalnız Sena Mesh üzerinden interkom yapıyor; Bluetooth interkom desteği yok. Telefona Bluetooth ile bağlanıyor."
+      },
+      {
+        "q": "ST1 ile RT1 farkı ne?",
+        "a": "ST1 jog-dial ile kumanda edilen standart bir ünite; RT1 daha alçak profilli, düğmeli bir gövdeye ve 20 saatlik konuşma süresine sahip."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/spider-st1/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/spider-st1/",
+        "type": "manufacturer",
+        "label": "Sena – Spider ST1 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (yalnız Mesh)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 2000,
+      "talkTimeHours": 18,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla 2 saat kullanım",
+      "speakers": "HD hoparlör",
+      "waterproof": null,
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": false,
+      "crossBrand": "Yok; interkom yalnız Sena Mesh üzerinden",
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.usbC",
+      "specs.waterproof",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "spider-rt1",
+    "brand": "sena",
+    "name": "Spider RT1",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Spider ST1'in alçak profilli, düğmeli versiyonu: yalnız Mesh, 24 kişilik grup, 20 saat konuşma ve 40 mm HD hoparlör. Sportif kasklarda ince görünüm isteyenler için.",
+    "description": [
+      "Spider RT1, Sena'nın yalnız Mesh ile çalışan Spider ailesinin daha ince, düğmeli üyesi. Üretici Mesh Intercom 3.0, Group Mesh'te 24 sürücüye kadar bağlantı ve iki sürücü arasında açık arazide 2 km menzil belirtiyor; telefon bağlantısı Bluetooth 5.2 ile yapılıyor.",
+      "Pil tarafında üretici 20 saat konuşma süresi, 2,5 saatte tam şarj ve 20 dakikalık şarjla 2 saat Mesh kullanım veriyor. 40 mm HD hoparlörler standart. Alçak gövde, sportif ve aerodinamik kasklarda rüzgâra daha az direnç oluşturuyor.",
+      "ST1'de olduğu gibi Bluetooth interkom yok; yani başka marka bir cihazla doğrudan konuşamazsın. Grubun Sena Mesh kullanıyorsa bu sınır sorun değil."
+    ],
+    "forWho": [
+      "Sena Mesh grubunda ince profilli ünite isteyenler",
+      "Sport ve naked motor sürücüleri",
+      "Uzun pil ömrü önceliği olanlar"
+    ],
+    "notFor": [
+      "Farklı marka interkom kullananlarla konuşmak isteyenler",
+      "Kalın kış eldiveniyle küçük düğmeleri kullanmakta zorlananlar"
+    ],
+    "pros": [
+      "Alçak profilli, rüzgârda az çıkıntı yapan gövde",
+      "20 saat konuşma süresi",
+      "40 mm HD hoparlör",
+      "Group Mesh'te 24 kişi"
+    ],
+    "cons": [
+      "Bluetooth interkom ve marka dışı uyum yok",
+      "Düğmeler eldivenle jog-dial kadar rahat değil",
+      "Su geçirmezlik sınıfı belirtilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için kullanılabilir ama mesh avantajı boşa kalır.",
+      "ciftSurucu": "Yolcu da Sena Mesh kullanıyorsa rahat; aksi halde konuşma kurulamaz.",
+      "grup": "Sena Mesh gruplarında ekonomik ve uzun pilli bir seçenek.",
+      "uzunYol": "20 saatlik konuşma süresi uzun etaplarda şarj derdini azaltıyor.",
+      "sehir": "İnce gövde şehirde de pratik; yine de asıl hedef grup sürüşü.",
+      "kurye": "Kurye kullanımında mesh çoğu zaman gereksiz; telefon odaklı ihtiyaç için daha ucuz modeller var."
+    },
+    "verdict": "Spider RT1, Sena Mesh grubunda ince bir ünite isteyen sürücü için güçlü bir seçenek; pil süresi segmentinde öne çıkıyor. Bluetooth interkomun olmaması en önemli sınır; karışık markalı gruplarda 50 serisi daha esnek.",
+    "rivals": [
+      "sena/spider-st1",
+      "sena/50r",
+      "midland/r1-mesh"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Spider RT1 kaç saat dayanıyor?",
+        "a": "Üretici 20 saate kadar konuşma süresi veriyor; 20 dakikalık şarj yaklaşık 2 saat Mesh kullanım sağlıyor."
+      },
+      {
+        "q": "Cardo kullanan arkadaşımla konuşabilir miyim?",
+        "a": "Hayır. RT1 yalnız Sena Mesh üzerinden interkom yapıyor; Bluetooth interkom desteği yok."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/spider-rt1/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/spider-rt1/",
+        "type": "manufacturer",
+        "label": "Sena – Spider RT1 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (yalnız Mesh)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 2000,
+      "talkTimeHours": 20,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla 2 saat Mesh kullanım",
+      "speakers": "40 mm HD hoparlör",
+      "waterproof": null,
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": false,
+      "crossBrand": "Yok; interkom yalnız Sena Mesh üzerinden",
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.usbC",
+      "specs.waterproof",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "sf4",
+    "brand": "sena",
+    "name": "SF4",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "İnce gövdeli, dört kişilik Bluetooth interkom: 1,2 km menzil, 22 saat konuşma, FM radyo ve kutuda iki hoparlör seti. Küçük gruplar için kompakt seçenek.",
+    "description": [
+      "SF4, Sena'nın kompakt SF serisinin dört kişiye kadar bağlanan modeli. Üretici Bluetooth 5.1, açık arazide 1,2 km interkom menzili ve 22 saat konuşma süresi belirtiyor. Tam şarj 1,5 saat; 30 dakikalık şarj 4 saat interkom kullanımı sağlıyor.",
+      "Kutuda bir standart ve bir HD hoparlör seti geliyor; kaskının hoparlör boşluğuna göre seçim yapabiliyorsun. FM radyo (76–108 MHz) ve Audio Multitasking ile interkom sırasında müzik ya da navigasyonu arkaplanda dinleme mümkün. Ayarlar Sena Motorcycles uygulamasıyla yapılıyor.",
+      "Mesh yok; dört kişiyi aşan gruplar ya da konvoyda kopmaya dayanıklı bağlantı istiyorsan Mesh modellere bakmak gerekir. Su geçirmezlik sınıfı üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Üç-dört kişilik küçük gruplarla sürenler",
+      "Uzun pil ömrü ve kompakt ünite isteyenler",
+      "Kaskına göre hoparlör seçmek isteyenler"
+    ],
+    "notFor": [
+      "Kalabalık grup sürüşü yapanlar",
+      "Mesh bağlantı arayanlar"
+    ],
+    "pros": [
+      "22 saat konuşma süresi",
+      "Kutudan iki hoparlör seçeneği",
+      "Kompakt ve hafif görünüm",
+      "Hızlı şarj: 30 dakikada 4 saat"
+    ],
+    "cons": [
+      "Mesh yok",
+      "Menzil 1,2 km ile orta seviye",
+      "Su geçirmezlik sınıfı belirtilmiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için rahatça yeterli.",
+      "ciftSurucu": "Yolcuyla ya da tek arkadaşla sorunsuz; uzun pil süresi rahatlatıyor.",
+      "grup": "Dört kişiye kadar küçük gruplar için uygun; daha kalabalık gruplar için mesh gerekir.",
+      "uzunYol": "22 saatlik konuşma süresi çok günlük turlarda bile şarj sıklığını azaltıyor.",
+      "sehir": "İnce gövdesiyle şehirde pratik.",
+      "kurye": "Uzun pil ömrü gün boyu çalışan kurye için avantaj; fiyatı ise orta seviyede."
+    },
+    "verdict": "SF4, küçük gruplar için uzun pilli ve kompakt bir Bluetooth interkom arayanlara uygun. Mesh'in kendini onaran bağlantısı yok, ama dört kişiye kadar planlı sürüşlerde işini görür. Kalabalık gruplarla sürüyorsan Spider ya da 50 serisi daha doğru.",
+    "rivals": [
+      "cardo/freecom-4x",
+      "midland/btx2-pro-s-lr",
+      "sena/5r"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "SF4 kaç kişiyle konuşabilir?",
+        "a": "Üretici Bluetooth interkomda dört sürücüye kadar bağlantı belirtiyor."
+      },
+      {
+        "q": "Kutuda neden iki hoparlör seti var?",
+        "a": "Biri standart, biri HD hoparlör. Kaskının hoparlör boşluğu ve ses tercihine göre birini seçebiliyorsun."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/sf4/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/sf4/",
+        "type": "manufacturer",
+        "label": "Sena – SF4 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1200,
+      "talkTimeHours": 22,
+      "chargeTimeHours": 1.5,
+      "usbC": null,
+      "fastCharge": "30 dakika şarjla 4 saat interkom",
+      "speakers": "Bir standart ve bir HD hoparlör seti",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": [
+        "SF4 ünitesi",
+        "Standart hoparlör seti",
+        "HD hoparlör seti",
+        "Kablolu boom mikrofon"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.usbC",
+      "specs.waterproof",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "srl-ext",
+    "brand": "sena",
+    "name": "SRL-EXT",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "summary": "Shoei NXR2 (Avrupa) ve RF-1400 için tasarlanan kaska özel Sena interkomu: Mesh ve Bluetooth, Harman Kardon ses, 16 saate kadar konuşma. Kabuktan taşmayan temiz bir kurulum.",
+    "description": [
+      "SRL-EXT, Shoei'nin tam kapalı sportif-tur kasklarına özel geliştirilmiş bir Sena interkomu. Üretici Kuzey Amerika'da RF-1400, Avrupa'da NXR2 ve Asya-Pasifik'te Z-8 için tasarlandığını belirtiyor. Kumanda ünitesi kaskın yan tarafına, kabuğun hatlarını bozmadan yerleşiyor; evrensel kelepçeli ünitelere göre rüzgârda çok daha temiz duruyor.",
+      "Teknik tarafta Bluetooth 5.0, Mesh Intercom 3.0 (Group Mesh'te 24 kişi, Open Mesh'te pratikte sınırsız) ve Bluetooth interkomda 4 kişi var. Menzil açık arazide 2 km; Mesh'te en az 6 sürücüyle 8 km'ye kadar uzayabiliyor. Konuşma süresi Bluetooth'ta 16, Mesh'te 12 saat; tam şarj 2,5 saat.",
+      "Ses tarafında 40 mm Harman Kardon hoparlörler, 10 ön ayarlı FM radyo, sekiz dilde sesli komut ve Siri/Google Asistan erişimi bulunuyor. En önemli sınır uyumluluk: yalnız belirtilen Shoei kasklarında kullanılabiliyor; kaskını değiştirirsen interkomu taşıyamazsın."
+    ],
+    "forWho": [
+      "Shoei NXR2 kullananlar",
+      "Kaskın dışında çıkıntı istemeyen sport-tur sürücüleri",
+      "Sena mesh grubuyla süren Shoei sahipleri"
+    ],
+    "notFor": [
+      "NXR2, RF-1400 veya Z-8 dışında kask kullananlar",
+      "İnterkomu farklı kasklar arasında taşımak isteyenler",
+      "Kuryeler; kaska özel yapı ve fiyat kurye kullanımı için uygun değil"
+    ],
+    "pros": [
+      "Kaskla bütünleşik, rüzgârda temiz duran tasarım",
+      "Mesh ve Bluetooth bir arada",
+      "Harman Kardon ses ve FM radyo",
+      "Bluetooth'ta 16 saat konuşma"
+    ],
+    "cons": [
+      "Yalnız belirli Shoei kasklarıyla uyumlu",
+      "Kask değişince interkom da değişmeli",
+      "Mesh'te konuşma süresi 12 saate düşüyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için kaskla bütünleşik, şık bir çözüm.",
+      "ciftSurucu": "Yolcuyla Bluetooth ya da Mesh üzerinden rahatça kullanılır.",
+      "grup": "Sena Mesh gruplarında üst segment ünitelerle aynı yetenekte.",
+      "uzunYol": "Kabuktan taşmayan yapı otoyolda rüzgâr gürültüsünü ve sürtünmeyi azaltıyor; pil süresi uzun günleri karşılıyor.",
+      "sehir": "Şehirde de pratik; kaskı asarken takılacak dış ünite yok.",
+      "kurye": "Kaska özel ve pahalı; günlük kurye kullanımında evrensel bir ünite daha mantıklı."
+    },
+    "verdict": "NXR2 sahibiysen SRL-EXT, kaskına en temiz şekilde entegre olan interkom. Mesh ve Bluetooth bir arada, ses güçlü. Fakat kaskı değiştirdiğinde cihaz da işe yaramaz hale gelir; birden fazla kask kullanıyorsan evrensel bir model daha esnek.",
+    "rivals": [
+      "sena/srl3",
+      "sena/50r",
+      "cardo/packtalk-edge"
+    ],
+    "offers": [
+      {
+        "seller": "motodium",
+        "url": "https://www.motodium.com.tr/urun/shoei-srl-ext-nxr2-bluetooth-iletisim-sistemi",
+        "price": 22113.88,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SRL-EXT hangi kasklarla uyumlu?",
+        "a": "Üretici Shoei RF-1400 (Kuzey Amerika), NXR2 (Avrupa) ve Z-8 (Asya-Pasifik) kasklarını belirtiyor. Türkiye'de karşılığı NXR2."
+      },
+      {
+        "q": "SRL3 ile farkı ne?",
+        "a": "SRL3, Shoei'nin GT-Air 3 ve Neotec 3 gibi tur kaskları için; SRL-EXT ise NXR2 ailesi için tasarlandı. Kask uyumu birbirinin yerine geçmez."
+      },
+      {
+        "q": "Başka marka interkomlarla konuşabilir mi?",
+        "a": "Üretici Universal Intercom desteği belirtiyor; Bluetooth üzerinden diğer markalara bağlanabilir. Mesh ise Sena ve Sena Mesh uyumlu cihazlarla çalışır."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/srl-ext/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/srl-ext/",
+        "type": "manufacturer",
+        "label": "Sena – SRL-EXT ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/shoei-srl-ext-nxr2-bluetooth-iletisim-sistemi",
+        "type": "retailer",
+        "label": "Motodium – Shoei SRL-EXT NXR2",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 2000,
+      "talkTimeHours": 16,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "40 mm, Sound by Harman Kardon",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": true,
+      "crossBrand": "Universal Intercom ile diğer markalara Bluetooth bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.musicSharing",
+      "specs.otaUpdate"
+    ],
+    "priceRange": {
+      "min": 22113.88,
+      "max": 22113.88,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "NXR2 için; tek satıcıda bulunan fiyat."
+    }
+  },
+  {
+    "slug": "5r",
+    "brand": "sena",
+    "name": "5R",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "İki kişilik, alçak profilli Bluetooth interkom: 36 saat konuşma süresi, 40 mm HD hoparlör ve durum bilgisi gösteren LCD ekran. Uzun pil ömrü isteyen günlük kullanıcılar için.",
+    "description": [
+      "5R, Sena'nın uygun fiyatlı Bluetooth serisinde öne çıkan, ince ve düğmeli bir ünite. Üretici Bluetooth 5.1, iki sürücü arasında açık arazide 700 m menzil ve 36 saate kadar konuşma süresi belirtiyor. Tam şarj 2,5 saat.",
+      "40 mm HD hoparlörler, Advanced Noise Control ve ünite üzerindeki LCD ekran (pil, bağlantı gibi durum bilgileri için) sınıfında farklılaşan özellikler. Ayarlar Sena Motorcycles uygulamasıyla yapılabiliyor. Ailenin daha sade üyesi 5R Lite ayrıca satılıyor; bu kayıt standart 5R içindir.",
+      "Mesh yok ve bağlantı iki kişiyle sınırlı. Üretici sayfasında FM radyo, sesli komut ve su geçirmezlik sınıfı belirtilmediği için bu alanlar doğrulanmamış."
+    ],
+    "forWho": [
+      "Gün boyu sürüp şarjla uğraşmak istemeyenler",
+      "Yolcusuyla konuşmak isteyen sürücüler",
+      "Telefon ve navigasyon odaklı kuryeler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar",
+      "İki motor arasında uzun menzil bekleyenler"
+    ],
+    "pros": [
+      "36 saatlik konuşma süresi",
+      "İnce, alçak profilli gövde",
+      "LCD durum ekranı",
+      "40 mm HD hoparlör"
+    ],
+    "cons": [
+      "Menzil 700 m ile sınırlı",
+      "En fazla iki kişi, mesh yok",
+      "FM radyo ve su geçirmezlik bilgisi üretici sayfasında yok"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için çok uygun; pil süresi haftalarca günlük kullanımı karşılayabilir.",
+      "ciftSurucu": "Sürücü-yolcu için ideal; iki motor arasında menzil kısa kalabilir.",
+      "grup": "Uygun değil; en fazla iki kişi bağlanıyor.",
+      "uzunYol": "36 saatlik konuşma süresi çok günlük turlarda şarj ihtiyacını büyük ölçüde ortadan kaldırıyor.",
+      "sehir": "İnce gövde ve uzun pil, şehir içi günlük kullanım için pratik.",
+      "kurye": "Uzun pil ömrü vardiya boyunca telefon ve navigasyon kullanan kurye için güçlü bir avantaj."
+    },
+    "verdict": "5R, pil ömrünü her şeyin önüne koyan sürücü için akıllıca bir seçim. Grup sürüşü ve uzun menzil beklemiyorsan günlük kullanımda sorunsuz bir yol arkadaşı. İki motor arasında daha uzun menzil gerekiyorsa Freecom 2x ya da SF4 daha uygun.",
+    "rivals": [
+      "cardo/spirit-hd",
+      "cardo/freecom-2x",
+      "ejeas/q7"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "5R ile 5R Lite arasındaki fark ne?",
+        "a": "İkisi aynı ailenin üyesi. 5R, LCD ekranı ve HD hoparlörleriyle daha donanımlı versiyon; satın alırken model adını kontrol et."
+      },
+      {
+        "q": "Pil gerçekten 36 saat dayanır mı?",
+        "a": "Üretici 36 saate kadar konuşma süresi veriyor. Gerçek süre ses seviyesi, müzik kullanımı ve hava sıcaklığına göre değişir."
+      }
+    ],
+    "manufacturerUrl": "https://www.sena.com/product/5r/",
+    "sources": [
+      {
+        "url": "https://www.sena.com/product/5r/",
+        "type": "manufacturer",
+        "label": "Sena – 5R ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 700,
+      "talkTimeHours": 36,
+      "chargeTimeHours": 2.5,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "40 mm HD hoparlör",
+      "waterproof": null,
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "Sena Motorcycles",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "btx2-pro-s-lr",
+    "brand": "midland",
+    "name": "BTX2 Pro S LR",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "Çift Bluetooth çipli orta segment interkom: 1,6 km menzil, 8 kişilik konferans, 23 saat pil, FM radyo ve iki farklı markaya bağlantı. Türkiye'de distribütör garantisiyle satılıyor.",
+    "description": [
+      "BTX2 Pro S LR, Midland'in Pro S serisinin uzun menzilli (Long Range) versiyonu. Üretici Bluetooth 4.2 tabanlı çift çip mimarisi, 1,6 km interkom menzili, konferans modunda 8 kişi (sürücü ve yolcuyla 4 motor) ve bire bir modda 6 kişiye kadar bağlantı belirtiyor. Pil süresi 23 saat.",
+      "Çift çip sayesinde interkom konuşması sürerken navigasyon talimatları ya da müzik arkaplanda duyulabiliyor; müzik ve GPS sesi karşı tarafla paylaşılabiliyor. FM radyo RDS ve 6 ön ayarlı istasyonla geliyor, VOX ile sesle interkom açılabiliyor ve iki telefon aynı anda bağlanabiliyor. Üretici IPX6 su direnci belirtiyor.",
+      "Universal Intercom ile iki farklı marka cihaza bağlanabiliyor; Midland, Cardo, Sena ve Interphone ile Bluetooth interkom uyumunu öne çıkarıyor. Güncelleme Micro-USB üzerinden bilgisayarla yapılıyor; kablosuz güncelleme ve USB-C yok, bu yeni modellere göre eski kalan bir detay."
+    ],
+    "forWho": [
+      "Küçük ve orta gruplarla Bluetooth üzerinden sürenler",
+      "Farklı markalarla sık eşleşen sürücüler",
+      "Uzun pil ömrü ve FM radyo isteyenler"
+    ],
+    "notFor": [
+      "Mesh bağlantı arayanlar",
+      "USB-C ve kablosuz güncelleme bekleyenler"
+    ],
+    "pros": [
+      "1,6 km menzil ve 8 kişilik konferans",
+      "23 saat pil",
+      "Çift çip ile arkaplanda müzik/navigasyon",
+      "Türkiye'de distribütör garantili satış"
+    ],
+    "cons": [
+      "Micro-USB şarj, kablosuz güncelleme yok",
+      "Bluetooth 4.2; güncel rakiplere göre eski altyapı",
+      "IPX6 su direnci, IP67 rakiplerin gerisinde"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için fazlasıyla yeterli; iki telefon desteği iş telefonu olanlar için pratik.",
+      "ciftSurucu": "Yolcuyla veya bir arkadaşla rahatça kullanılır; müzik paylaşımı yolculukta keyifli.",
+      "grup": "Dört motora kadar Bluetooth konferans mümkün; daha kalabalık ve dağınık gruplarda mesh daha kararlı.",
+      "uzunYol": "23 saatlik pil uzun günleri karşılıyor; IPX6 yağmura dayanıklı.",
+      "sehir": "Şehirde telefon ve navigasyon için sorunsuz.",
+      "kurye": "Uzun pil ve iki telefon desteği kurye için faydalı; fiyatı orta seviyede."
+    },
+    "verdict": "BTX2 Pro S LR, Bluetooth tabanlı grup iletişimi için olgun ve kendini kanıtlamış bir seçenek. Menzil, pil ve marka uyumu güçlü; buna karşılık Micro-USB ve kablolu güncelleme yaşını belli ediyor. Mesh istiyorsan Midland R1 Mesh'e bakmak daha mantıklı.",
+    "rivals": [
+      "cardo/freecom-4x",
+      "sena/sf4",
+      "midland/r1-mesh"
+    ],
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/midland-btx2-pro-s-lr-bluetooth-intercom-tek",
+        "price": 16590,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "BTX2 Pro S LR Sena veya Cardo ile konuşabilir mi?",
+        "a": "Üretici Bluetooth interkom modunda Cardo, Sena ve Interphone cihazlarıyla eşleşebildiğini belirtiyor. Universal Intercom ile iki farklı marka cihaza bağlanılabiliyor."
+      },
+      {
+        "q": "Şarj girişi USB-C mi?",
+        "a": "Hayır. Üretici güncelleme ve şarj için Micro-USB girişini belirtiyor."
+      },
+      {
+        "q": "Kaç kişiyle konuşabilirim?",
+        "a": "Konferans modunda sürücü ve yolcularla 8 kişiye (4 motor), bire bir modda 6 kişiye kadar."
+      }
+    ],
+    "manufacturerUrl": "https://www.midlandeurope.com/en_150/products/btx2-pro-s-lr",
+    "sources": [
+      {
+        "url": "https://www.midlandeurope.com/en_150/products/btx2-pro-s-lr",
+        "type": "manufacturer",
+        "label": "Midland Europe – BTX2 Pro S LR ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/midland-btx2-pro-s-lr-bluetooth-intercom-tek",
+        "type": "distributor",
+        "label": "Mototaş – Midland BTX2 Pro S LR (Tek)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": "4.2 (çift çip)",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 8,
+      "rangeMeters": 1600,
+      "talkTimeHours": 23,
+      "chargeTimeHours": null,
+      "usbC": false,
+      "fastCharge": null,
+      "speakers": "Hi-Fi hoparlör",
+      "waterproof": "IPX6",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "2 Universal Intercom bağlantısı; Cardo, Sena ve Interphone ile Bluetooth interkom (üretici beyanı)",
+      "otaUpdate": false,
+      "app": "BT Pro SetApp",
+      "inBox": [
+        "BTX2 Pro S LR ünitesi",
+        "Boom mikrofon",
+        "Kablolu mikrofon",
+        "Kızaklı kelepçe ve çift taraflı bant montajı",
+        "Hi-Fi hoparlörlü ses kiti",
+        "USB şarj kablosu"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.fastCharge",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": {
+      "min": 16590,
+      "max": 16590,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli; Türkiye distribütörü fiyatı."
+    }
+  },
+  {
+    "slug": "r1-mesh",
+    "brand": "midland",
+    "name": "R1 Mesh",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Midland'in uygun fiyatlı hibrit interkomu: Mesh ve Bluetooth bir arada, mıknatıslı Magiclock montaj, RCF ses ve 23 saate kadar pil. Mesh'e ekonomik giriş isteyenler için.",
+    "description": [
+      "R1 Mesh, Midland'in kendi geliştirdiği Midland Mesh Communication (MMC) altyapısını uygun fiyatlı bir gövdede sunuyor. Üretici Mesh'te 2 km'ye kadar dinamik tekrarlayıcı menzil, aynı anda 6 kişinin konuşabildiği ve 99 kişinin dinleyebildiği grup yapısı belirtiyor. Bluetooth interkom modunda ise 500 m menzille 3 kişiye kadar bire bir bağlantı var.",
+      "Pil süresi Bluetooth'ta 23, Mesh'te 15 saat. RCF imzalı ses sistemi, gürültüyü azaltan DNK dijital filtre, ses netliği için Crystal Voice Processing ve interkom sırasında arkaplanda müzik/navigasyon (Stereo Background) özellikleri sunuluyor. Montaj mıknatıslı Magiclock sistemiyle yapılıyor; su direnci IPX6.",
+      "Klasik FM radyo yok, radyo uygulama üzerinden web radyo olarak dinleniyor. Midland'in mesh'i Sena veya Cardo mesh'iyle konuşmuyor; diğer markalarla bağlantı Bluetooth üzerinden kuruluyor."
+    ],
+    "forWho": [
+      "Mesh'e ekonomik bir giriş yapmak isteyenler",
+      "Midland kullanan gruplarla sürenler",
+      "Mıknatıslı montaj pratikliği isteyenler"
+    ],
+    "notFor": [
+      "Grubu Sena veya Cardo mesh kullananlar",
+      "Bağımsız FM radyo isteyenler"
+    ],
+    "pros": [
+      "Mesh ve Bluetooth bir arada, uygun fiyat",
+      "Mıknatıslı Magiclock montaj",
+      "RCF ses sistemi",
+      "Bluetooth'ta 23 saat pil"
+    ],
+    "cons": [
+      "Mesh yalnız Midland cihazlarla",
+      "Bluetooth interkom menzili 500 m",
+      "FM radyo yok (uygulama üzerinden web radyo)",
+      "IPX6 su direnci"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli; pil süresi uzun.",
+      "ciftSurucu": "Yolcuyla Bluetooth veya Mesh ile rahat kullanılır.",
+      "grup": "Midland kullanan gruplarda mesh avantajı belirgin; karışık markalı gruplarda Bluetooth sınırlarına düşülür.",
+      "uzunYol": "Mesh'te 15 saat pil uzun bir sürüş gününü karşılar.",
+      "sehir": "Mıknatıslı montaj sayesinde park edince üniteyi sökmek kolay.",
+      "kurye": "Fiyatı ve mıknatıslı montajı kurye için mantıklı; asıl ihtiyaç telefon ve navigasyonsa Bluetooth tarafı yeterli."
+    },
+    "verdict": "R1 Mesh, mesh teknolojisine düşük bütçeyle girmek isteyenler için Türkiye'de distribütör desteğiyle bulunabilen bir seçenek. Mıknatıslı montaj ve pil süresi güçlü. Grubun farklı markalarda mesh kullanıyorsa avantajı kaybolur; önce grubunun ekosistemini kontrol et.",
+    "rivals": [
+      "sena/spider-st1",
+      "cardo/packtalk-neo",
+      "ejeas/q8"
+    ],
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/midland-r1-mesh-intercom-tek-41784",
+        "price": 14990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "R1 Mesh, Sena Mesh ile konuşabilir mi?",
+        "a": "Hayır, mesh bağlantısı Midland'in kendi MMC altyapısıyla çalışıyor. Sena, Cardo ve Interphone cihazlarıyla bağlantı Bluetooth interkom üzerinden kuruluyor."
+      },
+      {
+        "q": "FM radyo var mı?",
+        "a": "Üretici klasik FM radyo olmadığını, radyonun uygulama üzerinden web radyo olarak dinlenebildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.midlandeurope.com/en_150/products/r1-mesh-intercom-midland",
+    "sources": [
+      {
+        "url": "https://www.midlandeurope.com/en_150/products/r1-mesh-intercom-midland",
+        "type": "manufacturer",
+        "label": "Midland Europe – R1 Mesh ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/midland-r1-mesh-intercom-tek-41784",
+        "type": "distributor",
+        "label": "Mototaş – Midland R1 Mesh (Tek, RCF dahil)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": true,
+      "meshTech": "Midland Mesh Communication (MMC)",
+      "meshMaxRiders": 6,
+      "bluetoothMaxRiders": 3,
+      "rangeMeters": 2000,
+      "talkTimeHours": 23,
+      "chargeTimeHours": null,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "RCF ses sistemi",
+      "waterproof": "IPX6",
+      "fmRadio": false,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Cardo, Sena ve Interphone ile Bluetooth interkom (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "Midland uygulaması",
+      "inBox": []
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.chargeTimeHours",
+      "specs.fastCharge",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "priceRange": {
+      "min": 14990,
+      "max": 14990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli, RCF kulaklık dahil; Türkiye distribütörü fiyatı."
+    }
+  },
+  {
+    "slug": "u-com-8r",
+    "brand": "interphone",
+    "name": "U-COM 8R",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Sena Mesh ile uyumlu, 24 kişilik mesh interkom: Bluetooth 5.2, 18 saat konuşma, IP67 ve USB-C. Sena ağırlıklı gruplara farklı bir marka ile katılmanın yolu.",
+    "description": [
+      "U-COM 8R, İtalyan Cellularline grubunun motosiklet markası Interphone'un mesh modeli. Üretici Bluetooth 5.2, 24 cihaza kadar mesh grup ve iki cihaz arasında 1,6 km menzil belirtiyor. En dikkat çekici yanı, mesh altyapısının Sena Mesh ile uyumlu olması; böylece Sena kullanan bir gruba mesh üzerinden katılmak mümkün.",
+      "Üretici 18 saate kadar konuşma süresi (müzik ve navigasyon kullanımına göre değişebilir), yaklaşık 2,5 saatte tam şarj, USB-C giriş ve IP67 su geçirmezlik veriyor. 40 mm HD hoparlör, ekolayzır, beş kademeli VOX ve iki telefonu aynı anda bağlama özelliği var. Ünite tamamen sökülebilir yapıda.",
+      "Yazılım güncellemesi bilgisayar üzerinden yapılıyor; ayarlar mobil uygulamayla değiştirilebiliyor. Türkiye'de yetkili bir satıcıda birebir model ve fiyat bulamadık."
+    ],
+    "forWho": [
+      "Sena Mesh kullanan gruplara katılmak isteyenler",
+      "IP67 ve USB-C'yi önemseyen sürücüler",
+      "Uzun pil ömrü isteyenler"
+    ],
+    "notFor": [
+      "Türkiye'de kolay servis ve yedek parça bulmayı önceleyenler",
+      "Kablosuz yazılım güncellemesi bekleyenler"
+    ],
+    "pros": [
+      "Sena Mesh ile uyumlu mesh",
+      "IP67 su geçirmezlik",
+      "USB-C şarj",
+      "18 saat konuşma süresi"
+    ],
+    "cons": [
+      "Türkiye'de yetkili satış ve servis ağı belirsiz",
+      "Güncelleme bilgisayar üzerinden",
+      "FM radyo bilgisi üretici sayfasında yok"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli; iki telefon desteği pratik.",
+      "ciftSurucu": "Yolcuyla rahat kullanılır; mesh ile bağlantı hızlı kurulur.",
+      "grup": "Sena Mesh uyumu sayesinde karışık Sena/Interphone gruplarında avantajlı.",
+      "uzunYol": "18 saat pil ve IP67 uzun turlarda güven veriyor.",
+      "sehir": "Şehirde sorunsuz; ünite kolayca sökülebiliyor.",
+      "kurye": "Teknik olarak uygun ama Türkiye'de servis erişimi belirsiz olduğu için kurye kullanımında risk taşıyor."
+    },
+    "verdict": "U-COM 8R, Sena Mesh gruplarına farklı bir markayla katılmak isteyen için ilginç bir alternatif; IP67 ve USB-C de artı. Türkiye'de yetkili satış ve servis bilgisinin net olmaması en büyük soru işareti; satın almadan önce garanti koşullarını netleştir.",
+    "rivals": [
+      "sena/50r",
+      "sena/spider-st1",
+      "interphone/era-1x"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "U-COM 8R Sena interkomlarla mesh üzerinden konuşur mu?",
+        "a": "Üretici mesh altyapısının Sena Mesh ile uyumlu olduğunu belirtiyor. Kullanmadan önce her iki cihazın da güncel yazılımda olması önerilir."
+      },
+      {
+        "q": "Şarj girişi ne?",
+        "a": "USB Type-C. Üretici yaklaşık 2,5 saatte tam şarj belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://interphone.com/products/interphone-u-com-8r",
+    "sources": [
+      {
+        "url": "https://interphone.com/products/interphone-u-com-8r",
+        "type": "manufacturer",
+        "label": "Interphone – U-COM 8R ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Mesh 3.0 (Sena Mesh uyumlu, üretici beyanı)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": 18,
+      "chargeTimeHours": 2.5,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "40 mm HD",
+      "waterproof": "IP67",
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": "Sena Mesh ile mesh uyumu (üretici beyanı)",
+      "otaUpdate": false,
+      "app": "Interphone uygulaması (iOS/Android)",
+      "inBox": [
+        "U-COM 8R ünitesi",
+        "Yapışkan montaj klipsi",
+        "Kelepçeli montaj aparatı",
+        "40 mm HD hoparlörler",
+        "Boom mikrofon (jet/çene açılır kask)",
+        "Yapışkan mikrofon (kapalı kask)",
+        "USB-C şarj/veri kablosu"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "era-1x",
+    "brand": "interphone",
+    "name": "ERA 1X",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Interphone'un yeni amiral gemisi: Mesh 3.0 (Sena uyumlu), Bluetooth 5.3, Harman Kardon ses, 25 saate kadar konuşma ve kablosuz güncelleme. Üst segmentte Sena ve Cardo'ya rakip.",
+    "description": [
+      "ERA 1X, Interphone'un üst segment modeli. Üretici Bluetooth 5.3 ile dört kişilik Bluetooth interkom, Sena cihazlarıyla uyumlu Mesh 3.0 ve internet üzerinden sınırsız grup konuşması sağlayan Wave Intercom desteği belirtiyor. Menzil 1,5 km; Bluetooth tarafında Sena, Cardo ve Midland cihazlarıyla uyum vurgulanıyor.",
+      "Pil tarafında üretici Mesh'te 20, Bluetooth'ta 25 saat konuşma süresi, 1,5 saatte tam şarj ve 20 dakikalık şarjla 5,5 saat kullanım veriyor. 40 mm ikinci nesil Harman Kardon hoparlörler, yapay zekâ destekli gürültü engelleme, ekolayzır, FM radyo, dokuz dilde sesli komut ve hareket sensörlü otomatik aç/kapa var. IP67 sertifikalı ve kablosuz güncellenebiliyor.",
+      "Kutuda üç farklı renkte değiştirilebilir ön kapak geliyor. Türkiye'de yetkili bir satıcıda birebir model ve fiyat bulamadık; servis ve garanti koşullarını satın almadan önce netleştirmek gerekiyor."
+    ],
+    "forWho": [
+      "Üst segment özellikler isteyip Sena Mesh gruplarıyla da konuşmak isteyenler",
+      "Uzun pil süresine önem verenler",
+      "Karışık markalı gruplarla sürenler"
+    ],
+    "notFor": [
+      "Türkiye'de kolay servis erişimini önceleyenler",
+      "Yalnız telefon ve navigasyon için interkom arayanlar",
+      "Grubu Cardo DMC mesh kullananlar (mesh uyumu Sena ile)"
+    ],
+    "pros": [
+      "Mesh'te 20, Bluetooth'ta 25 saat konuşma",
+      "Sena Mesh uyumu ve geniş Bluetooth marka uyumu",
+      "Harman Kardon ses, FM radyo",
+      "IP67, otomatik aç/kapa, kablosuz güncelleme"
+    ],
+    "cons": [
+      "Türkiye'de yetkili satış ve servis belirsiz",
+      "Fiyatı üst segmentte",
+      "Wave Intercom için mobil veri gerekiyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için fazlasıyla donanımlı; tek başına kullanımda özelliklerin çoğu boşta kalır.",
+      "ciftSurucu": "Yolcuyla ya da arkadaşla Bluetooth veya Mesh ile rahat.",
+      "grup": "Sena Mesh uyumu ve dört kişilik Bluetooth sayesinde karışık gruplarda esnek.",
+      "uzunYol": "Uzun pil süresi ve hızlı şarj çok günlük turlar için güçlü.",
+      "sehir": "Otomatik aç/kapa şehirdeki sık duraklamalarda pratik.",
+      "kurye": "Özellikleri kurye ihtiyacının çok üzerinde; servis erişimi belirsiz olduğu için önerilmez."
+    },
+    "verdict": "ERA 1X, kâğıt üzerinde Sena ve Cardo'nun üst modelleriyle rahatça yarışan bir paket: uzun pil, Harman Kardon ses ve geniş marka uyumu. Türkiye'de yetkili satış ve servisin belirsiz olması en büyük çekince; garanti desteğini netleştiremiyorsan yerleşik markalar daha güvenli.",
+    "rivals": [
+      "sena/60s",
+      "cardo/packtalk-pro",
+      "interphone/u-com-8r"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "ERA 1X, Sena ile mesh üzerinden konuşabilir mi?",
+        "a": "Üretici Mesh 3.0 altyapısının Sena cihazlarıyla uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Wave Intercom nedir?",
+        "a": "Mobil internet üzerinden çalışan grup konuşması. Menzil sınırı olmadan konuşmayı sağlar ama telefonda veri bağlantısı gerektirir."
+      }
+    ],
+    "manufacturerUrl": "https://interphone.com/products/interphone-era-1-x",
+    "sources": [
+      {
+        "url": "https://interphone.com/products/interphone-era-1-x",
+        "type": "manufacturer",
+        "label": "Interphone – ERA 1X ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": "5.3",
+      "mesh": true,
+      "meshTech": "Mesh 3.0 (Sena uyumlu, üretici beyanı) + Wave Intercom",
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1500,
+      "talkTimeHours": 25,
+      "chargeTimeHours": 1.5,
+      "usbC": null,
+      "fastCharge": "20 dakika şarjla 5,5 saat kullanım",
+      "speakers": "40 mm 2. nesil, Harman Kardon",
+      "waterproof": "IP67",
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Sena, Cardo ve Midland ile uyum (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Interphone uygulaması",
+      "inBox": [
+        "ERA 1X ünitesi",
+        "Harman Kardon ses kiti",
+        "Montaj aparatları",
+        "3 renkte ön kapak",
+        "USB kablo",
+        "Hızlı başlangıç kılavuzu"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.meshMaxRiders",
+      "specs.usbC",
+      "specs.musicSharing",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "q7",
+    "brand": "ejeas",
+    "name": "Q7",
+    "subcategories": [
+      "bluetooth-interkom"
+    ],
+    "summary": "Bütçe dostu iki kişilik Bluetooth interkom: 800 m menzil, FM radyo, müzik paylaşımı, IP67 ve USB-C. Kuryeler ve ilk interkomunu alanlar arasında yaygın.",
+    "description": [
+      "EJEAS Q7, Çinli üretici EJEAS'ın en çok satılan giriş seviyesi modellerinden. Üretici Bluetooth 5.1, aynı anda iki kişinin konuştuğu interkom, 800 m menzil ve 7 cihaza kadar eşleştirme belirtiyor. FM radyo, müzik paylaşımı ve interkom sırasında arkaplanda müzik/radyo dinleme (Audio Multitasking) mevcut.",
+      "Pil kapasitesi 750 mAh; üretici 22–30 saat pil ömrü ve 3 saat şarj süresi veriyor. IP67 su geçirmezlik ve USB-C şarj girişi sınıfına göre güçlü yanlar. EJEAS'ın gidona takılan EUC uzaktan kumandasıyla birlikte kullanılabiliyor; bu, eldivenle kaska uzanmadan ses ve çağrı kontrolü sağlıyor.",
+      "Mesh yok ve aynı anda yalnız iki kişi konuşabiliyor. Ses kalitesi ve gürültü bastırma, üst segment markaların seviyesinde değil; üreticinin pil ömrü bir aralık olarak verildiği için konuşma süresini kesin bir değer olarak girmedik."
+    ],
+    "forWho": [
+      "Bütçesi sınırlı, telefon ve navigasyon odaklı kuryeler",
+      "İlk interkomunu deneyecek sürücüler",
+      "Gidondan kumanda (EUC) isteyenler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar",
+      "Üst segment ses kalitesi bekleyenler"
+    ],
+    "pros": [
+      "Çok uygun fiyat",
+      "IP67 ve USB-C",
+      "FM radyo ve müzik paylaşımı",
+      "Gidon kumandası seçeneği"
+    ],
+    "cons": [
+      "Aynı anda yalnız iki kişi, mesh yok",
+      "Menzil 800 m",
+      "Türkiye'de yetkili satıcı ve garanti koşulları belirsiz"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için düşük bütçeyle iş görür.",
+      "ciftSurucu": "Sürücü-yolcu için yeterli; iki motor arasında menzil sınırlı.",
+      "grup": "Uygun değil; aynı anda yalnız iki kişi konuşabiliyor.",
+      "uzunYol": "Pil ömrü uzun yolu karşılar ama ses kalitesi otoyol hızında üst modellerin gerisinde kalabilir.",
+      "sehir": "Şehir içi telefon ve navigasyon için pratik ve ucuz bir çözüm.",
+      "kurye": "Kurye kullanımında popüler: düşük fiyat, IP67 ve uzun pil; kaybolsa ya da kırılsa maliyeti düşük."
+    },
+    "verdict": "Q7, bütçe önceliği olan ve interkomu ağırlıkla telefon ile navigasyon için kullanacak sürücüler için mantıklı. IP67 ve USB-C fiyatına göre güzel sürprizler. Ses kalitesi, servis ve garanti tarafında yerleşik markaların güvencesini beklememek gerekir.",
+    "rivals": [
+      "ejeas/q8",
+      "sena/5r",
+      "cardo/spirit-hd"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Q7 ile kaç kişi konuşabilir?",
+        "a": "Üretici aynı anda iki kişinin konuşabildiğini belirtiyor; 7 cihaza kadar eşleştirme yapılabiliyor ama konuşma ikili."
+      },
+      {
+        "q": "Q7 suya dayanıklı mı?",
+        "a": "Üretici IP67 su geçirmezlik belirtiyor."
+      },
+      {
+        "q": "Pil ne kadar dayanır?",
+        "a": "Üretici 750 mAh pil ve 22–30 saat pil ömrü veriyor; süre kullanım şekline göre değişir."
+      }
+    ],
+    "manufacturerUrl": "https://www.ejeas.com/products/q7",
+    "sources": [
+      {
+        "url": "https://www.ejeas.com/products/q7",
+        "type": "manufacturer",
+        "label": "EJEAS – Q7 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 800,
+      "talkTimeHours": null,
+      "chargeTimeHours": 3,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "HIFI-M8H hoparlör",
+      "waterproof": "IP67",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "EJEAS uygulaması",
+      "inBox": [
+        "Q7 ünitesi",
+        "HIFI-M8H kulaklık seti",
+        "Klips",
+        "USB-C şarj kablosu",
+        "4 cırt bant",
+        "Kullanım kılavuzu"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.talkTimeHours",
+      "specs.fastCharge",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  },
+  {
+    "slug": "q8",
+    "brand": "ejeas",
+    "name": "Q8",
+    "subcategories": [
+      "mesh-interkom"
+    ],
+    "summary": "Bütçe sınıfında mesh: 6 kişilik mesh grup, 1 km menzil, 5 kanal, IP67 ve USB-C. Küçük gruplar için ucuz mesh deneyimi.",
+    "description": [
+      "EJEAS Q8, markanın uygun fiyatlı mesh modeli. Üretici 6 kişinin aynı anda konuşabildiği mesh grup, 1 km civarında menzil, beş farklı kanal ve sınırsız dinleyici modu belirtiyor. Mesh'e ek olarak klasik iki kişilik Bluetooth interkom da var; uygulama üzerinden kurulan grup ile kişi sayısı ve mesafe artırılabiliyor.",
+      "Pil kapasitesi 950 mAh; üretici Mesh interkomda 9, Bluetooth interkomda 17 ve müzikte 29 saat kullanım veriyor. Şarj süresi 40–45 dakika. IP67 su geçirmezlik, USB-C, müzik paylaşımı, FM radyo ve iki telefon bağlantısı mevcut.",
+      "EJEAS mesh'i Sena, Cardo veya Midland mesh'iyle konuşmuyor; grubun tamamının EJEAS kullanması gerekiyor. Mesh'te 9 saatlik süre uzun bir tur gününde sınırda kalabilir."
+    ],
+    "forWho": [
+      "Küçük bir arkadaş grubuyla düşük bütçeyle mesh kurmak isteyenler",
+      "Kuryelik yapan ve aynı ekiple konuşması gereken sürücüler",
+      "Su geçirmez ve hızlı şarj olan ünite arayanlar"
+    ],
+    "notFor": [
+      "Grubu Sena veya Cardo kullananlar",
+      "Mesh'te uzun pil süresi bekleyenler"
+    ],
+    "pros": [
+      "Bütçe sınıfında mesh",
+      "40–45 dakikada tam şarj",
+      "IP67 ve USB-C",
+      "Beş kanal ve sınırsız dinleyici modu"
+    ],
+    "cons": [
+      "Mesh yalnız EJEAS cihazlarla",
+      "Mesh'te 9 saat konuşma süresi",
+      "Türkiye'de yetkili satıcı ve garanti koşulları belirsiz"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli; mesh özelliği tek başına kullanımda boşa kalır.",
+      "ciftSurucu": "İki kişi Bluetooth ya da mesh ile rahat konuşur.",
+      "grup": "6 kişiye kadar EJEAS grubunda ekonomik bir mesh çözümü.",
+      "uzunYol": "Mesh'te 9 saat sınırlı; hızlı şarj molalarda telafi sağlar.",
+      "sehir": "Şehirde pratik; IP67 yağmurda güven veriyor.",
+      "kurye": "Aynı ekipteki kuryelerin birbirine ulaşması için ucuz bir mesh seçeneği; yalnız aynı markayla çalıştığını unutma."
+    },
+    "verdict": "Q8, küçük bir grubu düşük maliyetle mesh'e taşımak için cazip. Hızlı şarj ve IP67 güçlü yanlar. Ancak mesh yalnız EJEAS ile çalışıyor ve pil süresi mesh'te kısa; grubun tamamı aynı cihazı almayacaksa avantajı kaybolur.",
+    "rivals": [
+      "ejeas/q7",
+      "midland/r1-mesh",
+      "sena/spider-st1"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Q8, Sena veya Cardo ile mesh üzerinden konuşur mu?",
+        "a": "Hayır. EJEAS mesh'i yalnız EJEAS cihazlarla çalışıyor; diğer markalarla iki kişilik Bluetooth interkom denenebilir."
+      },
+      {
+        "q": "Şarj ne kadar sürüyor?",
+        "a": "Üretici 40–45 dakikalık şarj süresi belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.ejeas.com/products/q8",
+    "sources": [
+      {
+        "url": "https://www.ejeas.com/products/q8",
+        "type": "manufacturer",
+        "label": "EJEAS – Q8 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": true,
+      "meshTech": "EJEAS Mesh (yalnız EJEAS cihazlarla)",
+      "meshMaxRiders": 6,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 1000,
+      "talkTimeHours": 17,
+      "chargeTimeHours": 0.75,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "HIFI-M8H hoparlör",
+      "waterproof": "IP67",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "EJEAS uygulaması",
+      "inBox": [
+        "Q8 ünitesi",
+        "HIFI-M8H kulaklık seti",
+        "Klips",
+        "USB-C şarj kablosu",
+        "4 cırt bant",
+        "Kullanım kılavuzu"
+      ]
+    },
+    "category": "interkom",
+    "status": "active",
+    "successor": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "lastCheckedAt": "2026-10-07",
+    "unverified": [
+      "specs.fastCharge",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "priceRange": null
+  }
+]
