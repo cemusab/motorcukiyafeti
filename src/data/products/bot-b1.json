@@ -1,0 +1,2463 @@
+[
+  {
+    "slug": "supertech-r",
+    "brand": "alpinestars",
+    "name": "Supertech R",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın üst seviye pist botu: ayrı biyomekanik iç patik, TPU kaval plakası, değiştirilebilir alüminyum burun ve topuk kaydırıcıları, EN 13634:2017 sertifikası.",
+    "description": [
+      "Supertech R, Alpinestars'ın yarış ekiplerine verdiği botun satıştaki karşılığı. Dış gövde teknik mikrofiberden, içeride ise 3D file kumaştan ayrı bir biyomekanik patik var. Bu iç patik bileği sabitleyen ve darbeyi sönümleyen pedler taşıyor; dış gövdedeki TPU kaval plakası, vites tarafındaki TPU panel ve vidalı TPU-alüminyum burun kaydırıcısı ise sürtünme ve darbeye karşı ikinci katmanı oluşturuyor. Topuk ve kaval kaydırıcıları değiştirilebilir.",
+      "Giyme sistemi yan fermuar ve esneyen TPU panelden oluşuyor; üstte cırt bantlı fermuar kilidi ve baldır hacmine göre ayarlanan mikro ayarlı cırcır var. Alpinestars bir çiftin ağırlığını numaraya göre yaklaşık 2,1–2,74 kg olarak veriyor. Bot EN 13634:2017'ye göre sertifikalı; üretici performans kodunu sayfada paylaşmıyor. Su geçirmezlik için bir membran belirtilmiyor; bu bir pist ve sportif yol botu."
+    ],
+    "forWho": [
+      "Track day ve kulvar yarışlarına katılan sürücüler",
+      "Supersport motosikletle hızlı yol sürüşü yapan ve en yüksek bot korumasını isteyenler",
+      "Yıllarca kullanıp kaydırıcı ve parça değiştirerek ömrünü uzatmak isteyenler"
+    ],
+    "notFor": [
+      "Günlük kurye işi ve sık inip binme: yürümesi zahmetli, giyip çıkarması uzun",
+      "Yağmurda uzun yol: su geçirmez membran belirtilmiyor"
+    ],
+    "pros": [
+      "Ayrı iç patik ile bilek burulmasına karşı çift katmanlı yapı",
+      "Kaval, burun, topuk ve vites bölgesinde TPU koruma",
+      "Değiştirilebilir kaydırıcılar bakım maliyetini düşürüyor",
+      "EN 13634:2017 sertifikalı"
+    ],
+    "cons": [
+      "Türkiye'de fiyatı çok yüksek",
+      "Yürüme konforu düşük, sokakta uzun süre giyilecek bir bot değil",
+      "EN 13634 performans kodu üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde kullanılabilir ama sert yapısı yüzünden yürümek yorucu.",
+      "uzunYol": "Spor motosikletle hızlı turlarda uygun; mola yerlerinde yürüme konforu sınırlı.",
+      "yaz": "İç patik file kumaştan, ama tam kapalı bir pist botu olduğu için sıcakta havalı versiyon kadar serin değil.",
+      "kis": "Yalıtım bilgisi yok; soğukta kalın çorap gerekir.",
+      "yagmur": "Membran belirtilmiyor; yağmurda ayağın ıslanmasını bekle.",
+      "sport": "Asıl amacı bu: pist ve sportif sürüş."
+    },
+    "verdict": "Supertech R, pistte ve sportif sürüşte ayak bileğine en çok korumayı veren botlardan biri; ayrı iç patik ve değiştirilebilir parçalar bu fiyatın karşılığını veriyor. Günlük kullanım, yağmur ve yürüme gerektiren işler için yanlış seçim; bu bot yalnızca hızlı sürüş için alınmalı.",
+    "rivals": [
+      "dainese/axial-2",
+      "sidi/rex",
+      "alpinestars/smx-plus-v2"
+    ],
+    "priceRange": {
+      "min": 46080,
+      "max": 46080,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-supertech-r-korumali-spor-motosiklet-botu-siyah",
+        "price": 46080,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Supertech R ile Supertech R Vented arasındaki fark ne?",
+        "a": "Vented, sıcak hava için havalandırma delikleri eklenmiş versiyondur. Bu kayıt standart Supertech R içindir."
+      },
+      {
+        "q": "Botun ağırlığı ne kadar?",
+        "a": "Alpinestars bir çift için numaraya göre yaklaşık 2,1–2,74 kg veriyor."
+      },
+      {
+        "q": "Kaydırıcılar değişiyor mu?",
+        "a": "Evet. Burun, kaval ve topuk kaydırıcıları değiştirilebilir parçalar olarak tasarlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/supertech-r-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/supertech-r-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – Supertech R Boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-supertech-r-korumali-spor-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Supertech R Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Teknik mikrofiber dış gövde, 3D file iç patik, TPU kaval plakası, TPU-alüminyum burun kaydırıcısı, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "3D file iç patik",
+      "closure": "Yan fermuar + esnek TPU panel, cırt bantlı fermuar kilidi, mikro ayarlı üst cırcır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "smx-plus-v2",
+    "brand": "alpinestars",
+    "name": "SMX Plus v2",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Multi-Link Control bilek sistemli, mikrofiber gövdeli, değiştirilebilir kaydırıcılı sportif yol ve track day botu; EN 13634:2017 sertifikalı.",
+    "description": [
+      "SMX Plus v2, Alpinestars'ın Supertech R'ın altında konumlanan sportif botu. Hafif mikrofiber gövdenin dışında Alpinestars'ın Multi-Link Control (MLC) sistemi var; bu harici yapı bileğin aşırı dönmesini, aşırı öne ve arkaya bükülmesini sınırlarken vites ve fren için hareket alanı bırakıyor. Kaval plakası yüksek modüllü plastikten, topuk sertliği bileğe kadar uzanıyor ve şok emici pedle destekleniyor.",
+      "Burun kaydırıcısı vidalı ve çift yoğunluklu TPU; topuk ve yan topuk kaydırıcıları da değiştirilebilir. Kapanış, iç tarafta hızlı bağcık (Lace-Lock), dışta fermuar ve üstte mikro ayarlı cırcırla yapılıyor. Kaval ve topuk TPU'sunda havalandırma kanalları bulunuyor. Bot CE EN 13634:2017'ye göre sertifikalı; performans kodu üretici sayfasında verilmiyor."
+    ],
+    "forWho": [
+      "Track day'e yeni başlayan veya yılda birkaç pist günü yapan sürücüler",
+      "Spor ve naked motosikletle hızlı yol sürüşü yapanlar",
+      "Supertech R bütçesini zorlayan ama ciddi bilek koruması isteyenler"
+    ],
+    "notFor": [
+      "Kurye ve gün boyu yürüme gerektiren işler",
+      "Yağmurlu uzun yol: su geçirmez membran yok"
+    ],
+    "pros": [
+      "Harici MLC bilek sistemi",
+      "Değiştirilebilir burun ve topuk kaydırıcıları",
+      "36–48 arası geniş numara aralığı",
+      "EN 13634:2017 sertifikalı"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Su geçirmez değil",
+      "Yürüme konforu sportif bot seviyesinde, sınırlı"
+    ],
+    "usage": {
+      "sehir": "Kısa mesafede olur ama sert gövde nedeniyle yürümek rahat değil.",
+      "uzunYol": "Kuru havada spor turlar için uygun.",
+      "yaz": "Kaval ve topukta havalandırma kanalları var; tam havalı bir bot değil.",
+      "kis": "Yalıtım bilgisi yok.",
+      "yagmur": "Membran olmadığı için uygun değil.",
+      "sport": "Asıl kullanım alanı: track day ve sportif yol."
+    },
+    "verdict": "SMX Plus v2, harici bilek sistemi ve değiştirilebilir parçalarıyla pist botu korumasına yaklaşan ama daha erişilebilir bir model. Su geçirmezlik ve yürüme konforu beklentisi olanlar için yanlış tercih; kuru havada hızlı sürüş için dengeli bir seçenek.",
+    "rivals": [
+      "alpinestars/supertech-r",
+      "sidi/rex",
+      "alpinestars/smx-6-v3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "SMX Plus v2 ile SMX-6 v3 arasındaki fark ne?",
+        "a": "SMX Plus v2 harici Multi-Link Control bilek sistemi ve daha yüksek kaval korumasıyla daha pist odaklıdır; SMX-6 v3 daha hafif ve günlük sportif kullanıma yakındır."
+      },
+      {
+        "q": "Havalandırmalı versiyonu var mı?",
+        "a": "Evet, Alpinestars SMX Plus v2 Vented adıyla delikli bir versiyon da satıyor. Bu kayıt standart versiyon içindir."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/smx-plus-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/smx-plus-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – SMX Plus V2 Boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Mikrofiber gövde, TPU kaval plakası, çift yoğunluklu TPU burun kaydırıcısı, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Kaval ve topuk TPU'sunda havalandırma kanalları",
+      "closure": "İç hızlı bağcık (Lace-Lock) + dış fermuar + mikro ayarlı üst cırcır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "toucan-gore-tex",
+    "brand": "alpinestars",
+    "name": "Toucan Gore-Tex",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tam deri ve süet gövdeli, Gore-Tex membranlı, alüminyum tokalı adventure botu; yanal bilek bağlantı sistemi ve dikey kaval bıçağıyla hem asfalt hem toprak için.",
+    "description": [
+      "Toucan Gore-Tex, Alpinestars'ın uzun süredir satıştaki adventure botu. Gövde deri ve süetten, içeride yüzde yüz su geçirmez olarak tanımlanan Gore-Tex membran var. Bilek dışında üst bot ile ayak bölümünü bağlayan esnek bir koruma sistemi, plastik kaval koruyucuda ise öne ve arkaya hareketi kontrol eden dikey bıçak yapısı bulunuyor. Topuk dıştan kalıplanmış bir koruyucu içinde, burun ve topuk sertliği iç tarafta TPU katmanla güçlendirilmiş.",
+      "Kapanış, değiştirilebilir ince alüminyum tokalar ile cırt bant kombinasyonu; geniş giriş ağzı baldır ölçüsüne göre ayar yapmayı kolaylaştırıyor. Tabanda çelik şank, çıkarılabilir EVA tabanlık ve Alpinestars'ın kendi kauçuk karışımı var. Üretici botu 'tamamen CE sertifikalı' olarak tanımlıyor ancak sayfada standart numarası ve performans kodu yazmıyor."
+    ],
+    "forWho": [
+      "Adventure motosikletle asfalt ve stabilize yolu birlikte kullanan sürücüler",
+      "Uzun turda yağmura yakalanmayı göze alan ve su geçirmezlik isteyenler",
+      "Toprakta ayakta sürüşte bilek ve kaval desteği arayanlar"
+    ],
+    "notFor": [
+      "Kurye ve şehir içi sık inip binme: uzun ve tokalı yapısı pratik değil",
+      "Pist ve sportif sürüş"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "Değiştirilebilir alüminyum tokalar",
+      "Yanal bilek bağlantı sistemi ve dikey kaval bıçağı",
+      "Çelik şanklı taban ayakta sürüşte destek veriyor"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Üretici sayfasında EN standart numarası ve kodu yok",
+      "Ağır ve uzun bir bot; yazın sıcak"
+    ],
+    "usage": {
+      "sehir": "Şehirde giyilir ama tokalı uzun yapısı günlük kullanımda hantal kalır.",
+      "uzunYol": "Güçlü olduğu alan: membran, destek ve yürünebilir taban bir arada.",
+      "yaz": "Yan havalandırma olsa da deri ve membran nedeniyle sıcakta ayak ısınır.",
+      "kis": "Membran rüzgâr ve suyu keser; yalıtım bilgisi verilmiyor.",
+      "yagmur": "Gore-Tex membran sayesinde uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Toucan Gore-Tex, adventure sürüşte su geçirmezlik ve bilek desteğini birlikte isteyen sürücü için olgun bir tasarım. Sertifika detayının üretici sayfasında eksik olması ve Türkiye'de bulunurluğunun zayıf olması alırken dikkat edilecek noktalar.",
+    "rivals": [
+      "sidi/adventure-2-gore",
+      "tcx/drifter-wp",
+      "dainese/seeker-gore-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Toucan Gore-Tex su geçirmez mi?",
+        "a": "Evet. Alpinestars botu yüzde yüz su geçirmez Gore-Tex membranla tanımlıyor."
+      },
+      {
+        "q": "Tokalar değişiyor mu?",
+        "a": "Evet, alüminyum tokalar değiştirilebilir ve hafızalı ayar sistemine sahip."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/toucan-gore-tex-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/toucan-gore-tex-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – Toucan GORE-TEX Boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam deri ve süet gövde, polimer kaval koruyucu, TPU burun ve topuk takviyesi, çelik şanklı kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": "Yan havalandırma, file üst yaka",
+      "closure": "Değiştirilebilir alüminyum tokalar + cırt bant",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tech-10",
+    "brand": "alpinestars",
+    "name": "Tech 10",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın motokros ve supercross için en üst botu: iç bilek desteği, çift pivot sistemi, aşırı gerilmeyi sınırlayan arka bıçak ve EN 13634:2017 sertifikası.",
+    "description": [
+      "Tech 10, Alpinestars'ın arazi tarafındaki amiral gemisi bot. Mikrofiber gövde, darbe ve aşınmaya dayanıklı TPU kabukla kaplanmış. İçeride yeniden tasarlanan biyomekanik bilek desteği (inner ankle brace), dışta ise asimetrik çift pivot kolları var; bu yapı bileğin yanal ve dikey yüklenmesini sınırlarken doğal hareketi koruyor. Arka tarafta çift yoğunluklu TPU bıçak aşırı gerilmeyi önlüyor, patentli çökebilen topuk (DHCP) ise sert inişlerde darbeyi emiyor.",
+      "Önden arkaya uzanan Frontal Flex Frame ve 'yüzen' TPU bağlantılar alt ve üst bot arasında bükülmeyi kontrol ediyor. Kapanış, kendiliğinden hizalanan soğuk dövme alüminyum tokalarla yapılıyor. Bot EN 13634:2017'ye göre sertifikalı. Bu bir motokros/enduro botu; asfaltta yürümek ve günlük kullanım için tasarlanmamış."
+    ],
+    "forWho": [
+      "Motokros ve supercross sürücüleri",
+      "Sert enduro parkurlarında en yüksek bilek ve diz koruması isteyenler",
+      "Yarışçı veya düzenli pist motokrosu yapan amatörler"
+    ],
+    "notFor": [
+      "Asfalt, şehir ve kurye kullanımı",
+      "Adventure turlarında uzun yürüyüş: taban ve sertlik buna göre değil"
+    ],
+    "pros": [
+      "İç bilek desteği + çift pivot sistemi",
+      "Çökebilen topuk ile sert iniş koruması",
+      "Alüminyum, kendiliğinden hizalanan tokalar",
+      "Türkiye'de stokta bulunuyor"
+    ],
+    "cons": [
+      "Çok pahalı",
+      "Su geçirmez değil",
+      "Yürümek için ağır ve sert"
+    ],
+    "usage": {
+      "sehir": "Uygun değil.",
+      "uzunYol": "Uygun değil; motokros botu.",
+      "yaz": "Kapalı bir arazi botu; sıcakta terletir.",
+      "kis": "Yalıtım yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asfalt sporu için değil; motokros ve enduro için."
+    },
+    "verdict": "Tech 10, motokrosta koruma tavanını temsil eden botlardan biri ve bunun karşılığında fiyatı da tavanda. Asfalt veya adventure turu için alınmamalı; yalnızca arazi pistinde ve sert enduro parkurunda anlamlı.",
+    "rivals": [
+      "alpinestars/toucan-gore-tex",
+      "forma/adventure-pro-dry"
+    ],
+    "priceRange": {
+      "min": 50040,
+      "max": 50040,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-tech-10-kros-motosiklet-botu-siyah",
+        "price": 50040,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tech 10 asfaltta kullanılır mı?",
+        "a": "Teknik olarak giyilir ama tabanı ve sertliği arazi için. Asfalt için sport veya touring botu seçmek daha doğru."
+      },
+      {
+        "q": "Sertifikası var mı?",
+        "a": "Evet, Alpinestars Tech 10'un EN 13634:2017'ye göre bağımsız olarak doğrulandığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/tech-10-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/tech-10-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – Tech 10 Boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-tech-10-kros-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Tech 10 Kros Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Beyaz"
+    ],
+    "sizes": [
+      "US 7",
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11",
+      "US 12",
+      "US 13",
+      "US 14"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Mikrofiber gövde, TPU dış kabuk, çift yoğunluklu TPU bağlantılar, alüminyum tokalar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Soğuk dövme alüminyum, kendiliğinden hizalanan tokalar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "faster-3-rideknit",
+    "brand": "alpinestars",
+    "name": "Faster-3 Rideknit",
+    "category": "bot",
+    "subcategories": [
+      "sehir-botu",
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Hafif mikrofiber gövdeli, file astarlı, TPR topuk sertliği olan sportif kısa motosiklet ayakkabısı; CE EN 13634:2017.",
+    "description": [
+      "Faster-3 Rideknit, Alpinestars'ın yol için tasarladığı sportif kısa ayakkabısının erkek versiyonu. Üst gövde hafif ve aşınmaya dayanıklı mikrofiberden, içi nefes alan 3D file astarla kaplı; topukta kaymayı önleyen mikro süet var. Yeni tasarlanan TPR topuk sertliği yanal destek veriyor, Lycra kaplı EVA tabanlık değiştirilebiliyor.",
+      "Ayakkabı CE EN 13634:2017'ye göre sertifikalı; performans kodu üretici sayfasında verilmiyor. Su geçirmez membranı yok; bu nedenle sıcak ve kuru havada şehir ve kısa sportif sürüş için tasarlanmış bir model. Kadın versiyonu Stella Faster-3 Rideknit adıyla ayrıca satılıyor."
+    ],
+    "forWho": [
+      "Yazın şehir içinde ve kısa turlarda hafif ayakkabı isteyen sürücüler",
+      "Naked ve spor motosiklet sahipleri",
+      "Kuryeler: yürümesi kolay ve hafif"
+    ],
+    "notFor": [
+      "Yağmurlu havalar: membran yok",
+      "Pist ve hızlı sportif sürüş: kaval ve yüksek bilek koruması yok"
+    ],
+    "pros": [
+      "Hafif ve nefes alan yapı",
+      "EN 13634:2017 sertifikalı",
+      "Türkiye'de Motomax'ta satılıyor",
+      "Değiştirilebilir EVA tabanlık"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Kısa konç; uzun botların bilek korumasını vermez",
+      "Performans kodu üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; yürüyüşte ve trafikte rahat.",
+      "uzunYol": "Kısa ve kuru turlar için uygun.",
+      "yaz": "File astar sayesinde sıcakta rahat.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Yol sporu için hafif bir seçenek; pistte uzun bot gerekir.",
+      "kurye": "Hafif ve yürünebilir olduğu için kuru havada kurye kullanımına uygun."
+    },
+    "verdict": "Faster-3 Rideknit, sıcak havada şehirde ve kısa sportif sürüşte hafif ve sertifikalı bir ayakkabı arayanlar için mantıklı. Yağmur ve pist için tasarlanmadığını bilerek alınmalı.",
+    "rivals": [
+      "alpinestars/stella-faster-3-rideknit",
+      "tcx/street-3-wp",
+      "held/montaro-wp"
+    ],
+    "priceRange": {
+      "min": 9260,
+      "max": 9260,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "İndirimli fiyat; liste fiyatı 12.340 TL. Kontrol tarihinde stokta görünmüyordu."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-faster-3-rideknit-korumali-motosiklet-botu-siyah-/-siyah",
+        "price": 12340,
+        "salePrice": 9260,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Faster-3 Rideknit su geçirmez mi?",
+        "a": "Hayır. File astarlı, membransız bir yaz ayakkabısı."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Evet, Stella Faster-3 Rideknit adıyla kadın kalıbında satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/faster-3-rideknit-sup-reg-sup-shoes",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/faster-3-rideknit-sup-reg-sup-shoes",
+        "type": "manufacturer",
+        "label": "Alpinestars – Faster-3 Rideknit Shoes ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-faster-3-rideknit-korumali-motosiklet-botu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Faster-3 Rideknit Siyah/Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "US 6",
+      "US 6.5",
+      "US 7",
+      "US 7.5",
+      "US 8",
+      "US 8.5",
+      "US 9",
+      "US 9.5",
+      "US 10",
+      "US 10.5",
+      "US 11",
+      "US 11.5",
+      "US 12",
+      "US 12.5",
+      "US 13",
+      "US 13.5",
+      "US 14"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Mikrofiber üst gövde, 3D file astar, TPR topuk sertliği, EVA tabanlık",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "3D file astar",
+      "closure": "Bağcık",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-smx-6-v3",
+    "brand": "alpinestars",
+    "name": "Stella SMX-6 v3",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın ayak kalıbına göre tasarlanmış, TPU bilek desteği ve kaval plakası olan, vidalı değiştirilebilir burun kaydırıcılı sportif bot; EN 13634:2017.",
+    "description": [
+      "Stella SMX-6 v3, Alpinestars'ın en çok satan sportif botu SMX-6 v3'ün kadın kalıbı. Mikrofiber üst gövde, ön ve arka esneme bölgelerinde 3D file üzerine enjekte edilmiş yumuşak TPU ile birleşiyor. Dış yanda TPU bilek desteği baldır, kaval ve bilek arasında biyomekanik bir bağlantı kuruyor; vites bölgesinde TPU koruma, ön tarafta kompakt kaval plakası ve arka baldırda TPU köprü var.",
+      "Burun kaydırıcıları vidalı ve değiştirilebilir. Giyme sistemi iç yandan esnek bağlantılı fermuar ve geniş cırt kapaktan oluşuyor; kompakt kaval yapısı sayesinde pantolon altına girmesi kolay. Tabanlık çift yoğunluklu EVA ve çıkarılabiliyor. Bot EN 13634:2017'ye göre sertifikalı; performans kodu üretici sayfasında yok."
+    ],
+    "forWho": [
+      "Sportif yol sürüşü yapan kadın sürücüler",
+      "Track day'e başlamak isteyen ve ilk ciddi botunu arayan kadınlar",
+      "Pantolon altına giyilebilecek kompakt bir bot isteyenler"
+    ],
+    "notFor": [
+      "Yağmurlu uzun yol: standart versiyonda membran yok",
+      "Kurye işi ve uzun yürüyüş"
+    ],
+    "pros": [
+      "Kadın ayak kalıbı",
+      "TPU bilek desteği ve kaval plakası",
+      "Değiştirilebilir burun kaydırıcıları",
+      "EN 13634:2017 sertifikalı"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Su geçirmez değil",
+      "Harici bilek sistemi olan üst seviye botların korumasına ulaşmaz"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde kullanılabilir; yürüme konforu sportif botlara göre iyi.",
+      "uzunYol": "Kuru havada sportif turlar için uygun.",
+      "yaz": "File destekli esneme bölgeleri var ama tam havalı değil.",
+      "kis": "Yalıtım bilgisi yok.",
+      "yagmur": "Standart versiyon su geçirmez değil; Drystar versiyonu ayrıca satılıyor.",
+      "sport": "Asıl kullanım alanı."
+    },
+    "verdict": "Stella SMX-6 v3, kadın sürücüye özel kalıpla sportif bot korumasını makul bir seviyede sunuyor. Yağmur için Drystar versiyonu, pist için daha üst seviye botlar değerlendirilmeli.",
+    "rivals": [
+      "alpinestars/smx-6-v3",
+      "alpinestars/smx-plus-v2",
+      "dainese/freeland-2-gore-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "SMX-6 v3 ile farkı ne?",
+        "a": "Teknik olarak aynı aileden; Stella versiyonu kadın ayak kalıbına göre tasarlanmış ve 36–43 numara aralığında satılıyor."
+      },
+      {
+        "q": "Su geçirmez versiyonu var mı?",
+        "a": "Alpinestars Stella SMX-6 v3 Drystar adıyla membranlı bir versiyon da satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-smx-6-v3-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-smx-6-v3-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – Stella SMX-6 V3 Boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah / Beyaz"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Mikrofiber üst gövde, TPU bilek desteği, TPU kaval plakası, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İç yan fermuar + geniş cırt kapak",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "axial-2",
+    "brand": "dainese",
+    "name": "Axial 2",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Dainese'nin MotoGP kökenli yarış botu: karbon-aramid Axial burulma kontrol sistemi, magnezyum kaydırıcılar, Groundtrax yarış tabanı ve tulumla birleşen IN yapısı.",
+    "description": [
+      "Axial 2, Dainese'nin en üst yarış botu ve markanın MotoGP sürücülerinin kullandığı botun güncel nesli. Bileğin burulmasını ve aşırı bükülmesini sınırlayan D-Axial sistemi karbon ve aramid elyaftan yapılmış. Gövde mikrofiber ve Dainese'nin çok dayanıklı D-Stone kumaşından; bilek ve topuktaki magnezyum kapaklar ile kaydırıcılar çıkarılıp değiştirilebiliyor. Burun naylonla güçlendirilmiş, vites bölgesinde TPU koruma var.",
+      "Bot 'IN' yapısında: tulumun bacağı botun üzerine değil içine girecek şekilde tasarlanmış ve cırtla tulumla birleşiyor. Kapanış arkadan fermuar ve içte hızlı bağcık sistemiyle yapılıyor. Groundtrax yarış tabanı tutuş ve ısı dayanımına odaklanıyor. Dainese botu CE Kat. II EN 13634 standardına göre sertifikalı olarak tanımlıyor; standart yılı ve performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Pistte düzenli süren ve Dainese tulum kullanan sürücüler",
+      "Kulvar yarışçıları",
+      "En üst seviye bilek burulma koruması isteyenler"
+    ],
+    "notFor": [
+      "Günlük kullanım ve kurye işi",
+      "Yol sürüşünde pantolon üstüne giymek: IN yapısı tulum için tasarlanmış"
+    ],
+    "pros": [
+      "Karbon-aramid Axial burulma kontrol sistemi",
+      "Değiştirilebilir magnezyum kaydırıcılar",
+      "Tulumla birleşen IN yapısı",
+      "Türkiye'de Mototaş'ta stokta"
+    ],
+    "cons": [
+      "Çok pahalı",
+      "Yalnız pist ve sportif sürüş için anlamlı",
+      "EN 13634 kodu sayfada belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Uygun değil.",
+      "uzunYol": "Uygun değil; yürüme konforu ve su koruması yok.",
+      "yaz": "İçte hava aralıklı astar var; sıcak pist günleri için ayrıca Axial 2 Air versiyonu satılıyor.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: pist ve yarış."
+    },
+    "verdict": "Axial 2, bilek burulma koruması ve pist detaylarında sınıfının en iddialı botlarından biri; değiştirilebilir magnezyum parçaları uzun vadede işe yarıyor. Fiyatı ve IN yapısı nedeniyle yalnızca pistte düzenli süren sürücüler için mantıklı.",
+    "rivals": [
+      "alpinestars/supertech-r",
+      "sidi/rex",
+      "alpinestars/smx-plus-v2"
+    ],
+    "priceRange": {
+      "min": 47890,
+      "max": 47890,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-botaxial-2-boots-black-red-fluo-41--39053",
+        "price": 47890,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Kırmızı Fluo"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "IN yapısı ne demek?",
+        "a": "Tulumun paçası botun içine girer ve cırtla bota bağlanır. Bu, kayma sırasında paçanın sıyrılmasını önlemek için yarış tulumlarıyla kullanılan bir çözümdür."
+      },
+      {
+        "q": "Kaydırıcılar değiştirilebilir mi?",
+        "a": "Evet. Dainese magnezyum, paslanmaz çelik ve plastik kaydırıcı kitlerini yedek parça olarak satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/axial-2---mens-motorcycle-racing-boots-2017900052628.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/axial-2---mens-motorcycle-racing-boots-2017900052628.html",
+        "type": "manufacturer",
+        "label": "Dainese – Axial 2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-botaxial-2-boots-black-red-fluo-41--39053",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Axial 2 Black Red Fluo",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah / Kırmızı Fluo"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "D-Stone kumaş, mikrofiber üst gövde, karbon-aramid D-Axial sistemi, magnezyum kapak ve kaydırıcılar, Groundtrax taban",
+      "materialClass": "karma",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Çift jarse hava aralıklı astar",
+      "closure": "Arka fermuar + iç hızlı bağcık; tulumla cırtlı bağlantı (IN)",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "seeker-gore-tex",
+    "brand": "dainese",
+    "name": "Seeker Gore-Tex",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tam tahıllı inek derisi, Gore-Tex Performance Comfort membran, Pro-Armor kaval koruyucu ve asimetrik Groundtrax tabanlı Dainese adventure touring botu.",
+    "description": [
+      "Seeker Gore-Tex, Dainese'nin adventure touring botu. Üst gövde tam tahıllı inek derisinden, iç tarafta motosiklete temas eden bölümde bölünmüş deri var. Kaval koruyucusu Dainese'nin Pro-Armor teknolojisiyle yapılmış; bilekte sert takviyeler, ayak üstünde ise kayan TPU plakalardan oluşan Flex Dynamic Armor bulunuyor. Vites bölgesi TPU ile korunmuş.",
+      "Kapanış iki ayarlanabilir metal toka ve içte çift metal kollu QuickLacing bağcık sistemiyle yapılıyor; baldır kayışlarla ayarlanabiliyor. Gore-Tex Performance Comfort membran suyu dışarıda tutarken nefes alıyor. Asimetrik Groundtrax tabanda vites ve fren bölgeleri farklı tasarlanmış. Dainese botu CE Kat. II EN 13634 ve isteğe bağlı IPS testiyle sertifikalı olarak tanımlıyor; performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Adventure motosikletle uzun tur yapan ve toprak yola giren sürücüler",
+      "Tüm hava koşullarında su geçirmezlik isteyenler",
+      "Kaval ve bilek korumasında touring botundan fazlasını arayanlar"
+    ],
+    "notFor": [
+      "Kurye ve şehir içi sık inip binme: tokalı ve yüksek yapı pratik değil",
+      "Pist ve sportif sürüş"
+    ],
+    "pros": [
+      "Gore-Tex Performance Comfort membran",
+      "Pro-Armor kaval ve Flex Dynamic Armor ayak üstü koruması",
+      "Metal tokalar + iç bağcık ile hassas oturuş",
+      "Türkiye'de Mototaş'ta satılıyor"
+    ],
+    "cons": [
+      "Deri ve membran nedeniyle yazın sıcak",
+      "EN 13634 performans kodu sayfada yok",
+      "Uzun ve ağır bir bot"
+    ],
+    "usage": {
+      "sehir": "Giyilir ama tokalı uzun yapı şehirde hantal.",
+      "uzunYol": "Güçlü olduğu alan; konfor ve su koruması bir arada.",
+      "yaz": "Sıcak havada ayak ısınır.",
+      "kis": "Membran soğuk ve ıslak havada işe yarar; kalın çorapla kullanılabilir.",
+      "yagmur": "Gore-Tex membranla uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Seeker Gore-Tex, uzun turda hem asfaltta hem toprakta kullanılacak, su geçirmez ve iyi korumalı bir adventure botu arayanlar için dengeli bir seçim. Yazın sıcak tutması ve şehirde hantal kalması kabul edilmesi gereken bedeller.",
+    "rivals": [
+      "alpinestars/toucan-gore-tex",
+      "sidi/adventure-2-gore",
+      "tcx/drifter-wp"
+    ],
+    "priceRange": {
+      "min": 31790,
+      "max": 31790,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ayakkabiseeker-g.tex-boots-black-black-28087",
+        "price": 31790,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Seeker Gore-Tex hangi zeminler için?",
+        "a": "Dainese botu hem asfalt hem toprak yol için adventure touring botu olarak konumluyor; taban asimetrik Groundtrax."
+      },
+      {
+        "q": "IPS testi nedir?",
+        "a": "Dainese, botun EN 13634'e ek olarak isteğe bağlı IPS testinden de geçtiğini belirtiyor; sayfada test sonucunun ayrıntısı verilmiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/seeker-gore-tex---mens-waterproof-motorcycle-touring-boots-201795241631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/seeker-gore-tex---mens-waterproof-motorcycle-touring-boots-201795241631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Seeker Gore-Tex ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ayakkabiseeker-g.tex-boots-black-black-28087",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Seeker Black Gore-Tex",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam tahıllı inek derisi, iç yanda bölünmüş deri, Pro-Armor kaval koruyucu, TPU ayak üstü plakaları, Groundtrax kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex Performance Comfort",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İki ayarlı metal toka + iç QuickLacing bağcık + baldır kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "freeland-2-gore-tex",
+    "brand": "dainese",
+    "name": "Freeland 2 Gore-Tex",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın ayak kalıbında, lazer delikli mikrofiber gövdeli, Gore-Tex membranlı, dört mevsim kullanım için hafif touring botu.",
+    "description": [
+      "Freeland 2 Gore-Tex, Dainese'nin kadın sürücüler için tasarladığı touring botu. Üst gövde lazerle delinmiş mikrofiberden, ön ve arkada geniş esnek kumaş paneller var; bu yapı botu hafif tutuyor ve yürürken rahat ediyor. İçteki Gore-Tex Performance Comfort membran suyu dışarıda tutarken nefes alıyor. Bilekte sert takviyeler, vites bölgesinde süet deri ve PU takviye bulunuyor.",
+      "Bot iç yandan fermuarla açılıyor ve baldırda tek kayışla ayarlanıyor. Ortholite tabanlık uzun süreli yastıklama sağlıyor; Groundtrax taban touring ve yürüme için tasarlanmış ve asimetrik yapıda. Yansıtıcı detaylar var. Dainese botu CE Kat. II EN 13634'e göre sertifikalı olarak tanımlıyor; performans kodu sayfada verilmiyor."
+    ],
+    "forWho": [
+      "Dört mevsim şehir ve tur sürüşü yapan kadın sürücüler",
+      "Yürüme konforunu öne alan, hafif bot isteyenler",
+      "Scooter ve touring motosiklet kullanıcıları"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş: kaval plakası ve burulma sistemi yok",
+      "Ağır arazi kullanımı"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "Kadın ayak kalıbı",
+      "Esnek paneller sayesinde hafif ve yürünebilir",
+      "Türkiye'de Mototaş'ta satılıyor"
+    ],
+    "cons": [
+      "Kaval koruması belirtilmiyor",
+      "Burulma kontrolü sınırlı",
+      "EN 13634 kodu sayfada yok"
+    ],
+    "usage": {
+      "sehir": "Fermuarlı yapısı ve yürüme konforuyla şehirde pratik.",
+      "uzunYol": "Touring için tasarlanmış; uzun günlerde rahat.",
+      "yaz": "Delikli mikrofiber ve nefes alan membran yardımcı olur, yine de membranlı bir bot.",
+      "kis": "Membran soğuk ve ıslak havada korur.",
+      "yagmur": "Gore-Tex ile uygun.",
+      "sport": "Uygun değil.",
+      "kurye": "Fermuarlı ve hafif olduğu için gün boyu inip binmede pratik."
+    },
+    "verdict": "Freeland 2 Gore-Tex, kadın sürücü için hafif, su geçirmez ve günlük kullanımda rahat bir touring botu. Sportif sürüşte beklenen kaval ve burulma korumasını vermediği unutulmamalı.",
+    "rivals": [
+      "alpinestars/stella-smx-6-v3",
+      "ixs/tour-comfort-high-damen",
+      "buse/d20-damen"
+    ],
+    "priceRange": {
+      "min": 22190,
+      "max": 22190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-botfreeland-2-g.tex-boots-black-36-28462",
+        "price": 22190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Freeland 2 Gore-Tex su geçirmez mi?",
+        "a": "Evet, Gore-Tex Performance Comfort membranlı ve Dainese dört mevsim kullanım için tasarlandığını belirtiyor."
+      },
+      {
+        "q": "Nasıl giyiliyor?",
+        "a": "İç yandaki fermuarla açılıyor, baldırda tek kayışla ayarlanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/freeland-2-gore-tex---womens-waterproof-motorcycle-touring-boots-2017900188001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/freeland-2-gore-tex---womens-waterproof-motorcycle-touring-boots-2017900188001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Freeland 2 Gore-Tex (kadın) ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-botfreeland-2-g.tex-boots-black-36-28462",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Freeland 2 Black Gore-Tex Kadın Bot",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Lazer delikli mikrofiber, esnek kumaş paneller, süet ve PU vites takviyesi, Groundtrax taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex Performance Comfort",
+      "airbagCompatible": null,
+      "ventilation": "Lazer delikli mikrofiber",
+      "closure": "İç yan fermuar + baldır kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "street-3-wp",
+    "brand": "tcx",
+    "name": "Street 3 WP",
+    "category": "bot",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Süet deri, T-Dry su geçirmez membran, bilekte D3O ve tabanda Zplate ezilme koruması olan sneaker görünümlü şehir ayakkabısı; EN 13634 sertifikalı.",
+    "description": [
+      "Street 3 WP, TCX'in en bilinen şehir ayakkabısı serisinin su geçirmez versiyonu. Üst yüzey süet deriden, içte T-Dry su geçirmez membran var. Burun ve topuk takviyeli; bilekte normalde yumuşak olan ama darbe anında sertleşen D3O ekler bulunuyor.",
+      "Tabandaki Z şeklindeki Zplate polimer ek, ayakkabıyı enine sert tutarak ezilmeye karşı koruyor, boyuna ise esneyerek yürümeyi kolaylaştırıyor. Ortholite tabanlık yastıklama ve nefes alma sağlıyor; Groundtrax taban kendi kendini temizleyen diş yapısına sahip. Bağcıklar dildeki elastik bantla saklanabiliyor. TCX ayakkabıyı CE Kat. II EN 13634'e göre sertifikalı olarak tanımlıyor; performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Kuryeler ve gün boyu inip binen şehir sürücüleri",
+      "Motosikletten inince ayakkabı değiştirmek istemeyenler",
+      "Scooter ve naked motosiklet kullanıcıları"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş: kaval koruması yok",
+      "Arazi ve adventure kullanımı"
+    ],
+    "pros": [
+      "T-Dry su geçirmez membran",
+      "Bilekte D3O, tabanda Zplate ezilme koruması",
+      "Sneaker görünümü ve yürüme konforu",
+      "Ortholite tabanlık"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Kısa konç, kaval koruması yok",
+      "Süet yüzey bakım ister"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan.",
+      "uzunYol": "Kısa turlar için yeterli; uzun yolda daha yüksek konçlu bot daha fazla koruma sağlar.",
+      "yaz": "Membranlı olduğu için sıcakta file ayakkabılar kadar serin değil.",
+      "kis": "Su geçirmez; yalıtım bilgisi yok.",
+      "yagmur": "T-Dry membran yağmurda ayağı kuru tutmayı hedefliyor.",
+      "sport": "Uygun değil.",
+      "kurye": "Yürünebilir, su geçirmez ve sertifikalı; kurye temposuna uygun."
+    },
+    "verdict": "Street 3 WP, şehirde her gün süren biri için sertifikalı korumayı sıradan bir sneaker rahatlığıyla birleştiriyor. Kısa konç ve kaval korumasının olmaması onu otoyol ve sportif sürüş yerine şehir kullanımına uygun kılıyor.",
+    "rivals": [
+      "held/montaro-wp",
+      "alpinestars/faster-3-rideknit"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Zplate ne işe yarıyor?",
+        "a": "Tabandaki Z şeklindeki polimer ek ayakkabıyı enine sert tutarak ezilmeye karşı korur, boyuna esneyerek yürümeyi kolaylaştırır."
+      },
+      {
+        "q": "D3O nedir?",
+        "a": "Normalde yumuşak olan, darbe anında sertleşen bir koruyucu malzeme. Street 3 WP'de bilek bölgesinde kullanılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tcxboots.com/gb/en/street-3-wp---black-white-2017700063622.html",
+    "sources": [
+      {
+        "url": "https://www.tcxboots.com/gb/en/street-3-wp---black-white-2017700063622.html",
+        "type": "manufacturer",
+        "label": "TCX – Street 3 WP ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart",
+      "sizes"
+    ],
+    "colors": [
+      "Siyah / Beyaz"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Süet deri üst, Zplate ara taban, Ortholite tabanlık, Groundtrax kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "T-Dry",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bağcık (gizlenebilir)",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "drifter-wp",
+    "brand": "tcx",
+    "name": "Drifter WP",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Eskitme görünümlü tam tahıllı deri, T-Dry membran, üç alüminyum toka ve dikişli 'Ideal' taban yapısıyla asfalt ve stabilize için adventure botu.",
+    "description": [
+      "Drifter WP, TCX'in klasik görünümlü adventure botu. Gövde pull-up bitişli tam tahıllı deriden, mikrofiber eklerle yapılmış; içte T-Dry su geçirmez membran var. Taban, çift dikiş ve ara tabanlık kullanan geleneksel 'Ideal' yöntemiyle bağlanmış; bu yapı sağlamlık sağlıyor. Kaval, bilek, burun ve topukta güçlendirilmiş poliüretan ekler, iç tarafta motor ısısına karşı süet koruma bulunuyor.",
+      "Kapanış değiştirilebilir ve mikro ayarlı üç alüminyum toka ile cırttan oluşuyor. Ön ve arkadaki mikrofiber körükler esnemeyi kolaylaştırıyor, üst yaka kir girmesini azaltıyor. Derin dişli taban asfalttan toprak yola kadar tutuş için tasarlanmış; Ortholite tabanlık ve yansıtıcı detaylar var. TCX botu CE Kat. II EN 13634'e göre sertifikalı olarak tanımlıyor; performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Adventure ve scrambler motosiklet sürücüleri",
+      "Asfalt ve stabilize yolu birlikte kullananlar",
+      "Klasik deri görünümü seven tur sürücüleri"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş",
+      "Kurye ve şehir içi sık inip binme: tokalı yapı zaman alır"
+    ],
+    "pros": [
+      "T-Dry su geçirmez membran",
+      "Dikişli, yeniden tabanlanabilir sağlam yapı",
+      "Üç değiştirilebilir alüminyum toka",
+      "Türkiye'de Vipmoto'da satılıyor"
+    ],
+    "cons": [
+      "Deri gövde ağır ve yazın sıcak",
+      "EN 13634 kodu sayfada yok",
+      "Burulma kontrol sistemi üst seviye adventure botlarındaki kadar gelişmiş değil"
+    ],
+    "usage": {
+      "sehir": "Giyilir, ama tokalı yüksek bot şehirde pratik değil.",
+      "uzunYol": "Uzun turda rahat ve su geçirmez.",
+      "yaz": "Sıcakta ayak ısınır.",
+      "kis": "Membran ve deri soğuk havada korur.",
+      "yagmur": "T-Dry membranla uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Drifter WP, klasik deri görünümü ile su geçirmez ve sağlam bir adventure botu arayanlara uygun. Üst seviye adventure botlarındaki gelişmiş burulma kontrolünü sunmadığı için ağır arazi yerine asfalt ve stabilize ağırlıklı kullanım için düşünülmeli.",
+    "rivals": [
+      "alpinestars/toucan-gore-tex",
+      "sidi/adventure-2-gore",
+      "forma/terra-evo-dry"
+    ],
+    "priceRange": {
+      "min": 16694,
+      "max": 16694,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/tcx-drifter-waterproof-motosiklet-botu",
+        "price": 16694,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "'Ideal' taban yapısı nedir?",
+        "a": "Tabanın çift dikiş ve ara tabanlık ile gövdeye bağlandığı geleneksel bir yöntem; sağlamlık ve uzun ömür hedefler."
+      },
+      {
+        "q": "Drifter WP su geçirmez mi?",
+        "a": "Evet, T-Dry su geçirmez membran kullanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tcxboots.com/gb/en/drifter-wp-mens-waterproof-motorcycle-touring-boots---dark-brown-20179T7160W005.html",
+    "sources": [
+      {
+        "url": "https://www.tcxboots.com/gb/en/drifter-wp-mens-waterproof-motorcycle-touring-boots---dark-brown-20179T7160W005.html",
+        "type": "manufacturer",
+        "label": "TCX – Drifter WP ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://vipmoto.com/tcx-drifter-waterproof-motosiklet-botu",
+        "type": "retailer",
+        "label": "Vipmoto – TCX Drifter WaterProof",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "colors": [
+      "Koyu kahverengi"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Pull-up bitişli tam tahıllı deri, mikrofiber ekler, poliüretan koruyucular, kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "T-Dry",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Üç değiştirilebilir alüminyum toka + cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "x-five-5-gore-tex",
+    "brand": "tcx",
+    "name": "X-Five 5 Gore-Tex",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tam tahıllı deri gövdeli, Gore-Tex Performance ePE membranlı, termoform kaval korumalı ve yandan fermuarlı TCX touring botu.",
+    "description": [
+      "X-Five 5 Gore-Tex, TCX'in yol touring botunun güncel nesli. Üst gövde tam tahıllı deri ve mikrofiberden; içte Gore-Tex Performance ePE membran var. Kavalda termoform ek, bilek, burun ve topukta güçlendirmeler ve PU vites koruması bulunuyor.",
+      "Bot yandan fermuar ve esnek panelle giyiliyor, yan taraftaki cırtla ayarlanıyor. Yeni Groundtrax Road Touring taban vites ve fren pedallarında tutuş ve yürüme konforu için tasarlanmış; Ortholite X40 tabanlık uzun süreli yastıklama sağlıyor. Yansıtıcı detaylar var. TCX botu CE Kat. II EN 13634'e göre sertifikalı olarak tanımlıyor; performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Yol ağırlıklı uzun tur yapan sürücüler",
+      "Her mevsim su geçirmez ve kolay giyilen bot isteyenler",
+      "Touring ve sport-touring motosiklet sahipleri"
+    ],
+    "notFor": [
+      "Arazi ve ağır adventure kullanımı",
+      "Pist ve sportif sürüş"
+    ],
+    "pros": [
+      "Gore-Tex Performance ePE membran",
+      "Yandan fermuar ile hızlı giyme",
+      "Termoform kaval koruması",
+      "Ortholite X40 tabanlık"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Burulma kontrol sistemi yok",
+      "EN 13634 kodu sayfada yok"
+    ],
+    "usage": {
+      "sehir": "Fermuarlı olduğu için şehirde de pratik.",
+      "uzunYol": "Asıl kullanım alanı.",
+      "yaz": "Membranlı deri bot; sıcakta ısınır.",
+      "kis": "Membran soğuk ve ıslak havada korur.",
+      "yagmur": "Gore-Tex ile uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "X-Five 5 Gore-Tex, yol ağırlıklı tur sürücüsü için su geçirmez, kolay giyilen ve yürünebilir bir bot. Arazi ve sportif kullanım için gereken burulma kontrolü ve sertliği sunmuyor.",
+    "rivals": [
+      "alpinestars/web-gore-tex",
+      "gaerne/g-midland-gore-tex",
+      "sidi/performer-gore"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "ePE membran nedir?",
+        "a": "Gore-Tex'in genleştirilmiş polietilen tabanlı yeni nesil membranı. TCX bu modelde Gore-Tex Performance ePE kullanıyor."
+      },
+      {
+        "q": "Nasıl giyiliyor?",
+        "a": "Yandaki fermuar ve esnek panelle açılıyor, yan cırtla ayarlanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tcxboots.com/gb/en/x-five-5-gore-tex-waterproof-motorcycle-boots-men---black-2017900088001.html",
+    "sources": [
+      {
+        "url": "https://www.tcxboots.com/gb/en/x-five-5-gore-tex-waterproof-motorcycle-boots-men---black-2017900088001.html",
+        "type": "manufacturer",
+        "label": "TCX – X-Five 5 Gore-Tex ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart",
+      "sizes"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam tahıllı deri ve mikrofiber üst, termoform kaval eki, PU vites koruması, Groundtrax Road Touring taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex Performance ePE",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yan fermuar + esnek panel + yan cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "rex",
+    "brand": "sidi",
+    "name": "Rex",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sidi'nin üst seviye yarış botu: TPU koruyucular, cam elyaf takviyeli naylon dış iskelet, iki yandan ayarlanan döner kapama ve değiştirilebilir kaval ile kaydırıcılar.",
+    "description": [
+      "Rex, Sidi'nin yarış botları arasında en üstte konumlanan model. Mikrofiber gövdenin üzerinde yüksek kaliteli TPU koruyucular ve cam elyaf takviyeli naylondan bir dış iskelet var. Bilek destek parantezleri, asimetrik topuk yuvası ve Sidi'nin Firmor yaklaşımı ayağı bot içinde sabit tutmayı hedefliyor.",
+      "Kapanış, yüksek yoğunluklu reçineden döner bir sistemle yapılıyor; sistem kavalın iki yanından ayar yapılmasına izin veriyor ve gövdeye darbe alacak şekilde entegre edilmiş. Kaval plakası ve kaydırıcılar değiştirilebiliyor, havalandırma sistemi bulunuyor. Sidi ürün sayfasında EN 13634 sertifikasına ve koduna dair bilgi yer almıyor."
+    ],
+    "forWho": [
+      "Track day ve yarış sürücüleri",
+      "Bilek ve kaval korumasında en üst seviyeyi arayan sportif sürücüler",
+      "Parça değiştirerek botunu uzun süre kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Günlük kullanım ve kurye işi",
+      "Yağmurlu uzun yol"
+    ],
+    "pros": [
+      "Cam elyaf takviyeli dış iskelet ve TPU koruyucular",
+      "İki yandan ayarlanan döner kapama",
+      "Değiştirilebilir kaval plakası ve kaydırıcılar",
+      "Türkiye'de Motodium'da satılıyor"
+    ],
+    "cons": [
+      "Üretici sayfasında EN 13634 bilgisi yok",
+      "Su geçirmez değil",
+      "Giyip çıkarması zahmetli"
+    ],
+    "usage": {
+      "sehir": "Uygun değil.",
+      "uzunYol": "Kuru havada spor turlarda olur; yürüme konforu düşük.",
+      "yaz": "Havalandırma sistemi var; sıcak pist günleri için Rex Air versiyonu da satılıyor.",
+      "kis": "Yalıtım yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı."
+    },
+    "verdict": "Rex, sağlam dış iskeleti ve hassas ayarlanan kapamasıyla pistte ciddi koruma veren bir yarış botu. Sertifika bilgisinin üretici sayfasında yer almaması ve günlük kullanıma uygun olmaması bilinerek alınmalı.",
+    "rivals": [
+      "alpinestars/supertech-r",
+      "dainese/axial-2",
+      "alpinestars/smx-plus-v2"
+    ],
+    "priceRange": {
+      "min": 26194.61,
+      "max": 26194.61,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/sidi-rex-motosiklet-bot-siyah",
+        "price": 26194.61,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Rex Air ile farkı ne?",
+        "a": "Rex Air, sıcak hava için havalandırması artırılmış versiyondur. Bu kayıt standart Rex içindir."
+      },
+      {
+        "q": "Kapanış sistemi nasıl çalışıyor?",
+        "a": "Döner (dial) bir sistemle sıkılıyor ve kavalın iki yanından ayarlanabiliyor; parçaları değiştirilebiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://sidi.com/en/products/rex-ner-1",
+    "sources": [
+      {
+        "url": "https://sidi.com/en/products/rex-ner-1",
+        "type": "manufacturer",
+        "label": "Sidi – Rex ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/sidi-rex-motosiklet-bot-siyah",
+        "type": "retailer",
+        "label": "Motodium – Sidi Rex Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah / Kırmızı",
+      "Siyah / Beyaz",
+      "Beyaz / Siyah / Sarı"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Aşınmaya dayanıklı mikrofiber, TPU koruyucular, cam elyaf takviyeli naylon dış iskelet, düşük profilli yarış tabanı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Hava kanallı havalandırma sistemi",
+      "closure": "Yüksek yoğunluklu reçine döner kapama (iki yandan ayarlı)",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "performer-gore",
+    "brand": "sidi",
+    "name": "Performer Gore",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu",
+      "sport-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Mikrofiber gövdeli, Gore-Tex membranlı, sabit kaval plakası ve değiştirilebilir kaydırıcılı, fermuarlı sport-touring botu.",
+    "description": [
+      "Performer Gore, Sidi'nin Performer botunun Gore-Tex membranlı versiyonu. Gövde dayanıklı mikrofiberden; ön tarafta alttan hava kanallı, şekillendirilmiş sabit bir kaval plakası, baldır bölgesinde file ile korunan poliüretan yüzey var. Ayak üstünde dış metatarsal koruma, burunda ve topukta darbe koruyucular bulunuyor.",
+      "Giyme sistemi esnek panelli fermuar; pürüzsüz topuk yuvası motosiklete daha iyi tutunmayı sağlıyor. Kaydırıcı değiştirilebilir, vites pedi var, taban yol sürüşü için kauçuk. Sidi ürün sayfasında EN 13634 sertifikasına ve koduna dair bilgi yer almıyor."
+    ],
+    "forWho": [
+      "Sport-touring sürücüleri",
+      "Yağmura yakalanabileceği hızlı yol turları yapanlar",
+      "Kolay giyilen, fermuarlı bir sportif bot isteyenler"
+    ],
+    "notFor": [
+      "Pist kullanımı: burulma kontrol sistemi yok",
+      "Arazi ve adventure kullanımı"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "Kaval, metatarsal, burun ve topuk koruması",
+      "Fermuarlı kolay giyme",
+      "Türkiye'de Motodium'da satılıyor"
+    ],
+    "cons": [
+      "Üretici sayfasında EN 13634 bilgisi yok",
+      "Bilek burulma kontrol sistemi yok",
+      "Membran yazın sıcak tutabilir"
+    ],
+    "usage": {
+      "sehir": "Fermuarlı yapısıyla şehirde kullanılabilir.",
+      "uzunYol": "Sport-touring turları için uygun.",
+      "yaz": "Membranlı olduğu için sıcakta ısınabilir.",
+      "kis": "Membran soğuk ve ıslak havada korur.",
+      "yagmur": "Gore-Tex ile uygun.",
+      "sport": "Hızlı yol sürüşü için uygun; pist için yetersiz."
+    },
+    "verdict": "Performer Gore, sportif görünümlü ama yağmurda da kullanılabilecek, kolay giyilen bir yol botu arayanlara uygun. Sertifika bilgisinin üretici sayfasında olmaması ve burulma kontrolünün sınırlı olması dikkate alınmalı.",
+    "rivals": [
+      "alpinestars/web-gore-tex",
+      "tcx/x-five-5-gore-tex",
+      "alpinestars/smx-6-v3"
+    ],
+    "priceRange": {
+      "min": 20955.67,
+      "max": 20955.67,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/sidi-performer-gore-tex-motosiklet-bot-siyah",
+        "price": 20955.67,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Performer ile Performer Gore farkı ne?",
+        "a": "Performer Gore, Gore-Tex su geçirmez membranlı versiyondur; standart Performer membransızdır."
+      },
+      {
+        "q": "Nasıl giyiliyor?",
+        "a": "Esnek panelli fermuarla."
+      }
+    ],
+    "manufacturerUrl": "https://sidi.com/en/products/performer-gore-nene-20",
+    "sources": [
+      {
+        "url": "https://sidi.com/en/products/performer-gore-nene-20",
+        "type": "manufacturer",
+        "label": "Sidi – Performer Gore ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/sidi-performer-gore-tex-motosiklet-bot-siyah",
+        "type": "retailer",
+        "label": "Motodium – Sidi Performer Gore-Tex Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Beyaz / Siyah"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Mikrofiber gövde, file korumalı poliüretan baldır bölgesi, sabit kaval plakası, kauçuk yol tabanı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": "Kaval plakasının altında hava kanalları",
+      "closure": "Esnek panelli fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "adventure-2-gore",
+    "brand": "sidi",
+    "name": "Adventure 2 Gore",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Mikrofiber ve süet gövdeli, Gore-Tex membranlı, TPU kaval plakası ve mikro ayarlı değiştirilebilir tokaları olan Sidi adventure botu.",
+    "description": [
+      "Adventure 2 Gore, Sidi'nin adventure botu. Gövde çizilmeye dayanıklı mikrofiber ve süetten; ön, yan ve burunda entegre korumalar, kavalda TPU plaka ve darbeye dayanıklı anatomik sert topuk yuvası var. Flex System ayakta sürüşte gereken esnekliği verirken destek sağlamayı hedefliyor; baldırda esnek panel bulunuyor.",
+      "Kapanış mikro ayarlı ve değiştirilebilir tokalar ile cırttan oluşuyor; içte tam boy körük su ve kir girişini azaltıyor. Kaymaz kauçuk taban asfalt ve arazide tutuş için tasarlanmış, arkada yansıtıcı ekler var. Sidi ürün sayfasında EN 13634 sertifikasına ve koduna dair bilgi yer almıyor."
+    ],
+    "forWho": [
+      "Adventure motosikletle asfalt ve arazi turu yapanlar",
+      "Ayakta sürüşte bot desteği isteyenler",
+      "Parça değiştirilebilen uzun ömürlü bot arayanlar"
+    ],
+    "notFor": [
+      "Kurye ve şehir içi sık inip binme",
+      "Pist ve sportif sürüş"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "Değiştirilebilir mikro ayarlı tokalar",
+      "TPU kaval plakası ve sert topuk yuvası",
+      "39–50 arası geniş numara aralığı"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için doğrulanmış fiyat bulunamadı",
+      "Üretici sayfasında EN 13634 bilgisi yok",
+      "Yazın sıcak"
+    ],
+    "usage": {
+      "sehir": "Giyilir ama tokalı uzun yapı şehirde hantal.",
+      "uzunYol": "Asıl kullanım alanlarından biri.",
+      "yaz": "Membranlı bot; sıcakta ısınır.",
+      "kis": "Membran soğuk ve ıslak havada korur.",
+      "yagmur": "Gore-Tex ile uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Adventure 2 Gore, değiştirilebilir parçaları ve su geçirmez yapısıyla uzun ömürlü bir adventure botu. Üretici sayfasında sertifika bilgisinin bulunmaması alırken satıcıdan teyit edilmesi gereken bir nokta.",
+    "rivals": [
+      "alpinestars/toucan-gore-tex",
+      "dainese/seeker-gore-tex",
+      "forma/adventure-pro-dry"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hangi renkleri var?",
+        "a": "Sidi sitesinde tütün, haki (military), siyah ve kum-okra renkleri listeleniyor."
+      },
+      {
+        "q": "Kısa versiyonu var mı?",
+        "a": "Evet, Sidi Mid Adventure 2 Gore adıyla daha kısa konçlu bir versiyon da satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://sidi.com/en/products/adventure-2-gore",
+    "sources": [
+      {
+        "url": "https://sidi.com/en/products/adventure-2-gore",
+        "type": "manufacturer",
+        "label": "Sidi – Adventure 2 Gore ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Tütün",
+      "Haki",
+      "Siyah",
+      "Kum / Okra"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Mikrofiber ve süet gövde, TPU kaval plakası, kaymaz kauçuk taban",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Mikro ayarlı değiştirilebilir tokalar + cırt; tam boy iç körük",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "adventure-pro-dry",
+    "brand": "forma",
+    "name": "Adventure Pro Dry",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Yağlı tam tahıllı deri, Drytex astar, bilekte D3O Aeromax koruyucular ve Vibram tabanlı Forma adventure botu.",
+    "description": [
+      "Adventure Pro Dry, Forma'nın 2001'den beri adventure segmentinde tanınan Adventure ailesinin yeni üyesi. Üst gövde yağlı ve işlenmiş tam tahıllı deriden; kaval plakası teknik pantolonun içine girecek şekilde tasarlanmış, vites bölgesinde PU koruma var. Bilekte D3O Aeromax koruyucular, iç tarafta hafızalı köpükle yumuşak polimer dolgu bulunuyor.",
+      "Kapanış değiştirilebilir ve ayarlanabilir plastik tokalar ile üstte ayarlı cırttan oluşuyor. Taban Traction Lug teknolojili Vibram kauçuk ve EVA ara taban; tabanlık değiştirilebilir ve anti-bakteriyel. İçteki Drytex astarı Forma 'suya dayanıklı ve nefes alan' olarak tanımlıyor. Ürün sayfasında CE işareti yer alıyor; Forma tüm ürünlerinin EN 13634:2017 onay testlerini karşıladığını belirtiyor, bu modele özel performans kodu verilmiyor."
+    ],
+    "forWho": [
+      "Adventure motosikletle uzun tur yapan ve toprak yola giren sürücüler",
+      "Vibram taban ile yürüme ve kaya üstünde tutuş isteyenler",
+      "Kaval plakasını pantolon içinde kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş",
+      "Kurye ve şehir içi sık inip binme"
+    ],
+    "pros": [
+      "Bilekte D3O Aeromax koruyucular",
+      "Vibram Traction Lug taban",
+      "Değiştirilebilir tokalar",
+      "Pantolon içine giren kaval plakası"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Forma astarı 'suya dayanıklı' olarak tanımlıyor; tam su geçirmezlik iddiası yok",
+      "Modele özel EN 13634 kodu verilmiyor"
+    ],
+    "usage": {
+      "sehir": "Giyilir ama tokalı yüksek bot şehirde pratik değil.",
+      "uzunYol": "Asıl kullanım alanı.",
+      "yaz": "Deri gövde sıcakta ısınır.",
+      "kis": "Deri ve astar soğukta korur; yalıtım bilgisi yok.",
+      "yagmur": "Drytex astar suya dayanıklı; uzun sağanakta tam garanti verilmiyor.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Adventure Pro Dry, Forma'nın uzun süredir sevilen Adventure tasarımını D3O bilek koruması ve Vibram tabanla güncelliyor. Yağmurda Gore-Tex'li rakipler kadar iddialı olmadığını bilerek, asfalt ve stabilize ağırlıklı adventure kullanımı için değerlendirilmeli.",
+    "rivals": [
+      "alpinestars/toucan-gore-tex",
+      "sidi/adventure-2-gore",
+      "forma/terra-evo-dry"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Drytex su geçirmez mi?",
+        "a": "Forma, Drytex astarı suya dayanıklı ve nefes alan olarak tanımlıyor; Gore-Tex gibi tam su geçirmezlik iddiası taşımıyor."
+      },
+      {
+        "q": "Taban değişiyor mu?",
+        "a": "Üretici tabanı Vibram Traction Lug ve EVA ara taban olarak belirtiyor; tabanlık değiştirilebilir. Taban değişimi hakkında bilgi verilmiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/",
+    "sources": [
+      {
+        "url": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/",
+        "type": "manufacturer",
+        "label": "Forma – Adventure Pro Dry ürün sayfası ve infografiği",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.formaboots.com/en/azienda/",
+        "type": "manufacturer",
+        "label": "Forma – Şirket sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah",
+      "Kahverengi"
+    ],
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Yağlı tam tahıllı deri, PU vites koruması, Vibram kauçuk taban ve EVA ara taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Forma Drytex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Değiştirilebilir ayarlı plastik tokalar + üst cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "terra-evo-dry",
+    "brand": "forma",
+    "name": "Terra Evo Dry",
+    "category": "bot",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Arazi botu ile touring botu arasında konumlanan, yağlı tam tahıllı deri gövdeli, dikişli tabanlı ve Drytex astarlı Forma botu.",
+    "description": [
+      "Terra Evo Dry, Forma'nın arazi botu ile touring botu arasındaki boşluğu doldurmak için tasarladığı model. Üst gövde yağlı tam tahıllı deriden; taban gövdeye dikişle (welt) bağlanmış, bu da klasik ve sağlam bir yapı sağlıyor.",
+      "İçteki tüp şeklindeki Drytex astar suya dayanıklı ve nefes alıyor; Forma bu astarın en ıslak günlerde suyu dışarıda tuttuğunu belirtiyor. Ürün sayfasında CE işareti yer alıyor; Forma tüm ürünlerinin EN 13634:2017 onay testlerini karşıladığını belirtiyor. Kapanış sistemi, koruyucuların ayrıntısı ve modele özel performans kodu sayfada verilmiyor."
+    ],
+    "forWho": [
+      "Adventure ve scrambler motosiklet sürücüleri",
+      "Klasik deri görünümlü sağlam bir tur botu isteyenler",
+      "Asfalt ve stabilize yolu birlikte kullananlar"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş",
+      "Ağır enduro ve motokros"
+    ],
+    "pros": [
+      "Yağlı tam tahıllı deri gövde",
+      "Dikişli (welt) sağlam taban yapısı",
+      "Drytex astar",
+      "35–50 arası geniş numara aralığı"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "Koruyucu ve kapanış detayları üretici sayfasında yok",
+      "Modele özel EN 13634 kodu verilmiyor"
+    ],
+    "usage": {
+      "sehir": "Giyilir; yüksek deri bot olduğu için şehirde ağır gelebilir.",
+      "uzunYol": "Tur kullanımı için tasarlanmış.",
+      "yaz": "Deri gövde sıcakta ısınır.",
+      "kis": "Deri ve astar soğukta korur.",
+      "yagmur": "Drytex astar suyu dışarıda tutmayı hedefliyor.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Terra Evo Dry, klasik deri yapı ve dikişli taban arayan adventure-tur sürücüsü için ilginç bir seçenek. Üretici sayfasındaki teknik bilgi sınırlı olduğu için koruyucuları satın almadan önce yakından incelemek gerekiyor.",
+    "rivals": [
+      "tcx/drifter-wp",
+      "forma/adventure-pro-dry",
+      "gaerne/g-midland-gore-tex"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Welt taban ne demek?",
+        "a": "Tabanın gövdeye yapıştırma yerine dikişle bağlandığı geleneksel bir yöntem; sağlamlık sağlar."
+      },
+      {
+        "q": "Kısa versiyonu var mı?",
+        "a": "Evet, Forma Terra Evo Low Dry adıyla kısa konçlu bir versiyon da satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.formaboots.com/en/prodotto/terra-evo-dry/",
+    "sources": [
+      {
+        "url": "https://www.formaboots.com/en/prodotto/terra-evo-dry/",
+        "type": "manufacturer",
+        "label": "Forma – Terra Evo Dry ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.formaboots.com/en/azienda/",
+        "type": "manufacturer",
+        "label": "Forma – Şirket sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors",
+      "specs.closure",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart",
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah",
+      "Kahverengi"
+    ],
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Yağlı tam tahıllı deri, dikişli (welt) taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": "Forma Drytex (tüp astar)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "g-midland-gore-tex",
+    "brand": "gaerne",
+    "name": "G.Midland Gore-Tex",
+    "category": "bot",
+    "subcategories": [
+      "touring-botu",
+      "adventure-botu"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "İtalya'da üretilen, tam tahıllı deri gövdeli, Gore-Tex membranlı, iki alaşım tokalı ve yeniden tabanlanabilir 'Ideal' yapılı adventure touring botu; EN 13634:2017.",
+    "description": [
+      "G.Midland Gore-Tex, Gaerne'nin uzun tur ve hafif arazi için tasarladığı adventure touring botu. Gövde birinci sınıf tam tahıllı deriden, ön ve arkada esneme için mikrofiber ekler var. Her iki bilekte enjeksiyon PU koruyucular, içten şekillendirilmiş PU enjeksiyon kaval plakası ve vites bölgesinde PU koruma bulunuyor; iç taraftaki süet motosiklete tutunmayı artırıyor ve ısıya dayanıyor.",
+      "Kapanış iki ayarlanabilir ve değiştirilebilir hafif alaşım toka ile üstte cırt banttan oluşuyor; bot pantolon altına rahat giriyor. İçte Gore-Tex membran, çıkarılabilir anatomik tabanlık var. Gaerne'nin 1962'den beri kullandığı 'Ideal' dikiş yöntemi sağlamlık sağlıyor ve tabanın yenilenmesine izin veriyor. Bot EN 13634:2017'ye göre CE sertifikalı ve İtalya'da üretiliyor; performans kodu sayfada yok."
+    ],
+    "forWho": [
+      "Uzun tur ve hafif arazi yapan adventure sürücüleri",
+      "Tabanı yenilenebilen, uzun ömürlü bir bot isteyenler",
+      "İtalyan üretimi deri bot arayanlar"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş",
+      "Kurye ve şehir içi sık inip binme"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "EN 13634:2017 sertifikalı, İtalya üretimi",
+      "Yeniden tabanlanabilir 'Ideal' yapı",
+      "Değiştirilebilir alaşım tokalar"
+    ],
+    "cons": [
+      "Türkiye'de birebir model için fiyat bulunamadı",
+      "EN 13634 performans kodu sayfada yok",
+      "Deri gövde yazın sıcak"
+    ],
+    "usage": {
+      "sehir": "Giyilir ama tokalı yüksek bot şehirde pratik değil.",
+      "uzunYol": "Asıl kullanım alanı.",
+      "yaz": "Sıcakta ısınır.",
+      "kis": "Membran ve deri soğuk ve ıslak havada korur.",
+      "yagmur": "Gore-Tex ile uygun.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "G.Midland Gore-Tex, sağlam İtalyan işçiliği, su geçirmez yapısı ve yenilenebilir tabanıyla uzun yıllar kullanılacak bir tur botu. Türkiye'de bulunurluğu zayıf; ithalat veya özel sipariş gerekebilir.",
+    "rivals": [
+      "dainese/seeker-gore-tex",
+      "tcx/x-five-5-gore-tex",
+      "forma/terra-evo-dry"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tabanı değiştirilebilir mi?",
+        "a": "Gaerne, 'Ideal' dikiş yönteminin botun yeniden tabanlanmasına izin verdiğini belirtiyor."
+      },
+      {
+        "q": "Nerede üretiliyor?",
+        "a": "Gaerne, G.Midland Gore-Tex'in İtalya'da üretildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://gaerne.com/g_midland-gore-tex-black/",
+    "sources": [
+      {
+        "url": "https://gaerne.com/g_midland-gore-tex-black/",
+        "type": "manufacturer",
+        "label": "Gaerne – G_Midland Gore-Tex ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "44.5",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam tahıllı deri, mikrofiber ekler, PU enjeksiyon kaval ve bilek koruyucular, süet iç yan, dikişli kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İki değiştirilebilir alaşım toka + üst cırt",
+      "madeIn": "İtalya"
+    }
+  }
+]
