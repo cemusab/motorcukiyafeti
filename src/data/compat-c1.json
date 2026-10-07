@@ -1,0 +1,1406 @@
+[
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "ozel",
+    "note": "HJC, RPHA 91 için 'SMART HJC 50B'ye hazır' ifadesini kullanıyor; ünite kaskın iç yuvalarına kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-91-modular-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 91 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "ozel",
+    "note": "HJC, RPHA 91 için 'SMART HJC 21B'ye hazır' ifadesini kullanıyor; Mesh'siz Bluetooth seçenek olarak aynı yuvalara yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-91-modular-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 91 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-72",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "ozel",
+    "note": "HJC, RPHA 72 için 'SMART HJC 50B'ye hazır' ifadesini kullanıyor; ünite kaskın iç yuvalarına kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-72-full-face-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 72 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-72",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "ozel",
+    "note": "HJC, RPHA 72 için 'SMART HJC 21B'ye hazır' ifadesini kullanıyor; Mesh'siz Bluetooth seçenek olarak aynı yuvalara yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-72-full-face-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 72 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-31",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "ozel",
+    "note": "HJC, RPHA 31 için 'SMART HJC 50B'ye hazır' ifadesini kullanıyor; ünite kaskın iç yuvalarına kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-31-open-face-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 31 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-31",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "ozel",
+    "note": "HJC, RPHA 31 için 'SMART HJC 21B'ye hazır' ifadesini kullanıyor; Mesh'siz Bluetooth seçenek olarak aynı yuvalara yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.eu/products/rpha-31-open-face-motorcycle-helmet",
+      "type": "manufacturer",
+      "label": "HJC Europe – RPHA 31 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-60",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "ozel",
+    "note": "HJC, RPHA 60 için 'SMART HJC 50B'ye hazır' ifadesini kullanıyor; ünite kaskın iç yuvalarına kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.us/products/rpha-60-solid",
+      "type": "manufacturer",
+      "label": "HJC USA – RPHA 60 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-60",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "ozel",
+    "note": "HJC, RPHA 60 için 'SMART HJC 21B'ye hazır' ifadesini kullanıyor; Mesh'siz Bluetooth seçenek olarak aynı yuvalara yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.us/products/rpha-60-solid",
+      "type": "manufacturer",
+      "label": "HJC USA – RPHA 60 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "ozel",
+    "note": "HJC, i71 için 'SMART HJC 50B'ye hazır' ifadesini kullanıyor; ünite kaskın iç yuvalarına kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.us/products/i71-solid",
+      "type": "manufacturer",
+      "label": "HJC USA – i71 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "ozel",
+    "note": "HJC, i71 için 'SMART HJC 21B'ye hazır' ifadesini kullanıyor; Mesh'siz Bluetooth seçenek olarak aynı yuvalara yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://hjchelmets.us/products/i71-solid",
+      "type": "manufacturer",
+      "label": "HJC USA – i71 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/f100",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "uyumsuz",
+    "note": "F100, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/f100",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "uyumsuz",
+    "note": "F100, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/c71",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "uyumsuz",
+    "note": "C71, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/c71",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "uyumsuz",
+    "note": "C71, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-12",
+    "intercom": "hjc/smart-hjc-50b",
+    "level": "uyumsuz",
+    "note": "RPHA 12, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-12",
+    "intercom": "hjc/smart-hjc-21b",
+    "level": "uyumsuz",
+    "note": "RPHA 12, HJC'nin SMART HJC 2. nesil uygulanabilir model listesinde yer almıyor; kaska özel ünite bu kaska takılmaz. Evrensel bir interkom tercih edin. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://smarthjc.com/smart-hjc-50b-2/",
+      "type": "manufacturer",
+      "label": "SMART HJC – 50B/21B/11B uygulanabilir model listesi",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/spartan-gt-pro",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında Spartan GT Pro modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/spartan-gt-pro",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında Spartan GT Pro modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/spartan-rs",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında Spartan RS modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/spartan-rs",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında Spartan RS modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/skwal-i3",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında Skwal i3 modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/skwal-i3",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında Skwal i3 modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/ridill-2",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında Ridill 2 modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/ridill-2",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında Ridill 2 modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/oxo",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında OXO modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/oxo",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında OXO modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/rs-jet",
+    "intercom": "shark/sena-for-shark-mesh",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Mesh ürün sayfasında RS Jet modelini uyumlu kasklar arasında sayıyor; hoparlör ve mikrofon kaskın hazır ceplerine ek kit olmadan yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK MWS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shark/rs-jet",
+    "intercom": "shark/sena-for-shark-bluetooth",
+    "level": "entegre",
+    "note": "Shark, SENA for SHARK Bluetooth ürün sayfasında RS Jet modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+      "type": "manufacturer",
+      "label": "Shark – SENA for SHARK BTS uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n100-6",
+    "intercom": "nolan/n-com-mesh",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N100-6 için N-Com Mesh'i onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir ve homologasyon kapsamında.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n100-6",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N100-6 için N-Com Bluetooth+'ı onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n80-8",
+    "intercom": "nolan/n-com-mesh",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N80-8 için N-Com Mesh'i onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir ve homologasyon kapsamında.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n80-8",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N80-8 için N-Com Bluetooth+'ı onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n120-1",
+    "intercom": "nolan/n-com-mesh",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N120-1 için N-Com Mesh'i onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir ve homologasyon kapsamında.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n120-1",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N120-1 için N-Com Bluetooth+'ı onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n70-2-x",
+    "intercom": "nolan/n-com-mesh",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N70-2 X için N-Com Mesh'i onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir ve homologasyon kapsamında.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/n70-2-x",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu N70-2 X için N-Com Bluetooth+'ı onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/x-1005-ultra-carbon",
+    "intercom": "nolan/n-com-mesh",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu X-1005 Ultra Carbon için N-Com Mesh'i onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir ve homologasyon kapsamında.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/x-1005-ultra-carbon",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "ozel",
+    "note": "Nolan'ın N-Com uyumluluk tablosu X-1005 Ultra Carbon için N-Com Bluetooth+'ı onaylıyor; ünite kaskın N-Com yuvasına ek kit gerekmeden yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/x-804-rs-ultra-carbon",
+    "intercom": "nolan/n-com-mesh",
+    "level": "uyumsuz",
+    "note": "Nolan, N-Com Mesh'in X-804 RS Ultra Carbon dışındaki Nolan Grubu kasklarıyla uyumlu olduğunu açıkça belirtiyor; bu yarış kaskında N-Com yuvası yok.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nolan/x-804-rs-ultra-carbon",
+    "intercom": "nolan/n-com-bluetooth-plus",
+    "level": "uyumsuz",
+    "note": "Nolan, N-Com Bluetooth+'in X-804 RS Ultra Carbon dışındaki Nolan Grubu kasklarıyla uyumlu olduğunu açıkça belirtiyor; bu yarış kaskında N-Com yuvası yok.",
+    "verified": true,
+    "source": {
+      "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+      "type": "manufacturer",
+      "label": "Nolan – N-Com uyumluluk tablosu",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "caberg/duke-x",
+    "intercom": "caberg/pro-speak-evo",
+    "level": "ozel",
+    "note": "Caberg Duke X sayfasında kaskın Pro Speak Evo'ya hazır olduğunu belirtiyor; ünite kaskın yuvasına kelepçesiz yerleşir ve modele özel montaj kılavuzu var.",
+    "verified": true,
+    "source": {
+      "url": "https://www.caberg.it/en/helmets/modular/duke-x/",
+      "type": "manufacturer",
+      "label": "Caberg – Duke X ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "caberg/drift-evo-ii",
+    "intercom": "caberg/pro-speak-evo",
+    "level": "ozel",
+    "note": "Caberg, Drift Evo II'nin ECE 22.06 testlerini Pro Speak Evo takılıyken de geçtiğini belirtiyor; ünite hazır yuvaya kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.caberg.it/en/helmets/full-face/drift-evo-ii/",
+      "type": "manufacturer",
+      "label": "Caberg – Drift Evo II ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "caberg/tanami",
+    "intercom": "caberg/pro-speak-evo",
+    "level": "ozel",
+    "note": "Caberg, Tanami'nin ECE 22.06 testlerini Pro Speak Evo takılıyken de geçtiğini belirtiyor; ünite hazır yuvaya kelepçesiz yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.caberg.it/en/helmets/full-face/tanami/",
+      "type": "manufacturer",
+      "label": "Caberg – Tanami ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth C5'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth C5'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth C5'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5-carbon",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth C5 Carbon'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5-carbon",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth C5 Carbon'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/c5-carbon",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth C5 Carbon'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/c5-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – C5 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth S3'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth S3'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth S3'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3-carbon",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth S3 Carbon'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3-carbon",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth S3 Carbon'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/s3-carbon",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth S3 Carbon'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/s3-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – S3 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth E2'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth E2'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth E2'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2-carbon",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth E2 Carbon'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2-carbon",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth E2 Carbon'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/e2-carbon",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth E2 Carbon'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor. Karbon kabukta menzil yaklaşık 400 m'ye düşer.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/e2-carbon",
+      "type": "manufacturer",
+      "label": "Schuberth – E2 Carbon teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/j2",
+    "intercom": "schuberth/sc2",
+    "level": "ozel",
+    "note": "Schuberth J2'in SC2'ye uygun olduğunu belirtiyor; hoparlör ve antenler kaskta hazır, ünite tak-çalıştır yerleşir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/j2",
+      "type": "manufacturer",
+      "label": "Schuberth – J2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/j2",
+    "intercom": "schuberth/sc2-standard",
+    "level": "ozel",
+    "note": "Schuberth J2'in SC2 Standard'a uygun olduğunu belirtiyor; Mesh'siz seçenek aynı hazır altyapıya takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/j2",
+      "type": "manufacturer",
+      "label": "Schuberth – J2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "schuberth/j2",
+    "intercom": "schuberth/sc-edge",
+    "level": "ozel",
+    "note": "Schuberth J2'in Cardo tabanlı SC EDGE'e uygun olduğunu belirtiyor; kask ECE 22.06'yı ünite takılıyken de karşılıyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.schuberth.com/en/j2",
+      "type": "manufacturer",
+      "label": "Schuberth – J2 teknik özellikler",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-wed3",
+    "intercom": "nexx/x-com3",
+    "level": "ozel",
+    "note": "Nexx, X.WED3 sayfasında 'Intercom Ready: X-COM3 | X-COM3 PRO' ibaresini kullanıyor; ünite kaskın yuvasına gömülür.",
+    "verified": true,
+    "source": {
+      "url": "https://nexx-helmets.com/en/helmets/x-wed3/",
+      "type": "manufacturer",
+      "label": "Nexx – X.WED3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-wed3",
+    "intercom": "nexx/x-com3-pro",
+    "level": "ozel",
+    "note": "Nexx, X.WED3 sayfasında 'Intercom Ready: X-COM3 | X-COM3 PRO' ibaresini kullanıyor; Mesh'li PRO ünite aynı yuvaya gömülür.",
+    "verified": true,
+    "source": {
+      "url": "https://nexx-helmets.com/en/helmets/x-wed3/",
+      "type": "manufacturer",
+      "label": "Nexx – X.WED3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-lifetour",
+    "intercom": "nexx/x-com3",
+    "level": "ozel",
+    "note": "Nexx, X.LIFETOUR sayfasında 'Intercom Ready: X-COM3 | X-COM3 PRO' ibaresini kullanıyor; ünite kaskın yuvasına gömülür.",
+    "verified": true,
+    "source": {
+      "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+      "type": "manufacturer",
+      "label": "Nexx – X.LIFETOUR ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-lifetour",
+    "intercom": "nexx/x-com3-pro",
+    "level": "ozel",
+    "note": "Nexx, X.LIFETOUR sayfasında 'Intercom Ready: X-COM3 | X-COM3 PRO' ibaresini kullanıyor; Mesh'li PRO ünite aynı yuvaya gömülür.",
+    "verified": true,
+    "source": {
+      "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+      "type": "manufacturer",
+      "label": "Nexx – X.LIFETOUR ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-r3r",
+    "intercom": "nexx/x-com3",
+    "level": "uyumsuz",
+    "note": "Nexx, X-COM3 uyumlu kask listesinde X.R3R'yi saymıyor; X.R3R yalnız evrensel interkomlara hazırlanmış. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://nexx-helmets.com/en/accessories/x-com3/",
+      "type": "manufacturer",
+      "label": "Nexx – X-COM3 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "nexx/x-r3r",
+    "intercom": "nexx/x-com3-pro",
+    "level": "uyumsuz",
+    "note": "Nexx, X-COM3 PRO uyumlu kask listesinde X.R3R'yi saymıyor; X.R3R yalnız evrensel interkomlara hazırlanmış. Bu kask üreticinin uyumlu modeller listesinde yer almıyor; açık bir \"uyumsuz\" beyanı yok, satın almadan önce teyit et.",
+    "verified": false,
+    "source": {
+      "url": "https://nexx-helmets.com/en/accessories/x-com3-pro/",
+      "type": "manufacturer",
+      "label": "Nexx – X-COM3 PRO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/gp-800",
+    "intercom": "airoh/awc4",
+    "level": "entegre",
+    "note": "Airoh, AWC4 ürün sayfasında GP 800 modelini uyumlu kasklar arasında sayıyor; ünite kaskın hazır yerine ek kit olmadan takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc4-break-the-silence/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC4 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/gp-800",
+    "intercom": "airoh/awc2",
+    "level": "entegre",
+    "note": "Airoh, AWC2 ürün sayfasında GP 800 modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc2-follow-the-sound/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC2 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/commander-2",
+    "intercom": "airoh/awc4",
+    "level": "entegre",
+    "note": "Airoh, AWC4 ürün sayfasında Commander 2 modelini uyumlu kasklar arasında sayıyor; ünite kaskın hazır yerine ek kit olmadan takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc4-break-the-silence/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC4 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/commander-2",
+    "intercom": "airoh/awc2",
+    "level": "entegre",
+    "note": "Airoh, AWC2 ürün sayfasında Commander 2 modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc2-follow-the-sound/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC2 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/mathisse-ii",
+    "intercom": "airoh/awc4",
+    "level": "entegre",
+    "note": "Airoh, AWC4 ürün sayfasında Mathisse II modelini uyumlu kasklar arasında sayıyor; ünite kaskın hazır yerine ek kit olmadan takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc4-break-the-silence/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC4 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "airoh/mathisse-ii",
+    "intercom": "airoh/awc2",
+    "level": "entegre",
+    "note": "Airoh, AWC2 ürün sayfasında Mathisse II modelini uyumlu kasklar arasında sayıyor; ek kit gerekmiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.airoh.com/prodotto/awc2-follow-the-sound/",
+      "type": "manufacturer",
+      "label": "Airoh – AWC2 uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/stream-ii",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında FF808 Stream II modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/advant-x",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında FF901 Advant X modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır. Advant X için montaj yalnız yapıştırma ile yapılıyor.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/strobe-ii",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında FF908 Strobe II modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/storm-iii",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında Storm III modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/challenger-ii",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında FF817 Challenger II modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/explorer-evo",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında MX707 Explorer Evo modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "ls2/spectrum-evo",
+    "level": "entegre",
+    "note": "LS2, Spectrum EVO sayfasında FF811 Vector II modelini uyumlu kasklar arasında sayıyor; ünite kaskın interkom hazırlığına takılır.",
+    "verified": true,
+    "source": {
+      "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+      "type": "manufacturer",
+      "label": "LS2 – Spectrum EVO uyumlu kasklar",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "givi/x27",
+    "intercom": "givi/i319s",
+    "level": "ozel",
+    "note": "GIVI, I319S'in yalnız X27 ve X25 ile uyumlu olduğunu belirtiyor; ünite bu kaskın yuvasına özel tasarlandı.",
+    "verified": true,
+    "source": {
+      "url": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s",
+      "type": "manufacturer",
+      "label": "GIVI – I319S ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "givi/x26",
+    "intercom": "givi/i319s",
+    "level": "uyumsuz",
+    "note": "GIVI, I319S'in yalnız X27 ve X25 ile uyumlu olduğunu açıkça belirtiyor; X26 için evrensel bir interkom gerekir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s",
+      "type": "manufacturer",
+      "label": "GIVI – I319S ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "givi/x32",
+    "intercom": "givi/i319s",
+    "level": "uyumsuz",
+    "note": "GIVI, I319S'in yalnız X27 ve X25 ile uyumlu olduğunu açıkça belirtiyor; X32 için evrensel bir interkom gerekir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s",
+      "type": "manufacturer",
+      "label": "GIVI – I319S ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/tourmodular",
+    "intercom": "agv/insyde",
+    "level": "ozel",
+    "note": "AGV, Insyde'ı Tourmodular için tasarlanmış tam entegre sistem olarak tanımlıyor; ünite kaskın içine gizlenir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/k7",
+    "intercom": "agv/insyde",
+    "level": "ozel",
+    "note": "AGV, Insyde'ı K7 için tasarlanmış tam entegre sistem olarak tanımlıyor; ünite kaskın içine gizlenir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; K6 S bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/k1-s",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; K1 S bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/k3",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; K3 bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/ax9",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; AX9 bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/irides",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; Irides bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "agv/insyde",
+    "level": "uyumsuz",
+    "note": "AGV, Insyde'ı yalnız Tourmodular ve K7 için tanımlıyor; Pista GP RR bu sistemle kullanılamaz, evrensel bir interkom tercih edin.",
+    "verified": true,
+    "source": {
+      "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+      "type": "manufacturer",
+      "label": "AGV – Insyde ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "sena/srl3",
+    "level": "ozel",
+    "note": "Sena, SRL3'ün GT-Air 3 iç yuvalarına özel tasarlandığını belirtiyor; Shoei de bu kask için SRL3'ü öneriyor. Shoei, eski SRL/SRL2/SRL Mesh ünitelerinin adaptörle kabuk dışına takılmasının ECE 22.06'ya uygun olmadığını belirtiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "sena/srl-ext",
+    "level": "uyumsuz",
+    "note": "Sena, SRL-EXT'yi yalnız RF-1400, NXR2 ve Z-8 için tanımlıyor; GT-Air 3 için SRL3 gerekir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl-ext/",
+      "type": "manufacturer",
+      "label": "Sena – SRL-EXT ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "sena/srl3",
+    "level": "ozel",
+    "note": "Sena, SRL3'ün Neotec 3 iç yuvalarına özel tasarlandığını belirtiyor; Shoei de bu kask için SRL3'ü öneriyor. Shoei, eski SRL/SRL2/SRL Mesh ünitelerinin adaptörle kabuk dışına takılmasının ECE 22.06'ya uygun olmadığını belirtiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "sena/srl-ext",
+    "level": "uyumsuz",
+    "note": "Sena, SRL-EXT'yi yalnız RF-1400, NXR2 ve Z-8 için tanımlıyor; Neotec 3 için SRL3 gerekir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl-ext/",
+      "type": "manufacturer",
+      "label": "Sena – SRL-EXT ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-cruise-3",
+    "intercom": "sena/srl3",
+    "level": "ozel",
+    "note": "Sena, SRL3'ün J-Cruise 3 iç yuvalarına özel tasarlandığını belirtiyor; Shoei de bu kask için SRL3'ü öneriyor. Shoei, eski SRL/SRL2/SRL Mesh ünitelerinin adaptörle kabuk dışına takılmasının ECE 22.06'ya uygun olmadığını belirtiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-cruise-3",
+    "intercom": "sena/srl-ext",
+    "level": "uyumsuz",
+    "note": "Sena, SRL-EXT'yi yalnız RF-1400, NXR2 ve Z-8 için tanımlıyor; J-Cruise 3 için SRL3 gerekir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl-ext/",
+      "type": "manufacturer",
+      "label": "Sena – SRL-EXT ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/nxr2",
+    "intercom": "sena/srl-ext",
+    "level": "ozel",
+    "note": "Sena, SRL-EXT'nin Avrupa'da NXR2 için tasarlandığını belirtiyor; Shoei de NXR2 sayfasında SRL-EXT'yi öneriyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl-ext/",
+      "type": "manufacturer",
+      "label": "Sena – SRL-EXT ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/nxr2",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; NXR2 bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/hornet-adv-06",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; Hornet ADV 06 bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/x-spr-pro",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; X-SPR Pro bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/glamster-06",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; Glamster 06 bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-o2",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; J·O2 bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/vfx-wr-06",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "Sena, SRL3'ün yalnız Neotec 3, GT-Air 3 ve J-Cruise 3 iç yuvalarına özel olduğunu belirtiyor; VFX-WR 06 bu listede yok.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/hornet-adv-06",
+    "intercom": "sena/srl-ext",
+    "level": "uyumsuz",
+    "note": "Sena, SRL-EXT'yi yalnız RF-1400, NXR2 ve Z-8 için tanımlıyor; Hornet ADV 06 için Shoei yalnız genel interkom hazırlığı belirtiyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl-ext/",
+      "type": "manufacturer",
+      "label": "Sena – SRL-EXT ürün sayfası",
+      "checkedAt": "2026-10-07"
+    }
+  }
+]

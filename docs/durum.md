@@ -20,4 +20,5 @@ PR: https://github.com/cemusab/motorcukiyafeti/pull/1 (v2 → main). Birleştiri
 ## 2026-10-07 veri turu (tamamlandı)
 436 ürün: 103 kask, 105 mont, 39 pantolon, 43 eldiven, 43 bot, 24 koruma, 21 interkom, 12 yağmurluk, 10 termal, 36 aksesuar · 78 marka · 44 rehber
 Yeni kategoriler: yağmurluk, termal, aksesuar; koruma alt grupları. Görsel optimizasyonu en çok kullanılan 49 alan adıyla sınırlı (Next.js 50 limit), diğerleri unoptimized.
-Sıradaki: kask+interkom uyumluluk tablosunu yeni ürünlerle genişlet; yayına alma (kullanıcı onayı); admin/DB; Search Console.
+✅ Uyumluluk genişletildi: 17 kaska özel interkom, 167 kayıt (doğrulanmış 108+9), interkoma hazır tüm kasklara otomatik "teyit edilmedi" satırları.
+Sıradaki: yayına alma (kullanıcı onayı); admin/DB; Search Console.

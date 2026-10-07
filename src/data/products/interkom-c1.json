@@ -1,0 +1,2341 @@
+[
+  {
+    "slug": "smart-hjc-50b",
+    "brand": "hjc",
+    "name": "SMART HJC 50B",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "HJC'nin SENA ile birlikte geliştirdiği, ikinci nesil SMART HJC hazırlıklı kasklara gömülen Mesh + Bluetooth interkom. RPHA 91, RPHA 72, RPHA 60, RPHA 31 ve i71 gibi modellerin yuvalarına yerleşiyor.",
+    "description": [
+      "SMART HJC 50B, HJC'nin ikinci nesil kaska özel interkom ailesinin en üst modeli. HJC ünitenin SENA ile ortak geliştirildiğini, smarthjc.com ise 50B'nin SENA 50S/50R altyapısına dayandığını belirtiyor. Kumanda ünitesi, hoparlörler ve pil kaskın içindeki hazır yuvalara yerleşiyor; dışarıda evrensel kelepçeli bir kutu kalmıyor.",
+      "Üretici Bluetooth 5.0, Mesh (Open/Group) ve 2.000 m interkom menzili veriyor; FM radyo, müzik paylaşımı, sesli komut, dijital asistan erişimi ve Advanced Noise Control da listelenmiş. Bluetooth interkomda kişi sayısı (ABD sayfasında 9, smarthjc.com'da 4) ve pil süresi (10–13 saat arası farklı değerler) HJC'nin kendi sayfaları arasında çelişiyor; bu yüzden bu değerleri boş bıraktık.",
+      "Asıl sınır uyumluluk: ünite yalnız SMART HJC 2. nesil hazırlıklı HJC kasklarında çalışıyor. Ayrıca HJC'nin ABD ve AB mağazaları ekim 2026 itibarıyla ürünü 'tükendi' olarak gösteriyor; Türkiye'de ise bayi stokunda bulunuyor."
+    ],
+    "forWho": [
+      "RPHA 91, RPHA 72, RPHA 60, RPHA 31 veya i71 sahibi olup kaskla bütünleşik interkom isteyenler",
+      "Sena Mesh grubuyla süren HJC kullanıcıları",
+      "Kaskın dışında çıkıntı istemeyen tur sürücüleri"
+    ],
+    "notFor": [
+      "SMART HJC 2. nesil hazırlığı olmayan kask kullananlar (F100, C71, RPHA 12 gibi)",
+      "İnterkomu farklı markalardaki kasklar arasında taşımak isteyenler",
+      "Kuryeler; kaska özel ünite kask değişince boşa çıkar, kurye için evrensel ünite daha mantıklı"
+    ],
+    "pros": [
+      "Kaskın içine gömülü, rüzgârda temiz duran yapı",
+      "Mesh ve Bluetooth bir arada",
+      "FM radyo, müzik paylaşımı ve sesli komut",
+      "SENA altyapısı sayesinde Sena Mesh cihazlarıyla gruplaşma"
+    ],
+    "cons": [
+      "Yalnız belirli HJC kasklarına takılıyor",
+      "Pil süresi ve Bluetooth kişi sayısı üreticinin kendi sayfalarında tutarsız",
+      "HJC'nin resmi mağazalarında tükendi görünüyor; stok bulmak zor olabilir"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için kaskla bütünleşik, sade bir çözüm.",
+      "ciftSurucu": "Yolcuyla Mesh veya Bluetooth üzerinden rahat konuşma sağlar.",
+      "grup": "Mesh desteği sayesinde grup sürüşlerinde bağlantı kopmadan iletişim kurulabilir.",
+      "uzunYol": "Kaskın aerodinamiğini bozmadığı için uzun otoyol etaplarında gürültü ve sürtünme avantajı var.",
+      "sehir": "Şehirde de pratik; kaskı asarken takılacak dış ünite yok.",
+      "kurye": "Kaska özel ve pahalı; kurye kullanımında evrensel bir ünite daha esnek."
+    },
+    "verdict": "Uyumlu bir HJC kaskın varsa 50B, kaskına en temiz entegre olan Mesh interkom seçeneği. SENA altyapısı grup sürüşünde güven veriyor. Ama yalnız belirli HJC modellerine takılıyor ve resmi mağazalarda tükenmiş görünüyor; almadan önce kaskının listede olduğunu ve satıcının stokunu teyit et.",
+    "rivals": [
+      "sena/srl3",
+      "schuberth/sc2",
+      "sena/50r"
+    ],
+    "priceRange": {
+      "min": 27642.35,
+      "max": 27642.35,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tek satıcıda bulunan fiyat; satıcı uzun teslim süresi belirtiyor."
+    },
+    "offers": [
+      {
+        "seller": "motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-smart-50b-intercom",
+        "price": 27642.35,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SMART HJC 50B hangi kasklara takılır?",
+        "a": "smarthjc.com'daki uygulanabilir model listesi: RPHA 91, RPHA 72, RPHA 71, RPHA 60, RPHA 31, i71, i91, F71 ve F31. Bizim veri tabanımızda RPHA 91, RPHA 72, RPHA 60, RPHA 31 ve i71 bu listede. F100, C71 ve RPHA 12 için HJC bir SMART HJC hazırlığı belirtmiyor."
+      },
+      {
+        "q": "Sena interkomlarla konuşabilir mi?",
+        "a": "HJC ünitenin SENA ile ortak geliştirildiğini ve 50S/50R altyapısına dayandığını söylüyor; Mesh desteği olduğu için Sena Mesh gruplarına katılması bekleniyor. Satın almadan önce güncel yazılımı yüklemek iyi olur."
+      },
+      {
+        "q": "Eski SMART HJC 20B veya 10B ile aynı kasklara mı takılıyor?",
+        "a": "Hayır. 20B/10B birinci nesil sistemler ve RPHA 90, RPHA 70, i90 gibi eski kasklar içindi. 50B ikinci nesil hazırlıklı kasklar içindir."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/products/smart-hjc-50b",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/products/smart-hjc-50b",
+        "type": "manufacturer",
+        "label": "HJC Europe – SMART HJC 50B",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://hjchelmets.us/products/smart-hjc-50b",
+        "type": "manufacturer",
+        "label": "HJC USA – SMART HJC 50B",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://smarthjc.com/smart-hjc-50b-2/",
+        "type": "manufacturer",
+        "label": "SMART HJC – 50B ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-smart-50b-intercom",
+        "type": "retailer",
+        "label": "Motodium – HJC Smart 50B",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.meshMaxRiders",
+      "specs.bluetoothMaxRiders",
+      "specs.talkTimeHours",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "SENA tabanlı Mesh (Open/Group)",
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 2000,
+      "talkTimeHours": null,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "HD hoparlör",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "SMART HJC",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "smart-hjc-21b",
+    "brand": "hjc",
+    "name": "SMART HJC 21B",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "SMART HJC ailesinin Mesh'siz, Bluetooth 5.1'li orta modeli: 4 kişilik interkom, 1,6 km menzil ve evrensel interkom desteğiyle uyumlu HJC kasklarının içine gömülüyor.",
+    "description": [
+      "SMART HJC 21B, HJC'nin SENA ile ortak geliştirdiği ikinci nesil kaska özel sistemin Bluetooth modeli. Ünite RPHA 91, RPHA 72, RPHA 60, RPHA 31 ve i71 gibi hazırlıklı kasklardaki yuvalara yerleşiyor; dışarıda kelepçeli kutu kalmıyor.",
+      "Üretici Bluetooth 5.1, 4 kişilik Bluetooth interkom, 1.600 m menzil, evrensel interkom, sesli bildirimler, ses çoklu görev (audio multitasking) ve Advanced Noise Control belirtiyor. Mesh yok; grup sürüşlerinde zincir Bluetooth bağlantının sınırları geçerli. Pil süresi HJC'nin sayfalarında 13 ve 22 saat olarak farklı yazıldığı için boş bıraktık.",
+      "Yolcuyla ya da bir iki arkadaşla konuşmak isteyen, Mesh'e ihtiyaç duymayan HJC sahipleri için mantıklı bir orta yol. HJC'nin resmi mağazaları ürünü şu an tükendi olarak gösteriyor; Türkiye'de bayi stokunda bulunuyor."
+    ],
+    "forWho": [
+      "Uyumlu HJC kaskı olup yolcuyla konuşmak isteyenler",
+      "Mesh'e ihtiyaç duymayan, temiz entegrasyon isteyen sürücüler"
+    ],
+    "notFor": [
+      "Kalabalık grup sürüşü yapanlar; Mesh yok",
+      "SMART HJC 2. nesil hazırlığı olmayan kask kullananlar",
+      "Kuryeler; kaska özel ünite kask değişince işe yaramaz"
+    ],
+    "pros": [
+      "Kaskla bütünleşik, dışarıdan görünmeyen yapı",
+      "Bluetooth 5.1 ve 4 kişilik interkom",
+      "Evrensel interkom ile diğer markalara bağlanabilme",
+      "50B'ye göre daha uygun fiyat"
+    ],
+    "cons": [
+      "Mesh yok",
+      "Pil süresi resmi kaynaklarda tutarsız",
+      "Yalnız belirli HJC kasklarına uyuyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli, kaskla bütünleşik.",
+      "ciftSurucu": "Yolcu iletişimi için uygun.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda Mesh'li modeller daha iyi.",
+      "uzunYol": "Gömülü yapı rüzgâr gürültüsünü artırmaz.",
+      "sehir": "Şehir içi telefon ve navigasyon için pratik.",
+      "kurye": "Kaska özel olduğu için kurye kullanımında önerilmez."
+    },
+    "verdict": "21B, uyumlu bir HJC kaskı olan ve Mesh'e ihtiyaç duymayan sürücü için dengeli bir seçim. Entegrasyon temiz, fiyat 50B'den belirgin şekilde düşük. Grup sürüşü yapıyorsan Mesh'li 50B'ye bakmak daha doğru.",
+    "rivals": [
+      "hjc/smart-hjc-50b",
+      "sena/srl3",
+      "cardo/freecom-2x"
+    ],
+    "priceRange": {
+      "min": 15479.72,
+      "max": 15479.72,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tek satıcıda bulunan fiyat."
+    },
+    "offers": [
+      {
+        "seller": "motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-smart-21b-intercom",
+        "price": 15479.72,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "21B ile 50B arasındaki fark ne?",
+        "a": "50B Mesh destekli ve FM radyolu; 21B yalnız Bluetooth interkom sunuyor (4 kişi, 1,6 km). İkisi de aynı ikinci nesil HJC kasklarına takılıyor."
+      },
+      {
+        "q": "Hangi kasklara takılır?",
+        "a": "smarthjc.com listesi: RPHA 91, RPHA 72, RPHA 71, RPHA 60, RPHA 31, i71, i91, F71 ve F31. HJC'nin ABD sayfaları RPHA 91, RPHA 72, RPHA 31 ve i71 için '21B & 50B hazır' ifadesini kullanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/products/smart-hjc-21b",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/products/smart-hjc-21b",
+        "type": "manufacturer",
+        "label": "HJC Europe – SMART HJC 21B",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://hjchelmets.us/products/smart-hjc-21b",
+        "type": "manufacturer",
+        "label": "HJC USA – SMART HJC 21B",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-smart-21b-intercom",
+        "type": "retailer",
+        "label": "Motodium – HJC Smart 21B",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.talkTimeHours",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1600,
+      "talkTimeHours": null,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "HD hoparlör",
+      "waterproof": null,
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel interkom ile diğer markalara Bluetooth bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "SMART HJC",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "sena-for-shark-mesh",
+    "brand": "shark",
+    "name": "SENA for SHARK Mesh (MWS / MWD)",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Shark'ın SENA ile hazırladığı, Spartan GT Pro, Spartan RS, Skwal i3, Ridill 2, OXO ve RS Jet gibi kasklara uyan Mesh interkom. Tekli (MWS) ve ikili (MWD) set olarak satılıyor.",
+    "description": [
+      "SENA for SHARK Mesh, Shark'ın interkom hazırlıklı kasklarına yönelik kendi markalı sistemi. Shark'ın ürün sayfası uyumlu kaskları açıkça sayıyor: Aeron, D-Skwal 3, OXO, Ridill 2, RS Jet, Skwal i3, Skwal i3 Jet, Skwal Jet, Spartan GT Pro ve Spartan RS. Kutudan 40 mm HD hoparlörler, kablolu boom mikrofon, yapışkan ve cırt bantlar çıkıyor; montaj kaskın hazır ceplerine yapılıyor.",
+      "Üretici Bluetooth 5.2, 24 kişilik Group Mesh ve 9 kanallı Open Mesh, en iyi koşulda 1.600 m menzil (motosikletten motosiklete 800 m), 15 saat pil, 2,5 saat şarj, USB-C şarj, su geçirmezlik ve Advanced Noise Control belirtiyor. Ayarlar SHARK uygulamasından yapılıyor; ünite 28 g.",
+      "FM radyo, sesli komut ve evrensel interkom Mesh modelinde listelenmemiş. Menzil değerleri büyük üst segment ünitelerin gerisinde; buna karşın kaskın içinde temiz duran, hafif bir çözüm. Türkiye'deki yetkili mağazalarda henüz listelenmiş bir fiyat bulamadık."
+    ],
+    "forWho": [
+      "Uyumlu Shark kaskı olup grup sürüşü yapanlar",
+      "Hafif ve kaskla bütünleşik Mesh isteyenler"
+    ],
+    "notFor": [
+      "Uzun menzil arayanlar; motosikletten motosiklete 800 m sınırlı",
+      "Shark dışı kask kullananlar",
+      "Kuryeler; kaska özel kurulum ve Türkiye'de sınırlı bulunabilirlik nedeniyle uygun değil"
+    ],
+    "pros": [
+      "Bluetooth 5.2 ve 24 kişilik Group Mesh",
+      "USB-C şarj, 15 saat pil",
+      "28 g hafif ünite",
+      "Shark'ın kendi uyumluluk listesiyle net kask eşleşmesi"
+    ],
+    "cons": [
+      "Pratik menzil 800 m",
+      "FM radyo ve sesli komut belirtilmemiş",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli.",
+      "ciftSurucu": "MWD ikili set yolcu ile kullanım için hazır.",
+      "grup": "Group Mesh'te 24 kişiye kadar; yakın konvoylar için uygun.",
+      "uzunYol": "15 saat pil uzun günleri karşılar; menzil uzun konvoylarda sınır olabilir.",
+      "sehir": "Hafif ve kaskın içinde; şehirde pratik.",
+      "kurye": "Kaska özel ve Türkiye'de zor bulunur; kurye için önerilmez."
+    },
+    "verdict": "Uyumlu bir Shark kaskın varsa SENA for SHARK Mesh, markanın kendi önerdiği temiz ve hafif Mesh çözümü. Menzil değerleri büyük evrensel ünitelerin altında, Türkiye'de bulunabilirliği de sınırlı. Kısa konvoylar ve yolculu sürüş için yeterli, uzun menzil önceliğinse evrensel bir Mesh ünite daha güçlü.",
+    "rivals": [
+      "sena/50s",
+      "cardo/packtalk-neo",
+      "hjc/smart-hjc-50b"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hangi Shark kasklarla uyumlu?",
+        "a": "Shark'ın ürün sayfası: Aeron, D-Skwal 3, OXO, Ridill 2, RS Jet, Skwal i3, Skwal i3 Jet, Skwal Jet, Spartan GT Pro ve Spartan RS."
+      },
+      {
+        "q": "MWS ile MWD farkı ne?",
+        "a": "MWS tek kişilik, MWD iki kişilik set. Teknik özellikler aynı."
+      },
+      {
+        "q": "Sharktooth hâlâ satılıyor mu?",
+        "a": "Shark'ın güncel kataloğunda Sharktooth yok; kask sayfalarında hâlâ Sharktooth uyumluluğu yazsa da güncel önerilen sistem SENA for SHARK."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre",
+        "type": "manufacturer",
+        "label": "Shark – SENA for SHARK MWS",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.shark-helmets.com/en/products/sena-for-shark-mwd-senawavemwdgre",
+        "type": "manufacturer",
+        "label": "Shark – SENA for SHARK MWD",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.shark-helmets.com/en/collections/intercom",
+        "type": "manufacturer",
+        "label": "Shark – İnterkom koleksiyonu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Group Mesh (24 kişi) ve Open Mesh (9 kanal)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": 15,
+      "chargeTimeHours": 2.5,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "40 mm HD",
+      "waterproof": "Su geçirmez (üretici beyanı, sınıf belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "SHARK App",
+      "inBox": [
+        "Kablolu boom mikrofon ve standı",
+        "40 mm hoparlörler",
+        "Batarya",
+        "USB-C şarj kablosu",
+        "Çift taraflı yapışkan bant",
+        "Cırt bantlar",
+        "Mikrofon süngeri x2",
+        "Alyan anahtar",
+        "Mikrofon uzatma kablosu"
+      ]
+    }
+  },
+  {
+    "slug": "sena-for-shark-bluetooth",
+    "brand": "shark",
+    "name": "SENA for SHARK Bluetooth (BTS / BTD)",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Shark'ın interkom hazırlıklı kaskları için SENA ile hazırlanan Bluetooth 5.1 interkom: 4 kişiye kadar, 800 m menzil, evrensel Bluetooth bağlantı ve müzik paylaşımı.",
+    "description": [
+      "SENA for SHARK Bluetooth, aynı ailenin Mesh'siz ve daha uygun fiyatlı modeli. Shark'ın ürün sayfası Mesh modeliyle aynı kask listesini veriyor: Aeron, D-Skwal 3, OXO, Ridill 2, RS Jet, Skwal i3, Skwal i3 Jet, Skwal Jet, Spartan GT Pro ve Spartan RS. Tekli (BTS) ve ikili (BTD) set olarak satılıyor.",
+      "Üretici Bluetooth 5.1, 4 kişiye kadar interkom, 800 m menzil, evrensel Bluetooth bağlantı, müzik paylaşımı, 40 mm HD hoparlör, su geçirmezlik, 15 saat pil, 2,5 saat şarj ve USB-C belirtiyor. Ünite 28 g; ayarlar SHARK uygulamasından yapılıyor.",
+      "Yolcuyla konuşmak ve telefon/navigasyon dinlemek için yeterli, ama 800 m menzil ve Bluetooth zinciri grup sürüşlerinde sınır koyuyor. Türkiye'deki yetkili mağazalarda listelenmiş bir fiyat bulamadık."
+    ],
+    "forWho": [
+      "Uyumlu Shark kaskı olup yolcuyla konuşmak isteyenler",
+      "Bütçeyi düşük tutup temiz entegrasyon isteyenler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar; Mesh yok",
+      "Shark dışı kask kullananlar",
+      "Kuryeler; kaska özel ve Türkiye'de zor bulunuyor"
+    ],
+    "pros": [
+      "Evrensel Bluetooth bağlantı ve müzik paylaşımı",
+      "USB-C şarj, 15 saat pil",
+      "Hafif (28 g)"
+    ],
+    "cons": [
+      "Mesh yok, menzil 800 m",
+      "FM radyo ve sesli komut belirtilmemiş",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli.",
+      "ciftSurucu": "BTD ikili set yolcu iletişimi için hazır.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda yetersiz.",
+      "uzunYol": "Pil süresi uzun yola yeter.",
+      "sehir": "Şehirde pratik ve hafif.",
+      "kurye": "Kurye kullanımı için önerilmez."
+    },
+    "verdict": "Uyumlu Shark kaskına sahip, yolcuyla konuşmak ve müzik dinlemek isteyen sürücü için yeterli ve hafif bir çözüm. Grup sürüşü yapıyorsan Mesh modeline geçmek daha doğru; Türkiye'de bulunabilirliği önceden kontrol et.",
+    "rivals": [
+      "shark/sena-for-shark-mesh",
+      "cardo/freecom-2x",
+      "sena/5r"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Mesh modelinden farkı ne?",
+        "a": "Bluetooth modeli 4 kişiye kadar zincir Bluetooth bağlantı ve 800 m menzil sunuyor; Mesh modelinde 24 kişilik Group Mesh var. Kask uyumu aynı."
+      },
+      {
+        "q": "Diğer marka interkomlarla konuşabilir mi?",
+        "a": "Shark Bluetooth modeli için evrensel Bluetooth bağlantı belirtiyor; diğer marka interkomlarla eşleşebiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk",
+        "type": "manufacturer",
+        "label": "Shark – SENA for SHARK BTS",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.shark-helmets.com/en/products/sena-for-shark-btd-senatoothbtdblk",
+        "type": "manufacturer",
+        "label": "Shark – SENA for SHARK BTD",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 800,
+      "talkTimeHours": 15,
+      "chargeTimeHours": 2.5,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "40 mm HD",
+      "waterproof": "Su geçirmez (üretici beyanı, sınıf belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel Bluetooth ile diğer markalara bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "SHARK App",
+      "inBox": [
+        "Kablolu boom mikrofon ve standı",
+        "40 mm hoparlörler",
+        "Batarya",
+        "USB-C şarj kablosu",
+        "Çift taraflı yapışkan bant",
+        "Cırt bantlar",
+        "Mikrofon süngeri x2",
+        "Alyan anahtar",
+        "Mikrofon uzatma kablosu"
+      ]
+    }
+  },
+  {
+    "slug": "n-com-mesh",
+    "brand": "nolan",
+    "name": "N-Com Mesh",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Nolan'ın Sena ile geliştirdiği yeni nesil N-Com Mesh: Mesh 3.0, Bluetooth 5.1 ve USB-C ile N100-6, N80-8, N120-1, N70-2 X ve X-1005 gibi Nolan Grubu kasklarının N-Com yuvasına yerleşiyor.",
+    "description": [
+      "N-Com Mesh, Nolan Grubu'nun eski B902 serisinin yerini alan güncel kaska özel interkom. Nolan ürünün Sena ile ortak geliştirildiğini ve tüm Sena Mesh cihazlarıyla uyumlu olduğunu belirtiyor. Ünite, Nolan ve X-lite kasklarındaki N-Com yuvasına yerleşiyor; hoparlörler ve mikrofon kaskın hazır ceplerine giriyor.",
+      "Üretici Bluetooth 5.1, Mesh Intercom 3.0 (geriye dönük Mesh 2.0 desteğiyle), Group Mesh'te 24 kişi ve Open Mesh'te sınırsız sürücü, sürücüden sürücüye 800 m menzil (grupta Mesh ile uzuyor), 15 saat konuşma, 2,5 saatte şarj ve USB-C veriyor. 40 mm HD hoparlör, su geçirmez yapı, Advanced Noise Control, ses çoklu görevi, OTA yazılım güncellemesi ve N-Com Easyset uygulaması da listelenmiş; Sena WAVE ile hücresel veri üzerinden interkom da destekleniyor.",
+      "Nolan, sistemi X-804 RS Ultra Carbon, N60-6 ve N60-6 Sport dışındaki tüm Nolan kasklarıyla uyumlu ve homologe olarak tanımlıyor. FM radyo resmi sayfada yer almıyor; radyo dinleyenler için bu bir eksi."
+    ],
+    "forWho": [
+      "N-Com yuvalı Nolan veya X-lite kask kullananlar",
+      "Sena Mesh grubuyla süren sürücüler",
+      "Kasktan taşmayan, homologe bir çözüm isteyen tur sürücüleri"
+    ],
+    "notFor": [
+      "X-804 RS Ultra Carbon, N60-6 veya Nolan dışı kask kullananlar",
+      "FM radyo isteyenler",
+      "Kuryeler; kaska özel ünite kask değişince boşa çıkar"
+    ],
+    "pros": [
+      "Sena Mesh 3.0 ile tam uyum",
+      "Kaskın N-Com yuvasına homologe kurulum",
+      "USB-C, 15 saat konuşma ve OTA güncelleme",
+      "Türkiye'de yetkili satıcıda bulunabiliyor"
+    ],
+    "cons": [
+      "Sürücüden sürücüye menzil 800 m ile sınırlı",
+      "FM radyo belirtilmemiş",
+      "Yalnız Nolan Grubu kasklarına uyuyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için kaskla bütünleşik bir çözüm.",
+      "ciftSurucu": "Yolcuyla Mesh üzerinden zahmetsiz konuşma.",
+      "grup": "Group Mesh'te 24 kişi, Open Mesh'te sınırsız; Sena cihazlarıyla aynı gruba girer.",
+      "uzunYol": "15 saat konuşma süresi uzun günleri karşılar; gömülü yapı rüzgâr gürültüsü yaratmaz.",
+      "sehir": "Kaskın içinde olduğu için şehirde pratik.",
+      "kurye": "Kaska özel; kurye kullanımında evrensel bir ünite daha esnek."
+    },
+    "verdict": "N-Com yuvalı bir Nolan kaskın varsa N-Com Mesh, homologasyonu bozmadan Sena Mesh dünyasına girmenin en temiz yolu. Menzil üst segment evrensel ünitelerin gerisinde ve FM radyo yok; ama entegrasyon, pil ve fiyat dengesi güçlü.",
+    "rivals": [
+      "nolan/n-com-bluetooth-plus",
+      "sena/srl3",
+      "hjc/smart-hjc-50b"
+    ],
+    "priceRange": {
+      "min": 16056.6,
+      "max": 16056.6,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli paket."
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-n-com-mesh-interkom-tekli-paket-_59880.html",
+        "price": 16056.6,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "N-Com Mesh hangi kasklara takılır?",
+        "a": "Nolan'ın N-Com uyumluluk tablosuna göre N100-6, N80-8, N120-1, N70-2 X ve X-1005 dahil Nolan Grubu kasklarına takılıyor. X-804 RS Ultra Carbon, N60-6 ve N60-6 Sport desteklenmiyor."
+      },
+      {
+        "q": "Sena cihazlarıyla konuşabilir mi?",
+        "a": "Evet. Nolan sistemin Sena ile geliştirildiğini ve tüm Sena Mesh cihazlarıyla uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Eski B902 X / B902 R hâlâ satılıyor mu?",
+        "a": "Hayır, Nolan'ın resmi mağazasında artık yer almıyorlar. Güncel seçenekler N-Com Mesh, N-Com Bluetooth+, B101 R ve ESS III."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/mesh-bncom00000052",
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/mesh-bncom00000052",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com Mesh ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com uyumluluk tablosu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nolan-helmets.com/cdn/shop/files/UserGuide_N-com_Mesh_1.0.0_en_250903.pdf",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com Mesh kullanım kılavuzu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-n-com-mesh-interkom-tekli-paket-_59880.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan N-Com Mesh tekli paket",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": true,
+      "meshTech": "Sena Mesh Intercom 3.0 (Mesh 2.0 geriye uyumlu)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 800,
+      "talkTimeHours": 15,
+      "chargeTimeHours": 2.5,
+      "usbC": true,
+      "fastCharge": "2,5 saatte tam şarj",
+      "speakers": "40 mm HD",
+      "waterproof": "Su geçirmez (üretici beyanı, IP sınıfı belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": "Tüm Sena Mesh cihazlarıyla Mesh bağlantısı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "N-Com Easyset, WAVE Intercom",
+      "inBox": [
+        "N-Com ünitesi",
+        "Batarya ve yapışkan köpük",
+        "2 adet hoparlör ve cırt bantlar",
+        "Kablolu boom mikrofon ve tutucusu",
+        "Mikrofon uzatma kablosu",
+        "Mikrofon süngerleri",
+        "Çift taraflı bant",
+        "USB-C kablo",
+        "Alyan anahtar",
+        "Kablolu mikrofon (kapalı kask için)"
+      ]
+    }
+  },
+  {
+    "slug": "n-com-bluetooth-plus",
+    "brand": "nolan",
+    "name": "N-Com Bluetooth+",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Nolan'ın Sena ile geliştirdiği Mesh'siz N-Com: Bluetooth 5.1, 4 kişiye kadar interkom, evrensel interkom, müzik paylaşımı ve USB-C ile Nolan Grubu kasklarının N-Com yuvasına uyuyor.",
+    "description": [
+      "N-Com Bluetooth+, yeni N-Com ailesinin Bluetooth modeli. Nolan, sistemin Sena ile birlikte tasarlanıp geliştirildiğini belirtiyor. Ünite N-Com yuvalı Nolan ve X-lite kasklara yerleşiyor; uyumluluk tablosu Mesh modeliyle aynı.",
+      "Üretici Bluetooth 5.1, 4 kişiye kadar çoklu interkom, 800 m menzil, evrensel interkom, müzik paylaşımı, GPS bağlantısı, Mobile Conference (çağrı paylaşımı), iki telefon desteği, 15 saat konuşma, 2,5 saatte şarj, USB-C, 40 mm HD hoparlör, su geçirmez yapı ve OTA güncelleme belirtiyor.",
+      "Mesh olmadığı için büyük gruplarda zincir Bluetooth bağlantının sınırları geçerli; yolcu ve bir iki arkadaşla konuşmak için yeterli. Nolan bu modelin de X-804 RS Ultra Carbon, N60-6 ve N60-6 Sport'a uymadığını belirtiyor."
+    ],
+    "forWho": [
+      "N-Com yuvalı Nolan kask kullanıp yolcuyla konuşmak isteyenler",
+      "Mesh'e ihtiyaç duymayan, bütçeli entegre çözüm arayanlar"
+    ],
+    "notFor": [
+      "Kalabalık grup sürüşü yapanlar; Mesh yok",
+      "X-804 RS Ultra Carbon, N60-6 veya Nolan dışı kask kullananlar",
+      "Kuryeler; kaska özel ünite kask değişince işe yaramaz"
+    ],
+    "pros": [
+      "Evrensel interkom ve müzik paylaşımı",
+      "USB-C, 15 saat konuşma, OTA güncelleme",
+      "Mesh modeline göre daha uygun fiyat",
+      "Türkiye'de yetkili satıcıda bulunabiliyor"
+    ],
+    "cons": [
+      "Mesh yok, menzil 800 m",
+      "FM radyo belirtilmemiş",
+      "Yalnız Nolan Grubu kasklarına uyuyor"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için yeterli.",
+      "ciftSurucu": "Yolcuyla konuşma ve müzik paylaşımı için uygun.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda N-Com Mesh daha doğru.",
+      "uzunYol": "15 saat konuşma süresi uzun yola yeter.",
+      "sehir": "Kaskın içinde; şehirde pratik.",
+      "kurye": "Kaska özel; kurye kullanımında önerilmez."
+    },
+    "verdict": "N-Com Bluetooth+, Nolan kaskına temiz bir entegre interkom isteyen ama Mesh'e ihtiyaç duymayan sürücü için mantıklı. Evrensel interkom ve müzik paylaşımı var, fiyat Mesh modelinden düşük. Grupla sürüyorsan N-Com Mesh'e yönel.",
+    "rivals": [
+      "nolan/n-com-mesh",
+      "hjc/smart-hjc-21b",
+      "cardo/freecom-2x"
+    ],
+    "priceRange": {
+      "min": 13841.9,
+      "max": 13841.9,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tekli paket."
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-n-com-bluetooth-plus-tekli-paket-_59881.html",
+        "price": 13841.9,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mesh modelinden farkı ne?",
+        "a": "Bluetooth+ en fazla 4 kişilik zincir Bluetooth interkom sunuyor; Mesh modelinde 24 kişilik Group Mesh ve sınırsız Open Mesh var. Kask uyumu aynı."
+      },
+      {
+        "q": "Diğer marka interkomlarla konuşabilir mi?",
+        "a": "Evet, Nolan evrensel interkom desteği belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/bluetooth-bncom00000050",
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/bluetooth-bncom00000050",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com Bluetooth+ ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nolan-helmets.com/en/pages/n-com-compatibility",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com uyumluluk tablosu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nolan-helmets.com/cdn/shop/files/UserGuide_N-com_Bluetooth_Plus_1.0.0_en_250903.pdf",
+        "type": "manufacturer",
+        "label": "Nolan – N-Com Bluetooth+ kullanım kılavuzu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-n-com-bluetooth-plus-tekli-paket-_59881.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan N-Com Bluetooth+ tekli paket",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.fmRadio",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 800,
+      "talkTimeHours": 15,
+      "chargeTimeHours": 2.5,
+      "usbC": true,
+      "fastCharge": "2,5 saatte tam şarj",
+      "speakers": "40 mm HD",
+      "waterproof": "Su geçirmez (üretici beyanı, IP sınıfı belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel interkom ile diğer markalara Bluetooth bağlantı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "N-Com Easyset",
+      "inBox": [
+        "N-Com ünitesi",
+        "Batarya ve yapışkan köpük",
+        "2 adet hoparlör ve cırt bantlar",
+        "Kablolu boom mikrofon ve tutucusu",
+        "Mikrofon uzatma kablosu",
+        "Mikrofon süngerleri",
+        "Çift taraflı bant",
+        "USB-C kablo",
+        "Alyan anahtar"
+      ]
+    }
+  },
+  {
+    "slug": "pro-speak-evo",
+    "brand": "caberg",
+    "name": "Pro Speak Evo",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Caberg'in Midland ile geliştirdiği kaska özel Bluetooth 5.0 interkomu: Duke X, Drift Evo II ve Tanami gibi Caberg kasklarına kelepçesiz yerleşiyor, kask ECE 22.06 testlerini ünite takılıyken de geçmiş.",
+    "description": [
+      "Pro Speak Evo, Caberg'in güncel tek iletişim sistemi. Caberg sayfasında 'Powered by Midland' ibaresi var, markanın blogu da sistemin Midland ile birlikte geliştirildiğini söylüyor. Ünite Caberg kasklarının hazır yuvasına oturuyor; Caberg her kask için ayrı montaj kılavuzu yayımlıyor.",
+      "Teknik tarafta Bluetooth 5.0, sürücü–yolcu ve motosikletten motosiklete bire bir interkom, evrensel interkom, DSP gürültü bastırma, sesli bildirimler, 36 mm hoparlörler, su geçirmez yapı ve USB-C şarj var. Menzil 200 m ile sınırlı. Konuşma süresi Caberg sayfasında 7/8 saat, kılavuzda 8 saate kadar; şarj süresi de 2 ile 2,5 saat arasında farklı yazılmış.",
+      "En güçlü yanı homologasyon: Caberg, Tanami ve Drift Evo II'nin ECE 22.06 testlerini Pro Speak Evo takılıyken de geçtiğini belirtiyor. Zayıf yanı menzil ve grup desteği; Mesh yok, çoklu grup konuşması tanımlanmamış. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "Duke X, Drift Evo II veya Tanami sahipleri",
+      "Yolcuyla konuşma ve telefon/navigasyon için temiz entegrasyon isteyenler",
+      "Homologasyona uygun montaj önemseyenler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar; Mesh yok ve menzil 200 m",
+      "Caberg dışı kask kullananlar",
+      "Kuryeler; kaska özel ve Türkiye'de zor bulunuyor"
+    ],
+    "pros": [
+      "Caberg kasklarına özel, kelepçesiz montaj",
+      "ECE 22.06 testleri ünite takılıyken geçilmiş (Tanami, Drift Evo II)",
+      "USB-C ve su geçirmez yapı",
+      "Evrensel interkom"
+    ],
+    "cons": [
+      "Menzil yalnız 200 m",
+      "Mesh ve çoklu grup interkomu yok",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için kaskla bütünleşik, sade bir çözüm.",
+      "ciftSurucu": "Sürücü–yolcu iletişimi için tasarlanmış.",
+      "grup": "Bire bir interkom ve 200 m menzil; grup sürüşü için uygun değil.",
+      "uzunYol": "8 saate kadar konuşma süresi tek günlük turlara yeter.",
+      "sehir": "Şehirde telefon ve navigasyon için pratik.",
+      "kurye": "Kurye kullanımında evrensel ve uzun pilli bir ünite daha mantıklı."
+    },
+    "verdict": "Pro Speak Evo, Caberg kaskına homologasyonu bozmadan interkom eklemek isteyen ve çoğunlukla yolcuyla ya da tek başına süren biri için mantıklı. Menzil ve grup desteği zayıf; arkadaşlarınla konvoy halinde sürüyorsan evrensel bir Mesh ünite daha uygun.",
+    "rivals": [
+      "nolan/n-com-bluetooth-plus",
+      "midland/btx2-pro-s-lr",
+      "cardo/freecom-2x"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Pro Speak Evo hangi Caberg kasklarına takılır?",
+        "a": "Caberg montaj kılavuzlarını Levo X, Trip, Horus X, Duke Evo, Duke X, Tourmax X, GP01, Tanami, Drift Evo II, Avalon X, Roxter, Riviera V4 X, Flyon II, Soho, Freeride X ve Ghost X için yayımlıyor."
+      },
+      {
+        "q": "Just Speak Evo ile farkı ne?",
+        "a": "Just Speak Evo, Caberg'in eski ve artık sitede bulunmayan Bluetooth 3.0'lı sistemiydi. Duke X, Drift Evo II ve Tanami gibi yeni kasklar Pro Speak Evo'ya göre hazırlanmış."
+      },
+      {
+        "q": "Takınca kaskın homologasyonu bozulur mu?",
+        "a": "Caberg, Tanami ve Drift Evo II'nin ECE 22.06 testlerini Pro Speak Evo takılıyken de geçtiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.caberg.it/en/communication-systems/",
+    "sources": [
+      {
+        "url": "https://www.caberg.it/en/communication-systems/",
+        "type": "manufacturer",
+        "label": "Caberg – İletişim sistemleri (Pro Speak Evo)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.caberg.it/download/bluetooth/MANUAL-CABERG-PRO-SPEAK-EVO-REV1.pdf",
+        "type": "manufacturer",
+        "label": "Caberg – Pro Speak Evo kullanım kılavuzu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.caberg.it/mondo-caberg/en/2023/05/09/pro-speak-evo-the-brand-new-caberg-wireless-communication-system/",
+        "type": "manufacturer",
+        "label": "Caberg blog – Pro Speak Evo tanıtımı",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.talkTimeHours",
+      "specs.chargeTimeHours",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.app"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 200,
+      "talkTimeHours": null,
+      "chargeTimeHours": null,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "36 mm",
+      "waterproof": "Su geçirmez (üretici beyanı, IP sınıfı belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel interkom ile diğer markalara bağlantı; BMW, KTM ve Ducati entegre sistemleriyle çalışır (üretici beyanı)",
+      "otaUpdate": false,
+      "app": null,
+      "inBox": [
+        "Pro Speak Evo ünitesi",
+        "Kablolu mikrofon (kapalı kask)",
+        "Boom mikrofon (açık/çene açılır kask)",
+        "Yedek mikrofon süngeri",
+        "Kalın hoparlör aralayıcıları",
+        "Şarj kablosu"
+      ]
+    }
+  },
+  {
+    "slug": "sc2",
+    "brand": "schuberth",
+    "name": "SC2",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Schuberth'in Sena 50S altyapılı kaska özel Mesh interkomu: hoparlör ve antenleri önceden kurulu C5, S3, E2 ve J2 kasklarına tak-çalıştır yerleşiyor, 2 km menzil ve FM radyo sunuyor.",
+    "description": [
+      "SC2, Schuberth'in Sena ile geliştirdiği ve Sena 50S altyapısına dayanan kaska özel interkomu. Schuberth'in yeni nesil kasklarında hoparlörler, mikrofon bağlantısı ve Mesh/Bluetooth/FM antenleri fabrikadan kaskın içine yerleştirilmiş durumda; SC2 ünitesi ve kumandası bu hazır altyapıya takılıyor. Üretici uyumlu kaskları C5, C5 Carbon, S3, S3 Carbon, E2, E2 Carbon ve J2 olarak sayıyor.",
+      "Üretici Bluetooth 5.0, Open Mesh'te pratikte sınırsız (9 kanal) ve Group Mesh'te 24 sürücü, 4 kişilik Bluetooth konferans, açık arazide 2 km menzil, FM radyo, müzik paylaşımı, çok dilli sesli komut, Siri/Google Asistan ve evrensel interkom belirtiyor. Şarj yaklaşık 2 saat, şarj kablosu USB-C. Konuşma süresi veri sayfasında Mesh'te 8, Bluetooth'ta 12 saat. Schuberth Mesh sürümünü sitesinde 3.0, 2023 veri sayfasında 2.0 olarak yazıyor.",
+      "Karbon kasklarda menzil belirgin düşüyor: Schuberth sitede yaklaşık 400 m, veri sayfasında 700 m diyor. Yazılım güncellemesi kablosuz değil; bilgisayardaki Schuberth Device Manager ile yapılıyor."
+    ],
+    "forWho": [
+      "Schuberth C5, S3, E2 veya J2 sahipleri",
+      "Sena Mesh grubuyla süren tur sürücüleri",
+      "Kaskın aerodinamiğini ve homologasyonunu korumak isteyenler"
+    ],
+    "notFor": [
+      "Schuberth dışı veya C5 ANC kask kullananlar",
+      "Karbon kaskta uzun menzil bekleyenler",
+      "Kuryeler; kaska özel ve pahalı bir sistem, kurye kullanımında evrensel ünite daha mantıklı"
+    ],
+    "pros": [
+      "Hoparlör ve antenler kaskta hazır; tak-çalıştır kurulum",
+      "Sena Mesh ile 24 kişilik grup ve Open Mesh",
+      "FM radyo, müzik paylaşımı, sesli komut",
+      "Türkiye'de birden fazla satıcıda bulunuyor"
+    ],
+    "cons": [
+      "Karbon kasklarda menzil 400–700 m'ye düşüyor",
+      "Yazılım güncellemesi yalnız bilgisayardan",
+      "Mesh'te konuşma süresi 8 saat"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için kaskla tamamen bütünleşik bir çözüm.",
+      "ciftSurucu": "Yolcuyla Mesh ya da Bluetooth üzerinden rahat konuşma.",
+      "grup": "Group Mesh'te 24 kişi, Open Mesh'te pratikte sınırsız; Sena cihazlarıyla aynı gruba girer.",
+      "uzunYol": "Kask dışında çıkıntı olmadığı için otoyolda rüzgâr gürültüsü artmıyor; Mesh'te 8 saatlik pil uzun günlerde sınır olabilir.",
+      "sehir": "Şehirde de pratik; kaskı asarken takılacak bir dış ünite yok.",
+      "kurye": "Kaska özel ve pahalı; kurye kullanımında önerilmez."
+    },
+    "verdict": "Schuberth C5, S3, E2 veya J2 sahibiysen SC2, kaskın içine hazırlanmış altyapıyı en iyi kullanan, Sena Mesh dünyasına doğrudan bağlanan seçenek. Karbon kasklarda menzilin düştüğünü ve Mesh'te pil süresinin 8 saat olduğunu bilerek al; Cardo kullanan bir grupla sürüyorsan SC EDGE'e bak.",
+    "rivals": [
+      "schuberth/sc-edge",
+      "schuberth/sc2-standard",
+      "sena/srl3"
+    ],
+    "priceRange": {
+      "min": 27075,
+      "max": 27130.12,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/schuberth-c5-e2-s3-j2-kasklar-icin-bluetooth-interkom-schuberth-sc2-_57133.html",
+        "price": 27130.12,
+        "inStock": true,
+        "salePrice": null,
+        "currency": "TRY",
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Mototeks",
+        "url": "https://www.mototeks.com.tr/urun/schuberth-sc2-intercom-schuberth-c5-kasklar-icin",
+        "price": 27075,
+        "inStock": true,
+        "salePrice": null,
+        "currency": "TRY",
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SC2 hangi kasklara takılır?",
+        "a": "Schuberth'e göre C5, C5 Carbon, S3, S3 Carbon, E2, E2 Carbon ve J2. Yeni C5 ANC için yalnız SC EDGE ANC uygun."
+      },
+      {
+        "q": "SC2 ile SC EDGE arasındaki fark ne?",
+        "a": "SC2 Sena altyapılı (Sena Mesh, 2 km), SC EDGE ise Cardo Packtalk Edge altyapılı (Cardo DMC Mesh, 1,6 km, kablosuz güncelleme). Grubun hangi markayı kullandığına göre seçmek mantıklı."
+      },
+      {
+        "q": "Karbon kaskta menzil neden düşüyor?",
+        "a": "Karbon kabuk radyo sinyallerini zayıflatıyor. Schuberth karbon kasklarda SC2 menzilini sitede yaklaşık 400 m, veri sayfasında 700 m olarak belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.schuberth.com/en/communication-systems/sc2/831/sc2-set",
+    "sources": [
+      {
+        "url": "https://shop.schuberth.com/en/communication-systems/sc2/831/sc2-set",
+        "type": "manufacturer",
+        "label": "Schuberth Shop – SC2 Set",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.schuberth.com/en/SC2",
+        "type": "manufacturer",
+        "label": "Schuberth – SC2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://content.schuberth.com/storage/uploads/2023/10/04/2023_EN_data_sheet_SC2_uid_651d47073b1e4.pdf",
+        "type": "manufacturer",
+        "label": "Schuberth – SC2 veri sayfası (2023)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://content.schuberth.com/storage/uploads/2024/04/25/UsersGuide_SC2_1.3.0_en_231218_uid_662a0fc4eeddd.pdf",
+        "type": "manufacturer",
+        "label": "Schuberth – SC2 kullanım kılavuzu 1.3.0",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/schuberth-c5-e2-s3-j2-kasklar-icin-bluetooth-interkom-schuberth-sc2-_57133.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Schuberth SC2",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototeks.com.tr/urun/schuberth-sc2-intercom-schuberth-c5-kasklar-icin",
+        "type": "retailer",
+        "label": "Mototeks – Schuberth SC2",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.fastCharge",
+      "specs.waterproof"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh (Open Mesh 9 kanal, Group Mesh 24 kişi; sürüm sitede 3.0, veri sayfasında 2.0)",
+      "meshMaxRiders": 24,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 2000,
+      "talkTimeHours": 12,
+      "chargeTimeHours": 2,
+      "usbC": true,
+      "fastCharge": null,
+      "speakers": "HD hoparlör (kaskta önceden kurulu)",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel interkom ile HFP destekli diğer marka kulaklıklara bağlantı (üretici beyanı)",
+      "otaUpdate": false,
+      "app": "SCHUBERTH SC2",
+      "inBox": [
+        "SC2 ünitesi",
+        "SC2 kumanda",
+        "HD boom mikrofon",
+        "USB-C güç ve veri kablosu",
+        "Düğme pil",
+        "2 mikrofon süngeri"
+      ]
+    }
+  },
+  {
+    "slug": "sc2-standard",
+    "brand": "schuberth",
+    "name": "SC2 Standard",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Schuberth'in Sena 10S altyapılı, Mesh'siz kaska özel interkomu: C5, S3, E2 ve J2'nin hazır hoparlör ve antenlerine takılıyor; 4 kişilik Bluetooth interkom, FM radyo ve 12 saat konuşma sunuyor.",
+    "description": [
+      "SC2 Standard, SC2'nin Mesh'siz ve daha uygun fiyatlı kardeşi. Schuberth sistemi Sena 10S altyapısına dayandırıyor ve aynı hazır kask altyapısını kullanıyor: hoparlörler ve antenler kaskta, ünite ve kumanda tak-çalıştır. Ürün sayfası uyumlu kaskları C5 Carbon, E2 Carbon, C5, E2, S3 ve J2 olarak sayıyor; genel bakış sayfası S3 Carbon'u da ekliyor.",
+      "Üretici 4 kişilik Bluetooth interkom, 12 saate kadar konuşma, FM radyo, müzik paylaşımı, çok dilli sesli komut, Siri/Google Asistan ve Advanced Noise Control belirtiyor. Menzil ürün sayfasında 1 km (karbon kaskta 400 m), karşılaştırma tablosunda 800 m; Bluetooth sürümü de sitede 5.1, mağazada 5.2 yazıyor. Bu çelişkiler nedeniyle menzili boş bıraktık.",
+      "Yolcuyla ya da küçük bir grupla konuşan, Mesh'e ihtiyaç duymayan Schuberth sahipleri için mantıklı. Schuberth'in AB mağazası ürünü şu an yoğun talep nedeniyle tükendi olarak gösteriyor; Türkiye'de stoklu satıcı bulunuyor."
+    ],
+    "forWho": [
+      "Schuberth C5, S3, E2 veya J2 sahibi olup Mesh'e ihtiyaç duymayanlar",
+      "Yolcuyla konuşmak ve radyo dinlemek isteyenler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar; Mesh yok",
+      "Schuberth dışı veya C5 ANC kask kullananlar",
+      "Kuryeler; kaska özel sistem kurye kullanımı için gereksiz pahalı"
+    ],
+    "pros": [
+      "Kaskın hazır altyapısına tak-çalıştır kurulum",
+      "FM radyo, müzik paylaşımı ve sesli komut",
+      "SC2'ye göre belirgin daha uygun fiyat"
+    ],
+    "cons": [
+      "Mesh yok",
+      "Menzil ve Bluetooth sürümü resmi kaynaklarda tutarsız",
+      "AB resmi mağazasında tükendi"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için yeterli.",
+      "ciftSurucu": "Yolcu iletişimi için uygun.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda SC2 veya SC EDGE daha doğru.",
+      "uzunYol": "12 saat konuşma süresi uzun günleri karşılar.",
+      "sehir": "Şehirde pratik, dışarıda ünite yok.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "SC2 Standard, Schuberth kaskına temiz bir interkom isteyen ama Mesh'e ihtiyaç duymayan sürücü için mantıklı ve daha uygun fiyatlı bir seçim. Grup sürüşleri sıksa SC2 veya SC EDGE'e yüksel.",
+    "rivals": [
+      "schuberth/sc2",
+      "nolan/n-com-bluetooth-plus",
+      "hjc/smart-hjc-21b"
+    ],
+    "priceRange": {
+      "min": 20984,
+      "max": 20984,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Havale/EFT'de satıcı ek indirim uyguluyor."
+    },
+    "offers": [
+      {
+        "seller": "Mototeks",
+        "url": "https://www.mototeks.com.tr/urun/schuberth-sc2-standard-intercom-schuberth-c5-e2-s3-j2-kasklar-icin",
+        "price": 20984,
+        "inStock": true,
+        "salePrice": null,
+        "currency": "TRY",
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "SC2 Standard hangi kasklara takılır?",
+        "a": "Schuberth'e göre C5, C5 Carbon, S3, S3 Carbon, E2, E2 Carbon ve J2."
+      },
+      {
+        "q": "SC2 ile farkı ne?",
+        "a": "SC2 Sena Mesh destekli ve 2 km menzilli; SC2 Standard yalnız Bluetooth interkom sunuyor (4 kişi). Kask uyumu aynı."
+      }
+    ],
+    "manufacturerUrl": "https://shop.schuberth.com/en/communication-systems/sc2-standard/919/sc2-standard-set",
+    "sources": [
+      {
+        "url": "https://shop.schuberth.com/en/communication-systems/sc2-standard/919/sc2-standard-set",
+        "type": "manufacturer",
+        "label": "Schuberth Shop – SC2 Standard Set",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.schuberth.com/en/sc2-standard",
+        "type": "manufacturer",
+        "label": "Schuberth – SC2 Standard ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.schuberth.com/en/motorcycle-communication-systems",
+        "type": "manufacturer",
+        "label": "Schuberth – İletişim sistemleri karşılaştırması",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototeks.com.tr/urun/schuberth-sc2-standard-intercom-schuberth-c5-e2-s3-j2-kasklar-icin",
+        "type": "retailer",
+        "label": "Mototeks – Schuberth SC2 Standard",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.rangeMeters",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof",
+      "specs.universalIntercom",
+      "specs.crossBrand",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": null,
+      "talkTimeHours": 12,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "HD hoparlör (kaskta önceden kurulu)",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": null,
+      "app": "SCHUBERTH SC2",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "sc-edge",
+    "brand": "schuberth",
+    "name": "SC EDGE",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Schuberth'in Cardo Packtalk Edge altyapılı kaska özel interkomu: C5, S3, E2 ve J2'nin hazır altyapısına takılıyor; Cardo DMC Mesh, 1,6 km menzil, Natural Voice ve kablosuz güncelleme sunuyor.",
+    "description": [
+      "SC EDGE, Schuberth'in Cardo ile geliştirdiği ve Packtalk Edge yonga setini kullanan kaska özel interkomu. SC2 ile aynı hazır kask altyapısına (önceden kurulu hoparlör ve antenler) takılıyor; Schuberth uyumlu kaskları C5, C5 Carbon, E2, E2 Carbon, S3, S3 Carbon ve J2 olarak belirtiyor. Schuberth, kasklarının ECE 22.06 gerekliliklerini SC EDGE takılıyken de karşıladığını söylüyor.",
+      "Üretici Bluetooth 5.2, ikinci nesil Dynamic Mesh Communication (DMC) ile 15 sürücüye kadar grup, açık arazide 1,6 km menzil (karbon kaskta yaklaşık 400 m), 13 saat konuşma, FM radyo, müzik paylaşımı, Natural Voice sesli komut, Siri/Google Asistan, Live Intercom ve kablosuz (OTA) güncelleme belirtiyor. Ayarlar Cardo Connect uygulamasından yapılıyor.",
+      "Cardo kullanan bir grupla süren Schuberth sahipleri için SC2'den daha mantıklı bir seçim. Schuberth'in AB mağazası ürünü şu an tükendi olarak gösteriyor ve Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "Cardo Mesh grubuyla süren Schuberth sahipleri",
+      "Kablosuz güncelleme ve sesli komut önemseyenler",
+      "C5, S3, E2 veya J2 kullanan tur sürücüleri"
+    ],
+    "notFor": [
+      "Sena Mesh grubuyla sürenler; SC2 daha uyumlu",
+      "Schuberth dışı veya C5 ANC kask kullananlar",
+      "Kuryeler; kaska özel ve Türkiye'de zor bulunuyor"
+    ],
+    "pros": [
+      "Cardo DMC Mesh ve Packtalk Edge altyapısı",
+      "Natural Voice sesli komut ve OTA güncelleme",
+      "Kaskın hazır altyapısına tak-çalıştır kurulum",
+      "13 saat konuşma"
+    ],
+    "cons": [
+      "Karbon kaskta menzil yaklaşık 400 m",
+      "AB resmi mağazasında tükendi",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için bütünleşik çözüm.",
+      "ciftSurucu": "Yolcuyla Mesh üzerinden zahmetsiz konuşma.",
+      "grup": "Cardo DMC ile 15 kişiye kadar grup; Cardo kullanıcılarıyla doğrudan Mesh.",
+      "uzunYol": "13 saatlik pil ve gömülü yapı uzun yolda avantaj.",
+      "sehir": "Sesli komut şehirde eller gidondayken pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "SC EDGE, Cardo ekosistemindeki Schuberth sahipleri için kaskına en temiz entegre olan Mesh seçeneği. Sesli komut ve kablosuz güncelleme SC2'ye göre artı; karbon kaskta menzilin düştüğünü ve stok sorununu hesaba kat.",
+    "rivals": [
+      "schuberth/sc2",
+      "cardo/packtalk-edge",
+      "nolan/n-com-mesh"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "SC EDGE C5'e takılır mı?",
+        "a": "Evet. Schuberth C5 sayfası kaskın SC2, SC2 Standard ve SC EDGE'e uygun olduğunu belirtiyor. Yalnız yeni C5 ANC için ayrı SC EDGE ANC gerekiyor."
+      },
+      {
+        "q": "Packtalk Edge kullanan arkadaşlarımla Mesh'te konuşabilir miyim?",
+        "a": "SC EDGE, Packtalk Edge yonga setini ve Cardo DMC Mesh'i kullanıyor; Cardo DMC cihazlarıyla aynı Mesh grubuna girmesi bekleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.schuberth.com/en/communication-systems/sc-edge/920/sc-edge-set",
+    "sources": [
+      {
+        "url": "https://shop.schuberth.com/en/communication-systems/sc-edge/920/sc-edge-set",
+        "type": "manufacturer",
+        "label": "Schuberth Shop – SC EDGE Set",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.schuberth.com/en/sc-edge",
+        "type": "manufacturer",
+        "label": "Schuberth – SC EDGE ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.schuberth.com/en/motorcycle-communication-systems",
+        "type": "manufacturer",
+        "label": "Schuberth – İletişim sistemleri karşılaştırması",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.waterproof"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.2",
+      "mesh": true,
+      "meshTech": "Cardo DMC (2. nesil Dynamic Mesh Communication)",
+      "meshMaxRiders": 15,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1600,
+      "talkTimeHours": 13,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "HD hoparlör (kaskta önceden kurulu)",
+      "waterproof": null,
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": true,
+      "crossBrand": "Bluetooth 5.2 ile diğer Bluetooth interkomlarla eşleşme (üretici beyanı)",
+      "otaUpdate": true,
+      "app": "Cardo Connect",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "x-com3",
+    "brand": "nexx",
+    "name": "X-COM3",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Nexx'in Sena ile hazırladığı, X.WED3 ve X.LIFETOUR gibi Nexx kasklarına gömülen Bluetooth 5.1 interkom: 4 kişilik interkom, 1,6 km menzil, FM radyo ve IP65.",
+    "description": [
+      "X-COM3, Nexx'in kaskla bütünleşik interkom ailesinin Bluetooth modeli. Nexx ünitenin X.WED3, X.WST3, Y.100R, Y.100, Y.TRAVL, X.LIFETOUR, X.LIFECOUNTRY ve X.TR ile uyumlu olduğunu belirtiyor; bu kaskların sayfalarında 'Intercom Ready: X-COM3 | X-COM3 PRO' ibaresi var.",
+      "Üretici Bluetooth 5.1, 4 kişilik interkom, 1,6 km menzil, 8 saate kadar konuşma, HD hoparlör ve mikrofon, Advanced Noise Control, ses çoklu görevi, müzik paylaşımı, dijital asistan erişimi, FM radyo ve IP65 su/toz dayanımı veriyor. Yazılım NEXX Device Manager ile güncelleniyor. Bluetooth sürümü X.WED3 sayfasında 5.2 olarak geçse de ürün sayfasındaki 5.1 değerini esas aldık.",
+      "8 saatlik konuşma süresi rakiplerine göre kısa; uzun tur günlerinde öğle molasında şarj gerekebilir. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "X.WED3 veya X.LIFETOUR sahibi olup yolcuyla konuşmak isteyenler",
+      "Mesh'e ihtiyaç duymayan adventure ve tur sürücüleri"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar; Mesh için X-COM3 PRO gerekli",
+      "Uzun konuşma süresi isteyenler",
+      "Kuryeler; kaska özel ve Türkiye'de zor bulunuyor"
+    ],
+    "pros": [
+      "Kaskla bütünleşik yapı",
+      "IP65 dayanım",
+      "FM radyo ve müzik paylaşımı",
+      "PRO modeline göre yarı fiyat"
+    ],
+    "cons": [
+      "Mesh yok",
+      "8 saatlik konuşma süresi kısa",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için yeterli.",
+      "ciftSurucu": "Yolcuyla konuşma için uygun.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda PRO modeli gerekli.",
+      "uzunYol": "8 saatlik pil uzun günlerde ara şarj isteyebilir.",
+      "sehir": "Şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "X-COM3, uyumlu bir Nexx kaskına temiz ve uygun fiyatlı bir Bluetooth interkom isteyen sürücü için mantıklı. Mesh yok ve pil süresi kısa; grupla sürüyorsan X-COM3 PRO'ya yönel.",
+    "rivals": [
+      "nexx/x-com3-pro",
+      "nolan/n-com-bluetooth-plus",
+      "hjc/smart-hjc-21b"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "X-COM3 hangi kasklara takılır?",
+        "a": "Nexx'e göre X.WED3, X.WST3, Y.100R, Y.100, Y.TRAVL, X.LIFETOUR, X.LIFECOUNTRY ve X.TR. X.R3R listede yok; o kask evrensel interkomlara hazırlanmış."
+      },
+      {
+        "q": "X-COM3 PRO ile farkı ne?",
+        "a": "PRO modelinde Mesh (2 km), WAVE interkom, Harman Kardon ses ve sesli komut var; X-COM3 yalnız Bluetooth interkom sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://nexx-helmets.com/en/accessories/x-com3/",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/accessories/x-com3/",
+        "type": "manufacturer",
+        "label": "Nexx – X-COM3 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-wed3/",
+        "type": "manufacturer",
+        "label": "Nexx – X.WED3 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.universalIntercom",
+      "specs.crossBrand"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1600,
+      "talkTimeHours": 8,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "HD hoparlör",
+      "waterproof": "IP65",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": false,
+      "app": "Sena (iPhone/Android)",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "x-com3-pro",
+    "brand": "nexx",
+    "name": "X-COM3 PRO",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Nexx'in Sena Mesh ve Harman Kardon sesli kaska özel interkomu: X.WED3 ve X.LIFETOUR gibi kasklara gömülüyor; 2 km Mesh, WAVE interkom, sesli komut ve IP65.",
+    "description": [
+      "X-COM3 PRO, Nexx'in kaska özel interkom ailesinin üst modeli ve X-COM3 ile aynı kask listesine (X.WED3, X.WST3, Y.100R, Y.100, Y.TRAVL, X.LIFETOUR, X.LIFECOUNTRY, X.TR) uyuyor. Ünite kaskın hazır yuvasına yerleşiyor, dışarıda kelepçeli kutu kalmıyor.",
+      "Üretici 2 km'ye kadar Mesh, Open Mesh'te pratikte sınırsız sürücü, hücresel veri üzerinden WAVE interkom, 1,6 km Bluetooth interkom, Harman Kardon hoparlör ve mikrofon, çok dilli sesli komut, Siri/Google Asistan, müzik paylaşımı, FM radyo ve IP65 belirtiyor. Konuşma süresi 8 saat; Bluetooth sürümü ürün sayfasında 5.0 yazıyor.",
+      "Grup sürüşü yapan Nexx sahipleri için güçlü bir paket, ancak 8 saatlik konuşma süresi Mesh kullanımında uzun günlerde sınır olabilir. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "X.WED3 veya X.LIFETOUR ile grup sürüşü yapanlar",
+      "Sena Mesh kullanan arkadaşlarıyla süren Nexx sahipleri"
+    ],
+    "notFor": [
+      "Uzun konuşma süresi isteyenler",
+      "Nexx dışı kask kullananlar",
+      "Kuryeler; kaska özel ve pahalı"
+    ],
+    "pros": [
+      "Mesh 2 km ve WAVE interkom",
+      "Harman Kardon ses",
+      "Sesli komut, Siri/Google",
+      "IP65 dayanım"
+    ],
+    "cons": [
+      "8 saatlik konuşma süresi",
+      "Fiyatı X-COM3'ün iki katı",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için güçlü bir paket.",
+      "ciftSurucu": "Yolcuyla Mesh üzerinden zahmetsiz konuşma.",
+      "grup": "Open Mesh ile kalabalık gruplarda bağlantı kopmadan iletişim.",
+      "uzunYol": "8 saatlik pil uzun Mesh günlerinde ara şarj isteyebilir.",
+      "sehir": "Sesli komut şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "X-COM3 PRO, grupla süren Nexx sahipleri için kaska en temiz entegre olan Mesh seçeneği; ses kalitesi ve özellik listesi güçlü. Pil süresi zayıf halka, uzun günlerde şarj planı yap.",
+    "rivals": [
+      "nexx/x-com3",
+      "nolan/n-com-mesh",
+      "sena/srl3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Sena Mesh cihazlarıyla konuşabilir mi?",
+        "a": "Nexx ünitenin Mesh ve WAVE interkom desteklediğini belirtiyor; Sena altyapılı olduğu için Sena Mesh gruplarına katılması bekleniyor."
+      },
+      {
+        "q": "X.R3R'ye takılır mı?",
+        "a": "Hayır. Nexx X.R3R'yi X-COM3 listesinde saymıyor; kask evrensel interkomlara hazırlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://nexx-helmets.com/en/accessories/x-com3-pro/",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/accessories/x-com3-pro/",
+        "type": "manufacturer",
+        "label": "Nexx – X-COM3 PRO ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+        "type": "manufacturer",
+        "label": "Nexx – X.LIFETOUR ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshMaxRiders",
+      "specs.bluetoothMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.universalIntercom",
+      "specs.crossBrand"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.0",
+      "mesh": true,
+      "meshTech": "Sena Mesh (Open Mesh) ve WAVE Intercom",
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 2000,
+      "talkTimeHours": 8,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "Harman Kardon",
+      "waterproof": "IP65",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": null,
+      "crossBrand": null,
+      "otaUpdate": false,
+      "app": "Sena (iPhone/Android)",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "awc4",
+    "brand": "airoh",
+    "name": "AWC4",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Airoh'un kendi kaskları için hazırladığı Bluetooth 5.1 interkom: 4 kişiye kadar, IP67, ayrı bataryayla 15 saate kadar konuşma ve USB-C hızlı şarj; GP 800, Commander 2 ve Mathisse II ile uyumlu.",
+    "description": [
+      "AWC4 (Airoh Wireless Communication), Airoh'un interkom hazırlıklı kaskları için sunduğu dört kişilik sistem. Airoh'un ürün sayfası uyumlu kaskları sayıyor; aralarında GP 800, Commander 2, Mathisse II, Connor, Matryx, Spark 2 ve Twist 3 de var. Ünite kompakt, batarya ayrı bir braketle yerleşiyor.",
+      "Üretici Bluetooth 5.1, 4 kişilik interkom, 500 m menzil, IP67, 15 saate kadar pil (açıklamada 10–15 saat) belirtiyor. Resmi kılavuz USB-C hızlı şarjı (30 dakikada 6 saate kadar konuşma), müzik paylaşımını, sesli asistan erişimini ve 'Anycom' evrensel interkomu ekliyor; ayarlar UNITE uygulamasından yapılıyor.",
+      "Menzil 500 m ile kısa ve Mesh yok; sistem daha çok yolcu ve yakın takip eden arkadaşlar için. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "GP 800, Commander 2 veya Mathisse II sahipleri",
+      "Yolcuyla ya da küçük grupla konuşan sürücüler",
+      "Toz ve suya dayanıklı ünite isteyen adventure sürücüleri"
+    ],
+    "notFor": [
+      "Uzun menzil veya Mesh isteyenler",
+      "Airoh dışı kask kullananlar",
+      "Kuryeler; Türkiye'de zor bulunuyor ve kaska özel"
+    ],
+    "pros": [
+      "IP67 dayanım",
+      "15 saate kadar pil ve USB-C hızlı şarj",
+      "Evrensel interkom (Anycom)",
+      "Uygun fiyat"
+    ],
+    "cons": [
+      "Menzil yalnız 500 m",
+      "Mesh yok",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli.",
+      "ciftSurucu": "Yolcuyla konuşma için uygun.",
+      "grup": "4 kişiye kadar; 500 m menzil konvoyda sınır koyar.",
+      "uzunYol": "15 saatlik pil uzun günleri karşılar.",
+      "sehir": "Şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "AWC4, uyumlu bir Airoh kaskına uygun fiyatlı ve sağlam bir interkom isteyen sürücü için yeterli. Menzil kısa ve Mesh yok; grup sürüşü yapıyorsan evrensel bir Mesh ünite daha mantıklı.",
+    "rivals": [
+      "airoh/awc2",
+      "caberg/pro-speak-evo",
+      "nolan/n-com-bluetooth-plus"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "AWC4 hangi Airoh kasklarına takılır?",
+        "a": "Airoh'un listesi: Aviator Ace 2, BADX-X, Commander 2, Connor, GP 800, GP 800 FIM, H 21, Helyos, J 110, Kombakt, Mathisse II, Matryx, Spark 2, Specktre, TRR II ve Twist 3."
+      },
+      {
+        "q": "AWC2 ile farkı ne?",
+        "a": "AWC4 dört kişiye kadar interkom ve ayrı bataryayla 15 saate kadar pil sunuyor; AWC2 iki kişilik, dahili bataryalı ve 10 saat."
+      }
+    ],
+    "manufacturerUrl": "https://www.airoh.com/prodotto/awc4-break-the-silence/",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/prodotto/awc4-break-the-silence/",
+        "type": "manufacturer",
+        "label": "Airoh – AWC4 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.airoh.com/wp-content/uploads/2026/07/USER_MANUAL_AWC4_IT_def.pdf",
+        "type": "manufacturer",
+        "label": "Airoh – AWC4 kullanım kılavuzu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.speakers",
+      "specs.fmRadio",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 500,
+      "talkTimeHours": 15,
+      "chargeTimeHours": null,
+      "usbC": true,
+      "fastCharge": "30 dakikada 6 saate kadar konuşma",
+      "speakers": null,
+      "waterproof": "IP67",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Anycom ile aynı anda bir diğer marka interkoma bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "UNITE",
+      "inBox": [
+        "Ana ünite",
+        "Braketli batarya",
+        "USB-C kablo",
+        "Cırt ve yapışkan pedler",
+        "Çene açılır/jet ve kapalı kask mikrofonları",
+        "Mikrofon süngeri",
+        "Kulaklıklar",
+        "Boom mikrofon tutucusu"
+      ]
+    }
+  },
+  {
+    "slug": "awc2",
+    "brand": "airoh",
+    "name": "AWC2",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Airoh'un giriş seviyesi kaska özel interkomu: Bluetooth 5.1, iki kişilik interkom, IP67, dahili bataryayla 10 saat ve USB-C hızlı şarj; GP 800, Commander 2 ve Mathisse II ile uyumlu.",
+    "description": [
+      "AWC2, AWC4 ile aynı Airoh kask listesine uyan, dahili bataryalı ve daha kompakt bir sistem. Ürün sayfası GP 800, Commander 2, Mathisse II dahil 16 Airoh modelini uyumlu olarak sayıyor.",
+      "Üretici Bluetooth 5.1, iki kişilik interkom, 500 m menzil, IP67 ve 10 saat pil belirtiyor. Kılavuz USB-C hızlı şarj (30 dakikada 6 saate kadar), müzik paylaşımı, sesli asistan erişimi ve Anycom evrensel interkomu ekliyor. FM radyo yalnız kılavuzdaki öncelik listesinde geçtiği için doğrulanmış saymadık.",
+      "Yolcuyla konuşmak ve telefon/navigasyon dinlemek için yapılmış basit bir çözüm. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "Uyumlu Airoh kaskı olup yalnız yolcuyla konuşmak isteyenler",
+      "Bütçeyi düşük tutmak isteyenler"
+    ],
+    "notFor": [
+      "Grup sürüşü yapanlar",
+      "Airoh dışı kask kullananlar",
+      "Kuryeler; 10 saatlik pil ve sınırlı bulunabilirlik nedeniyle uygun değil"
+    ],
+    "pros": [
+      "IP67 dayanım",
+      "USB-C hızlı şarj",
+      "Kompakt, dahili bataryalı yapı"
+    ],
+    "cons": [
+      "Yalnız iki kişilik interkom",
+      "Menzil 500 m",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon ve navigasyon için yeterli.",
+      "ciftSurucu": "Sürücü–yolcu iletişimi için tasarlanmış.",
+      "grup": "Grup sürüşü için uygun değil.",
+      "uzunYol": "10 saatlik pil tek günlük tura yeter.",
+      "sehir": "Şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "AWC2, Airoh kaskına yalnız yolcu iletişimi ve telefon için uygun fiyatlı bir çözüm arayan sürücüye yeter. Arkadaşlarınla konuşmak istiyorsan AWC4 ya da evrensel bir ünite daha mantıklı.",
+    "rivals": [
+      "airoh/awc4",
+      "caberg/pro-speak-evo",
+      "sena/5r"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "AWC2 hangi kasklara takılır?",
+        "a": "AWC4 ile aynı Airoh listesine: GP 800, Commander 2, Mathisse II, Connor, Matryx, Spark 2, Twist 3 ve diğerleri."
+      },
+      {
+        "q": "Başka marka interkomla konuşabilir mi?",
+        "a": "Airoh kılavuzu Anycom özelliğiyle aynı anda bir diğer marka interkoma bağlanabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.airoh.com/prodotto/awc2-follow-the-sound/",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/prodotto/awc2-follow-the-sound/",
+        "type": "manufacturer",
+        "label": "Airoh – AWC2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.airoh.com/wp-content/uploads/2026/07/USER_MANUAL_AWC2_IT_consegna.pdf",
+        "type": "manufacturer",
+        "label": "Airoh – AWC2 kullanım kılavuzu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.speakers",
+      "specs.fmRadio",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 2,
+      "rangeMeters": 500,
+      "talkTimeHours": 10,
+      "chargeTimeHours": null,
+      "usbC": true,
+      "fastCharge": "30 dakikada 6 saate kadar konuşma",
+      "speakers": null,
+      "waterproof": "IP67",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Anycom ile aynı anda bir diğer marka interkoma bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "UNITE",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "spectrum-evo",
+    "brand": "ls2",
+    "name": "Intercom Spectrum EVO",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "LS2'nin Midland ile geliştirdiği güncel kaska özel interkomu: Bluetooth 5.1, 4 kişiye kadar, 1,2 km, 20 saat konuşma ve RCF hoparlörlerle Stream II, Advant X, Strobe II, Storm III, Challenger II, Explorer Evo ve Vector II'ye uyuyor.",
+    "description": [
+      "Spectrum EVO, LS2'nin interkom kategorisinde listelenen tek güncel ünite; LS2'nin videosu ve güncelleme altyapısı sistemin Midland ile geliştirildiğini gösteriyor. LS2'nin ürün sayfası uyumlu kaskları sayıyor: aralarında FF808 Stream II, FF901 Advant X, FF908 Strobe II, Storm III, FF817 Challenger II, MX707 Explorer Evo ve FF811 Vector II var.",
+      "Üretici Bluetooth 5.1, 4 kişiye kadar interkom, 1.200 m menzil, tüm markalarla konuşabilen evrensel interkom, 20 saat konuşma, yaklaşık 3 saat şarj, su geçirmez yapı, yapay zekâ destekli gürültü engelleme, 40 mm RCF hoparlör, sesli kullanım, Siri/Google erişimi ve yolcuyla müzik paylaşımı belirtiyor.",
+      "Mesh yok; grup sürüşlerinde zincir Bluetooth'un sınırları geçerli. Önceki nesil Cardo yapımı LS2 4X sayfası hâlâ açık ama artık kategori listesinde yer almıyor. Türkiye'de yetkili satıcıda Spectrum EVO için fiyat bulamadık."
+    ],
+    "forWho": [
+      "Uyumlu LS2 kask sahipleri",
+      "Uzun pil ömrü isteyen tur sürücüleri",
+      "Bütçeyi düşük tutup kaskla uyumlu ünite isteyenler"
+    ],
+    "notFor": [
+      "Mesh ile kalabalık grup sürüşü yapanlar",
+      "LS2 dışı kask kullananlar",
+      "Kuryeler; Türkiye'de bulunabilirliği belirsiz"
+    ],
+    "pros": [
+      "20 saat konuşma süresi",
+      "Evrensel interkom ile tüm markalarla konuşma",
+      "RCF hoparlör ve yapay zekâ gürültü engelleme",
+      "Uygun fiyat"
+    ],
+    "cons": [
+      "Mesh yok",
+      "Şarj süresi yaklaşık 3 saat",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve müzik için yeterli.",
+      "ciftSurucu": "Yolcuyla müzik paylaşımı ve konuşma için uygun.",
+      "grup": "4 kişiye kadar Bluetooth; büyük gruplarda Mesh'li ünite daha iyi.",
+      "uzunYol": "20 saatlik pil uzun yolda büyük artı.",
+      "sehir": "Şehirde pratik.",
+      "kurye": "Uzun pil kurye için cazip olsa da Türkiye'de bulunabilirlik belirsiz; evrensel ünite daha esnek."
+    },
+    "verdict": "Spectrum EVO, uyumlu bir LS2 kaskı olan ve uzun pil ömrü isteyen sürücü için mantıklı, uygun fiyatlı bir çözüm. Mesh yok; grupla sürüyorsan evrensel bir Mesh ünite değerlendir.",
+    "rivals": [
+      "midland/btx2-pro-s-lr",
+      "airoh/awc4",
+      "cardo/freecom-2x"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hangi LS2 kasklara takılır?",
+        "a": "LS2'nin Spectrum EVO sayfası FF808 Stream II, FF901 Advant X, FF908 Strobe II, Storm III, FF817 Challenger II, MX707 Explorer Evo ve FF811 Vector II'yi uyumlu kasklar arasında sayıyor."
+      },
+      {
+        "q": "LS2 4X ile farkı ne?",
+        "a": "4X Cardo ile geliştirilmiş önceki ünite; bazı kasklarda (Advant X, Vector II) hazır takılı versiyonlar olarak satılıyor. Spectrum EVO ise LS2'nin ayrı satılan güncel ünitesi."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo",
+        "type": "manufacturer",
+        "label": "LS2 – Intercom Spectrum EVO ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.fmRadio",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "5.1",
+      "mesh": false,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": 4,
+      "rangeMeters": 1200,
+      "talkTimeHours": 20,
+      "chargeTimeHours": 3,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "40 mm RCF",
+      "waterproof": "Su geçirmez (üretici beyanı, IP sınıfı belirtilmemiş)",
+      "fmRadio": null,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": true,
+      "googleAssistant": true,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel interkom ile tüm markalarla konuşma (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "LS2 / Midland uygulaması",
+      "inBox": []
+    }
+  },
+  {
+    "slug": "i319s",
+    "brand": "givi",
+    "name": "I319S",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "bluetooth-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Cardo Systems'in GIVI için tasarladığı kaska özel Bluetooth interkom; GIVI'ye göre yalnız X27 ve X25 çene açılır kasklarla uyumlu. 400 m menzil, 10 saat konuşma, FM radyo ve kablosuz güncelleme.",
+    "description": [
+      "I319S, GIVI'nin çene açılır X27 ve X25 kaskları için sunduğu kaska özel interkom. GIVI ünitenin Cardo Systems tarafından GIVI için tasarlandığını ve 'yalnız X27 ve X25 modelleriyle uyumlu' olduğunu açıkça yazıyor.",
+      "Üretici 32 mm HD hoparlör, 400 m interkom menzili, 10 saate kadar konuşma, sürüş sırasında şarj, su geçirmez yapı, farklı markalarla bağlantı, dahili FM radyo, kablosuz yazılım güncellemesi ve otomatik ses ayarı belirtiyor. Bluetooth sürümü, kişi sayısı ve şarj bağlantısı resmi sayfada yok.",
+      "400 m menzil ve sınırlı teknik bilgi, sistemi daha çok yolcu iletişimi ve telefon için konumluyor. Türkiye'de yetkili satıcıda fiyat bulamadık."
+    ],
+    "forWho": [
+      "GIVI X27 sahipleri",
+      "Yolcuyla konuşma ve telefon için basit, entegre çözüm isteyenler"
+    ],
+    "notFor": [
+      "X27 ve X25 dışında kask kullananlar",
+      "Grup sürüşü veya uzun menzil isteyenler",
+      "Kuryeler; kaska özel ve Türkiye'de zor bulunuyor"
+    ],
+    "pros": [
+      "Cardo tasarımı",
+      "FM radyo ve kablosuz güncelleme",
+      "Sürüş sırasında şarj"
+    ],
+    "cons": [
+      "Yalnız X27 ve X25 ile uyumlu",
+      "Menzil 400 m",
+      "Teknik bilgiler sınırlı, Türkiye fiyatı yok"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için yeterli.",
+      "ciftSurucu": "Yolcu iletişimi için uygun.",
+      "grup": "Kısa menzil grup sürüşüne uygun değil.",
+      "uzunYol": "10 saatlik pil ve sürüşte şarj uzun yolda iş görür.",
+      "sehir": "Şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "I319S, GIVI X27 sahibi için kaskına özel ve Cardo imzalı basit bir çözüm. Menzil kısa ve teknik bilgi sınırlı; arkadaşlarınla konuşmak istiyorsan evrensel bir ünite daha esnek.",
+    "rivals": [
+      "caberg/pro-speak-evo",
+      "airoh/awc2",
+      "cardo/spirit-hd"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "I319S hangi kasklarla uyumlu?",
+        "a": "GIVI'ye göre yalnız X27 ve X25. X26 ve X32 gibi diğer GIVI kaskları için uygun değil."
+      },
+      {
+        "q": "Başka marka interkomlarla konuşabilir mi?",
+        "a": "GIVI farklı markalarla bağlantı (cross-brand) desteği belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s",
+    "sources": [
+      {
+        "url": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s",
+        "type": "manufacturer",
+        "label": "GIVI – I319S ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.givi.co.uk/givi-products/helmets-for-motorcycles-and-scooters/helmet-optionals/i319s",
+        "type": "manufacturer",
+        "label": "GIVI UK – I319S ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.bluetoothVersion",
+      "specs.mesh",
+      "specs.meshTech",
+      "specs.meshMaxRiders",
+      "specs.bluetoothMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.musicSharing",
+      "specs.voiceCommand",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.app"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": null,
+      "mesh": null,
+      "meshTech": null,
+      "meshMaxRiders": null,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 400,
+      "talkTimeHours": 10,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "32 mm HD",
+      "waterproof": "Su geçirmez (üretici beyanı, IP sınıfı belirtilmemiş)",
+      "fmRadio": true,
+      "musicSharing": null,
+      "voiceCommand": null,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Farklı markalarla bağlantı (üretici beyanı)",
+      "otaUpdate": true,
+      "app": null,
+      "inBox": []
+    }
+  },
+  {
+    "slug": "insyde",
+    "brand": "agv",
+    "name": "Insyde",
+    "category": "interkom",
+    "subcategories": [
+      "kaska-ozel-interkom",
+      "mesh-interkom"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "AGV'nin Cardo ile geliştirdiği, Tourmodular ve K7 için tasarlanmış tam entegre interkom: Cardo DMC Mesh ile 15 kişilik grup, FM radyo, Natural Voice ve IP65.",
+    "description": [
+      "Insyde, AGV'nin Tourmodular ve K7 kasklarına özel geliştirilen entegre iletişim sistemi; AGV sistemin yalnız Cardo tarafından geliştirildiğini belirtiyor. Ünite kaskın içine tamamen gizleniyor, dışarıda kelepçeli kutu kalmıyor.",
+      "Üretici Cardo Dynamic Mesh Communication (DMC) ile 15 sürücüye kadar grup, üniteler arası 1,2 km (grupta 6 km'ye kadar) menzil, Bluetooth 4.1, Natural Voice sesli komut, RDS'li FM radyo, müzik paylaşımı, 40 mm HD hoparlör, otomatik ses ayarı, evrensel bağlantı, 13 saat konuşma, sürüş sırasında şarj ve IP65 belirtiyor.",
+      "Bluetooth 4.1 ile yeni ünitelerin gerisinde ve AGV'nin İtalya mağazası ürünü şu an stokta göstermiyor. Türkiye'de yetkili satıcıda fiyat bulamadık; Mototaş'ın Türkçe kurulum videosu bulunuyor."
+    ],
+    "forWho": [
+      "AGV Tourmodular veya K7 sahipleri",
+      "Cardo Mesh grubuyla süren sürücüler"
+    ],
+    "notFor": [
+      "Tourmodular ve K7 dışında AGV veya başka marka kask kullananlar",
+      "Güncel Bluetooth sürümü isteyenler",
+      "Kuryeler; kaska özel ve stok sorunu var"
+    ],
+    "pros": [
+      "Kaskın içine tam gizlenen yapı",
+      "Cardo DMC Mesh ile 15 kişilik grup",
+      "FM radyo ve Natural Voice",
+      "IP65"
+    ],
+    "cons": [
+      "Bluetooth 4.1",
+      "Yalnız Tourmodular ve K7",
+      "Resmi mağazada stokta yok, Türkiye fiyatı bulunamadı"
+    ],
+    "usage": {
+      "tekSurucu": "Telefon, navigasyon ve radyo için bütünleşik çözüm.",
+      "ciftSurucu": "Yolcuyla Mesh üzerinden konuşma.",
+      "grup": "Cardo DMC ile 15 kişiye kadar grup.",
+      "uzunYol": "13 saatlik pil ve sürüşte şarj uzun yola uygun.",
+      "sehir": "Sesli komut şehirde pratik.",
+      "kurye": "Kurye kullanımında önerilmez."
+    },
+    "verdict": "Insyde, Tourmodular veya K7 sahibi için kaskına en temiz entegre olan Cardo Mesh çözümü. Bluetooth sürümü eski ve stok bulmak zor; satın almadan önce satıcıdan güncel stok ve yazılım bilgisini teyit et.",
+    "rivals": [
+      "schuberth/sc-edge",
+      "cardo/packtalk-edge",
+      "nolan/n-com-mesh"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Insyde hangi AGV kasklarına takılır?",
+        "a": "AGV, Insyde'ı Tourmodular ve K7 için entegre sistem olarak tanımlıyor. K6 S ve AX9 gibi kasklar için AGV'nin eski Sena tabanlı ARK sistemi ve kask adaptörleri vardı."
+      },
+      {
+        "q": "Cardo cihazlarıyla Mesh'te konuşabilir mi?",
+        "a": "AGV sistemin Cardo DMC kullandığını belirtiyor; Cardo DMC cihazlarıyla aynı Mesh grubuna girmesi bekleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+    "sources": [
+      {
+        "url": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html",
+        "type": "manufacturer",
+        "label": "AGV – Insyde ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.bluetoothMaxRiders",
+      "specs.chargeTimeHours",
+      "specs.usbC",
+      "specs.fastCharge",
+      "specs.siri",
+      "specs.googleAssistant",
+      "specs.otaUpdate"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "bluetoothVersion": "4.1",
+      "mesh": true,
+      "meshTech": "Cardo DMC (Dynamic Mesh Communication)",
+      "meshMaxRiders": 15,
+      "bluetoothMaxRiders": null,
+      "rangeMeters": 1200,
+      "talkTimeHours": 13,
+      "chargeTimeHours": null,
+      "usbC": null,
+      "fastCharge": null,
+      "speakers": "40 mm HD",
+      "waterproof": "IP65",
+      "fmRadio": true,
+      "musicSharing": true,
+      "voiceCommand": true,
+      "siri": null,
+      "googleAssistant": null,
+      "universalIntercom": true,
+      "crossBrand": "Evrensel bağlantı (üretici beyanı)",
+      "otaUpdate": null,
+      "app": "Cardo (iOS/Android)",
+      "inBox": []
+    }
+  }
+]
