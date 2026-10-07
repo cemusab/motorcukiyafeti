@@ -1,6 +1,7 @@
 # Çalışma durumu (son güncelleme: 2026-10-07)
 
-PR: https://github.com/cemusab/motorcukiyafeti/pull/1 (v2 → main). Birleştirince canlı site değişir — kullanıcı onayı olmadan birleştirme.
+✅ 2026-10-07: v2 yayında (PR #1 main'e birleştirildi, kullanıcı onayıyla). Canlı: https://motorcukiyafeti.com
+Açık konular: www → apex yönlendirmesi (Vercel alan adı ayarı, kullanıcı onayı gerekli), Google Search Console, veri sorumlusu bilgisi, admin/DB.
 
 ## Tamamlanan (v2 dalında)
 - Site iskeleti, Motomax tarzı üst bar, mega menü, arama, filtreler (ölçüye göre beden dahil), karşılaştırma, kask+interkom, sihirbaz (motor modeli ile), /motor, /kadin, /erkek, kurye, KVKK/GDPR sayfaları, iletişim + e-postayla onaylı yorumlar
