@@ -147,7 +147,7 @@ const Protector = z.object({
 });
 
 export const ApparelSchema = ProductBase.extend({
-  category: z.enum(["mont", "eldiven", "bot", "pantolon", "koruma"]),
+  category: z.enum(["mont", "eldiven", "bot", "pantolon", "koruma", "yagmurluk", "termal"]),
   specs: z.object({
     gender: z.enum(["erkek", "kadin", "unisex"]).nullable(),
     season: z.enum(["yaz", "kis", "4-mevsim"]).nullable(),
@@ -166,7 +166,23 @@ export const ApparelSchema = ProductBase.extend({
 });
 export type Apparel = z.infer<typeof ApparelSchema>;
 
-export type Product = Helmet | Intercom | Apparel;
+/** Aksesuarlar: telefon tutucu, kilit, çanta, Pinlock, kulak tıkacı vb. */
+export const AccessorySchema = ProductBase.extend({
+  category: z.literal("aksesuar"),
+  specs: z.object({
+    accessoryType: z.string(), // ör. "Telefon tutucu", "Disk kilidi"
+    material: z.string().nullable(),
+    compatibility: z.string().nullable(), // ör. "Gidon 22–32 mm", "Shoei CWR-F2 vizör"
+    waterproof: tri,
+    capacityLiters: z.number().nullable(),
+    certification: z.string().nullable(), // ör. "ART 4 yıldız", "Sold Secure Gold"
+    features: z.array(z.string()).default([]),
+    madeIn: z.string().nullable(),
+  }),
+});
+export type Accessory = z.infer<typeof AccessorySchema>;
+
+export type Product = Helmet | Intercom | Apparel | Accessory;
 
 export const CompatSchema = z.object({
   helmet: z.string(), // "shoei/neotec-3"

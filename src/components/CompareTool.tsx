@@ -7,7 +7,7 @@ import { MAX_COMPARE, useList } from "@/lib/store";
 import { CompareView } from "./CompareView";
 import { Icon } from "./Icon";
 
-const CAT_NAME: Record<string, string> = { kask: "Kask", interkom: "İnterkom", mont: "Mont", eldiven: "Eldiven", bot: "Bot", pantolon: "Pantolon", koruma: "Koruma" };
+const CAT_NAME: Record<string, string> = { kask: "Kask", interkom: "İnterkom", mont: "Mont", eldiven: "Eldiven", bot: "Bot", pantolon: "Pantolon", koruma: "Koruma", yagmurluk: "Yağmurluk", termal: "Termal giyim", aksesuar: "Aksesuar" };
 
 export function CompareTool({ pairs }: { pairs: { slug: string; title: string }[] }) {
   const params = useSearchParams();

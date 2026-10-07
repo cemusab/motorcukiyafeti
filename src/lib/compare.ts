@@ -2,10 +2,10 @@ import "server-only";
 import type { Product } from "@/data/schema";
 import type { CompareEntry } from "./compare-core";
 import { displayName, productId, productPath } from "./data";
-import { APPAREL_SPECS, HELMET_SPECS, INTERCOM_SPECS, productTypeLabel, type SpecRow } from "./labels";
+import { productTypeLabel, specDefs } from "./labels";
 
 export function compareEntry(p: Product): CompareEntry {
-  const defs = (p.category === "kask" ? HELMET_SPECS : p.category === "interkom" ? INTERCOM_SPECS : APPAREL_SPECS) as SpecRow<Product>[];
+  const defs = specDefs(p.category);
   const rows = defs.map((d) => {
     const v = d.get(p);
     return {

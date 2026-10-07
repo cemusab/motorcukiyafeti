@@ -199,7 +199,65 @@ export const CATEGORIES: Category[] = [
         title: "Bölgeye göre",
         items: [
           s("sirt-koruma", "Sırt Koruması", "Omurgayı darbeye karşı koruyan, mont içine takılan veya ayrı giyilen koruyucular."),
+          s("gogus-koruma", "Göğüs Koruması", "Göğüs kafesini darbeye karşı koruyan, monta takılan veya yelek tipi koruyucular."),
+          s("dirsek-diz-koruma", "Dirseklik ve Dizlik", "Dirsek ve diz için EN 1621-1 sertifikalı, takılabilir veya bağcıklı koruyucular."),
+          s("koruyucu-icgiyim", "Koruyucu İçgiyim", "Koruyucu cepli içlik, şort ve gövde zırhları."),
           s("airbag", "Airbag Yelek", "Düşme anında şişerek gövdeyi koruyan elektronik veya kablolu sistemler."),
+        ],
+      },
+    ],
+  },
+  {
+    slug: "yagmurluk",
+    name: "Yağmurluk",
+    short: "Yağmurluk",
+    icon: "yagmurluk",
+    guide: "yagmurda-motosiklet-ekipmani",
+    intro: "Ekipmanının üstüne giyilen yağmurluklar, kuryeler ve uzun yol sürücüleri için vazgeçilmezdir. Bant dikişli, görünürlüğü yüksek ve ekipmanının üstüne rahat geçen bir model seç.",
+    groups: [
+      {
+        title: "Tipine göre",
+        items: [
+          s("yagmur-takimi", "Yağmur Takımı", "Ceket ve pantolondan oluşan iki parça yağmurluk takımları."),
+          s("tek-parca-yagmurluk", "Tek Parça Yağmurluk", "Tulum tipi, hızlı giyilen tek parça yağmurluklar."),
+          s("yagmur-aksesuari", "Bot ve Eldiven Kılıfı", "Bot, eldiven ve kask için yağmur kılıfları."),
+        ],
+      },
+    ],
+  },
+  {
+    slug: "termal",
+    name: "Termal Giyim",
+    short: "Termal",
+    icon: "termal",
+    guide: "kislik-motosiklet-ekipmani",
+    intro: "Soğukta kasların tutulmasını ve dikkat dağılmasını önleyen içlikler, boyunluklar ve ısıtmalı giyim. Pamuk yerine nem atan malzemeleri tercih et.",
+    groups: [
+      {
+        title: "Tipine göre",
+        items: [
+          s("termal-icgiyim", "Termal İçgiyim", "Nem atan, sıcak tutan üst ve alt içlikler."),
+          s("boyunluk", "Boyunluk ve Kask Bonesi", "Rüzgarı kesen boyunluklar ve kask altı boneler (balaclava)."),
+          s("isitmali-giyim", "Isıtmalı Giyim", "Bataryalı veya motora bağlanan ısıtmalı yelek, eldiven ve içlikler."),
+        ],
+      },
+    ],
+  },
+  {
+    slug: "aksesuar",
+    name: "Aksesuar",
+    short: "Aksesuar",
+    icon: "aksesuar",
+    intro: "Telefon tutucudan disk kilidine, motosiklet çantasından Pinlock lensine kadar günlük kullanımı kolaylaştıran ve güvenliği artıran aksesuarlar.",
+    groups: [
+      {
+        title: "Kullanıma göre",
+        items: [
+          s("telefon-tutucu", "Telefon Tutucu", "Gidona veya aynaya takılan, titreşim sönümlemeli telefon tutucular."),
+          s("kilit-guvenlik", "Kilit ve Güvenlik", "Disk kilidi, zincir kilit ve alarmlı kilitler."),
+          s("motosiklet-cantasi", "Motosiklet Çantası", "Depo üstü, sele, yan ve sırt çantaları; kurye çantaları."),
+          s("kask-aksesuari", "Kask Aksesuarı", "Pinlock lens, yedek vizör, kask çantası ve bakım ürünleri."),
+          s("kulak-tikaci", "Kulak Tıkacı", "Rüzgar gürültüsünü azaltan, işitmeyi koruyan kulak tıkaçları."),
         ],
       },
     ],

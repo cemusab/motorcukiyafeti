@@ -26,6 +26,7 @@ export function facetDefs(category: string): FacetDef[] {
       { key: "ozellik", label: "Özellikler" },
     ];
   if (category === "interkom") return [brand, { key: "ozellik", label: "Özellikler" }];
+  if (category === "aksesuar") return [brand, { key: "tip", label: "Ürün tipi" }, { key: "ozellik", label: "Özellikler" }];
   return [
     brand,
     { key: "cinsiyet", label: "Cinsiyet" },
@@ -48,6 +49,10 @@ export function facetItem(p: Product): FacetItem {
   } else if (p.category === "interkom") {
     const s = p.specs;
     v.ozellik = [...tri(s.mesh, "Mesh"), ...tri(s.musicSharing, "Müzik paylaşımı"), ...tri(s.fmRadio, "FM radyo"), ...tri(s.usbC, "USB-C"), ...tri(s.otaUpdate, "OTA güncelleme")];
+  } else if (p.category === "aksesuar") {
+    const s = p.specs;
+    v.tip = [s.accessoryType];
+    v.ozellik = [...tri(s.waterproof, "Su geçirmez"), ...(s.certification ? ["Sertifikalı"] : [])];
   } else {
     const s = p.specs;
     v.cinsiyet = s.gender === "unisex" ? ["Erkek", "Kadın"] : s.gender === "kadin" ? ["Kadın"] : s.gender === "erkek" ? ["Erkek"] : [];

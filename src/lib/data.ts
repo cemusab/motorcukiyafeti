@@ -8,6 +8,7 @@ import path from "node:path";
 import { memo } from "./memo";
 import { z } from "zod";
 import {
+  AccessorySchema,
   ApparelSchema,
   BrandSchema,
   CompatSchema,
@@ -45,10 +46,11 @@ export const getProducts = memo((): Product[] => {
   const files = (cat: string) => fs.readdirSync(path.join(DATA, "products")).filter((f) => f === `${cat}.json` || f.startsWith(`${cat}-`));
   const helmets = files("kask").flatMap((f) => readArray(`products/${f}`, HelmetSchema));
   const intercoms = files("interkom").flatMap((f) => readArray(`products/${f}`, IntercomSchema));
-  const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma"].flatMap((c) => files(c).flatMap((f) => readArray(`products/${f}`, ApparelSchema)));
+  const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma", "yagmurluk", "termal"].flatMap((c) => files(c).flatMap((f) => readArray(`products/${f}`, ApparelSchema)));
+  const accessories = files("aksesuar").flatMap((f) => readArray(`products/${f}`, AccessorySchema));
   // Kayıtlarda model adı marka ile başlıyorsa marka kısmı atılır; marka adı ayrıca gösterilir.
   const alnum = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
-  return [...helmets, ...intercoms, ...apparel].map((p) => {
+  return [...helmets, ...intercoms, ...apparel, ...accessories].map((p) => {
     const words = p.name.split(" ");
     for (let i = 1; i < words.length; i++)
       if (alnum(words.slice(0, i).join(" ")) === alnum(p.brand)) return { ...p, name: words.slice(i).join(" ") };
@@ -67,7 +69,7 @@ export function getProductById(id: string) {
 }
 export const getHelmets = () => getProducts().filter((p): p is Helmet => p.category === "kask");
 export const getIntercoms = () => getProducts().filter((p): p is Intercom => p.category === "interkom");
-export const isApparel = (p: Product): p is Apparel => p.category !== "kask" && p.category !== "interkom";
+export const isApparel = (p: Product): p is Apparel => p.category !== "kask" && p.category !== "interkom" && p.category !== "aksesuar";
 
 export function productsIn(category: string, sub?: string) {
   return getProducts().filter((p) => p.category === category && (!sub || p.subcategories.includes(sub)));

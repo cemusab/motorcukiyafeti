@@ -155,7 +155,7 @@ export function Header() {
               </ul>
             </div>
           </li>
-          {NAV_EXTRA.map((n) => (
+          {NAV_EXTRA.filter((n) => n.href === "/markalar" || n.href === "/rehber").map((n) => (
             <li key={n.href}>
               <Link href={n.href} className="block px-2.5 py-3 text-white hover:bg-red-dark xl:px-3">
                 {n.label}

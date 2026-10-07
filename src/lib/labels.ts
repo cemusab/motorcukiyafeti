@@ -1,5 +1,5 @@
 /** Teknik özellik etiketleri ve biçimlendirme: ürün sayfası, karşılaştırma tablosu ve kartlar aynı tanımları kullanır. */
-import type { Apparel, Helmet, Intercom, Product } from "@/data/schema";
+import type { Accessory, Apparel, Helmet, Intercom, Product } from "@/data/schema";
 
 export const HELMET_TYPE: Record<Helmet["specs"]["helmetType"], string> = {
   kapali: "Kapalı kask",
@@ -10,11 +10,12 @@ export const HELMET_TYPE: Record<Helmet["specs"]["helmetType"], string> = {
 };
 const SEASON: Record<string, string> = { yaz: "Yazlık", kis: "Kışlık", "4-mevsim": "4 mevsim" };
 const GENDER: Record<string, string> = { erkek: "Erkek", kadin: "Kadın", unisex: "Unisex" };
-const CAT: Record<string, string> = { mont: "mont", eldiven: "eldiven", bot: "bot", pantolon: "pantolon", koruma: "koruyucu" };
+const CAT: Record<string, string> = { mont: "mont", eldiven: "eldiven", bot: "bot", pantolon: "pantolon", koruma: "koruyucu", yagmurluk: "yağmurluk", termal: "termal giyim" };
 
 export function productTypeLabel(p: Product) {
   if (p.category === "kask") return HELMET_TYPE[p.specs.helmetType];
   if (p.category === "interkom") return p.specs.mesh ? "Mesh + Bluetooth interkom" : "Bluetooth interkom";
+  if (p.category === "aksesuar") return p.specs.accessoryType;
   const s = p.specs;
   return [s.gender && s.gender !== "unisex" ? GENDER[s.gender] : null, s.season ? SEASON[s.season] : null, s.materialClass, CAT[p.category]]
     .filter(Boolean)
@@ -37,6 +38,12 @@ export function keyChips(p: Product): string[] {
   if (p.category === "interkom") {
     const s = p.specs;
     return [s.mesh ? "Mesh" : null, s.bluetoothVersion ? `BT ${s.bluetoothVersion}` : null, s.talkTimeHours ? `${s.talkTimeHours} sa konuşma` : null, s.usbC ? "USB-C" : null]
+      .filter(Boolean)
+      .slice(0, 4) as string[];
+  }
+  if (p.category === "aksesuar") {
+    const s = p.specs;
+    return [s.certification, s.waterproof ? "Su geçirmez" : null, s.capacityLiters ? `${s.capacityLiters} L` : null, s.compatibility?.slice(0, 24) ?? null]
       .filter(Boolean)
       .slice(0, 4) as string[];
   }
@@ -146,8 +153,23 @@ export const APPAREL_SPECS: SpecRow<Apparel>[] = [
   { key: "specs.madeIn", label: "Üretim ülkesi", get: (p) => p.specs.madeIn },
 ];
 
+export const ACCESSORY_SPECS: SpecRow<Accessory>[] = [
+  { key: "specs.accessoryType", label: "Ürün tipi", get: (p) => p.specs.accessoryType },
+  { key: "specs.material", label: "Malzeme", get: (p) => p.specs.material },
+  { key: "specs.compatibility", label: "Uyumluluk", get: (p) => p.specs.compatibility },
+  { key: "specs.waterproof", label: "Su geçirmez", get: (p) => p.specs.waterproof, fmt: (v) => (v === true ? "Evet" : v === false ? "Hayır" : "—") },
+  { key: "specs.capacityLiters", label: "Hacim", get: (p) => p.specs.capacityLiters, fmt: (v) => (v ? `${v} litre` : "—") },
+  { key: "specs.certification", label: "Sertifika", get: (p) => p.specs.certification },
+  { key: "specs.features", label: "Özellikler", get: (p) => (p.specs.features.length ? p.specs.features.join(", ") : null) },
+  { key: "specs.madeIn", label: "Üretim ülkesi", get: (p) => p.specs.madeIn },
+];
+
+export function specDefs(category: string) {
+  return (category === "kask" ? HELMET_SPECS : category === "interkom" ? INTERCOM_SPECS : category === "aksesuar" ? ACCESSORY_SPECS : APPAREL_SPECS) as SpecRow<Product>[];
+}
+
 export function specRows(p: Product): { key: string; label: string; value: string; unverified: boolean }[] {
-  const rows = (p.category === "kask" ? HELMET_SPECS : p.category === "interkom" ? INTERCOM_SPECS : APPAREL_SPECS) as SpecRow<Product>[];
+  const rows = specDefs(p.category);
   return rows.map((r) => {
     const v = r.get(p);
     const value = r.fmt ? r.fmt(v, p) : v == null || v === "" ? "—" : String(v);

@@ -6,7 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, ReviewSchema } from "../src/data/schema";
+import { AccessorySchema, ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, ReviewSchema } from "../src/data/schema";
 import { allSubcategories } from "../src/data/categories";
 
 const root = path.join(__dirname, "..", "src", "data");
@@ -33,7 +33,8 @@ function load<T>(file: string, schema: z.ZodType<T>): T[] {
 const pfiles = (cat: string) => fs.readdirSync(path.join(root, "products")).filter((f) => f === `${cat}.json` || f.startsWith(`${cat}-`));
 const helmets = pfiles("kask").flatMap((f) => load(`products/${f}`, HelmetSchema));
 const intercoms = pfiles("interkom").flatMap((f) => load(`products/${f}`, IntercomSchema));
-const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma"].flatMap((c) => pfiles(c).flatMap((f) => load(`products/${f}`, ApparelSchema)));
+const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma", "yagmurluk", "termal"].flatMap((c) => pfiles(c).flatMap((f) => load(`products/${f}`, ApparelSchema)));
+const accessories = pfiles("aksesuar").flatMap((f) => load(`products/${f}`, AccessorySchema));
 const brands = fs.readdirSync(root).filter((f) => /^brands.*\.json$/.test(f)).flatMap((f) => load(f, BrandSchema));
 for (const b of brands) if (brands.filter((x) => x.slug === b.slug).length > 1) errors.push(`Yinelenen marka: ${b.slug}`);
 const compat = load("compat.json", CompatSchema);
@@ -42,7 +43,7 @@ const guides = fs.existsSync(guideDir)
   ? fs.readdirSync(guideDir).filter((f) => f.endsWith(".json")).flatMap((f) => load(`guides/${f}`, GuideSchema))
   : [];
 
-const products = [...helmets, ...intercoms, ...apparel];
+const products = [...helmets, ...intercoms, ...apparel, ...accessories];
 const ids = new Set<string>();
 const subSlugs = new Set(allSubcategories().map((x) => `${x.category.slug}/${x.sub.slug}`));
 const brandSlugs = new Set(brands.map((b) => b.slug));

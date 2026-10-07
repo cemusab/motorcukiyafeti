@@ -71,7 +71,7 @@ export const GEAR: Record<
     pick: "Ekipmanının üstüne rahat geçen, görünürlüğü yüksek renkte ve yansıtıcılı bir model seç.",
     safety: "Koruma sağlamaz, korumalı ekipmanın üstüne giyilir; tek başına yeterli değildir.",
     share: 5,
-    href: "/rehber/yagmurda-motosiklet-ekipmani",
+    href: "/yagmurluk",
   },
   termal: {
     name: "Termal içlik ve boyunluk",
@@ -79,7 +79,7 @@ export const GEAR: Record<
     pick: "Pamuk yerine nem atan sentetik veya merinos içlik ve rüzgar kesen boyunluk seç.",
     safety: "Koruma sağlamaz; kışın konsantrasyonu korumak içindir.",
     share: 5,
-    href: "/rehber/kislik-motosiklet-ekipmani",
+    href: "/termal",
   },
 };
 
