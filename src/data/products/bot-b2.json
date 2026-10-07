@@ -1,0 +1,2316 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "tex-motor/duratech-27-fashion",
+      "yaren-tekstil/yrn-1492-yazlik",
+      "held/montaro-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site)",
+        "url": "https://texmotor.com/urun/duratech-23-milano/",
+        "price": 3530,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3530,
+      "max": 3530,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor kendi sitesinde online satış yapmıyor; fiyat sitede liste fiyatı olarak gösteriliyor, satış mağazalar ve bayiler üzerinden."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "sizes",
+      "colors"
+    ],
+    "faq": [
+      {
+        "q": "Duratech 23 Milano CE sertifikalı mı?",
+        "a": "Tex Motor'un ürün sayfasında CE veya EN 13634 sertifikası belirtilmiyor. Satın almadan önce mağazadan sertifika etiketini sormak gerekir."
+      },
+      {
+        "q": "Online satın alınabiliyor mu?",
+        "a": "Tex Motor kendi sitesinde online satış yapmadığını belirtiyor; ürün Tex Motor mağazaları ve online satış yapan bayileri üzerinden satılıyor."
+      }
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; yürümesi kolay sneaker formu kısa mesafeli sürüşlere uygun.",
+      "kurye": "Fiyatı ve yürünebilirliği kuryeler için cazip; ancak sertifika bilgisi olmadığından koruma seviyesi belirsiz.",
+      "yaz": "Kapalı yapıda; çok sıcak günlerde file ayakkabılar kadar serin tutmayabilir.",
+      "yagmur": "Hafif yağmurda suyu itebilir, uzun sağanakta su almasını beklemek gerekir.",
+      "uzunYol": "Uzun yol için yüksek konçlu ve sertifikalı bir bot daha doğru seçim."
+    },
+    "dataConfidence": "low",
+    "slug": "duratech-23-milano",
+    "brand": "tex-motor",
+    "name": "Duratech 23 Milano",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Tex Motor'un yerli Duratech serisinden, bağcık ve cırtlı bilek kayışıyla kapanan, kaymaz kauçuk tabanlı kısa şehir botu.",
+    "description": [
+      "Duratech, Tex Motor'un yalnızca kendi kanalında sattığı ve %100 Türkiye üretimi olarak tanıttığı bot markası. 23 Milano bu serinin sneaker formundaki kısa modeli: bağcığın üstüne iki noktadan ayarlanan bir kayış ekleniyor, böylece bilek bölgesi sabitleniyor. Tex Motor topuk, bilek ve burun bölgesinde güçlendirilmiş koruma hatları, reflektif detaylar ve darbeye dayanıklı kaymaz kauçuk taban olduğunu belirtiyor.",
+      "Üretici sayfasında CE sertifikası, EN 13634 performans kodu, malzeme bileşimi ya da membran bilgisi yer almıyor; 'suyu iter' ifadesi su geçirmezlik değil, yüzeyin suyu bir süre itmesi anlamına geliyor. Bu yüzden Milano'yu sertifikalı bir motosiklet botu yerine, uygun fiyatlı ve takviyeli bir günlük sürüş ayakkabısı olarak değerlendirmek daha doğru."
+    ],
+    "forWho": [
+      "Bütçesi kısıtlı, şehir içinde scooter veya küçük hacimli motosiklet kullanan sürücüler",
+      "Gün içinde sık inip binen ve yürümeye uygun bir ayakkabı arayan kuryeler",
+      "Yerli üretim ürünü tercih edenler"
+    ],
+    "notFor": [
+      "Otoyol, uzun yol ve sport kullanım: sertifika ve kaval koruması bilgisi yok",
+      "Sağanak yağmurda ayağının kuru kalmasını bekleyenler"
+    ],
+    "pros": [
+      "Sınıfının çok altında fiyat",
+      "Bağcık + kayışla bilek bölgesi sabitlenebiliyor",
+      "Reflektif detaylar ve kaymaz kauçuk taban",
+      "Türkiye'de üretim, mağazadan denenebilir"
+    ],
+    "cons": [
+      "Üretici CE / EN 13634 sertifikası belirtmiyor",
+      "Su geçirmez membran bilgisi yok; sadece 'suyu iter' deniyor",
+      "Malzeme ve beden bilgisi sayfada eksik"
+    ],
+    "verdict": "Duratech 23 Milano, şehir içinde her gün kullanılacak ucuz ve yerli bir sürüş ayakkabısı arayanlar için mantıklı bir giriş seçeneği. Sertifika ve membran bilgisinin olmaması onu kurye temposu ve kısa mesafelerle sınırlıyor; otoyol ve uzun yol için sertifikalı bir bota yönelmek gerekir.",
+    "manufacturerUrl": "https://texmotor.com/urun/duratech-23-milano/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/duratech-23-milano/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech 23 Milano ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/duratech/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech marka sayfası (%100 Türkiye üretimi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "revit/arrow-2-h2o-ladies",
+      "ixon/bull-2-wp-lady",
+      "alpinestars/stella-faster-3-rideknit"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site)",
+        "url": "https://texmotor.com/urun/duratech-24-venezia/",
+        "price": 3530,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3530,
+      "max": 3530,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor kendi sitesinde online satış yapmıyor; fiyat sitede liste fiyatı olarak gösteriliyor, satış mağazalar ve bayiler üzerinden."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "sizes",
+      "colors"
+    ],
+    "faq": [
+      {
+        "q": "Venezia kadın kalıbı mı?",
+        "a": "Evet, Tex Motor ürünü 'kadın bot' olarak listeliyor. Numara aralığı sayfada verilmediği için mağazadan kontrol etmek gerekir."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Hayır. Üretici yalnızca 'suyu iter' diyor; membran bilgisi yok."
+      }
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşleri ve gün içinde yürüme için tasarlanmış.",
+      "kurye": "Yürümesi kolay; ancak sertifika bilgisi olmadığından yoğun kurye kullanımında koruma seviyesi belirsiz.",
+      "yaz": "Kapalı yapı, sıcak günlerde file modeller kadar serin değil.",
+      "yagmur": "Hafif yağmurda suyu itebilir, sağanakta su alması beklenir."
+    },
+    "dataConfidence": "low",
+    "slug": "duratech-24-venezia",
+    "brand": "tex-motor",
+    "name": "Duratech 24 Venezia Kadın",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Duratech serisinin kadın kalıbıyla sunulan, siyah-kırmızı renkli, bağcık ve cırtlı kayışlı kısa yerli şehir botu.",
+    "description": [
+      "Venezia, Tex Motor'un Duratech serisinde doğrudan 'kadın bot' olarak listelenen model. Siyah-kırmızı renk düzeni, bağcık üzerinde iki noktadan ayarlanan bilek kayışı ve sneaker benzeri kısa konç yapısıyla Milano'nun kadın kullanıcıya uyarlanmış hali gibi duruyor. Tex Motor topuk, bilek ve burun bölgesinde güçlendirilmiş koruma hatları, reflektif detaylar ve darbeye dayanıklı kaymaz kauçuk taban olduğunu yazıyor.",
+      "Üretici sayfası CE / EN 13634 sertifikası, malzeme ya da numara aralığı paylaşmıyor. 'Suyu iter' ifadesi su geçirmez bir membran olduğu anlamına gelmiyor. Bu nedenle Venezia; şehir içi kısa mesafeler, scooter kullanımı ve günlük yürüyüş için düşünülmeli, yüksek hızda koruma beklentisiyle alınmamalı."
+    ],
+    "forWho": [
+      "Uygun fiyatlı, kadın kalıbı kısa bir sürüş botu arayan şehir sürücüleri",
+      "Scooter ile işe gidip gelen ve motordan inince ayakkabı değiştirmek istemeyenler",
+      "Yerli üretim tercih eden kadın sürücüler"
+    ],
+    "notFor": [
+      "Otoyol ve uzun yol kullanımı: sertifika ve kaval koruması bilgisi yok",
+      "Yağmurlu havada su geçirmezlik bekleyenler"
+    ],
+    "pros": [
+      "Kadın kalıbı olarak sunulan nadir yerli modellerden",
+      "Uygun fiyat",
+      "Reflektif detaylar ve kaymaz taban",
+      "Bilek kayışıyla ayarlanabilir oturuş"
+    ],
+    "cons": [
+      "CE / EN 13634 sertifikası belirtilmiyor",
+      "Numara aralığı ve malzeme bilgisi yok",
+      "Su geçirmez membran yok"
+    ],
+    "verdict": "Duratech 24 Venezia, kadın kalıbında uygun fiyatlı ve yerli bir şehir botu arayanlar için bulunması zor bir seçenek. Koruma seviyesini belgeleyen bir sertifika paylaşılmadığı için şehir içi ve düşük hızlı kullanımda değerlendirilmeli.",
+    "manufacturerUrl": "https://texmotor.com/urun/duratech-24-venezia/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/duratech-24-venezia/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech 24 Venezia Kadın ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/duratech/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech marka sayfası (%100 Türkiye üretimi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "tex-motor/duratech-23-milano",
+      "stylmartin/core-wp",
+      "held/torrance"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site)",
+        "url": "https://texmotor.com/urun/duratech-27-fashion/",
+        "price": 3530,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3530,
+      "max": 3530,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor kendi sitesinde online satış yapmıyor; fiyat sitede liste fiyatı olarak gösteriliyor, satış mağazalar ve bayiler üzerinden."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "sizes",
+      "colors"
+    ],
+    "faq": [
+      {
+        "q": "Fashion ile Milano arasındaki fark ne?",
+        "a": "İkisi de aynı koruma özellikleriyle tanıtılıyor; Fashion açık renkli tabanıyla daha çok günlük sneaker görünümünde."
+      },
+      {
+        "q": "CE belgeli mi?",
+        "a": "Tex Motor'un ürün sayfasında CE / EN 13634 bilgisi yok."
+      }
+    ],
+    "usage": {
+      "sehir": "Şehir içinde kısa sürüş ve gün boyu yürüme için tasarlanmış.",
+      "yaz": "Kapalı yapı; sıcakta file ayakkabılar kadar serin değil.",
+      "yagmur": "Hafif yağmurda suyu itebilir, uzun yağmurda su alır.",
+      "kurye": "Görünüş odaklı; yoğun kurye kullanımında sertifikalı bir model daha güvenli."
+    },
+    "dataConfidence": "low",
+    "slug": "duratech-27-fashion",
+    "brand": "tex-motor",
+    "name": "Duratech 27 Fashion",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Beyaz tabanlı sneaker görünümüyle günlük kıyafete uyan, cırtlı bilek kayışlı ve reflektif detaylı yerli Duratech şehir ayakkabısı.",
+    "description": [
+      "27 Fashion, Duratech serisinin en 'günlük ayakkabı' görünümlü modeli: açık renk taban, bağcık ve bilek üstünde cırtlı kayış. Tex Motor; topuk, bilek ve burun bölgesinde güçlendirilmiş koruma hatları, reflektif detaylar ve darbeye dayanıklı kaymaz kauçuk taban bulunduğunu belirtiyor. Görüntüsü sayesinde motosikletten indikten sonra ofiste ya da sokakta dikkat çekmeden giyilebiliyor.",
+      "Sertifika, malzeme ve membran bilgisi üretici sayfasında yer almıyor. Açık renkli taban vites pedalı ve yol kiriyle çabuk kirlenebilir; Fashion'ı şık görünüm ve fiyat avantajı için seçip koruma beklentisini düşük tutmak gerekir."
+    ],
+    "forWho": [
+      "Motosiklet ayakkabısı gibi görünmeyen bir ayakkabı arayan şehir sürücüleri",
+      "Scooter ile kısa mesafe gidip gelenler",
+      "Uygun fiyatlı yerli ürün tercih edenler"
+    ],
+    "notFor": [
+      "Otoyol, uzun yol ve sport kullanım",
+      "Yağmurlu havada her gün sürüş yapacak kuryeler: su geçirmezlik yok"
+    ],
+    "pros": [
+      "Günlük ayakkabı görünümü",
+      "Uygun fiyat",
+      "Cırtlı bilek kayışı ve reflektif detaylar"
+    ],
+    "cons": [
+      "Sertifika bilgisi yok",
+      "Açık renk taban çabuk kirlenir",
+      "Su geçirmez değil"
+    ],
+    "verdict": "Duratech 27 Fashion, motosiklet ayakkabısı görünümünden kaçan ve bütçesini korumak isteyen şehir sürücüsüne hitap ediyor. Sertifika bilgisinin olmaması ve açık renkli tabanı nedeniyle onu yoğun kullanım yerine günlük, kısa mesafeli sürüşlerde düşünmek gerekir.",
+    "manufacturerUrl": "https://texmotor.com/urun/duratech-27-fashion/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/duratech-27-fashion/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech 27 Fashion ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/duratech/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech marka sayfası (%100 Türkiye üretimi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "tex-motor/duratech-29-como",
+      "yds/diablo-11-0-gtx",
+      "furygan/boot-gt-d3o-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site)",
+        "url": "https://texmotor.com/urun/duratech-28-lugano/",
+        "price": 4330,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 4330,
+      "max": 4330,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor kendi sitesinde online satış yapmıyor; fiyat sitede liste fiyatı olarak gösteriliyor, satış mağazalar ve bayiler üzerinden."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "sizes",
+      "colors",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Lugano su geçirmez mi?",
+        "a": "Hayır, üretici su geçirmezlik değil nefes alabilirlik vurgusu yapıyor."
+      },
+      {
+        "q": "Kaval koruması var mı?",
+        "a": "Üretici yalnızca topuk, bilek ve burun bölgesinde güçlendirme olduğunu yazıyor; kaval koruması belirtilmiyor."
+      }
+    ],
+    "usage": {
+      "uzunYol": "Uzun konç bacağı daha iyi örter; sertifika bilgisinin olmaması dikkate alınmalı.",
+      "sehir": "Kullanılabilir ama sık yürümek için kısa modeller daha rahat.",
+      "yaz": "Üretici nefes alabilir yapıyı öne çıkarıyor; ılık ve sıcak havaya daha uygun.",
+      "yagmur": "Su geçirmezlik iddiası yok."
+    },
+    "dataConfidence": "low",
+    "slug": "duratech-28-lugano",
+    "brand": "tex-motor",
+    "name": "Duratech 28 Lugano Uzun",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Yüksek konçlu, nefes alan yapısıyla öne çıkan, topuk-bilek-burun takviyeli ve reflektif detaylı yerli Duratech uzun botu.",
+    "description": [
+      "Lugano, Duratech serisinin uzun konçlu modeli. Tex Motor; topuk, bilek ve burun bölgesinde güçlendirilmiş koruma hatları, iki noktadan ayarlanabilen bilek bölgesi, reflektif hatlar ve darbeye dayanıklı kaymaz kauçuk taban bulunduğunu yazıyor. Diğer Duratech modellerinden farklı olarak 'nefes alır, terletmez' vurgusu yapılıyor; bu da onu daha çok ılık havada kullanılacak bir uzun bot olarak konumluyor.",
+      "Uzun konç, kısa botlara göre bacağın alt kısmını daha fazla örter; ancak üretici kaval koruması ya da sertifika kodu belirtmiyor. Su geçirmezlik iddiası da yok. Lugano, bütçe dostu bir uzun bot arayan ve sertifika belgesini mağazada kontrol edebilecek sürücüler için düşünülmeli."
+    ],
+    "forWho": [
+      "Kısa bot yerine bacağı daha fazla örten, uygun fiyatlı bir bot isteyenler",
+      "Bahar ve yaz aylarında şehir dışına kısa turlar atan sürücüler",
+      "Yerli üretim uzun bot arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda su geçirmezlik bekleyenler",
+      "Sport ve pist kullanımı",
+      "Gün boyu inip binen kuryeler: uzun konç giyip çıkarmayı ve yürümeyi zorlaştırır"
+    ],
+    "pros": [
+      "Uygun fiyatlı uzun konç",
+      "Nefes alan yapı vurgusu",
+      "Reflektif hatlar ve kaymaz taban"
+    ],
+    "cons": [
+      "Sertifika ve kaval koruması bilgisi yok",
+      "Su geçirmez değil",
+      "Malzeme ve numara bilgisi eksik"
+    ],
+    "verdict": "Duratech 28 Lugano, uzun konçlu bir botu düşük bütçeyle almak isteyenler için ilginç bir yerli seçenek. Koruma seviyesini gösteren sertifika ve su geçirmezlik bilgisi olmadığı için, onu sertifikalı touring botların yerine değil, daha hafif kullanım için düşünmek gerekir.",
+    "manufacturerUrl": "https://texmotor.com/urun/duratech-28-lugano/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/duratech-28-lugano/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech 28 Lugano Uzun ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/duratech/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech marka sayfası (%100 Türkiye üretimi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alabilen yapı (üretici beyanı)",
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "tex-motor/duratech-28-lugano",
+      "yds/diablo-11-0-gtx",
+      "held/annone-gtx-2"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site)",
+        "url": "https://texmotor.com/urun/duratech-29-como-uzun/",
+        "price": 4070,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 4070,
+      "max": 4070,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor kendi sitesinde online satış yapmıyor; fiyat sitede liste fiyatı olarak gösteriliyor, satış mağazalar ve bayiler üzerinden."
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "sizes",
+      "colors"
+    ],
+    "faq": [
+      {
+        "q": "Como ile Lugano arasındaki fark nedir?",
+        "a": "Üretici Como'da kaval bölgesini de koruma alanı olarak sayıyor ve esneyen hatlardan söz ediyor; Lugano'da ise nefes alabilirlik vurgusu öne çıkıyor."
+      },
+      {
+        "q": "CE belgeli mi?",
+        "a": "Ürün sayfasında CE / EN 13634 bilgisi bulunmuyor."
+      }
+    ],
+    "usage": {
+      "uzunYol": "Uzun konç ve kaval takviyesi uzun yolda kısa botlardan daha fazla koruma sunar.",
+      "sehir": "Kullanılabilir, ancak gün boyu yürümek için kısa botlar daha pratik.",
+      "yagmur": "Suyu iter; uzun yağmurda su alması beklenmeli.",
+      "kis": "Yalıtım bilgisi yok; soğukta kalın çorap gerekir."
+    },
+    "dataConfidence": "low",
+    "slug": "duratech-29-como",
+    "brand": "tex-motor",
+    "name": "Duratech 29 Como Uzun",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Kaval bölgesini de kapsayan takviyeleri, esneyen hatları ve kaymaz tabanıyla Duratech serisinin en kapsamlı korumalı uzun botu.",
+    "description": [
+      "Como, Duratech serisinde üreticinin kaval kemiğini de koruma bölgeleri arasında saydığı tek uzun model. Tex Motor; topuk, bilek, kaval ve burun bölgesinde güçlendirilmiş koruma hatları, hareket kabiliyeti için esneyen bölümler, darbeye dayanıklı kaymaz kauçuk taban ve suyu iten bir yüzey olduğunu belirtiyor. Fiyatı Lugano'dan biraz düşük.",
+      "Üretici sayfasında CE / EN 13634 sertifikası, malzeme, membran ve numara bilgisi bulunmuyor. 'Suyu iter' ifadesi su geçirmezlik anlamına gelmediği için Como'yu yağmurlu uzun yolda kuru tutması beklenen bir bot olarak değil, uygun fiyatlı ve geniş koruma alanlı bir uzun bot olarak değerlendirmek gerekir."
+    ],
+    "forWho": [
+      "Uygun fiyatla kaval bölgesini de örten bir bot isteyenler",
+      "Hafta sonu şehir dışı sürüş yapan sürücüler",
+      "Yerli üretim uzun bot arayanlar"
+    ],
+    "notFor": [
+      "Yağmurlu uzun yolda tam su geçirmezlik bekleyenler",
+      "Pist ve sport kullanım",
+      "Sık inip binen kuryeler: uzun konç yürümeyi zorlaştırır"
+    ],
+    "pros": [
+      "Kaval bölgesi takviyesi",
+      "Esneyen hatlar sayesinde hareket rahatlığı",
+      "Uygun fiyat"
+    ],
+    "cons": [
+      "Sertifika kodu yok",
+      "Su geçirmez membran yok",
+      "Malzeme ve beden bilgisi eksik"
+    ],
+    "verdict": "Duratech 29 Como, bütçesi sınırlı ama kısa botun yetmediğini düşünen sürücü için seride en fazla bölgeyi kapsayan model. Sertifika ve su geçirmezlik bilgisi olmadığından, onu sertifikalı touring botların ucuz bir alternatifi olarak değil, temel korumalı bir uzun bot olarak görmek gerekir.",
+    "manufacturerUrl": "https://texmotor.com/urun/duratech-29-como-uzun/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/duratech-29-como-uzun/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech 29 Como Uzun ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/duratech/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Duratech marka sayfası (%100 Türkiye üretimi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "yds/diablo-7-2-gtx",
+      "yaren-tekstil/yrn-1492-yazlik",
+      "held/montaro-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi site)",
+        "url": "https://www.yarentekstil.com/yrn-1492-ce-belgeli-kislik-motorcu-bot-yrn-1492-kislik-motorcu-bot-",
+        "price": 3490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3490,
+      "max": 3490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "siyah"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.membrane",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Su geçirmez astar kullanılıyor ve su geçirmezlik teknolojisine göre üretildiği belirtiliyor, ancak Yaren Tekstil su geçirmezlik garantisi vermiyor."
+      },
+      {
+        "q": "CE belgeli mi?",
+        "a": "Ürün 'CE belgeli' olarak satılıyor ve görsellerde EN 13634:2017 işareti var; performans kodu sayfada paylaşılmıyor."
+      },
+      {
+        "q": "Hangi numaralar var?",
+        "a": "Ürün sayfasında 38'den 47'ye kadar numaralar listeleniyor."
+      }
+    ],
+    "usage": {
+      "kurye": "Tasarım amacı bu: sağlam deri, kaymaz taban ve fermuar gün boyu inip binmeye uygun.",
+      "kis": "Su geçirmez astarlı kışlık model; yalıtım değeri verilmiyor.",
+      "yagmur": "Su geçirmez astar var ama üretici garanti vermiyor; uzun sağanakta dikkat.",
+      "sehir": "Günlük şehir kullanımında rahat yürünebilir.",
+      "uzunYol": "Kısa turlarda kullanılabilir; uzun yolda yüksek konçlu touring botlar daha fazla koruma sunar."
+    },
+    "dataConfidence": "medium",
+    "slug": "yrn-1492-kislik",
+    "brand": "yaren-tekstil",
+    "name": "YRN-1492 Kışlık Motorcu Bot",
+    "subcategories": [
+      "touring-botu",
+      "sehir-botu"
+    ],
+    "summary": "Hakiki deri, su geçirmez iç astar, tabanda çelik koruyucu ve yanlarda darbe emici takviyeyle kurye temposuna göre yapılmış yerli kışlık bot.",
+    "description": [
+      "YRN-1492 Kışlık, Yaren Tekstil'in kurye ve kurumsal ekipman deneyimiyle ürettiği kısa-orta konçlu motorcu botu. Üst yüzey suya dayanıklı hakiki deri, yanlarda Cordura kumaş; içeride su geçirmez, antibakteriyel ve nefes alabilen astar kullanılıyor. Botun iç ve dış yanlarında darbe emici koruyucular, burun ve topukta koruyucu parçalar, tabanda çelik koruyucu var. YKK fermuar, ortopedik iç taban ve kaymaya dayanıklı kauçuk dış taban standart.",
+      "Üretici dürüst bir not düşüyor: bot su geçirmezlik teknolojisine göre üretilmiş ama su geçirmezlik garantisi verilmiyor. Topuk ve bilekte EN 20471'e uygun reflektörler var. Ürün sayfası 'CE belgeli' başlığını taşıyor ve görsellerde EN 13634:2017 piktogramı görünüyor; ancak performans kodu (ör. 1222 WR) paylaşılmıyor. 38–47 numara aralığında, siyah renkte satılıyor."
+    ],
+    "forWho": [
+      "Kışın da her gün motor kullanan kuryeler",
+      "Yerli, uygun fiyatlı ve sağlam bir günlük bot arayanlar",
+      "Tabanda ek delinme koruması isteyenler"
+    ],
+    "notFor": [
+      "Sport ve pist kullanımı",
+      "Yaz sıcağında her gün kullanacak olanlar: deri ve astar sıcak tutar"
+    ],
+    "pros": [
+      "Hakiki deri + Cordura üst yapı",
+      "Tabanda çelik koruyucu, yanlarda darbe emici takviye",
+      "YKK fermuarla hızlı giyme",
+      "Uygun fiyat ve ücretsiz kargo"
+    ],
+    "cons": [
+      "Üretici su geçirmezlik garantisi vermiyor",
+      "EN 13634 performans kodu paylaşılmıyor",
+      "Çelik takviye botu ağırlaştırabilir; ağırlık bilgisi yok"
+    ],
+    "verdict": "YRN-1492 Kışlık, kurye temposunu bilen bir üreticiden gelen, fiyatına göre dolu donanımlı bir kış botu. Su geçirmezlik garantisinin olmaması ve sertifika kodunun açıklanmaması eksik; buna rağmen deri yapı, tabandaki çelik koruma ve uygun fiyat onu yoğun şehir kullanımı için mantıklı kılıyor.",
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-1492-ce-belgeli-kislik-motorcu-bot-yrn-1492-kislik-motorcu-bot-",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-1492-ce-belgeli-kislik-motorcu-bot-yrn-1492-kislik-motorcu-bot-",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1492 CE Belgeli Kışlık Motorcu Bot ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Suya dayanıklı hakiki deri, yanlarda Cordura; su geçirmez antibakteriyel astar; kauçuk dış taban, tabanda çelik koruyucu",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "YKK fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "yds/diablo-7-4-yazlik",
+      "yaren-tekstil/yrn-1492-kislik",
+      "tex-motor/duratech-23-milano"
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi site)",
+        "url": "https://www.yarentekstil.com/yrn-1492-yazlik-motorcu-bot-yrn-1493-yazlik-motorcu-bot",
+        "price": 3190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3190,
+      "max": 3190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "siyah"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass"
+    ],
+    "faq": [
+      {
+        "q": "Kışlık modelden farkı ne?",
+        "a": "Yazlık modelde su geçirmez astar yerine nefes alabilen astar kullanılıyor; ön ve arka bölümlerde Micro Diamond darbe malzemesi öne çıkarılıyor."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Üretici 'CE belgeli' diyor ama standart ve performans kodu ürün sayfasında yazmıyor."
+      }
+    ],
+    "usage": {
+      "kurye": "Yaz temposunda gün boyu kullanılmak üzere tasarlanmış.",
+      "yaz": "Nefes alan astar sayesinde kışlık modele göre daha serin.",
+      "sehir": "Şehir içinde rahat yürünebilir.",
+      "yagmur": "Su geçirmez astar yok; yağmurda su alır."
+    },
+    "dataConfidence": "medium",
+    "slug": "yrn-1492-yazlik",
+    "brand": "yaren-tekstil",
+    "name": "YRN-1492 Yazlık Motorcu Bot",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Hakiki deri, Cordura yan paneller ve nefes alan astarla yaz kullanımına göre hazırlanmış, CE belgeli olarak satılan yerli kurye botu.",
+    "description": [
+      "YRN-1492 Yazlık, Yaren Tekstil'in kışlık modelinin sıcak hava için hazırlanmış kardeşi. Üst yüzey suya dayanıklı hakiki deri; ön ve arkada sert darbelere dayanıklı Micro Diamond malzeme, yanlarda orijinal Cordura kullanılıyor. İçeride ter atan, nefes alabilen bir astar var. İç yanda YKK fermuar, ortopedik iç taban ve kaymaya dayanıklı kauçuk dış taban standart.",
+      "Topuk ve bilekte EN 20471'e uygun reflektörler bulunuyor. Üretici ürünü 'CE belgeli yerli üretim' olarak tanıtıyor, ancak hangi standart ve hangi performans kodu olduğu sayfada yazmıyor. Su geçirmez astar yerine nefes alan astar kullanıldığı için yağmurda su alması beklenmeli. 38–47 numara aralığında siyah renkte sunuluyor."
+    ],
+    "forWho": [
+      "Yaz aylarında her gün motor kullanan kuryeler",
+      "Deri bir botu sıcak havada daha serin kullanmak isteyenler",
+      "Uygun fiyatlı yerli ürün arayanlar"
+    ],
+    "notFor": [
+      "Yağmurlu havada ayağının kuru kalmasını bekleyenler",
+      "Sport ve pist kullanımı"
+    ],
+    "pros": [
+      "Nefes alan astar",
+      "Ön-arka darbeye dayanıklı malzeme ve Cordura yanlar",
+      "YKK fermuar, ortopedik iç taban",
+      "Uygun fiyat, ücretsiz kargo"
+    ],
+    "cons": [
+      "Sertifika standardı ve kodu açıklanmıyor",
+      "Su geçirmez değil",
+      "Deri yapı en sıcak günlerde yine de ısınır"
+    ],
+    "verdict": "YRN-1492 Yazlık, deri bir kurye botunu yaz aylarında kullanmak isteyenler için fiyatına göre mantıklı bir yerli seçenek. CE belgesinin ayrıntısının paylaşılmaması ve su geçirmezlik olmaması, onu kuru havada şehir içi kullanımla sınırlıyor.",
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-1492-yazlik-motorcu-bot-yrn-1493-yazlik-motorcu-bot",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-1492-yazlik-motorcu-bot-yrn-1493-yazlik-motorcu-bot",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1492 Yazlık Motorcu Bot ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Suya dayanıklı hakiki deri, ön-arka Micro Diamond, yanlarda Cordura; nefes alabilen astar; kauçuk dış taban",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alabilen (ter atan) iç astar",
+      "closure": "YKK fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/annone-gtx-2",
+      "furygan/boot-gt-d3o-wp",
+      "yds/diablo-7-2-gtx"
+    ],
+    "offers": [
+      {
+        "seller": "YDS Shop (resmi site)",
+        "url": "https://www.ydsshop.com/yds-diablo-11.0-gtx-siyah",
+        "price": 12450,
+        "salePrice": 8690,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 8690,
+      "max": 8690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizes",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "2222 IPA WR FO SRC WAD ne anlama geliyor?",
+        "a": "İlk dört rakam EN 13634:2017'deki yükseklik, aşınma, kesilme ve enine ezilme seviyeleri; hepsi 2. WR su geçirmezlik testini, diğer ekler YDS'nin belirttiği ek taban ve dayanım testlerini gösterir."
+      },
+      {
+        "q": "Ağırlığı ne kadar?",
+        "a": "YDS, 42 numarada yaklaşık 1800 g olarak veriyor."
+      }
+    ],
+    "usage": {
+      "uzunYol": "En güçlü alanı: uzun konç, Gore-Tex ve 2222 seviye sertifika.",
+      "yagmur": "Gore-Tex membran ve WR testi yağmurda ayağı kuru tutmayı hedefliyor.",
+      "kis": "Membranlı deri yapı soğukta iyi; yalıtım değeri verilmiyor.",
+      "yaz": "Uzun konç ve membran nedeniyle sıcak günlerde ısınır.",
+      "sehir": "Kullanılabilir ama ağırlığı ve konç boyu sık yürüyüşte yorar."
+    },
+    "dataConfidence": "high",
+    "slug": "diablo-11-0-gtx",
+    "brand": "yds",
+    "name": "Diablo 11.0 GTX",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Gore-Tex membranlı, Vibram tabanlı, EN 13634:2017 2222 WR sertifikalı, Ankara'da üretilen yerli uzun touring botu.",
+    "description": [
+      "Diablo 11.0 GTX, askeri ve teknik bot üretimiyle tanınan YDS'nin motosiklet serisinin en üst modeli. Üst yüzey nefes alabilen hakiki sığır derisi, içeride Gore-Tex su geçirmez membran, altta motosiklet kullanımı için tasarlanmış Vibram nitril kauçuk taban var. Ön ve arka bölümlerde yüksek yoğunluklu sünger ve yumuşatılmış deriyle desteklenen körükler, TPU vites koruması, PU süngerle takviyeli TPU ayak bileği koruması, topuk reflektörü ve kolay giyim için yan fermuar bulunuyor.",
+      "Bot EN 13634:2017 kapsamında 2222 seviyesinde sertifikalı; yani yükseklik, aşınma, kesilme ve enine ezilme testlerinin hepsinde en üst seviye. Kodun devamındaki WR su geçirmezlik testini, IPA/FO/SRC/WAD ekleri ise iş güvenliği ayakkabılarından tanıdık ek testleri (ör. kaymaz taban, yakıt-yağ direnci) gösteriyor. YDS, 42 numarada ağırlığı yaklaşık 1800 g olarak veriyor; uzun yol için ağır sayılabilecek bir bot."
+    ],
+    "forWho": [
+      "Uzun yol ve her mevsim touring yapan sürücüler",
+      "Gore-Tex ve tam sertifika isteyen ama ithal bot fiyatı ödemek istemeyenler",
+      "Yerli üretim, yüksek korumalı bot arayanlar"
+    ],
+    "notFor": [
+      "Gün boyu inip binen ve çok yürüyen kuryeler: uzun konç ve 1,8 kg ağırlık yorar",
+      "Pist kullanımı: burulma kontrol sistemi yok"
+    ],
+    "pros": [
+      "EN 13634:2017 2222 WR; tüm testlerde seviye 2",
+      "Gore-Tex membran ve Vibram taban",
+      "Yan fermuarla kolay giyme",
+      "İthal muadillerine göre belirgin fiyat avantajı"
+    ],
+    "cons": [
+      "42 numarada yaklaşık 1800 g; ağır",
+      "Uzun konç sıcak havada terletebilir",
+      "Türkiye dışı servis ve bilinirlik sınırlı"
+    ],
+    "verdict": "Diablo 11.0 GTX, Türkiye'de üretilen ve sertifika kodunu açıkça paylaşan en iddialı touring botlarından biri: Gore-Tex, Vibram ve dört testte de seviye 2. Ağırlığı ve uzun konçu onu kurye işinden çok uzun yol ve her mevsim sürüşe uygun kılıyor.",
+    "manufacturerUrl": "https://www.ydsshop.com/yds-diablo-11.0-gtx-siyah",
+    "sources": [
+      {
+        "url": "https://www.ydsshop.com/yds-diablo-11.0-gtx-siyah",
+        "type": "manufacturer",
+        "label": "YDS Shop – Diablo 11.0 GTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.ydsshop.com/hakkimizda",
+        "type": "manufacturer",
+        "label": "YDS Shop – Hakkımızda (Ankara üretim tesisi)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Nefes alabilen hakiki sığır derisi; Gore-Tex membran; Vibram nitril kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "2222 IPA WR FO SRC WAD",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yan fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/montaro-wp",
+      "yaren-tekstil/yrn-1492-kislik",
+      "yds/diablo-11-0-gtx"
+    ],
+    "offers": [
+      {
+        "seller": "YDS Shop (resmi site)",
+        "url": "https://www.ydsshop.com/diablo-7.2-gtx-siyah",
+        "price": 10850,
+        "salePrice": 7590,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 7590,
+      "max": 7590,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizes",
+      "specs.season",
+      "specs.ceStandard"
+    ],
+    "faq": [
+      {
+        "q": "7.2 GTX ile 11.0 GTX arasındaki fark nedir?",
+        "a": "7.2 GTX kısa konçlu (yükseklik seviye 1) ve daha hafif; 11.0 GTX uzun konçlu ve tüm testlerde seviye 2."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet, Gore-Tex astarlı ve sertifika kodunda WR (su geçirmezlik) bulunuyor."
+      }
+    ],
+    "usage": {
+      "kurye": "Kısa konç, fermuar ve Gore-Tex sayesinde yağmurlu günlerde kurye için güçlü seçenek.",
+      "sehir": "Yürünebilir kısa yapı şehir için uygun.",
+      "yagmur": "Gore-Tex astar ve WR testi yağmura karşı iddialı.",
+      "uzunYol": "Kısa turlarda yeterli; uzun yolda uzun konçlu 11.0 GTX daha fazla koruma sağlar.",
+      "kis": "Membranlı deri yapı soğuğa karşı iyi; yalıtım değeri verilmiyor."
+    },
+    "dataConfidence": "high",
+    "slug": "diablo-7-2-gtx",
+    "brand": "yds",
+    "name": "Diablo 7.2 GTX",
+    "subcategories": [
+      "touring-botu",
+      "sehir-botu"
+    ],
+    "summary": "Gore-Tex astarlı, Vibram tabanlı, 1222 WR sertifika kodlu kısa konçlu yerli motosiklet botu; şehir ve tur arası denge.",
+    "description": [
+      "Diablo 7.2 GTX, YDS'nin kısa konçlu Gore-Tex modeli. Nefes alabilen hakiki sığır derisi üst yüzey, Gore-Tex astar ve motosiklet için tasarlanmış Vibram nitril kauçuk taban kullanılıyor. Ön ve arka körükler yüksek yoğunluklu sünger ve yumuşatılmış deriyle desteklenmiş; TPU vites koruması, PU süngerle takviyeli ayak bileği koruması, topuk reflektörü ve fermuar standart.",
+      "YDS sertifika kodunu 1222 IPA WR FO SRC B WAD (sertifika no 91030646) olarak veriyor; standart adı sayfada yazmasa da kod EN 13634 düzenini izliyor. Yükseklik 1 olduğu için kısa konçlu; aşınma, kesilme ve enine ezilmede seviye 2. WR su geçirmezlik testini geçtiğini gösteriyor. YDS, 42 numarada ağırlığı yaklaşık 1476 g olarak veriyor. Kısa konç ve Gore-Tex birleşimi, onu hem kurye temposuna hem de hafta sonu turlarına uygun bir orta yol yapıyor."
+    ],
+    "forWho": [
+      "Yağmurda da çalışan kuryeler: kısa konç, Gore-Tex ve fermuar",
+      "Şehir içi ile kısa tur arasında tek bot kullanmak isteyenler",
+      "Sertifika kodunu açıkça gösteren yerli ürün arayanlar"
+    ],
+    "notFor": [
+      "Pist ve sport sürüş: kaval ve burulma koruması yok",
+      "Arazi kullanımı"
+    ],
+    "pros": [
+      "Gore-Tex astar ve WR testi",
+      "Aşınma, kesilme ve ezilmede seviye 2 (sertifika kodu)",
+      "Vibram taban",
+      "Fiyat/özellik oranı yüksek"
+    ],
+    "cons": [
+      "Kısa konç (yükseklik seviye 1), kaval korumasız",
+      "42 numarada yaklaşık 1,5 kg; sneaker'lara göre ağır",
+      "Membran yaz sıcağında ısınabilir"
+    ],
+    "verdict": "Diablo 7.2 GTX, Gore-Tex ve sertifikalı korumayı kısa ve yürünebilir bir gövdede toplayan, kuryeler için Türkiye'deki en dengeli yerli seçeneklerden biri. Kaval korumasının olmaması onu otoyol ve sport kullanımın gerisinde bırakıyor; şehir ve kısa tur için güçlü bir aday.",
+    "manufacturerUrl": "https://www.ydsshop.com/diablo-7.2-gtx-siyah",
+    "sources": [
+      {
+        "url": "https://www.ydsshop.com/diablo-7.2-gtx-siyah",
+        "type": "manufacturer",
+        "label": "YDS Shop – Diablo 7.2 GTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Nefes alabilen hakiki sığır derisi; Gore-Tex astar; Vibram nitril kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": "1222 IPA WR FO SRC B WAD",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "yaren-tekstil/yrn-1492-yazlik",
+      "yds/diablo-7-2-gtx",
+      "held/torrance"
+    ],
+    "offers": [
+      {
+        "seller": "YDS Shop (resmi site)",
+        "url": "https://www.ydsshop.com/diablo-7.4-yazlik-siyah",
+        "price": 6990,
+        "salePrice": 4890,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 4890,
+      "max": 4890,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizes",
+      "specs.ceStandard",
+      "specs.waterproof"
+    ],
+    "faq": [
+      {
+        "q": "7.4 ile 7.2 GTX arasındaki fark ne?",
+        "a": "7.4'te Gore-Tex yerine nefes alabilen tekstil astar ve YDS taban var; daha hafif (yaklaşık 1300 g) ve daha ucuz."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Sertifika kodunda WR geçse de astar membransız tanıtılıyor; uzun yağmurda su alabileceğini varsaymak daha doğru."
+      }
+    ],
+    "usage": {
+      "yaz": "Nefes alan astarla serinin yaz modeli.",
+      "kurye": "Kısa konç, fermuar ve yıkanabilir tabanlıkla yaz kurye temposuna uygun.",
+      "sehir": "Şehir içi günlük kullanım için tasarlanmış.",
+      "yagmur": "Membran bilgisi yok; uzun yağmurda su alabilir."
+    },
+    "dataConfidence": "medium",
+    "slug": "diablo-7-4-yazlik",
+    "brand": "yds",
+    "name": "Diablo 7.4 Yazlık",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Nefes alan tekstil astarlı, 1222 sertifika kodlu, yaz için hafifletilmiş kısa konçlu yerli YDS motosiklet botu.",
+    "description": [
+      "Diablo 7.4, YDS'nin yazlık kısa motosiklet botu. Üst yüzey nefes alabilen hakiki sığır derisi; Gore-Tex yerine yüksek nefes alabilen tekstil astar kullanılıyor. Taban, YDS'nin motosiklet kullanıcıları için tasarladığı nitril kauçuk taban. Ön ve arka körükler, TPU vites koruması, PU süngerle takviyeli ayak bileği koruması, topuk reflektörü, fermuar ve yıkanabilir, nem çeken tabanlık standart.",
+      "YDS, 7.2 GTX ile aynı sertifika kodunu (1222 IPA WR FO SRC B WAD, sertifika no 91030646) veriyor; membransız bir yazlık modelde WR ibaresi şaşırtıcı, bu nedenle su geçirmezlik beklentisini düşük tutmak mantıklı. 42 numarada ağırlık yaklaşık 1300 g. Bu modelin değeri; kısa konç, deri yapı ve sertifikalı korumayı yaz aylarında daha serin bir gövdede sunması."
+    ],
+    "forWho": [
+      "Yazın her gün motor kullanan kuryeler",
+      "Gore-Tex'li botların sıcakta terlettiği sürücüler",
+      "Uygun fiyatlı, sertifika kodu açık yerli bot arayanlar"
+    ],
+    "notFor": [
+      "Sport, pist ve arazi kullanımı",
+      "Yağmurlu havada tam su geçirmezlik bekleyenler"
+    ],
+    "pros": [
+      "Nefes alan tekstil astar",
+      "Aşınma, kesilme ve ezilmede seviye 2",
+      "Yıkanabilir tabanlık",
+      "Serideki en uygun fiyatlı model"
+    ],
+    "cons": [
+      "Membran yok; sertifikadaki WR ibaresine rağmen yağmurda temkinli olmak gerekir",
+      "Vibram yerine YDS taban",
+      "Kaval koruması yok"
+    ],
+    "verdict": "Diablo 7.4 Yazlık, kurye ve şehir sürücüsüne sertifikalı korumayı yaz aylarında daha serin bir gövdede sunan, fiyatı makul bir yerli bot. Membran olmadığı için yağmurlu günlerde 7.2 GTX daha güvenli tercih.",
+    "manufacturerUrl": "https://www.ydsshop.com/diablo-7.4-yazlik-siyah",
+    "sources": [
+      {
+        "url": "https://www.ydsshop.com/diablo-7.4-yazlik-siyah",
+        "type": "manufacturer",
+        "label": "YDS Shop – Diablo 7.4 Yazlık ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Nefes alabilen hakiki sığır derisi; tekstil astar; YDS nitril kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": "1222 IPA WR FO SRC B WAD",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Yüksek nefes alabilir tekstil astar",
+      "closure": "Fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/montaro-wp",
+      "stylmartin/core-wp",
+      "yds/diablo-7-4-yazlik"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-torrance-korumali-motosiklet-botu-siyah",
+        "price": 13900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Motomax (kadın sayfası, aynı model)",
+        "url": "https://www.motomax.com.tr/held-torrance-korumali-kadin-motosiklet-botu-siyah",
+        "price": 14080,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 13900,
+      "max": 14080,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.closure",
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Motomax'taki 'kadın' Torrance farklı bir model mi?",
+        "a": "Held'in sitesinde Torrance tek bir unisex model olarak geçiyor; Motomax'ın kadın sayfası aynı modelin 37–40 numaralarını listeliyor."
+      },
+      {
+        "q": "1111 ne demek?",
+        "a": "EN 13634:2017'de yükseklik, aşınma, kesilme ve enine ezilme testlerinin hepsinde seviye 1 anlamına gelir."
+      }
+    ],
+    "usage": {
+      "sehir": "Asıl alanı; sneaker formu ve Vibram taban şehirde rahat.",
+      "kurye": "Kuru havalarda gün boyu yürümeye uygun; yağmurda su alır.",
+      "yaz": "Membransız yapı membranlı modellere göre daha serin.",
+      "yagmur": "Su geçirmez değil."
+    },
+    "dataConfidence": "high",
+    "slug": "torrance",
+    "brand": "held",
+    "name": "Torrance",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Vibram tabanlı, mikrofiber/tekstil gövdeli, EN 13634:2017 1111 sertifikalı membransız Held şehir sneaker'ı.",
+    "description": [
+      "Torrance, Held'in şehir için tasarladığı unisex sneaker. Dış yüzey mikrofiber ve tekstil karışımı, içeride yumuşak polyester astar var; öne çıkan detay Vibram imzalı kaymaz taban. Held, modeli bilek korumalı olarak tanımlıyor, membran kullanmıyor ve ilkbahar-sonbahar sezonu için konumluyor. 37–47 arası numaralarda, siyah renkte sunuluyor.",
+      "Ayakkabı EN 13634:2017 kapsamında 1111 koduyla sertifikalı: yükseklik, aşınma, kesilme ve enine ezilme testlerinin hepsinde temel seviye. Su geçirmez değil. Türkiye'de Motomax hem erkek hem de 37–40 numaralık 'kadın' sayfasında aynı modeli satıyor; bu iki ilan ayrı bir kadın modeli değil, aynı unisex ayakkabının küçük numaraları."
+    ],
+    "forWho": [
+      "Şehir içinde yürünebilir, sertifikalı bir sneaker isteyenler",
+      "Kuru havada çalışan kuryeler",
+      "Küçük numara arayan kadın sürücüler (37'den başlıyor)"
+    ],
+    "notFor": [
+      "Yağmurlu havada sürüş: membran yok",
+      "Otoyol, uzun yol ve sport kullanım: tüm testlerde seviye 1"
+    ],
+    "pros": [
+      "EN 13634:2017 sertifikalı",
+      "Vibram kaymaz taban",
+      "Sneaker görünümü, rahat yürüyüş",
+      "Türkiye'de stoklu satış"
+    ],
+    "cons": [
+      "Tüm testlerde seviye 1",
+      "Su geçirmez değil",
+      "Fiyatı aynı sınıftaki yerli sertifikalı botların üzerinde"
+    ],
+    "verdict": "Held Torrance, şehirde sertifikalı ama sıradan bir ayakkabı gibi görünen bir model arayan sürücü için iyi bir seçenek; Vibram taban yürüyüşte fark yaratıyor. Membransız yapısı ve 1111 seviyesi, onu yağmur ve yüksek hız yerine kuru hava ve şehir temposuna yönlendiriyor.",
+    "manufacturerUrl": "https://shop.held.de/en/Torrance-Sneaker/082457-00-001-0-42",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Torrance-Sneaker/082457-00-001-0-42",
+        "type": "manufacturer",
+        "label": "Held – Torrance Sneaker ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-torrance-korumali-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Torrance Siyah",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-torrance-korumali-kadin-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Torrance Kadın Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Mikrofiber / tekstil karışımı üst yüzey, polyester astar, Vibram taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "1111",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "yds/diablo-11-0-gtx",
+      "furygan/boot-gt-d3o-wp",
+      "alpinestars/web-gore-tex"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Konç yüksekliği ne kadar?",
+        "a": "Held, 43 numarada 26,5 cm olarak veriyor."
+      },
+      {
+        "q": "Garanti uzatması var mı?",
+        "a": "Held, Gore-Tex botlarda kayıt yaptırıldığında 2 yıllık yasal garantiye ek olarak 5 yıllık uzatma sunduğunu belirtiyor."
+      }
+    ],
+    "usage": {
+      "uzunYol": "En güçlü alanı: 26,5 cm konç, Gore-Tex ve 2222 seviye.",
+      "yagmur": "Gore-Tex ve WR testi ile yağmur için iddialı.",
+      "kis": "Deri ve membran soğukta iyi; yalıtım değeri yok.",
+      "yaz": "Sıcak günlerde ağır ve sıcak.",
+      "sehir": "Kullanılabilir ama uzun konç sık yürüyüşte rahatsız edebilir."
+    },
+    "dataConfidence": "high",
+    "slug": "annone-gtx-2",
+    "brand": "held",
+    "name": "Annone GTX 2",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Tam tahıllı dana derisi, Gore-Tex membran, Vibram taban ve EN 13634:2017 2222 WR sertifikalı Held uzun touring botu.",
+    "description": [
+      "Annone GTX 2, Held'in Gore-Tex'li touring botunun ikinci nesli. Dış yüzey tam tahıllı dana derisi, içeride yumuşak polyester astar ve Gore-Tex membran var. Önden açılan kolay giyim yapısı, baldırda cırt ayarı, vites pedi, iç bot, topuk takviyesi ve Vibram kaymaz taban standart. Held 43 numarada konç yüksekliğini 26,5 cm olarak veriyor.",
+      "Bot EN 13634:2017'ye göre 2222 WR sertifikalı: dört testin dördünde de seviye 2 ve su geçirmezlik testi geçilmiş. 37–50 arası geniş numara aralığı büyük ayaklı sürücüler için avantaj. Held, Gore-Tex ürünlerinde kayıt ile 5 yıllık ek garanti uzatması da sunuyor. Türkiye'de birebir bu model için yetkili satıcı fiyatı bulamadık."
+    ],
+    "forWho": [
+      "Uzun yol ve her mevsim touring yapan sürücüler",
+      "Geniş numara arayanlar (50'ye kadar)",
+      "Deri ve Gore-Tex'i bir arada isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler: uzun konç ve deri gövde gün boyu yürümek için ağır",
+      "Pist kullanımı: burulma kontrol sistemi yok"
+    ],
+    "pros": [
+      "EN 13634:2017 2222 WR",
+      "Gore-Tex ve Vibram taban",
+      "Önden açılan kolay giyim",
+      "37–50 geniş numara aralığı"
+    ],
+    "cons": [
+      "Türkiye'de birebir model fiyatı bulunamadı",
+      "Uzun konç sıcakta terletebilir",
+      "Ağırlık bilgisi verilmiyor"
+    ],
+    "verdict": "Annone GTX 2, deri, Gore-Tex ve dört testte seviye 2'yi birleştiren klasik bir touring botu; önden açılan yapı günlük giyip çıkarmayı kolaylaştırıyor. Uzun yol odaklı olduğu için kurye ve yoğun şehir kullanımında kısa modeller daha mantıklı.",
+    "manufacturerUrl": "https://shop.held.de/en/Annone-GTX-2-GORE-TEX-touring-boots/082640-00-001-0-39",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Annone-GTX-2-GORE-TEX-touring-boots/082640-00-001-0-39",
+        "type": "manufacturer",
+        "label": "Held – Annone GTX 2 GORE-TEX touring boots ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tam tahıllı dana derisi, polyester astar, Vibram taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "2222 WR",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Önden açılım, baldırda cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "ixon/bull-2-wp-lady",
+      "tex-motor/duratech-24-venezia",
+      "alpinestars/stella-faster-3-rideknit"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "1121 WR ne demek?",
+        "a": "EN 13634:2017'de yükseklik, aşınma ve enine ezilmede seviye 1, kesilme direncinde seviye 2 ve su geçirmezlik testinin geçildiği anlamına gelir."
+      },
+      {
+        "q": "Erkek modelinden farkı ne?",
+        "a": "Teknik yapı aynı; Ladies versiyonu kadın kalıbında ve 36–42 numaralarda üretiliyor."
+      }
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı; sneaker konforu ve sertifikalı koruma.",
+      "kurye": "Fermuar ve su geçirmezlik sık inip binen kuryeler için pratik.",
+      "yagmur": "hydratex membran ve WR testi yağmura karşı koruma sağlıyor.",
+      "yaz": "Membranlı olduğu için sıcakta file modeller kadar serin değil."
+    },
+    "dataConfidence": "high",
+    "slug": "arrow-2-h2o-ladies",
+    "brand": "revit",
+    "name": "Arrow 2 H2O Ladies",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Kadın kalıbı, hydratex su geçirmez membranlı, FLEXBLADE tabanlı, EN 13634:2017 1121 WR sertifikalı REV'IT! şehir sneaker'ı.",
+    "description": [
+      "Arrow 2 H2O Ladies, REV'IT!'in sneaker formundaki şehir ayakkabısının kadın kalıbı. Deri ve tekstil karışımı gövdenin içinde hydratex su geçirmez membran var. Hem bağcık hem de yandan fermuarla kapanıyor; bu sayede bağcık bir kez ayarlanıp ayakkabı fermuarla giyilip çıkarılabiliyor. OrthoLite X40 iç taban ve SEESOFT bilek diski konforu ve korumayı destekliyor.",
+      "Modelin öne çıkan teknolojisi FLEXBLADE: tabana yerleştirilen bu parça yürürken sneaker esnekliğini korurken enine sertliği koruyor; taban altındaki pencereden görülebiliyor. Ayakkabı EN 13634:2017'ye göre 1121 WR sertifikalı; kesilme direnci seviye 2, diğerleri seviye 1 ve su geçirmezlik testi geçilmiş. 36–42 numaralarda siyah renkte sunuluyor."
+    ],
+    "forWho": [
+      "Kadın kalıbı, sertifikalı ve su geçirmez bir şehir ayakkabısı arayan sürücüler",
+      "Motordan inince ofiste ya da sokakta ayakkabı değiştirmek istemeyenler",
+      "Yağmurda da süren kadın kuryeler"
+    ],
+    "notFor": [
+      "Otoyol, uzun yol ve sport kullanım: kısa konç ve çoğu testte seviye 1",
+      "Arazi kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 1121 WR",
+      "hydratex su geçirmez membran",
+      "Bağcık + yan fermuar",
+      "FLEXBLADE ile yürüyüş konforu"
+    ],
+    "cons": [
+      "Yükseklik, aşınma ve ezilmede seviye 1",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı",
+      "Membran yaz sıcağında ısınabilir"
+    ],
+    "verdict": "Arrow 2 H2O Ladies, kadın sürücüye sertifikalı, su geçirmez ve gerçekten yürünebilir bir şehir ayakkabısı sunan nadir modellerden. Kısa konç ve çoğu testte seviye 1 olması, onu otoyol yerine şehir ve günlük kullanımda konumluyor.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-shoes-arrow-2-h2o-ladies-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-shoes-arrow-2-h2o-ladies-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Shoes Arrow 2 H2O Ladies ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Deri ve tekstil karışımı üst yüzey, OrthoLite X40 iç taban",
+      "materialClass": "karma",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "1121 WR",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "hydratex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bağcık + yan fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/belrock",
+      "yds/diablo-7-2-gtx",
+      "alpinestars/web-gore-tex"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.madeIn",
+      "specs.season",
+      "specs.materialClass"
+    ],
+    "faq": [
+      {
+        "q": "BOA sistemi nasıl çalışıyor?",
+        "a": "Düğmeye bastırıp çevirerek çelik kablo bağcıklar sıkılaştırılıyor, düğme yukarı çekilince hızla gevşiyor."
+      },
+      {
+        "q": "Arazi için uygun mu?",
+        "a": "Hafif arazi ve adventure turları için tasarlanmış; ağır enduro için uzun konçlu ve burulma kontrollü botlar gerekir."
+      }
+    ],
+    "usage": {
+      "uzunYol": "GORE-TEX ve 2222 seviye ile turda güçlü.",
+      "yagmur": "GORE-TEX ve WR testi yağmura karşı iddialı.",
+      "sehir": "Trekking botu konforu şehirde de rahat.",
+      "kis": "Membranlı yapı soğukta iyi; yalıtım değeri verilmiyor.",
+      "yaz": "Membranlı yapı sıcakta ısınabilir."
+    },
+    "dataConfidence": "high",
+    "slug": "pioneer-gtx",
+    "brand": "revit",
+    "name": "Pioneer GTX",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "summary": "BOA kapamalı, GORE-TEX membranlı, Vibram Apex tabanlı ve EN 13634:2017 2222 WR sertifikalı REV'IT! kısa adventure botu.",
+    "description": [
+      "Pioneer GTX, REV'IT!'in trekking botu konforunu motosiklet korumasıyla birleştirmeyi hedefleyen adventure botu. GORE-TEX Performance Comfort membranı tam su geçirmezlik ve nefes alabilirlik sağlıyor; tek parça gövde tasarımı esneme bölgelerindeki dikişleri azaltıyor. Kapanış BOA Fit System M4 ile yapılıyor: düğmeyi çevirerek ayar, çekerek hızlı açma.",
+      "Taban, REV'IT! ile Vibram'ın birlikte geliştirdiği Vibram Apex; hem sürüşte hem yürürken tutuş ve denge için tasarlanmış. Topuk, burun ve bilekte koruyucu takviyeler, topukta reflektör ve OrthoLite X40 iç taban var. Bot EN 13634:2017'ye göre 2222 WR sertifikalı. 38–47 numaralarda siyah renkte sunuluyor."
+    ],
+    "forWho": [
+      "Asfalt ve hafif arazi karışık adventure sürüşü yapanlar",
+      "Motordan inip uzun yürüyüş yapan tur sürücüleri",
+      "Hızlı giyilip çıkarılan su geçirmez bot isteyenler"
+    ],
+    "notFor": [
+      "Ağır enduro ve motokros: kısa konç ve burulma kontrol sistemi yok",
+      "Bütçe odaklı kurye kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 2222 WR",
+      "GORE-TEX membran",
+      "BOA ile tek elle ayar",
+      "Vibram Apex taban ile yürüyüş konforu"
+    ],
+    "cons": [
+      "Yüksek fiyat",
+      "Kısa konç; uzun adventure botlarına göre kaval koruması sınırlı",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "verdict": "Pioneer GTX, adventure sürücüsüne trekking botu rahatlığında, tüm testlerde seviye 2 olan su geçirmez bir bot sunuyor; BOA ve Vibram Apex günlük kullanımı kolaylaştırıyor. Ağır arazi için konç kısa kalır, fiyatı da yüksek.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-boots-pioneer-gtx-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-boots-pioneer-gtx-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Boots Pioneer GTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Aşınmaya dayanıklı dış malzeme, GORE-TEX membran, Vibram Apex taban, OrthoLite X40 iç taban",
+      "materialClass": null,
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "2222 WR",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Performance Comfort",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "BOA Fit System M4",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "revit/arrow-2-h2o-ladies",
+      "tex-motor/duratech-24-venezia",
+      "alpinestars/stella-faster-3-rideknit"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black-white",
+      "black-fuchsia",
+      "black-white-gold"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "FIDLOCK Winch nedir?",
+        "a": "Ixon'un kullandığı patentli, manyetik ve döner kablo kapama sistemi; tek elle sıkılıp açılabiliyor."
+      },
+      {
+        "q": "Hangi numaralar var?",
+        "a": "Ixon 36–41 aralığını veriyor."
+      }
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı.",
+      "kurye": "FIDLOCK kapama ve su geçirmezlik sık inip binmeye uygun.",
+      "yagmur": "Su geçirmez membran ve WR testi.",
+      "yaz": "Membranlı; sıcak günlerde file modeller kadar serin değil.",
+      "kis": "Dört mevsim konumlanıyor; yalıtım bilgisi yok."
+    },
+    "dataConfidence": "high",
+    "slug": "bull-2-wp-lady",
+    "brand": "ixon",
+    "name": "Bull 2 WP Lady",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "FIDLOCK manyetik döner kapamalı, Michelin tabanlı, su geçirmez membranlı, EN 13634:2017 1111 WR sertifikalı kadın şehir ayakkabısı.",
+    "description": [
+      "Bull 2 WP Lady, Ixon'un kadın sürücüler için sunduğu sneaker formundaki şehir ayakkabısı. Dış yüzey mikrofiber, iç astar mesh; arada 26.000 Schmerber su sütunu ve 20.000 MVTR nefes alma değeriyle verilen su geçirmez membran var. Yeni nesilde öne çıkan detay FIDLOCK Winch: tek elle kullanılabilen, patentli manyetik döner kablo kapama sistemi. Bilek kayışı oturuşu sabitliyor, arkadaki tutamak giymeyi kolaylaştırıyor.",
+      "Model EN 13634:2017'ye göre 1111 WR sertifikalı; ön ayak, topuk ve bilek kemiği takviyeli, TPR vites koruması var. Taban Ixon'a özel Michelin kaymaz taban. Topukta reflektif parça bulunuyor. 36–41 numaralarda; siyah-beyaz, siyah-fuşya ve siyah-beyaz-altın renklerde sunuluyor. Ixon modeli dört mevsim kullanım için konumluyor."
+    ],
+    "forWho": [
+      "Kadın kalıbı, su geçirmez ve sertifikalı şehir ayakkabısı arayanlar",
+      "Tek elle hızlı giyip çıkarmak isteyen kurye ve şehir sürücüleri",
+      "Renkli seçenek isteyen kadın sürücüler"
+    ],
+    "notFor": [
+      "Otoyol, uzun yol ve sport kullanım: tüm testlerde seviye 1",
+      "Arazi kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 1111 WR",
+      "FIDLOCK tek elle kapama",
+      "Michelin kaymaz taban",
+      "Üç renk seçeneği"
+    ],
+    "cons": [
+      "Tüm mekanik testlerde seviye 1",
+      "Kaval koruması yok",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "verdict": "Bull 2 WP Lady, kadın sürücüye su geçirmez, sertifikalı ve tek elle kapanan pratik bir şehir ayakkabısı sunuyor; Michelin taban yürürken de güven veriyor. Koruma seviyesi temel düzeyde olduğu için şehir dışında daha yüksek seviyeli botlar düşünülmeli.",
+    "manufacturerUrl": "https://www.ixon.com/en/bull-2-wp-lady",
+    "sources": [
+      {
+        "url": "https://www.ixon.com/en/bull-2-wp-lady",
+        "type": "manufacturer",
+        "label": "Ixon – Bull 2 WP Lady ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Mikrofiber dış yüzey, mesh astar, Michelin taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "1111 WR",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alan membran (26.000 Schmerber / 20.000 MVTR)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "FIDLOCK Winch kablo + bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/annone-gtx-2",
+      "yds/diablo-11-0-gtx",
+      "tex-motor/duratech-29-como"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "EN 13634 sertifikalı mı?",
+        "a": "Furygan'ın ürün sayfasında performans kodu yazmıyor. Bazı yayınlar seviye 2 sertifikadan söz ediyor; kesin bilgi için ürün etiketine bakılmalı."
+      },
+      {
+        "q": "D3O ne işe yarıyor?",
+        "a": "Normalde yumuşak ve esnek olan, darbe anında molekülleri kilitlenerek enerjiyi emen bir koruma malzemesi."
+      }
+    ],
+    "usage": {
+      "uzunYol": "Orta konç ve membranla turlara uygun.",
+      "yagmur": "Su geçirmez membranlı.",
+      "sehir": "Esneme bölgesi sayesinde yürümesi rahat.",
+      "kis": "Membran soğukta yardımcı; yalıtım değeri verilmiyor.",
+      "yaz": "Airmesh astar havalandırmaya yardımcı ama membranlı yapı sıcakta ısınır."
+    },
+    "dataConfidence": "medium",
+    "slug": "boot-gt-d3o-wp",
+    "brand": "furygan",
+    "name": "Boot GT D3O WP",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "D3O malleol korumalı, su geçirmez membranlı, yan fermuarlı ve geniş esneme bölgeli Furygan orta konç touring botu.",
+    "description": [
+      "Boot GT D3O WP, Furygan'ın touring botu. Dış yüzey PU sentetik deri ve sentetik mikrofiber, içeride hava akışı ve çabuk kuruma için 3D Airmesh astar; arada su geçirmez ve nefes alan bir membran var. Bilek kemiği bölgesinde D3O koruyucular kullanılıyor; D3O normalde yumuşak olup darbe anında sertleşen bir malzeme. Vites koruması, reflektif parçalar ve kaymaz kaplamalı kauçuk taban standart.",
+      "Kapanış yan fermuarla yapılıyor; cırtlı çekme parçası fermuarı sabitliyor ve bağcıkların ayarını koruyor. Furygan, üst ayak ile bilek arasındaki geniş esneme bölgesinin uzun süre yürürken ve sürerken konfor sağladığını vurguluyor. Üretici sayfasında EN 13634 performans kodu yazmıyor; bu yüzden sertifika seviyesini belirtmiyoruz. 37–47 numaralarda sunuluyor; liste fiyatı 189,90 €."
+    ],
+    "forWho": [
+      "Su geçirmez, orta konçlu ve fiyatı makul bir touring botu arayanlar",
+      "Motordan inip yürümesi gereken tur sürücüleri",
+      "Deri yerine sentetik gövde tercih edenler"
+    ],
+    "notFor": [
+      "Pist ve sport kullanım",
+      "Gün boyu inip binen kuryeler: konç boyu yürümeyi zorlaştırabilir"
+    ],
+    "pros": [
+      "D3O malleol koruyucuları",
+      "Su geçirmez membran + Airmesh astar",
+      "Geniş esneme bölgesiyle yürüme konforu",
+      "Yan fermuarla kolay giyme"
+    ],
+    "cons": [
+      "Üretici sayfasında EN 13634 kodu yok",
+      "Sentetik gövde gerçek deri kadar uzun ömürlü olmayabilir",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "verdict": "Boot GT D3O WP, D3O koruma ve su geçirmezliği orta fiyatlı bir touring botunda topluyor; yürüme konforu özellikle iyi düşünülmüş. Sertifika kodu üretici sayfasında açıkça verilmediği için satın almadan önce kutu etiketinden kontrol etmek gerekir.",
+    "manufacturerUrl": "https://www.furygan.com/produit/boot-gt-d3o-wp/?lang=en",
+    "sources": [
+      {
+        "url": "https://www.furygan.com/produit/boot-gt-d3o-wp/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – Boot GT D3O WP ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "PU sentetik deri ve sentetik mikrofiber, 3D Airmesh astar, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alan membran",
+      "airbagCompatible": null,
+      "ventilation": "3D Airmesh astar",
+      "closure": "Yan fermuar + cırtlı sabitleme",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "held/torrance",
+      "tex-motor/duratech-27-fashion",
+      "held/montaro-wp"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Taban rengi seçilebiliyor mu?",
+        "a": "Evet, Stylmartin total siyah gövdeyi siyah veya beyaz tabanla sunuyor."
+      },
+      {
+        "q": "Kadın numarası var mı?",
+        "a": "Evet, üretici kadın numaralarının mevcut olduğunu belirtiyor; aralık 36'dan başlıyor."
+      }
+    ],
+    "usage": {
+      "sehir": "Ana alanı; günlük ayakkabı görünümünde sertifikalı koruma.",
+      "yagmur": "Su geçirmez astar yağmura karşı koruma sağlıyor.",
+      "kurye": "Kullanılabilir; ancak fermuarsız bağcık sık inip binmede pratik değil.",
+      "yaz": "Mesh yaka yardımcı; deri ve membran sıcakta ısınır."
+    },
+    "dataConfidence": "high",
+    "slug": "core-wp",
+    "brand": "stylmartin",
+    "name": "Core WP",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Tam tahıllı deri, su geçirmez astar ve iki yanda PU malleol koruyuculu, EN 13634:2017 sertifikalı klasik Stylmartin sneaker.",
+    "description": [
+      "Core WP, İtalyan Stylmartin'in klasik görünümlü motosiklet sneaker'ı. Üst yüzey tam tahıllı deri, içeride su geçirmez ve nefes alan astar ile mesh yaka var. Bilek kemiğinin iki yanında iç PU koruyucular bulunuyor. İç taban anatomik, değiştirilebilir ve mikro delikli; dış taban tek renk kauçuk. Siyah ve beyaz iki yedek bağcıkla geliyor.",
+      "Ayakkabı EN 13634:2017'ye göre sertifikalı; üretici performans kodunu ürün sayfasında vermiyor. Siyah ya da beyaz taban seçenekleri ve kadın numaraları (36'dan başlayan) mevcut. Liste fiyatı 169 €. Göze motosiklet ayakkabısı gibi görünmemesi, onu ofise motorla gidenler için cazip kılıyor."
+    ],
+    "forWho": [
+      "Motosiklet ayakkabısı gibi görünmeyen, deri bir sneaker arayanlar",
+      "Şehir içinde ve ofiste gün boyu giyilecek tek ayakkabı isteyenler",
+      "Küçük numara arayan kadın sürücüler"
+    ],
+    "notFor": [
+      "Otoyol, uzun yol ve sport kullanım: kısa yapı ve sınırlı koruma",
+      "Arazi kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 sertifikalı",
+      "Tam tahıllı deri ve su geçirmez astar",
+      "Klasik sneaker görünümü",
+      "36–47 geniş numara aralığı"
+    ],
+    "cons": [
+      "Performans kodu paylaşılmıyor",
+      "Bağcıklı kapama; fermuar yok",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "verdict": "Stylmartin Core WP, deri bir sneaker'ın görünüşünü EN 13634 sertifikası ve su geçirmez astarla birleştiriyor; şehirde motordan inip doğrudan işe gidenler için çok uygun. Koruma kısa konçlu bir ayakkabı düzeyinde olduğu için şehir dışı ve yüksek hız için yeterli değil.",
+    "manufacturerUrl": "https://www.stylmartin.it/scarpe-stivali-moto/products/core-wp-black.html",
+    "sources": [
+      {
+        "url": "https://www.stylmartin.it/scarpe-stivali-moto/products/core-wp-black.html",
+        "type": "manufacturer",
+        "label": "Stylmartin – Core WP Black ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Tam tahıllı deri, su geçirmez ve nefes alan astar, mesh yaka, kauçuk taban",
+      "materialClass": "deri",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alan astar",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bağcık",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/smx-6-v3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Hangi iç tabanlar geliyor?",
+        "a": "Daha doğrudan his için Sport Grip ve daha fazla konfor için Ortholite Comfort olmak üzere iki iç taban veriliyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Hayır, iç astar nefes alan mesh tekstil; membran yok."
+      }
+    ],
+    "usage": {
+      "sport": "Ana kullanım alanı; pist ve viraj odaklı sürüş.",
+      "yaz": "Havalandırma açıklıkları ve mesh astar sıcak havada yardımcı.",
+      "uzunYol": "Sport-touring turlarında kullanılabilir; yürüyüş konforu sınırlı.",
+      "yagmur": "Membran yok."
+    },
+    "dataConfidence": "high",
+    "slug": "rs-1000",
+    "brand": "ixs",
+    "name": "RS-1000",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "summary": "Mikrofiber gövdeli, iXS-Flex Control yanal stabilite sistemli, Vibram tabanlı ve EN 13634:2017 sertifikalı iXS yarış botu.",
+    "description": [
+      "RS-1000, iXS'in sport ve pist sürüşü için yarış botu. Gövde yüksek aşınma dayanımlı mikrofiber, iç astar nefes alan mesh tekstil. Kaval, topuk, bilek ve baldırda havalandırma açıklıklı TPU parçalar; yanal stabilite için TPU'dan iXS-Flex Control sistemi; bilekte dolgulu plastik takviyeler var. Değiştirilebilir hafif metal burun kaydırıcıları ve TPU vites takviyesi standart.",
+      "İç yanda fermuar, baldırda cırt ve esnek bölümle genişlik ayarı yapılabiliyor; üst ayak ve topukta akordeon esneme bölgeleri konforu artırıyor. Kutudan iki farklı iç taban çıkıyor: daha doğrudan his için Sport Grip ve konfor için Ortholite. Taban şok emicili Vibram kauçuk. Bot EN 13634:2017 normunu karşılıyor; performans kodu paylaşılmıyor. 40–48 numaralarda sunuluyor."
+    ],
+    "forWho": [
+      "Pist günü ve sport sürüş yapanlar",
+      "Yanal stabilite isteyen sport-touring sürücüleri",
+      "Burun kaydırıcısı değiştirilebilir bir yarış botu arayanlar"
+    ],
+    "notFor": [
+      "Kuryeler ve şehir içi gün boyu kullanım: yürümek için uygun değil",
+      "Yağmurlu sürüş: membran yok"
+    ],
+    "pros": [
+      "iXS-Flex Control yanal stabilite",
+      "Değiştirilebilir metal burun kaydırıcıları",
+      "İki farklı iç taban",
+      "Vibram taban"
+    ],
+    "cons": [
+      "Performans kodu paylaşılmıyor",
+      "Su geçirmez değil",
+      "Burulma kontrolü üst segment yarış botları kadar gelişmiş değil",
+      "Türkiye'de yetkili satıcı fiyatı bulunamadı"
+    ],
+    "verdict": "iXS RS-1000, yanal stabilite sistemi, metal kaydırıcıları ve Vibram tabanıyla sport ve pist sürüşü için düzgün donanımlı bir yarış botu. Su geçirmez değil ve yürümek için tasarlanmadığı için şehir ve kurye kullanımı için doğru tercih değil.",
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-sport-stiefel-rs-1000-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-sport-stiefel-rs-1000-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Sport Stiefel RS-1000 schwarz ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Yüksek aşınma dayanımlı mikrofiber, mesh tekstil astar, Vibram taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Kaval, topuk ve baldır TPU parçalarında havalandırma açıklıkları",
+      "closure": "İç yan fermuar + baldırda cırt",
+      "madeIn": null
+    }
+  }
+]
