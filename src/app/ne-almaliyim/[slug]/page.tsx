@@ -50,7 +50,7 @@ export default async function ListPage({ params }: PageProps<"/ne-almaliyim/[slu
                 <p className="text-sm text-mute">
                   {productTypeLabel(p)}
                   {p.category === "kask" && p.specs.weightGrams
-                    ? ` · ${p.specs.weightGrams} g${p.specs.weightSize ? ` (${p.specs.weightSize} beden)` : " (beden belirtilmemiş)"}`
+                    ? ` · ${p.specs.weightGrams} g${p.specs.weightSize ? ` (${/beden/i.test(p.specs.weightSize) ? p.specs.weightSize : `${p.specs.weightSize} beden`})` : " (beden belirtilmemiş)"}`
                     : ""}
                 </p>
                 <p className="mt-2 text-ink-2">{p.summary}</p>

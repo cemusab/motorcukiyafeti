@@ -1,23 +1,36 @@
-import Image from "next/image";
 import { canOptimize } from "@/lib/img";
+import { SafeImage } from "./SafeImage";
 import Link from "next/link";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { brandName, getMedia, isLocal, priceLabel, productId, productPath } from "@/lib/data";
+import { brandName, formatShortDate, getMedia, isLocal, priceLabel, productId, productPath } from "@/lib/data";
 import { productTypeLabel, keyChips } from "@/lib/labels";
 import { Icon } from "./Icon";
 import { CompareButton, FavoriteButton } from "./ProductActions";
 
 export function ProductVisual({ p, className = "", eager = false }: { p: Product; className?: string; eager?: boolean }) {
-  const icon = getCategory(p.category)?.icon ?? "kask";
   const img = getMedia(p).images[0];
   if (img)
     return (
       <div className={`relative grid place-items-center overflow-hidden bg-white ${className}`}>
-        {/* Üretici görseli; kaynak ve telif bilgisi ürün sayfasında gösterilir. */}
-        <Image unoptimized={!canOptimize(img.url)} src={img.url} alt={img.alt} fill priority={eager} sizes="(min-width:1280px) 300px, (min-width:420px) 45vw, 90vw" className="object-contain p-4" />
+        {/* Üretici görseli; yüklenemezse kategori çizimi gösterilir. Kaynak ürün sayfasında yazar. */}
+        <SafeImage
+          unoptimized={!canOptimize(img.url)}
+          src={img.url}
+          alt={img.alt}
+          priority={eager}
+          sizes="(min-width:1280px) 300px, (min-width:420px) 45vw, 90vw"
+          className="object-contain p-4"
+          fallback={<DrawnVisual p={p} className="absolute inset-0" />}
+        />
       </div>
     );
+  return <DrawnVisual p={p} className={className} />;
+}
+
+/** Görseli olmayan veya görseli yüklenemeyen ürünler için kategori çizimi. */
+function DrawnVisual({ p, className = "" }: { p: Product; className?: string }) {
+  const icon = getCategory(p.category)?.icon ?? "kask";
   return (
     <div className={`relative grid place-items-center overflow-hidden bg-gradient-to-br from-[#1d2026] to-[#0d0f12] text-white ${className}`}>
       <svg className="absolute inset-0 size-full opacity-[.07]" aria-hidden>
@@ -77,7 +90,9 @@ export function ProductCard({ p }: { p: Product }) {
           {price ? (
             <p className="font-display text-xl font-bold">
               {price}
-              <span className="ml-1 align-middle text-xs font-normal text-mute">TR fiyat</span>
+              <span className="block font-sans text-xs font-normal text-mute">
+                {p.offers.length} satıcı · {formatShortDate(p.priceRange!.checkedAt)} kontrol
+              </span>
             </p>
           ) : (
             <p className="text-sm text-mute">TR fiyatı henüz doğrulanmadı</p>

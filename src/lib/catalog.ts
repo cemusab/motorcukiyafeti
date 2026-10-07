@@ -4,6 +4,7 @@
  */
 import "server-only";
 import { memo } from "./memo";
+import { budgetGroups } from "./budget";
 import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
@@ -230,6 +231,7 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const g of getGuides()) add(`/rehber/${g.slug}`, "rehber");
   for (const l of activeLists()) add(`/ne-almaliyim/${l.slug}`, "rehber");
   for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma");
+  for (const g of budgetGroups()) add(`/karsilastir/butce/${g.slug}`, "karsilastirma");
   for (const h of helmetsWithCompat()) add(`/interkom-uyumlulugu/${compatSlug(h)}`, "karsilastirma", hasVerifiedCompat(productId(h)));
   return r;
 });

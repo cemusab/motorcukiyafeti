@@ -29,7 +29,7 @@ export function keyChips(p: Product): string[] {
     const s = p.specs;
     return [
       s.ece2206 ? "ECE 22.06" : null,
-      s.materialClass ? s.materialClass[0].toLocaleUpperCase("tr") + s.materialClass.slice(1) : null,
+      s.shellMaterial && s.shellMaterial.length <= 22 ? s.shellMaterial : s.materialClass ? s.materialClass[0].toLocaleUpperCase("tr") + s.materialClass.slice(1) : null,
       s.weightGrams ? `${s.weightGrams} g` : null,
       s.sunVisor ? "Güneş vizörü" : null,
       s.pinlock ? "Pinlock" : null,
@@ -72,7 +72,7 @@ export const HELMET_SPECS: SpecRow<Helmet>[] = [
     key: "specs.weightGrams",
     label: "Ağırlık",
     get: (p) => p.specs.weightGrams,
-    fmt: (v, p) => (v ? `${v} g${p.specs.weightSize ? ` (${p.specs.weightSize} beden)` : ""}` : "—"),
+    fmt: (v, p) => (v ? `${v} g${p.specs.weightSize ? ` (${/beden/i.test(p.specs.weightSize) ? p.specs.weightSize : `${p.specs.weightSize} beden`})` : ""}` : "—"),
     better: "low",
   },
   { key: "specs.headShape", label: "Kafa şekli", get: (p) => p.specs.headShape },

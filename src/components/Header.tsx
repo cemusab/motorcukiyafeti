@@ -22,7 +22,8 @@ export function Logo({ light = true }: { light?: boolean }) {
 }
 
 export function Header() {
-  const guides = new Set(getGuides().map((g) => g.slug));
+  const guideTitles = new Map(getGuides().map((g) => [g.slug, g.title]));
+  const guides = new Set(guideTitles.keys());
   const mobileNav: MobileNav = {
     categories: CATEGORIES.map((c) => ({
       name: c.name,
@@ -128,7 +129,7 @@ export function Header() {
                   </Link>
                   {c.guide && guides.has(c.guide) && (
                     <Link href={`/rehber/${c.guide}`} className="flex items-center gap-1.5 text-mute hover:text-ink">
-                      <Icon name="book" className="size-4" /> {c.name} seçim rehberi
+                      <Icon name="book" className="size-4" /> {guideTitles.get(c.guide)}
                     </Link>
                   )}
                 </div>

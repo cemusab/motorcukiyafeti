@@ -150,7 +150,11 @@ export const getMotorcycles = memo(() => {
 });
 
 export function displayName(p: Pick<Product, "brand" | "name">) {
-  return `${brandName(p.brand)} ${p.name}`;
+  const brand = brandName(p.brand);
+  // Alt markalı ürünler: "Tex Motor (Forte GT / Sway)" + "Sway SW 868" → "Sway SW 868"
+  const sub = brand.match(/\(([^)]+)\)/)?.[1].split("/").map((x) => x.trim().toLocaleLowerCase("tr")) ?? [];
+  if (sub.some((s) => p.name.toLocaleLowerCase("tr").startsWith(s))) return p.name;
+  return `${brand} ${p.name}`;
 }
 
 export function formatTL(n: number) {
@@ -161,6 +165,11 @@ export function priceLabel(p: Product) {
   if (!p.priceRange) return null;
   const { min, max } = p.priceRange;
   return min === max ? formatTL(min) : `${formatTL(min)} – ${formatTL(max)}`;
+}
+
+/** Kısa tarih: "7 Eki" (kart üzerindeki fiyat kontrol ipucu için). */
+export function formatShortDate(iso: string) {
+  return new Date(iso + "T12:00:00Z").toLocaleDateString("tr-TR", { day: "numeric", month: "short" });
 }
 
 export function formatDate(iso: string) {

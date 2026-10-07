@@ -6,9 +6,10 @@ import { ProductGrid } from "@/components/ProductCard";
 import { SearchBox } from "@/components/SearchBox";
 import { Container, SectionTitle } from "@/components/ui";
 import { Wizard } from "@/components/Wizard";
+import { BudgetLinks } from "@/components/BudgetLinks";
 import { CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import { comparePairs, editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
+import { editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
 import { displayName, getBrands, getGuide, getGuides, getMedia, getProducts, isLocal, productsIn } from "@/lib/data";
 import { getSubcategory } from "@/data/categories";
 import { meta } from "@/lib/seo";
@@ -65,7 +66,13 @@ const HELMET_TILES = ["kapali-kask", "cene-acilir-kask", "racing-kask", "touring
 export default function Home() {
   const guides = getGuides();
   const brands = getBrands();
-  const picks = editorPicks(8);
+  const counts = new Map<string, number>();
+  getProducts().forEach((p) => counts.set(p.brand, (counts.get(p.brand) ?? 0) + 1));
+  // Popüler markalar: ürün sayısına göre; yalnız aksesuar markaları (kilit, temizlik vb.) listenin başına çıkmaz.
+  const popularBrands = brands
+    .filter((b) => b.categories.some((c) => c !== "aksesuar"))
+    .sort((a, b) => (counts.get(b.slug) ?? 0) - (counts.get(a.slug) ?? 0))
+    .slice(0, 16);
   const localBrands = brands.filter((b) => b.country === "Türkiye");
   // Yerli ürünler: her yerli markadan sırayla, en fazla 8 ürün.
   const localProducts = (() => {
@@ -74,7 +81,10 @@ export default function Home() {
     for (let i = 0; out.length < 8 && i < 10; i++) for (const l of lists) if (l[i] && out.length < 8) out.push(l[i]);
     return out;
   })();
-  const pairs = comparePairs().slice(0, 4);
+  const localIds = new Set(localProducts.map((p) => p.brand + "/" + p.slug));
+  const picks = editorPicks(16)
+    .filter((p) => !localIds.has(p.brand + "/" + p.slug))
+    .slice(0, 8);
   const banner = (slug: string) => getGuide(slug);
   const heroImg = coverImage("kask", "racing-kask");
   const usedTile = new Set<string>();
@@ -195,8 +205,8 @@ export default function Home() {
         <Container className="mt-14">
           <SectionTitle title="Popüler Markalar" href="/markalar" linkLabel="Tüm markalar" />
           <ul className="flex flex-wrap gap-2">
-            {brands.slice(0, 18).map((b) => (
-              <li key={b.slug}>
+            {popularBrands.map((b, i) => (
+              <li key={b.slug} className={i >= 8 ? "hidden sm:block" : undefined}>
                 <Link
                   href={`/marka/${b.slug}`}
                   lang="en"
@@ -258,20 +268,10 @@ export default function Home() {
         ))}
       </Container>
 
-      {pairs.length > 0 && (
-        <Container className="mt-14">
-          <SectionTitle title="Popüler Karşılaştırmalar" href="/karsilastir" linkLabel="Karşılaştırma aracı" />
-          <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {pairs.map((c) => (
-              <li key={c.slug}>
-                <Link href={`/karsilastir/${c.slug}`} className="block rounded-lg border border-line bg-white p-4 font-semibold hover:border-ink">
-                  {displayName(c.items[0])} <span className="text-red">vs</span> {displayName(c.items[1])}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </Container>
-      )}
+      <Container className="mt-14">
+        <SectionTitle title="Bütçene göre karşılaştır" sub="Yeni başlayanlar ve kuryeler için: fiyat dilimine göre yan yana teknik karşılaştırma ve kime uygun oldukları." href="/karsilastir" linkLabel="Tüm karşılaştırmalar" />
+        <BudgetLinks limit={8} />
+      </Container>
 
       {guides.length > 0 && (
         <Container className="mt-14">
