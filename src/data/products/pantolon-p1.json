@@ -1,0 +1,2685 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": {
+      "min": 20050,
+      "max": 20050,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-pantolonu-siyah",
+        "price": 20050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/tornado-4-h2o-pants",
+      "dainese/drake-2-super-air-pants",
+      "revit/airwave-4-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Buz grisi / Koyu gri / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [
+      {
+        "q": "Andes Air Drystar pantolon su geçirmez mi?",
+        "a": "Çıkarılabilir Drystar membran katmanı takılıyken su geçirmez. Katman çıkarıldığında file gövde suyu tutmaz."
+      },
+      {
+        "q": "Kalça koruyucu dahil mi?",
+        "a": "Hayır. Pantolonda kalça koruyucu cebi var; Alpinestars Bio-Flex kalça koruyucuyu ayrı aksesuar olarak satıyor."
+      }
+    ],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.material"
+    ],
+    "slug": "andes-air-drystar-pants",
+    "brand": "alpinestars",
+    "name": "Andes Air Drystar Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Geniş 2D file gövdeli, çıkarılabilir Drystar su geçirmez katmanlı yaz ağırlıklı touring pantolonu; EN 17092-4 A sınıfı, dizde Level 1 koruyucu.",
+    "description": [
+      "Andes Air Drystar, Alpinestars'ın sıcak havaya odaklanan çift sezonluk touring pantolonu. Gövdenin büyük bölümü 2D file kumaştan; yani sürüş sırasında hava doğrudan bacaklara ulaşıyor. Hava serinlediğinde ya da yağmur başladığında çıkarılabilir Drystar membran katmanı devreye giriyor. Üreticiye göre bu katman pantolonun içine ya da üstüne giyilebiliyor.",
+      "Pantolon EN 17092-4:2020 A sınıfı sertifikalı. Dizlerde Nucleon Flex Plus Level 1 koruyucu standart; kalçada cep var ama kalça koruyucu ayrıca satın alınan bir aksesuar. Ön eğimli bacak kalıbı, apış ve dizde streç paneller ile kargo cepler yol kullanımına yönelik pratik detaylar. Aynı serideki Andes Air Drystar montla birlikte kombin olarak sunuluyor; bağlantı fermuarı ürün sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Yaz aylarında uzun yol yapan ve ara sıra yağmura yakalanan touring sürücüleri",
+      "Andes Air Drystar montu olan ve takım tamamlamak isteyenler",
+      "Bütçesini aşmadan file gövdeli ama su geçirmez seçeneği olan pantolon arayanlar"
+    ],
+    "notFor": [
+      "Kalça koruyucusunu kutudan çıkar çıkmaz isteyenler: ayrıca alınması gerekiyor",
+      "Kışın düzenli sürenler: termal astar yok",
+      "Yüksek koruma sınıfı (AA/AAA) arayanlar"
+    ],
+    "pros": [
+      "Geniş file paneller sayesinde sıcakta iyi hava akışı",
+      "Drystar katmanı içte veya dışta kullanılabiliyor",
+      "Streç paneller ve ön eğimli bacak ile rahat sürüş pozisyonu",
+      "Türkiye'de Motomax'ta satışta"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A; AA rakiplerin gerisinde",
+      "Diz koruyucu Level 1, kalça koruyucu dahil değil",
+      "Termal astar yok, kış için uygun değil"
+    ],
+    "usage": {
+      "sehir": "File gövde sayesinde sıcak şehir trafiğinde rahat.",
+      "uzunYol": "Yaz turları için uygun; yağmur katmanı çantada taşınabilir.",
+      "yaz": "En güçlü olduğu alan.",
+      "kis": "Termal astar yok; soğukta uygun değil.",
+      "yagmur": "Drystar katmanı takıldığında su geçirmez; katmanı takmak için durmak gerekir.",
+      "kurye": "Yaz aylarında kullanılabilir ama A sınıfı ve dahil olmayan kalça koruyucu sebebiyle her gün yoğun kullanımda ideal değil."
+    },
+    "verdict": "Andes Air Drystar, yazın sürüp yağmur riskini de hesaba katan touring sürücüsü için mantıklı bir pantolon. Hava akışı güçlü, ancak A sınıfı sertifika, Level 1 diz koruyucu ve ayrıca alınan kalça koruyucu, korumayı önceliklendirenleri AA sınıfı rakiplere yöneltebilir.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/andes-air-drystar-pants",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/andes-air-drystar-pants",
+        "type": "manufacturer",
+        "label": "Alpinestars – Andes Air Drystar Pants ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-air-drystar-korumali-motosiklet-pantolonu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Andes Air Drystar pantolon (siyah)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "2D file ağırlıklı tekstil gövde (kumaş bileşimi belirtilmemiş)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir Drystar su geçirmez katman (içte veya dışta giyilebilir)",
+      "airbagCompatible": null,
+      "ventilation": "Geniş 2D file paneller",
+      "closure": "Kargo cepler, apış ve dizde streç paneller",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/sand-5-h2o-pants",
+      "klim/carlsbad-pant",
+      "held/carese-3-base"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.standard"
+    ],
+    "slug": "bogota-pro-drystar-4-seasons-pants",
+    "brand": "alpinestars",
+    "name": "Bogotá Pro Drystar 4 Seasons Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Laminasyonlu, içte veya dışta giyilebilen Drystar katmanlı dört mevsim adventure pantolonu; EN 17092 AA sınıfı, dizde Level 2 koruyucu ve kalça koruyucu standart.",
+    "description": [
+      "Bogotá Pro Drystar 4 Seasons, Alpinestars'ın adventure ve touring sürüşü için geliştirdiği dört mevsimlik pantolonu. Ripstop ve 450D kaplamalı dış kabuk geri dönüştürülmüş Nylon 6'dan üretiliyor, aşınmaya açık bölgelerde 600D takviye var. Laminasyonlu Drystar katmanı 'liner to drop' sistemiyle dış kabuğun altında ya da üstünde kullanılabiliyor; DWR kaplama ek su itici koruma sağlıyor.",
+      "Uyluklarda tek elle açılabilen geniş havalandırma panelleri sıcak günlerde iş görüyor; soğuk için üst bacakta 100 g, alt bacakta 80 g çıkarılabilir termal astar var. Pantolon EN 17092 AA sınıfı; dizde Nucleon Flex Pro Level 2 ve kalçada Bio-Flex koruyucu kutudan çıkıyor. Bel ve baldır ayarı, iki el cebi ve yansıtıcı detaylar mevcut. Aynı serideki Bogotá Pro Drystar montla birlikte kullanılmak üzere tasarlanmış."
+    ],
+    "forWho": [
+      "Yıl boyu adventure motosikletiyle tur yapanlar",
+      "Tek pantolonla yaz, yağmur ve soğuk havayı karşılamak isteyenler",
+      "Bogotá Pro Drystar montu olan sürücüler"
+    ],
+    "notFor": [
+      "Yalnız şehir içi kısa yol yapanlar: fiyat ve katman yapısı fazla gelebilir",
+      "Kurye kullanımında sık giy-çıkar yapılacaksa katman sistemi zaman alır"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Level 2 diz ve kalça koruyucu standart",
+      "Drystar katmanı içte veya dışta kullanılabiliyor",
+      "Ayrı üst/alt bacak termal astarı ile dört mevsim kullanım"
+    ],
+    "cons": [
+      "Katmanlı yapı nedeniyle yazın bile hacimli",
+      "Türkiye'de birebir bu siyah 4 Seasons sürüm için doğrulanmış fiyat bulunamadı",
+      "Sertifikadaki EN 17092 bölüm numarası ürün sayfasında yazmıyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama şehir için ağır ve hacimli bir pantolon.",
+      "uzunYol": "Ana kullanım alanı; katmanlar yolculuk boyunca hava durumuna göre ayarlanabiliyor.",
+      "yaz": "Uyluk havalandırmaları açıkken ılık havada idare eder; çok sıcakta file pantolon kadar serin değil.",
+      "kis": "Termal astarlarla soğukta kullanılabilir.",
+      "yagmur": "Drystar katmanı dışta giyildiğinde en iyi yağmur performansını verir.",
+      "kurye": "Dayanıklı ama katman değiştirmek zaman aldığı için kurye temposunda pratik değil."
+    },
+    "verdict": "Bogotá Pro Drystar 4 Seasons, Alpinestars'ın adventure gamında koruma ve hava koşullarına uyum açısından en dolu pantolonlarından biri. AA sınıfı ve Level 2 koruyucular güçlü yanı; hacim ve fiyat ise yalnız şehir içi kullananlar için gereksiz olabilir.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/bogota-pro-drystar-sup-reg-sup-4-seasons-pants-regular",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/bogota-pro-drystar-sup-reg-sup-4-seasons-pants-regular",
+        "type": "manufacturer",
+        "label": "Alpinestars – Bogotá Pro Drystar 4 Seasons Pants ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Ripstop ve 450D kaplamalı kabuk (%100 GRS sertifikalı geri dönüştürülmüş Nylon 6), 600D takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Laminasyonlu Drystar katmanı ('liner to drop', içte veya dışta) + DWR",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda tek elle açılan geniş havalandırma panelleri",
+      "closure": "Bel ve baldır ayarı, iki el cebi; 100 g/80 g çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "dainese/delta-4-pants",
+      "dainese/pony-3-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah / Siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.standard"
+    ],
+    "slug": "missile-v3-airflow-pants",
+    "brand": "alpinestars",
+    "name": "Missile V3 Airflow Leather Pants",
+    "subcategories": [
+      "deri-pantolon"
+    ],
+    "summary": "1,3 mm sığır derisinden, perfore panelli spor deri pantolon; EN 17092 AA sınıfı, değiştirilebilir diz sürtünme pedi ve montlara bağlantı fermuarı.",
+    "description": [
+      "Missile V3 Airflow, Alpinestars'ın pist ve sportif yol kullanımı için tasarladığı deri pantolonun perfore versiyonu. Ana gövde 1,3 mm gerçek sığır derisi; uylukta perfore deri panel sıcak havada iç ısının atılmasına yardım ediyor. Diz üstünde akordeon deri esneme bölgeleri, baldır ve apışta streç paneller, ön eğimli bacak kalıbı sürüş pozisyonunda yorgunluğu azaltmaya yönelik.",
+      "Pantolon EN 17092 AA sınıfı sertifikalı. Dizde GP-R Lite koruyucu ve değiştirilebilir Sport diz sürtünme pedi var; aşınmaya açık bölgelerde çift kat malzeme kullanılıyor. Tech-Air 10 hava yastığı sistemine hazır. Bel bağlantı fermuarı Alpinestars sürüş montlarına bağlanmayı sağlıyor; bu da veritabanındaki Missile V3 montla takım oluşturmayı mümkün kılıyor."
+    ],
+    "forWho": [
+      "Pist günlerine katılan veya sportif yol sürüşü yapanlar",
+      "Alpinestars deri montuyla bağlantılı takım isteyenler",
+      "Sıcak havada deri koruması isteyen sport motosiklet sürücüleri"
+    ],
+    "notFor": [
+      "Günlük şehir kullanımı ve kurye işi: dar kalıp ve deri bakım ihtiyacı uygun değil",
+      "Yağmurda sürenler: su geçirmez değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı ve kalın 1,3 mm deri",
+      "Perfore panel ile sıcakta daha iyi hava akışı",
+      "Değiştirilebilir diz sürtünme pedi",
+      "Montlara bağlantı fermuarı ve Tech-Air 10 uyumu"
+    ],
+    "cons": [
+      "Ürün sayfasında kalça koruyucu belirtilmiyor; Alpinestars Bio-Flex kalça koruyucuyu ayrı aksesuar olarak sunuyor",
+      "Su geçirmez değil, termal astar yok",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama dar kalıp ve deri yapı gündelik kullanımda rahat değil.",
+      "uzunYol": "Kuru ve sıcak havada sportif turlarda kullanılabilir.",
+      "yaz": "Perfore panel sayesinde deri pantolonlar arasında daha serin.",
+      "kis": "Termal astar yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı; pist ve viraj sürüşü için tasarlanmış.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Missile V3 Airflow, sport sürüş için AA sınıfı ve kalın deriyi perfore panellerle birleştiren ciddi bir deri pantolon. Montla fermuar bağlantısı ve Tech-Air uyumu artı; yağmur ve gündelik kullanım için ise uygun değil.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/missile-v3-airflow-leather-pants",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/missile-v3-airflow-leather-pants",
+        "type": "manufacturer",
+        "label": "Alpinestars – Missile V3 Airflow Leather Pants ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "1,3 mm gerçek sığır derisi, akordeon deri esneme bölgeleri, streç paneller",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Uylukta perfore deri panel, iç file astar",
+      "closure": "Alpinestars montlarına bel bağlantı fermuarı, cırt bel ayarı; değiştirilebilir Sport diz sürtünme pedi",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/tornado-4-h2o-pants",
+      "dainese/tempest-4-d-dry-pants",
+      "held/zorro-base"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Koyu haki kum / Siyah / Kırmızı fluo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "st-1-wp-pants",
+    "brand": "alpinestars",
+    "name": "ST-1 Waterproof Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Sabit su geçirmez astarlı, çıkarılabilir 80 g termal astarlı giriş-orta seviye touring pantolonu; EN 17092-4 A sınıfı, dizde Level 1 koruyucu.",
+    "description": [
+      "ST-1 Waterproof, Alpinestars'ın bütçe dostu touring pantolonu. 600D polyester karışımı dış kumaşın içinde sabit (çıkarılamayan) su geçirmez astar ve file astar var; soğuk günler için 80 g'lık çıkarılabilir termal astar fermuarla pantolona bağlanıyor. 'Active touring' kalıbı, ön eğimli bacaklar ve 3D ergonomik diz yapısıyla uzun sürüşte rahatlık hedefliyor.",
+      "Pantolon EN 17092-4:2020 A sınıfı; dizdeki Nucleon Flex Plus koruyucu Level 1 ve EN 17092-6 C sınıfı darbe korumasıyla belgelenmiş. Diz koruyucu üç kademeli renk kodlu cep sistemiyle konumlandırılabiliyor. İç bacakta ripstop takviye, iki fermuarlı ön cep, bel ve paça ayarı var. Pantolon bağlantı fermuarı Alpinestars montlarına bağlanmayı sağlıyor; veritabanındaki ST-1 WP montla takım olarak kullanılabilir."
+    ],
+    "forWho": [
+      "İlk ciddi touring pantolonunu arayanlar",
+      "Her mevsim işe motosikletle gidenler",
+      "ST-1 WP montu olan sürücüler"
+    ],
+    "notFor": [
+      "Yaz sıcağında sık kullanacaklar: sabit su geçirmez astar havalandırmayı sınırlar",
+      "Yüksek koruma sınıfı isteyenler: A sınıfı ve Level 1 diz koruyucu"
+    ],
+    "pros": [
+      "Sabit su geçirmez astar: yağmur başladığında katman takmak gerekmiyor",
+      "Çıkarılabilir termal astar",
+      "Ayarlanabilir diz koruyucu konumu",
+      "Geniş beden aralığı (S–6XL)"
+    ],
+    "cons": [
+      "A sınıfı ve Level 1 diz koruyucu; kalça koruyucu belirtilmiyor",
+      "Sabit astar sıcak havada nefes almayı azaltır",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidiş için pratik; ön cepler kullanışlı.",
+      "uzunYol": "Orta mesafe turlarda yeterli.",
+      "yaz": "Sabit su geçirmez astar nedeniyle sıcakta terletebilir.",
+      "kis": "Termal astarla serin havada kullanılabilir.",
+      "yagmur": "Sabit astar sayesinde yağmura hazır.",
+      "kurye": "Fiyat ve su geçirmezlik açısından mantıklı; A sınıfı korumanın sınırlı olduğunu bilerek kullanılmalı."
+    },
+    "verdict": "ST-1 Waterproof, uygun fiyatla yağmur ve serin havayı karşılayan basit bir touring pantolonu. Koruma seviyesi giriş sınıfında; daha yüksek koruma isteyenler AA sınıfı rakiplere bakmalı.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/st-1-waterproof-pants",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/st-1-waterproof-pants",
+        "type": "manufacturer",
+        "label": "Alpinestars – ST-1 Waterproof Pants ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D polyester karışımı, iç bacakta ripstop takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 17092-6:2020 (C sınıfı darbe)",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit su geçirmez astar",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Alpinestars montlarına bağlantı fermuarı, iki fermuarlı ön cep, bel ve paça ayarı; 80 g çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "alpinestars/st-1-wp-pants",
+      "revit/tornado-4-h2o-pants",
+      "held/zorro-base"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 74,
+        "max": 78
+      },
+      {
+        "size": "46",
+        "min": 78,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 82,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 86,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 90,
+        "max": 94
+      },
+      {
+        "size": "54",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "56",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "58",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "60",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "62",
+        "min": 110,
+        "max": 114
+      },
+      {
+        "size": "64",
+        "min": 114,
+        "max": 118
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "tempest-4-d-dry-pants",
+    "brand": "dainese",
+    "name": "Tempest 4 D-Dry Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "D-Dry membranlı, çıkarılabilir termal astarlı çok mevsimlik touring pantolonu; EN 17092 A sınıfı, dizde yüksekliği ayarlanabilir Pro-Armor Level 2 koruyucu.",
+    "description": [
+      "Tempest 4 D-Dry, Dainese'nin yol touring serisindeki su geçirmez pantolonu. Nefes alabilen D-Dry membran ve çıkarılabilir termal katman yıl boyu kullanım hedefliyor; uyluklardaki fermuarlı havalandırmalar hava ısındığında açılabiliyor. Aşınmaya açık noktalarda kumaş takviyeli, hareket gereken yerlerde streç malzeme kullanılmış.",
+      "Pantolon EN 17092 A sınıfı. Dizlerde EN 1621-1 Level 2 Type B sertifikalı, yüksekliği ayarlanabilir Pro-Armor koruyucular standart; kalçada Pro-Armor L2 / Pro-Shape 2.0 için cep var ama koruyucu dahil değil. Kalça ve bilek ayar panelleri, baldır fermuarı, iki dış cep ve yansıtıcı detaylar mevcut. Dainese'nin mont-pantolon bağlantı sistemi var; üretici bunu Tempest 4 D-Dry montla eşleştirmeyi öneriyor."
+    ],
+    "forWho": [
+      "Her mevsim işe ve kısa-orta mesafe turlara gidenler",
+      "Tempest 4 D-Dry montu olan sürücüler",
+      "Makul fiyatla membranlı ve Level 2 diz korumalı pantolon arayanlar"
+    ],
+    "notFor": [
+      "AA veya AAA sınıfı isteyenler",
+      "Çok sıcak iklimde yaz pantolonu arayanlar: membran sabit"
+    ],
+    "pros": [
+      "Level 2, yüksekliği ayarlanabilir diz koruyucu",
+      "D-Dry membran ve çıkarılabilir termal astar",
+      "Uyluk havalandırması",
+      "Montla fermuar bağlantısı"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Kalça koruyucu ayrıca alınmalı",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun, iki cep ve ayar panelleri pratik.",
+      "uzunYol": "Orta mesafe turlarda konforlu.",
+      "yaz": "Havalandırma var ama membran nedeniyle çok sıcakta terletebilir.",
+      "kis": "Termal astarla serin havada kullanılabilir.",
+      "yagmur": "D-Dry membran yağmura karşı korur.",
+      "kurye": "Her hava koşulunda kullanılabilir; A sınıfı ve dahil olmayan kalça koruyucu göz önünde bulundurulmalı."
+    },
+    "verdict": "Tempest 4 D-Dry, Dainese kalitesini erişilebilir fiyatla dört mevsim kullanıma taşıyan dengeli bir touring pantolonu. Level 2 diz koruyucu iyi; A sınıfı sertifika ve ayrı alınan kalça koruyucu ise eksi tarafı.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-pants-waterproof-men-2016700015001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/tempest-4-d-dry---motorcycle-pants-waterproof-men-2016700015001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Tempest 4 D-Dry Pants ürün sayfası ve beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Bi-elastik streç kumaş, aşınma bölgelerinde takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1 Type B",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1 Type B",
+          "level": 2,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (sabit)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda fermuarlı havalandırma",
+      "closure": "Mont-pantolon bağlantı sistemi, bel ayarı, baldır fermuarı, iki dış cep; çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "held/carese-3-base",
+      "ixs/tourster-gtx-1-0-pants",
+      "klim/carlsbad-pant"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 74,
+        "max": 78
+      },
+      {
+        "size": "46",
+        "min": 78,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 82,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 86,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 90,
+        "max": 94
+      },
+      {
+        "size": "54",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "56",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "58",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "60",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "62",
+        "min": 110,
+        "max": 114
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "carve-master-4-gore-tex-pants",
+    "brand": "dainese",
+    "name": "Carve Master 4 Gore-Tex Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "GORE-TEX ePE membranlı, termal astarlı sport touring kış pantolonu; EN 17092 AA sınıfı, dizde Pro-Armor Level 2 ve kalçada Pro-Shape 2.0 koruyucu standart.",
+    "description": [
+      "Carve Master 4 Gore-Tex, Dainese'nin soğuk havada sport touring için geliştirdiği pantolonu. PFAS içermeyen yeni GORE-TEX ePE membran su geçirmezlik ve nefes alma sağlıyor; çıkarılabilir termal vatka astar soğuk günler için. Dayanıklı ve esnek Mugello kumaşı Duratex ile birlikte kullanılmış; uyluklarda havalandırma, bel ve baldırda ayar sistemi var.",
+      "Pantolon EN 17092 AA sınıfı. Dizlerde yüksekliği ayarlanabilir Pro-Armor Level 2 (EN 1621-1 Type B), kalçada çıkarılabilir Pro-Shape 2.0 koruyucu standart. Arka bel yüksek kesimli, iki dış cep ve touring botlarının üzerine giyilecek paça tasarımı mevcut. Mont-pantolon bağlantı fermuarıyla veritabanındaki Carve Master 4 Gore-Tex monta bağlanıyor."
+    ],
+    "forWho": [
+      "Soğuk ve değişken havada sport touring yapanlar",
+      "Carve Master 4 Gore-Tex montu olan sürücüler",
+      "GORE-TEX membran ve AA sınıfını bir arada isteyenler"
+    ],
+    "notFor": [
+      "Sıcak yaz günleri için pantolon arayanlar",
+      "Bütçe odaklı alıcılar",
+      "Kurye kullanımı: yüksek fiyat yoğun günlük aşınma için ekonomik değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "GORE-TEX ePE membran",
+      "Diz Level 2 ve kalça koruyucu kutudan çıkıyor",
+      "Montla fermuar bağlantısı ve yüksek arka bel"
+    ],
+    "cons": [
+      "Yüksek fiyat",
+      "Kış odaklı; yazın sıcak",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Soğuk günlerde şehir içinde de rahat.",
+      "uzunYol": "Ana kullanım alanı; sport touring için tasarlanmış.",
+      "yaz": "Uygun değil.",
+      "kis": "Termal astar ve GORE-TEX ile güçlü.",
+      "yagmur": "GORE-TEX membran güvenilir koruma sağlar.",
+      "kurye": "Teknik olarak kullanılabilir ama fiyatı nedeniyle kurye için mantıklı değil."
+    },
+    "verdict": "Carve Master 4 Gore-Tex, soğuk ve yağışlı havada sport touring yapan sürücü için koruma ve konforu birlikte sunan üst seviye bir pantolon. Yazın kullanılamaması ve fiyatı tek dezavantaj.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/carve-master-4-gore-tex---mens-winter-motorcycle-pants-2016100001001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/carve-master-4-gore-tex---mens-winter-motorcycle-pants-2016100001001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Carve Master 4 Gore-Tex Pants ürün sayfası ve beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Mugello kumaş ve Duratex kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1 Type B",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX ePE (PFAS içermez)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda havalandırma",
+      "closure": "Mont-pantolon bağlantı fermuarı, bel ve baldır ayarı, iki dış cep; çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "alpinestars/missile-v3-airflow-pants",
+      "dainese/pony-3-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 74,
+        "max": 78
+      },
+      {
+        "size": "46",
+        "min": 78,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 82,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 86,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 90,
+        "max": 94
+      },
+      {
+        "size": "54",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "56",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "58",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "60",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "62",
+        "min": 110,
+        "max": 114
+      },
+      {
+        "size": "64",
+        "min": 114,
+        "max": 118
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah / Siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.level",
+      "specs.season"
+    ],
+    "slug": "delta-4-pants",
+    "brand": "dainese",
+    "name": "Delta 4 Leather Pants",
+    "subcategories": [
+      "deri-pantolon"
+    ],
+    "summary": "Tutu sığır derisi ve S1 streç kumaş panelli spor deri pantolon; EN 17092 AA sınıfı, RSS 4.0 değiştirilebilir diz sürtünme pedi, montla fermuar bağlantısı.",
+    "description": [
+      "Delta 4, Dainese'nin sportif yol sürüşü için geliştirdiği deri pantolonu. Tutu sığır derisinden ana gövdeye S1 bi-elastik streç kumaş paneller eklenmiş; nefes alabilen file astar ara mevsim kullanımına yardımcı oluyor. Paçadaki cırt ve çift fermuarlı baldır yapısı, Dainese'nin 'boots-in' tipi botlarıyla içten giyime uygun.",
+      "Pantolon EN 17092 AA sınıfı. Dizlerde EN 1621-1 sertifikalı kompozit koruyucu, kalçada Pro-Shape 2.0 yumuşak koruyucu standart. MotoGP ekipmanından esinlenen RSS 4.0 diz sürtünme pedleri cırtı yerinden oynatmadan değiştirilip ayarlanabiliyor. Üretici, pantolonun Racing 4 ve Avro 5 montlara fermuarla bağlandığını belirtiyor; Avro 5 veritabanında mevcut."
+    ],
+    "forWho": [
+      "Sportif yol sürüşü ve ara sıra pist günü yapanlar",
+      "Dainese Avro 5 veya Racing 4 montu olanlar",
+      "Deri pantolonda AA sınıfı ve kalça koruyucu isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve kışın kullanacaklar",
+      "Gündelik şehir ve kurye kullanımı: deri bakım ve dar kalıp uygun değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Diz ve kalça koruyucu standart",
+      "Değiştirilebilir RSS 4.0 diz sürtünme pedleri",
+      "Racing 4 / Avro 5 montlarla fermuar bağlantısı"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Koruyucu seviyesi (Level 1/2) ürün sayfasında belirtilmiyor",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama gündelik kullanım için ağır.",
+      "uzunYol": "Kuru havada sportif turlarda uygun.",
+      "yaz": "File astar ve streç paneller var; perfore değil, çok sıcakta terletir.",
+      "kis": "Termal astar yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Delta 4, Dainese'nin spor deri pantolon çizgisinde AA sınıfı, standart kalça koruyucusu ve değiştirilebilir sürtünme pedleriyle eksiksiz bir seçenek. Yağmur ve gündelik kullanım beklentisi olanlar için doğru ürün değil.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/delta-4---men-leather-motorcycle-pants-2015500003631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/delta-4---men-leather-motorcycle-pants-2015500003631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Delta 4 Leather Pants ürün sayfası ve beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tutu sığır derisi, S1 bi-elastik streç kumaş",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alabilen file astar",
+      "closure": "Mont-pantolon bağlantı fermuarı, kalça ayarı, çift fermuarlı baldır, cırtlı paça (boots-in)",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "dainese/delta-4-pants",
+      "alpinestars/missile-v3-airflow-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 74,
+        "max": 78
+      },
+      {
+        "size": "46",
+        "min": 78,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 82,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 86,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 90,
+        "max": 94
+      },
+      {
+        "size": "54",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "56",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "58",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "60",
+        "min": 106,
+        "max": 110
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Mat siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.level",
+      "specs.season"
+    ],
+    "slug": "pony-3-pants",
+    "brand": "dainese",
+    "name": "Pony 3 Leather Pants",
+    "subcategories": [
+      "deri-pantolon"
+    ],
+    "summary": "Tutu sığır derisinden, günlük yol kullanımına yönelik klasik Dainese deri pantolon; EN 17092 AA sınıfı, diz ve kalça koruyucu standart.",
+    "description": [
+      "Pony 3, Dainese'nin uzun süredir katalogda olan klasik deri pantolon çizgisinin son hali. Tutu sığır derisi gövde S1 bi-elastik streç kumaş panellerle destekleniyor, iç astar nefes alabilen file. Diz sürtünme pedi olmadığı için pist pantolonundan çok gündelik yol ve sportif tur için düşünülmüş bir model.",
+      "Pantolon EN 17092 AA sınıfı. Kalçada Pro-Shape yumuşak koruyucu, dizde dış fermuar üzerinden ayarlanabilen veya çıkarılabilen kompozit koruyucu standart; ikisi de EN 1621-1 sertifikalı. Baldırda çift fermuar giymeyi kolaylaştırıyor; iki dış cep, bel ayarı, yansıtıcı detaylar ve mont-pantolon bağlantı sistemi mevcut."
+    ],
+    "forWho": [
+      "Deri pantolonu yol kullanımında tercih edenler",
+      "Pist detayı olmadan AA sınıfı deri pantolon arayanlar",
+      "Dainese deri montuyla takım oluşturmak isteyenler"
+    ],
+    "notFor": [
+      "Pist kullanıcıları: diz sürtünme pedi yok",
+      "Yağmur ve kış kullanımı",
+      "Kurye kullanımı: deri bakımı ve ağırlık uygun değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Diz ve kalça koruyucu standart",
+      "Dış fermuarla ayarlanabilir/çıkarılabilir diz koruyucu",
+      "İki dış cep ile gündelik pratiklik"
+    ],
+    "cons": [
+      "Diz sürtünme pedi yok",
+      "Su geçirmez değil",
+      "Beden aralığı 60'ta bitiyor",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Deri pantolonlar içinde gündelik kullanıma en yakın modellerden.",
+      "uzunYol": "Kuru havada uygun.",
+      "yaz": "Perfore değil; sıcakta terletir.",
+      "kis": "Termal astar yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sportif yol sürüşü için uygun; pist için diz pedi eksik.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Pony 3, AA sınıfı deri koruması isteyen ama pist detaylarına ihtiyaç duymayan yol sürücüsü için sade ve dengeli bir pantolon. Sürtünme pedi olmaması ve su geçirmezlik eksikliği kullanım alanını sınırlıyor.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/pony-3---mens-motorcycle-leather-pants-2015500030076.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/pony-3---mens-motorcycle-leather-pants-2015500030076.html",
+        "type": "manufacturer",
+        "label": "Dainese – Pony 3 Leather Pants ürün sayfası ve beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tutu sığır derisi, S1 bi-elastik streç kumaş",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alabilen file astar",
+      "closure": "Mont-pantolon bağlantı sistemi, bel ayarı, çift fermuarlı baldır, iki dış cep",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/airwave-4-pants",
+      "alpinestars/andes-air-drystar-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "44",
+        "min": 74,
+        "max": 78
+      },
+      {
+        "size": "46",
+        "min": 78,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 82,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 86,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 90,
+        "max": 94
+      },
+      {
+        "size": "54",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "56",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "58",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "60",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "62",
+        "min": 110,
+        "max": 114
+      },
+      {
+        "size": "64",
+        "min": 114,
+        "max": 118
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah / Siyah"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.level"
+    ],
+    "slug": "drake-2-super-air-pants",
+    "brand": "dainese",
+    "name": "Drake 2 Super Air Tex Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Geniş file yüzeyli, hafif yaz pantolonu; EN 17092 A sınıfı, dizde çıkarılabilir kompozit koruyucu, Air Frame 3 montla fermuar bağlantısı.",
+    "description": [
+      "Drake 2 Super Air Tex, Dainese'nin yaz ortası sürüşleri için tasarladığı file pantolonu. Hafif QuickDry kumaş ve geniş file paneller sıcak günlerde maksimum hava akışı hedefliyor; mikro-elastik paneller sürüş pozisyonunda hareket serbestliği sağlıyor.",
+      "Pantolon EN 17092 A sınıfı sertifikalı. Dizde ayarlanabilir ve çıkarılabilir EN 1621-1 kompozit koruyucu var; yan cepler Pro-Shape 2.0 kalça koruyucusunu alacak şekilde hazırlanmış ama koruyucu dahil değil. Bel ayarı, baldır fermuarı ve iki dış cep mevcut. Üretici bu pantolonu, veritabanında da bulunan Air Frame 3 Tex montla fermuar üzerinden bağlanan eş parça olarak tanımlıyor."
+    ],
+    "forWho": [
+      "Türkiye yazında şehir içi ve kısa tur yapanlar",
+      "Dainese Air Frame 3 Tex montu olanlar",
+      "Hafif ve serin bir koruma pantolonu isteyenler"
+    ],
+    "notFor": [
+      "Yağmur ve serin havada sürenler: su geçirmez ve termal katman yok",
+      "Yüksek koruma sınıfı isteyenler"
+    ],
+    "pros": [
+      "Geniş file yüzey, çok iyi hava akışı",
+      "Air Frame 3 montla fermuar bağlantısı",
+      "Hafif ve hızlı kuruyan kumaş",
+      "Ayarlanabilir diz koruyucu"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Kalça koruyucu dahil değil",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Sıcak şehir trafiğinde rahat.",
+      "uzunYol": "Yaz turlarında kullanılabilir; yağmur için ayrı yağmurluk gerekir.",
+      "yaz": "En güçlü olduğu alan.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yaz aylarında serin kalmak için uygun; A sınıfı ve dahil olmayan kalça koruyucu göz önünde bulundurulmalı."
+    },
+    "verdict": "Drake 2 Super Air Tex, sıcak iklimde serin kalmayı önceliklendiren sürücüye yönelik hafif bir file pantolon. Air Frame 3 montla takım olması artı; A sınıfı sertifika ve kalça koruyucunun ayrı alınması ise eksi.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/drake-2-super-air---mens-summer-motorcycle-pants-in-fabric-2017500032631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/drake-2-super-air---mens-summer-motorcycle-pants-in-fabric-2017500032631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Drake 2 Super Air Tex Pants ürün sayfası ve beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "QuickDry kumaş, file paneller, mikro-elastik paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş file yüzey, nefes alabilen file astar",
+      "closure": "Air Frame 3 monta bağlantı fermuarı, bel ayarı, baldır fermuarı, iki dış cep",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "alpinestars/bogota-pro-drystar-4-seasons-pants",
+      "klim/carlsbad-pant",
+      "revit/offtrack-3-h2o-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Gümüş / Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "sand-5-h2o-pants",
+    "brand": "revit",
+    "name": "Sand 5 H2O Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "İçte veya dışta giyilebilen hydratex 3L katmanlı, termal astarlı adventure pantolonu; EN 17092-3:2020 AA sınıfı, SEEFLEX Level 2 diz ve SEESMART Level 1 kalça koruyucu.",
+    "description": [
+      "Sand 5 H2O, REV'IT!'in uzun soluklu Sand adventure serisinin güncel pantolonu. Önceki nesle göre daha dinamik bir kalıp, ön uyluklarda açılır havalandırma panelleri ve baldır ayar kayışları eklenmiş. Çıkarılabilir 3 katmanlı hydratex su geçirmez katman, korumalı dış kabuğun içinde ya da üstünde giyilebiliyor; oturma bölgesi ve iç dizlerde takviyeli. Soğuk günler için ayrıca çıkarılabilir termal astar var.",
+      "Pantolon EN 17092-3:2020 AA sınıfı. Dizde ayarlanabilir SEEFLEX CE Level 2, kalçada SEESMART CE Level 1 (RV33) koruyucu standart. Üst bacakta ve bileklerde lamine yansıtıcılar, oturmada kaydırmaz panel, kemer tokalı bel ayarı ve Strapper askı hazırlığı mevcut. Kısa ve uzun bağlantı fermuarları sayesinde veritabanındaki Sand 5 H2O montla birleştirilebiliyor."
+    ],
+    "forWho": [
+      "Uzun adventure turları yapan ve her havaya hazırlıklı olmak isteyenler",
+      "Sand 5 H2O montu olan sürücüler",
+      "Kısa ve uzun bacak seçeneği arayan farklı boydaki sürücüler"
+    ],
+    "notFor": [
+      "Yalnız şehir içinde kısa yol yapanlar",
+      "Kurye kullanımı: katman değişimi ve fiyat pratik değil"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Level 2 diz ve Level 1 kalça koruyucu standart",
+      "Su geçirmez katman içte veya dışta kullanılabiliyor",
+      "Standart, kısa ve uzun bacak seçenekleri"
+    ],
+    "cons": [
+      "Katman sistemi pratik ama yağmur başladığında durup takmak gerekebilir",
+      "Kalça koruyucu Level 1",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama şehir için hacimli.",
+      "uzunYol": "Ana kullanım alanı.",
+      "yaz": "Uyluk havalandırmalarıyla ılık havada idare eder.",
+      "kis": "Termal astarla serin havada kullanılabilir.",
+      "yagmur": "Hydratex katmanı dışta giyildiğinde dış kabuk ıslanmaz.",
+      "kurye": "Teknik olarak uygun ama katman değişimi ve fiyat nedeniyle kurye için pratik değil."
+    },
+    "verdict": "Sand 5 H2O, adventure turları için koruma, hava koşullarına uyum ve beden seçeneklerini dengeli biçimde birleştiren bir pantolon. Katman sistemiyle çalışmayı kabul eden sürücü için güçlü bir aday.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-pants-sand-5-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-pants-sand-5-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Pants Sand 5 H2O ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Polyester ripstop dış kabuk (kısmen geri dönüştürülmüş polyester)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir hydratex 3L katman (içte veya dışta)",
+      "airbagCompatible": null,
+      "ventilation": "Ön uyluklarda havalandırma panelleri",
+      "closure": "Kısa ve uzun mont bağlantı fermuarı, kemer tokalı bel ayarı, baldır kayışı, bilek ayarı; çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/sand-5-h2o-pants",
+      "klim/carlsbad-pant",
+      "alpinestars/bogota-pro-drystar-4-seasons-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Gümüş / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "offtrack-3-h2o-pants",
+    "brand": "revit",
+    "name": "Offtrack 3 H2O Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Üç katmanlı (dış kabuk, termal astar, hydratex yağmur pantolonu) hafif adventure pantolonu; EN 17092-3:2020 AA sınıfı, SEEFLEX Level 2 diz koruyucu.",
+    "description": [
+      "Offtrack 3 H2O, REV'IT!'in adventure serisinin üçüncü nesil pantolonu ve Sand 5'e göre daha hafif, daha fazla arazi odaklı bir alternatif. Softshell ve ripstop dış kabuk uyluk havalandırma panelleriyle birlikte geliyor; çıkarılabilir termal katman ve içte ya da dışta giyilebilen hydratex Lite su geçirmez pantolon katmanlı sistemi tamamlıyor.",
+      "Pantolon EN 17092-3:2020 AA sınıfı. Dizde havalandırmalı SEEFLEX CE Level 2, kalçada ince SEESMART CE Level 1 koruyucu standart. Cırt ayarlı paça hem botun üzerine hem de arazi botunun içine giymeye izin veriyor; diz panellerinde ripstop takviye ve oturmada kaydırmaz panel var. Kısa ve uzun bağlantı fermuarları bulunuyor; veritabanındaki Offtrack 3 H2O montla birleştirilebilir."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu karışık kullanan adventure sürücüleri",
+      "Offtrack 3 H2O montu olanlar",
+      "Sand serisinden daha hafif bir pantolon isteyenler"
+    ],
+    "notFor": [
+      "Kalın kış pantolonu arayanlar",
+      "Kurye kullanımı: arazi odaklı tasarım ve katman sistemi şehir temposuna uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Level 2 diz koruyucu standart",
+      "Hafif üç katmanlı sistem",
+      "Bot üstü veya bot içi giyilebilen paça"
+    ],
+    "cons": [
+      "Kalça koruyucu Level 1",
+      "Yağmur katmanı ayrı parça; ıslanmadan önce takılmalı",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama arazi odaklı.",
+      "uzunYol": "Adventure turları için uygun.",
+      "yaz": "Havalandırma panelleriyle sıcak havada iyi.",
+      "kis": "Termal katmanla serin havada kullanılabilir; sert kış için yetersiz.",
+      "yagmur": "Hydratex katmanı takıldığında su geçirmez.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Offtrack 3 H2O, toprak yola çıkan adventure sürücüsü için hafiflik, AA sınıfı ve esnek katman sistemi arasında iyi bir denge kuruyor. Sert kış ve sürekli yağmur için Sand 5 gibi daha ağır modeller daha uygun.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-pants-offtrack-3-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-pants-offtrack-3-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Pants Offtrack 3 H2O ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Softshell ve ripstop dış kabuk (geri dönüştürülmüş polyester), dizde ripstop takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir hydratex Lite katman (içte veya dışta)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda havalandırma panelleri",
+      "closure": "Kısa ve uzun mont bağlantı fermuarı, entegre bel kemeri, cırt ayarlı paça; çıkarılabilir termal katman",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "alpinestars/andes-air-drystar-pants",
+      "dainese/tempest-4-d-dry-pants",
+      "revit/airwave-4-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Gümüş / Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "tornado-4-h2o-pants",
+    "brand": "revit",
+    "name": "Tornado 4 H2O Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "File gövdeli, çıkarılabilir hydratex ve termal astarlı çok mevsimlik touring pantolonu; EN 17092-3:2020 AA sınıfı, SEEFLEX Level 2 diz koruyucu.",
+    "description": [
+      "Tornado 4 H2O, REV'IT!'in yaz ve geçiş mevsimini birlikte hedefleyen touring pantolonu. Bacağın önü ve arkasında geniş 3D file paneller sıcakta hava akışı sağlıyor; serinlediğinde ya da yağmur başladığında çıkarılabilir hydratex Lite su geçirmez astar ve termal astar takılabiliyor.",
+      "Pantolon EN 17092-3:2020 AA sınıfı. Dizde SEEFLEX CE Level 2, kalçada SEESMART CE Level 1 koruyucu standart. Üst bacakta ve baldırda lamine yansıtıcı, oturmada kaydırmaz panel, bel ve baldır ayar kayışları var. Arkada kısa bağlantı fermuarı bulunuyor; üretici pantolonu veritabanındaki Tornado 4 H2O montun eşi olarak tanımlıyor."
+    ],
+    "forWho": [
+      "Yazı uzun, kışı ılıman bölgelerde yıl boyu sürenler",
+      "Tornado 4 H2O montu olanlar",
+      "File pantolonun serinliğini ama yağmur seçeneğini isteyenler"
+    ],
+    "notFor": [
+      "Sert kış şartlarında sürenler",
+      "Dışta giyilen su geçirmez katman isteyenler: hydratex astar içte"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Geniş file paneller",
+      "Level 2 diz koruyucu",
+      "Standart, kısa ve uzun bacak seçeneği"
+    ],
+    "cons": [
+      "Su geçirmez astar içte; dış kabuk ıslanır ve geç kurur",
+      "Kalça koruyucu Level 1",
+      "Türkiye'de doğrulanmış pantolon fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Sıcak havada şehir içinde rahat.",
+      "uzunYol": "Yaz ve bahar turlarında uygun.",
+      "yaz": "File paneller sayesinde güçlü.",
+      "kis": "Termal astarla serin havada idare eder; sert soğukta yetersiz.",
+      "yagmur": "Hydratex astar takılıyken su geçirmez, dış kabuk ıslanır.",
+      "kurye": "Yaz ağırlıklı kurye kullanımında AA sınıfıyla mantıklı; astar değişimi zaman alır."
+    },
+    "verdict": "Tornado 4 H2O, sıcak iklimde sürüp ara sıra yağmur ve serinlikle karşılaşan sürücü için AA sınıfı korumayla çok yönlü bir pantolon. Yağmurda dış kabuğun ıslanması ve Level 1 kalça koruyucu sınırları.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-pants-tornado-4-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-pants-tornado-4-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Pants Tornado 4 H2O ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Polyester ripstop, polyester streç ve 3D file",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir hydratex Lite astar (içte)",
+      "airbagCompatible": null,
+      "ventilation": "Bacağın önü ve arkasında geniş 3D file paneller",
+      "closure": "Kısa mont bağlantı fermuarı (arkada), bel ve baldır kayışı; çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "dainese/drake-2-super-air-pants",
+      "alpinestars/andes-air-drystar-pants",
+      "revit/tornado-4-h2o-pants"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah",
+      "Antrasit"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [],
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "airwave-4-pants",
+    "brand": "revit",
+    "name": "Airwave 4 Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Bacağın önü ve arkasında tam file yapılı yaz adventure pantolonu; EN 17092-3:2020 AA sınıfı, SEESMART Level 1 diz ve kalça koruyucu.",
+    "description": [
+      "Airwave 4, REV'IT!'in sıcak hava için tasarladığı file pantolonu. PWR|Shell file, ripstop ve streç kumaş birleşimiyle bacakların önü boyunca ve arka tarafın büyük bölümünde tam havalandırma sağlıyor. Membran ya da termal astar yok; tamamen yaz kullanımına odaklı.",
+      "File pantolon olmasına rağmen EN 17092-3:2020 AA sınıfı sertifikalı; bu, segmentte öne çıkan bir özellik. Dizde ayarlanabilir SEESMART CE Level 1 (RV36) ve kalçada SEESMART CE Level 1 (RV33) koruyucu standart. Dizlerde lamine yansıtıcılar, bel ve bilek ayarı, iki üst bacak cebi var. Arkada kısa bağlantı fermuarı bulunuyor; üretici pantolonu veritabanındaki Airwave 4 montun eşi olarak tanımlıyor."
+    ],
+    "forWho": [
+      "Yazın yoğun sıcakta süren şehir ve tur sürücüleri",
+      "Airwave 4 montu olanlar",
+      "File pantolonda AA sınıfı isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada sürenler: su geçirmez ve termal katman yok",
+      "Level 2 diz koruyucu isteyenler"
+    ],
+    "pros": [
+      "File pantolonda EN 17092-3 AA sınıfı",
+      "Diz ve kalça koruyucu standart",
+      "Çok iyi hava akışı",
+      "Görece uygun fiyat"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Su geçirmez değil, termal astar yok",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Sıcak şehir trafiğinde çok rahat.",
+      "uzunYol": "Yaz turlarında uygun; yağmur için ayrı yağmurluk gerekir.",
+      "yaz": "En güçlü olduğu alan.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yaz aylarında AA sınıfı ve iyi havalandırmasıyla kurye kullanımına uygun; yağmur için ek yağmurluk gerekir."
+    },
+    "verdict": "Airwave 4, file pantolonlar arasında AA sınıfı ve standart diz-kalça koruyucusuyla öne çıkıyor. Yalnızca yaz pantolonu olarak düşünülmeli; yağmur ve soğuk için ek ekipman şart.",
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-pants-airwave-4-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-pants-airwave-4-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Pants Airwave 4 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "PWR|Shell file, ripstop ve streç kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Bacağın önü ve arkasının büyük kısmında tam file",
+      "closure": "Kısa mont bağlantı fermuarı (arkada), bel kayışı, bilek ayarı, iki üst bacak cebi",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "dainese/carve-master-4-gore-tex-pants",
+      "klim/carlsbad-pant",
+      "held/carese-3-base"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 70,
+        "max": 75
+      },
+      {
+        "size": "S",
+        "min": 76,
+        "max": 81
+      },
+      {
+        "size": "M",
+        "min": 82,
+        "max": 87
+      },
+      {
+        "size": "L",
+        "min": 88,
+        "max": 93
+      },
+      {
+        "size": "XL",
+        "min": 94,
+        "max": 99
+      },
+      {
+        "size": "2XL",
+        "min": 100,
+        "max": 105
+      },
+      {
+        "size": "3XL",
+        "min": 106,
+        "max": 111
+      },
+      {
+        "size": "4XL",
+        "min": 112,
+        "max": 117
+      },
+      {
+        "size": "5XL",
+        "min": 118,
+        "max": 123
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Koyu gri"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "KL",
+      "KXL",
+      "K2XL",
+      "K3XL",
+      "K4XL",
+      "LM",
+      "LL",
+      "LXL"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season"
+    ],
+    "slug": "tourster-gtx-1-0-pants",
+    "brand": "ixs",
+    "name": "Tourster-GTX 1.0 Laminated Pants",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "3 katmanlı laminasyonlu GORE-TEX streç kumaştan, SuperFabric takviyeli üst seviye touring pantolonu; EN 17092-3:2020 AAA sınıfı, diz ve kalçada Level 2 koruyucu.",
+    "description": [
+      "Tourster-GTX 1.0, iXS'in touring gamının tepe noktasındaki laminasyonlu pantolon. Membran dış kumaşa laminasyonlu olduğu için yağmurda dış kabuk ıslanıp ağırlaşmıyor; X-Stretch kumaş hareket serbestliği sağlıyor. 3D file astarlı E.C.I. teknolojisi ısı yönetimine yardımcı oluyor, aşınmaya en açık bölgeler SuperFabric ile takviyeli. Değişken havalandırma açıklıkları, oturmada kaydırmaz malzeme ve iç bacakta ısıya dayanıklı panel var.",
+      "Pantolon EN 17092-3:2020 AAA sınıfı; bu, standarttaki en yüksek sınıf. Dizde ve kalçada EN 1621-1:2012 Level 2 Honeycomb koruyucular standart ve ayarlanabilir. İki su geçirmez cep, çıkarılabilir askılar ve paça fermuarı mevcut. Mont bağlantısı önde manyetik sistem, arkada kısa bağlantı fermuarıyla yapılıyor; veritabanındaki Tourster-GTX 1.0 montla takım oluşturuyor."
+    ],
+    "forWho": [
+      "Her havada uzun mesafe touring yapanlar",
+      "En yüksek koruma sınıfını (AAA) isteyenler",
+      "Tourster-GTX 1.0 montu olanlar"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar",
+      "Çok sıcak yaz günlerinde file pantolon arayanlar",
+      "Kurye kullanımı: fiyatı yoğun günlük aşınmaya göre yüksek"
+    ],
+    "pros": [
+      "EN 17092-3 AAA sınıfı",
+      "Laminasyonlu GORE-TEX: dış kabuk ıslanmaz",
+      "Diz ve kalçada Level 2 koruyucu",
+      "Kısa ve uzun beden seçenekleri"
+    ],
+    "cons": [
+      "Çok yüksek fiyat",
+      "Laminasyonlu yapı sıcak havada file pantolon kadar serin değil",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama şehir için fazla teknik ve pahalı.",
+      "uzunYol": "Ana kullanım alanı.",
+      "yaz": "Havalandırmalar yardımcı olur; çok sıcakta file pantolon daha serin.",
+      "kis": "Termal astar belirtilmiyor; soğukta altına termal katman giyilmeli.",
+      "yagmur": "Laminasyonlu GORE-TEX ile en güçlü olduğu alanlardan.",
+      "kurye": "Fiyatı nedeniyle kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "Tourster-GTX 1.0, AAA sınıfı ve laminasyonlu GORE-TEX ile koruma ve hava direncinde üst seviyede. Fiyatı yüksek; her havada uzun mesafe süren ve bundan ödün vermek istemeyenler için anlamlı.",
+    "manufacturerUrl": "https://www.ixs.com/products/tourster-gtx-1-0-laminathose-dunkelgrau",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminathose-dunkelgrau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-GTX 1.0 Laminathose ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.ixs.com/cdn/shop/files/Size_Chart_moto_hose_herren_textil.jpg",
+        "type": "manufacturer",
+        "label": "iXS – erkek tekstil pantolon beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Dış: %92 poliamid, %8 elastan (X-Stretch); iç: %80 polyester, %20 elastan; SuperFabric takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AAA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "3 katmanlı laminasyonlu GORE-TEX",
+      "airbagCompatible": null,
+      "ventilation": "Değişken havalandırma açıklıkları, E.C.I. 3D file astar",
+      "closure": "Önde manyetik mont bağlantısı, arkada kısa bağlantı fermuarı, ayarlanabilir bel ve paça, çıkarılabilir askılar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "revit/sand-5-h2o-pants",
+      "alpinestars/bogota-pro-drystar-4-seasons-pants",
+      "held/carese-3-base"
+    ],
+    "sizeChart": [
+      {
+        "size": "30",
+        "min": 76,
+        "max": 81
+      },
+      {
+        "size": "32",
+        "min": 81,
+        "max": 86
+      },
+      {
+        "size": "34",
+        "min": 86,
+        "max": 91
+      },
+      {
+        "size": "36",
+        "min": 91,
+        "max": 97
+      },
+      {
+        "size": "38",
+        "min": 97,
+        "max": 102
+      },
+      {
+        "size": "40",
+        "min": 102,
+        "max": 107
+      },
+      {
+        "size": "42",
+        "min": 107,
+        "max": 112
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "High-rise - Asphalt",
+      "Stealth Black",
+      "Oil Green",
+      "Dress Blues - Red Oxide",
+      "Asphalt - Ember Orange"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "Short 30",
+      "Short 32",
+      "Short 34",
+      "Short 36",
+      "Short 38",
+      "Short 40",
+      "Short 42",
+      "Tall 32",
+      "Tall 34",
+      "Tall 36",
+      "Tall 38"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.protectors.standard",
+      "specs.season"
+    ],
+    "slug": "carlsbad-pant",
+    "brand": "klim",
+    "name": "Carlsbad Pant",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "GORE-TEX Performance Shell'li, Cordura takviyeli dördüncü nesil adventure pantolonu; EN 17092-3 AA sınıfı, Rogue CE Level 2 diz ve kalça koruyucu.",
+    "description": [
+      "Carlsbad Pant, KLIM'in 'ihtiyacın olan her şey, fazlası değil' yaklaşımıyla tasarladığı adventure pantolonunun dördüncü nesli. GORE-TEX Performance Shell dış kabuk su geçirmezlik sağlıyor; aşınma bölgelerinde 630D Cordura bükümlü iplik takviye, iç dizde tutuş için keçi derisi ve paçada Cordura var. Uylukta iki giriş ve iki çıkış havalandırması, iki körüklü kargo cebi bulunuyor.",
+      "Pantolon EN 17092-3 AA sınıfı. Yeni Rogue CE Level 2 havalandırmalı kalça ve ayarlanabilir diz koruyucu standart; diz kayışları koruyucuyu yerinde tutuyor. Paça, arazi botlarının ve dizlik ortezlerin üzerine giyilecek kadar açılabiliyor. İki hızlı bel ayar kayışı ve mont-pantolon fermuar bağlantısı mevcut; veritabanındaki Carlsbad montla birleştirilebilir."
+    ],
+    "forWho": [
+      "Uzun adventure turları yapan ve laminasyon yerine GORE-TEX kabuk isteyenler",
+      "Arazi botu ve dizlik kullananlar",
+      "KLIM Carlsbad montu olanlar"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar",
+      "Termal astar bekleyenler: pantolon yalıtımsız",
+      "Kurye kullanımı: fiyatı günlük yoğun aşınmaya göre yüksek"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "GORE-TEX kabuk, ayrı katman takmaya gerek yok",
+      "Level 2 diz ve kalça koruyucu standart",
+      "Kısa ve uzun bacak seçenekleri, beş renk"
+    ],
+    "cons": [
+      "Yüksek fiyat",
+      "Termal astar yok",
+      "Bedenler inç ölçüsünde",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure odaklı ve pahalı.",
+      "uzunYol": "Ana kullanım alanı.",
+      "yaz": "Uyluk havalandırmalarıyla ılık havada idare eder; çok sıcakta file pantolon kadar serin değil.",
+      "kis": "Yalıtımsız; altına termal katman gerekir.",
+      "yagmur": "GORE-TEX kabuk ile güçlü.",
+      "kurye": "Fiyatı nedeniyle uygun değil."
+    },
+    "verdict": "Carlsbad Pant, GORE-TEX kabuk, AA sınıfı ve Level 2 koruyucularla adventure sürücüsüne katman derdi olmadan her hava koruması sunuyor. Fiyatı ve termal astarın olmaması değerlendirilmeli.",
+    "manufacturerUrl": "https://www.klim.com/products/carlsbad-pant-6030-003",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/carlsbad-pant-6030-003",
+        "type": "manufacturer",
+        "label": "KLIM – Carlsbad Pant ürün sayfası ve erkek alt giyim beden tablosu",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "GORE-TEX Performance Shell, FPL400 ana kumaş, 630D Cordura takviye, iç dizde keçi derisi",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Performance Shell",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda 2 giriş, 2 çıkış havalandırması",
+      "closure": "Mont-pantolon fermuar bağlantısı, 2 hızlı bel ayar kayışı, fermuar/çıtçıt ayarlı paça",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": null,
+    "offers": [],
+    "buyerInsights": null,
+    "rivals": [
+      "held/zorro-base",
+      "revit/tornado-4-h2o-pants",
+      "dainese/tempest-4-d-dry-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "46",
+        "min": 79,
+        "max": 82
+      },
+      {
+        "size": "48",
+        "min": 83,
+        "max": 86
+      },
+      {
+        "size": "50",
+        "min": 87,
+        "max": 90
+      },
+      {
+        "size": "52",
+        "min": 91,
+        "max": 95
+      },
+      {
+        "size": "54",
+        "min": 96,
+        "max": 100
+      },
+      {
+        "size": "56",
+        "min": 101,
+        "max": 105
+      },
+      {
+        "size": "58",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "60",
+        "min": 111,
+        "max": 115
+      },
+      {
+        "size": "62",
+        "min": 116,
+        "max": 120
+      },
+      {
+        "size": "64",
+        "min": 121,
+        "max": 125
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64",
+      "24 kısa",
+      "25 kısa",
+      "26 kısa",
+      "27 kısa",
+      "28 kısa",
+      "29 kısa",
+      "30 kısa",
+      "31 kısa",
+      "32 kısa",
+      "98 uzun",
+      "102 uzun",
+      "106 uzun",
+      "110 uzun",
+      "114 uzun"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season",
+      "specs.protectors.standard"
+    ],
+    "slug": "open-road-3-hose",
+    "brand": "buse",
+    "name": "Open Road III Textilhose",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Çıkarılabilir Humax membran pantolonlu erkek touring pantolonu; EN 17092-3:2020 AA sınıfı, dizde Level 2 ve kalçada Level 1 YF koruyucu, çok geniş beden aralığı.",
+    "description": [
+      "Open Road III, Büse'nin yumuşak ve dayanıklı Tactel poliamid kumaştan ürettiği erkek touring pantolonu. Dizde ve kaval bölgesinde Hitena takviye, kasık ve dizlerde streç paneller, nefes alabilen file iç astar var. Su ve rüzgar geçirmezlik, çıkarılabilir Humax membranlı iç pantolonla sağlanıyor. Uyluklarda önde ve arkada toplam dört havalandırma fermuarı bulunuyor.",
+      "Pantolon EN 17092-3:2020 AA sınıfı. Dizde yüksekliği ayarlanabilir Level 2, kalçada Level 1 YF koruyucu çıkarılabilir şekilde standart. Bel ve paça ayarı, oturmada kaydırmaz malzeme, ikisi su geçirmez kargo cep olmak üzere dört cep ve bağlantı fermuarı var. 46–64 standart, 24–32 kısa ve 98–114 uzun bedenleriyle beden aralığı çok geniş; veritabanındaki Open Road III montla birlikte kullanılabilir."
+    ],
+    "forWho": [
+      "Standart beden tablosuna uymayan uzun, kısa veya iri yapılı sürücüler",
+      "Open Road III montu olanlar",
+      "Makul fiyatla AA sınıfı touring pantolonu arayanlar"
+    ],
+    "notFor": [
+      "Laminasyonlu, dış kabuğu ıslanmayan pantolon isteyenler: membran içte",
+      "Kurye kullanımında sık giy-çıkar: iç membran pantolon pratik değil"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Dizde Level 2 yükseklik ayarlı koruyucu",
+      "Çok geniş beden aralığı (kısa ve uzun bedenler)",
+      "Dört havalandırma fermuarı ve su geçirmez kargo cepler"
+    ],
+    "cons": [
+      "Membran içte; yağmurda dış kumaş ıslanır",
+      "Kalça koruyucu Level 1",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun.",
+      "uzunYol": "Ana kullanım alanı.",
+      "yaz": "Membran çıkarılıp havalandırmalar açıldığında ılık havada kullanılabilir.",
+      "kis": "Termal astar belirtilmiyor; soğukta altına termal katman gerekir.",
+      "yagmur": "Humax membranlı iç pantolon takılıyken su geçirmez.",
+      "kurye": "Dayanıklı ve AA sınıfı; ancak iç membran pantolon sık takıp çıkarmada pratik değil."
+    },
+    "verdict": "Open Road III, AA sınıfı, Level 2 diz koruyucu ve olağanüstü geniş beden aralığıyla özellikle standart kalıplara uymayan sürücüler için güçlü bir touring pantolonu. İçte kalan membran yağmurda dış kumaşın ıslanmasına neden oluyor.",
+    "manufacturerUrl": "https://www.buese.com/de/buese-open-road-iii-textilhose-bu11747",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textilhose-bu11747",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III Textilhose ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.buese.com/de/groessentabelle",
+        "type": "manufacturer",
+        "label": "Büse – resmi beden tablosu (Herren Normal-Größen)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tactel poliamid gövde, Hitena takviye, %92 poliamid/%8 elastan streç paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir Humax membranlı iç pantolon",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda önde ve arkada 4 havalandırma fermuarı",
+      "closure": "Bağlantı fermuarı, bel ve paça ayarı, 4 cep (2 su geçirmez kargo)",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": {
+      "min": 14790,
+      "max": 14790,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-zorro-korumali-motosiklet-pantolonu-siyah",
+        "price": 14790,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "buyerInsights": null,
+    "rivals": [
+      "dainese/tempest-4-d-dry-pants",
+      "buse/open-road-3-hose",
+      "alpinestars/st-1-wp-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 75,
+        "max": 82
+      },
+      {
+        "size": "M",
+        "min": 83,
+        "max": 90
+      },
+      {
+        "size": "L",
+        "min": 91,
+        "max": 98
+      },
+      {
+        "size": "XL",
+        "min": 99,
+        "max": 108
+      },
+      {
+        "size": "XXL",
+        "min": 109,
+        "max": 117
+      },
+      {
+        "size": "3XL",
+        "min": 118,
+        "max": 126
+      },
+      {
+        "size": "4XL",
+        "min": 127,
+        "max": 135
+      },
+      {
+        "size": "5XL",
+        "min": 136,
+        "max": 144
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "K-M",
+      "K-L",
+      "K-XL",
+      "K-XXL",
+      "K-3XL",
+      "L-M",
+      "L-L",
+      "L-XL",
+      "L-XXL"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "slug": "zorro-base",
+    "brand": "held",
+    "name": "Zorro Base",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Sympatex membranlı, çıkarılabilir termal astarlı uygun fiyatlı touring pantolonu; EN 17092:2020 AA sınıfı, diz ve kalçada D3O T5 Evo X Level 1 koruyucu.",
+    "description": [
+      "Zorro Base, Held'in touring gamındaki erişilebilir fiyatlı pantolonu. HEROS-TEC 600D dış kumaş dizlerde çift kat 300D polyester ile takviyeli; içte su ve rüzgar geçirmez, nefes alabilen Sympatex membran ve çıkarılabilir termal astar var. Sırt ve dizlerde streç, kasık ve baldırda özel streç paneller hareket serbestliği sağlıyor.",
+      "Pantolon EN 17092:2020 AA sınıfı. Dizde yüksekliği HPA sistemiyle ayarlanabilen, kalçada sabit D3O T5 Evo X Level 1 koruyucular (EN 1621-1:2012) standart. Havalandırma fermuarları, iki dış cep, kalça ayarı, bilekte fermuar ve cırt, kaydırmaz oturma paneli ve bağlantı fermuarı var. Erkek, kadın, kısa ve uzun bedenlerle sunuluyor; veritabanındaki Zorro ST montla takım oluşturuyor."
+    ],
+    "forWho": [
+      "Uygun fiyatla AA sınıfı ve membranlı pantolon arayanlar",
+      "Zorro ST montu olanlar",
+      "Kısa veya uzun bedene ihtiyaç duyan erkek ve kadın sürücüler"
+    ],
+    "notFor": [
+      "Level 2 koruyucu isteyenler",
+      "Çok sıcak yaz günleri için file pantolon arayanlar"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "D3O diz ve kalça koruyucu standart",
+      "Sympatex membran ve termal astar",
+      "Türkiye'de Motomax'ta satışta, görece uygun fiyat"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Membran içte; dış kumaş yağmurda ıslanır",
+      "Yalnız siyah renk"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanım için pratik ve uygun fiyatlı.",
+      "uzunYol": "Orta ve uzun turlarda konforlu.",
+      "yaz": "Havalandırma fermuarları var ama membran nedeniyle sıcakta terletebilir.",
+      "kis": "Termal astarla serin havada kullanılabilir.",
+      "yagmur": "Sympatex membran ile su geçirmez.",
+      "kurye": "AA sınıfı, membran ve fiyatıyla kurye kullanımına uygun bir seçenek."
+    },
+    "verdict": "Zorro Base, uygun fiyatla AA sınıfı, membran ve D3O koruyucuları bir araya getiren mantıklı bir touring pantolonu. Level 1 koruyucular ve içte kalan membran sınırları.",
+    "manufacturerUrl": "https://shop.held.de/en/Zorro-Base-Touring-trousers/062557-00-001-0-LDXL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Zorro-Base-Touring-trousers/062557-00-001-0-LDXL",
+        "type": "manufacturer",
+        "label": "Held – Zorro Base Touring trousers ürün sayfası ve tekstil beden tablosu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-zorro-korumali-motosiklet-pantolonu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Zorro pantolon (siyah)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "HEROS-TEC 600D dış kumaş, dizde çift kat 300D polyester takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sympatex (iç)",
+      "airbagCompatible": null,
+      "ventilation": "Havalandırma fermuarları",
+      "closure": "Bağlantı fermuarı, kalça ayarı, bilekte fermuar ve cırt, iki dış cep; çıkarılabilir termal astar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "pantolon",
+    "lastCheckedAt": "2026-10-07",
+    "priceRange": {
+      "min": 43540,
+      "max": 43540,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "kontrol tarihinde stokta değil"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-carese-3-adventure-korumali-motosiklet-pantolonu-gri-/-siyah",
+        "price": 43540,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Gri / Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "buyerInsights": null,
+    "rivals": [
+      "klim/carlsbad-pant",
+      "revit/sand-5-h2o-pants",
+      "alpinestars/bogota-pro-drystar-4-seasons-pants"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 75,
+        "max": 82
+      },
+      {
+        "size": "M",
+        "min": 83,
+        "max": 90
+      },
+      {
+        "size": "L",
+        "min": 91,
+        "max": 98
+      },
+      {
+        "size": "XL",
+        "min": 99,
+        "max": 108
+      },
+      {
+        "size": "XXL",
+        "min": 109,
+        "max": 117
+      },
+      {
+        "size": "3XL",
+        "min": 118,
+        "max": 126
+      },
+      {
+        "size": "4XL",
+        "min": 127,
+        "max": 135
+      },
+      {
+        "size": "5XL",
+        "min": 136,
+        "max": 144
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "colors": [
+      "Siyah",
+      "Gri / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "K-M",
+      "K-L",
+      "K-XL",
+      "K-XXL",
+      "K-3XL",
+      "L-M",
+      "L-L",
+      "L-XL",
+      "L-XXL"
+    ],
+    "faq": [],
+    "unverified": [
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "slug": "carese-3-base",
+    "brand": "held",
+    "name": "Carese 3 Base",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Çıkarılabilir 3 katmanlı GORE-TEX astarlı, Cordura ripstop dış kabuklu adventure pantolonu; EN 17092:2020 AA sınıfı, D3O T5 EvoProX Level 2 diz ve kalça koruyucu.",
+    "description": [
+      "Carese 3 Base, Held'in adventure-touring pantolonu. Dış kabuk Cordura RipStop 500D, iç astar file. Çıkarılabilir 3 katmanlı GORE-TEX astar pantolonun içine bağlanabiliyor, üstüne giyilebiliyor ya da tek başına yağmur pantolonu olarak kullanılabiliyor. Havalandırma fermuarları, dizlerde streç panel ve tutuşu artıran kaydırmaz yüzey, çift paça ayarı arazi kullanımını da düşünerek tasarlanmış.",
+      "Pantolon EN 17092:2020 AA sınıfı. Dizde HPA sistemiyle yüksekliği ayarlanabilen, kalçada D3O T5 EvoProX Level 2 koruyucu (EN 1621-1:2012) standart; kuyruk sokumu takviyesi için cep var. Yüksek bel, dört dış cep, su geçirmez dış cepler, 3M Scotchlite yansıtıcılar ve bağlantı fermuarı mevcut. Erkek, kadın, kısa ve uzun bedenlerle sunuluyor; veritabanındaki Carese 3 montla takım oluşturuyor."
+    ],
+    "forWho": [
+      "Uzun adventure turlarında hem asfalt hem toprak yol kullananlar",
+      "Level 2 koruyucu ve GORE-TEX'i bir arada isteyenler",
+      "Carese 3 montu olanlar"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar",
+      "Kurye kullanımı: fiyatı ve katman yapısı uygun değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Diz ve kalçada D3O Level 2 koruyucu",
+      "GORE-TEX astar içte, dışta ya da ayrı yağmur pantolonu olarak kullanılabiliyor",
+      "Türkiye'de Motomax'ta listeleniyor"
+    ],
+    "cons": [
+      "Yüksek fiyat",
+      "Kontrol tarihinde Türkiye'de stokta değil",
+      "Termal astar belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure odaklı ve hacimli.",
+      "uzunYol": "Ana kullanım alanı.",
+      "yaz": "Havalandırma ve GORE-TEX astar çıkarıldığında sıcakta idare eder.",
+      "kis": "Termal astar belirtilmiyor; soğukta altına termal katman gerekir.",
+      "yagmur": "GORE-TEX astar dışta giyildiğinde güçlü koruma sağlar.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Carese 3 Base, Level 2 D3O koruyucular, AA sınıfı ve esnek GORE-TEX astarıyla adventure sürücüsü için güçlü bir pantolon. Fiyatı yüksek ve Türkiye'de stok durumu değişken.",
+    "manufacturerUrl": "https://shop.held.de/en/Carese-3-Base-Adventure-touring-trousers/062660-00-068-0-3-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Carese-3-Base-Adventure-touring-trousers/062660-00-068-0-3-XL",
+        "type": "manufacturer",
+        "label": "Held – Carese 3 Base Adventure touring trousers ürün sayfası ve tekstil beden tablosu",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-carese-3-adventure-korumali-motosiklet-pantolonu-gri-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Carese 3 Adventure pantolon (gri/siyah)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Cordura RipStop 500D (%100 poliamid), %91 poliamid/%9 elastan streç paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir 3 katmanlı GORE-TEX astar (içte, dışta veya ayrı yağmur pantolonu)",
+      "airbagCompatible": null,
+      "ventilation": "Havalandırma fermuarları",
+      "closure": "Bağlantı fermuarı, yüksek bel ve cırt ayarı, çift paça ayarı, 4 dış cep",
+      "madeIn": null
+    }
+  }
+]
