@@ -34,3 +34,24 @@ Tam durum ve adım adım plan: `docs/RAPOR.md` (7 Ekim 2026). Şu anki aşama: *
 4. Kartlarda fiyat yanında satıcı sayısı + kontrol tarihi.
 5. ÖNCELİK — karşılaştırmalar: bütçe segmentli (10 bin altı, 10–20, 20–35 bin kask; mont/eldiven/bot için de) hazır karşılaştırmalar ve listeler; öne çıkan karşılaştırmalar yeni başlayan/kurye segmentinden.
 Not: Repo `cemusab/motorcukiyafeti`, Vercel'e bağlı; sıfırdan başlanmayacak, mevcut v2 üzerinde düzeltilecek.
+
+## "devam" protokolü — düzenli veri turları (7 Eki 2026'da kararlaştırıldı)
+Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur yalnızca "devam" ile başlar.
+
+**Her tur:**
+1. Önce bu dosyadaki "Tur kayıtları"na bak, sıradaki turu seç.
+2. Turda **toplam 20–30 ürün** (kategori başına 10 değil). Öncelik sırası:
+   a. Türkiye'de satılan ve fiyatı doğrulanabilen modeller
+   b. Yerli markalar (Yaren, Tex Motor/Forte GT/Sway, Scudo, Tech90/Vecton, Riderdenim, YDS, LBC, Metanic)
+   c. Kurye ürünleri
+   d. Mevsim (Ekim–Şubat: kışlık mont/eldiven, termal, yağmurluk, ısıtmalı)
+   e. Search Console'da aranan marka/ürünler (veri gelince)
+3. Kurallar: `docs/agent-urun-talimati.md`; uydurma veri yok; yeni ürün dosyaları `src/data/products/{kategori}-{tur}.json`.
+4. Bitince `npm run validate` + `npm run qa` yeşil → **tek commit, tek push** (`main`).
+5. Bu dosyaya tur kaydı ekle; kullanıcıya kısa rapor ver.
+
+**Tur kayıtları / plan:**
+- [ ] Tur 1: YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
+- [ ] Tur 2: Kurye ürünleri (yerli kurye mont/pantolon/yağmurluk, kurye çantası, telefon tutucu) + eksik TR fiyatları
+- [ ] Tur 3: Search Console verisine göre aranan markalar/modeller
+- [ ] Sonra: haftada ~2 tur ritmi
