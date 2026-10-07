@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "axxis",
+    "name": "Axxis Helmets",
+    "country": "İspanya",
+    "founded": null,
+    "website": "https://www.axxis-helmets.com/",
+    "about": [
+      "Axxis Helmets, İspanya merkezli ve uygun fiyatlı, yüksek kaliteli kask sunmayı hedefleyen bir kask markasıdır. Kendi tanıtımına göre kasklarını kompozit fiber veya polikarbonat kabuk, darbe emici EPS ve konfor astarı, tutma sistemi, vizör ve havalandırma bileşenlerinden oluşturuyor; son montaj kalite kontrol gözetiminde yapılıyor.",
+      "Güncel katalog kapalı (Fenix, Hawk Evo SV, Panther SV), çene açılır (Ghostfighter SV, Lynx SV), açık (Blazer SV, Hornet S SV, Metro, Square) ve arazi (Wolf) kasklarından oluşuyor. Modellerin çoğu ECE 22.06 ve DOT onaylı; çene açılırlar P/J çift onaylı. Bazı modellerde Midland ile geliştirilen Rider Sync interkom için UCS yuvası var.",
+      "Axxis ilk alıcıya 5 yıl sınırlı üretici garantisi veriyor. Türkiye'de çeşitli mağazalarda satılıyor; ancak resmi distribütör ve fiyat bilgisini yetkili bir motor ekipmanı mağazasında doğrulayamadık."
+    ],
+    "strengths": [
+      "ECE 22.06 ve P/J çift onaylı uygun fiyatlı çene açılır kasklar",
+      "İki kabuk boyutu ve iç güneş vizörü gibi üst segment özellikleri bütçe fiyatına getirmesi",
+      "UCS yuvalı Rider Sync interkom entegrasyonu",
+      "5 yıl garanti"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Ghostfighter SV",
+        "note": "HIRP kabuklu, P/J onaylı, interkom yuvalı çene açılır kask.",
+        "url": "https://www.axxis-helmets.com/modular/ghostfighter-sv"
+      },
+      {
+        "name": "Lynx SV",
+        "note": "1.500 g'dan başlayan termoplastik çene açılır; ECE 22.06, DOT, P/J.",
+        "url": "https://www.axxis-helmets.com/modular/lynx-sv"
+      },
+      {
+        "name": "Panther SV",
+        "note": "Sport-touring kapalı kask, güneş vizörlü ve interkom hazırlıklı.",
+        "url": "https://www.axxis-helmets.com/fullface/panther-sv"
+      },
+      {
+        "name": "Hawk Evo SV",
+        "note": "Keskin hatlı, güneş vizörlü kapalı kask.",
+        "url": "https://www.axxis-helmets.com/fullface/hawk-evo-sv"
+      },
+      {
+        "name": "Blazer SV",
+        "note": "Kompakt, tam vizörlü jet kask.",
+        "url": "https://www.axxis-helmets.com/openface/blazer-sv"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Axxis Ghostfighter SV",
+        "url": "https://www.axxis-helmets.com/modular/ghostfighter-sv",
+        "reason": "P/J çift onay, güneş vizörü ve UCS interkom yuvasını bütçe segmentinde bir arada sunuyor."
+      },
+      {
+        "label": "Axxis Lynx SV",
+        "url": "https://www.axxis-helmets.com/modular/lynx-sv",
+        "reason": "1.500-1.600 g ile sınıfına göre hafif, P/J onaylı çene açılır kask."
+      }
+    ],
+    "alternatives": [
+      "ls2",
+      "mt-helmets",
+      "tex-motor"
+    ],
+    "history": [
+      {
+        "year": 2020,
+        "event": "Marka kendi tanıtımında 2020'yi, hızlı büyüdüğü ve kask üreticileri arasında yer edinmeye başladığı dönemin başlangıcı olarak gösteriyor."
+      }
+    ],
+    "strongestLine": "ECE 22.06 P/J onaylı, uygun fiyatlı çene açılır kasklar (Ghostfighter SV, Lynx SV)",
+    "sources": [
+      {
+        "url": "https://www.axxis-helmets.com/about",
+        "type": "manufacturer",
+        "label": "Axxis – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.axxis-helmets.com/products/modular",
+        "type": "manufacturer",
+        "label": "Axxis – Çene açılır kasklar",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "givi",
+    "name": "Givi",
+    "country": "İtalya",
+    "founded": 1978,
+    "website": "https://www.givi.it/",
+    "about": [
+      "GIVI, 1978'de eski Motosiklet Dünya Şampiyonası pilotu Giuseppe Visenzi tarafından İtalya'nın Brescia bölgesinde kurulan motosiklet aksesuarı üreticisidir. Markanın adı kurucusunun adının baş harflerinden gelir. Küçük bir atölyeden dünya çapında dağıtım ağına sahip, yaklaşık 500 çalışanlı bir şirkete dönüştü.",
+      "GIVI en çok top case, yan çanta, depo çantası ve ön cam gibi bagaj ve aerodinamik ürünleriyle tanınır. Kask tarafına 2001'de HPS (Head Protection System) projesiyle girdi. Bugün çene açılır (X27, X26, X50), flip-back (X36), kapalı (50X, 50Z, 551, 801) ve jet (X31, X32, 12.5) serileri var; modellerin çoğu termoplastik kabuklu ve uygun fiyatlı.",
+      "Givi kask ürün sayfalarında homologasyon sürümü ve ağırlık her zaman belirtilmediği için, satın alırken kasktaki ECE etiketinin 22.06 olduğunu kontrol etmek gerekir."
+    ],
+    "strengths": [
+      "Bagaj sistemleri (top case, yan çanta) ve motosiklete özel montaj kitleri",
+      "Kutudan Pinlock lensle çıkan uygun fiyatlı çene açılır kasklar",
+      "Kendi interkomuyla (I319S) uyumlu kask modelleri",
+      "Geniş uluslararası dağıtım ağı"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "X27",
+        "note": "İki kabuklu, Pinlock Max Vision lensli çene açılır kask.",
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter/caschi-flip-up/x27-solid-color"
+      },
+      {
+        "name": "X26",
+        "note": "Pinlock 30 lensli giriş seviyesi çene açılır kask.",
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter/caschi-flip-up/x26-solid-color"
+      },
+      {
+        "name": "X32",
+        "note": "Güneş vizörlü, iki kabuklu jet kask.",
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter/caschi-jet/x32-solid-color"
+      },
+      {
+        "name": "Kasklar",
+        "note": "Givi'nin tüm kask kategorileri.",
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Givi X27 çene açılır kask",
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter/caschi-flip-up/x27-solid-color",
+        "reason": "Pinlock Max Vision lensi kutuda, iç güneş vizörlü ve Givi interkomuna özel uyumlu."
+      }
+    ],
+    "alternatives": [
+      "tex-motor",
+      "axxis",
+      "ls2"
+    ],
+    "history": [
+      {
+        "year": 1969,
+        "event": "Givi'nin kurucusu Giuseppe Visenzi, pilotluk döneminde Motosiklet Dünya Şampiyonası 350 cc sınıfını üçüncü bitirdi."
+      },
+      {
+        "year": 1978,
+        "event": "Giuseppe Visenzi yarışları bırakıp motosiklet aksesuarı üreten GIVI'yi kurdu."
+      },
+      {
+        "year": 2001,
+        "event": "GIVI, HPS (Head Protection System) projesiyle kask üretimine girdi."
+      }
+    ],
+    "strongestLine": "Motosiklet bagaj sistemleri (top case, yan çanta); kaskta uygun fiyatlı çene açılır modeller",
+    "sources": [
+      {
+        "url": "https://www.givi.it/azienda/storia",
+        "type": "manufacturer",
+        "label": "Givi – Tarihçe",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.givi.it/azienda/givi-SPA",
+        "type": "manufacturer",
+        "label": "Givi – Şirket",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.givi.it/prodotti-givi/caschi-moto-e-scooter",
+        "type": "manufacturer",
+        "label": "Givi – Kasklar",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

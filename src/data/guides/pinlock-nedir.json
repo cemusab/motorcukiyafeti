@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "pinlock-nedir",
+    "title": "Pinlock Nedir, Neden Önemlidir?",
+    "description": "Pinlock, vizörün içine takılan ve buğulanmayı önleyen ikinci bir lenstir. Nasıl çalıştığını, 30/70/120 farkını ve bakımını anlattık.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 5,
+    "intro": "Pinlock, kask vizörünün iç yüzüne iki pim arasında takılan, nem emen bir buğu önleyici lenstir. Lensin silikon contası vizörle arasında hava yalıtımlı bir boşluk oluşturur; böylece soğuk ve yağışlı havada nefesin vizörü buğulandırmaz ve görüşün açık kalır.",
+    "sections": [
+      {
+        "heading": "Buğulanma neden tehlikeli?",
+        "paragraphs": [
+          "Soğuk havada nefesindeki sıcak ve nemli hava, dış hava ile soğuyan vizörün iç yüzeyine çarpınca yoğunlaşır ve vizör buğulanır. Bu genellikle en kötü anda, trafik ışığında durduğunda ya da yavaşladığında olur. Vizörü açmak çözüm gibi görünse de yağmurda, soğukta ve yüksek hızda pratik değildir.",
+          "Görüş kaybı, özellikle gece ve yağmurda ciddi bir güvenlik riskidir. Pinlock bu sorunu kalıcı biçimde çözmenin en yaygın yoludur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Nasıl çalışır?",
+        "paragraphs": [
+          "Pinlock'un kendi açıklamasına göre sistem iki prensibe dayanır. Birincisi, lensin nem emen yüzeyi nemli ortamda su moleküllerini çeker ve depolar; nem azaldığında bu su buharlaşır. İkincisi, lensin kenarındaki hava geçirmez conta, vizör ile lens arasında bir hava cebi oluşturur ve bu cep ısı yalıtımı sağlayarak yoğuşmayı engeller. Mantık, evlerdeki çift camlı pencereye benzer.",
+          "Lens, vizörün iç yüzeyindeki iki küçük pim (eksantrik başlıklar) arasına gerilerek yerleşir. Pimler döndürülerek lensin vizöre ne kadar sıkı bastırılacağı ayarlanabilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Pinlock hazır vizör ve uyumluluk",
+        "paragraphs": [
+          "Pinlock takabilmek için vizörün \"Pinlock hazır\" olması, yani pim yuvalarına sahip olması gerekir. Birçok kask Pinlock lensiyle birlikte gelir; bazılarında vizör hazırdır ama lens ayrıca satın alınır. Ürün açıklamasında \"Pinlock dahil\" ile \"Pinlock hazır\" ifadelerini ayırt et.",
+          "Lensler vizörün şekline özeldir. Pinlock, lensleri vizör tipine göre eşleştiren bir ürün kodu (DKS kodu) sistemi kullanır; doğru lensi bu kod ya da kaskın modeli üzerinden bulursun. Bazı büyük kask markaları kendi pim tasarımlarını kullanır."
+        ],
+        "bullets": [
+          "Pinlock dahil: kutudan lensle çıkar",
+          "Pinlock hazır: vizörde pimler var, lens ayrı alınır",
+          "Pinlock'suz vizöre lens takılamaz"
+        ]
+      },
+      {
+        "heading": "Pinlock 30, 70 ve 120 farkı",
+        "paragraphs": [
+          "Pinlock lensleri farklı buğu önleme performans seviyelerinde sunar ve bunlar 30, 70 ve 120 gibi sayılarla adlandırılır. Sayı büyüdükçe lensin buğu önleme performansı artar. Bu sayılar sıcaklık, kalınlık ya da saat cinsinden süre değildir; göreli bir performans seviyesidir.",
+          "Ilıman iklimde ve kısa şehir içi kullanımda alt seviye yeterli olabilir; soğuk, yağışlı ve uzun sürüşlerde üst seviyeler belirgin fark yaratır. Ayrıca gece kullanımına uygun yüksek ışık geçirgenliğine sahip lensler ve renkli seçenekler de bulunur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Takma ve bakım",
+        "paragraphs": [
+          "Vizörü kasktan çıkar, pimlerin yerinde olduğundan emin ol, vizörü hafifçe bükerek lensi pimlerin arasına yerleştir ve silikon contanın vizöre her noktada temas ettiğini kontrol et. Lensin koruyucu filmini çıkarmayı unutma.",
+          "Pinlock'un önerisi, lensi ve vizörü yalnızca mineral su ile durulamak, kalan lekeleri temiz ve ıslak bir mikrofiber bezle silmek ve parçaları dik konumda kendiliğinden kurumaya bırakmaktır. Lens yüzeyi çizilmeye hassastır; kuru bezle sertçe silme. Zamanla lens gevşer ve kenarlardan hava alırsa pimleri bir miktar çevirerek gerginliği artırabilirsin."
+        ],
+        "bullets": [
+          "Conta ile vizör arasında boşluk kalırsa iki yüzey arasında buğu oluşur",
+          "Lensin iç yüzeyini parmakla ovalama",
+          "Güneş almayan, kuru ve tozsuz bir yerde sakla"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Lens ile vizör arasında buğu oluşuyor, neden?",
+        "a": "Bu genellikle conta vizöre tam oturmadığında olur. Lensi çıkarıp yeniden yerleştir; yine olmuyorsa pimleri çevirerek gerginliği artır."
+      },
+      {
+        "q": "Buğu önleyici sprey Pinlock'un yerini tutar mı?",
+        "a": "Spreyler geçici çözümdür ve düzenli yenilenmesi gerekir. Pinlock kalıcı bir ısı yalıtımı sağladığı için soğuk ve yağışlı havada genellikle çok daha güvenilir sonuç verir."
+      },
+      {
+        "q": "Her kaska Pinlock takılabilir mi?",
+        "a": "Hayır. Vizörün Pinlock hazır olması, yani pim yuvaları bulunması gerekir. Bazı kasklarda farklı buğu önleme çözümleri kullanılır."
+      },
+      {
+        "q": "Pinlock görüşü bozar mı?",
+        "a": "Doğru takılmış ve temiz bir lens görüşü belirgin biçimde etkilemez. Kirli ya da çizik lens ise özellikle gece far ışığında yansıma yapabilir; bu durumda lensi değiştir."
+      }
+    ],
+    "relatedGuides": ["kask-nasil-secilir", "yagmurda-motosiklet-ekipmani", "kislik-motosiklet-ekipmani"],
+    "relatedCategories": ["kask", "kask/touring-kask", "kask/kapali-kask"],
+    "sources": [
+      { "url": "https://www.pinlock.com/technology", "type": "manufacturer", "label": "Pinlock: teknoloji ve pim sistemleri", "checkedAt": "2026-10-06" },
+      { "url": "https://www.pinlock.com/support", "type": "manufacturer", "label": "Pinlock: destek ve SSS (takma, temizlik, DKS kodu)", "checkedAt": "2026-10-06" },
+      { "url": "https://pinlock.com/products", "type": "manufacturer", "label": "Pinlock: ürünler ve buğu performans seviyeleri", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

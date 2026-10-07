@@ -1,0 +1,574 @@
+[
+  {
+    "product": "cardo/packtalk-pro",
+    "images": [
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/PacktalkPro_01.webp",
+        "alt": "Cardo Packtalk Pro interkom ünitesi",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/packtalk-pro"
+      },
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/PacktalkPro_02.webp",
+        "alt": "Cardo Packtalk Pro, farklı açıdan görünüm",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/packtalk-pro"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "lEwsaeXeZuI",
+        "title": "PACKTALK PRO:  Full Tutorial",
+        "channel": "Cardo Systems",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "3Lb0ggFiUaI",
+        "title": "Cardo PackTalk Pro Headset Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "cardo/packtalk-neo",
+    "images": [
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/PTNEOUNITMockup6.png",
+        "alt": "Cardo Packtalk Neo interkom ünitesi",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/packtalk-neo"
+      },
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/Neo_Close.jpg",
+        "alt": "Cardo Packtalk Neo kask üzerinde yakın plan",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/packtalk-neo"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "jeH_hTVZaQI",
+        "title": "Cardo Packtalk NEO Full Tutorial",
+        "channel": "Cardo Systems",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "ws-UkVTotKk",
+        "title": "Cardo Packtalk Neo Bluetooth Headset Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "cardo/freecom-2x",
+    "images": [
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/Freecom2x_02.png",
+        "alt": "Cardo Freecom 2x interkom ünitesi",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/freecom-2x"
+      },
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/Freecom2x_04.png",
+        "alt": "Cardo Freecom 2x, farklı açıdan görünüm",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/freecom-2x"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "BcOv5H5tR0Y",
+        "title": "How to Use Your Cardo Freecom 2x & 4x",
+        "channel": "Cardo Systems",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "tey_bSVhD20",
+        "title": "CARDO FREECOM X Serisi Motosiklet İnterkomları (Özen Tv)",
+        "channel": "Özen TV",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "rtj8z88D5dY",
+        "title": "Cardo Freecom 2X Bluetooth Headset Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "cardo/spirit-hd",
+    "images": [
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/Spirit_SpiritHD.png",
+        "alt": "Cardo Spirit HD interkom ünitesi",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/spirit-hd"
+      },
+      {
+        "url": "https://cardosystems.com/cdn/shop/files/SpiritHDSingle_Sleeve.png",
+        "alt": "Cardo Spirit HD tekli paket",
+        "credit": "Cardo",
+        "sourcePage": "https://www.cardosystems.com/products/spirit-hd"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "rtjI_aOzDvc",
+        "title": "Meet the Cardo SPIRIT and SPIRIT HD",
+        "channel": "Cardo Systems",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "Pd8BdiN9eM0",
+        "title": "Cardo Spirit HD Bluetooth Headset Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/50r",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/50r_main.png",
+        "alt": "Sena 50R interkom ünitesi",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/50r/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/50r_overview.jpg",
+        "alt": "Sena 50R kask üzerinde",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/50r/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "FiHQyfKV_ws",
+        "title": "Sena 50R Ürün İncelemesi",
+        "channel": "MOTOMAX",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "4VTEv4qMWCQ",
+        "title": "Nekipedia'dan Onur Çakı'nın Sena 50R Mesh Interkom İncelemesi",
+        "channel": "MOTOMAX",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "L6SVNyCBJAE",
+        "title": "50R - Phone Pairing",
+        "channel": "Sena",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/spider-st1",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/spider-st1_main.png",
+        "alt": "Sena Spider ST1 interkom ünitesi",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/spider-st1/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/spider-st1_overview.jpg",
+        "alt": "Sena Spider ST1 kask üzerinde",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/spider-st1/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "VG5oHUlLO5Y",
+        "title": "Sena Spider ST1 Intercom İnceleme",
+        "channel": "MotorcuMuhabbeti",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "CyKVC5h0HQk",
+        "title": "Sena Tech Talk: SPIDER ST1 & RT1 Cost Effective Mesh Intercom Headsets",
+        "channel": "Sena",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "Ou3uQiTpzvI",
+        "title": "Sena Spider ST1 motorcycle intercom review - Sportsbikeshop",
+        "channel": "SPORTSBIKESHOP.co.uk",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/spider-rt1",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/spider-rt1_main.png",
+        "alt": "Sena Spider RT1 interkom ünitesi",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/spider-rt1/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/Spider-rt1_overview-1.jpg",
+        "alt": "Sena Spider RT1 kask üzerinde",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/spider-rt1/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "CyKVC5h0HQk",
+        "title": "Sena Tech Talk: SPIDER ST1 & RT1 Cost Effective Mesh Intercom Headsets",
+        "channel": "Sena",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "3kpPbZKJk7A",
+        "title": "Sena Spider RT1 and ST1 Mesh Comm Systems Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "8ZwJyre9ZP0",
+        "title": "Sena Spider RT1 and ST1 Bluetooth Headset Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/sf4",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/sf4_main.png",
+        "alt": "Sena SF4 interkom ünitesi",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/sf4/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/sf4_overview.jpg",
+        "alt": "Sena SF4 kask üzerinde",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/sf4/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "8CUkVdZTEio",
+        "title": "SENA'nın ince ve akıllı modeli SF4 interkom incelemesi",
+        "channel": "MOTOMAX",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "utrccV5cWwQ",
+        "title": "Sena Tech Talk: SF Series | Overview | Install | Motorcycle Bluetooth Comms",
+        "channel": "Sena",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/srl-ext",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/srl-ext_main.png",
+        "alt": "Sena SRL-EXT kaska özel interkom",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/srl-ext/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/srl-ext_SHOEI-RF-1400_left.png",
+        "alt": "Sena SRL-EXT takılı Shoei kask, sol taraf",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/srl-ext/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "yn8M1PsJUuQ",
+        "title": "Sena SRL-EXT | Shoei RF-1400 Install | Overview | Motorcycle Comms",
+        "channel": "Sena",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "tfvbBY5U7Rw",
+        "title": "Sena SRL-EXT Bluetooth Headset for Shoei RF-1400 Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sena/5r",
+    "images": [
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/5r_main.png",
+        "alt": "Sena 5R interkom ünitesi",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/5r/"
+      },
+      {
+        "url": "https://www.sena.com/wp-content/uploads/2023/12/5r_overview.jpg",
+        "alt": "Sena 5R kask üzerinde",
+        "credit": "Sena",
+        "sourcePage": "https://www.sena.com/product/5r/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "hfsdKHeyfjk",
+        "title": "Sena Tech Talk: 5R/5R Lite | Overview | Install",
+        "channel": "Sena",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "midland/btx2-pro-s-lr",
+    "images": [
+      {
+        "url": "https://www.midlandeurope.com/media/cache/product_gallery/f0/bc/db37a3829c7072c859e53ef90fbf.jpg",
+        "alt": "Midland BTX2 Pro S LR interkom ünitesi",
+        "credit": "Midland",
+        "sourcePage": "https://www.midlandeurope.com/en_150/products/btx2-pro-s-lr"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "TVBmj8I3iQE",
+        "title": "Interfono BTX2 PRO S LR - Midland",
+        "channel": "Triogroup",
+        "kind": "inceleme",
+        "lang": "it",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "midland/r1-mesh",
+    "images": [
+      {
+        "url": "https://www.midlandeurope.com/media/cache/product_gallery/1d/92/5bed9d22bfd1926042e3805bddb3.jpg",
+        "alt": "Midland R1 Mesh interkom ünitesi",
+        "credit": "Midland",
+        "sourcePage": "https://www.midlandeurope.com/en_150/products/r1-mesh-intercom-midland"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "nWoEIq2HyPM",
+        "title": "Tutorial R1 Mesh ENG",
+        "channel": "Midland World",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "n1wVM61efrg",
+        "title": "Midland R1 Mesh, Is it really segment killer? | Zoomer Garage",
+        "channel": "Motozoomer",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "interphone/u-com-8r",
+    "images": [
+      {
+        "url": "https://interphone.com/cdn/shop/files/INTERPHOUCOM8R-01-MAIN-HR_2048x.jpg?v=1715794012",
+        "alt": "Interphone U-COM 8R interkom ünitesi",
+        "credit": "Interphone",
+        "sourcePage": "https://interphone.com/products/interphone-u-com-8r"
+      },
+      {
+        "url": "https://interphone.com/cdn/shop/files/INTERPHOUCOM8R-04-FRONT-HR_2048x.jpg?v=1715794011",
+        "alt": "Interphone U-COM 8R önden görünüm",
+        "credit": "Interphone",
+        "sourcePage": "https://interphone.com/products/interphone-u-com-8r"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Mew1cj4Tqds",
+        "title": "U-com 8R I How to activate the main functions",
+        "channel": "Interphone",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "tNWoCkKsp2U",
+        "title": "Interphone U-COM 8R Bluetooth Intercom System - GhostBikes",
+        "channel": "GhostBikes.com",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "interphone/era-1x",
+    "images": [
+      {
+        "url": "https://interphone.com/cdn/shop/files/INTERPHOERA1X_14_ZENITHFRONT_HR_0ae8b550-24b7-464b-8b04-811b9e22f6f7_2048x.jpg",
+        "alt": "Interphone ERA 1X interkom ünitesi önden",
+        "credit": "Interphone",
+        "sourcePage": "https://interphone.com/products/interphone-era-1-x"
+      },
+      {
+        "url": "https://interphone.com/cdn/shop/files/INTERPHOERA1X_15_ZENITH_HR_2048x.jpg",
+        "alt": "Interphone ERA 1X üstten görünüm",
+        "credit": "Interphone",
+        "sourcePage": "https://interphone.com/products/interphone-era-1-x"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Sd31OioNsYU",
+        "title": "ERA 1X Tutorial | Setup, Features & First Configuration",
+        "channel": "Interphone",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "xmYWWRyAkFs",
+        "title": "Interphone ERA 1X Review  The New King of Motorcycle Intercoms",
+        "channel": "AdvExplorerOz",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "ejeas/q7",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0670/2402/7714/files/Q7-01.jpg?v=1773127933",
+        "alt": "EJEAS Q7 interkom ünitesi",
+        "credit": "EJEAS",
+        "sourcePage": "https://www.ejeas.com/products/q7"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0670/2402/7714/files/Q7-06.jpg?v=1773127933",
+        "alt": "EJEAS Q7 özellik görseli",
+        "credit": "EJEAS",
+        "sourcePage": "https://www.ejeas.com/products/q7"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "ZFj9QFemBAA",
+        "title": "Uzaktan Kumandalı İntercom Seti | Ejeas Q7 Bluetooth İntercom Seti",
+        "channel": "MOTORDAYIM",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "p0Ca39P4y68",
+        "title": "EJEAS Q7 INTERCOM REVIEW | MURAH MERIAH MUANTAP !!",
+        "channel": "DimzyDimz",
+        "kind": "inceleme",
+        "lang": "id",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "ejeas/q8",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0670/2402/7714/files/Q8-views-01.jpg?v=1773127895",
+        "alt": "EJEAS Q8 mesh interkom ünitesi",
+        "credit": "EJEAS",
+        "sourcePage": "https://www.ejeas.com/products/q8"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0670/2402/7714/files/Q8-detail-2.jpg?v=1778062998",
+        "alt": "EJEAS Q8 detay görseli",
+        "credit": "EJEAS",
+        "sourcePage": "https://www.ejeas.com/products/q8"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "VUtMUr2SGlk",
+        "title": "Ejeas Q8 Intercom Uzun Dönem İnceleme | Size Hediye Ediyoruz #işbirliği",
+        "channel": "Adventure İstanbul",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "6PGmIZo_bg8",
+        "title": "EJEAS Q8 | UNBOXING & ALL FUNCTION OPERATION | MOTORCYCLE HELMET MESH INTERCOM",
+        "channel": "EJEAS Intercom",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "7oqHulbKpF4",
+        "title": "The Best Budget Mesh Motorcycle Intercoms - EJEAS Q8 Review",
+        "channel": "Helmet Head",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

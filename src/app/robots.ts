@@ -1,12 +1,9 @@
-import { MetadataRoute } from 'next';
+import type { MetadataRoute } from "next";
+import { abs } from "@/lib/site";
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: ['/hesabim', '/favoriler', '/api/', '/arama?*'],
-    },
-    sitemap: 'https://motorcukiyafeti.com/sitemap.xml',
+    rules: [{ userAgent: "*", allow: "/", disallow: ["/arama", "/favoriler", "/*?*urunler="] }],
+    sitemap: abs("/sitemap.xml"),
   };
 }

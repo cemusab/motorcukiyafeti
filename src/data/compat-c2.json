@@ -1,0 +1,119 @@
+[
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "cardo/packtalk-edge",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Edge ünitesinin Shoei Neotec 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "cardo/packtalk-pro",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Pro ünitesinin Shoei Neotec 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "cardo/packtalk-neo",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Neo ünitesinin Shoei Neotec 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "cardo/packtalk-edge",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Edge ünitesinin Shoei GT-Air 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "cardo/packtalk-pro",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Pro ünitesinin Shoei GT-Air 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "cardo/packtalk-neo",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Neo ünitesinin Shoei GT-Air 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-cruise-3",
+    "intercom": "cardo/packtalk-edge",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Edge ünitesinin Shoei J-Cruise 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-cruise-3",
+    "intercom": "cardo/packtalk-pro",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Pro ünitesinin Shoei J-Cruise 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "helmet": "shoei/j-cruise-3",
+    "intercom": "cardo/packtalk-neo",
+    "level": "adaptor",
+    "note": "Cardo, Packtalk Neo ünitesinin Shoei J-Cruise 3 kaskın hazır montaj noktasına takılması için resmi \"Adapter for SHOEI Gen 3 Helmets\" aparatını sunuyor. Ünite kızağı bu adaptöre oturuyor.",
+    "verified": true,
+    "source": {
+      "url": "https://www.cardosystems.com/products/shoei-adapter-gen3",
+      "type": "manufacturer",
+      "label": "Cardo Systems – Adapter for SHOEI Gen 3 Helmets",
+      "checkedAt": "2026-10-07"
+    }
+  }
+]

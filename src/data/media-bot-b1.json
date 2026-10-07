@@ -1,0 +1,475 @@
+[
+  {
+    "product": "alpinestars/supertech-r",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2220021-1100-r3_supertech-r-boot_9a9d44d7-89c5-47c7-bf81-7375ba50f4a8.png",
+        "alt": "Alpinestars Supertech R motosiklet botu, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/supertech-r-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2220021-1100-fr_supertech-r-boot_9741b924-09cf-4267-a1c4-a11bb305767a.png",
+        "alt": "Alpinestars Supertech R motosiklet botu, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/supertech-r-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2220021-1100-r1_supertech-r-boot_800bb2d4-7e66-4ef3-8210-ff4a1b9306b2.png",
+        "alt": "Alpinestars Supertech R motosiklet botu, iç yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/supertech-r-boots"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "dP6btMkEWww",
+        "title": "Ep 03.3 - Deep Dive with Alpinestars - Supertech R Boots & GP Tech V2 Gloves",
+        "channel": "Motovation USA ",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "alpinestars/smx-plus-v2",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2221019-10-fr_smx-plus-v2-boot_9729f730-7d9d-4dfa-9323-fbb5db3f5c4a.png",
+        "alt": "Alpinestars SMX Plus v2 motosiklet botu, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/smx-plus-boots"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/toucan-gore-tex",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037014-10-toucan-gore-tex-boot-blk.png",
+        "alt": "Alpinestars Toucan Gore-Tex motosiklet botu, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/toucan-gore-tex-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037014-10-TOUCANROT3_1_558810e6-e32d-4105-a068-0d10d11c0f85.png",
+        "alt": "Alpinestars Toucan Gore-Tex motosiklet botu, çapraz görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/toucan-gore-tex-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037014-10-TOUCAN-ROT1.png",
+        "alt": "Alpinestars Toucan Gore-Tex motosiklet botu, iç yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/toucan-gore-tex-boots"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "WuIaFlZYTBc",
+        "title": "Alpinestars Toucan Gore-Tex Boots Review: The Ultimate Adventure Touring Boot?",
+        "channel": "Motorcycle.com",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "alpinestars/tech-10",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2010020-20-r3_tech-10-boot_1911050a-b601-4a85-8c5a-fc9bc89a2ec4.png",
+        "alt": "Alpinestars Tech 10 motosiklet botu, beyaz, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/tech-10-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2010020-20-fr_tech-10-boot_8451ae6a-e491-488e-bd07-120e449d4874.png",
+        "alt": "Alpinestars Tech 10 motosiklet botu, beyaz, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/tech-10-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2010020-20-r4_tech-10-boot.png",
+        "alt": "Alpinestars Tech 10 motosiklet botu, beyaz, arkadan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/tech-10-boots"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/faster-3-rideknit",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2510319-10-r3_faster-3-rideknit-shoe.png",
+        "alt": "Alpinestars Faster-3 Rideknit motosiklet botu, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/faster-3-rideknit-sup-reg-sup-shoes"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2510319-10-fr_faster-3-rideknit-shoe.png",
+        "alt": "Alpinestars Faster-3 Rideknit motosiklet botu, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/faster-3-rideknit-sup-reg-sup-shoes"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2510319-10-r1_faster-3-rideknit-shoe_ceb50325-e996-40f9-a3ce-ae3e902f7a48.png",
+        "alt": "Alpinestars Faster-3 Rideknit motosiklet botu, iç yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/faster-3-rideknit-sup-reg-sup-shoes"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/stella-smx-6-v3",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2223125-12-r3_stella-smx-6-v3_c76cb808-b6ad-4193-8427-ccec76afebcc.png",
+        "alt": "Alpinestars Stella SMX-6 v3 motosiklet botu, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-smx-6-v3-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2223125-12-fr_stella-smx-6-v3-boot_49247705-513a-4b87-9fa5-fcf39f464a9d.png",
+        "alt": "Alpinestars Stella SMX-6 v3 motosiklet botu, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-smx-6-v3-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2223125-12-r1_stella-smx-6-v3_19c66188-2fe3-49b8-8434-4d07b110b8b1.png",
+        "alt": "Alpinestars Stella SMX-6 v3 motosiklet botu, iç yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-smx-6-v3-boots"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "dainese/axial-2",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/5a4dda15-e2f2-4519-bf26-df0c9d617c6e/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Axial 2 motosiklet botu, siyah/kırmızı fluo, çift görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/axial-2---mens-motorcycle-racing-boots-2017900052628.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/94f4e750-6e87-49ac-8d52-a377a11ebb81/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Axial 2 motosiklet botu, dış yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/axial-2---mens-motorcycle-racing-boots-2017900052628.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/51f565b1-ee64-4d9c-bc50-975fa22d4f73/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Axial 2 motosiklet botu, iç yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/axial-2---mens-motorcycle-racing-boots-2017900052628.html"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "qfzKAgCBNiw",
+        "title": "Axial 2 boots🔻| Dainese",
+        "channel": "Dainese",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "pFurwtEY6eo",
+        "title": "Dainese Axial 2 Boots Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "dainese/seeker-gore-tex",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/3c0f1c99-4642-4fa1-b1c8-21fda118716f/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Seeker Gore-Tex motosiklet botu, siyah, çift görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/seeker-gore-tex---mens-waterproof-motorcycle-touring-boots-201795241631.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/839a8e30-de12-4ec5-b07b-da2f6d5e6552/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Seeker Gore-Tex motosiklet botu, dış yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/seeker-gore-tex---mens-waterproof-motorcycle-touring-boots-201795241631.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/21bdb439-59ee-4f26-bd26-a63c064ccd40/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Seeker Gore-Tex motosiklet botu, iç yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/seeker-gore-tex---mens-waterproof-motorcycle-touring-boots-201795241631.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "dainese/freeland-2-gore-tex",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/40f0ecc6-c085-4f51-9f77-105229f5f790/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Freeland 2 Gore-Tex motosiklet botu, siyah, çift görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/freeland-2-gore-tex---womens-waterproof-motorcycle-touring-boots-2017900188001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/f9f44042-6fad-4060-a875-4939b5357284/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Freeland 2 Gore-Tex motosiklet botu, dış yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/freeland-2-gore-tex---womens-waterproof-motorcycle-touring-boots-2017900188001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/f0f096af-0eb4-4710-8148-80c73a71d6ae/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Freeland 2 Gore-Tex motosiklet botu, iç yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/freeland-2-gore-tex---womens-waterproof-motorcycle-touring-boots-2017900188001.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tcx/street-3-wp",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/fc12d9af-dee8-4475-9cc8-68a6f6e95b62/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Street 3 WP motosiklet botu, siyah/beyaz, çift görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/street-3-wp---black-white-2017700063622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/08815ccb-5275-45ea-81bb-f0ad780e1209/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Street 3 WP motosiklet botu, dış yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/street-3-wp---black-white-2017700063622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/ab35ade9-081f-4879-a90b-e21847b4fd62/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Street 3 WP motosiklet botu, iç yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/street-3-wp---black-white-2017700063622.html"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "FJ67Nb1t-y8",
+        "title": "TCX Street 3 WP Shoes | Ride Tested",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "tcx/drifter-wp",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/998154df-c1ed-4540-9b7f-e8507176cb65/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Drifter WP motosiklet botu, koyu kahverengi, çift görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/drifter-wp-mens-waterproof-motorcycle-touring-boots---dark-brown-20179T7160W005.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/e23af639-73fc-44f3-86cb-5db482bf52b1/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Drifter WP motosiklet botu, dış yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/drifter-wp-mens-waterproof-motorcycle-touring-boots---dark-brown-20179T7160W005.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/b53269b7-ef49-402c-a34c-adb2dbfe02e1/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX Drifter WP motosiklet botu, iç yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/drifter-wp-mens-waterproof-motorcycle-touring-boots---dark-brown-20179T7160W005.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tcx/x-five-5-gore-tex",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/f5c4ddbd-76d2-4ef3-9633-77aef351c69f/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX X-Five 5 Gore-Tex motosiklet botu, siyah, çift görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/x-five-5-gore-tex-waterproof-motorcycle-boots-men---black-2017900088001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/0c94790f-d284-4db5-9422-0e3a234979d5/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX X-Five 5 Gore-Tex motosiklet botu, dış yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/x-five-5-gore-tex-waterproof-motorcycle-boots-men---black-2017900088001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/3c992271-51a5-485f-be8c-8620c6fe8f84/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "TCX X-Five 5 Gore-Tex motosiklet botu, iç yandan görünüm",
+        "credit": "TCX",
+        "sourcePage": "https://www.tcxboots.com/gb/en/x-five-5-gore-tex-waterproof-motorcycle-boots-men---black-2017900088001.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "sidi/rex",
+    "images": [
+      {
+        "url": "https://sidi.com/cdn/shop/files/000MVREXNER-Verticale-PDP.png",
+        "alt": "Sidi Rex motosiklet botu, siyah, yandan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/rex-ner-1"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/000MVREXNER_4SIDEBcopia.jpg",
+        "alt": "Sidi Rex motosiklet botu, iç yandan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/rex-ner-1"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/000MVREXNER_1FRONTcopia.jpg",
+        "alt": "Sidi Rex motosiklet botu, önden görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/rex-ner-1"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "sN3sSGlNc14",
+        "title": "SIDI Rex Boots Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "sidi/performer-gore",
+    "images": [
+      {
+        "url": "https://sidi.com/cdn/shop/files/ROAD_PERFGO_BKBK_1.png",
+        "alt": "Sidi Performer Gore motosiklet botu, siyah, yandan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/performer-gore-nene-20"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/ROAD_PERFGO_BKBK_02_HD.jpg",
+        "alt": "Sidi Performer Gore motosiklet botu, farklı açıdan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/performer-gore-nene-20"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/ROAD_PERFGO_BKBK_03_HD.jpg",
+        "alt": "Sidi Performer Gore motosiklet botu, farklı açıdan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/performer-gore-nene-20"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "sidi/adventure-2-gore",
+    "images": [
+      {
+        "url": "https://sidi.com/cdn/shop/files/aa4d64df-4759-4e1d-9adf-8594d6fcb2cf.jpg",
+        "alt": "Sidi Adventure 2 Gore motosiklet botu, yandan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/adventure-2-gore"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/fd56c3db-dd94-463d-88ac-a5f63819a4e8.jpg",
+        "alt": "Sidi Adventure 2 Gore motosiklet botu, farklı açıdan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/adventure-2-gore"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "forma/adventure-pro-dry",
+    "images": [
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2026/05/FORC31-W-24-est-grey-copia.jpg",
+        "alt": "Forma Adventure Pro Dry motosiklet botu, dış yandan görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/"
+      },
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2026/05/FORC31-W-24-int-grey-copia.jpg",
+        "alt": "Forma Adventure Pro Dry motosiklet botu, iç yandan görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/"
+      },
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2026/05/FORC31-W-24-coppia-grey-copia.jpg",
+        "alt": "Forma Adventure Pro Dry motosiklet botu, çift görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/"
+      },
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2026/06/infografica-adventure-pro-dry_en.png",
+        "alt": "Forma Adventure Pro Dry motosiklet botu, özellik infografiği",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/adventure-pro-dry/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "forma/terra-evo-dry",
+    "images": [
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2022/05/FORC51W-24-est-GREY.jpg",
+        "alt": "Forma Terra Evo Dry motosiklet botu, dış yandan görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/terra-evo-dry/"
+      },
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2022/05/FORC51W-24-int-GREY.jpg",
+        "alt": "Forma Terra Evo Dry motosiklet botu, iç yandan görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/terra-evo-dry/"
+      },
+      {
+        "url": "https://www.formaboots.com/wp-content/uploads/2022/05/FORC51W-24-coppia-GREY.jpg",
+        "alt": "Forma Terra Evo Dry motosiklet botu, çift görünüm",
+        "credit": "Forma",
+        "sourcePage": "https://www.formaboots.com/en/prodotto/terra-evo-dry/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "gaerne/g-midland-gore-tex",
+    "images": [
+      {
+        "url": "https://cdn11.bigcommerce.com/s-jlllz4osw7/images/stencil/1280x1280/products/1265/5395/2528_001_E__70570.1705567689.jpg?c=1",
+        "alt": "Gaerne G.Midland Gore-Tex motosiklet botu, siyah, dış yandan görünüm",
+        "credit": "Gaerne",
+        "sourcePage": "https://gaerne.com/g_midland-gore-tex-black/"
+      },
+      {
+        "url": "https://cdn11.bigcommerce.com/s-jlllz4osw7/images/stencil/1280x1280/products/1265/5397/2528_001_F__40394.1705567689.jpg?c=1",
+        "alt": "Gaerne G.Midland Gore-Tex motosiklet botu, önden görünüm",
+        "credit": "Gaerne",
+        "sourcePage": "https://gaerne.com/g_midland-gore-tex-black/"
+      },
+      {
+        "url": "https://cdn11.bigcommerce.com/s-jlllz4osw7/images/stencil/1280x1280/products/1265/5403/2528_001_I__52877.1705567690.jpg?c=1",
+        "alt": "Gaerne G.Midland Gore-Tex motosiklet botu, iç yandan görünüm",
+        "credit": "Gaerne",
+        "sourcePage": "https://gaerne.com/g_midland-gore-tex-black/"
+      }
+    ],
+    "videos": []
+  }
+]

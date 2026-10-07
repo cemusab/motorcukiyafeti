@@ -1,0 +1,2318 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-1-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-2xl",
+        "price": 2190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 2190,
+      "max": 2190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli."
+    },
+    "unverified": [
+      "specs.material",
+      "specs.materialClass",
+      "specs.ceClass",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizeChart",
+      "colors"
+    ],
+    "rivals": [
+      "scudo/parma-lady-wp1",
+      "tex-motor/forte-gt-15",
+      "tech90/vecton-guanti-winter-pro"
+    ],
+    "slug": "parma-wp-carbon-1",
+    "brand": "scudo",
+    "name": "Scudo Parma WP Carbon 1",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "EN 13594:2015 sertifikalı, su geçirmez, dokunmatik parmak uçlu ve avuç içi korumalı; ilkbahar, sonbahar ve kış için Scudo'nun uzun parmaklı yerli eldiveni.",
+    "description": [
+      "Parma WP Carbon 1, Scudo'nun su geçirmez Parma serisinde soğuk ve yağışlı aylar için konumlandırdığı uzun parmaklı eldiven. Üretici eldiveni ilkbahar, sonbahar ve kış kullanımı için öneriyor; su geçirmez yapı, dokunmatik parmak uçları, tutuşu artıran avuç yüzeyi ve kolay ayarlanan bilek kayışı temel özellikler olarak sıralanıyor.",
+      "Koruma tarafında dışta darbe koruması ve avuç içi koruması var; eldiven CE EN 13594:2015 sertifikalı. Sertifika seviyesi (Level 1/2, KP), dış malzeme, membranın adı ve yalıtım dolgusunun ne olduğu ürün sayfasında belirtilmiyor. Scudo kalıbın dar olduğunu ve bir beden büyük alınmasını öneriyor; kalın içlik kullanmayı düşünüyorsan bunu hesaba kat."
+    ],
+    "forWho": [
+      "Kışın ve yağmurda da motosiklet kullanmak zorunda olan kuryeler ve günlük kullanıcılar",
+      "Sertifikalı, su geçirmez ve uygun fiyatlı yerli eldiven arayanlar",
+      "Telefonu eldiveni çıkarmadan kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Sıfırın altındaki sıcaklıklarda uzun süre sürenler: yalıtım değeri belirtilmiyor, ısıtmalı eldiven daha uygun olabilir",
+      "Sportif sürüş için uzun bilekli, sert korumalı deri eldiven arayanlar"
+    ],
+    "pros": [
+      "CE EN 13594:2015 sertifikalı",
+      "Su geçirmez yapı",
+      "Dokunmatik parmak uçları",
+      "Türkiye'de üretici mağazasında stoklu ve uygun fiyatlı"
+    ],
+    "cons": [
+      "Sertifika seviyesi, malzeme ve membran bilgisi verilmiyor",
+      "Dar kalıp; beden seçimi dikkat ister",
+      "Yalıtım kalınlığı ve sıcaklık aralığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir içi kullanım için uygun; dokunmatik uçlar navigasyon ve telefon için pratik.",
+      "uzunYol": "Serin ve yağışlı turlarda iş görür; çok soğuk havada ek önlem gerekebilir.",
+      "yaz": "Su geçirmez ve kışlık yapısı nedeniyle yazın terletir.",
+      "kis": "Üretici kış kullanımı için öneriyor; yalıtım seviyesi belirtilmediği için dondurucu soğukta sınırlı kalabilir.",
+      "yagmur": "Su geçirmez olarak tanımlanıyor.",
+      "kurye": "Kış ve yağmurlu günlerde kurye kullanımı için mantıklı, sertifikalı ve ekonomik bir seçenek."
+    },
+    "verdict": "Parma WP Carbon 1, zorunlu eldiven kuralı sonrası kışın da çalışan kuryeler ve günlük sürücüler için ekonomik, sertifikalı ve su geçirmez bir yerli seçenek. Teknik ayrıntılar (seviye, membran, yalıtım) belirsiz kaldığı için çok soğuk iklimde daha detaylı belgelenmiş modellerle kıyaslamak gerekir.",
+    "faq": [
+      {
+        "q": "Parma WP Carbon 1 kış için yeterli mi?",
+        "a": "Üretici ilkbahar, sonbahar ve kış için öneriyor ve su geçirmez olduğunu belirtiyor. Yalıtım değeri verilmediği için çok soğuk günlerde elcik ısıtma veya ince bir iç eldiven ile desteklemek gerekebilir."
+      },
+      {
+        "q": "Beden nasıl seçilmeli?",
+        "a": "Scudo kalıbın dar olduğunu ve bir beden büyük alınmasını tavsiye ediyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-1-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-2xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-1-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma WP Carbon 1 Waterproof ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-lady-wp1-waterproof-uzun-parmak-kadin-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+        "price": 2190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 2190,
+      "max": 2190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli."
+    },
+    "unverified": [
+      "specs.material",
+      "specs.materialClass",
+      "specs.ceClass",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "scudo/parma-lady-1",
+      "ixs/rapid-stx-1-0-damen",
+      "klim/womens-adventure-gtx-short"
+    ],
+    "slug": "parma-lady-wp1",
+    "brand": "scudo",
+    "name": "Scudo Parma Lady WP1 Kadın Eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Kadın sürücüler için su geçirmez, EN 13594:2015 sertifikalı, dokunmatik parmak uçlu ve avuç içi korumalı Scudo kışlık uzun parmak eldiven.",
+    "description": [
+      "Parma Lady WP1, Scudo'nun yaz modeli Parma Lady 1'in su geçirmez, soğuk aylara yönelik kardeşi. Üretici eldiveni ilkbahar, sonbahar ve kış için öneriyor; su geçirmez dış yapı, dokunmatik parmak uçları, grip yüzeyli avuç ve kolay ayarlanan bilek kayışı öne çıkan özellikler.",
+      "Dışta darbe koruması ve avuç içi koruması bulunuyor, eldiven CE EN 13594:2015 sertifikalı. Sertifika seviyesi, dış malzeme, membran ve yalıtım türü ürün sayfasında açıklanmıyor. Kalıp dar; Scudo bir beden büyük alınmasını öneriyor. Beden aralığı XS'ten başladığı için küçük elli sürücüler için de seçenek var."
+    ],
+    "forWho": [
+      "Kışın ve yağmurda düzenli süren kadın sürücüler",
+      "Şehir içi ve şehirler arası kullanımda tek eldivenle idare etmek isteyenler",
+      "Küçük beden (XS) arayan kadınlar"
+    ],
+    "notFor": [
+      "Dondurucu soğukta uzun etaplar yapanlar: yalıtım değeri belirtilmiyor",
+      "Pist ve sportif sürüş için uzun bilekli, sert korumalı eldiven arayanlar"
+    ],
+    "pros": [
+      "Su geçirmez yapı",
+      "CE EN 13594:2015 sertifikalı",
+      "XS bedenden başlayan kadın kalıbı",
+      "Dokunmatik parmak uçları"
+    ],
+    "cons": [
+      "Malzeme, membran ve sertifika seviyesi belirtilmiyor",
+      "Dar kalıp",
+      "Yalıtım bilgisi yok"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanım için uygun.",
+      "uzunYol": "Serin ve yağışlı yolculuklarda işe yarar.",
+      "yaz": "Kışlık yapısı nedeniyle yazın sıcak gelir; yaz için Parma Lady 1 daha uygun.",
+      "kis": "Üretici kış için öneriyor; çok soğukta ek önlem gerekebilir.",
+      "yagmur": "Su geçirmez olarak tanımlanıyor.",
+      "kurye": "Kadın kuryeler için kış ve yağmurda dokunmatik uçlarıyla pratik bir seçenek."
+    },
+    "verdict": "Parma Lady WP1, kadın sürücüler için kış ve yağmurda kullanılabilecek, sertifikalı ve uygun fiyatlı bir yerli eldiven. Teknik detaylar sınırlı olsa da XS bedenden başlaması ve su geçirmez yapısı, şehir içi günlük kullanımda onu mantıklı kılıyor.",
+    "faq": [
+      {
+        "q": "Parma Lady 1 ile farkı ne?",
+        "a": "Parma Lady 1 su geçiren, yaz odaklı bir eldiven. WP1 ise su geçirmez yapıda ve üretici tarafından ilkbahar, sonbahar ve kış için öneriliyor."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Scudo kalıbın dar olduğunu belirtip bir beden büyük almayı öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-parma-lady-wp1-waterproof-uzun-parmak-kadin-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-lady-wp1-waterproof-uzun-parmak-kadin-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma Lady WP1 Waterproof ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Kırmızı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-2-dokunmatik-4-mevsim-motosiklet-eldiveni-kirmizi-2xl",
+        "price": 2190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [
+          "Kırmızı"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 2190,
+      "max": 2190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli."
+    },
+    "unverified": [
+      "specs.ceClass",
+      "sizeChart"
+    ],
+    "rivals": [
+      "scudo/parma-3",
+      "tex-motor/forte-gt-21",
+      "ixs/rapid-air-1-0"
+    ],
+    "slug": "parma-2",
+    "brand": "scudo",
+    "name": "Scudo Parma 2",
+    "subcategories": [
+      "yazlik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "İtalya'da üretilen, EN 13594:2015 sertifikalı, polyester gövdeli ve hakiki deri avuçlu, file panelli ve dokunmatik uçlu Scudo dört mevsim eldiveni.",
+    "description": [
+      "Parma 2, Scudo'nun 'dört mevsim' olarak tanımladığı, İtalya'da üretilen uzun parmaklı eldiveni. Ana gövde %100 polyester; avuç içi ve üst destek bölgeleri sürtünmeye karşı hakiki deriyle güçlendirilmiş. Terlemeyi azaltmak için file paneller, gece görünürlüğü için reflektif detaylar ve dokunmatik parmak uçları var.",
+      "Avuç içinde ve parmak eklemlerinde darbe emici korumalar bulunuyor; eldiven EN 13594:2015 sertifikalı. Su geçirmezlik iddiası yok ve file panelli yapı nedeniyle 'dört mevsim' ifadesini ılıman geçiş mevsimleri olarak okumak gerekir: yağmur ve kış için ayrı bir eldiven şart. Sertifika seviyesi belirtilmiyor; Scudo dar kalıp uyarısı yapıyor."
+    ],
+    "forWho": [
+      "İlkbahardan sonbahara kadar şehir içinde ve kısa turlarda kullanacak sürücüler",
+      "Kuru havada çalışan kuryeler",
+      "Uygun fiyata sertifikalı ve dokunmatik uçlu eldiven arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda ve kışın sürenler: su geçirmez değil ve file paneller soğuk alır",
+      "Sportif sürüş için sert kabuklu, uzun bilekli eldiven arayanlar"
+    ],
+    "pros": [
+      "EN 13594:2015 sertifikalı",
+      "Avuçta hakiki deri takviye",
+      "File paneller ve reflektif detaylar",
+      "Dokunmatik parmak uçları"
+    ],
+    "cons": [
+      "Su geçirmez değil; 'dört mevsim' iddiası kış için iyimser",
+      "Sertifika seviyesi belirtilmiyor",
+      "Dar kalıp"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; reflektif detaylar ve dokunmatik uçlar şehir içinde işe yarar.",
+      "uzunYol": "Kuru ve ılık havada kısa-orta turlar için yeterli.",
+      "yaz": "File paneller sayesinde ılık ve sıcak havada kullanılabilir.",
+      "kis": "Yalıtım ve su geçirmezlik yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Kuru havada çalışan kuryeler için ekonomik, sertifikalı bir günlük eldiven."
+    },
+    "verdict": "Parma 2, kuru havada şehir içi ve kurye kullanımı için uygun fiyatlı, sertifikalı ve deri avuçlu bir eldiven. Adındaki dört mevsim vurgusuna rağmen yağmur ve kış için ikinci, su geçirmez bir eldivene ihtiyaç duyarsın.",
+    "faq": [
+      {
+        "q": "Parma 2 kışın kullanılabilir mi?",
+        "a": "Üretici dört mevsim diyor ama eldiven file panelli ve su geçirmezlik iddiası yok. Soğuk ve yağışlı günler için Parma WP Carbon 1 gibi su geçirmez bir model daha uygun."
+      },
+      {
+        "q": "Nerede üretiliyor?",
+        "a": "Scudo ürün sayfasında Parma 2'nin İtalya'da üretildiği belirtiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-parma-2-dokunmatik-4-mevsim-motosiklet-eldiveni-kirmizi-2xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-2-dokunmatik-4-mevsim-motosiklet-eldiveni-kirmizi-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma 2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester gövde, hakiki deri avuç içi ve üst destek bölgeleri",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File (mesh) paneller",
+      "closure": null,
+      "madeIn": "İtalya"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah",
+      "Kırmızı",
+      "Sarı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-3-uzun-parmak-hakiki-deri-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+        "price": 2290,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 2290,
+      "max": 2290,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli."
+    },
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "scudo/parma-2",
+      "richa/protect-summer-2",
+      "alpinestars/sp-8-v3"
+    ],
+    "slug": "parma-3",
+    "brand": "scudo",
+    "name": "Scudo Parma 3",
+    "subcategories": [
+      "yazlik-eldiven",
+      "sport-eldiven"
+    ],
+    "summary": "Hakiki deri, EN 13594:2015 sertifikalı, dış darbe ve avuç içi korumalı, dokunmatik parmak uçlu Scudo yaz-bahar eldiveni; su geçirir.",
+    "description": [
+      "Parma 3, Scudo'nun hakiki deri gövdeli uzun parmak eldiveni. Üretici ilkbahar, yaz ve sonbahar için öneriyor ve eldivenin su geçirdiğini açıkça yazıyor. Dokunmatik parmak uçları, grip yüzeyli avuç ve kolay ayarlanan bilek kayışı günlük kullanımı kolaylaştırıyor.",
+      "Dışta darbe koruması ve avuç içi koruması var; eldiven CE EN 13594:2015 sertifikalı. Sertifika seviyesi ve koruma malzemesi açıklanmıyor. Deri gövde sürtünmeye karşı tekstile göre avantaj sağlar ama bilek kısa; montun manşetiyle iyi örtüşmesini kontrol et. Scudo dar kalıp uyarısı yapıyor."
+    ],
+    "forWho": [
+      "Bahar ve yaz aylarında deri eldiven tercih eden şehir içi ve tur sürücüleri",
+      "Uygun fiyatlı, sertifikalı deri eldiven arayanlar",
+      "Kuru havada çalışan kuryeler"
+    ],
+    "notFor": [
+      "Yağmurda sürenler: üretici su geçirdiğini belirtiyor",
+      "Pist ve yüksek tempolu sport sürüş için uzun bilekli Level 2 eldiven arayanlar"
+    ],
+    "pros": [
+      "Hakiki deri gövde",
+      "CE EN 13594:2015 sertifikalı",
+      "Dokunmatik parmak uçları",
+      "Sarı, kırmızı ve siyah renk seçenekleri"
+    ],
+    "cons": [
+      "Su geçirir",
+      "Sertifika seviyesi belirtilmiyor",
+      "Dar kalıp ve kısa bilek"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun.",
+      "uzunYol": "Kuru havada turlar için yeterli.",
+      "yaz": "Üretici yaz için öneriyor; delikli/file panel bilgisi olmadığından çok sıcakta terletebilir.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirir.",
+      "sport": "Hafif sportif sürüşe uygun; pist için yeterli değil.",
+      "kurye": "Kuru havada kurye kullanımı için dayanıklı bir deri seçenek."
+    },
+    "verdict": "Parma 3, deri hissi isteyen ve kuru havada süren kullanıcılar için uygun fiyatlı, sertifikalı bir seçenek. Su geçirmemesi ve sertifika seviyesinin açıklanmaması nedeniyle tek eldiven olarak değil, yaz-bahar eldiveni olarak düşünülmeli.",
+    "faq": [
+      {
+        "q": "Parma 3 su geçirmez mi?",
+        "a": "Hayır. Scudo ürün sayfasında eldivenin su geçirdiğini ve yaz, ilkbahar, sonbahar için olduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi renkler var?",
+        "a": "Scudo mağazasında siyah, kırmızı ve sarı varyantlar listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-parma-3-uzun-parmak-hakiki-deri-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-3-uzun-parmak-hakiki-deri-motosiklet-eldiveni-siyah-ce-en-13594-2015-sertifikali-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma 3 Siyah ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Hakiki deri",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-21-eldiven/",
+        "price": 1440,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1440,
+      "max": 1440,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "unverified": [
+      "specs.material",
+      "specs.materialClass",
+      "specs.ceClass",
+      "specs.closure",
+      "specs.madeIn",
+      "sizeChart",
+      "sizes",
+      "colors"
+    ],
+    "rivals": [
+      "scudo/parma-2",
+      "ixs/rapid-air-1-0",
+      "tex-motor/forte-gt-15"
+    ],
+    "slug": "forte-gt-21",
+    "brand": "tex-motor",
+    "name": "Forte GT 21",
+    "subcategories": [
+      "yazlik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "EN 13594:2015 sertifikalı, TPU kabuk korumalı, kauçuk-silikon kaymaz avuçlu, dokunmatik uyumlu ve reflektif detaylı Tex Motor Forte GT eldiveni.",
+    "description": [
+      "Forte GT 21, Tex Motor'un Forte GT serisinde 2026 başında listelenen, şehir içi ve uzun yol için konumlanan uzun parmaklı eldiveni. Üretici 3D ergonomik kalıp, kauçuk ve silikon kaplı kaymaz avuç ile ek kaymaz şeritler, dokunmatik uyumlu parmak uçları ve gece görünürlüğü için reflektif hatlar belirtiyor.",
+      "Koruma tarafında üst elde TPU kabuk ve darbe emici avuç içi koruması var; eldiven EN 13594:2015 sertifikalı. Sertifika seviyesi, dış malzeme ve bilek kapama tipi sayfada yazmıyor. Su geçirmezlik ya da yalıtım iddiası yok; bu nedenle kuru havaya yönelik bir eldiven olarak değerlendirmek gerekiyor. Tex Motor kendi sitesinden online satış yapmıyor, bayiler üzerinden satılıyor."
+    ],
+    "forWho": [
+      "Zorunlu eldiven kuralı sonrası uygun fiyatlı, sertifikalı ilk eldivenini arayan sürücüler",
+      "Kuru havada çalışan kuryeler",
+      "Navigasyonu eldiveni çıkarmadan kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve kışın sürenler: su geçirmezlik ve yalıtım belirtilmiyor",
+      "Sportif sürüş için uzun bilekli, deri eldiven arayanlar"
+    ],
+    "pros": [
+      "EN 13594:2015 sertifikalı",
+      "TPU kabuk ve avuç içi koruması",
+      "Kaymaz kauçuk-silikon avuç",
+      "Çok uygun liste fiyatı"
+    ],
+    "cons": [
+      "Sertifika seviyesi ve malzeme bilgisi yok",
+      "Su geçirmez değil",
+      "Resmi sitede online satış yok, bayiden temin gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; reflektif detaylar ve dokunmatik uçlar şehir içinde işe yarar.",
+      "uzunYol": "Üretici uzun yol için de öneriyor; kuru havada kullanılabilir.",
+      "yaz": "Ilık ve sıcak havada kullanılabilir; havalandırma detayı belirtilmiyor.",
+      "kis": "Yalıtım yok; kış için uygun değil.",
+      "yagmur": "Su geçirmezlik iddiası yok.",
+      "kurye": "Kuru havada kurye kullanımı için düşük maliyetli, sertifikalı bir seçenek."
+    },
+    "verdict": "Forte GT 21, düşük bütçeyle sertifikalı ve sert kabuk korumalı bir eldiven arayan şehir içi sürücü ve kuryeler için mantıklı bir başlangıç. Su geçirmezlik olmadığı ve teknik detaylar sınırlı olduğu için yağmur ve kış için ikinci bir eldiven gerekecek.",
+    "faq": [
+      {
+        "q": "Forte GT 21 sertifikalı mı?",
+        "a": "Evet, Tex Motor ürün sayfasında EN 13594:2015 sertifikalı olduğu belirtiliyor; seviye bilgisi verilmiyor."
+      },
+      {
+        "q": "Nereden alınır?",
+        "a": "Tex Motor kendi sitesinden online satış yapmıyor; mağazaları ve online satış yapan bayileri üzerinden satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-21-eldiven/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-21-eldiven/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 21 Eldiven ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-15-eldiven/",
+        "price": 1365,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1365,
+      "max": 1365,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.materialClass",
+      "specs.protectors",
+      "specs.madeIn",
+      "sizeChart",
+      "sizes",
+      "colors"
+    ],
+    "rivals": [
+      "scudo/parma-wp-carbon-1",
+      "tech90/vecton-guanti-winter-pro",
+      "tex-motor/forte-gt-21"
+    ],
+    "slug": "forte-gt-15",
+    "brand": "tex-motor",
+    "name": "Forte GT 15",
+    "subcategories": [
+      "kislik-eldiven"
+    ],
+    "summary": "Yünlü iç astarlı, rüzgar kesici ve su itici dış yüzeyli, uzun bilekli Tex Motor Forte GT kışlık eldiven; sertifika bilgisi verilmiyor.",
+    "description": [
+      "Forte GT 15, Tex Motor'un kış için önerdiği uzun bilekli eldiveni. İçte ısı yalıtımı sağlayan yumuşak yünlü astar, dışta soğuk rüzgarı kesen kumaş ve hafif yağışa karşı su itici kaplama var. Bilekteki ayarlanabilir cırt bant soğuğun girmesini azaltıyor; uzun manşet montun kolunun üzerine gelecek şekilde tasarlanmış.",
+      "Ürün sayfasında EN 13594 sertifikası, darbe koruması ya da avuç içi takviyesi belirtilmiyor. Türkiye'de Kasım 2025'ten beri motosiklet sürücüleri için koruyucu eldiven zorunlu olduğundan, satın almadan önce bayiden eldivenin sertifika etiketini görmek önemli. Ayrıca 'su itici' ifadesi su geçirmez anlamına gelmiyor; uzun süreli yağmurda ıslanma beklenmeli."
+    ],
+    "forWho": [
+      "Kışın kısa şehir içi sürüşlerde elini sıcak tutacak ucuz bir eldiven arayanlar",
+      "Uzun manşetli, mont kolunun üzerine giyilen eldiven tercih edenler"
+    ],
+    "notFor": [
+      "Sertifikalı koruyucu eldiven şartını karşılamak isteyenler: sayfada EN 13594 bilgisi yok",
+      "Sağanak yağmurda süren kuryeler: su geçirmez değil, su itici",
+      "Sportif sürüş yapanlar"
+    ],
+    "pros": [
+      "Yünlü iç astar ve rüzgar kesici dış yüzey",
+      "Uzun, mont kolunun üstüne gelen manşet",
+      "Çok düşük liste fiyatı"
+    ],
+    "cons": [
+      "EN 13594 sertifikası belirtilmiyor",
+      "Darbe koruması tanımlanmıyor",
+      "Su geçirmez değil, yalnızca su itici"
+    ],
+    "usage": {
+      "sehir": "Kışın kısa şehir içi sürüşlerde sıcaklık sağlar.",
+      "uzunYol": "Koruma bilgisi olmadığı için uzun yolda tercih edilmesi önerilmez.",
+      "yaz": "Kışlık, yazın uygun değil.",
+      "kis": "Asıl kullanım alanı; yünlü astar ve rüzgar kesici kumaş soğuğa karşı yardımcı.",
+      "yagmur": "Su itici; hafif yağmurda kısa süre dayanır, uzun yağmurda ıslanır.",
+      "kurye": "Sertifika ve darbe koruması belirtilmediği için kurye kullanımında tek eldiven olarak önerilmez."
+    },
+    "verdict": "Forte GT 15, kışın eli sıcak tutmaya odaklanan, çok uygun fiyatlı bir eldiven. Ancak üretici sayfasında koruma ve EN 13594 sertifikası bilgisi yok; zorunlu koruyucu eldiven şartı açısından satın almadan önce etiketini kontrol etmeden önermiyoruz.",
+    "faq": [
+      {
+        "q": "Forte GT 15 su geçirmez mi?",
+        "a": "Hayır. Tex Motor dış kaplamayı hafif yağışa karşı 'su itici' olarak tanımlıyor; membran belirtilmiyor."
+      },
+      {
+        "q": "EN 13594 sertifikası var mı?",
+        "a": "Ürün sayfasında sertifika bilgisi yer almıyor. Satın alırken eldivenin CE etiketini bayiden kontrol etmeni öneririz."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-15-eldiven/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-15-eldiven/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 15 Eldiven ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "low",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Rüzgar kesici, su itici dış kumaş; yünlü iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir cırt bilek kapama, uzun manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Mor"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-07-softshell-mor-eldiven/",
+        "price": 1055,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mor"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1055,
+      "max": 1055,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07",
+      "note": "Tex Motor'un kendi sitesindeki liste fiyatı; sitede online satış yok, bayi fiyatı farklı olabilir."
+    },
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "rivals": [
+      "scudo/parma-lady-1",
+      "scudo/parma-lady-wp1",
+      "klim/womens-adventure-gtx-short"
+    ],
+    "slug": "forte-gt-07-softshell-kadin",
+    "brand": "tex-motor",
+    "name": "Forte GT 07 Softshell Kadın Eldiven",
+    "subcategories": [
+      "touring-eldiven"
+    ],
+    "summary": "Kadın kalıbı, rüzgar kesici softshell gövdeli, su itici, dokunmatik uçlu ve yumuşak eklem korumalı Forte GT eldiven; EN 13594 değil EN 388 sertifikalı.",
+    "description": [
+      "Forte GT 07 Softshell Kadın, Tex Motor'un kadın sürücüler için özel kesimle sunduğu hafif eldiveni. Softshell dış yüzey rüzgarı kesiyor, özel kaplamalı kumaş hafif yağışa karşı su itici. Başparmak ve işaret parmağında dokunmatik ekran uyumlu yüzey, gece görünürlüğü için reflektif hatlar ve avuç içinde suni deri takviye bulunuyor.",
+      "Eklem bölgesinde yumuşak darbe emici bir koruma var. Önemli bir ayrıntı: üretici eldivenin EN 388:2016+A1:2018 standardına uygun olduğunu belirtiyor; bu, genel mekanik risklere karşı iş eldiveni standardıdır, motosiklet eldivenleri için olan EN 13594 değildir. Türkiye'de zorunlu olan koruyucu motosiklet eldiveni şartı açısından bu farkı bilerek karar vermek gerekiyor."
+    ],
+    "forWho": [
+      "Serin havada hafif ve esnek bir eldiven arayan kadın sürücüler",
+      "Kısa şehir içi sürüşlerde telefonu eldivenle kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Motosiklet için EN 13594 sertifikalı eldiven arayanlar: bu model EN 388 sertifikalı",
+      "Kuryeler ve uzun yol yapanlar: koruma seviyesi motosiklet standardına göre test edilmemiş",
+      "Yağmurda sürenler: yalnızca su itici"
+    ],
+    "pros": [
+      "Kadın kalıbı",
+      "Rüzgar kesici softshell gövde",
+      "Dokunmatik uçlar ve reflektif hatlar",
+      "Çok düşük fiyat"
+    ],
+    "cons": [
+      "EN 13594 değil, EN 388 sertifikalı",
+      "Yalnızca yumuşak eklem koruması",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi sürüşler için hafif bir seçenek.",
+      "uzunYol": "Motosiklet standardında koruma olmadığı için önerilmez.",
+      "yaz": "Softshell yapı sıcak yaz günlerinde terletebilir.",
+      "kis": "Rüzgar keser ama yalıtım belirtilmiyor; soğukta yetersiz kalır.",
+      "yagmur": "Su itici; uzun yağmurda ıslanır.",
+      "kurye": "EN 13594 sertifikası olmadığı için kurye kullanımına uygun değil."
+    },
+    "verdict": "Forte GT 07 Softshell Kadın, uygun fiyatlı, rüzgar kesici ve dokunmatik uyumlu bir kadın eldiveni. Ancak EN 13594 değil EN 388 sertifikalı olduğu için motosiklet koruyucu eldiveni zorunluluğunu karşılamak isteyen sürücülere sertifikalı bir alternatif öneriyoruz.",
+    "faq": [
+      {
+        "q": "EN 388 ile EN 13594 arasındaki fark nedir?",
+        "a": "EN 388 iş eldivenleri için aşınma, kesilme ve yırtılma direncini ölçen genel bir standarttır. EN 13594 ise motosiklet sürücüleri için darbe koruması ve kayma direncini test eden özel standarttır."
+      },
+      {
+        "q": "Erkek versiyonu var mı?",
+        "a": "Tex Motor sitesinde Forte GT 07 Softshell eldivenin farklı renkli varyantları da listeleniyor; mor renk kadın kesimi olarak sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-07-softshell-mor-eldiven/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-07-softshell-mor-eldiven/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 07 Softshell Mor Kadın Eldiven ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Softshell dış yüzey, suni deri avuç içi takviyesi",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 388:2016+A1:2018",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [
+      {
+        "seller": "Vecton (Tech90 resmi mağaza)",
+        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
+        "price": 1999,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1999,
+      "max": 1999,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.membrane",
+      "specs.protectors",
+      "sizeChart",
+      "sizes",
+      "colors"
+    ],
+    "rivals": [
+      "scudo/parma-wp-carbon-1",
+      "tex-motor/forte-gt-15",
+      "richa/vision-2-wp"
+    ],
+    "slug": "vecton-guanti-winter-pro",
+    "brand": "tech90",
+    "name": "Vecton Guanti Winter Pro",
+    "subcategories": [
+      "kislik-eldiven"
+    ],
+    "summary": "Keçi derisi ve iki yönlü esnek Taslan kumaştan, su dirençli, uzun manşetli ve deri avuç takviyeli, Türkiye'de üretilen Vecton kışlık eldiven.",
+    "description": [
+      "Guanti Winter Pro, Tech90'ın üretip Vecton markasıyla resmi online mağazasında sattığı kışlık eldiven. Gövdede gerçek keçi derisi ve iki yönlü esnek Taslan kumaş kullanılıyor; üretici malzemeyi 'su dirençli' olarak tanımlıyor. Avuç içinde gerçek deri takviye, aşınma bölgesinde köpük takviye, cırt cırtlı bilek bağlama ve uzun manşet var.",
+      "Mağaza sayfasında menşei Türkiye ve cinsiyet unisex olarak verilmiş. Ancak eldiven için EN 13594 sertifikası, membran, yalıtım dolgusu ya da sert eklem koruması bilgisi yer almıyor. 'Su dirençli' ifadesi su geçirmez anlamına gelmediği için uzun yağmurda ıslanma ihtimali var. Sayfada stok durumu 'kritik stok' olarak görünüyor."
+    ],
+    "forWho": [
+      "Kışın yerli üretim, deri ağırlıklı ve uzun manşetli eldiven arayanlar",
+      "Soğuk havada şehir içinde kısa-orta mesafe sürenler"
+    ],
+    "notFor": [
+      "Sertifikalı koruyucu eldiven arayanlar: EN 13594 bilgisi verilmiyor",
+      "Sağanak yağmurda çalışan kuryeler: su geçirmez değil, su dirençli",
+      "Sportif sürüş için sert kabuklu eldiven arayanlar"
+    ],
+    "pros": [
+      "Keçi derisi ve esnek Taslan kumaş",
+      "Avuçta gerçek deri, aşınma bölgesinde köpük takviye",
+      "Uzun manşet",
+      "Türkiye'de üretim"
+    ],
+    "cons": [
+      "EN 13594 sertifikası belirtilmiyor",
+      "Membran ve yalıtım bilgisi yok",
+      "Sert eklem koruması tanımlanmıyor"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için uygun.",
+      "uzunYol": "Soğukta orta mesafe için kullanılabilir; yağmurda sınırlı.",
+      "yaz": "Kışlık; yazın uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "Su dirençli; uzun yağmurda ıslanabilir.",
+      "kurye": "Sertifika bilgisi olmadığından kurye kullanımında tek eldiven olarak önerilmez."
+    },
+    "verdict": "Vecton Guanti Winter Pro, deri ağırlıklı yapısı ve uzun manşetiyle kış için makul bir yerli seçenek. Sertifika, membran ve yalıtım bilgisi sayfada olmadığından satın almadan önce eldivenin CE etiketini sormanı öneriyoruz.",
+    "faq": [
+      {
+        "q": "Guanti Winter Pro su geçirmez mi?",
+        "a": "Mağaza sayfasında malzeme 'su dirençli' olarak tanımlanıyor; membran belirtilmiyor. Uzun süreli yağmurda ıslanma beklenmeli."
+      },
+      {
+        "q": "Tech90 ile Vecton ilişkisi ne?",
+        "a": "Vecton, Tech90 tarafından üretilen ürünlerin resmi online satış mağazası olarak kendini tanıtıyor."
+      }
+    ],
+    "manufacturerUrl": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
+    "sources": [
+      {
+        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
+        "type": "manufacturer",
+        "label": "Vecton – Guanti Winter Pro ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "low",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Gerçek keçi derisi, iki yönlü esnek Taslan kumaş; avuçta deri takviye",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırt cırtlı bilek bağlama, uzun manşet",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Gray",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "SM",
+      "MD",
+      "LG",
+      "XL",
+      "2X"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "ixs/rapid-stx-1-0-damen",
+      "scudo/parma-lady-wp1",
+      "held/ice-queen-2"
+    ],
+    "slug": "womens-adventure-gtx-short",
+    "brand": "klim",
+    "name": "Klim Women's Adventure GTX Short",
+    "subcategories": [
+      "adventure-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Kadın eline özel kalıplı, keçi derisi, GORE-TEX membranlı, karbon eklem kabuklu ve XRD köpüklü, EN 13594 Level 1 KP sertifikalı kısa adventure eldiveni.",
+    "description": [
+      "Women's Adventure GTX Short, Klim'in çok satan erkek Adventure GTX Short eldiveninin kadınlar için yeniden kalıplanmış versiyonu; üretici bunun yalnızca küçültülmüş bir erkek eldiveni olmadığını vurguluyor. Gövde keçi derisi ve esnek dokuma kumaştan, katmanlar birbirine yapıştırılmış (bonded) olduğu için kol ve debriyaj hissi ince bir eldivene yakın.",
+      "Su geçirmezliği GORE-TEX membran sağlıyor. Eklemlerde deri kaplı karbon fiber kabuk ve altında 5 mm XRD darbe köpüğü, avuçta yine 5 mm XRD ped ve deri kaplı parmak korumaları var. Eldiven EN 13594'e göre Level 1 KP sertifikalı. Dokunmatik uyumlu parmak uçları, vizör sileceği, cırtlı bilek ve nem atan astar diğer detaylar. Kısa manşet montun kolunun altına giyilecek şekilde tasarlanmış; ayrı bir termal yalıtım yok."
+    ],
+    "forWho": [
+      "Adventure ve touring motosikletle her havada yol yapan kadın sürücüler",
+      "Su geçirmez ama ince ve hassas hisli eldiven arayanlar",
+      "Kadın kalıbında ciddi koruma (karbon kabuk, XRD) isteyenler"
+    ],
+    "notFor": [
+      "Dondurucu kışta sürenler: yalıtımlı değil",
+      "Uzun manşetli, mont kolunun üzerine gelen eldiven tercih edenler",
+      "Bütçesi sınırlı olanlar: segmentinin pahalı modellerinden"
+    ],
+    "pros": [
+      "GORE-TEX membran",
+      "Karbon eklem kabuğu ve 5 mm XRD köpük",
+      "EN 13594 Level 1 KP sertifikası",
+      "Kadın eline özel kalıp, XS beden"
+    ],
+    "cons": [
+      "Yalıtım yok; soğukta yetersiz",
+      "Kısa manşet, yağmurda mont kolunun dışına giyilirse su alabilir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde rahat; dokunmatik uçlar navigasyon için pratik.",
+      "uzunYol": "Her hava koşulunda uzun yol için tasarlanmış.",
+      "yaz": "Membranlı yapı çok sıcak günlerde terletir.",
+      "kis": "Yalıtım olmadığından serin günlerde iyi, soğukta yetersiz.",
+      "yagmur": "GORE-TEX membranla su geçirmez.",
+      "sport": "Asfalt sportif sürüş için değil; adventure odaklı.",
+      "kurye": "Fiyatı yüksek olsa da yağmurlu günlerde kurye kullanımına uygun bir yapıya sahip."
+    },
+    "verdict": "Women's Adventure GTX Short, kadın sürücüler için gerçek kadın kalıbı, GORE-TEX ve karbon-XRD korumayı tek pakette sunan, sınıfının en dolu kısa eldivenlerinden. Yalıtımsız olması ve yüksek fiyatı, onu kış eldiveni değil üç mevsim su geçirmez eldiven yapıyor.",
+    "faq": [
+      {
+        "q": "Kışın kullanılabilir mi?",
+        "a": "Klim bu modeli yalıtımsız (non-insulated) eldiven olarak sınıflandırıyor. Serin ve yağmurlu günler için iyi, dondurucu soğuk için yalıtımlı ya da ısıtmalı bir eldiven gerekir."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Üretici EN 13594 standardına göre CE Level 1 KP sertifikalı olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/womens-adventure-gtx-short-glove-5027-001",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/womens-adventure-gtx-short-glove-5027-001",
+        "type": "manufacturer",
+        "label": "KLIM – Women's Adventure GTX Short Glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Keçi derisi ve esnek dokuma kumaş, birbirine yapıştırılmış katmanlar",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırtlı bilek kapama, kısa manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "colors"
+    ],
+    "rivals": [
+      "richa/vision-2-wp",
+      "ixon/pro-russel-2",
+      "spidi/rainshield-2"
+    ],
+    "slug": "td21-all-seasons-evo",
+    "brand": "furygan",
+    "name": "Furygan TD21 All Seasons Evo",
+    "subcategories": [
+      "touring-eldiven",
+      "kislik-eldiven"
+    ],
+    "summary": "Keçi derisi, su geçirmez-nefes alan iç katmanlı, mikropolar astarlı, metakarp kabuklu ve dokunmatik uyumlu Furygan geçiş mevsimi eldiveni; EN 13594 1 KP.",
+    "description": [
+      "TD21 All Seasons Evo, Furygan'ın yaz modeli TD21'in su geçirmez ve astarlı versiyonu. Gövde keçi derisi; içte su geçirmez ve nefes alan bir insert ile fırçalanmış örgü kumaştan orta sezon astarı ve mikropolar (polar) astar var. Bu kombinasyon ani sağanakta eli kuru, serin havada sıcak tutmayı hedefliyor.",
+      "Koruma tarafında metakarp (el sırtı) kabuk koruyucuları ile avuç ve parmak takviyeleri bulunuyor; Furygan'ın ürün verisinde 1 KP, EN 13594:2015 sertifika etiketi yer alıyor. Parmaklarda esneme panelleri, parmak aralarında elastik malzeme ve hassas bilek ayarı var. Furygan Sensitive Science insert sayesinde eldiveni çıkarmadan dokunmatik ekran kullanılabiliyor. Bedenler S–3XL."
+    ],
+    "forWho": [
+      "Bahar, sonbahar ve ılıman kışta şehir içi ve tur yapan sürücüler",
+      "Deri, kısa bilekli ve su geçirmez tek eldiven arayanlar",
+      "Yağmurlu günlerde çalışan kuryeler"
+    ],
+    "notFor": [
+      "Sıfır derece civarında uzun süre sürenler: orta sezon astarı yetersiz kalabilir",
+      "Sıcak yaz günleri için eldiven arayanlar: TD21 Vented daha uygun"
+    ],
+    "pros": [
+      "Keçi derisi gövde",
+      "Su geçirmez-nefes alan insert ve polar astar",
+      "Metakarp kabuk koruması, EN 13594 1 KP",
+      "Dokunmatik uyumlu insert"
+    ],
+    "cons": [
+      "Insert tipi membran, laminasyonlu eldivenlere göre ıslanınca daha geç kurur",
+      "Kısa bilek",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanım için çok uygun; kısa bilek kolay giyiliyor.",
+      "uzunYol": "Serin ve değişken havada tur için uygun.",
+      "yaz": "Astarlı ve membranlı yapı sıcakta terletir.",
+      "kis": "Ilıman kışta işe yarar; dondurucu soğuk için yetersiz.",
+      "yagmur": "Su geçirmez insert sayesinde yağmura dayanıklı.",
+      "kurye": "Yağmurlu ve serin günlerde dokunmatik uyumuyla kurye kullanımına uygun."
+    },
+    "verdict": "TD21 All Seasons Evo, deri hissi ve su geçirmezliği makul bir fiyatla birleştiren dengeli bir geçiş mevsimi eldiveni. Çok soğuk iklimlerde yalıtımı sınırlı kalır, ama Türkiye'nin büyük kısmındaki kış ve yağmur koşulları için mantıklı bir tek eldiven.",
+    "faq": [
+      {
+        "q": "TD21 All Seasons Evo kış eldiveni mi?",
+        "a": "Furygan polar ve orta sezon astarı kullanıyor; serin ve ılıman kış günleri için uygun. Ağır kış için kalın yalıtımlı ya da ısıtmalı bir model daha doğru olur."
+      },
+      {
+        "q": "Yaz versiyonu var mı?",
+        "a": "Evet, Furygan aynı modelin havalandırmalı yaz versiyonunu (TD21 Vented) da sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.furygan.com/produit/td21-all-seasons-evo/?lang=en",
+    "sources": [
+      {
+        "url": "https://www.furygan.com/produit/td21-all-seasons-evo/?lang=en",
+        "type": "manufacturer",
+        "label": "Furygan – TD21 All Seasons Evo ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Keçi derisi; fırçalanmış örgü orta sezon astarı ve mikropolar astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alan insert",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Hassas bilek ayarı, kısa bilek",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "rivals": [
+      "furygan/td21-all-seasons-evo",
+      "modeka/air-ride-dry-ii",
+      "rukka/mars-2-0"
+    ],
+    "slug": "vision-2-wp",
+    "brand": "richa",
+    "name": "Richa Vision 2 WP",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Cordura 500D gövdeli, keçi derisi avuçlu, Aquashell laminasyonlu ve PrimaLoft yalıtımlı, sert eklem korumalı Richa kışlık eldiven; 1KP sertifikalı.",
+    "description": [
+      "Vision 2 WP, Richa'nın şehir ve touring sürücüleri için hazırladığı ciddi bir kış eldiveni. Dış kabuk aşınmaya dayanıklı Cordura 500D, avuç keçi derisi. Su geçirmezliği laminasyonlu Aquashell membran sağlıyor; içte PrimaLoft yalıtım ve Thinloft yumuşak astar var. Örgü manşet ve bilek ayarı soğuğun girmesini azaltıyor.",
+      "Koruma tarafında sert eklem koruyucusu (TPU), stratejik neopren paneller ve avuçta neopren Seesoft kaydırıcı bulunuyor; eldiven 1KP sertifikalı. Dokunmatik uyumlu iletken parmak ucu, vizör sileceği ve reflektif detaylar da var. Richa'nın sitesinde bazı bedenler stokta görünmüyor; sayfada yalnızca L, 3XL ve 4XL seçilebiliyordu."
+    ],
+    "forWho": [
+      "Kışın şehir içinde ve touring'de düzenli süren sürücüler",
+      "Soğukta yalıtım ve su geçirmezliği bir arada isteyen kuryeler",
+      "Tekstil gövdeli, sıcak tutan bir eldiveni makul fiyata arayanlar"
+    ],
+    "notFor": [
+      "Yaz ve ılık havada sürenler: yalıtımlı ve kalın",
+      "Sportif sürüş için deri, uzun bilekli eldiven arayanlar"
+    ],
+    "pros": [
+      "Laminasyonlu Aquashell membran",
+      "PrimaLoft yalıtım",
+      "Sert eklem koruması ve 1KP sertifika",
+      "Dokunmatik parmak ucu ve vizör sileceği"
+    ],
+    "cons": [
+      "Kalın yapı kol hissini azaltır",
+      "Resmi sitede beden stoğu kısıtlı görünüyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için uygun.",
+      "uzunYol": "Soğuk havada touring için tasarlanmış.",
+      "yaz": "Yaz için uygun değil.",
+      "kis": "Asıl kullanım alanı; PrimaLoft yalıtım ve laminasyonlu membran.",
+      "yagmur": "Laminasyonlu Aquashell membranla su geçirmez.",
+      "kurye": "Kışın ve yağmurda çalışan kuryeler için dokunmatik ucu ve yalıtımıyla uygun."
+    },
+    "verdict": "Vision 2 WP, kış için gerekenleri (yalıtım, laminasyonlu membran, sert eklem koruması, dokunmatik uç) dengeli bir fiyatla sunan pratik bir eldiven. Kalınlığı nedeniyle hassas kol hissi isteyenleri biraz zorlayabilir.",
+    "faq": [
+      {
+        "q": "Vision 2 WP su geçirmez mi?",
+        "a": "Evet, Richa laminasyonlu Aquashell membran kullandığını belirtiyor. Laminasyonlu yapı, iç astarın ıslanıp ağırlaşmasını azaltır."
+      },
+      {
+        "q": "Sertifika seviyesi nedir?",
+        "a": "Richa ürün sayfasında sertifikayı 1KP olarak veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/vision-2-wp-gloves/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/vision-2-wp-gloves/",
+        "type": "manufacturer",
+        "label": "Richa – Vision 2 WP Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Dış: %50 deri, %50 polyester (Cordura 500D gövde, keçi derisi avuç); astar %100 polyester; TPU koruyucu",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594",
+      "ceClass": "1KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Aquashell (laminasyonlu)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Örgü manşet, bilek ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah",
+      "Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "scudo/parma-3",
+      "alpinestars/sp-8-v3",
+      "ixs/rapid-air-1-0"
+    ],
+    "slug": "protect-summer-2",
+    "brand": "richa",
+    "name": "Richa Protect Summer 2",
+    "subcategories": [
+      "yazlik-eldiven",
+      "sport-eldiven"
+    ],
+    "summary": "Delikli keçi derisi gövdeli, karbon-TPU sert eklem korumalı, avuç ve parmak yanı deri takviyeli, kısa kesim Richa yaz eldiveni; 1KP sertifikalı.",
+    "description": [
+      "Protect Summer 2, Richa'nın sport ve naked sürücülerine yönelik kısa kesim yaz eldiveninin ikinci nesli. Gövde keçi nappa ve tamburlanmış keçi derisinden; delikli bölgeler sıcakta hava akışı sağlıyor. Avuçta ve parmak yanlarında kayma anına karşı ek deri takviye var.",
+      "Eklemde sert karbon-TPU koruyucu bulunuyor ve eldiven 1KP sertifikalı. Kapama cırtla; manşet kısa. Su geçirmezlik ve yalıtım yok, dokunmatik uç da ürün özelliklerinde sayılmıyor. Richa malzemeyi dış kabukta %95 deri, %4 poliamid, %1 poliüretan; astarda %100 polyester olarak veriyor."
+    ],
+    "forWho": [
+      "Yazın naked ve sport motosikletle şehir içi ve kısa tur yapanlar",
+      "Deri, delikli ve sert eklem korumalı uygun fiyatlı yaz eldiveni arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda sürenler: su geçirmez değil",
+      "Pist kullanımı için uzun bilekli Level 2 eldiven arayanlar",
+      "Telefonu eldivenle kullanması gereken kuryeler: dokunmatik uç belirtilmiyor"
+    ],
+    "pros": [
+      "Delikli keçi derisi gövde",
+      "Karbon-TPU sert eklem koruması",
+      "Avuç ve parmak yanında ek deri takviye",
+      "1KP sertifikalı"
+    ],
+    "cons": [
+      "Kısa bilek",
+      "Dokunmatik uç belirtilmiyor",
+      "Su geçirmez değil; Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde rahat ve serin.",
+      "uzunYol": "Kuru ve sıcak havada turlar için uygun.",
+      "yaz": "Asıl kullanım alanı; delikli deri hava alır.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Yol odaklı sportif sürüşe uygun; pist için kısa bilek yetersiz."
+    },
+    "verdict": "Protect Summer 2, sert eklem korumalı ve delikli deri bir yaz eldivenini makul fiyata isteyenler için doğru bir tercih. Kısa bilek ve dokunmatik ucun olmaması, onu pist ve kurye kullanımından çok yazlık yol eldiveni yapıyor.",
+    "faq": [
+      {
+        "q": "Protect Summer 2 pistte kullanılabilir mi?",
+        "a": "Kısa bilekli bir yol eldiveni; pist için uzun bilekli ve daha yüksek korumalı eldivenler daha doğru olur."
+      },
+      {
+        "q": "Hangi renkler var?",
+        "a": "Richa sitesinde siyah ve kırmızı seçenekler listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/protect-summer-2-gloves/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/protect-summer-2-gloves/",
+        "type": "manufacturer",
+        "label": "Richa – Protect Summer 2 Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Dış: %95 deri (keçi nappa ve tamburlanmış keçi derisi), %4 PA, %1 PU; astar %100 polyester",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594",
+      "ceClass": "1KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Delikli deri bölgeler",
+      "closure": "Cırt kapama, kısa manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 20.6,
+        "max": 21.4
+      },
+      {
+        "size": "M",
+        "min": 21.4,
+        "max": 22.2
+      },
+      {
+        "size": "L",
+        "min": 22.2,
+        "max": 23.0
+      },
+      {
+        "size": "XL",
+        "min": 23.0,
+        "max": 23.8
+      },
+      {
+        "size": "XXL",
+        "min": 23.8,
+        "max": 24.6
+      },
+      {
+        "size": "3XL",
+        "min": 24.6,
+        "max": 25.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "colors"
+    ],
+    "rivals": [
+      "macna/crew-rtx",
+      "furygan/td21-all-seasons-evo",
+      "modeka/air-ride-dry-ii"
+    ],
+    "slug": "rainshield-2",
+    "brand": "spidi",
+    "name": "Spidi Rainshield 2",
+    "subcategories": [
+      "touring-eldiven"
+    ],
+    "summary": "Doğrudan dış kumaşa laminasyonlu H2Out membranlı, astarsız, Warrior eklem kalkanlı, EN 13594:2015 Level 1 eklem korumalı Spidi geçiş mevsimi yağmur eldiveni.",
+    "description": [
+      "Rainshield 2, Spidi'nin değişken bahar ve sonbahar havası için tasarladığı su geçirmez tekstil eldiven. Öne çıkan özelliği, H2Out membranın doğrudan dış kumaşa laminasyonlu olması: içte serbest katman ve kalın astar olmadığı için eldiven ele daha oturaklı, ıslakken bile kol ve gidon hissi daha net. Üretici ortalama ağırlığı 0,2 kg olarak veriyor.",
+      "Malzeme tarafında yüksek dayanımlı esnek naylon 6.6, ripstop kumaş, neopren, delikli file ve süet mikrofiber kullanılmış; avuçta Warrior teknolojili takviyeler, elin üstü, yanı ve avuçta dolgu var. Eldiven EN 13594:2015 sertifikalı ve Level 1 eklem korumalı; eklemlerde poliüretan Warrior kalkanı bulunuyor. Astarsız olduğundan soğukta Spidi termal içlik ya da elcik ısıtmayla birlikte kullanılmasını öneriyor."
+    ],
+    "forWho": [
+      "Bahar ve sonbaharda yağmura yakalanma ihtimaliyle süren touring sürücüler",
+      "Su geçirmez ama ince ve hassas hisli eldiven isteyenler",
+      "Isıtmalı elcikli motosiklette yıl boyu tek eldiven arayanlar"
+    ],
+    "notFor": [
+      "Kışın elcik ısıtması olmadan sürenler: astarsız, yalıtımsız",
+      "Deri gövdeli sport eldiven arayanlar"
+    ],
+    "pros": [
+      "Laminasyonlu H2Out membran, ıslakken de iyi his",
+      "EN 13594:2015, Level 1 eklem koruması",
+      "Hafif (ortalama 0,2 kg)",
+      "Reflektif bölgeler"
+    ],
+    "cons": [
+      "Yalıtım yok",
+      "Tekstil gövde, deri kadar aşınma direnci beklenmemeli",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu günlerde şehir içinde pratik.",
+      "uzunYol": "Geçiş mevsiminde turlar için; soğukta termal içlikle kullanılmalı.",
+      "yaz": "Membranlı yapı sıcakta terletebilir.",
+      "kis": "Yalıtımsız; elcik ısıtma veya içlik olmadan kış için yetersiz.",
+      "yagmur": "Asıl kullanım alanı; laminasyonlu membran.",
+      "kurye": "Isıtmalı elcikli motosikletlerde yağmurlu günler için iyi bir kurye eldiveni."
+    },
+    "verdict": "Rainshield 2, yağmurda his kaybını en aza indiren laminasyonlu yapısıyla geçiş mevsimleri için akıllıca tasarlanmış bir eldiven. Yalıtımsız olması kışın ek ısı kaynağı gerektiriyor; ama ısıtmalı elcikli bir motosiklette yıl boyu kullanılabilir.",
+    "faq": [
+      {
+        "q": "Rainshield 2 kışın kullanılabilir mi?",
+        "a": "Astarsız ve yalıtımsız bir eldiven. Spidi soğukta termal içlik ya da ısıtmalı elcikle kullanılmasını öneriyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Spidi tablosu eklem çevresine göre: S 20,6–21,4 cm, M 21,4–22,2 cm, L 22,2–23 cm, XL 23–23,8 cm, XXL 23,8–24,6 cm, 3XL 24,6–25,4 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/rainshield-2-glove-b138",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/rainshield-2-glove-b138",
+        "type": "manufacturer",
+        "label": "SPIDI – Rainshield 2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Esnek naylon 6.6, ripstop, neopren, delikli file, süet mikrofiber",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 (eklem)",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "H2Out (laminasyonlu)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "richa/protect-summer-2",
+      "tex-motor/forte-gt-21",
+      "scudo/parma-2"
+    ],
+    "slug": "rapid-air-1-0",
+    "brand": "ixs",
+    "name": "iXS Rapid-Air 1.0",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "summary": "Keçi derisi ve dayanıklı mesh gövdeli, havalandırmalı TPU eklem korumalı, çift kat deri avuçlu, SuperFabric takviyeli, EN 13594:2015 sertifikalı iXS yaz eldiveni.",
+    "description": [
+      "Rapid-Air 1.0, iXS'in sıcak günler için hazırladığı minimalist, sürekli hava alan kısa eldiveni. Dış malzeme keçi derisi; elin üst kısmında çok dayanıklı mesh var. Yumuşak, hızlı kuruyan tekstil astar uzun sürüşlerde konforu artırmayı hedefliyor.",
+      "Koruma tarafında hava kanallı TPU eklem koruyucu (iXS Air-intake), çift kat deri avuç, avuç topuğunda SuperFabric kaplama ve ek deri katmanlar bulunuyor; eldiven EN 13594:2015 sertifikalı (seviye ürün sayfasında belirtilmiyor). Elastik bilek, güvenlik kapağı ve cırtlı ayar, başparmak ve işaret parmağında dokunmatik uyum ve kauçuk vizör sileceği var. Kadın versiyonu (Damen Rapid-Air 1.0) da mevcut."
+    ],
+    "forWho": [
+      "Yazın şehir içinde ve turda serin bir eldiven arayan sürücüler",
+      "Sıcak havada çalışan kuryeler",
+      "Sert eklem korumalı, uygun fiyatlı yaz eldiveni arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada sürenler: mesh gövde su ve rüzgar alır",
+      "Pist için uzun bilekli eldiven arayanlar"
+    ],
+    "pros": [
+      "Mesh ile sürekli havalandırma",
+      "Havalandırmalı TPU eklem, SuperFabric avuç takviyesi",
+      "EN 13594:2015 sertifikalı",
+      "Dokunmatik uçlar ve vizör sileceği"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Sertifika seviyesi belirtilmiyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde rahat; kısa bilek kolay giyiliyor.",
+      "uzunYol": "Sıcak havada turlar için uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Hafif sportif sürüşe uygun, pist için değil.",
+      "kurye": "Sıcak aylarda kurye kullanımı için dokunmatik uçlarıyla pratik."
+    },
+    "verdict": "Rapid-Air 1.0, yazın havalandırmadan ödün vermeden sert eklem koruması ve sertifika isteyenler için güçlü bir fiyat-performans eldiveni. Yağmur ve serin hava için ikinci bir eldiven gerekecek.",
+    "faq": [
+      {
+        "q": "Rapid-Air 1.0 dokunmatik ekranla çalışır mı?",
+        "a": "Evet, iXS başparmak ve işaret parmağı ucunun dokunmatik ekran uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Evet, iXS aynı modeli Damen Rapid-Air 1.0 adıyla kadın kalıbında da sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixs.com/products/ixs-rapid-air-1-0-handschuhe-schwarz",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/products/ixs-rapid-air-1-0-handschuhe-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – Rapid-Air 1.0 Handschuhe ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Keçi derisi ve mesh (%100 polyester) üst; %100 polyester astar; TPU eklem koruyucu",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Mesh üst yüzey, hava kanallı eklem koruyucu",
+      "closure": "Elastik bilek, güvenlik kapağı ve cırtlı ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "rivals": [
+      "spidi/rainshield-2",
+      "scudo/parma-wp-carbon-1",
+      "furygan/td21-all-seasons-evo"
+    ],
+    "slug": "crew-rtx",
+    "brand": "macna",
+    "name": "Macna Crew RTX",
+    "subcategories": [
+      "touring-eldiven"
+    ],
+    "summary": "Raintex membranlı, kısa manşetli, temper foam eklem korumalı ve çift kat sentetik nubuk avuçlu, dokunmatik uçlu Macna şehir-geçiş mevsimi eldiveni; 1 KP.",
+    "description": [
+      "Crew RTX, Macna'nın ılıman ve yağışlı koşullar için önerdiği kısa manşetli tekstil eldiven. Raintex membran eldiveni su geçirmez yapıyor; yumuşak neopren manşet mont koluyla düzgün bir geçiş sağlıyor. Başparmak ve işaret parmağının tek parça kumaştan yapıldığı Ergothumb kesimi dikiş ve baskı noktalarını azaltıyor.",
+      "Avuç çift kat sentetik nubuk ile güçlendirilmiş, avuç ve parmaklarda yumuşak R.I.S.C. EVA koruma, eklemde ise esnek spandeks altında temper foam'dan şekillendirilmiş R.I.S.C. 3D koruyucu var. Avuçtaki grip baskı gidon kontrolüne yardımcı oluyor, işaret parmağı ucundaki Touch Tip dokunmatik ekran kullanımına izin veriyor. Macna homologasyonu 1 KP olarak veriyor; ayrı bir yalıtım belirtilmiyor."
+    ],
+    "forWho": [
+      "Yağmurlu günlerde şehir içinde çalışan kuryeler",
+      "Kısa manşetli, kolay giyilen su geçirmez eldiven arayan scooter ve naked sürücüleri",
+      "Hafif ve esnek bir geçiş mevsimi eldiveni isteyenler"
+    ],
+    "notFor": [
+      "Soğuk kış günlerinde sürenler: yalıtım belirtilmiyor",
+      "Deri gövde ve sert kabuk eklem koruması arayanlar"
+    ],
+    "pros": [
+      "Raintex membran ile su geçirmez",
+      "Temper foam 3D eklem koruyucu, çift kat avuç",
+      "Dokunmatik uç ve Ergothumb kesim",
+      "Çift su geçirmez manşet"
+    ],
+    "cons": [
+      "Yumuşak eklem koruması; sert kabuk yok",
+      "Sentetik avuç",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; kısa manşet ve dokunmatik uç günlük kullanımı kolaylaştırıyor.",
+      "uzunYol": "Ilıman havada yağmurlu turlar için yeterli.",
+      "yaz": "Membranlı yapı sıcakta terletir.",
+      "kis": "Yalıtım olmadığından soğukta yetersiz.",
+      "yagmur": "Raintex membranla su geçirmez.",
+      "kurye": "Yağmurlu iş günleri için hafif ve pratik bir kurye eldiveni."
+    },
+    "verdict": "Crew RTX, ılıman ve yağışlı havada şehir içinde çok kullanan sürücüler için hafif, su geçirmez ve pratik bir eldiven. Yumuşak koruma ve yalıtımsız yapısı, onu ağır kış ya da sportif sürüş yerine günlük kullanıma konumlandırıyor.",
+    "faq": [
+      {
+        "q": "Crew RTX su geçirmez mi?",
+        "a": "Evet, Macna eldivende Raintex membran kullanıldığını ve su geçirmez olduğunu belirtiyor."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Macna aynı modeli Crew RTX Women adıyla kadın kalıbında da sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/gloves-mid-season-waterproof-macna-crew-rtx",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/gloves-mid-season-waterproof-macna-crew-rtx",
+        "type": "manufacturer",
+        "label": "Macna – Crew RTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Spandeks, sentetik nubuk, polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594",
+      "ceClass": "1 KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Raintex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir bilek kayışı, neopren kısa manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Basic black"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "rivals": [
+      "modeka/air-ride-dry-ii",
+      "richa/vision-2-wp",
+      "ixon/pro-russel-2"
+    ],
+    "slug": "mars-2-0",
+    "brand": "rukka",
+    "name": "Rukka Mars 2.0",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "summary": "Deri gövdeli, GORE-TEX astarlı, polar astar ve hafif yalıtımlı, vizör silecekli Rukka kışlık touring eldiveni.",
+    "description": [
+      "Mars 2.0, Rukka'nın soğuk sürüş koşulları için hazırladığı GORE-TEX eldiveni. Dış malzeme %100 deri; içte tamamen su ve rüzgar geçirmez, nefes alan GORE-TEX astar, polar astar ve hafif yalıtım bulunuyor. Üretici bu yapıyı serin ve soğuk havada ek sıcaklık sağlayan 'plus warm' sınıfında konumlandırıyor.",
+      "Sol işaret parmağında vizör sileceği, elastik bilek ve cırtlı sıkma var. Rukka'nın Luhta üzerindeki ürün sayfasında koruyucu (eklem kabuğu, avuç kaydırıcı) ve EN 13594 sertifika bilgisi yer almıyor; dokunmatik uç da sayılmıyor. Bedenler 6'dan 13'e kadar sayısal; elin çevresini ölçerek seçmek gerekiyor."
+    ],
+    "forWho": [
+      "Kuzey ikliminde ya da kışın uzun yol yapan touring sürücüler",
+      "Deri, GORE-TEX ve yalıtımı bir arada isteyenler",
+      "Geniş beden aralığı (6–13) arayanlar"
+    ],
+    "notFor": [
+      "Koruma ve sertifika detaylarını önceden doğrulamak isteyenler: sayfada belirtilmiyor",
+      "Telefonu eldivenle kullanması gereken kuryeler: dokunmatik uç belirtilmiyor",
+      "Ilık havada sürenler"
+    ],
+    "pros": [
+      "GORE-TEX astar ile su ve rüzgar geçirmez",
+      "Deri gövde",
+      "Polar astar ve hafif yalıtım",
+      "Geniş sayısal beden aralığı"
+    ],
+    "cons": [
+      "Koruyucu ve EN 13594 bilgisi ürün sayfasında yok",
+      "Dokunmatik uç belirtilmiyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içinde kullanılabilir.",
+      "uzunYol": "Soğuk havada touring için tasarlanmış.",
+      "yaz": "Yalıtımlı; yaz için uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "GORE-TEX astarla su geçirmez.",
+      "kurye": "Dokunmatik uç belirtilmediği için kurye kullanımında pratik değil."
+    },
+    "verdict": "Mars 2.0, deri ve GORE-TEX ile soğukta kuru ve sıcak kalmak isteyen touring sürücüler için sağlam bir kış eldiveni adayı. Ancak üretici sayfasında koruma ve sertifika bilgisi olmadığı için alırken etiketini kontrol etmeni öneririz.",
+    "faq": [
+      {
+        "q": "Mars 2.0 su geçirmez mi?",
+        "a": "Evet, Rukka tamamen su ve rüzgar geçirmez, nefes alan GORE-TEX astar kullandığını belirtiyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Rukka 6–13 arası sayısal beden kullanıyor. Elinin en geniş yerinden çevresini ölçüp markanın beden rehberine göre seçmelisin."
+      }
+    ],
+    "manufacturerUrl": "https://luhta.com/en/p/mars-2-0-70873778r",
+    "sources": [
+      {
+        "url": "https://luhta.com/en/p/mars-2-0-70873778r",
+        "type": "manufacturer",
+        "label": "Rukka (Luhta) – Mars 2.0 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "%100 deri; GORE-TEX astar, polar astar, hafif yalıtım",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "GORE-TEX",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Elastik bilek, cırtlı sıkma",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "sizeChart": [
+      {
+        "size": "6",
+        "min": 15,
+        "max": 17.5
+      },
+      {
+        "size": "7",
+        "min": 17.5,
+        "max": 20
+      },
+      {
+        "size": "8",
+        "min": 20,
+        "max": 22.5
+      },
+      {
+        "size": "9",
+        "min": 22.5,
+        "max": 25
+      },
+      {
+        "size": "10",
+        "min": 25,
+        "max": 27.5
+      },
+      {
+        "size": "11",
+        "min": 27.5,
+        "max": 30
+      },
+      {
+        "size": "12",
+        "min": 30,
+        "max": 32.5
+      },
+      {
+        "size": "13",
+        "min": 32.5,
+        "max": 35
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "rivals": [
+      "rukka/mars-2-0",
+      "spidi/rainshield-2",
+      "richa/vision-2-wp"
+    ],
+    "slug": "air-ride-dry-ii",
+    "brand": "modeka",
+    "name": "Modeka Air Ride Dry II",
+    "subcategories": [
+      "touring-eldiven",
+      "kislik-eldiven"
+    ],
+    "summary": "Keçi derisi ve Tactel gövdeli, Porelle membranlı (10.000 mm), temper foam eklem kabuklu, dokunmatik uçlu ve vizör silecekli Modeka geçiş mevsimi eldiveni.",
+    "description": [
+      "Air Ride Dry II, Modeka'nın rüzgar ve yağmura karşı hazırladığı uzun manşetli touring eldiveni. Dış malzeme %75 deri, %25 poliamid: keçi derisi ile konforlu Tactel kumaş birleşiyor, düşme bölgelerinde takviyeler ve avuç topuğunda dolgulu deri takviye var. Su geçirmezliği 10.000 mm su sütunu değerinde laminasyonlu Porelle membran sağlıyor.",
+      "Eklemde temper foam ile desteklenmiş hareketli kabuk, parmak aralarında esneme panelleri, elin üstünde yumuşak köpük dolgu ve tüm üst el ile manşette yumuşak astar bulunuyor. Eldiven CE EN 13594:2015 sertifikalı; seviye ürün sayfasında belirtilmiyor. Touch Tip dokunmatik uç, vizör sileceği ve bilekte ve manşette cırtlı genişlik ayarı var. Bedenler 6–13; Modeka'nın el çevresi tablosu mevcut."
+    ],
+    "forWho": [
+      "Bahar, sonbahar ve ılıman kışta tur yapan sürücüler",
+      "Uzun manşetli, mont kolunun üstüne gelen su geçirmez eldiven isteyenler",
+      "Kesin beden tablosuna göre seçim yapmak isteyenler"
+    ],
+    "notFor": [
+      "Dondurucu soğuk için kalın yalıtımlı eldiven arayanlar",
+      "Sıcak yaz günleri için eldiven arayanlar"
+    ],
+    "pros": [
+      "Porelle membran, 10.000 mm su sütunu",
+      "Temper foam destekli eklem kabuğu",
+      "EN 13594:2015 sertifikalı",
+      "Dokunmatik uç, vizör sileceği, uzun manşet"
+    ],
+    "cons": [
+      "Sertifika seviyesi belirtilmiyor",
+      "Ayrı yalıtım değeri verilmiyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; uzun manşet giyip çıkarmayı biraz yavaşlatır.",
+      "uzunYol": "Asıl kullanım alanı; değişken havada tur.",
+      "yaz": "Membranlı yapı sıcakta terletir.",
+      "kis": "Ilıman kışta yeterli; çok soğukta yalıtım sınırlı kalabilir.",
+      "yagmur": "Porelle membranla su geçirmez.",
+      "kurye": "Yağmurlu günlerde dokunmatik uçla kullanılabilir; uzun manşet sık giyip çıkarmada yavaşlatır."
+    },
+    "verdict": "Air Ride Dry II, uzun manşeti, laminasyonlu membranı ve eklem kabuğuyla değişken havada tur yapanlar için dengeli bir eldiven. Yalıtım değeri belirtilmediği için gerçek kış eldiveni değil, geniş bir geçiş mevsimi eldiveni olarak düşünülmeli.",
+    "faq": [
+      {
+        "q": "Air Ride Dry II ne kadar su geçirmez?",
+        "a": "Modeka Porelle membranın 10.000 mm su sütunu değerinde olduğunu belirtiyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Modeka tablosuna göre el çevresi: 7 = 17,5–20 cm, 8 = 20–22,5 cm, 9 = 22,5–25 cm, 10 = 25–27,5 cm, 11 = 27,5–30 cm."
+      }
+    ],
+    "manufacturerUrl": "https://modeka.de/de/produkte/detail/4446/11/handschuh-air-ride-dry-ii/",
+    "sources": [
+      {
+        "url": "https://modeka.de/de/produkte/detail/4446/11/handschuh-air-ride-dry-ii/",
+        "type": "manufacturer",
+        "label": "Modeka – Handschuh Air Ride Dry II ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://modeka.de/de/grossentabelle/",
+        "type": "manufacturer",
+        "label": "Modeka – Beden tablosu (eldiven)",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Dış: %75 deri (keçi), %25 poliamid (Tactel); membran %100 PU; astar %100 polyester",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Porelle (laminasyonlu, 10.000 mm)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek ve manşette cırtlı genişlik ayarı, uzun manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "eldiven",
+    "lastCheckedAt": "2026-10-07",
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "colors"
+    ],
+    "rivals": [
+      "furygan/td21-all-seasons-evo",
+      "richa/vision-2-wp",
+      "scudo/parma-wp-carbon-1"
+    ],
+    "slug": "pro-russel-2",
+    "brand": "ixon",
+    "name": "Ixon Pro Russel 2",
+    "subcategories": [
+      "kislik-eldiven"
+    ],
+    "summary": "Softshell üst ve keçi derisi avuçlu, su geçirmez insertli, 140 g/m² dolgulu, eklem kabuklu ve dokunmatik işaret parmaklı Ixon kısa kış eldiveni; EN 13594 1 KP.",
+    "description": [
+      "Pro Russel 2, Ixon'un roadster sürücüleri için hazırladığı kısa manşetli kış eldiveni. Elin üstü tamamen softshell, avuç keçi derisi. İçte mikropolar astar, 140 g/m² dolgu ve su geçirmez bir insert var; Ixon eldiveni sıcaklıkta 3, su geçirmezlikte 4, nefes almada 3 üzerinden değerlendiriyor.",
+      "Kendiliğinden ayarlanan el sırtı elastiği, neopren manşet ve esnek bilek sıkma tırnağı rahat bir oturuş sağlıyor. Koruma tarafında mafsallı mat eklem kabuğu, avuçta kaydırıcı ve avuç ile kenar deri takviyeleri bulunuyor. Eldiven EN 13594:2015'e göre Level 1 KP sertifikalı; işaret parmağı dokunmatik ekran uyumlu. Bedenler S–3XL."
+    ],
+    "forWho": [
+      "Kışın şehir içi ve kısa turlarda kısa manşetli, ince hisli eldiven isteyen naked/roadster sürücüleri",
+      "Soğukta çalışan ve telefonu eldivenle kullanan kuryeler"
+    ],
+    "notFor": [
+      "Çok soğukta uzun etap yapanlar: kısa manşet ve orta seviye yalıtım",
+      "Deri gövdeli, uzun manşetli kış eldiveni arayanlar"
+    ],
+    "pros": [
+      "Su geçirmez insert ve 140 g/m² dolgu",
+      "Eklem kabuğu, avuç kaydırıcı, EN 13594 Level 1 KP",
+      "Softshell üst ile esnek ve rahat",
+      "Dokunmatik işaret parmağı"
+    ],
+    "cons": [
+      "Kısa manşet, soğuk havanın girmesine daha açık",
+      "Insert tipi membran ıslanınca geç kurur",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için çok uygun.",
+      "uzunYol": "Soğuk turlarda kullanılabilir; uzun etapta kısa manşet dezavantaj.",
+      "yaz": "Kış eldiveni; yaz için uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "Su geçirmez insert sayesinde yağmura dayanıklı.",
+      "kurye": "Kışın kurye kullanımı için dokunmatik parmak ve kolay giyilen kısa manşetle uygun."
+    },
+    "verdict": "Pro Russel 2, kışın kalın eldiven hantallığı istemeyen şehir sürücüleri için iyi bir denge kuruyor: sertifikalı koruma, su geçirmezlik ve orta seviye sıcaklık. Çok soğuk uzun yollar için uzun manşetli bir model daha doğru olur.",
+    "faq": [
+      {
+        "q": "Pro Russel 2 ne kadar sıcak tutar?",
+        "a": "Ixon 140 g/m² dolgu ve mikropolar astar kullanıyor, sıcaklığı kendi skalasında 3 olarak veriyor. Türkiye'deki çoğu kış günü için yeterli; dondurucu soğukta ısıtmalı elcikle desteklemek gerekebilir."
+      },
+      {
+        "q": "Sertifikası var mı?",
+        "a": "Evet, Ixon EN 13594:2015'e göre Level 1 KP sertifikalı olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixon.com/en/pro-russel-2",
+    "sources": [
+      {
+        "url": "https://www.ixon.com/en/pro-russel-2",
+        "type": "manufacturer",
+        "label": "Ixon – Pro Russel 2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Softshell el üstü, keçi derisi avuç, mikropolar astar, 140 g/m² dolgu",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez insert",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Neopren manşet, bilek sıkma tırnağı, kısa manşet",
+      "madeIn": null
+    }
+  }
+]

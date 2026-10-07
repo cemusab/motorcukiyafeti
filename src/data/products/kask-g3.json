@@ -1,0 +1,3786 @@
+[
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 5999,
+      "max": 6499,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-stream-2-kapali-kask-mat-siyah-_58115.html",
+        "price": 5999,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-stream-2-fury-kapali-kask-mat-siyah-gri-kirmizi-_58292.html",
+        "price": 6499,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Fury Mat Siyah-Gri-Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "stream-ii",
+    "brand": "ls2",
+    "name": "FF808 Stream II",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "LS2'nin KPA termoplastik kabuklu, güneş vizörlü giriş seviyesi kapalı kaskı. ECE 22.06 onaylı, üç kabuk boyutlu; şehir içi ve kısa yol için bütçe dostu bir seçenek.",
+    "description": [
+      "Stream II, LS2'nin şehir ve şehirlerarası kullanım için konumlandırdığı FF808 kodlu kapalı kask. Kabuk KPA adlı termoplastik alaşımdan üretiliyor ve üç dış kabuk boyutuyla (2XS-S, M-L, XL-3XL) sunuluyor. Üretici ağırlığı 1.550 g (±50 g) olarak veriyor, bedeni belirtmiyor. ECE 22.06 onaylı.",
+      "Donanım tarafında iç güneş vizörü (Twin Visor), Pinlock 70 Max Vision'a hazır çizilmeye dayanıklı vizör, tepe ve çene havalandırması, nefes deflektörü ve çene perdesi var. İç pedler çıkarılıp yıkanabiliyor, mikrometrik toka kullanılıyor ve LS2 interkom ünitesine hazır. Pinlock lensi kutudan çıkmıyor, ayrıca alınması gerekiyor."
+    ],
+    "forWho": [
+      "İlk kaskını alan ve güneş vizörlü, onaylı bir kapalı kask arayan sürücüler",
+      "Şehir içinde her gün kullanacağı uygun fiyatlı bir kask isteyenler",
+      "Bütçesi sınırlı kuryeler ve scooter kullanıcıları"
+    ],
+    "notFor": [
+      "Yüksek hızda uzun otoban etapları yapan ve sessizlik bekleyen tur sürücüleri",
+      "Pist veya sportif sürüş odaklı olanlar"
+    ],
+    "pros": [
+      "ECE 22.06 onay ve üç kabuk boyutu bu fiyat sınıfında güçlü bir paket",
+      "İç güneş vizörü ve nefes deflektörü standart",
+      "Çıkarılıp yıkanabilen iç pedler",
+      "Türkiye'de yaygın satılıyor, yedek vizör ve parça bulmak kolay"
+    ],
+    "cons": [
+      "Pinlock lensi kutuda yok, ayrıca alınmalı",
+      "Termoplastik kabuk fiber kasklara göre daha hacimli ve ağır hissettirebilir",
+      "Üretici hangi bedenin 1.550 g olduğunu belirtmiyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı. Güneş vizörü ve kolay açılan vizörle trafikte rahat.",
+      "uzunYol": "Kısa ve orta mesafede yeterli; çok uzun etaplarda üst segment kasklar kadar sessiz ve konforlu olmaz.",
+      "otoban": "ECE 22.06 güvencesi var ama aerodinamik ve rüzgâr gürültüsü fiyat sınıfının sınırlarında.",
+      "sport": "Sportif sürüşe göre tasarlanmamış; görüş açısı ve kabuk formu tur-şehir odaklı.",
+      "adventure": "Siperliği yok, arazi kullanımı için uygun değil.",
+      "gozluk": "Gözlükle kullanım kafa yapısına ve gözlük sapına göre değişir; satın almadan önce gözlükle denemek gerekir.",
+      "interkom": "LS2 interkom ünitesine hazır; evrensel interkomlar da yapıştırma ya da kelepçe ile takılabilir.",
+      "kurye": "Fiyatı, güneş vizörü ve yıkanabilir pedleri ile bütçeli kurye kullanımına uygun; yoğun kullanımda vizör ve pedlerin daha sık yenilenmesi gerekebilir."
+    },
+    "verdict": "Stream II, düşük bütçeyle ECE 22.06 onaylı, güneş vizörlü ve üç kabuk boyutlu bir kapalı kask isteyen için mantıklı bir başlangıç. Şehir, kısa yol ve kurye kullanımında işini görür. Pinlock'u ayrıca almayı hesaba katmak gerekir; uzun otoban turları için daha sessiz bir kask düşünülmeli.",
+    "rivals": [
+      "ls2/ff800-storm-ii",
+      "mt-helmets/stinger-2",
+      "kyt/tt-revo"
+    ],
+    "faq": [
+      {
+        "q": "Stream II'de Pinlock var mı?",
+        "a": "Vizör Pinlock 70 Max Vision'a hazır ama lens kutudan çıkmıyor; ayrıca satın alınması gerekiyor."
+      },
+      {
+        "q": "Stream II ile Storm II arasındaki fark ne?",
+        "a": "İkisi de LS2'nin KPA kabuklu, güneş vizörlü kapalı kaskları. Stream II daha sade ve uygun fiyatlı konumlanıyor; Storm II'de bazı ek donanımlar bulunuyor. Seçimi bütçe ve kafa kalıbına göre yapmak gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/full-face/stream-ii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Nardo Grey",
+      "Jeans",
+      "Vintage",
+      "Shadow",
+      "Fury",
+      "Road"
+    ],
+    "sizes": [
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "2XS",
+        "min": 51,
+        "max": 52
+      },
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "KPA (Kinetic Polymer Alloy, termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1550,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Çizilmeye ve UV'ye dayanıklı, Pinlock 70 Max Vision'a hazır, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": true,
+      "ventilation": "Tepe ve çene girişi, arka çıkış",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ünitesine hazır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/full-face/stream-ii",
+        "type": "manufacturer",
+        "label": "LS2 FF808 Stream II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-stream-2-kapali-kask-mat-siyah-_58115.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 FF808 Stream II (Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-stream-2-fury-kapali-kask-mat-siyah-gri-kirmizi-_58292.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 FF808 Stream II (Fury Mat Siyah-Gri-Kırmızı)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 5999,
+      "max": 6499,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-copter-2-gunes-vizorlu-acik-kask-mat-siyah-_58649.html",
+        "price": 5999,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-copter-2-urbane-gunes-vizorlu-acik-kask-mat-siyah-neon-sari-_58653.html",
+        "price": 6499,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Urbane Mat Siyah-Neon Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "copter-ii",
+    "brand": "ls2",
+    "name": "OF600 Copter II",
+    "subcategories": [
+      "acik-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "LS2'nin HPTT termoplastik kabuklu, güneş vizörlü açık (jet) kaskı. 1.300 g civarında, ECE 22.06 onaylı; scooter ve şehir içi kısa yollar için hafif bir seçenek.",
+    "description": [
+      "Copter II, LS2'nin OF600 kodlu açık kaskı. Kabuk HPTT adlı termoplastikten üretiliyor ve üç kabuk boyutuyla (XS-S, M-L, XL-2XL) geliyor. Üretici ağırlığı 1.300 g (±50 g) olarak veriyor, bedenini belirtmiyor. Kask ECE 22.06 onaylı.",
+      "Yüzü kapatan geniş ön vizör çizilmeye ve UV'ye dayanıklı, buğu azaltacak şekilde tasarlanmış; içinde aşağı inen güneş vizörü var. Tepede iki büyük hava girişi, mikrometrik toka, çıkarılıp yıkanabilen iç pedler ve LS2 interkom hazırlığı bulunuyor. Açık kask olduğu için çene koruması yok; bu, kapalı kasklara göre ciddi bir koruma farkı demek."
+    ],
+    "forWho": [
+      "Scooter ile şehir içinde kısa mesafe kullananlar",
+      "Sıcak havada hafif ve ferah bir kask isteyenler",
+      "Kapalı kaskta kendini sıkışmış hisseden, düşük hızlı kullanıcılar"
+    ],
+    "notFor": [
+      "Otoban ve yüksek hız kullanıcıları: çene koruması yok",
+      "Kurye: günde saatlerce trafikte kalan kurye için çene korumalı kapalı ya da çene açılır kask daha güvenli"
+    ],
+    "pros": [
+      "Hafif: üretici değeri 1.300 g (±50 g)",
+      "Geniş ön vizör ve iç güneş vizörü",
+      "Üç kabuk boyutu",
+      "Türkiye'de uygun fiyatla ve yaygın satılıyor"
+    ],
+    "cons": [
+      "Çene koruması yok; yüz ve çene darbede korunmaz",
+      "Açık yapı nedeniyle rüzgâr gürültüsü yüksek",
+      "Pinlock desteği üretici sayfasında belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı. Hafif ve ferah, kısa duraklamalarda pratik.",
+      "uzunYol": "Rüzgâr ve gürültü nedeniyle uzun yolda yorucu olur.",
+      "otoban": "Yüksek hız için önerilmez; çene koruması yok.",
+      "sport": "Sportif sürüşe uygun değil.",
+      "adventure": "Arazi kullanımı için uygun değil.",
+      "gozluk": "Açık yapısı sayesinde gözlükle takıp çıkarmak genelde kolaydır.",
+      "interkom": "LS2 interkom ünitesine hazır.",
+      "kurye": "Kurye için önerilmez: uzun saatler trafikte çene koruması olmayan kask ciddi risk taşır."
+    },
+    "verdict": "Copter II, scooterla şehir içinde düşük hızda dolaşan ve hafif, güneş vizörlü bir jet kask isteyen için uygun fiyatlı bir seçenek. ECE 22.06 onaylı ama çene koruması olmadığını unutmamak gerekir. Kurye ve hızlı yol kullanımında kapalı ya da çene açılır bir kask tercih edilmeli.",
+    "rivals": [],
+    "faq": [
+      {
+        "q": "Copter II yasal mı, ECE onaylı mı?",
+        "a": "Evet, üretici kaskın ECE 22.06 onaylı olduğunu belirtiyor. Açık kask olduğu için çene bölgesini korumadığını unutmamak gerekir."
+      },
+      {
+        "q": "Copter II'de güneş vizörü var mı?",
+        "a": "Evet, iç güneş vizörü (Twin Visor System) standart."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/open-face/copter-ii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Titanium",
+      "Nardo Grey",
+      "Military Green",
+      "Navy Blue",
+      "Urbane",
+      "Diston",
+      "Tango"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "HPTT (termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1300,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Geniş, çizilmeye ve UV'ye dayanıklı, buğu azaltıcı tasarım, hızlı sökülür",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "Tepede iki büyük giriş, arka çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ünitesine hazır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/open-face/copter-ii",
+        "type": "manufacturer",
+        "label": "LS2 OF600 Copter II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-copter-2-gunes-vizorlu-acik-kask-mat-siyah-_58649.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 OF600 Copter II (Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-copter-2-urbane-gunes-vizorlu-acik-kask-mat-siyah-neon-sari-_58653.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 OF600 Copter II (Urbane Mat Siyah-Neon Sarı)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "advant-x",
+    "brand": "ls2",
+    "name": "FF901 Advant X",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Çenesi 180 derece arkaya dönen, HPFC kompozit kabuklu P/J onaylı modüler kask. Pinlock 120 kutudan çıkıyor; uzun yol ve dört mevsim kullanım için tasarlanmış.",
+    "description": [
+      "Advant X, LS2'nin çene bölümü 180 derece dönerek kaskın arkasına yerleşen modüler kaskı. Bu yapı, çene açıkken yüksek hızda yelken etkisini azaltıyor ve kaskı dengeli bir jet kaska dönüştürüyor. Kabuk HPFC adlı cam elyafı ağırlıklı kompozitten, iki kabuk boyutuyla (XS-L, XL-3XL) üretiliyor. Üretici ağırlığı 1.600 g (±50 g) veriyor.",
+      "ECE 22.06 ve P/J çift onaylı. Geniş vizör Pinlock 120 XLT Max Vision lensiyle kutudan çıkıyor, iç güneş vizörü, nefes deflektörü, acil durum yanak pedi çıkarma sistemi ve metal mikrometrik toka var. LS2 interkom ünitesi yalnızca yapıştırmayla takılabiliyor; kendi yuvası olan kasklar kadar temiz bir entegrasyon beklenmemeli. Türkiye'de ağırlıklı olarak karbon versiyonu (Advant X Carbon) satılıyor; standart HPFC sürümün yetkili satıcı fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Çeneyi tamamen arkaya alıp açık kask gibi sürmek isteyen tur sürücüleri",
+      "Sık durup kalkan ve kaskı çıkarmadan konuşmak isteyenler",
+      "Pinlock'un kutudan çıkmasını önemseyenler"
+    ],
+    "notFor": [
+      "Kuryeler: mekanizmalı yapı ve fiyat yoğun günlük kullanıma göre maliyetli",
+      "Pist ya da sportif sürüş odaklı olanlar"
+    ],
+    "pros": [
+      "180 derece dönen çene ile dengeli açık konum",
+      "ECE 22.06 ve P/J çift onay",
+      "Pinlock 120 XLT kutuda",
+      "Acil durum pedi çıkarma sistemi ve metal mikrometrik toka"
+    ],
+    "cons": [
+      "Sadece iki kabuk boyutu: küçük bedenlerde kask hacimli kalabilir",
+      "İnterkom ünitesi yalnızca yapıştırma ile takılıyor",
+      "Standart sürümün Türkiye fiyatı doğrulanamadı; karbon sürüm daha yaygın"
+    ],
+    "usage": {
+      "sehir": "Çeneyi arkaya atıp jet kask gibi kullanmak sıcak havada şehirde büyük kolaylık.",
+      "uzunYol": "Asıl kullanım alanı. Güneş vizörü, Pinlock ve P/J onay uzun turlar için güçlü bir paket.",
+      "otoban": "Çene kapalıyken kapalı kask gibi çalışır; çene açık kullanımda rüzgâr ve gürültü artar.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok; asfalt ağırlıklı turlara uygun.",
+      "gozluk": "Çene açılabildiği için gözlükle takıp çıkarmak kolaydır.",
+      "interkom": "LS2 interkom ünitesi yapıştırma ile takılabiliyor; diğer evrensel interkomlar da benzer şekilde montajlanır.",
+      "kurye": "Çene açılabilmesi teslimatta pratik ama fiyatı ve mekanizması nedeniyle yoğun kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "Advant X, çenesi tamamen arkaya dönen bir modüler arayan ve uzun yolda konforu öne koyan sürücü için donanımlı bir seçenek. P/J onay ve kutudan çıkan Pinlock artı. İki kabuk boyutu ve yapıştırmalı interkom montajı zayıf noktaları; Türkiye'de standart sürümü bulmak karbon sürümden zor olabilir.",
+    "rivals": [
+      "nolan/n120-1",
+      "mt-helmets/atom-2-sv",
+      "ls2/strobe-ii"
+    ],
+    "faq": [
+      {
+        "q": "Advant X çene açıkken sürülebilir mi?",
+        "a": "Evet. Kask P/J çift onaylı; çene 180 derece arkaya döndüğünde açık kask olarak da onaylı kullanılabiliyor."
+      },
+      {
+        "q": "Advant X ile Advant X Carbon farkı ne?",
+        "a": "Standart Advant X'in kabuğu HPFC kompozit; Carbon sürümde karbon fiber kabuk kullanılıyor. Türkiye'de daha çok karbon sürüm satışta görünüyor."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/modular/advant-x",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Nardo Grey",
+      "Titanium",
+      "Navy Blue",
+      "Oblivion",
+      "Metryk",
+      "Spectrum",
+      "Ultra",
+      "Nova"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "HPFC (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1600,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Geniş, çizilmeye ve UV'ye dayanıklı, Pinlock 120 XLT Max Vision dahil, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çene ve tepe girişi, arka çıkış, kanallı EPS",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ile uyumlu; montaj yalnızca yapıştırma ile. ECE 22.06 ve P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/modular/advant-x",
+        "type": "manufacturer",
+        "label": "LS2 FF901 Advant X ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 5749,
+      "max": 6499,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-strobe-2-ceneden-acilir-kask-parlak-siyah-_58234.html",
+        "price": 5749,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Parlak Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/ls2-strobe-2-monza-ceneden-acilir-kask-siyah-beyaz-kirmizi-_59061.html",
+        "price": 6499,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Monza Siyah-Beyaz-Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "strobe-ii",
+    "brand": "ls2",
+    "name": "FF908 Strobe II",
+    "subcategories": [
+      "cene-acilir-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "LS2'nin KPA termoplastik kabuklu, güneş vizörlü ve P/J onaylı uygun fiyatlı çene açılır kaskı. Türkiye'de en kolay bulunan bütçe modüllerden biri; şehir ve kurye kullanımına yakın.",
+    "description": [
+      "Strobe II, LS2'nin FF908 kodlu çene açılır kaskı. Çene bölümü 90 derece yukarı kalkıyor; kask ECE 22.06 ve P/J çift onaylı, yani çene açık konumda da onaylı kullanılabiliyor. Kabuk KPA termoplastikten, üç kabuk boyutuyla (XS-S, M-L, XL-3XL) üretiliyor. Üretici ağırlığı 1.700 g (±50 g) olarak veriyor.",
+      "İç güneş vizörü, Pinlock 70 Max Vision'a hazır vizör, çene ve tepe havalandırması, nefes deflektörü ve çene kilidi standart. 3D lazer kesim iç pedler çıkarılıp yıkanabiliyor, LS2 interkom ünitesine hazırlık var. Pinlock lensi kutuda değil. Ağırlık modüler yapı nedeniyle kapalı kasklardan yüksek."
+    ],
+    "forWho": [
+      "Uygun fiyatlı, onaylı bir çene açılır kask arayanlar",
+      "Sık durup kalkan kuryeler ve şehir içi kullanıcılar",
+      "Gözlük kullanan ve kaskı çene açarak takmak isteyenler"
+    ],
+    "notFor": [
+      "Hafiflik ve sessizlik önceliği olan uzun otoban turcuları",
+      "Pist ya da sportif sürüş odaklı olanlar"
+    ],
+    "pros": [
+      "ECE 22.06 ve P/J çift onay bu fiyat sınıfında önemli bir artı",
+      "İç güneş vizörü ve nefes deflektörü standart",
+      "Üç kabuk boyutu",
+      "Türkiye'de uygun fiyatla yaygın satılıyor"
+    ],
+    "cons": [
+      "1.700 g (±50 g) ile hafif değil",
+      "Pinlock lensi ayrıca alınmalı",
+      "Termoplastik modüler kasklarda yüksek hızda gürültü artabilir"
+    ],
+    "usage": {
+      "sehir": "Çeneyi kaldırıp konuşmak ve güneş vizörü şehir içinde çok pratik.",
+      "uzunYol": "Orta mesafede iş görür; ağırlığı uzun etaplarda boyunda hissedilebilir.",
+      "otoban": "Çene kapalıyken kullanılmalı; aerodinamik ve sessizlik fiyat sınıfı seviyesinde.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "adventure": "Siperliği yok, arazi için tasarlanmamış.",
+      "gozluk": "Çene açılır yapı ve gözlük kanalları gözlükle kullanımı kolaylaştırır.",
+      "interkom": "LS2 interkom ünitesine hazır; evrensel interkomlar da takılabilir.",
+      "kurye": "Bütçeli kurye için güçlü aday: çene açılır yapı teslimatlarda pratik, fiyatı düşük. Mekanizma ve vizör yoğun kullanımda düzenli bakım ister."
+    },
+    "verdict": "Strobe II, düşük bütçeyle P/J onaylı, güneş vizörlü bir çene açılır kask isteyen için Türkiye'deki en mantıklı seçeneklerden biri. Kurye ve şehir içi kullanımda pratikliği öne çıkıyor. Ağırlığı ve Pinlock'un ayrı satılması zayıf noktaları.",
+    "rivals": [
+      "mt-helmets/genesis-sv",
+      "mt-helmets/atom-2-sv",
+      "ls2/advant-x"
+    ],
+    "faq": [
+      {
+        "q": "Strobe II çene açıkken kullanılabilir mi?",
+        "a": "Evet, kask ECE 22.06 ve P/J çift onaylı. Yine de yüksek hızda çeneyi kapalı tutmak daha güvenli ve sessizdir."
+      },
+      {
+        "q": "Strobe II kurye için uygun mu?",
+        "a": "Fiyatı, güneş vizörü ve çene açılır yapısıyla bütçeli kurye kullanımına uygun. Mekanizmanın ve vizörün düzenli temizlenmesi gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/modular/strobe-ii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "Titanium",
+      "White",
+      "Navy Blue",
+      "Lux",
+      "Code",
+      "Monza"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "KPA (Kinetic Polymer Alloy, termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1700,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Çizilmeye ve UV'ye dayanıklı, Pinlock 70 Max Vision'a hazır, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": true,
+      "ventilation": "Çene ve tepe girişi, arka çıkış, kanallı EPS",
+      "chinCurtain": null,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ünitesine hazır. ECE 22.06 ve P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/modular/strobe-ii",
+        "type": "manufacturer",
+        "label": "LS2 FF908 Strobe II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-strobe-2-ceneden-acilir-kask-parlak-siyah-_58234.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 FF908 Strobe II (Parlak Siyah)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/ls2-strobe-2-monza-ceneden-acilir-kask-siyah-beyaz-kirmizi-_59061.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – LS2 FF908 Strobe II (Monza Siyah-Beyaz-Kırmızı)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "storm-iii",
+    "brand": "ls2",
+    "name": "Storm III",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Storm II'nin yerini alan KPA kabuklu, güneş vizörlü yeni kapalı kask. Pinlock 70 Max Vision kutudan çıkıyor, acil durum ped sistemi var; şehir ve tur kullanımı için.",
+    "description": [
+      "Storm III, LS2'nin 2026-27 koleksiyonuyla gelen şehir-tur kapalı kaskı ve Storm II'nin yerini alıyor. Kabuk KPA termoplastikten, üç kabuk boyutuyla (2XS-S, M-L, XL-3XL) üretiliyor; üretici ağırlığı 1.600 g (±50 g) olarak veriyor. ECE 22.06 onaylı.",
+      "Pinlock 70 Max Vision lensi kutudan çıkıyor. İç güneş vizörü kolay sökülebiliyor, tepede büyük hava girişi, çene girişi, nefes deflektörü ve mıknatıslı çene perdesi var. Acil durum yanak pedi çıkarma sistemi, vizör kilit düğmesi ve mikrometrik toka standart; LS2 interkoma hazır. Model yeni olduğu için Türkiye'de yetkili satıcı fiyatını henüz doğrulayamadık."
+    ],
+    "forWho": [
+      "Storm II'yi beğenen ve serinin güncel sürümünü isteyenler",
+      "Şehir içi ve hafta sonu turlarında güneş vizörlü bir kapalı kask arayanlar",
+      "Orta bütçeyle acil durum ped sistemi gibi güvenlik detaylarına önem verenler"
+    ],
+    "notFor": [
+      "Pist ve sportif sürüş odaklı olanlar",
+      "Hafiflik önceliği olanlar: fiber kasklar daha hafif olabilir"
+    ],
+    "pros": [
+      "Pinlock 70 Max Vision kutudan çıkıyor",
+      "Acil durum yanak pedi sistemi ve vizör kilidi",
+      "Üç kabuk boyutu ve mıknatıslı çene perdesi",
+      "İç güneş vizörü kolay sökülebiliyor"
+    ],
+    "cons": [
+      "Yeni model; Türkiye'de fiyat ve stok henüz doğrulanamadı",
+      "Termoplastik kabuk 1.600 g (±50 g), sınıfında ortalama",
+      "Üretici ağırlığın hangi bedene ait olduğunu belirtmiyor"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü, büyük tepe girişi ve kutudan çıkan Pinlock ile şehirde rahat.",
+      "uzunYol": "Tur kullanımı için tasarlanmış; çene perdesi ve nefes deflektörü konforu artırıyor.",
+      "otoban": "Yüksek hızda da kullanılabilir; sessizlik fiber üst segment kasklar seviyesinde olmayabilir.",
+      "sport": "Sportif sürüşe göre değil, tur-şehir odaklı.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa ve gözlük yapısına göre değişir; denenmeli.",
+      "interkom": "LS2 interkom ünitesine hazır.",
+      "kurye": "Pinlock'un kutudan çıkması yağmurlu günlerde kurye için artı; Türkiye fiyatı netleşince bütçe açısından değerlendirilmeli."
+    },
+    "verdict": "Storm III, kutudan çıkan Pinlock, acil durum yanak pedleri ve mıknatıslı çene perdesiyle güncel bir şehir-tur kapalı kaskı. Kâğıt üzerinde sınıfında dengeli bir paket. Türkiye'de fiyatı netleşene kadar Storm II ile karşılaştırarak karar vermek mantıklı.",
+    "rivals": [
+      "ls2/ff800-storm-ii",
+      "mt-helmets/thunder-4-sv",
+      "kyt/r2r"
+    ],
+    "faq": [
+      {
+        "q": "Storm III ile Storm II arasındaki fark ne?",
+        "a": "Storm III, serinin 2026-27 koleksiyonuyla gelen yeni kuşağı. Üretici sayfasında acil durum yanak pedi sistemi, mıknatıslı çene perdesi ve şeffaf parçalı havalandırma öne çıkıyor; KPA kabuk ve üç kabuk boyutu yapısı korunuyor. Ağırlık 1.600 g (±50 g) olarak veriliyor."
+      },
+      {
+        "q": "Storm III Türkiye'de satılıyor mu?",
+        "a": "Kontrol tarihimizde yetkili Türk satıcılarda birebir Storm III ürün sayfası bulamadık. Satışa çıktığında fiyat bilgisi eklenecek."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/full-face/storm-iii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Nardo Grey",
+      "Jeans",
+      "Burst",
+      "Sporty",
+      "Dynamo",
+      "Kaos",
+      "Komai"
+    ],
+    "sizes": [
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "2XS",
+        "min": 51,
+        "max": 52
+      },
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "KPA (Kinetic Polymer Alloy, termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1600,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Max Vision, çizilmeye ve UV'ye dayanıklı, Pinlock 70 Max Vision dahil, kilit düğmeli, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Büyük tepe girişi ve çene girişi (şeffaf parçalı), arka çıkışlar, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ünitesine hazır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/full-face/storm-iii",
+        "type": "manufacturer",
+        "label": "LS2 Storm III ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "rapid-iii",
+    "brand": "ls2",
+    "name": "Rapid III",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask"
+    ],
+    "summary": "LS2'nin en hafif ve en uygun fiyatlı kapalı kask çizgisinin yeni kuşağı. HPTT termoplastik kabuk, 1.350 g ve ECE 22.06; şehir içi, ilk kask ve kurye kullanımı için sade bir seçenek.",
+    "description": [
+      "Rapid III, Türkiye'de kurye ve ilk kask segmentinde çok yaygın olan Rapid serisinin yeni kuşağı. Kabuk LS2'nin HPTT adlı hafif termoplastiğinden, üç kabuk boyutuyla (2XS-S, M-L, XL-3XL) üretiliyor. Üretici ağırlığı 1.350 g (±50 g) olarak veriyor; bu, LS2'nin kapalı kaskları arasında en düşük değerlerden. ECE 22.06 onaylı.",
+      "Donanım sade tutulmuş: iç güneş vizörü yok, vizör Pinlock 70 Max Vision'a hazır ama lens kutuda değil. Tepe ve çene girişi, arka çıkışlar, nefes deflektörü, çene perdesi, metal güvenlik plakası ve mikrometrik toka var; iç pedler çıkarılıp yıkanabiliyor. Üretici sayfasında interkom hazırlığı belirtilmiyor. Türk satıcılarda kontrol tarihinde ağırlıklı olarak önceki kuşak Rapid II listeleniyordu; Rapid III için birebir ürün sayfası bulamadık."
+    ],
+    "forWho": [
+      "İlk kaskını alan ve hafif, onaylı bir kapalı kask arayanlar",
+      "Bütçeli kuryeler ve şehir içi günlük kullanıcılar",
+      "Güneş vizörüne ihtiyaç duymayan, sade kask isteyenler"
+    ],
+    "notFor": [
+      "Güneş vizörü isteyenler",
+      "Uzun yol ve otobanda sessizlik bekleyen tur sürücüleri"
+    ],
+    "pros": [
+      "1.350 g (±50 g) ile hafif",
+      "ECE 22.06 ve üç kabuk boyutu",
+      "Nefes deflektörü, çene perdesi ve yıkanabilir pedler",
+      "Pinlock 70 Max Vision'a hazır vizör"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Pinlock lensi kutuda değil",
+      "Türkiye'de fiyatı henüz doğrulanamadı; satıcılarda önceki kuşak Rapid II yaygın"
+    ],
+    "usage": {
+      "sehir": "Hafifliği ve sade yapısıyla şehirde rahat; güneşli havada koyu vizör ya da güneş gözlüğü gerekir.",
+      "uzunYol": "Kısa ve orta yollarda yeterli; uzun turlarda donanım ve konfor sınırlı.",
+      "otoban": "ECE 22.06 onaylı; gürültü ve aerodinamik giriş seviyesinde.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "Üretici interkom hazırlığı belirtmiyor; evrensel interkomlar kelepçe ya da yapıştırma ile takılabilir.",
+      "kurye": "Hafifliği ve fiyat sınıfıyla kurye için mantıklı; güneş vizörü olmaması gündüz kullanımında eksik."
+    },
+    "verdict": "Rapid III, hafif, onaylı ve sade bir kapalı kask isteyen için LS2'nin giriş seçeneği. Kurye ve şehir içi kullanımda işini görür. Güneş vizörü isteyen kullanıcı için Stream II veya Storm III daha uygun.",
+    "rivals": [
+      "ls2/stream-ii",
+      "mt-helmets/stinger-2",
+      "mt-helmets/targo-s"
+    ],
+    "faq": [
+      {
+        "q": "Rapid III'te güneş vizörü var mı?",
+        "a": "Hayır. Rapid III tek vizörlü sade bir kask; güneş vizörü isteyenler için LS2'nin Stream II ve Storm III modelleri var."
+      },
+      {
+        "q": "Rapid III ile Rapid II farkı ne?",
+        "a": "Rapid III serinin yeni kuşağı; HPTT kabuk, 1.350 g (±50 g) ağırlık ve ECE 22.06 onayıyla geliyor. Türkiye'de kontrol tarihinde satıcılarda daha çok Rapid II bulunuyordu."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/full-face/rapid-iii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Titanium",
+      "Poppies",
+      "Lycant",
+      "Kaiju II",
+      "Zombie II",
+      "Boho",
+      "Hyper",
+      "Xtrem",
+      "Cyberg",
+      "Flow",
+      "Labyrinth"
+    ],
+    "sizes": [
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "2XS",
+        "min": 51,
+        "max": 52
+      },
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "HPTT (termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1350,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Çizilmeye ve UV'ye dayanıklı, Pinlock 70 Max Vision'a hazır, çift enjeksiyon conta, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": false,
+      "ventilation": "Tepe ve çene girişi, arka çıkışlar, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/full-face/rapid-iii",
+        "type": "manufacturer",
+        "label": "LS2 Rapid III ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "challenger-ii",
+    "brand": "ls2",
+    "name": "FF817 Challenger II",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "LS2'nin HPFC kompozit kabuklu, güneş vizörlü üst seviye tur kapalı kaskı. 1.500 g, Pinlock 120 XLT kutuda, acil durum ped sistemi ve metal mikrometrik toka standart.",
+    "description": [
+      "Challenger II, LS2'nin uzun yol için konumlandırdığı FF817 kodlu kapalı kask. Kabuk HPFC adlı cam elyafı ağırlıklı kompozitten, üç kabuk boyutuyla (2XS-S, M-L, XL-3XL) üretiliyor. Üretici ağırlığı 1.500 g (±50 g) veriyor. ECE 22.06 onaylı; geniş çevresel görüş öne çıkarılıyor.",
+      "Pinlock 120 XLT Max Vision lensi kutudan çıkıyor; kolay sökülebilen iç güneş vizörü, vizör kilit düğmesi, acil durum yanak pedi sistemi, metal mikrometrik toka ve metal güvenlik plakası var. Coolmax astar nem yönetimi sağlıyor, pedler çıkarılıp yıkanabiliyor, mıknatıslı çene perdesi ve nefes deflektörü standart; LS2 interkoma hazır. Türkiye'de kontrol tarihinde birebir ürün sayfası olan bir satıcı fiyatı doğrulayamadık."
+    ],
+    "forWho": [
+      "Fiber kabuklu, güneş vizörlü ve donanımlı bir tur kaskı arayanlar",
+      "Uzun yolda Pinlock ve iyi havalandırmayı önemseyenler",
+      "LS2'nin üst segmentine geçmek isteyen Storm ya da Stream kullanıcıları"
+    ],
+    "notFor": [
+      "Bütçeli kuryeler: aynı işi daha uygun fiyatlı LS2 modelleri görür",
+      "Pist kullanıcıları"
+    ],
+    "pros": [
+      "HPFC kompozit kabuk, 1.500 g (±50 g)",
+      "Pinlock 120 XLT kutuda",
+      "Acil durum pedleri, metal toka ve vizör kilidi",
+      "Coolmax astar ve mıknatıslı çene perdesi"
+    ],
+    "cons": [
+      "Türkiye fiyatı doğrulanamadı",
+      "Ağırlığın hangi bedene ait olduğu belirtilmiyor",
+      "Termoplastik LS2 modellerine göre belirgin şekilde pahalı"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü ve Pinlock ile şehirde rahat; fiyatı şehir içi kullanım için yüksek kalabilir.",
+      "uzunYol": "Asıl kullanım alanı; hafif kompozit kabuk ve Coolmax astar uzun etaplarda konfor sağlar.",
+      "otoban": "Tur odaklı aerodinamik ve vizör kilidiyle yüksek hızda kullanılabilir.",
+      "sport": "Sportif yol sürüşü yapılabilir; pist kaskı değil.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "LS2 interkom ünitesine hazır.",
+      "kurye": "Dayanıklı ve donanımlı ama fiyatı kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "Challenger II, LS2'nin fiber kabuklu, kutudan Pinlock'la çıkan ve güvenlik detayları güçlü tur kaskı. Uzun yol sürücüsü için dengeli bir paket. Türkiye'de fiyatı netleşene kadar Storm III ve rakip markalarla karşılaştırmak mantıklı.",
+    "rivals": [
+      "ls2/ff811-vector-ii",
+      "ls2/storm-iii",
+      "nolan/n80-8"
+    ],
+    "faq": [
+      {
+        "q": "Challenger II'de Pinlock kutudan çıkıyor mu?",
+        "a": "Evet, üretici Pinlock 120 XLT Max Vision lensin dahil olduğunu belirtiyor."
+      },
+      {
+        "q": "Challenger II ile Storm III farkı ne?",
+        "a": "Challenger II HPFC kompozit (fiber) kabuklu ve 1.500 g (±50 g); Storm III KPA termoplastik kabuklu ve 1.600 g (±50 g). Challenger II daha üst segmentte konumlanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/full-face/challenger-ii",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Nardo Grey",
+      "Flaman",
+      "Viper",
+      "Titan",
+      "Dravix",
+      "Essential"
+    ],
+    "sizes": [
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "2XS",
+        "min": 51,
+        "max": 52
+      },
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "HPFC (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1500,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Max Vision, çizilmeye ve UV'ye dayanıklı, Pinlock 120 XLT Max Vision dahil, kilit düğmeli, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Tepe girişi, arka çıkışlar, kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ünitesine hazır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/full-face/challenger-ii",
+        "type": "manufacturer",
+        "label": "LS2 FF817 Challenger II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "explorer-evo",
+    "brand": "ls2",
+    "name": "MX707 Explorer Evo",
+    "subcategories": [
+      "adventure-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "LS2'nin HPFC kompozit kabuklu yeni adventure kaskı. Sökülebilir siperlik, iç güneş vizörü ve kutudan çıkan Pinlock 70 ile asfalt ve toprak yolu birleştiren uzun turlar için.",
+    "description": [
+      "Explorer Evo, LS2'nin MX707 kodlu yeni adventure (trail) kaskı. Kabuk HPFC kompozitten, üç kabuk boyutuyla (XS-S, M-L, XL-3XL) üretiliyor; üretici ağırlığı 1.550 g (±50 g) veriyor. ECE 22.06 onaylı. Yeni kanallı havalandırma sistemi ve siperlik girişi hava akışını artırmak için tasarlanmış.",
+      "Ayarlanabilir ve sökülebilir siperlik, geniş vizör, Pinlock 70 Max Vision lensi (kutuda), iç güneş vizörü, acil durum ped sistemi, metal mikrometrik toka ve metal güvenlik plakası standart. Serin tutan spandex astar çıkarılıp yıkanabiliyor, elastik çene perdesi var ve LS2 interkomla uyumlu. Model yeni; Türkiye'de kontrol tarihinde birebir satıcı sayfası bulamadık."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu birlikte kullanan adventure motor sürücüleri",
+      "Siperlikli ama yolda da konforlu bir kask isteyenler",
+      "Pinlock ve güneş vizörünü bir arada isteyen uzun yol sürücüleri"
+    ],
+    "notFor": [
+      "Ciddi enduro/cross kullanıcıları: gözlüklü cross kasklar daha uygun",
+      "Kurye: siperlik ve fiyat şehir içi teslimat işine göre değil"
+    ],
+    "pros": [
+      "HPFC kompozit kabuk ve üç kabuk boyutu",
+      "Sökülebilir siperlik ve iç güneş vizörü",
+      "Pinlock 70 Max Vision kutuda",
+      "Acil durum pedleri ve metal toka"
+    ],
+    "cons": [
+      "Türkiye'de fiyat ve stok doğrulanamadı",
+      "Siperlik yüksek hızda rüzgâr yükü yaratabilir",
+      "Ağırlığın hangi bedene ait olduğu belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama siperlik şehir içi için gereksiz hacim yaratır; sökülebilmesi bir artı.",
+      "uzunYol": "Uzun tur için tasarlanmış; güneş vizörü ve Pinlock konfor sağlar.",
+      "otoban": "Yüksek hızda siperliği sökmek rüzgâr yükünü azaltır.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Asıl kullanım alanı: siperlik, geniş vizör ve kanallı havalandırma.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "LS2 interkomla uyumlu.",
+      "kurye": "Kurye için önerilmez: siperlik ve fiyatı şehir içi yoğun kullanıma göre değil."
+    },
+    "verdict": "Explorer Evo, LS2'nin kompozit kabuklu, kutudan Pinlock'la çıkan ve güneş vizörlü güncel adventure kaskı. Asfalt ağırlıklı adventure turları için dengeli bir paket. Türkiye'de satışa çıktığında fiyatı rakip adventure kasklarla karşılaştırılmalı.",
+    "rivals": [
+      "nolan/n70-2-x"
+    ],
+    "faq": [
+      {
+        "q": "Explorer Evo'nun siperliği sökülebilir mi?",
+        "a": "Evet, üretici siperliğin ayarlanabilir ve sökülebilir olduğunu belirtiyor."
+      },
+      {
+        "q": "Explorer Evo'da Pinlock var mı?",
+        "a": "Evet, Pinlock 70 Max Vision lensi kaskla birlikte geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://ls2helmets.com/helmets/adventure/explorer-evo",
+    "dataConfidence": "high",
+    "colors": [
+      "Black",
+      "White",
+      "Talux",
+      "Nivra"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "2XL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.breathGuard",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "HPFC (cam elyafı ağırlıklı kompozit)",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1550,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Geniş, çizilmeye ve UV'ye dayanıklı, Pinlock 70 Max Vision dahil, kilit düğmeli, hızlı sökülür",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Siperlik girişi, tepe ve çene girişi, arka çıkışlar, kalıp içi kanallı EPS",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "LS2 interkom ile uyumlu.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "sources": [
+      {
+        "url": "https://ls2helmets.com/helmets/adventure/explorer-evo",
+        "type": "manufacturer",
+        "label": "LS2 MX707 Explorer Evo ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 8900,
+      "max": 8900,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-atom-2-sv-solid-a1-parlak-cene-acilir-kask-78222",
+        "price": 8900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Solid A1 Parlak Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "atom-2-sv",
+    "brand": "mt-helmets",
+    "name": "Atom 2 SV",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask"
+    ],
+    "summary": "MT Helmets'in çok satan Atom SV'nin yerini alan güneş vizörlü çene açılır kaskı. ECE 22.06 ve DOT onaylı, Pinlock lensi kutuda; orta bütçeli tur ve şehir kullanıcısı için.",
+    "description": [
+      "Atom 2 SV, MT Helmets'in yedi yılı aşkın süre satışta kalan Atom SV'nin halefi olan çene açılır kask. Üretici, kaskın Thunder 4 SV ile aynı Ar-Ge ekibi ve süreçleriyle geliştirildiğini, ECE 22.06 ve DOT onaylı olduğunu belirtiyor. Çene tek düğmeyle kalkıyor; geniş görüş alanı ve arka spoylerle gizlenen hava çıkışı öne çıkan tasarım detayları.",
+      "Vizörde havalandırma konumlu açma düğmesi (MT-ESLS), burun deflektörüyle hizalanan genişletilmiş güneş vizörü (MT-ESP), çift dişli mikrometrik toka ve kutudan çıkan Pinlock DKS512 lensi var. Çene perdesi standart, dış parçalar bakım için sökülebiliyor. Üretici sayfası kabuk malzemesi, ağırlık ve P/J onay bilgisi vermiyor; bu alanları doğrulanmamış bıraktık."
+    ],
+    "forWho": [
+      "Orta bütçeyle güneş vizörlü, Pinlock'lu bir modüler kask arayanlar",
+      "Şehir içinde sık durup kalkan ve çeneyi kaldırıp konuşmak isteyenler",
+      "Atom SV kullanıp yeni kuşağa geçmek isteyenler"
+    ],
+    "notFor": [
+      "Hafiflik ve kompakt kabuk arayan sportif sürücüler",
+      "Çene açıkken onaylı sürüş (P/J) şart olanlar: üretici sayfasında bu onay belirtilmiyor"
+    ],
+    "pros": [
+      "ECE 22.06 ve DOT onaylı",
+      "Pinlock DKS512 lensi kutuda",
+      "Genişletilmiş güneş vizörü ve havalandırma konumlu vizör",
+      "Türkiye'de yaygın satılıyor"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk malzemesi bilgisi vermiyor",
+      "P/J onayı üretici sayfasında belirtilmiyor",
+      "İnterkom hazırlığı açıkça yazılmıyor"
+    ],
+    "usage": {
+      "sehir": "Çeneyi kaldırıp konuşabilmek ve güneş vizörü şehirde büyük kolaylık.",
+      "uzunYol": "Üreticinin hedeflediği alan; Pinlock ve güneş vizörü uzun turlarda konfor sağlar.",
+      "otoban": "Arka spoyler ve akışkanlar dinamiği çalışmasıyla tasarlanmış; modüler yapı tam kapalılar kadar sessiz olmayabilir.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok; asfalt ağırlıklı turlara uygun.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Üretici aynı sayfada MT-Rider Sync interkomu eşleşen aksesuar olarak öneriyor; montaj detayı belirtilmiyor.",
+      "kurye": "Çene açılır yapı ve uygun fiyatı kurye için mantıklı; mekanizmanın düzenli temizlenmesi gerekir."
+    },
+    "verdict": "Atom 2 SV, orta bütçeyle güneş vizörlü ve Pinlock'u kutudan çıkan bir modüler arayan için güçlü bir aday. ECE 22.06 ve DOT onayı güven veriyor. Ağırlık, kabuk malzemesi ve P/J onayının üretici tarafından açıkça verilmemesi eksik; satın almadan önce kaskı denemek ve etiketini kontrol etmek iyi olur.",
+    "rivals": [
+      "ls2/strobe-ii",
+      "nolan/n100-6",
+      "mt-helmets/genesis-sv"
+    ],
+    "faq": [
+      {
+        "q": "Atom 2 SV'de Pinlock var mı?",
+        "a": "Evet. Üreticinin kutu içeriğine göre Pinlock DKS512 lensi kaskla birlikte geliyor."
+      },
+      {
+        "q": "Atom 2 SV ile Atom SV farkı ne?",
+        "a": "Atom 2 SV, Atom SV'nin yerini alan yeni kuşak. ECE 22.06 onayıyla geliyor; genişletilmiş güneş vizörü, havalandırma konumlu vizör düğmesi ve çift dişli mikrometrik toka gibi yenilikler içeriyor."
+      }
+    ],
+    "manufacturerUrl": "https://mthelmets.com/en/products/atom-2-sv-pure-a1-matt",
+    "dataConfidence": "medium",
+    "colors": [
+      "Pure A0 Gloss",
+      "Pure A1 Matt",
+      "Pure A2 Matt",
+      "Dexter",
+      "Highlands",
+      "Strange"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "MT-V-35, yüksek kaliteli polikarbonat, MT-FSOS hızlı açma ve buğu önleme konumu, Pinlock DKS512 uyumlu",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Akışkanlar dinamiğiyle tasarlanmış sistem, arka spoylerde gizli çıkış, şeffaf parçalı girişler",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": "Üretici sayfası MT-Rider Sync interkomu eşleşen aksesuar olarak gösteriyor; yuva/montaj bilgisi yok.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://mthelmets.com/en/products/atom-2-sv-pure-a1-matt",
+        "type": "manufacturer",
+        "label": "MT Helmets Atom 2 SV ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-atom-2-sv-solid-a1-parlak-cene-acilir-kask-78222",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Atom 2 SV (Solid A1 Parlak Siyah)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 8200,
+      "max": 8200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-helmets-thunder-4-sv-rainforest-c2-kapali-kask-78009",
+        "price": 8200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Rainforest C2"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "thunder-4-sv",
+    "brand": "mt-helmets",
+    "name": "Thunder 4 SV",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask"
+    ],
+    "summary": "MT Helmets'in güneş vizörlü, ECE 22.06 ve DOT onaylı sport-touring kapalı kaskı. Aletsiz vizör değiştirme (MT-QVSS+) ve Pinlock hazırlığıyla Türkiye'de en çok tercih edilen bütçe kasklardan.",
+    "description": [
+      "Thunder 4 SV, 2022'de piyasaya çıktığında üreticinin ifadesiyle ECE 22.06 onayı alan ilk güneş vizörlü kapalı kask oldu. Sport-touring olarak konumlanıyor ve MT Helmets'in fiyat-performans çizgisinin en bilinen modeli. Hem ECE 22.06 hem DOT onaylı.",
+      "Öne çıkan özelliği MT-QVSS+ vizör sistemi: vizör eldivenle, hatta kask kafadayken bile sökülüp takılabiliyor. Vizör %100 Max Vision Pinlock iğneli, kilit mekanizmalı; genişletilmiş görüş alanlı güneş vizörü (MT-Sun Visor+), çene perdesi ve MT-Micrometric+ toka standart. Üretici ağırlık, kabuk malzemesi ve kutu içeriğindeki Pinlock bilgisini vermiyor."
+    ],
+    "forWho": [
+      "Düşük bütçeyle güneş vizörlü, ECE 22.06 onaylı kapalı kask arayanlar",
+      "Kurye ve her gün motor kullanan şehir sürücüleri",
+      "Vizörü sık değiştiren (gece-gündüz) kullanıcılar"
+    ],
+    "notFor": [
+      "Üst segment sessizlik ve konfor bekleyen uzun yol turcuları",
+      "Pist kullanıcıları"
+    ],
+    "pros": [
+      "ECE 22.06 ve DOT onaylı",
+      "Aletsiz, eldivenle vizör değiştirme (MT-QVSS+)",
+      "Pinlock Max Vision iğneli vizör ve güneş vizörü",
+      "Türkiye'de çok yaygın, parça ve vizör bulmak kolay"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk malzemesini belirtmiyor",
+      "Pinlock lensinin kutuda olup olmadığı üretici sayfasında net değil",
+      "Bütçe kask olduğu için iç ped kalitesi üst segmentle kıyaslanamaz"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü ve pratik vizör sistemiyle şehirde çok kullanışlı.",
+      "uzunYol": "Sport-touring konumlu; orta mesafede iyi, çok uzun etaplarda ped konforu sınırlayıcı olabilir.",
+      "otoban": "Kapalı kask yapısı otobanda iş görür; gürültü seviyesi fiyat sınıfının ortalamasında kabul edilmeli.",
+      "sport": "Hafif sportif sürüşe uygun; pist için tasarlanmamış.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "Üretici sayfası MT-Rider Sync interkomu eşleşen aksesuar olarak gösteriyor; evrensel interkomlar takılabilir.",
+      "kurye": "Uygun fiyatı, güneş vizörü ve kolay vizör değişimiyle kurye için popüler bir seçenek."
+    },
+    "verdict": "Thunder 4 SV, bütçeyle ECE 22.06 onaylı, güneş vizörlü ve pratik vizör sistemli bir kapalı kask isteyen için Türkiye'deki en mantıklı seçeneklerden biri. Kurye ve günlük kullanıcıya çok uygun. Ağırlık ve malzeme bilgisinin üretici tarafından verilmemesi eksik.",
+    "rivals": [
+      "ls2/ff800-storm-ii",
+      "ls2/storm-iii",
+      "kyt/r2r"
+    ],
+    "faq": [
+      {
+        "q": "Thunder 4 SV'de vizör nasıl değiştirilir?",
+        "a": "MT-QVSS+ sistemi sayesinde alet gerekmeden, eldivenle ve kask kafadayken bile vizör sökülüp takılabiliyor."
+      },
+      {
+        "q": "Thunder 4 SV kurye için uygun mu?",
+        "a": "Fiyatı, güneş vizörü ve ECE 22.06 onayıyla kurye kullanımı için popüler bir seçenek. Yoğun kullanımda pedlerin daha sık yenilenmesi gerekebilir."
+      }
+    ],
+    "manufacturerUrl": "https://mthelmets.com/en/products/thunder-4-sv-pure-a1-matt",
+    "dataConfidence": "medium",
+    "colors": [
+      "Pure A0 Gloss",
+      "Pure A1 Matt",
+      "Pure A2 Matt",
+      "Lumex",
+      "Luminence",
+      "Rainforest",
+      "Treads",
+      "Waves"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Optik polikarbonat, MT-QVSS+ aletsiz değiştirme, kilit sistemi, %100 Max Vision Pinlock iğneli",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": null,
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": "Üretici sayfası MT-Rider Sync interkomu eşleşen aksesuar olarak gösteriyor; yuva/montaj bilgisi yok.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://mthelmets.com/en/products/thunder-4-sv-pure-a1-matt",
+        "type": "manufacturer",
+        "label": "MT Helmets Thunder 4 SV ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-helmets-thunder-4-sv-rainforest-c2-kapali-kask-78009",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Thunder 4 SV (Rainforest C2)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.ventilation",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 5250,
+      "max": 5250,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-targo-s-solid-a1-mat-kapali-kask-75153",
+        "price": 5250,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Solid A1 Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "targo-s",
+    "brand": "mt-helmets",
+    "name": "Targo S",
+    "subcategories": [
+      "kapali-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "MT Helmets'in sport serisindeki giriş seviyesi kapalı kaskı. ECE 22.06 ve DOT onaylı, MT-QVSS hızlı vizör sistemi ve evrensel UCS interkom yuvası var; en uygun fiyatlı onaylı kapalı kasklardan.",
+    "description": [
+      "Targo S, MT Helmets'in Targo Pro'nun yerini alan giriş seviyesi sport kapalı kaskı. Yeni kabuk tasarımı, yenilenmiş iç pedler ve ECE 22.06 ile DOT onayıyla geliyor. Üretici bu modeli fiyatına göre yarış kasklarına yakın performans hedefleyen bir giriş modeli olarak tanımlıyor.",
+      "İki düğmeyle, eldivenle çalıştırılabilen MT-QVSS vizör sistemi ve evrensel UCS Bluetooth interkom yuvası öne çıkıyor. Vizör (MT-V-14B) Pinlock DKS209 ve FogOff ile uyumlu ama Pinlock kutudan çıkmıyor; kutuda kask, koruma kılıfı, kullanım kılavuzu ve çıkartma var. İç güneş vizörü üretici sayfasında anılmıyor, ağırlık ve kabuk malzemesi de verilmiyor."
+    ],
+    "forWho": [
+      "En düşük bütçeyle ECE 22.06 onaylı kapalı kask arayanlar",
+      "İlk motorunu alan genç sürücüler",
+      "Evrensel interkom takmak isteyen bütçeli kullanıcılar"
+    ],
+    "notFor": [
+      "Güneş vizörü isteyenler: üretici sayfasında iç güneş vizörü belirtilmiyor",
+      "Uzun yol konforu ve sessizlik bekleyenler"
+    ],
+    "pros": [
+      "Sınıfının en uygun fiyatlılarından, yine de ECE 22.06 ve DOT onaylı",
+      "Aletsiz MT-QVSS vizör sistemi",
+      "Evrensel UCS interkom yuvası",
+      "Pinlock DKS209 uyumlu vizör"
+    ],
+    "cons": [
+      "Pinlock kutuda değil",
+      "Güneş vizörü bilgisi yok",
+      "Ağırlık ve kabuk malzemesi açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Uygun fiyatlı ve onaylı bir kapalı kask olarak şehir içi kullanıma uygun.",
+      "uzunYol": "Giriş seviyesi pedler ve sınırlı donanım nedeniyle uzun yolda konfor sınırlı.",
+      "otoban": "Kapalı kask yapısıyla kullanılabilir; gürültü ve aerodinamik fiyat sınıfı seviyesinde.",
+      "sport": "Sport serisinde konumlanıyor; hafif sportif yol sürüşüne uygun, pist için değil.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "Evrensel UCS Bluetooth interkom yuvası var.",
+      "kurye": "Fiyatı nedeniyle kurye için cazip; güneş vizörü olmadığı için gündüz koyu vizör ya da güneş gözlüğü gerekebilir."
+    },
+    "verdict": "Targo S, mümkün olan en düşük bütçeyle ECE 22.06 onaylı bir kapalı kask arayan için mantıklı. Aletsiz vizör sistemi ve interkom yuvası fiyatına göre artı. Güneş vizörü ve Pinlock'un kutuda olmaması nedeniyle günlük kullanımda ek alımlar gerekebilir.",
+    "rivals": [
+      "mt-helmets/stinger-2",
+      "ls2/stream-ii",
+      "kyt/tt-revo"
+    ],
+    "faq": [
+      {
+        "q": "Targo S'de güneş vizörü var mı?",
+        "a": "Üretici sayfasında iç güneş vizöründen söz edilmiyor; MT'nin güneş vizörlü modellerinin adında SV ibaresi bulunuyor. Satın almadan önce satıcıdan teyit etmek gerekir."
+      },
+      {
+        "q": "Targo S'ye Pinlock takılır mı?",
+        "a": "Evet. MT-V-14B vizör Pinlock DKS209 ile uyumlu; lens kutudan çıkmıyor, ayrıca alınmalı."
+      }
+    ],
+    "manufacturerUrl": "https://mthelmets.com/en/products/targo-s-solid-a1-matt",
+    "dataConfidence": "medium",
+    "colors": [
+      "Solid A0 Gloss Pearl",
+      "Solid A1 Matt",
+      "Solid A12 Gloss",
+      "Brik",
+      "Kay",
+      "Outside",
+      "Piqueras"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart",
+      "sizes"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "MT-V-14B, optik polikarbonat, MT-QVSS iki düğmeli hızlı değiştirme, Pinlock DKS209 ve FogOff uyumlu",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Evrensel UCS Bluetooth interkom yuvası.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://mthelmets.com/en/products/targo-s-solid-a1-matt",
+        "type": "manufacturer",
+        "label": "MT Helmets Targo S ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-targo-s-solid-a1-mat-kapali-kask-75153",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Targo S (Solid A1 Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 6450,
+      "max": 6450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-genesis-sv-solid-a1-mat-cene-acilir-kask-75166",
+        "price": 6450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Solid A1 Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-genesis-sv-solid-a6-cene-acilir-kask-77417",
+        "price": 6450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Solid A6"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "genesis-sv",
+    "brand": "mt-helmets",
+    "name": "Genesis SV",
+    "subcategories": [
+      "cene-acilir-kask"
+    ],
+    "summary": "MT Helmets'in giriş seviyesi çene açılır kaskı. ECE 22.06, DOT ve P/J onaylı, güneş vizörlü; Türkiye'de en uygun fiyatlı onaylı modüllerden biri ve kurye kullanımına uygun.",
+    "description": [
+      "Genesis SV, MT Helmets'in 2024'te kataloğa eklediği giriş seviyesi modüler kask. Fiyatına rağmen güneş vizörü ve ECE 22.06 onayından vazgeçilmemiş; üretici kaskın DOT, ECE 22.06 ve P/J onaylı olduğunu belirtiyor. Yani çene açık konumda da onaylı kullanılabiliyor.",
+      "Değişken yoğunluklu EPS, en az iki dişli kavrayan mikrometrik toka, tek hareketle inen güneş vizörü ve Pinlock DKS 002 takılabilen MT-V-25B vizör var. Pinlock kutudan çıkmıyor; kutuda kask, koruma kılıfı, kullanım kılavuzu ve çıkartma bulunuyor. Ağırlık, kabuk malzemesi ve interkom hazırlığı üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "En düşük bütçeyle P/J onaylı, güneş vizörlü modüler kask arayanlar",
+      "Sık durup kalkan kuryeler",
+      "Gözlük kullanan şehir içi sürücüler"
+    ],
+    "notFor": [
+      "Uzun otoban turlarında sessizlik ve hafiflik bekleyenler",
+      "Kutudan zengin donanım (Pinlock, interkom yuvası) isteyenler"
+    ],
+    "pros": [
+      "ECE 22.06, DOT ve P/J onaylı",
+      "Güneş vizörü standart",
+      "Pinlock DKS 002 uyumlu vizör",
+      "Çok uygun fiyatlı ve Türkiye'de yaygın"
+    ],
+    "cons": [
+      "Pinlock kutuda değil",
+      "Ağırlık ve kabuk malzemesi açıklanmıyor",
+      "İnterkom hazırlığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı ve güneş vizörüyle şehirde çok pratik.",
+      "uzunYol": "Kısa ve orta turlarda iş görür; giriş seviyesi konfor nedeniyle çok uzun etaplarda yorabilir.",
+      "otoban": "Çene kapalı kullanılmalı; gürültü fiyat sınıfı seviyesinde.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Çene açılır yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Üretici interkom yuvası belirtmiyor; evrensel interkomlar kelepçe ya da yapıştırma ile takılabilir.",
+      "kurye": "Kurye için güçlü aday: P/J onay, güneş vizörü ve düşük fiyat. Mekanizma ve vizör düzenli temizlenmeli."
+    },
+    "verdict": "Genesis SV, düşük bütçeyle onaylı, güneş vizörlü ve çene açık kullanılabilen bir kask arayan kurye ve şehir sürücüsü için mantıklı bir seçim. Donanımı sade; Pinlock'u ayrıca almak gerekir. Ağırlık ve malzeme bilgisinin verilmemesi eksik.",
+    "rivals": [
+      "ls2/strobe-ii",
+      "mt-helmets/atom-2-sv"
+    ],
+    "faq": [
+      {
+        "q": "Genesis SV çene açıkken kullanılabilir mi?",
+        "a": "Evet. Üretici kaskın P/J onaylı olduğunu belirtiyor; çene açık konumda da onaylı kullanılabiliyor."
+      },
+      {
+        "q": "Genesis SV ile Genesis R SV farkı ne?",
+        "a": "İkisi ayrı ürün sayfalarında satılıyor ve farklı vizör/Pinlock (DKS 002 ve DKS 279) kullanıyor. Bu kayıt standart Genesis SV'yi kapsıyor."
+      }
+    ],
+    "manufacturerUrl": "https://mthelmets.com/en/products/genesis-sv-raccoon-b5-matt",
+    "dataConfidence": "medium",
+    "colors": [
+      "Raccoon",
+      "Stroke",
+      "Solid A1 Matt"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "MT-V-25B, darbeye dayanıklı, Pinlock 100% Max Vision DKS 002 takılabilir",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": true,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": "ECE 22.06, DOT ve P/J onaylı. Üretici interkom yuvası belirtmiyor.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://mthelmets.com/en/products/genesis-sv-raccoon-b5-matt",
+        "type": "manufacturer",
+        "label": "MT Helmets Genesis SV ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-genesis-sv-solid-a1-mat-cene-acilir-kask-75166",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Genesis SV (Solid A1 Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-genesis-sv-solid-a6-cene-acilir-kask-77417",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Genesis SV (Solid A6)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 4950,
+      "max": 5259,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/mt-stinger-2-solid-a1-kapali-motosiklet-kaski",
+        "price": 4950,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Solid A1"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/mt-stinger-2-ardent-c6-parlak-kapali-kask-78554",
+        "price": 5259,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Ardent C6 Parlak"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "stinger-2",
+    "brand": "mt-helmets",
+    "name": "Stinger 2",
+    "subcategories": [
+      "kapali-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "MT Helmets'in en uygun fiyatlı ECE 22.06 onaylı kapalı kasklarından biri. MT-QVSS hızlı vizör sistemi ve evrensel UCS interkom yuvası var; ilk kask ve bütçeli kurye için.",
+    "description": [
+      "Stinger 2, MT Helmets'in uygun fiyatlı kapalı kask çizgisinin yeni modeli. Üretici, kaskın ECE 22.06 onaylı olduğunu, MT-QVSS hızlı vizör değiştirme sistemi ve evrensel UCS interkom yuvasıyla geldiğini belirtiyor. Çift dişli mikrometrik toka (MT-MDTC) kullanılıyor.",
+      "İç pedler hipoalerjenik kumaştan, çıkarılıp yıkanabiliyor. Üretici aynı Pinlock lensini (DKS 435) Thunder 4 SV ve Stinger 2 için listeliyor, yani vizör Pinlock'a uyumlu; lens ayrıca satılıyor. Güneş vizörü, ağırlık ve kabuk malzemesi üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "İlk kaskını alan ve en düşük bütçeyle onaylı kapalı kask arayanlar",
+      "Bütçeli kuryeler",
+      "Evrensel interkom takmak isteyen şehir sürücüleri"
+    ],
+    "notFor": [
+      "Güneş vizörü isteyenler: üretici sayfasında belirtilmiyor",
+      "Uzun yol konforu ve sessizlik önceliği olanlar"
+    ],
+    "pros": [
+      "Çok uygun fiyatlı, ECE 22.06 onaylı",
+      "MT-QVSS aletsiz vizör değiştirme",
+      "Evrensel UCS interkom yuvası",
+      "Çıkarılıp yıkanabilen hipoalerjenik pedler"
+    ],
+    "cons": [
+      "Güneş vizörü bilgisi yok",
+      "Pinlock lensi ayrıca alınmalı",
+      "Ağırlık ve kabuk malzemesi açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Uygun fiyatlı ve onaylı bir kapalı kask olarak şehir içi için yeterli.",
+      "uzunYol": "Giriş seviyesi donanım nedeniyle uzun yolda konfor sınırlı.",
+      "otoban": "Kapalı kask yapısıyla kullanılabilir; gürültü fiyat sınıfı seviyesinde.",
+      "sport": "Hafif sportif yol sürüşüne uygun, pist için değil.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "Evrensel UCS interkom yuvası var.",
+      "kurye": "Fiyatı ve yıkanabilir pedleriyle bütçeli kurye için uygun; güneş vizörü olmadığından gündüz koyu vizör gerekebilir."
+    },
+    "verdict": "Stinger 2, en düşük bütçeyle ECE 22.06 onaylı bir kapalı kask isteyen için akla gelen ilk modellerden. Aletsiz vizör sistemi ve interkom yuvası fiyatına göre artı. Güneş vizörü ve Pinlock eksikliği günlük kullanımda hissedilebilir.",
+    "rivals": [
+      "ls2/stream-ii",
+      "mt-helmets/targo-s",
+      "kyt/tt-revo"
+    ],
+    "faq": [
+      {
+        "q": "Stinger 2'ye interkom takılır mı?",
+        "a": "Evet. Üretici kaskın evrensel UCS interkom yuvasıyla geldiğini belirtiyor."
+      },
+      {
+        "q": "Stinger 2'de Pinlock var mı?",
+        "a": "Vizör Pinlock'a uyumlu; üretici DKS 435 lensini Stinger 2 için listeliyor. Lens kutudan çıkmıyor."
+      }
+    ],
+    "manufacturerUrl": "https://mthelmets.com/en/products/stinger-2-pure-a1-matt",
+    "dataConfidence": "medium",
+    "colors": [
+      "Pure A0 Gloss Pearl",
+      "Pure A1 Gloss",
+      "Pure A1 Matt",
+      "Ardent",
+      "Core",
+      "Rocket",
+      "Tagger",
+      "Tron",
+      "Yozu"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": null,
+      "materialClass": null,
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "MT-QVSS hızlı değiştirme sistemli vizör, Pinlock DKS 435 uyumlu",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": null,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Evrensel UCS interkom yuvası.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://mthelmets.com/en/products/stinger-2-pure-a1-matt",
+        "type": "manufacturer",
+        "label": "MT Helmets Stinger 2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/mt-stinger-2-solid-a1-kapali-motosiklet-kaski",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Stinger 2 (Solid A1)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-stinger-2-ardent-c6-parlak-kapali-kask-78554",
+        "type": "retailer",
+        "label": "Vipmoto – MT Helmets Stinger 2 (Ardent C6 Parlak)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.shellMaterial",
+      "specs.materialClass",
+      "specs.shellSizes",
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.ventilation",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 24915.42,
+      "max": 26399,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-n100-6-classico-ceneden-acilir-kask-305-metal-beyaz-_59601.html",
+        "price": 24915.42,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Classico 305 Metal Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/nolan-n100-6-paloma-n-com-029-cene-acilir-kask-76838",
+        "price": 26399,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Paloma 029"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "n100-6",
+    "brand": "nolan",
+    "name": "N100-6",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Nolan'ın Lexan polikarbonat kabuklu, P/J onaylı çene açılır tur kaskı. Eliptik açılan çene, güneş vizörü ve N-Com yuvasıyla uzun yol ve günlük kullanım için kurgulanmış.",
+    "description": [
+      "N100-6, Nolan'ın modüler serisinin güncel modeli. Kabuk Lexan polikarbonattan, iki dış kabuk boyutuyla üretiliyor; üretici ağırlığı 1.670 g olarak veriyor, bedeni belirtmiyor. UNECE R 22-06 ve P/J çift onaylı. Çene bölümü açılırken eliptik bir yol izleyerek kabuğa yaklaşıyor; bu da çene açıkken rüzgâr yükünü ve boyun yorgunluğunu azaltmayı hedefliyor.",
+      "Ultra geniş vizör iki yüzden çizilmeye dayanıklı ve Pinlock'a hazır; VPS güneş vizörü buğu önleyici kaplamalı. Dual Action çift kollu çene açma sistemi kazara açılmayı önlüyor, Microlock2 mikrometrik toka kullanılıyor. AirBooster tepe havalandırması, gözlüğe uyumlu iç yapı ve N-Com iletişim sistemleri için özel yuva var. Pinlock lensinin kutuda olup olmadığı üretici sayfasında belirtilmiyor."
+    ],
+    "forWho": [
+      "Uzun yol ve günlük kullanımı birleştiren, çene açılır kask arayan tur sürücüleri",
+      "Nolan N-Com ile temiz bir interkom entegrasyonu isteyenler",
+      "Gözlük kullananlar"
+    ],
+    "notFor": [
+      "Kuryeler: fiyatı yoğun günlük kurye kullanımına göre yüksek",
+      "Hafiflik arayan sportif sürücüler"
+    ],
+    "pros": [
+      "P/J çift onay ve eliptik açılan çene",
+      "N-Com sistemleri için özel yuva",
+      "VPS güneş vizörü ve Pinlock'a hazır ultra geniş vizör",
+      "Dual Action güvenli çene açma sistemi"
+    ],
+    "cons": [
+      "1.670 g ile hafif değil",
+      "Polikarbonat kabuk, fiyatına göre fiber rakiplerden daha hacimli olabilir",
+      "Pinlock lensinin kutuda olup olmadığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Çeneyi kaldırıp konuşmak ve güneş vizörü şehirde pratik.",
+      "uzunYol": "Asıl kullanım alanı; N-Com yuvası, güneş vizörü ve P/J onay tur için güçlü.",
+      "otoban": "Çene kapalıyken stabil; modüler yapı tam kapalılar kadar sessiz olmayabilir.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok, asfalt ağırlıklı turlara uygun.",
+      "gozluk": "Üretici gözlüğe uyumlu iç yapı (eyewear adaptive) belirtiyor; çene açılır yapı da kolaylık sağlar.",
+      "interkom": "N-Com sistemleri için kaskın içine yerleşen özel yuva var; N-Com ayrı satılıyor.",
+      "kurye": "Çene açılır yapı teslimatlarda pratik ama fiyatı kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "N100-6, polikarbonat kabukla P/J onaylı, güneş vizörlü ve N-Com'a hazır bir modüler isteyen tur sürücüsü için dengeli bir seçim. Eliptik çene hareketi ve Dual Action sistemi pratikte fark yaratıyor. Ağırlığı ve fiyatı, bütçeli ya da kurye kullanıcı için engel olabilir.",
+    "rivals": [
+      "shoei/neotec-3",
+      "mt-helmets/atom-2-sv",
+      "schuberth/c5"
+    ],
+    "faq": [
+      {
+        "q": "N100-6 çene açıkken sürülebilir mi?",
+        "a": "Evet, kask P/J çift onaylı. Çene açık konumda jet kask olarak da onaylı kullanılabiliyor."
+      },
+      {
+        "q": "N100-6'ya hangi interkom takılır?",
+        "a": "Kask, Nolan'ın N-Com iletişim sistemleri için özel yuvayla tasarlanmış. N-Com üniteleri ayrı satılıyor; evrensel interkomlar da takılabilir ama entegrasyon o kadar temiz olmaz."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/n100-6-classic-black-flat",
+    "dataConfidence": "high",
+    "colors": [
+      "Classico",
+      "Cinetico",
+      "Radiante",
+      "Mivedi",
+      "Verniciatura Speciale"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "LEXAN polikarbonat",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1670,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ultra geniş, iki yüzden çizilmeye dayanıklı, Pinlock'a hazır",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "AirBooster tepe havalandırması, açık gözenekli konfor astarı",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "N-Com sistemleri için özel yuva. UNECE R 22-06 ve P/J çift onay. Dual Action çene açma.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/n100-6-classic-black-flat",
+        "type": "manufacturer",
+        "label": "Nolan N100-6 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-n100-6-classico-ceneden-acilir-kask-305-metal-beyaz-_59601.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan N100-6 (Classico 305 Metal Beyaz)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/nolan-n100-6-paloma-n-com-029-cene-acilir-kask-76838",
+        "type": "retailer",
+        "label": "Vipmoto – Nolan N100-6 (Paloma 029)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 16333.44,
+      "max": 16333.44,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-n80-8-classico-n-com-kapali-kask-mat-siyah-_56821.html",
+        "price": 16333.44,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Classico Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "n80-8",
+    "brand": "nolan",
+    "name": "N80-8",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "termoplastik-kask"
+    ],
+    "summary": "Nolan'ın Lexan polikarbonat kabuklu, güneş vizörlü yol kapalı kaskı. Pinlock kutudan çıkıyor, acil durum ped sistemi (NERS) var; şehir ve tur arasında çok yönlü bir seçim.",
+    "description": [
+      "N80-8, Nolan'ın günlük kullanım ve hafta sonu turları için konumlandırdığı kapalı yol kaskı. Kabuk Lexan polikarbonattan, iki dış kabuk boyutuyla üretiliyor; üretici ağırlığı 1.590 g olarak veriyor, bedeni belirtmiyor. UNECE R 22-06 onaylı.",
+      "Uzun vizör iki yüzden çizilmeye dayanıklı ve Pinlock buğu önleyici lensle birlikte geliyor. Otomatik geri çekilen VPS güneş vizörü, tepe ve çene havalandırması, AirBooster sistemi ve rüzgâr koruyucu var. NERS acil durum sistemi, kurtarma ekiplerinin yanak pedlerini saniyeler içinde çıkarmasına olanak tanıyor; Microlock2 mikrometrik toka kullanılıyor."
+    ],
+    "forWho": [
+      "Şehir içi ve hafta sonu turlarını birlikte yapan sürücüler",
+      "Pinlock'un kutudan çıkmasını önemseyenler",
+      "Orta-üst bütçeyle köklü bir İtalyan markası isteyenler"
+    ],
+    "notFor": [
+      "Bütçeli kuryeler: aynı donanım daha düşük fiyata bulunabilir",
+      "Pist kullanıcıları"
+    ],
+    "pros": [
+      "Pinlock lensi kutuda",
+      "VPS güneş vizörü ve NERS acil durum sistemi",
+      "Tepe ve çene havalandırması",
+      "Türkiye'de yetkili satıcıda bulunuyor"
+    ],
+    "cons": [
+      "Polikarbonat kabuk, fiyatına göre fiber rakiplerden ağır olabilir",
+      "Üretici sayfasında interkom yuvası belirtilmiyor",
+      "Ağırlığın hangi bedene ait olduğu yazmıyor"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü ve iyi havalandırmayla şehirde rahat.",
+      "uzunYol": "Tur kullanımına uygun; rüzgâr koruyucu ve Pinlock konforu artırıyor.",
+      "otoban": "Kapalı kask yapısıyla stabil; gürültü kafa yapısına göre değişir.",
+      "sport": "Hafif sportif yol sürüşüne uygun, pist için değil.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Üretici gözlüğe uyumlu iç yapı belirtiyor.",
+      "interkom": "Üretici sayfasında N-Com yuvası anılmıyor; Türk satıcılar N-Com uyumlu sürümü listeliyor, satın alırken teyit edilmeli.",
+      "kurye": "Dayanıklı ve donanımlı ama fiyatı kurye kullanımı için yüksek; bütçe öncelikliyse daha uygun fiyatlı kasklar düşünülmeli."
+    },
+    "verdict": "N80-8, kutudan çıkan Pinlock, güneş vizörü ve NERS acil durum sistemiyle çok yönlü bir kapalı yol kaskı. Şehir ve tur kullanımında dengeli. Polikarbonat kabuk ve fiyat, hafiflik ya da bütçe arayanlar için zayıf nokta olabilir.",
+    "rivals": [
+      "hjc/i71",
+      "ls2/ff811-vector-ii",
+      "mt-helmets/thunder-4-sv"
+    ],
+    "faq": [
+      {
+        "q": "N80-8'de Pinlock kutudan çıkıyor mu?",
+        "a": "Evet, üretici Pinlock buğu önleyici lensin kaskla birlikte geldiğini belirtiyor."
+      },
+      {
+        "q": "NERS nedir?",
+        "a": "Nolan Emergency Release System: kaza sonrası kurtarma ekiplerinin yanak pedlerini hızla çıkarıp kaskı boyuna zarar vermeden almasını kolaylaştıran sistem."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/n80-8-classic-white",
+    "dataConfidence": "high",
+    "colors": [
+      "Classico",
+      "Fervo",
+      "Incline",
+      "Trittico",
+      "Mivedi",
+      "Verniciatura Speciale"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "LEXAN polikarbonat",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1590,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Uzun, iki yüzden çizilmeye dayanıklı, Pinlock dahil",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Tepe ve çene havalandırması, AirBooster, açık gözenekli astar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/n80-8-classic-white",
+        "type": "manufacturer",
+        "label": "Nolan N80-8 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-n80-8-classico-n-com-kapali-kask-mat-siyah-_56821.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan N80-8 (Classico Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 23531.23,
+      "max": 23531.23,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-n120-1-classico-cenesi-arkaya-acilir-kask-mat-siyah-302-_58487.html",
+        "price": 23531.23,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Classico 302 Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "n120-1",
+    "brand": "nolan",
+    "name": "N120-1",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Nolan'ın çenesi 180 derece arkaya dönen ilk flip-back kaskı. P/J onaylı, güneş vizörlü ve N-Com uyumlu; çene açıkken bile dengeli kalan bir tur kaskı.",
+    "description": [
+      "N120-1, Nolan'ın çene bölümü 180 derece dönüp kabuğun arkasına yerleşen ilk flip-back modeli. Bu yapı, klasik modüler kasklarda çene açıkken oluşan yelken etkisini azaltıyor. Kabuk Lexan polikarbonattan, iki dış kabuk boyutuyla üretiliyor; üretici ağırlığı 1.670 g veriyor. UNECE R 22-06 ve P/J çift onaylı.",
+      "Ultra geniş, iki yüzden çizilmeye dayanıklı ve Pinlock'a hazır vizör, buğu önleyici VPS güneş vizörü, Dual Action çift kollu çene açma sistemi ve Microlock2 toka standart. AirBooster, çene ve tepe havalandırması, rüzgâr koruyucu ve gözlüğe uyumlu iç yapı var. N-Com sistemleriyle tam uyumlu; üniteler ayrı satılıyor."
+    ],
+    "forWho": [
+      "Çene açıkken de dengeli kalan bir kask isteyen tur sürücüleri",
+      "Sıcak havalarda kaskı jet gibi kullanmak isteyenler",
+      "N-Com ile temiz bir interkom kurulumu arayanlar"
+    ],
+    "notFor": [
+      "Kuryeler: fiyatı ve mekanizması yoğun günlük kullanıma göre maliyetli",
+      "Hafiflik arayan sportif sürücüler"
+    ],
+    "pros": [
+      "180 derece flip-back çene ile çene açıkken dengeli kullanım",
+      "P/J çift onay",
+      "VPS güneş vizörü ve Pinlock'a hazır ultra geniş vizör",
+      "N-Com uyumlu"
+    ],
+    "cons": [
+      "1.670 g ile hafif değil",
+      "Flip-back mekanizma kaskı arkadan uzun gösteriyor",
+      "Pinlock lensinin kutuda olup olmadığı belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Çeneyi arkaya atıp jet kask gibi kullanmak şehirde ve sıcak havada çok pratik.",
+      "uzunYol": "Asıl kullanım alanı; N-Com, güneş vizörü ve P/J onay tur için güçlü.",
+      "otoban": "Çene kapalıyken kapalı kask gibi; çene açık kullanımda rüzgâr ve gürültü artar.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok, asfalt ağırlıklı turlara uygun.",
+      "gozluk": "Gözlüğe uyumlu iç yapı ve açılan çene, gözlükle kullanımı kolaylaştırır.",
+      "interkom": "N-Com sistemleriyle tam uyumlu; ünite kabuğa entegre yerleşiyor.",
+      "kurye": "Çene açılır yapı pratik ama fiyatı kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "N120-1, çenesi tamamen arkaya dönen bir modüler arayan tur sürücüsü için olgun bir seçenek. P/J onay, güneş vizörü ve N-Com uyumu güçlü yanları. Ağırlığı ve fiyatı, bütçe odaklı kullanıcılar için dezavantaj.",
+    "rivals": [
+      "ls2/advant-x",
+      "nolan/n100-6"
+    ],
+    "faq": [
+      {
+        "q": "N120-1 ile N100-6 farkı ne?",
+        "a": "N100-6 klasik çene açılır (çene yukarı kalkar), N120-1 ise flip-back (çene 180 derece arkaya döner). İkisi de polikarbonat kabuklu, P/J onaylı ve N-Com uyumlu."
+      },
+      {
+        "q": "N120-1 çene açıkken sürülebilir mi?",
+        "a": "Evet, kask P/J çift onaylı; çene arkaya alındığında jet kask olarak onaylı kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/n120-1-classic-grey",
+    "dataConfidence": "high",
+    "colors": [
+      "Classico",
+      "Classico Nobile",
+      "Blocco",
+      "Ciclone",
+      "Fluente",
+      "Lineo",
+      "Mivedi",
+      "Omocromo"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "LEXAN polikarbonat",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1670,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ultra geniş, iki yüzden çizilmeye dayanıklı, Pinlock'a hazır",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "AirBooster, çene ve tepe havalandırması",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "N-Com sistemleriyle tam uyumlu. UNECE R 22-06 ve P/J çift onay. 180 derece flip-back çene.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/n120-1-classic-grey",
+        "type": "manufacturer",
+        "label": "Nolan N120-1 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-n120-1-classico-cenesi-arkaya-acilir-kask-mat-siyah-302-_58487.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan N120-1 (Classico 302 Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 21449,
+      "max": 23099,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/nolan-n70-2-x-06-classico-301-cene-cikarilabilir-kask-77462",
+        "price": 21449,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Classico 301"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/nolan-n70-2-x-06-ruvido-342-cene-cikarilabilir-kask-77429",
+        "price": 23099,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Ruvido 342"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "n70-2-x",
+    "brand": "nolan",
+    "name": "N70-2 X",
+    "subcategories": [
+      "adventure-kask",
+      "termoplastik-kask"
+    ],
+    "summary": "Çene koruması ve siperliği çıkarılabilen crossover adventure kask. P/J onaylı, güneş vizörlü; tek kaskla arazi, tur ve şehir kullanımı isteyenler için.",
+    "description": [
+      "N70-2 X (06 sürümü), Nolan'ın crossover adventure kaskı. Çıkarılabilir çene koruması, sökülebilen siperlik ve ultra geniş vizör sayesinde üretici 8 farklı kullanım konfigürasyonundan söz ediyor: siperlikli adventure, kapalı tur ya da açık jet kask. Kabuk Lexan polikarbonattan, iki dış kabuk boyutuyla; üretici ağırlığı 1.560 g veriyor. UNECE R 22-06 ve P/J onaylı.",
+      "Vizör yatayda 234, dikeyde 91 derece görüş alanı sunuyor; iki yüzden çizilmeye dayanıklı ve Pinlock'a hazır. Buğu önleyici VPS güneş vizörü, AirBooster tepe havalandırması, çene perdesi, çıkarılabilir yanak pedleri, ayarlanabilir ve sökülebilir ense pedi ile Microlock2 toka var. Çene korumasının çıkarılabilir olması esneklik sağlıyor ama sabit çeneli kasklara göre daha fazla parça ve bakım demek."
+    ],
+    "forWho": [
+      "Tek kaskla hem toprak yol hem şehir kullanmak isteyen adventure sürücüleri",
+      "Sıcak havada çeneyi tamamen çıkarıp jet kask gibi kullanmak isteyenler",
+      "Gözlük kullananlar"
+    ],
+    "notFor": [
+      "Kuryeler: fiyatı ve çok parçalı yapısı yoğun günlük kullanım için maliyetli",
+      "Ciddi enduro/cross kullanıcıları: gözlüklü cross kasklar daha uygun"
+    ],
+    "pros": [
+      "Çıkarılabilir çene ve siperlikle çok yönlü kullanım",
+      "P/J onay",
+      "Geniş görüş alanlı vizör ve VPS güneş vizörü",
+      "1.560 g ile adventure sınıfında makul ağırlık"
+    ],
+    "cons": [
+      "Çok parçalı yapı ek bakım gerektirir",
+      "Siperlik yüksek hızda rüzgâr yükü yaratabilir",
+      "Türkiye'deki satıcı stokları değişken"
+    ],
+    "usage": {
+      "sehir": "Çene çıkarılmış jet konfigürasyonu sıcak havada şehirde çok rahat.",
+      "uzunYol": "Siperliksiz kapalı konfigürasyonda tur kullanımına uygun.",
+      "otoban": "Yüksek hızda siperliği sökmek rüzgâr yükünü azaltır.",
+      "sport": "Sportif yol sürüşü için tasarlanmamış.",
+      "adventure": "Asıl kullanım alanı: siperlik ve geniş vizörle hafif ve orta arazi turları.",
+      "gozluk": "Üretici gözlüğe uyumlu yapı belirtiyor; açık konfigürasyon da kolaylık sağlar.",
+      "interkom": "Üretici sayfasında N-Com yuvası anılmıyor; Türk satıcılar N-Com uyumlu sürümler listeliyor, satın alırken teyit edilmeli.",
+      "kurye": "Kurye için önerilmez: fiyatı ve çok parçalı yapısı yoğun günlük kullanıma göre değil."
+    },
+    "verdict": "N70-2 X, tek kaskla adventure, tur ve şehir kullanımını birleştirmek isteyen için esnek bir seçenek. Çıkarılabilir çene ve siperlik gerçek bir çok yönlülük sağlıyor. Çok parçalı yapı bakım ister; saf arazi kullanıcıları için cross kasklar daha doğru.",
+    "rivals": [],
+    "faq": [
+      {
+        "q": "N70-2 X'in çenesi çıkınca kask yasal mı?",
+        "a": "Evet, kask P/J onaylı; çene koruması çıkarıldığında açık kask olarak onaylı kullanılabiliyor. Ancak çene koruması olmadan yüz korunmaz."
+      },
+      {
+        "q": "N70-2 X ile N70-2 GT farkı ne?",
+        "a": "N70-2 X siperlikli adventure sürümdür; N70-2 GT siperliksiz, yol odaklı crossover sürümdür. Bu kayıt X modelini kapsıyor."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/n70-2-x-06-turbine-white-black-grey",
+    "dataConfidence": "high",
+    "colors": [
+      "Turbine",
+      "Selvado",
+      "Classico",
+      "Ruvido"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "LEXAN polikarbonat",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1560,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ultra geniş (234° yatay, 91° dikey), iki yüzden çizilmeye dayanıklı, Pinlock'a hazır",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "AirBooster, tepe havalandırması",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": "UNECE R 22-06 ve P/J onay; çene koruması ve siperlik çıkarılabilir.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/n70-2-x-06-turbine-white-black-grey",
+        "type": "manufacturer",
+        "label": "Nolan N70-2 X 06 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/nolan-n70-2-x-06-classico-301-cene-cikarilabilir-kask-77462",
+        "type": "retailer",
+        "label": "Vipmoto – Nolan N70-2 X (Classico 301)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/nolan-n70-2-x-06-ruvido-342-cene-cikarilabilir-kask-77429",
+        "type": "retailer",
+        "label": "Vipmoto – Nolan N70-2 X (Ruvido 342)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 39900.01,
+      "max": 42899,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/nolan-x804-rs-sbk-ultra-carbon-kapali-kask-siyah-camli-353-_59025.html",
+        "price": 39900.01,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "SBK 353"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/nolan-x-804-rs-ala-345-kapali-kask-77578",
+        "price": 42899,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Ala 345"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "x-804-rs-ultra-carbon",
+    "brand": "nolan",
+    "name": "X-804 RS Ultra Carbon",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "karbon-kask"
+    ],
+    "summary": "Eski X-lite markasının yarış kaskı, artık Nolan X-Series adıyla satılıyor. Karbon kabuk, dört kabuk boyutu ve 1.420 g; pist ve sportif yol sürüşü için.",
+    "description": [
+      "X-804 RS Ultra Carbon, Nolan Group'un X-lite adıyla bilinen yarış kaskı. Üretici artık bu modeli kendi sitesinde Nolan X-Series olarak satıyor. Kabuk yüksek karbon içerikli, dört dış kabuk boyutuyla üretiliyor; üretici ağırlığı 1.420 g veriyor, bedenini belirtmiyor. UNECE R 22-06 onaylı.",
+      "Rüzgâr tünelinde geliştirilen RAS arka spoyler, yatayda 225, dikeyde 97 derece görüş alanı sunan geniş düz vizör, merkezi vizör kilidi, Pinlock ve kutuda ikinci vizör var. Double-D tokalı, NERS acil durum sistemli; aktif karbon iplikli Carbon Fitting iç astar ve kalınlığı değiştirilebilen Steadyfit yanak pedleri ile kişiye uyarlanabiliyor. Güneş vizörü yok."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ve karbon bir yarış kaskı arayanlar",
+      "Sportif yol sürüşünde hafiflik ve geniş görüş isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler ve şehir içi günlük kullanıcılar: güneş vizörü yok, fiyatı çok yüksek",
+      "Uzun yol konforu ve sessizlik arayan tur sürücüleri"
+    ],
+    "pros": [
+      "Karbon kabuk ve dört kabuk boyutu",
+      "Geniş vizör ve merkezi kilit",
+      "Double-D toka ve NERS acil durum sistemi",
+      "Kutuda ek vizör ve ayarlanabilir Steadyfit pedler"
+    ],
+    "cons": [
+      "Güneş vizörü yok",
+      "Türkiye'de fiyatı yüksek",
+      "Yarış odaklı dar iç yapı günlük kullanımda yorucu olabilir"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü olmadığı ve yarış odaklı olduğu için şehir içi kullanıma uygun değil.",
+      "uzunYol": "Uzun yol için tasarlanmamış; havalandırma ve hafiflik iyi ama konfor yarış odaklı.",
+      "otoban": "Yüksek hızda stabil; spoyler bu iş için tasarlanmış.",
+      "sport": "Asıl kullanım alanı: pist ve sportif yol sürüşü.",
+      "adventure": "Uygun değil.",
+      "gozluk": "Üretici gözlüğe uyumlu yapı belirtiyor; yarış kalıbında yine de denemek gerekir.",
+      "interkom": "Üretici sayfasında interkom yuvası belirtilmiyor.",
+      "kurye": "Kurye için uygun değil: güneş vizörü yok, fiyatı ve yarış odaklı yapısı günlük işe göre değil."
+    },
+    "verdict": "X-804 RS Ultra Carbon, pist ve sportif yol sürüşü için karbon kabuklu, geniş görüşlü ve iyi donanımlı bir yarış kaskı. Dört kabuk boyutu ve ek vizör artı. Güneş vizörü olmaması ve fiyatı, onu günlük kullanım için mantıksız kılıyor.",
+    "rivals": [
+      "agv/pista-gp-rr",
+      "arai/rx-7v-evo",
+      "agv/k6-s"
+    ],
+    "faq": [
+      {
+        "q": "X-804 RS bir X-lite mı, Nolan mı?",
+        "a": "Model X-lite adıyla tanındı; üretici Nolan Group artık bunu kendi sitesinde Nolan X-Series olarak satıyor. Türk satıcılar da 'Nolan X-804 RS' adıyla listeliyor."
+      },
+      {
+        "q": "X-804 RS'de güneş vizörü var mı?",
+        "a": "Hayır. Yarış kaskı olduğu için iç güneş vizörü yok; kutuda ek vizör geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/x-804-rs-ultra-carbon-replica-herbertson-aquamarine-white",
+    "dataConfidence": "high",
+    "colors": [
+      "Puro",
+      "Replica",
+      "SBK",
+      "Blocco"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.chinCurtain",
+      "specs.breathGuard",
+      "specs.linerWashable",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Ultra Carbon (karbon fiber)",
+      "materialClass": "karbon",
+      "shellSizes": 4,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1420,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ultra geniş düz vizör (225° yatay, 97° dikey), iki yüzden çizilmeye dayanıklı, Pinlock, Irid fotokromik vizörle uyumlu, kutuda ek vizör",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": false,
+      "ventilation": "RAF Racing Air Flow yarış havalandırması",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/x-804-rs-ultra-carbon-replica-herbertson-aquamarine-white",
+        "type": "manufacturer",
+        "label": "Nolan X-804 RS Ultra Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/nolan-x804-rs-sbk-ultra-carbon-kapali-kask-siyah-camli-353-_59025.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Nolan X-804 RS Ultra Carbon (SBK 353)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/nolan-x-804-rs-ala-345-kapali-kask-77578",
+        "type": "retailer",
+        "label": "Vipmoto – Nolan X-804 RS Ultra Carbon (Ala 345)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": null,
+    "offers": [],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "x-1005-ultra-carbon",
+    "brand": "nolan",
+    "name": "X-1005 Ultra Carbon",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Eski X-lite serisinin karbon kabuklu amiral modüler kaskı, artık Nolan X-Series olarak satılıyor. P/J onaylı, güneş vizörlü, N-Com yuvalı; üst segment uzun yol kaskı.",
+    "description": [
+      "X-1005 Ultra Carbon, Nolan Group'un X-lite adıyla tanınan amiral çene açılır kaskı; üretici bugün bunu Nolan X-Series olarak satıyor. Kabukta yoğun karbon fiber kullanılıyor ve üç dış kabuk boyutu var. UNECE R 22-06 ve P/J çift onaylı. Çene eliptik bir yolla açılarak kabuğa yaklaşıyor, böylece açık konumda yelken etkisi azalıyor.",
+      "Dual Action çift kollu çene açma sistemi, ayarlanabilir Pinlock pimli ultra geniş vizör, otomatik geri çekilen VPS güneş vizörü, Microlock2 toka, çene perdesi ve nefes deflektörü standart. Steadyfit yanak pedleri, gözlüğe uyumlu (EA) iç yapı ve N-Com sistemleri için özel yuva var. Üretici sayfasında ağırlık bilgisi verilmiyor; Türkiye'de yetkili satıcı fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Karbon kabuklu, üst segment bir modüler arayan uzun yol sürücüleri",
+      "N-Com ile entegre interkom kurmak isteyenler",
+      "Gözlük kullanan tur sürücüleri"
+    ],
+    "notFor": [
+      "Kuryeler ve bütçe odaklı kullanıcılar: fiyatı çok yüksek",
+      "Pist ya da sportif sürüş odaklı olanlar"
+    ],
+    "pros": [
+      "Karbon kabuk ve üç kabuk boyutu",
+      "P/J onay ve eliptik açılan çene",
+      "N-Com yuvası, VPS güneş vizörü, Pinlock",
+      "Çene perdesi ve nefes deflektörü standart"
+    ],
+    "cons": [
+      "Üretici ağırlık bilgisi vermiyor",
+      "Türkiye'de fiyat ve stok doğrulanamadı",
+      "Fiyatı çok yüksek; N-Com ünitesi ayrıca satılıyor"
+    ],
+    "usage": {
+      "sehir": "Çene açılır yapı ve güneş vizörü şehirde pratik; fiyatı şehir içi günlük kullanım için yüksek.",
+      "uzunYol": "Asıl kullanım alanı: karbon kabuk, N-Com ve P/J onay uzun turlar için tasarlanmış.",
+      "otoban": "Eliptik çene ve karbon kabukla yüksek hızda stabil olacak şekilde tasarlanmış.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliği yok, asfalt ağırlıklı turlara uygun.",
+      "gozluk": "EA (Eyewear Adaptive) iç yapı gözlükle kullanım için tasarlanmış.",
+      "interkom": "N-Com sistemleri için kaskın içine yerleşen özel yuva var.",
+      "kurye": "Kurye için uygun değil: fiyatı yoğun günlük kullanıma göre çok yüksek."
+    },
+    "verdict": "X-1005 Ultra Carbon, karbon kabuklu, P/J onaylı ve N-Com'a hazır bir amiral modüler arayan uzun yol sürücüsü için güçlü bir aday. Donanımı eksiksiz. Ağırlığın üretici tarafından verilmemesi ve Türkiye'de fiyatın doğrulanamaması nedeniyle satın almadan önce satıcıdan bilgi almak gerekir.",
+    "rivals": [
+      "shoei/neotec-3",
+      "schuberth/c5",
+      "nolan/n100-6"
+    ],
+    "faq": [
+      {
+        "q": "X-1005 bir X-lite mı, Nolan mı?",
+        "a": "Model X-lite adıyla tanındı; üretici Nolan Group artık bunu kendi sitesinde Nolan X-Series olarak satıyor."
+      },
+      {
+        "q": "X-1005 çene açıkken kullanılabilir mi?",
+        "a": "Evet, kask P/J çift onaylı; çene açık konumda jet kask olarak da onaylı."
+      }
+    ],
+    "manufacturerUrl": "https://nolan-helmets.com/en/products/x-1005-ultra-carbon-pure-black",
+    "dataConfidence": "medium",
+    "colors": [
+      "Puro"
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Ultra Carbon (karbon fiber)",
+      "materialClass": "karbon",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Ultra geniş, iki yüzden çizilmeye dayanıklı, hızlı sökülür, ayarlanabilir pimli Pinlock",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "Tepe ve çene havalandırması, hava çıkışları",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "N-Com sistemleri için özel yuva. UNECE R 22-06 ve P/J çift onay. Dual Action çene açma.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://nolan-helmets.com/en/products/x-1005-ultra-carbon-pure-black",
+        "type": "manufacturer",
+        "label": "Nolan X-1005 Ultra Carbon ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.pinlockIncluded",
+      "specs.linerWashable",
+      "specs.emergencyCheekPads",
+      "specs.spoiler",
+      "specs.madeIn",
+      "sizeChart",
+      "priceRange"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 7830,
+      "max": 7830,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://www.vipmoto.com/kyt-tt-revo-kask-plain-matt-black-77908",
+        "price": 7830,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Plain Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "tt-revo",
+    "brand": "kyt",
+    "name": "TT-Revo",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask"
+    ],
+    "summary": "KYT'nin rüzgâr tünelinde şekillendirilmiş ADT termoplastik kabuklu sport-touring kapalı kaskı. ECE 22.06 onaylı, üç kabuk boyutlu; sportif görünüm isteyen bütçeli sürücüler için.",
+    "description": [
+      "TT-Revo, KYT Avrupa kataloğunda Sport Touring sınıfında yer alan kapalı kask. Kabuk ADT (Advanced Thermoplastic) adlı enjeksiyon termoplastik reçine karışımından, üç kabuk boyutuyla üretiliyor; bedenler XS'den XXL'ye. KYT Avrupa sayfası ECE 22.06 onayını gösteriyor. Formu rüzgâr tünelinde, havacılık mühendisleriyle geliştirilmiş; arkada aerodinamik spoyler var.",
+      "Beş ön hava girişi ve spoyler altında dört çıkış bulunuyor. Optik sınıf 1 polikarbonat vizör UV380 filtreli, çizilmeye dayanıklı, mekanik yarış tipi kilitli ve Pinlock 70 Max Vision'a hazır; lens kutudan çıkmıyor. İç güneş vizörü yok. Çene perdesi, metal ve asetal reçineli mikrometrik toka ile çıkarılıp yıkanabilen pedler standart. Üretici ağırlık bilgisi vermiyor."
+    ],
+    "forWho": [
+      "Sportif görünümlü, uygun fiyatlı ve onaylı bir kapalı kask arayanlar",
+      "Naked ve sport motor kullanan genç sürücüler",
+      "İyi havalandırma isteyen sıcak iklim kullanıcıları"
+    ],
+    "notFor": [
+      "Güneş vizörü isteyenler",
+      "Uzun otoban turlarında sessizlik bekleyen tur sürücüleri"
+    ],
+    "pros": [
+      "Rüzgâr tünelinde geliştirilmiş form ve spoyler",
+      "Beş giriş, dört çıkışlı havalandırma",
+      "Optik sınıf 1 vizör ve yarış tipi vizör kilidi",
+      "Üç kabuk boyutu"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Pinlock lensi kutuda değil",
+      "Üretici ağırlık bilgisi vermiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; güneş vizörü olmadığı için gündüz koyu vizör ya da güneş gözlüğü gerekir.",
+      "uzunYol": "Orta mesafede iyi; uzun turlarda güneş vizörü eksikliği hissedilir.",
+      "otoban": "Aerodinamik form ve spoyler yüksek hızda stabilite için tasarlanmış.",
+      "sport": "Sportif yol sürüşüne uygun; giriş seviyesi pist günlerinde de kullanılabilir.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Gözlükle uyum kafa yapısına göre değişir; denenmeli.",
+      "interkom": "Üretici interkom hazırlığı belirtmiyor; evrensel interkomlar takılabilir.",
+      "kurye": "Fiyatı kurye için uygun ama güneş vizörü olmaması ve sportif kalıbı uzun teslimat günlerinde dezavantaj."
+    },
+    "verdict": "TT-Revo, sportif görünüm ve iyi havalandırma isteyen bütçeli sürücü için mantıklı bir ECE 22.06 onaylı kask. Rüzgâr tüneli formu ve vizör kalitesi fiyatına göre artı. Güneş vizörü yok; şehir ve kurye kullanıcıları güneş vizörlü rakiplere bakmalı.",
+    "rivals": [
+      "mt-helmets/targo-s",
+      "mt-helmets/stinger-2",
+      "ls2/stream-ii"
+    ],
+    "faq": [
+      {
+        "q": "TT-Revo'da güneş vizörü var mı?",
+        "a": "Hayır. TT-Revo tek vizörlü sport-touring kask; güneş vizörü isteyenler için KYT'nin R2R modeli var."
+      },
+      {
+        "q": "TT-Revo'ya Pinlock takılır mı?",
+        "a": "Evet, vizör Pinlock 70 Max Vision'a hazır; lens ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.kyteurope.com/en/tt-revo/",
+    "dataConfidence": "medium",
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "ADT (Advanced Thermoplastic) enjeksiyon termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Optik sınıf 1 polikarbonat, UV380 filtre, çizilmeye dayanıklı, mekanik yarış kilidi, Pinlock 70 Max Vision'a hazır",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": null,
+      "ventilation": "Beş ön giriş, spoyler altında dört çıkış",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://www.kyteurope.com/en/tt-revo/",
+        "type": "manufacturer",
+        "label": "KYT Europe TT-Revo ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.vipmoto.com/kyt-tt-revo-kask-plain-matt-black-77908",
+        "type": "retailer",
+        "label": "Vipmoto – KYT TT-Revo (Plain Mat Siyah)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.sunVisor",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.intercomReady",
+      "specs.intercomNotes",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "priceRange": {
+      "min": 11617,
+      "max": 12678,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/kyt-r2r-kask-plain-grl-grey",
+        "price": 11617,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Plain Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/kyt-r2r-led-matt-kapali-kask",
+        "price": 12678,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Led Mat"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "slug": "r2r",
+    "brand": "kyt",
+    "name": "R2R",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "termoplastik-kask"
+    ],
+    "summary": "KYT'nin 'Race to Road' adlı güneş vizörlü sport-touring kapalı kaskı. ADT termoplastik kabuk, Pinlock lensi ve hoparlör yuvalı pedlerle şehir ve uzun yol arasında dengeli.",
+    "description": [
+      "R2R, KYT'nin yarıştan yola aktarılan tasarım fikriyle geliştirdiği sport-touring kapalı kask. Kabuk ADT enjeksiyon termoplastikten, iki kabuk boyutuyla üretiliyor; bedenler XS'den XXL'ye. KYT Avrupa sayfası ECE 22.06 onayını gösteriyor. Form rüzgâr tünelinde çalışılmış, arkada aerodinamik spoyler var.",
+      "Optik sınıf 1 vizör yatayda 210, dikeyde 90 derece görüş sunuyor, aletsiz sökülüyor ve Easy Lock kilit sistemine sahip. İç güneş vizörü ve Max Vision Pinlock lensi standart. Hydrocool astar çıkarılıp yıkanabiliyor, yanak pedlerinde kulaklık/hoparlör yuvası var, gözlüğe uygun yapıda. Ön tarafta iki hava girişi, çene perdesi ve metal-asetal mikrometrik toka bulunuyor. Üretici ağırlık bilgisi vermiyor."
+    ],
+    "forWho": [
+      "Sportif görünümlü ama güneş vizörlü bir kask isteyenler",
+      "Şehir içi ve hafta sonu turlarını birlikte yapanlar",
+      "Gözlük kullananlar"
+    ],
+    "notFor": [
+      "Bütçeli kuryeler: aynı donanım daha uygun fiyata bulunabilir",
+      "Pist kullanıcıları"
+    ],
+    "pros": [
+      "İç güneş vizörü ve Pinlock lensi standart",
+      "Hoparlör yuvalı pedler ve gözlük uyumu",
+      "Easy Lock vizör kilidi ve aletsiz vizör sökme",
+      "Hydrocool yıkanabilir astar"
+    ],
+    "cons": [
+      "Yalnızca iki kabuk boyutu",
+      "Ön tarafta yalnızca iki hava girişi",
+      "Üretici ağırlık bilgisi vermiyor"
+    ],
+    "usage": {
+      "sehir": "Güneş vizörü ve Pinlock ile şehirde rahat.",
+      "uzunYol": "Tur kullanımına uygun; hoparlör yuvaları interkom kurulumunu kolaylaştırıyor.",
+      "otoban": "Aerodinamik form ve spoyler yüksek hızda stabilite için tasarlanmış.",
+      "sport": "Sportif yol sürüşüne uygun, pist için değil.",
+      "adventure": "Siperliği yok, arazi için uygun değil.",
+      "gozluk": "Üretici gözlükle kullanıma hazır olduğunu belirtiyor.",
+      "interkom": "Yanak pedlerinde kulaklık/hoparlör yuvası var; evrensel interkom ünitesi dışarıdan takılır.",
+      "kurye": "Güneş vizörü ve Pinlock kurye için işe yarar ama fiyatı bütçe kasklarından yüksek."
+    },
+    "verdict": "R2R, sportif çizgiyi güneş vizörü ve Pinlock'la birleştiren dengeli bir sport-touring kask. Hoparlör yuvaları ve gözlük uyumu günlük kullanımda artı. İki kabuk boyutu ve ağırlık bilgisinin verilmemesi zayıf noktaları.",
+    "rivals": [
+      "mt-helmets/thunder-4-sv",
+      "ls2/storm-iii",
+      "ls2/ff800-storm-ii"
+    ],
+    "faq": [
+      {
+        "q": "R2R'de güneş vizörü var mı?",
+        "a": "Evet, kolay kullanılan iç güneş vizörü standart."
+      },
+      {
+        "q": "R2R'ye interkom takılır mı?",
+        "a": "Yanak pedlerinde kulaklık/hoparlör yuvası var; evrensel interkom üniteleri kaskın dışına kelepçe ya da yapıştırma ile takılabilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.kyteurope.com/en/r2r/",
+    "dataConfidence": "medium",
+    "colors": [
+      "Concept",
+      "Max Fernandez"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "ADT (Advanced Thermoplastic) enjeksiyon termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Optik sınıf 1 polikarbonat, 210° yatay ve 90° dikey görüş, UV380 filtre, aletsiz sökülür, Easy Lock kilit, Max Vision Pinlock lensi",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Kabukta iki ön hava girişi",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Yanak pedlerinde kulaklık/hoparlör yuvası; kaska özel interkom yuvası yok.",
+      "spoiler": true,
+      "warrantyYears": null,
+      "madeIn": null
+    },
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sources": [
+      {
+        "url": "https://www.kyteurope.com/en/r2r/",
+        "type": "manufacturer",
+        "label": "KYT Europe R2R ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/kyt-r2r-kask-plain-grl-grey",
+        "type": "retailer",
+        "label": "Vipmoto – KYT R2R (Plain Gri)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/kyt-r2r-led-matt-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – KYT R2R (Led Mat)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.dot",
+      "specs.snell",
+      "specs.fim",
+      "specs.weightGrams",
+      "specs.weightSize",
+      "specs.headShape",
+      "specs.breathGuard",
+      "specs.emergencyCheekPads",
+      "specs.warrantyYears",
+      "specs.madeIn",
+      "sizeChart"
+    ]
+  }
+]

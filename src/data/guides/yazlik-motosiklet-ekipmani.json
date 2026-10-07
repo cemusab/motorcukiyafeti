@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "yazlik-motosiklet-ekipmani",
+    "title": "Yazın Motosiklet Ekipmanı: Serin ve Güvenli Kalmak",
+    "description": "Sıcak havada korumadan vazgeçmeden serin kalmak için file mont ve pantolon, havalandırmalı kask, yazlık eldiven ve bot seçimi.",
+    "topic": "genel",
+    "readingMinutes": 6,
+    "intro": "Yazın serin ve güvenli kalmanın yolu korumayı bırakmak değil; file (mesh) panelli ve EN 17092 sınıflı mont ve pantolonu, havalandırmalı bir kask, delikli eldiven ve yazlık botla birleştirmektir. Tişört ve şortla sürmek sıcakta ferah gelse de en küçük düşmede cildi doğrudan asfalta bırakır; doğru seçilmiş yazlık ekipman ise hava akışı sağlarken koruyucuları yerinde tutar.",
+    "sections": [
+      {
+        "heading": "File mont ve pantolon",
+        "paragraphs": [
+          "Yazlık montlarda geniş file paneller, sürüş rüzgarının doğrudan gövdeye ulaşmasını sağlar. EN 17092, giysiyi düşme riskine göre bölgelere ayırdığı için iyi tasarlanmış file montlarda yüksek riskli omuz ve dirsek bölgeleri dayanıklı kumaşla, göğüs ve sırt gibi daha düşük riskli bölgeler fileyle kaplanabilir ve giysi yine sınıf alabilir.",
+          "Satın alırken sınıfa bak: yazlık montların çoğu A sınıfındadır, AA sınıflı file modeller de vardır. Sınıf bilgisi olmayan 'motosiklet tarzı' file ceketler genellikle koruyucu ekipman değildir."
+        ],
+        "bullets": [
+          "Etikette EN 17092 sınıfı (A veya AA)",
+          "Omuz ve dirsekte EN 1621-1 koruyucu",
+          "Sırt cebi ve sertifikalı sırt koruyucu imkânı",
+          "Pantolon için file panelli tekstil veya havalandırmalı motosiklet jeani"
+        ]
+      },
+      {
+        "heading": "Ter yönetimi ve iç katman",
+        "paragraphs": [
+          "Pamuklu tişört teri emer, ıslak kalır ve file montun içinde cilde yapışır. Nemi dışarı taşıyan sentetik veya merinos karışımlı ince bir iç katman, buharlaşma sayesinde serinlik hissini artırır ve uzun sürüşlerde sürtünme yaralarını azaltır.",
+          "Çok sıcak ve kuru havada bazı sürücüler suyla ıslatılan soğutma yeleği kullanır. Bu yöntem düşük nemli iklimlerde etkilidir; nemli kıyı şehirlerinde ise buharlaşma zayıfladığı için etkisi sınırlı kalır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kask: havalandırma ve renk",
+        "paragraphs": [
+          "Yazın en çok terleyen bölge baş olduğu için kaskın çene, alın ve arka havalandırmalarının gerçekten açılıp kapandığından ve iç astarın çıkarılıp yıkanabildiğinden emin ol. Açık renkli kask kabukları güneşte koyu renklere göre daha az ısınır.",
+          "Sıcak diye açık kaska geçmek çene korumasından vazgeçmek demektir. Serinlik için kapalı kaskta iyi havalandırmayı veya çene açılır bir modeli tercih et."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Yazlık eldiven ve bot",
+        "paragraphs": [
+          "Yazlık eldivenlerde delikli deri veya file üst yüzey, deri avuç içiyle birleştirilir. Kısa manşetli olabilir ama EN 13594 etiketi taşımalı ve bilek kayışı sıkı kapanmalıdır.",
+          "Ayaklar için havalandırmalı, file panelli şehir veya touring botları mevcuttur. Etiketteki EN 13634 kodunu kontrol et; yazlık olması korumadan taviz verdiği anlamına gelmemelidir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sıcakta sürüş alışkanlıkları",
+        "paragraphs": [
+          "Sıcak çarpması ve sıvı kaybı, dikkati ve reaksiyon süresini fark ettirmeden düşürür. Ekipman ne kadar iyi olursa olsun öğle saatlerindeki uzun etapları bölmek ve düzenli su içmek gerekir."
+        ],
+        "bullets": [
+          "Her molada su iç, susamayı bekleme",
+          "Trafikte uzun beklemelerde mont fermuarını hafifçe aç, yeniden sürmeden kapat",
+          "Uzun etapları sabah ve akşamüstüne kaydır",
+          "Baş dönmesi veya bulanık görme olursa hemen gölgede dur"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "File mont düşmede yeterince dayanıklı mı?",
+        "a": "EN 17092 sınıfı taşıyan file montlar, yüksek riskli bölgelerinde dayanıklı kumaş kullanarak test edilmiş korumayı sağlar. Yine de aynı sınıfın tam kumaş modellerine göre file paneller sürtünmede daha zayıftır; sınıfı mutlaka kontrol et."
+      },
+      {
+        "q": "40 derecede bile mont giymek gerekli mi?",
+        "a": "Evet. Çok yüksek sıcaklıklarda file mont bile sıcak hissettirir, ancak düşmede deri yaralanmaları ve kırıklar sıcaklığa bakmaz. Bunun yerine sürüş saatlerini ve mola sıklığını ayarla."
+      },
+      {
+        "q": "Yazın deri mont giyilir mi?",
+        "a": "Delikli deri montlar ve tulumlar sportif sürüşte yaz boyunca kullanılır, ancak şehir trafiğinde düşük hızda yeterince hava almazlar. Günlük kullanımda file panelli tekstil mont daha konforludur."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-montu-nasil-secilir",
+      "aa-ve-aaa-koruma-farki",
+      "motosiklet-eldiveni-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "mont/yazlik-mont",
+      "eldiven/yazlik-eldiven",
+      "pantolon/kevlar-jean",
+      "bot/sehir-botu"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594:2015 motosiklet eldiveni standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

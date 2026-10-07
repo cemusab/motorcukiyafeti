@@ -1,0 +1,452 @@
+[
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "C5, hoparlör ve antenleri önceden yerleştirilmiş kendi SC2 sistemine göre hazırlanmıştır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "i71 kendi SMART HJC sistemlerine (ör. 11B / 21B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Pist odaklı bir kask olduğundan iç hacim dar olabilir; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "arai/rx-7v-evo",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; kabuk kenarı ve iç yastık yapısı nedeniyle montaj yöntemi değişebilir, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff800-storm-ii",
+    "intercom": "cardo/packtalk-edge",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "C5, hoparlör ve antenleri önceden yerleştirilmiş kendi SC2 sistemine göre hazırlanmıştır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "i71 kendi SMART HJC sistemlerine (ör. 11B / 21B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Pist odaklı bir kask olduğundan iç hacim dar olabilir; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "arai/rx-7v-evo",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; kabuk kenarı ve iç yastık yapısı nedeniyle montaj yöntemi değişebilir, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff800-storm-ii",
+    "intercom": "cardo/freecom-4x",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "C5, hoparlör ve antenleri önceden yerleştirilmiş kendi SC2 sistemine göre hazırlanmıştır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "i71 kendi SMART HJC sistemlerine (ör. 11B / 21B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Pist odaklı bir kask olduğundan iç hacim dar olabilir; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "arai/rx-7v-evo",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; kabuk kenarı ve iç yastık yapısı nedeniyle montaj yöntemi değişebilir, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff800-storm-ii",
+    "intercom": "sena/50s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Shoei bu kask için kaska özel Sena SRL3'ü sunuyor; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "C5, hoparlör ve antenleri önceden yerleştirilmiş kendi SC2 sistemine göre hazırlanmıştır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "RPHA 91 kendi SMART HJC sistemlerine (11B / 21B / 50B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "i71 kendi SMART HJC sistemlerine (ör. 11B / 21B) hazırdır; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Pist odaklı bir kask olduğundan iç hacim dar olabilir; evrensel ünite kelepçe veya yapışkan plaka ile genelde takılır, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "arai/rx-7v-evo",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; kabuk kenarı ve iç yastık yapısı nedeniyle montaj yöntemi değişebilir, satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "ls2/ff800-storm-ii",
+    "intercom": "sena/60s",
+    "level": "standart",
+    "note": "Evrensel kelepçe veya yapışkan plaka ile genelde takılır; satın almadan önce üreticiyle veya satıcıyla doğrulayın.",
+    "verified": false,
+    "source": null
+  },
+  {
+    "helmet": "shoei/neotec-3",
+    "intercom": "sena/srl3",
+    "level": "ozel",
+    "note": "SRL3, Sena tarafından Shoei Neotec 3 kaskının iç yuvalarına özel olarak tasarlanmıştır; kelepçe gerektirmeden kaskın içine gizlenir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "shoei/gt-air-3",
+    "intercom": "sena/srl3",
+    "level": "ozel",
+    "note": "SRL3, Sena tarafından Shoei GT-Air 3 kaskının iç yuvalarına özel olarak tasarlanmıştır; kelepçe gerektirmeden kaskın içine gizlenir.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "schuberth/c5",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "hjc/rpha-91",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "hjc/i71",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "agv/k6-s",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "agv/pista-gp-rr",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "arai/rx-7v-evo",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "ls2/ff811-vector-ii",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "helmet": "ls2/ff800-storm-ii",
+    "intercom": "sena/srl3",
+    "level": "uyumsuz",
+    "note": "SRL3 yalnızca Shoei Neotec 3, GT-Air 3 ve J-Cruise 3 için tasarlanmış kaska özel bir interkomdur; bu kaskla kullanılamaz.",
+    "verified": true,
+    "source": {
+      "url": "https://www.sena.com/product/srl3/",
+      "type": "manufacturer",
+      "label": "Sena – SRL3 ürün sayfası (uyumlu kasklar: Neotec 3, GT-Air 3, J-Cruise 3)",
+      "checkedAt": "2026-10-06"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "five-gloves",
+    "name": "FIVE Gloves",
+    "country": "Fransa",
+    "founded": null,
+    "website": "https://five-gloves.com/en/",
+    "about": [
+      "FIVE, yalnızca eldiven üreten, motosiklet ve bisiklet eldivenlerinde uzmanlaşmış bir markadır. Kendi tanıtımına göre ürünlerini Fransa'daki Ar-Ge ekibi ve İtalya'daki teknik laboratuvarıyla tasarlıyor, partner fabrikalarda kendi teknik ekibinin gözetiminde ürettiriyor.",
+      "Motosiklet katalogu Racing, Street, Urban, Touring, Trail-Adventure, Winter, Heat Technology (ısıtmalı), Custom ve kadın serilerinden oluşuyor. GORE-TEX, PrimaLoft, Kevlar ve D3O gibi tedarikçilerle çalışıyor; AirGO PROTECH ve ERGO PROTECH adlı kendi koruma kabuklarını kullanıyor. Türkiye'de yetkili satıcı ve TL fiyatını doğrulayamadık."
+    ],
+    "strengths": [
+      "Yalnız eldivene odaklanan geniş motosiklet eldiveni yelpazesi",
+      "Racing serisinde havalandırmalı AirGO PROTECH eklem kabukları",
+      "GORE-TEX ve PrimaLoft'lu kış eldivenleri ile ısıtmalı seri",
+      "Geniş beden aralığı ve kadın serisi"
+    ],
+    "categories": ["eldiven"],
+    "families": [
+      {"name": "RFX (Racing)", "note": "Pist ve sport yol sürüşü için uzun bilekli deri eldivenler.", "url": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"},
+      {"name": "WFX (Winter)", "note": "GORE-TEX veya 5_DryTech membranlı kış eldivenleri.", "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/"}
+    ],
+    "highlights": [
+      {"label": "FIVE WFX Prime Evo GTX", "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/", "reason": "GORE-TEX, PrimaLoft Gold ve Thermo+ yapısını gizli eklem kabuğuyla birleştiren üst seviye kış eldiveni."}
+    ],
+    "alternatives": ["held", "revit", "alpinestars"],
+    "history": [],
+    "strongestLine": "Motosiklet eldiveni (racing ve kış serileri)",
+    "sources": [
+      {"url": "https://five-gloves.com/en/five-the-brand/", "type": "manufacturer", "label": "FIVE Gloves – FIVE, the brand", "checkedAt": "2026-10-07"}
+    ]
+  }
+]

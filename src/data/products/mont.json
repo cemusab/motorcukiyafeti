@@ -1,0 +1,938 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "rivals": [
+      "dainese/denim-tex",
+      "held/4-touring-2",
+      "held/sonic-2-lady",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-gp-plus-r-v4-airflow-korumali-motosiklet-montu-siyah-/-siyah",
+        "price": 47380,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54",
+          "58",
+          "60"
+        ],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-gp-plus-r-v4-airflow-korumali-motosiklet-montu-siyah-/-kirmizi-/-beyaz",
+        "price": 47380,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "56",
+          "58",
+          "60"
+        ],
+        "colors": [
+          "Siyah / Kırmızı / Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 47380,
+      "max": 47380,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black White",
+      "Black Black",
+      "Black Red Fluo White"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "gp-plus-r-v4-airflow",
+    "brand": "alpinestars",
+    "name": "Alpinestars GP Plus R v4 Airflow",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "yazlik-mont"
+    ],
+    "summary": "1,3 mm sığır derisi, delikli göğüs ve yan paneller, AA sınıfı EN 17092-3 sertifikası ve Tech-Air 5/3 uyumu olan, sıcak havaya göre tasarlanmış sportif deri mont.",
+    "description": [
+      "GP Plus R v4 Airflow, Alpinestars'ın yol ve pist arasında duran sport deri montunun havalandırmalı versiyonu. Gövde 1,3 mm kalınlığında 'Race' sınıfı deriden; göğüs ve yanlarda delikli bölgeler, omuzlarda havalandırma var. Kol içleri ve koltuk altlarında RIDEKNIT örgü ile esnek paneller, gövdede ise markanın A-CS Plus adını verdiği streç kompozit malzeme kullanılıyor. Kalıp, kolları önceden bükülmüş 'Sport' kesim; yani dik oturuşlu bir motosiklette değil, öne eğik sürüş pozisyonunda rahat ediyor.",
+      "Koruma tarafında omuzlarda Nucleon Flex Plus, dirseklerde GP Lite koruyucu ve sürtünmeyi azaltan çift yoğunluklu DFS omuz kapakları standart geliyor. Sırt ve bölünmüş göğüs koruması için cep var ama koruyucular ayrıca satılıyor. Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor ve Tech-Air 5 ile Tech-Air 3 airbag sistemlerine hazır olduğunu belirtiyor. Alpinestars pantolonlara 3/4 bel fermuarıyla bağlanabiliyor; tam takım deri tulum kadar olmasa da yol için güçlü bir kombinasyon sağlıyor."
+    ],
+    "forWho": [
+      "Naked veya sport motosikletle hafta sonu viraj sürüşü yapan, sıcak havada deri korumadan vazgeçmek istemeyenler",
+      "İleride Tech-Air airbag yeleği eklemeyi düşünen ve montunu buna göre seçmek isteyenler",
+      "Uyumlu Alpinestars deri pantolonla takım kurmak isteyen sürücüler"
+    ],
+    "notFor": [
+      "Gün boyu şehir içinde inip binen kuryeler: sport kalıbı ve deri yapısı uzun vardiyada yorucu, yağmur koruması da yok",
+      "Dik oturuşlu touring/adventure motosiklet kullananlar",
+      "Yağmurda ve soğukta da tek mont ile idare etmek isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı; deri mont için yüksek sertifika seviyesi",
+      "Delikli paneller sayesinde deri mont olmasına rağmen yaz sürüşüne uygun",
+      "Tech-Air 5 ve Tech-Air 3 uyumu ile airbag'e geçiş yolu açık",
+      "Kol içlerinde ve koltuk altında streç paneller, sport pozisyonda serbest hareket"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil, ayrıca satın alınması gerekiyor",
+      "Koruyucuların EN 1621 seviyesi üretici sayfasında belirtilmiyor",
+      "Su geçirmezlik iddiası yok; delikli deri yağmurda hızla ıslanır",
+      "Türkiye'de fiyatı tekstil montların çok üzerinde"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi kullanımda giyilebilir ama dur-kalk trafikte sport kalıp ve deri ağırlık hissettirir; kurye temposuna uygun değil.",
+      "uzunYol": "Sport motosikletle hızlı otoyol etaplarında rüzgârda iyi oturur; bagaj cebi azlığı ve hava koruması eksikliği uzun turda kısıt yaratır.",
+      "yaz": "Asıl hedefi bu. Delikli göğüs ve yanlar hareket halindeyken hava aldırır; trafikte durduğunda yine de deri sıcaklığı hissedilir.",
+      "kis": "Termal astar yok; serin havada içine katman giyilebilir ama kış montu değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk üstüne giyilmeli.",
+      "sport": "Güçlü olduğu alan. AA sınıfı, DFS omuzlar ve pantolon bağlantısıyla viraj ve track day'e yakın kullanım için tasarlanmış."
+    },
+    "verdict": "GP Plus R v4 Airflow, sıcak iklimde deri montun korumasını isteyen sport sürücü için mantıklı bir seçim. AA sertifikası ve airbag uyumu güçlü yanları; sırt koruyucunun ayrıca alınması ve yüksek fiyat ise hesaba katılmalı. Günlük iş kullanımı veya yağmurlu günler için tasarlanmış bir mont değil.",
+    "faq": [
+      {
+        "q": "Sırt koruyucu montla birlikte geliyor mu?",
+        "a": "Hayır. Montta sırt ve bölünmüş göğüs koruyucu için cep bulunuyor; Alpinestars uyumlu Nucleon sırt koruyucularını ayrı ürün olarak satıyor."
+      },
+      {
+        "q": "Tech-Air airbag ile kullanılabilir mi?",
+        "a": "Üretici, montun Tech-Air 5 ve Tech-Air 3 sistemlerine hazır olduğunu belirtiyor. Airbag yeleği ayrıca satın alınır."
+      },
+      {
+        "q": "Kış aylarında kullanılır mı?",
+        "a": "Delikli deri ve termal astarsız yapısıyla yaz ve ılık hava için tasarlanmış. Serin günlerde altına katman giyilebilir ama soğuk ve yağmurda yetersiz kalır."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/gp-plus-r-v4-air-leather-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/gp-plus-r-v4-air-leather-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – GP Plus R v4 Airflow Leather Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-gp-plus-r-v4-airflow-korumali-motosiklet-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – GP Plus R v4 Airflow Siyah/Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-gp-plus-r-v4-airflow-korumali-motosiklet-montu-siyah-/-kirmizi-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – GP Plus R v4 Airflow Siyah/Kırmızı/Beyaz",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "1,3 mm 'Race' sınıfı deri, A-CS Plus streç kompozit paneller, RIDEKNIT kol içleri, file iç astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Havalandırmalı omuzlar, göğüs ve yanlarda delikli deri bölgeler",
+      "closure": "Cırt cırtlı yaka kapama, cırtlı kol ağzı ve ön kolda fermuar, 3/4 pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "dainese/denim-tex",
+      "held/4-touring-2",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-kadin-motosiklet-montu-siyah",
+        "price": 16730,
+        "salePrice": 10810,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 10810,
+      "max": 10810,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "İndirimli fiyat; liste fiyatı 16.730 TL."
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black",
+      "grey-black"
+    ],
+    "sizes": [
+      "DS",
+      "DM",
+      "DL",
+      "DXL",
+      "DXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "DS",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "DM",
+        "min": 91,
+        "max": 98
+      },
+      {
+        "size": "DL",
+        "min": 99,
+        "max": 108
+      },
+      {
+        "size": "DXL",
+        "min": 109,
+        "max": 120
+      },
+      {
+        "size": "DXXL",
+        "min": 121,
+        "max": 132
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible"
+    ],
+    "slug": "sonic-2-lady",
+    "brand": "held",
+    "name": "Held Sonic II (Kadın)",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Göğüs, sırt ve kollarda file paneller, Level 1 omuz-dirsek koruması ve EN 17092-4 A sınıfı sertifikasıyla sıcak havaya yönelik, kadın bedenleri de olan hafif yazlık mont.",
+    "description": [
+      "Sonic II, Held'in giriş-orta segmentteki yazlık file montu. Aynı model numarasıyla hem erkek hem kadın kalıbında üretiliyor; burada ele aldığımız DS–DXXL arası kadın bedenleri. Dış kabukta AIRGUARD 400D kumaş ve geniş file bölgeler var: göğüs, sırt ve kollar fileden, sırtta ayrıca 3D hava filesi bulunuyor. Önde ayrıca açılıp kapanan bir hava fermuarı (ACS) var. İçeride nefes alan file astar, iki dış ve bir iç cep ile telefon cebi yer alıyor.",
+      "Koruma tarafında omuz ve dirseklerde EN 1621-1:2012 Level 1 yumuşak koruyucular standart; sırt koruyucu için yer var ama ürün ayrı satılıyor. Mont EN 17092-4:2020 kapsamında A sınıfı sertifikalı. A sınıfı, file montlar için beklenen bir seviye; AA veya AAA sınıfı tekstil montlar kadar sürtünme dayanımı sunmaz. Kol ve kalça ayarı, yumuşak yaka, yansıtıcı detaylar ve pantolon bağlantı fermuarı mevcut. Held üretici sayfasında modeli su geçirmez olmayan, membransız bir yaz montu olarak tanımlıyor."
+    ],
+    "forWho": [
+      "Türkiye yazında şehir içi ve kısa tur yapan, ince ve serin bir korumalı mont arayan kadın sürücüler",
+      "Bütçesini aşmadan CE sertifikalı yazlık mont isteyenler",
+      "Yazın kurye olarak çalışıp sıcakta hafif mont tercih eden kadın sürücüler; ancak yağmur için ayrıca yağmurluk taşıyarak"
+    ],
+    "notFor": [
+      "Yüksek hızda sport sürüş yapanlar: A sınıfı sertifika sınırlı sürtünme dayanımı demek",
+      "Yağmurlu veya serin mevsimde de tek mont kullanmak isteyenler"
+    ],
+    "pros": [
+      "Göğüs, sırt ve kollarda geniş file; sıcakta gerçekten hava alır",
+      "Omuz ve dirsekte EN 1621-1 Level 1 koruyucu standart",
+      "Kadın bedenleri ayrı tablo ile sunuluyor (DS–DXXL)",
+      "Yansıtıcı detaylar ve pantolon bağlantı fermuarı"
+    ],
+    "cons": [
+      "EN 17092-4 A sınıfı; daha yüksek sınıf montlara göre sürtünme koruması sınırlı",
+      "Su geçirmez değil, membranı yok",
+      "Sırt koruyucu standart değil",
+      "Level 1 yumuşak koruyucular darbe emiliminde Level 2 kadar iddialı değil"
+    ],
+    "usage": {
+      "sehir": "Şehir içi kısa sürüşler ve sıcak trafik için uygun; günlük kurye kullanımında hafifliği avantaj, ancak A sınıfı dayanım ve yağmur koruması olmaması dikkate alınmalı.",
+      "uzunYol": "Yazın kısa-orta mesafe turlarda iyi; uzun etaplarda hava değişirse yağmurluk ve ara katman gerekir.",
+      "yaz": "Asıl kullanım alanı. File paneller ve ön hava fermuarı ile sıcakta serin tutmayı hedefliyor.",
+      "kis": "Termal astarı ve membranı yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk üstüne giyilmeli.",
+      "sport": "Sport sürüş için tasarlanmamış; A sınıfı sertifika agresif kullanımda sınırlı kalır."
+    },
+    "verdict": "Sonic II, Held kalitesinde ve uygun fiyatlı bir kadın yazlık mont arayanlar için dengeli bir seçenek. File oranı yüksek, koruyucuları standart, beden tablosu kadınlara göre ayrılmış. A sınıfı sertifika ve su geçirmezlik olmaması, bu montu sıcak hava ve sakin tempolu sürüşle sınırlıyor.",
+    "faq": [
+      {
+        "q": "Sonic II'nin kadın ve erkek versiyonu farklı mı?",
+        "a": "Held aynı model numarası altında erkek (S–5XL) ve kadın (DS–DXXL) bedenleri sunuyor; kadın bedenlerinin ölçü tablosu ayrı."
+      },
+      {
+        "q": "Sırt koruyucu takılabilir mi?",
+        "a": "Evet. Mont, EN 1621-2:2014 sertifikalı opsiyonel bir sırt koruyucu için hazırlanmış; koruyucu ayrıca satılıyor."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Held modeli su geçirmez olmayan, membransız bir yaz montu olarak tanımlıyor. Yağmurda üstüne yağmurluk giymek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Sonic-II-Sport-mesh-jacket/062335-00-001-0-D-L",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Sonic-II-Sport-mesh-jacket/062335-00-001-0-D-L",
+        "type": "manufacturer",
+        "label": "Held – Sonic II Sport mesh jacket ürün sayfası (kadın bedeni)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sonic 2 Kadın Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "AIRGUARD 400D dış kabuk (polyamid/polyester), file paneller, poliüretan takviye, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, sırt ve kollarda file; sırtta 3D hava filesi; önde hava fermuarı (ACS)",
+      "closure": "Ön fermuar, kol ve kalça ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "dainese/denim-tex",
+      "held/4-touring-2",
+      "held/sonic-2-lady"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Sand-Blue",
+      "Silver-Anthracite",
+      "Black-Anthracite"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "sizeChart": [
+      {
+        "size": "34",
+        "min": 81,
+        "max": 85
+      },
+      {
+        "size": "36",
+        "min": 85,
+        "max": 89
+      },
+      {
+        "size": "38",
+        "min": 89,
+        "max": 93
+      },
+      {
+        "size": "40",
+        "min": 93,
+        "max": 97
+      },
+      {
+        "size": "42",
+        "min": 97,
+        "max": 101
+      },
+      {
+        "size": "44",
+        "min": 101,
+        "max": 106
+      },
+      {
+        "size": "46",
+        "min": 106,
+        "max": 112
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "slug": "sand-5-h2o-ladies",
+    "brand": "revit",
+    "name": "REV'IT! Sand 5 H2O Ladies",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Çıkarılabilir hydratex 3L membranı içte veya dışta giyilebilen, termal astarlı, Level 2 omuz-dirsek korumalı ve AA sınıfı kadın adventure montu.",
+    "description": [
+      "Sand serisi REV'IT!'in uzun süredir satılan adventure montu; Sand 5 H2O Ladies bunun kadın kalıplı güncel sürümü. Üreticiye göre bu nesil, adventure motosikletlerin sportifleşmesine paralel olarak bir öncekinden daha sport karakterli. Montun en dikkat çekici yanı 'over and under' denen membran yapısı: çıkarılabilir hydratex 3L su geçirmez katman, koruyucu dış kabuğun altına veya üstüne giyilebiliyor. Ayrıca tek başına da giyilebilen çıkarılabilir termal astar geliyor.",
+      "Koruma tarafında omuz ve dirseklerde EN 1621-1:2012 Level 2 SEEFLEX koruyucular standart, dirsekler yükseklik ayarlı. Sırtta SEESOFT Level 2 koruyucu için cep var, koruyucu ayrı satılıyor. Mont EN 17092-3:2020 AA sınıfında sertifikalı. Havalandırma tarafında göğüste katlanır ve rulo panel, sırtta rulo panel ve kollarda büyük fermuarlar var. Bel arka cebi 1,5 litrelik su torbası için hazırlanmış. Üretici, bir beden büyük alındığında REV'IT! Avertum veya Tech-Air 5 airbag ile kullanılabileceğini belirtiyor."
+    ],
+    "forWho": [
+      "Asfalt ve stabilize yolu birlikte kullanan, tek montla yılın büyük kısmını geçirmek isteyen kadın adventure sürücüler",
+      "Uzun turda yağmur, rüzgâr ve sıcaklık değişimine göre katman yönetimi yapmak isteyenler",
+      "Her hava koşulunda çalışan kadın kuryeler için de mantıklı bir seçenek: Level 2 koruyucular ve membran var, fakat fiyatı ve çok katmanlı yapısı günlük iş kullanımında pratiklik/maliyet dengesi açısından düşünülmeli"
+    ],
+    "notFor": [
+      "Sadece kısa şehir içi sürüş yapanlar: bu kadar katman ve özellik gereksiz kalır",
+      "Bütçesi sınırlı olanlar"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı ve omuz-dirsekte Level 2 koruyucu",
+      "Membranı dışa veya içe giyilebilen esnek yağmur koruması",
+      "Çıkarılabilir termal astar ile geniş sıcaklık aralığı",
+      "Kadın kalıbı ve kadın beden tablosu",
+      "Airbag (Avertum / Tech-Air 5) ile bir beden büyük kullanılabiliyor"
+    ],
+    "cons": [
+      "Sırt koruyucu standart değil",
+      "Membran ayrı bir katman olduğu için yağmur başladığında durup takmak gerekir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık",
+      "Katmanlarla birlikte yazlık file montlar kadar hafif değil"
+    ],
+    "usage": {
+      "sehir": "Şehirde de kullanılır; ancak hantal olmayan bir yaz montu kadar pratik değil. Her havada çalışan kurye için koruma iyi, ama membranı yağmurda takıp çıkarmak gerekir.",
+      "uzunYol": "Güçlü olduğu alan: katman sistemi, su torbası cebi ve geniş havalandırma uzun etaplarda işe yarar.",
+      "yaz": "Kısmi havalandırmalı; paneller açıldığında sıcakta kullanılabilir ama tam file mont kadar serin değil.",
+      "kis": "Termal astar ve membran ile serin havada iyi; ağır kışta ek ara katman gerekebilir.",
+      "yagmur": "hydratex 3L membran su geçirmez; dışa giyildiğinde dış kabuğun su emmesini engeller.",
+      "sport": "Sport karakteri önceki Sand'lere göre artmış olsa da bir adventure montu; pist kullanımı için değil."
+    },
+    "verdict": "Sand 5 H2O Ladies, kadın sürücüye adventure dünyasında az bulunan kapsamlı bir paket sunuyor: AA sınıfı, Level 2 koruyucular, esnek membran ve termal astar. Sırt koruyucunun ayrı olması ve yüksek fiyat zayıf yanları. Türkiye'de yetkili satıcı fiyatını doğrulayamadığımız için satın almadan önce bayi teyidi öneririz.",
+    "faq": [
+      {
+        "q": "Membranı nasıl kullanılıyor?",
+        "a": "Çıkarılabilir hydratex 3L katman, koruyucu dış kabuğun altına veya üstüne giyilebiliyor. Üretici performans açısından dışa giyilmesini öneriyor."
+      },
+      {
+        "q": "Airbag ile uyumlu mu?",
+        "a": "REV'IT!, montun bir beden büyük alınması şartıyla Avertum Tech-Air veya Tech-Air 5 airbag ile kullanılabileceğini belirtiyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Sırtta SEESOFT CE Level 2 koruyucu için cep var; koruyucu ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/en-us/products/en-motorcycle-jacket-sand-5-h2o-ladies-sand-blue",
+    "sources": [
+      {
+        "url": "https://revitsport.com/en-us/products/en-motorcycle-jacket-sand-5-h2o-ladies-sand-blue",
+        "type": "manufacturer",
+        "label": "REV'IT! – Sand 5 H2O Ladies Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Polyester dış kabuk (%66 geri dönüştürülmüş polyester), çıkarılabilir hydratex 3L membran ve termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 2,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "hydratex 3L (çıkarılabilir, içte veya dışta giyilebilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste katlanır ve rulo havalandırma panelleri, sırtta rulo panel, kollarda büyük havalandırma fermuarları",
+      "closure": "Ön fermuar, uzun pantolon bağlantı fermuarı, bel ayar kayışları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "dainese/denim-tex",
+      "held/sonic-2-lady",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-4-touring-ii-korumali-motosiklet-montu-siyah/sari",
+        "price": 21810,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S"
+        ],
+        "colors": [
+          "Siyah / Sarı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 21810,
+      "max": 21810,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black",
+      "black-red",
+      "black-white",
+      "black-fluorescent yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.season"
+    ],
+    "slug": "4-touring-2",
+    "brand": "held",
+    "name": "Held 4-Touring II",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "AIRGUARD 500D kabuk, entegre Held-Tex Z-Liner membran, çıkarılabilir termal astar ve çok geniş beden seçeneğiyle bütçe dostu bir touring mont; sertifikası EN 17092-4 A sınıfı.",
+    "description": [
+      "4-Touring II, Held'in geniş kitleye yönelik touring montu. Dış kabuk AIRGUARD 500D tekstil; su ve rüzgâr geçirmez Held-Tex Z-Liner membran içeride, çıkarılabilir iç astar ise soğuk günler için. Önde ve arkada havalandırma fermuarları, ön hava fermuarı (ACS), kol içi ve omuzlarda streç paneller, bel kemeri ve yumuşak yaka var. Telefon cebi dahil iki dış, bir iç ve bir harita/evrak cebi bulunuyor.",
+      "Omuz ve dirseklerde EN 1621-1:2012 Level 1 yumuşak koruyucular standart; dirseklerde Held'in HPA yükseklik ayar sistemi var. Sırt için EN 1621-2:2014 koruyucu ve göğüs koruyucu için cırt yeri bulunuyor, ikisi de opsiyonel. Mont EN 17092-4:2020 A sınıfında sertifikalı. Held modeli ilkbahar–sonbahar ve yaz için konumlandırıyor; çıkarılabilir astar sayesinde serin günlerde de kullanılabiliyor ama ağır kış için ek katman şart. Beden yelpazesi çok geniş: erkekte S–10XL, ayrıca uzun, kısa ve göbekli kalıplar ile kadın ve çocuk bedenleri var."
+    ],
+    "forWho": [
+      "Tek montla yılın büyük kısmını geçirmek isteyen, bütçe odaklı touring sürücüler",
+      "Standart dışı beden arayanlar: Held'in uzun, göbekli ve büyük beden seçenekleri bu modelde mevcut",
+      "Her hava koşulunda çalışan kuryeler: entegre membran yağmurda durmadan koruma sağlar, cepler pratik; ancak A sınıfı sertifika ve Level 1 koruyucular sınırlı"
+    ],
+    "notFor": [
+      "Yüksek sürtünme dayanımı (AA/AAA) arayanlar",
+      "Sıcak Türkiye yazında sadece bu montla sürmeyi düşünenler; entegre membran sıcakta nefes alımını sınırlar"
+    ],
+    "pros": [
+      "Entegre su geçirmez membran; yağmur başladığında katman takmaya gerek yok",
+      "Çıkarılabilir termal astar",
+      "Çok geniş beden ve kalıp seçeneği",
+      "Dirsek koruyucusunda yükseklik ayarı (HPA)",
+      "Fiyatına göre zengin cep ve ayar seçeneği"
+    ],
+    "cons": [
+      "EN 17092-4 A sınıfı; sürtünme dayanımı AA sınıfı touring montların gerisinde",
+      "Level 1 koruyucular, sırt ve göğüs koruyucu opsiyonel",
+      "Membran dış kabuğun altında olduğu için yağmurda kabuk ıslanıp ağırlaşabilir",
+      "Held'e göre ağır kış montu değil"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde rahat ve pratik; cepleri ve membranı sayesinde her gün kullanan kuryeler için mantıklı, ama sıcak yaz günlerinde terletebilir.",
+      "uzunYol": "Bu montun asıl amacı; havalandırma fermuarları, ayarlar ve cepler uzun etapları kolaylaştırır.",
+      "yaz": "Havalandırma fermuarları var ama entegre membran nedeniyle sıcak yazda file mont kadar serin değil.",
+      "kis": "Çıkarılabilir astarla serin havada iyi; soğuk kışta altına ara katman gerekir.",
+      "yagmur": "Held-Tex Z-Liner membran su ve rüzgâr geçirmez.",
+      "sport": "Sport sürüş için tasarlanmamış."
+    },
+    "verdict": "4-Touring II, fiyatına göre su geçirmez, astarlı ve çok geniş beden seçenekli dürüst bir touring mont. A sınıfı sertifika ve Level 1 koruyucular, onu daha pahalı AA sınıfı rakiplerin altında konumlandırıyor; sırt koruyucu eklemek iyi bir yatırım olur.",
+    "faq": [
+      {
+        "q": "Mont su geçirmez mi?",
+        "a": "Evet. Held, montta su ve rüzgâr geçirmez, nefes alabilen Held-Tex Z-Liner membran kullanıldığını belirtiyor."
+      },
+      {
+        "q": "Büyük beden var mı?",
+        "a": "Held, erkekte S–5XL standart, bazı renklerde 6XL–10XL ile uzun ve göbekli kalıplar sunuyor. Türkiye'de bayi stoğu değişkendir."
+      },
+      {
+        "q": "Kışın kullanılır mı?",
+        "a": "Çıkarılabilir astarı var ama Held modeli ilkbahar–sonbahar ve yaz için konumlandırıyor. Soğuk kışta altına termal katman eklemek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/4-Touring-II-Touring-jacket/062121-00-014-0-D-XS",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/4-Touring-II-Touring-jacket/062121-00-014-0-D-XS",
+        "type": "manufacturer",
+        "label": "Held – 4-Touring II Touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-4-touring-ii-korumali-motosiklet-montu-siyah/sari",
+        "type": "retailer",
+        "label": "Motomax – Held 4-Touring II Siyah/Sarı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "AIRGUARD 500D dış kabuk (polyamid/polyester), polyester astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Held-Tex Z-Liner (entegre)",
+      "airbagCompatible": null,
+      "ventilation": "Önde ve arkada havalandırma fermuarları, ön hava fermuarı (ACS)",
+      "closure": "Ön fermuar, bel kemeri, kol ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "held/4-touring-2",
+      "held/sonic-2-lady",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketdenim-tex-jacket-blue-46-28239",
+        "price": 19690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Blue"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 19690,
+      "max": 19690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Blue"
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.season",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.ventilation",
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "slug": "denim-tex",
+    "brand": "dainese",
+    "name": "Dainese Denim Tex",
+    "subcategories": [
+      "sehir-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Streç denim kumaştan, görünmez Pro-Shape 2.0 omuz-dirsek koruyuculu, EN 17092 A sınıfı sertifikalı, günlük ceket görünümünde şehir montu.",
+    "description": [
+      "Denim Tex, motosiklet montu gibi görünmeyen bir şehir ceketi isteyenler için Dainese'nin streç denim modeli. Dışarıdan sıradan bir kot ceket gibi duruyor; koruyucular kumaşın altında gizli. Dainese ilkbahar, yaz ve sonbahar için uygun olduğunu söylüyor. Dört dış ve bir iç olmak üzere beş cep var, kalçada çıtçıtlı genişlik ayarı bulunuyor.",
+      "Omuz ve dirseklerde EN 1621-1 sertifikalı yumuşak Pro-Shape 2.0 koruyucular standart; üretici sayfasında seviye belirtilmiyor. Sırtta G tipi koruyucu cebi var; Wave D1, Pro-Shape Back veya Pro-Armor G1/G2 koruyucular beden bazında uyumlu, ama ayrı satılıyor. Mont EN 17092 kapsamında A sınıfı. Denim yapı nedeniyle su geçirmezlik veya havalandırma paneli yok; bu bir dokunuş ve görünüş tercihi."
+    ],
+    "forWho": [
+      "Motosikletten inince ofiste, kafede normal bir ceketle dolaşmak isteyen şehir sürücüleri",
+      "Scooter ve küçük hacimli motosikletle kısa mesafe kullananlar"
+    ],
+    "notFor": [
+      "Kuryeler ve gün boyu motor üstünde olanlar: su geçirmez değil, denim ıslanınca ağırlaşır ve geç kurur",
+      "Yüksek hızda, otoyolda veya sport sürüş yapanlar",
+      "Sıcak Türkiye yazında maksimum havalandırma arayanlar"
+    ],
+    "pros": [
+      "Gündelik ceket görünümü; motosiklet ekipmanı gibi durmuyor",
+      "Omuz ve dirsekte EN 1621-1 koruyucu standart",
+      "Sırt koruyucu için cep ve uyumlu Dainese koruyucu seçenekleri",
+      "Streç kumaş sayesinde rahat hareket"
+    ],
+    "cons": [
+      "EN 17092 A sınıfı; sürtünme dayanımı sınırlı",
+      "Koruyucu seviyesi üretici tarafından belirtilmiyor",
+      "Su geçirmezlik ve havalandırma paneli yok",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: kısa şehir içi sürüşler ve günlük kombin. Yoğun kurye kullanımı için ise yağmur koruması ve dayanıklılık açısından uygun değil.",
+      "uzunYol": "Uzun yol için tasarlanmamış; rüzgâr ve yağmur koruması yok.",
+      "yaz": "Denim olduğu için ilkbahar ve sonbaharda daha rahat; çok sıcak günlerde file montlar kadar serin tutmaz.",
+      "kis": "Astarı yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil; denim ıslanınca ağırlaşır.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Denim Tex, korumayı tamamen bırakmadan günlük kıyafet görünümü arayan şehir sürücüsü için anlamlı. A sınıfı sertifika ve hava koşullarına karşı koruma eksikliği, onu kısa ve sakin şehir sürüşleriyle sınırlıyor; sırt koruyucu eklemek iyi olur.",
+    "faq": [
+      {
+        "q": "Sırt koruyucu takılabilir mi?",
+        "a": "Evet. Dainese montta G1/G2 sırt koruyucu cebi olduğunu ve Wave D1, Pro-Shape Back, Pro-Armor gibi modellerin beden bazında uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi mevsimde kullanılır?",
+        "a": "Dainese ilkbahar, yaz ve sonbahar için öneriyor. Su geçirmez değildir ve astarı yoktur."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/denim-tex---mens-motorcycle-jacket-in-fabric-201735264008.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/denim-tex---mens-motorcycle-jacket-in-fabric-201735264008.html",
+        "type": "manufacturer",
+        "label": "Dainese – Denim Tex Men's Motorcycle Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketdenim-tex-jacket-blue-46-28239",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Denim Tex Blue",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Streç denim",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Kalçada çıtçıtlı genişlik ayarı",
+      "madeIn": null
+    }
+  }
+]

@@ -1,0 +1,2119 @@
+[
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "handlebar-mount-pro",
+    "brand": "quad-lock",
+    "name": "Handlebar Mount PRO",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "CNC işlenmiş alüminyum gövdeli, 22,2–31,8 mm gidonlara ara parçalarla takılan, Quad Lock'un çift kademeli kilidini kullanan motosiklet telefon bağlantısı.",
+    "description": [
+      "Handlebar Mount PRO, Quad Lock'un gidona takılan bağlantı ailesinin alüminyum versiyonu. Telefon, markanın kendi kılıfı veya yapıştırmalı adaptörü üzerinden bağlantıya oturtulup çevrilerek kilitleniyor; üretici bu sistemi patentli çift kademeli kilit olarak tanımlıyor. Bağlantı tek başına satılıyor, telefon kılıfı ya da universal adaptör ayrıca alınmalı.",
+      "Üreticinin yedek parça sayfasına göre PRO bağlantıyla gelen ara parçalar 22,2 mm, 25,4 mm, 28,6 mm ve 31,8 mm çaplı gidonlara uyum sağlıyor. Siyah ve krom seçenekleri, ayarlanabilir kollu ve daha geniş gidonlar için Large varyantları da var. Quad Lock, yüksek frekanslı titreşimin yeni telefonların görüntü sabitleme sistemine zarar verebileceğini kendi sayfasında belirtiyor ve bu yüzden ayrı satılan Vibration Dampener modülünü öneriyor; bağlantının kendisi titreşim sönümleyici değil."
+    ],
+    "forWho": [
+      "Telefonu navigasyon için her gün gidonda kullanan ve hızlı tak-çıkar isteyen sürücüler",
+      "Tek bir kılıf sistemini motosiklet, bisiklet ve araç arasında paylaşmak isteyenler",
+      "Gidon çapı 22,2–31,8 mm aralığında olan naked, touring ve adventure motosiklet sahipleri"
+    ],
+    "notFor": [
+      "Ek kılıf veya adaptör almak istemeyenler: sistem markaya özel kılıfla çalışıyor",
+      "Tek silindirli ya da sert titreşimli motosiklette sönümleyicisiz kullanmayı düşünenler",
+      "Gün boyu telefonu sürekli takıp çıkaran ve şarj modülü de isteyen kuryeler için tek başına yeterli değil; şarj ayrı bir parça"
+    ],
+    "pros": [
+      "Alüminyum gövde ve dört farklı gidon çapı için ara parça",
+      "Telefon tek hareketle takılıp çıkarılıyor",
+      "Titreşim sönümleyici, şarj başlığı ve uzatma kolu gibi modüllerle genişletilebilir",
+      "Türkiye'de yerleşik bir motosiklet mağazasında stokta"
+    ],
+    "cons": [
+      "Kılıf veya universal adaptör ayrıca satın alınmak zorunda",
+      "Titreşim sönümleme dahil değil; üretici bunu ayrı modülle çözüyor",
+      "Kurulum sonrası hırsızlığa karşı ek vida seti ayrı ürün"
+    ],
+    "usage": {
+      "sehir": "Kısa duraklarda telefonu tek hareketle alıp takmak için pratik. Park ettiğinde telefonu yanına almak kolay.",
+      "uzunYol": "Navigasyon ekranını görüş alanında tutar; uzun etaplarda şarj için ayrı şarj başlığı veya USB çözümü gerekir.",
+      "yagmur": "Bağlantı dış ortama dayanıklı; telefonun korunması kullanılan kılıfa ve isteğe bağlı yağmurluk kılıfa bağlı.",
+      "kurye": "Sık tak-çıkar için uygun bir kilit sistemi; ancak gün boyu kullanımda titreşim modülü ve şarj çözümü eklemek gerekir."
+    },
+    "verdict": "Handlebar Mount PRO, gidona sağlam ve temiz bir telefon bağlantısı isteyen için güçlü bir temel parça. Asıl maliyet sistemin bütünü: kılıf veya adaptör, titreşim sönümleyici ve şarj başlığı eklendiğinde fiyat artar. Yüksek titreşimli motosiklette sönümleyicisiz kullanmak önerilmez.",
+    "rivals": [
+      "sp-connect/moto-mount-pro",
+      "givi/s920l-smart-clip"
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/quad-lock-motosiklet-telefon-tutucu-gidona-baglanti",
+        "price": 5749.61,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi gidon çaplarına uyuyor?",
+        "a": "Quad Lock'un PRO ara parça seti sayfasına göre 22,2 mm, 25,4 mm, 28,6 mm ve 31,8 mm çaplı gidonlara uygun. Daha kalın gidonlar için ayrı Large varyantı satılıyor."
+      },
+      {
+        "q": "Telefon kılıfı kutudan çıkıyor mu?",
+        "a": "Hayır. Bağlantı tek başına satılır; telefona özel Quad Lock kılıfı veya universal adaptör ayrıca alınmalıdır."
+      },
+      {
+        "q": "Telefon kamerasına zarar verir mi?",
+        "a": "Quad Lock, motosiklet titreşiminin yeni telefonların görüntü sabitleme sistemini etkileyebileceğini belirtiyor ve bunun için ayrı Vibration Dampener modülü satıyor. Özellikle titreşimli motorlarda bu modülü eklemek mantıklı."
+      }
+    ],
+    "manufacturerUrl": "https://www.quadlockcase.com/products/motorcycle-mount",
+    "sources": [
+      {
+        "url": "https://www.quadlockcase.com/products/motorcycle-mount",
+        "type": "manufacturer",
+        "label": "Quad Lock – Motorcycle Handlebar Mounts ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.quadlockcase.com/products/replacement-handlebar-mount-pro-spacer-set",
+        "type": "manufacturer",
+        "label": "Quad Lock – Handlebar Mount PRO ara parça seti (gidon çapları)",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/quad-lock-motosiklet-telefon-tutucu-gidona-baglanti",
+        "type": "retailer",
+        "label": "Motodium – Quad Lock Pro Gidon Bağlantı",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Krom"
+    ],
+    "specs": {
+      "accessoryType": "Telefon tutucu (gidon bağlantısı)",
+      "material": "CNC işlenmiş eloksallı alüminyum (siyah) veya krom kaplama",
+      "compatibility": "Gidon çapı 22,2 / 25,4 / 28,6 / 31,8 mm (ara parçalarla); Quad Lock kılıf veya universal adaptör gerekir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Patentli çift kademeli kilit",
+        "Siyah, krom, ayarlanabilir ve Large varyantları",
+        "Vibration Dampener ve şarj başlığıyla uyumlu"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 5749.61,
+      "max": 5749.61,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "vibration-dampener",
+    "brand": "quad-lock",
+    "name": "Motorcycle Vibration Dampener",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "Quad Lock motosiklet bağlantılarına eklenen, silikon takozlu çift şasi yapısıyla yüksek frekanslı titreşimin %90'ından fazlasını azalttığı belirtilen telefon koruma modülü.",
+    "description": [
+      "Vibration Dampener tek başına bir telefon tutucu değil; Quad Lock gidon, ayna veya diğer motosiklet bağlantılarıyla telefon arasına giren bir ara modül. Üretici, bazı motosikletlerin titreşiminin yeni telefonların görüntü sabitleme sistemini etkileyebileceğini açıkça yazıyor ve bu modülün kamerayı korumak için tasarlandığını belirtiyor.",
+      "Modül, hassas işlenmiş silikon takozlara oturan çift şasi süspansiyonla çalışıyor ve Quad Lock'a göre motosikletin ürettiği yüksek frekanslı titreşimin %90'ından fazlasını azaltıyor. Tüm Quad Lock motosiklet bağlantıları ve aksesuarlarıyla uyumlu; kurulum için gereken parçalar kutuda geliyor. Telefonun bağlantıya kilitlenme şekli değişmiyor, yalnızca araya bir katman ekleniyor."
+    ],
+    "forWho": [
+      "Zaten Quad Lock bağlantısı kullanan ve telefon kamerasını titreşime karşı korumak isteyenler",
+      "Tek silindirli, V-twin veya belirgin titreşimli motosiklet sürenler",
+      "Telefonu günde saatlerce gidonda tutan sürücüler"
+    ],
+    "notFor": [
+      "Quad Lock dışında bir tutucu sistemi kullananlar; modül yalnızca Quad Lock bağlantılarıyla uyumlu",
+      "Titreşim riskinin sıfırlanacağını bekleyenler: üretici azaltma oranı veriyor, tam koruma vaat etmiyor"
+    ],
+    "pros": [
+      "Üretici, yüksek frekanslı titreşimde %90'ı aşan azalma belirtiyor",
+      "Tüm Quad Lock motosiklet bağlantılarıyla uyumlu",
+      "Türkiye'de görece erişilebilir fiyatla stokta"
+    ],
+    "cons": [
+      "Tek başına kullanılamaz; Quad Lock bağlantısı ve kılıf ayrıca gerekir",
+      "Telefonu bağlantıdan biraz daha yukarı taşır, görünüm ve açı değişebilir",
+      "Silikon takozlar zamanla yıpranabilecek parçalar"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde de takılı kalabilir; telefon tak-çıkar alışkanlığını değiştirmez.",
+      "uzunYol": "Telefonun saatlerce titreşime maruz kaldığı uzun yolda en mantıklı kullanım alanı.",
+      "kurye": "Gün boyu gidonda telefon kullanan kuryeler için kamerayı korumaya yönelik makul bir ek parça."
+    },
+    "verdict": "Quad Lock kullanıyorsan ve motosikletin belirgin titreşim üretiyorsa bu modül neredeyse zorunlu bir ek. Bağımsız bir ürün değil, sistemin parçası; telefon kamerası arızasının onarım maliyeti düşünüldüğünde fiyatı makul kalıyor.",
+    "rivals": [
+      "sp-connect/anti-vibration-module"
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/quad-lock-motosiklet-telefon-tutucu-titresim-onleyici",
+        "price": 1500.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kamera hasarını tamamen önler mi?",
+        "a": "Quad Lock yüksek frekanslı titreşimi %90'dan fazla azalttığını söylüyor; tam koruma garantisi vermiyor. Riski düşüren bir önlem olarak düşünülmeli."
+      },
+      {
+        "q": "Başka marka tutucuyla kullanılır mı?",
+        "a": "Hayır. Üretici modülü Quad Lock motosiklet bağlantıları ve aksesuarlarıyla uyumlu olarak tanımlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.quadlockcase.com/products/vibration-dampener",
+    "sources": [
+      {
+        "url": "https://www.quadlockcase.com/products/vibration-dampener",
+        "type": "manufacturer",
+        "label": "Quad Lock – Motorcycle Vibration Dampener ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/quad-lock-motosiklet-telefon-tutucu-titresim-onleyici",
+        "type": "retailer",
+        "label": "Motodium – Quad Lock Titreşim Önleyici",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "accessoryType": "Telefon tutucu titreşim sönümleyici",
+      "material": null,
+      "compatibility": "Tüm Quad Lock motosiklet bağlantıları ve aksesuarları",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Silikon takozlu çift şasi süspansiyon",
+        "Yüksek frekanslı titreşimde %90'ı aşan azalma (üretici beyanı)",
+        "Kurulum parçaları kutuda"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 1500.0,
+      "max": 1500.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "moto-mount-pro",
+    "brand": "sp-connect",
+    "name": "Moto Mount Pro",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "22,2 mm'den 31,7 mm'ye kadar gidonlara takılan, 360° döndürülebilen ve SP Connect kılıflarıyla 90° çevirerek kilitlenen motosiklet telefon bağlantısı.",
+    "description": [
+      "Moto Mount Pro, SP Connect'in gidona takılan telefon bağlantısı. Üreticiye göre standart ve kalın gidonlara 2,22 / 2,54 / 2,7 / 2,86 / 3,17 cm çaplarında oturuyor ve bağlantı 360° döndürülerek telefon yatay ya da dikey konumlanabiliyor. Telefon, SP Connect kılıfı veya universal adaptör üzerinden bağlantıya 90° çevrilerek kilitleniyor.",
+      "Siyah ve krom seçenekleri var. Sistem modüler: aynı kılıf araç, bisiklet ve masaüstü bağlantılarında da kullanılabiliyor; motosiklette titreşim için ayrı Anti Vibration Module, şarj için kablosuz şarj modülü ekleniyor. Bağlantı tek başına satıldığından kılıf veya adaptör maliyetini de hesaba katmak gerekiyor."
+    ],
+    "forWho": [
+      "Telefonu gidonda navigasyon ekranı olarak kullanan sürücüler",
+      "Telefon açısını sık değiştiren ve dikey/yatay geçiş yapmak isteyenler",
+      "SP Connect kılıfını araçta ve bisiklette de kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Telefonuna uygun SP Connect kılıfı veya adaptörü olmayanlar",
+      "Titreşimli motosiklette ek sönümleyici almadan kullanmayı düşünenler"
+    ],
+    "pros": [
+      "Beş farklı gidon çapına uyum",
+      "360° ayarlanabilir başlık",
+      "Kılıf sistemi farklı araç ve aksesuarlarla ortak"
+    ],
+    "cons": [
+      "Kılıf veya universal adaptör ayrıca satın alınmalı",
+      "Titreşim sönümleme ve şarj ayrı modüller",
+      "Kontrol tarihinde Motomax'ta stokta görünmüyordu"
+    ],
+    "usage": {
+      "sehir": "Kısa duraklarda telefonu çevirip çıkarmak hızlı; park halinde telefonu yanına almak kolay.",
+      "uzunYol": "Navigasyon için iyi konumlanır; uzun yolda şarj için ayrı modül veya kablo gerekir.",
+      "kurye": "Sürekli tak-çıkar için uygun; gün boyu kullanımda titreşim modülü eklemek mantıklı."
+    },
+    "verdict": "Moto Mount Pro, Quad Lock'un doğrudan rakibi olan sağlam ve esnek bir gidon bağlantısı. Kılıf ve modül ekosistemine bağlı kalmayı kabul edersen günlük kullanımda pratik; titreşimli motosiklette Anti Vibration Module ile birlikte düşünülmeli.",
+    "rivals": [
+      "quad-lock/handlebar-mount-pro",
+      "givi/s920l-smart-clip"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sp-connect-motomount-pro-8449",
+        "price": 4480.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Gidonum kalın, uyar mı?",
+        "a": "Üretici 3,17 cm (1,25 inç) çapa kadar gidonları listeliyor. Daha kalın gidonlar için uygun değil."
+      },
+      {
+        "q": "Telefon kılıfı dahil mi?",
+        "a": "Hayır. Telefona özel SP Connect kılıfı veya universal adaptör ayrıca alınmalı."
+      }
+    ],
+    "manufacturerUrl": "https://sp-connect.com/products/moto-mount-pro",
+    "sources": [
+      {
+        "url": "https://sp-connect.com/products/moto-mount-pro",
+        "type": "manufacturer",
+        "label": "SP Connect – Moto Mount Pro ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sp-connect-motomount-pro-8449",
+        "type": "retailer",
+        "label": "Motomax – SP Connect C+ Moto Mount Pro",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Krom"
+    ],
+    "specs": {
+      "accessoryType": "Telefon tutucu (gidon bağlantısı)",
+      "material": null,
+      "compatibility": "Gidon çapı 22,2 / 25,4 / 27 / 28,6 / 31,7 mm; SP Connect kılıf veya universal adaptör gerekir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "90° çevirerek kilitleme",
+        "360° ayarlanabilir başlık",
+        "Siyah ve krom seçenekleri"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 4480.0,
+      "max": 4480.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "anti-vibration-module",
+    "brand": "sp-connect",
+    "name": "Anti Vibration Module",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "SP Connect bağlantı başlığının yerine takılan, elastomer iç yapısıyla motor titreşiminin %90'a kadarını azalttığı belirtilen telefon titreşim modülü.",
+    "description": [
+      "Anti Vibration Module, SP Connect bağlantılarındaki uyumlu başlığın yerine takılıyor ve telefon doğrudan bu modüle 90° çevrilerek kilitleniyor. Üretici, yeni nesil telefonların motor titreşiminden etkilenebilecek hassas bileşenler içerdiğini ve modülün özel elastomer iç parça sayesinde bu titreşimin %90'a kadarını azalttığını belirtiyor.",
+      "Ürün sayfasında şarjsız ve kablosuz şarjlı varyantlar, ayrıca siyah ve krom renkler bulunuyor. Şarjlı versiyon sürüş sırasında telefonu indüktif olarak şarj edebiliyor ve üreticiye göre hava koşullarına tam dayanıklı. Modül 360° ayarlanabiliyor. Biz burada şarjsız temel modülü ele alıyoruz; Türkiye fiyatı da bu versiyona ait."
+    ],
+    "forWho": [
+      "SP Connect bağlantısı kullanan ve telefon kamerasını titreşimden korumak isteyenler",
+      "Belirgin titreşimli motosiklet sürenler",
+      "Telefonu günün büyük bölümünde gidonda tutanlar"
+    ],
+    "notFor": [
+      "SP Connect dışında bir tutucu sistemi kullananlar",
+      "Titreşim riskinin tamamen ortadan kalkmasını bekleyenler"
+    ],
+    "pros": [
+      "Üretici %90'a kadar titreşim azaltımı belirtiyor",
+      "Başlık yerine takıldığı için telefonu fazla yükseltmiyor",
+      "İstenirse kablosuz şarjlı versiyon seçilebiliyor"
+    ],
+    "cons": [
+      "Yalnız SP Connect sistemiyle çalışıyor",
+      "Şarjlı versiyonun fiyatı belirgin şekilde yüksek",
+      "Elastomer parçaların uzun vadeli ömrü hakkında üretici verisi yok"
+    ],
+    "usage": {
+      "sehir": "Takılı kalabilir; telefonu tak-çıkar alışkanlığı değişmez.",
+      "uzunYol": "Uzun süre gidonda kalan telefon için mantıklı bir koruma katmanı.",
+      "kurye": "Gün boyu gidonda telefon kullanan kuryeler için kamera riskini azaltmaya yönelik makul bir ek."
+    },
+    "verdict": "SP Connect kullanıcısı için titreşime karşı en doğrudan çözüm. Telefon kamera arızalarının maliyeti düşünüldüğünde özellikle titreşimli motosikletlerde eklenmesi mantıklı; ancak yalnız bu sistemle çalıştığını unutma.",
+    "rivals": [
+      "quad-lock/vibration-dampener"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sp-connect-c-antivibrayon-titresim-engelleyici",
+        "price": 2180.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Şarjlı ve şarjsız versiyon farkı nedir?",
+        "a": "Şarjlı versiyon titreşim sönümlemenin yanında telefonu sürüş sırasında kablosuz şarj eder. Şarjsız versiyon yalnızca titreşimi azaltır ve daha ucuzdur."
+      },
+      {
+        "q": "Hangi bağlantılara takılır?",
+        "a": "Üretici modülün uyumlu SP Connect bağlantı başlığının yerine takıldığını belirtiyor; Moto Mount Pro gibi gidon bağlantılarıyla kullanılır."
+      }
+    ],
+    "manufacturerUrl": "https://sp-connect.com/products/anti-vibration-module",
+    "sources": [
+      {
+        "url": "https://sp-connect.com/products/anti-vibration-module",
+        "type": "manufacturer",
+        "label": "SP Connect – Anti Vibration Module ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sp-connect-c-antivibrayon-titresim-engelleyici",
+        "type": "retailer",
+        "label": "Motomax – SP Connect C+ Anti Vibrasyon",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Krom"
+    ],
+    "specs": {
+      "accessoryType": "Telefon tutucu titreşim sönümleyici",
+      "material": "Elastomer iç parça (üretici beyanı)",
+      "compatibility": "Uyumlu SP Connect bağlantı başlıklarının yerine takılır",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "%90'a kadar titreşim azaltımı (üretici beyanı)",
+        "360° ayarlanabilir",
+        "Kablosuz şarjlı versiyonu mevcut"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 2180.0,
+      "max": 2180.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "s920l-smart-clip",
+    "brand": "givi",
+    "name": "S920L Smart Clip",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "8–35 mm çaplı borulara takılan, 144×67 mm ile 178×90 mm arası telefonları kılıf gerektirmeden tutan, İtalya'da tasarlanıp üretilen universal kıskaçlı telefon tutucu.",
+    "description": [
+      "S920L Smart Clip, Givi'nin kılıf gerektirmeyen universal telefon kıskacının büyük boy versiyonu. Üreticiye göre en az 144×67 mm, en fazla 178×90 mm boyutunda ve en fazla 13 mm kalınlığındaki telefonları tutuyor; 8 ile 35 mm arası çaplı borulara ve en fazla 37 mm köşegenli tam yuvarlak olmayan kesitlere takılabiliyor. Metal parçalar paslanmaz çelik ve eloksallı alüminyum, plastik parçalar ise elastomerle birlikte kalıplanmış teknopolimer.",
+      "Kıskacın şekli çoğu telefonda ön ve arka kameraları kapatmayacak biçimde tasarlanmış; kutuda bozuk yollar için yırtılmaya dayanıklı bir güvenlik lastiği de geliyor. Givi açıkça bu tutucunun arazi kullanımı için tasarlanmadığını ve güçlü titreşime maruz kalmanın cihazın stabilitesini bozup kamerasına zarar verebileceğini yazıyor. Pop-up veya kayar kameralı telefonlarda kamera kullanılamıyor."
+    ],
+    "forWho": [
+      "Telefon modelini sık değiştiren ve markaya özel kılıf almak istemeyenler",
+      "Büyük ekranlı telefon kullanan şehir ve tur sürücüleri",
+      "Tutucuyu motosiklet, scooter ve bisiklet arasında taşımak isteyenler"
+    ],
+    "notFor": [
+      "Arazi ve bozuk yolda kullanacaklar: üretici off-road kullanım için tasarlanmadığını belirtiyor",
+      "Telefonu çok sık tak-çıkar yapan kuryeler için kıskaç sistemi çevir-kilitle sistemlerden daha yavaş",
+      "Kalınlığı 13 mm'yi aşan kılıflı telefon kullananlar"
+    ],
+    "pros": [
+      "Kılıf gerektirmez, telefon değişse de kullanılmaya devam eder",
+      "8–35 mm geniş boru çapı uyumu",
+      "Paslanmaz çelik ve eloksallı alüminyum metal parçalar",
+      "Üretici kamera titreşim riskini açıkça belirtiyor"
+    ],
+    "cons": [
+      "Titreşim sönümleme yok; üretici güçlü titreşimde kamera hasarı riskini yazıyor",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı",
+      "Kalın kılıflı telefonlar sığmayabilir"
+    ],
+    "usage": {
+      "sehir": "Asfaltta günlük navigasyon için uygun; scooter ayna veya gidon borusuna takılabilir.",
+      "uzunYol": "Asfalt turda kullanılabilir; şarj için ayrı çözüm gerekir.",
+      "yagmur": "Telefonu açıkta tutar; yağmurda telefonun kendi suya dayanıklılığına güvenmek gerekir."
+    },
+    "verdict": "S920L, kılıf ekosistemine bağlanmak istemeyen ve büyük telefon kullanan sürücü için mantıklı bir universal çözüm. Givi'nin kendi uyarısı net: arazi ve güçlü titreşim için değil. Asfaltta, titreşimi düşük motosiklette iyi iş görür.",
+    "rivals": [
+      "quad-lock/handlebar-mount-pro",
+      "sp-connect/moto-mount-pro"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hangi telefonlar sığar?",
+        "a": "Givi'ye göre 144×67 mm ile 178×90 mm arası, en fazla 13 mm kalınlığındaki telefonlar. Daha küçük telefonlar için S920M versiyonu var."
+      },
+      {
+        "q": "Kamerama zarar verir mi?",
+        "a": "Givi, güçlü titreşime maruz kalmanın cihaz stabilitesini bozup kameraya zarar verebileceğini ve tutucunun off-road kullanım için tasarlanmadığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.givi.it/prodotti-givi/portasmartphone/porta-smartphone-e-dispositivi-di-pagamento/s920l-smart-clip",
+    "sources": [
+      {
+        "url": "https://www.givi.it/prodotti-givi/portasmartphone/porta-smartphone-e-dispositivi-di-pagamento/s920l-smart-clip",
+        "type": "manufacturer",
+        "label": "GIVI – S920L Smart Clip ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof"
+    ],
+    "specs": {
+      "accessoryType": "Telefon tutucu (universal kıskaç)",
+      "material": "Paslanmaz çelik ve eloksallı alüminyum metal parçalar, elastomerli teknopolimer",
+      "compatibility": "8–35 mm çaplı borular (en fazla 37 mm köşegenli yuvarlak olmayan kesit); telefon 144×67 – 178×90 mm, en fazla 13 mm kalınlık",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Kılıf gerektirmez",
+        "Kameraları kapatmayan kıskaç şekli",
+        "GRIP+ güvenlik lastiği dahil",
+        "Alet gerektirmeden kurulum"
+      ],
+      "madeIn": "İtalya"
+    },
+    "priceRange": null,
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "granit-detecto-xplus-8077-2-0",
+    "brand": "abus",
+    "name": "GRANIT Detecto XPlus 8077 2.0",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "13,5 mm sertleştirilmiş çelik pimli, ön alarm ve en az 100 dB tam alarmlı, Sold Secure Powered Cycle Gold ve ART onaylı alarmlı disk kilidi.",
+    "description": [
+      "GRANIT Detecto XPlus 8077 2.0, ABUS'un alarmlı disk kilidinin güncel versiyonu. Kilit pimi, gövde ve mekanizmanın taşıyıcı parçaları özel sertleştirilmiş çelikten; pim kalınlığı 13,5 mm, iç açıklık 48 mm, ağırlık 940 g. Maymuncuk gibi manipülasyonlara karşı optimize edilmiş XPlus silindir kullanılıyor ve kutudan iki anahtar çıkıyor.",
+      "Alarm tarafında 3D konum algılama hareketi fark ettiğinde önce yedi sinyal tonluk bir ön alarm çalıyor; hareket sürerse en az 100 dB'lik tam alarm 15 saniye boyunca devreye giriyor. Otomatik fren diski algılama sayesinde kilit diskte değilken kapalı halde taşınabiliyor ve alarm çalmıyor. Üretici sayfasında Sold Secure Powered Cycle Gold, Hollanda ART vakfı (4166), İsveç SBSC ve Norveç FG test mühürleri listeleniyor; iki adet AAA pil ve taşıma çantası kutuya dahil."
+    ],
+    "forWho": [
+      "Değerli motosikletini kısa ve orta süreli park eden, taşınabilir güçlü bir kilit arayanlar",
+      "Motosikleti kilit takılıyken hareket ettirmeye çalıştığında uyarı almak isteyenler",
+      "Sigorta şirketinin tanıdığı test mühürlerine önem verenler"
+    ],
+    "notFor": [
+      "Motosikleti sabit bir noktaya bağlamak isteyenler: disk kilidi tek başına taşınmaya karşı koruma sağlamaz",
+      "Pil değişimiyle uğraşmak istemeyenler"
+    ],
+    "pros": [
+      "Sold Secure Powered Cycle Gold ve ART dahil çok sayıda bağımsız test mührü",
+      "Ön alarm ile yanlış alarmları azaltan iki aşamalı uyarı",
+      "Diskte değilken alarm çalmadan taşınabiliyor",
+      "13,5 mm sertleştirilmiş çelik pim"
+    ],
+    "cons": [
+      "940 g ağırlık cebe değil çantaya sığar",
+      "Disk kilidi motosikletin kamyonete yüklenmesini engellemez; uzun parklarda zincir önerilir",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük park için ideal kategori; kompakt ve alarmı caydırıcı.",
+      "uzunYol": "Otel veya mola parklarında taşınması kolay; geceleme için zincirle birlikte kullanmak daha güvenli.",
+      "kurye": "Sık in-bin yapan kurye için takma-çıkarma süresi kısa; ancak unutulup hareket edilirse diske zarar riskine karşı hatırlatma kablosu düşünülmeli."
+    },
+    "verdict": "8077 2.0, taşınabilir disk kilitleri arasında test mühürleri ve akıllı alarm mantığıyla üst segmentte. Kısa ve orta park için güçlü bir caydırıcı; motosikleti sabit noktaya bağlamadığı için gece parklarında zincirle desteklenmesi gerekir.",
+    "rivals": [
+      "xena/xx15",
+      "oxford/boss-alarm-disc-lock",
+      "tex-motor/xlock-ty525"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Alarm ne zaman çalar?",
+        "a": "Kilit hareket algıladığında önce yedi sinyal tonluk ön alarm çalar. Hareket devam ederse en az 100 dB'lik tam alarm 15 saniye boyunca çalar."
+      },
+      {
+        "q": "Hangi sertifikalara sahip?",
+        "a": "ABUS sayfasında Sold Secure Powered Cycle Gold, ART (4166), SBSC ve FG test mühürleri listeleniyor."
+      },
+      {
+        "q": "Pil dahil mi?",
+        "a": "Evet, iki adet standart AAA pil ve taşıma çantası kutuda geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.abus.com/int/Consumer/Motorbike-locks/Brake-Disc-Locks-Motorbike/GRANIT-Detecto-XPlus-8077-2.0",
+    "sources": [
+      {
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Brake-Disc-Locks-Motorbike/GRANIT-Detecto-XPlus-8077-2.0",
+        "type": "manufacturer",
+        "label": "ABUS – GRANIT Detecto XPlus 8077 2.0 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Sarı",
+      "Kırmızı",
+      "Turuncu",
+      "Yeşil",
+      "Mavi",
+      "Siyah"
+    ],
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi",
+      "material": "Özel sertleştirilmiş çelik pim, gövde ve mekanizma parçaları",
+      "compatibility": "Motosiklet fren diskleri; pim 13,5 mm, iç açıklık 48 mm",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "Sold Secure Powered Cycle Gold; ART onaylı (no. 4166); SBSC; FG",
+      "features": [
+        "3D konum algılama",
+        "Ön alarm + en az 100 dB tam alarm",
+        "Otomatik fren diski algılama",
+        "XPlus silindir",
+        "Ağırlık 940 g",
+        "2 AAA pil ve taşıma çantası dahil"
+      ],
+      "madeIn": "Almanya"
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "granit-citychain-xplus-1060",
+    "brand": "abus",
+    "name": "GRANIT CityChain XPlus 1060",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "10 mm altıgen sertleştirilmiş çelik zincirli, kumaş kılıflı, 110 cm uzunluğunda, Power Cell kilit gövdeli ve ART onaylı motosiklet/scooter zincir kilidi.",
+    "description": [
+      "GRANIT CityChain XPlus 1060, kilidin zincire doğrudan bağlandığı bir kilit-zincir kombinasyonu. Zincir 10 mm altıgen kesitli ve boyaya zarar vermemesi için kumaş kılıflı; zincir, kilit gövdesi ve mekanizmanın taşıyıcı parçaları özel sertleştirilmiş çelikten. 110 cm uzunluktaki versiyonun ağırlığı 2.650 g.",
+      "ABUS'un patentli Power Cell teknolojisi kilit gövdesini darbe ve çekme saldırılarına karşı güçlendiriyor, Power Link ise zinciri doğrudan kilit gövdesine bağlıyor. Zincirin yalnızca bir ucu kilitlendiği için kullanım kolay. Üretici sayfasında ART (4045), SBSC, FG ve Sold Secure Pedal Cycle Gold mühürleri listeleniyor; Sold Secure derecesi bisiklet sınıfında, motosiklet sınıfı değil. ABUS bu kilidi orta düzey hırsızlık riski için öneriyor."
+    ],
+    "forWho": [
+      "Scooter ve orta segment motosikletini sabit bir noktaya bağlamak isteyenler",
+      "Disk kilidine ek ikinci bir kilit arayanlar",
+      "Tek elle kolay kilitlenen bir zincir isteyenler"
+    ],
+    "notFor": [
+      "Yüksek hırsızlık riski olan bölgede değerli motosiklet için tek kilit arayanlar: üretici orta risk için öneriyor",
+      "Kilidi cepte taşımak isteyenler; 2,65 kg ağırlık çanta veya sele altı gerektirir"
+    ],
+    "pros": [
+      "Kumaş kılıf boyayı korur",
+      "Kilit gövdesi darbe ve çekmeye karşı Power Cell ile güçlendirilmiş",
+      "Tek uçtan kilitleme ile kolay kullanım",
+      "XPlus silindir ve Code Card ile yedek anahtar imkânı"
+    ],
+    "cons": [
+      "Sold Secure derecesi motosiklet değil bisiklet sınıfında",
+      "10 mm zincir, motosiklet sınıfı ağır zincirlere göre ince",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Scooter veya motosikleti direğe bağlamak için uygun uzunlukta.",
+      "uzunYol": "2,65 kg ile taşınabilir; konaklamalarda disk kilidine ek olarak kullanılabilir.",
+      "kurye": "Kısa teslimat duraklarında tek uçtan hızlı kilitlenir; ağırlığı nedeniyle sürekli taşımak yorucu olabilir."
+    },
+    "verdict": "CityChain 1060, scooter ve orta risk bölgeleri için dengeli bir zincir kilit. Kilit gövdesi tasarımı güçlü olsa da 10 mm zincir ve bisiklet sınıfı Sold Secure derecesi, pahalı motosikletlerde tek başına yeterli sayılmamalı.",
+    "rivals": [
+      "abus/granit-power-xs-67-12ks",
+      "tex-motor/xlock-ty3924"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Motosiklet için Sold Secure onaylı mı?",
+        "a": "ABUS sayfasında Sold Secure Pedal Cycle Gold yazıyor; bu bisiklet sınıfıdır. Ayrıca ART (4045), SBSC ve FG mühürleri listeleniyor."
+      },
+      {
+        "q": "Zincir ne kadar uzun?",
+        "a": "Bu versiyonun zincir uzunluğu 110 cm, kalınlığı 10 mm ve ağırlığı 2.650 g."
+      }
+    ],
+    "manufacturerUrl": "https://www.abus.com/int/Consumer/Motorbike-locks/Lock-Chain-Combinations-Motorbike/GRANIT-CityChain-XPlus-1060",
+    "sources": [
+      {
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Lock-Chain-Combinations-Motorbike/GRANIT-CityChain-XPlus-1060",
+        "type": "manufacturer",
+        "label": "ABUS – GRANIT CityChain XPlus 1060 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "specs": {
+      "accessoryType": "Zincir kilit",
+      "material": "Sertleştirilmiş çelik zincir ve kilit gövdesi, kumaş kılıf",
+      "compatibility": "Motosiklet ve scooter; 110 cm zincir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "ART onaylı (no. 4045); Sold Secure Pedal Cycle Gold; SBSC; FG",
+      "features": [
+        "10 mm altıgen zincir",
+        "Power Cell ve Power Link teknolojisi",
+        "XPlus silindir",
+        "Anahtar deliği kapağı",
+        "Ağırlık 2.650 g"
+      ],
+      "madeIn": "Almanya"
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "granit-power-xs-67-12ks",
+    "brand": "abus",
+    "name": "GRANIT Power XS 67 12KS Black Loop",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "14 mm çift kilitlemeli asma kilit ve 12 mm halkalı sertleştirilmiş çelik zincirden oluşan, 120 cm, ART onaylı ağır motosiklet kilit seti.",
+    "description": [
+      "GRANIT Power XS 67 12KS Black Loop, kompakt bir U tipi asma kilit ile ucu halkalı 12 mm zincirin birleşimi. Asma kilidin kelepçesi 14 mm (kılıfla 17 mm) ve çift kilitleme mekanizmasıyla gövdeye sabitleniyor. Zincir, kelepçe, kilit gövdesi ve mekanizmanın taşıyıcı parçaları sertleştirilmiş çelik; zincir boyayı korumak için kumaş kılıflı, asma kilit ise silikon kılıflı.",
+      "Zincir uzunluğu 120 cm, toplam ağırlık 4.450 g. Halkalı uç sayesinde zincirin büyük kısmı sabit noktaya bağlamak için kullanılabiliyor ve yalnızca bir uç kilitleniyor; asma kilit ayrıca tek başına da kullanılabiliyor. ABUS bu seti yüksek hırsızlık riski için öneriyor; sayfada ART (4173) test mührü listeleniyor. XPlus silindir ve Code Card ile yedek anahtar desteği var."
+    ],
+    "forWho": [
+      "Değerli motosikletini gece boyunca sokakta sabit bir noktaya bağlayanlar",
+      "Disk kilidiyle birlikte ikinci, ağır bir güvenlik katmanı isteyenler",
+      "Evde veya otoparkta zemin ankrajıyla kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Hafif ve taşınabilir kilit arayanlar: 4,45 kg ağırlık sürekli taşımayı zorlaştırır",
+      "Sık durup kalkan kuryeler için her durakta kullanılacak pratik bir kilit değil"
+    ],
+    "pros": [
+      "12 mm sertleştirilmiş çelik zincir ve 14 mm çift kilitlemeli kelepçe",
+      "ART onaylı",
+      "Halkalı uç ile zincir uzunluğunun verimli kullanımı",
+      "Asma kilit ayrı olarak da kullanılabiliyor"
+    ],
+    "cons": [
+      "4,45 kg ağırlık",
+      "Sold Secure derecesi üretici sayfasında listelenmiyor",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Gece parkı ve uzun süreli sokak parkı için güçlü; zinciri yerden uzak tutmak üretici önerisi.",
+      "uzunYol": "Ağırlığı nedeniyle tur bagajında yer kaplar; konaklamada güçlü güvenlik sağlar.",
+      "kurye": "Teslimat duraklarında pratik değil; vardiya sonu park için uygun."
+    },
+    "verdict": "Power XS 67 12KS, sokakta gecelen değerli motosikletler için ciddi bir zincir seti. Ağırlığı ve hacmi günlük taşımayı zorlaştırır; bu yüzden disk kilidinin tamamlayıcısı olarak evde veya varış noktasında kullanmak en mantıklısı.",
+    "rivals": [
+      "abus/granit-citychain-xplus-1060",
+      "tex-motor/xlock-ty3924"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Zincir ve kilit ayrı kullanılabilir mi?",
+        "a": "Evet. ABUS, asma kilidin zincirden ayrı olarak da kullanılabildiğini belirtiyor."
+      },
+      {
+        "q": "Taşıma için ne öneriliyor?",
+        "a": "Üretici koruyucu taşıma için ST1010 kilit çantasını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.abus.com/int/Consumer/Motorbike-locks/Lock-Chain-Combinations-Motorbike/GRANIT-Power-XS-67-12KS-Black-Loop",
+    "sources": [
+      {
+        "url": "https://www.abus.com/int/Consumer/Motorbike-locks/Lock-Chain-Combinations-Motorbike/GRANIT-Power-XS-67-12KS-Black-Loop",
+        "type": "manufacturer",
+        "label": "ABUS – GRANIT Power XS 67 12KS Black Loop ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.waterproof"
+    ],
+    "colors": [
+      "Sarı/Siyah"
+    ],
+    "specs": {
+      "accessoryType": "Zincir kilit seti (asma kilit + zincir)",
+      "material": "Sertleştirilmiş çelik zincir, kelepçe ve gövde; kumaş zincir kılıfı, silikon kilit kılıfı",
+      "compatibility": "Motosiklet; 120 cm halkalı zincir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "ART onaylı (no. 4173)",
+      "features": [
+        "12 mm halkalı zincir",
+        "14 mm kelepçe (kılıfla 17 mm)",
+        "Çift kilitleme",
+        "XPlus silindir ve Code Card",
+        "Ağırlık 4.450 g"
+      ],
+      "madeIn": "Almanya"
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "xx15",
+    "brand": "xena",
+    "name": "XX15 Disc-Lock Alarm",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "304 paslanmaz çelik tek parça gövdeli, 14 mm karbür takviyeli çift kilitlemeli pimli ve 120 dB alarmlı, otomatik kurulan disk kilidi.",
+    "description": [
+      "XX15, Xena'nın en yüksek güvenlik seviyesindeki disk kilidi alarmı olarak tanıtılıyor. Gövde tek parça 304 paslanmaz çelik, pim 14 mm ve karbür takviyeli; çift kilitleme sistemi kullanılıyor. Üretici kilidin korozyona ve buz spreyi saldırısına dayanıklı olduğunu, anahtar ve silindirin maksimum güvenlik tipinde olduğunu belirtiyor.",
+      "Alarm modülü otomatik kuruluyor; şok ve hareket sensörleri tetiklendiğinde 120 dB ses çıkarıyor. Ağırlık 768 g, pil 1 adet CR2 3V lityum. Xena'nın aynı gövdeyi akıllı telefon kontrollü (BLE) versiyonda da sunduğunu, zincir adaptörü ve zemin ankrajı gibi aksesuarlarla genişletilebildiğini belirtelim. Sigorta test sertifikaları üretici ürün sayfasında listelenmiyor."
+    ],
+    "forWho": [
+      "Kompakt ama yüksek sesli alarmlı bir disk kilidi arayanlar",
+      "Yağmur ve tuzlu hava gibi koşullarda paslanmaya dayanıklı gövde isteyenler",
+      "İleride zincir adaptörüyle kilidi zincirle birleştirmek isteyenler"
+    ],
+    "notFor": [
+      "Bağımsız test sertifikasını üretici sayfasında görmek isteyenler",
+      "Motosikleti sabit noktaya bağlamayı hedefleyenler; tek başına disk kilidi"
+    ],
+    "pros": [
+      "120 dB alarm",
+      "304 paslanmaz çelik tek parça gövde",
+      "14 mm karbür takviyeli pim ve çift kilitleme",
+      "768 g ile taşınabilir"
+    ],
+    "cons": [
+      "Test sertifikaları üretici sayfasında yer almıyor",
+      "CR2 pil her markette bulunmayabilir",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük park için kompakt ve yüksek sesli.",
+      "uzunYol": "Hafif olduğu için tur bagajında sorun çıkarmaz.",
+      "yagmur": "Paslanmaz çelik gövde nem ve yağmura karşı avantajlı.",
+      "kurye": "Hızlı takılır; diskte unutulmasına karşı hatırlatma kablosu kullanmak iyi olur."
+    },
+    "verdict": "XX15, paslanmaz gövdesi ve 120 dB alarmıyla güçlü bir taşınabilir disk kilidi. Sertifika bilgisini üretici sayfasında bulamadık; sigorta şartı olan kullanıcıların satın almadan önce güncel test sertifikasını teyit etmesi gerekir.",
+    "rivals": [
+      "abus/granit-detecto-xplus-8077-2-0",
+      "oxford/boss-alarm-disc-lock"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Hangi pili kullanıyor?",
+        "a": "Xena'ya göre 1 adet CR2 3V lityum pil."
+      },
+      {
+        "q": "Telefonla kontrol edilebilir mi?",
+        "a": "Standart XX15 edilemez; Xena aynı gövdeyi BLE akıllı modüllü ayrı bir versiyon olarak satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.xenasecurity.com/products/disc-lock-alarms/xx15-standard/",
+    "sources": [
+      {
+        "url": "https://www.xenasecurity.com/products/disc-lock-alarms/xx15-standard/",
+        "type": "manufacturer",
+        "label": "Xena – XX15 Disc-Lock Alarm Standard ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.xenasecurity.com/the-brand/",
+        "type": "manufacturer",
+        "label": "Xena – Marka sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.certification",
+      "specs.madeIn",
+      "specs.waterproof"
+    ],
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi",
+      "material": "Tek parça 304 paslanmaz çelik gövde, karbür takviyeli pim",
+      "compatibility": "Çoğu motosiklet fren diski; pim 14 mm",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "120 dB alarm",
+        "Otomatik kurulma",
+        "Şok ve hareket sensörü",
+        "Çift kilitleme",
+        "Buz spreyine dayanıklı (üretici beyanı)",
+        "Ağırlık 768 g",
+        "CR2 3V pil"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null,
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "boss-alarm-disc-lock",
+    "brand": "oxford",
+    "name": "Boss Alarm 14mm Disc Lock",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "14 mm kelepçeli, 100 dB hareket sensörlü alarmlı, Sold Secure Powered Cycle Gold onaylı ve asma kilit olarak da kullanılabilen disk kilidi.",
+    "description": [
+      "Oxford Boss Alarm, disk kilidi ve asma kilit olarak iki şekilde kullanılabilen 14 mm kelepçeli bir kilit. Üretici, kilidin Sold Secure Powered Cycle (Motosiklet) Gold standardında, ayrıca SBSC ve FG tarafından bağımsız olarak test edilip onaylandığını belirtiyor. Kriko saldırısına karşı tasarımın 4,5 ton çekme yüküne dayandığı yazıyor.",
+      "Alarm modülü 100 dB ses çıkarıyor, hareket sensörüyle tetikleniyor ve istenirse alarm kurulmadan da kilitlenebiliyor. Sökülebilir, sızdırmaz alarm modülü suya, dona, ısıya ve titreşime dayanıklı olarak tanımlanıyor. Kutuda 6 adet LR44 pil ve üç anahtar var; anahtar kaybına karşı yedek anahtar hizmeti sunuluyor. Uygun Oxford zincirlerle birleştirilerek zincir kilide dönüştürülebiliyor; daha zorlu koşullar için 16 mm versiyonu da mevcut."
+    ],
+    "forWho": [
+      "Motosiklet sınıfı Sold Secure Gold onaylı bir disk kilidi arayanlar",
+      "Disk kilidini ileride zincirle birlikte kullanmak isteyenler",
+      "Yedek anahtar hizmetine değer verenler"
+    ],
+    "notFor": [
+      "Çok kompakt ve hafif bir disk kilidi isteyenler; asma kilit tasarımı daha hacimli",
+      "Pil değişimi gerektirmeyen mekanik kilit arayanlar"
+    ],
+    "pros": [
+      "Sold Secure Powered Cycle Gold, SBSC ve FG onayı",
+      "Disk kilidi ve asma kilit olarak çift kullanım",
+      "Alarmsız kilitleme seçeneği",
+      "Yedek anahtar hizmeti ve üç anahtar"
+    ],
+    "cons": [
+      "6 adet LR44 pil kullanıyor",
+      "Alarm 100 dB; bazı rakiplerin 120 dB'lik alarmından düşük",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük park için disk kilidi olarak pratik; alarm caydırıcı.",
+      "uzunYol": "Zincirle birleştirilerek konaklamalarda daha güçlü koruma sağlar.",
+      "yagmur": "Sızdırmaz alarm modülü su ve dona dayanıklı olarak tanımlanıyor.",
+      "kurye": "Teslimat duraklarında alarmsız modda hızlı kullanılabilir."
+    },
+    "verdict": "Boss Alarm, motosiklet sınıfı Sold Secure Gold onayı ve zincirle genişletilebilmesiyle çok yönlü bir kilit. Alarm sesi rakiplere göre biraz daha düşük ve LR44 pil kullanıyor; buna karşın asma kilit olarak da kullanılabilmesi önemli bir artı.",
+    "rivals": [
+      "abus/granit-detecto-xplus-8077-2-0",
+      "xena/xx15",
+      "tex-motor/xlock-ty525"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Zincirle kullanılabilir mi?",
+        "a": "Evet. Oxford, kilidin uygun Oxford zincirleriyle birleştirilerek zincir kilit olarak kullanılabildiğini belirtiyor."
+      },
+      {
+        "q": "Alarmı kurmadan kilitleyebilir miyim?",
+        "a": "Evet, üretici alarmı kurmadan da kilitlenebildiğini yazıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.oxfordproducts.com/oxford-boss-alarm-14mm-disc-lock-yellow-of3.html",
+    "sources": [
+      {
+        "url": "https://www.oxfordproducts.com/oxford-boss-alarm-14mm-disc-lock-yellow-of3.html",
+        "type": "manufacturer",
+        "label": "Oxford Products – Boss Alarm 14mm Disc Lock ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Sarı"
+    ],
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi / asma kilit",
+      "material": null,
+      "compatibility": "Motosiklet fren diskleri; 14 mm kelepçe; Oxford zincirlerle birleştirilebilir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "Sold Secure Powered Cycle (Motorcycle) Gold; SBSC; FG",
+      "features": [
+        "100 dB hareket sensörlü alarm",
+        "Alarmsız kilitleme seçeneği",
+        "4,5 ton çekmeye dayanıklı anti-kriko tasarım (üretici beyanı)",
+        "Sökülebilir sızdırmaz alarm modülü",
+        "6×LR44 pil ve 3 anahtar dahil"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "xlock-ty525",
+    "brand": "tex-motor",
+    "name": "Xlock TY 525 Alarmlı Disk Kilidi",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "10 mm çelik pimli, 110 dB alarmlı, alarmlı/alarmsız iki kademeli kilitleme sunan, hareket ve darbe sensörlü, Tex Motor'un Xlock markalı disk kilidi.",
+    "description": [
+      "Xlock TY 525, Türk motosiklet ekipmanı firması Tex Motor'un Xlock markası altında sunduğu alarmlı disk kilidi. Üreticiye göre 10 mm çelik kilit pimi, paslanmaz çelik gövde ve suya dayanıklı mekanizma kullanılıyor. Kilit iki kademeli çalışıyor: alarmlı veya alarmsız olarak kilitlenebiliyor.",
+      "Alarm 110 desibel; hareket ve darbe sensörüyle tetikleniyor. Alarmı devreye alma ve kapatma mekanizmasının kırılma, darbe ve zorlamaya dayanıklı olduğu belirtiliyor. Kutuda saklama çantası ve yedek anahtar geliyor. Tex Motor sitesinde online satış yapılmıyor; ürün bayiler ve mağazalar üzerinden satılıyor. Bağımsız bir test sertifikası (Sold Secure, ART vb.) üretici sayfasında yer almıyor."
+    ],
+    "forWho": [
+      "Scooter ve günlük kullanım motosikleti için uygun fiyatlı alarmlı disk kilidi arayanlar",
+      "Yerli markadan, Türkiye'de bayi desteği olan bir ürün isteyenler",
+      "Kısa duraklarda alarmsız, uzun parklarda alarmlı kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Sigorta için bağımsız test sertifikası gereken kullanıcılar",
+      "Yüksek değerli motosikletini tek kilitle korumak isteyenler"
+    ],
+    "pros": [
+      "Alarmlı ve alarmsız iki kademeli kullanım",
+      "110 dB alarm, hareket ve darbe sensörü",
+      "Paslanmaz çelik gövde ve suya dayanıklı mekanizma",
+      "Saklama çantası ve yedek anahtar dahil"
+    ],
+    "cons": [
+      "10 mm pim, üst segment kilitlerin 13,5–14 mm pimlerinden ince",
+      "Bağımsız güvenlik sertifikası belirtilmiyor",
+      "Üreticinin sitesinde fiyat ve online satış yok; ağırlık ve pil tipi belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Kısa ve orta süreli şehir parkları için caydırıcı bir alarmlı kilit.",
+      "yagmur": "Üretici mekanizmanın suya dayanıklı olduğunu belirtiyor.",
+      "kurye": "Kısa teslimat duraklarında alarmsız modda hızlı takılıp çıkarılabilir; diskte unutmamak için hatırlatma kablosu önerilir."
+    },
+    "verdict": "Xlock TY 525, günlük şehir kullanımı için alarm özellikli, yerli bayi ağıyla desteklenen bir disk kilidi. Bağımsız test sertifikası belirtilmediği ve pimi daha ince olduğu için pahalı motosikletlerde zincirle birlikte, ek bir katman olarak düşünülmeli.",
+    "rivals": [
+      "abus/granit-detecto-xplus-8077-2-0",
+      "oxford/boss-alarm-disc-lock",
+      "tex-motor/xlock-ty3923"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Alarmsız kullanılabilir mi?",
+        "a": "Evet, Tex Motor kilidin iki kademeli olduğunu ve alarmlı ya da alarmsız kilitlenebildiğini belirtiyor."
+      },
+      {
+        "q": "Nereden satın alınır?",
+        "a": "Tex Motor'un sitesinde online satış yok; ürün Tex Motor mağazaları ve bayileri üzerinden satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-ty-525-disk-kilidi-alarmli/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-ty-525-disk-kilidi-alarmli/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX TY 525 Alarmlı 10 mm Disk Kilidi ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.certification",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi",
+      "material": "Paslanmaz çelik gövde, 10 mm çelik pim",
+      "compatibility": "Motosiklet ve scooter fren diskleri; pim 10 mm",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "110 dB alarm",
+        "Hareket ve darbe sensörü",
+        "Alarmlı/alarmsız iki kademeli kilitleme",
+        "Saklama çantası ve yedek anahtar"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null,
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "xlock-ty3923",
+    "brand": "tex-motor",
+    "name": "Xlock TY3923 Disk Kilidi",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "Q235 karbon çeliği gövdeli, bakır silindirli, diski çizmemesi için PVC kaplı, alarmsız kompakt disk kilidi.",
+    "description": [
+      "Xlock TY3923, Tex Motor'un Xlock serisindeki alarmsız, kompakt disk kilidi. Gövde Q235 karbon çeliğinden; paslanmaya karşı çinko ve çinko alaşımı parçalar, silindirde ise akıcı açma-kapama için bakır mekanizma kullanılıyor. Dış yüzeydeki PVC kaplama kilidin fren diskini çizmesini önlemek için tasarlanmış.",
+      "Kilit anahtarla çalışıyor ve motosiklet ile scooter disk frenleri için öneriliyor. Hafif ve taşınabilir olarak tanımlansa da üretici ağırlık, pim çapı veya bağımsız test sertifikası bilgisi vermiyor. Alarm olmadığı için caydırıcılığı yalnız fiziksel engel düzeyinde."
+    ],
+    "forWho": [
+      "Pil gerektirmeyen basit bir disk kilidi arayanlar",
+      "Scooter ve küçük motosiklet sahipleri için ek, ikinci bir kilit isteyenler"
+    ],
+    "notFor": [
+      "Alarmlı caydırıcılık isteyenler",
+      "Yüksek değerli motosikleti tek kilitle korumak isteyenler",
+      "Bağımsız güvenlik sertifikası arayanlar"
+    ],
+    "pros": [
+      "Pil gerektirmez",
+      "PVC kaplama diski çizilmeye karşı korur",
+      "Kompakt, kolay taşınır"
+    ],
+    "cons": [
+      "Alarm yok",
+      "Pim çapı, ağırlık ve sertifika bilgisi üretici sayfasında yok",
+      "Üreticinin sitesinde fiyat ve online satış yok"
+    ],
+    "usage": {
+      "sehir": "Kısa duraklarda ve ikinci kilit olarak pratik.",
+      "kurye": "Pil derdi olmadan hızlı takılır; caydırıcılık için alarmlı bir kilitle birlikte düşünülmeli."
+    },
+    "verdict": "TY3923, pil gerektirmeyen ve diski çizmeyen basit bir disk kilidi. Teknik verileri sınırlı ve alarmı yok; bu yüzden ana kilit yerine scooter veya ikinci güvenlik katmanı olarak değerlendirilmeli.",
+    "rivals": [
+      "tex-motor/xlock-ty525",
+      "abus/granit-detecto-xplus-8077-2-0"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Alarm var mı?",
+        "a": "Hayır. TY3923 anahtarla çalışan mekanik bir disk kilidi; alarmlı Xlock modeli TY 525."
+      },
+      {
+        "q": "Diski çizer mi?",
+        "a": "Üretici, dış yüzeydeki PVC kaplamanın diskin çizilmesini önlediğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-ty3923-kilit/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-ty3923-kilit/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX TY3923 Xlock Disk Kilidi ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.certification",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "accessoryType": "Disk kilidi",
+      "material": "Q235 karbon çeliği gövde, çinko alaşımı, bakır silindir, PVC kaplama",
+      "compatibility": "Motosiklet ve scooter disk frenleri",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Alarmsız mekanik kilit",
+        "Diski çizmeyen PVC kaplama",
+        "Anahtarla kilitleme"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null,
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "xlock-ty3924",
+    "brand": "tex-motor",
+    "name": "Xlock TY3924 1000 mm Kelepçe Kilit",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "1000 mm çelik zincirli, çift taraflı şifreli kelepçe sistemli, ABS kaplı ve QB 1001-2006 standardına göre test edildiği belirtilen zincir kilit.",
+    "description": [
+      "Xlock TY3924, 1000 mm uzunluğunda çelik zincir ile çift taraflı şifreli bir kelepçeyi birleştiren zincir kilit. Tekerlekten sabit bir noktaya bağlamak için tasarlanmış; anahtar yerine şifreyle açılıyor ve fabrika çıkış kodu 0000 olarak geliyor, şifre değiştirilebiliyor. Dış yüzeydeki ABS kaplama metalin motosikleti çizmesini önlüyor.",
+      "Üretici zincir malzemesini Q235 çelik olarak tanımlıyor (aynı sayfada bir yerde Q325 de geçiyor), gövdenin korozyona dayanıklı olduğunu ve kilidin QB 1001-2006 sertifikasıyla test edildiğini belirtiyor. Bu Çin kilit standardı Sold Secure veya ART gibi Avrupa sigorta derecelendirmeleriyle doğrudan karşılaştırılamaz. Zincir kalınlığı ve ağırlık bilgisi verilmiyor."
+    ],
+    "forWho": [
+      "Anahtar taşımak istemeyen, şifreli kilit tercih edenler",
+      "Scooter veya küçük motosikletini direğe bağlamak isteyenler",
+      "Disk kilidine ek, uygun maliyetli ikinci kilit arayanlar"
+    ],
+    "notFor": [
+      "Yüksek değerli motosikleti uzun süre sokakta bırakanlar",
+      "Sigorta için Avrupa test derecesi gereken kullanıcılar"
+    ],
+    "pros": [
+      "Şifreli kullanım, anahtar kaybı derdi yok",
+      "1 m uzunluk tekerlekten direğe bağlamaya yetiyor",
+      "ABS kaplama boyayı korur"
+    ],
+    "cons": [
+      "Zincir kalınlığı ve ağırlık belirtilmemiş",
+      "QB 1001-2006 Avrupa test derecelerine eşdeğer değil",
+      "Üreticinin sitesinde fiyat ve online satış yok"
+    ],
+    "usage": {
+      "sehir": "Kısa ve orta süreli şehir parklarında direğe bağlamak için pratik.",
+      "kurye": "Şifreli olduğu için anahtarla uğraşmadan hızlı kullanılır; yüksek riskli bölgelerde tek başına yeterli değil."
+    },
+    "verdict": "TY3924, şifreli kullanımı ve 1 m uzunluğuyla scooter ve günlük kullanım için pratik bir zincir kilit. Zincir kalınlığı belirtilmediği ve Avrupa test derecesi bulunmadığı için değerli motosikletlerde ana kilit olarak değil, ek katman olarak düşünülmeli.",
+    "rivals": [
+      "abus/granit-citychain-xplus-1060",
+      "abus/granit-power-xs-67-12ks"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Fabrika şifresi nedir?",
+        "a": "Tex Motor fabrika çıkış kodunu 0000 olarak belirtiyor; şifre değiştirilebiliyor."
+      },
+      {
+        "q": "QB 1001-2006 ne demek?",
+        "a": "Üreticinin belirttiği kilit test standardı. Avrupa'daki Sold Secure veya ART sigorta derecelendirmeleriyle doğrudan eşdeğer değildir."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-ty3924-kelepce-kilit/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-ty3924-kelepce-kilit/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX TY3924 1000 mm Kelepçe Kilit ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "accessoryType": "Zincir kilit (şifreli kelepçe)",
+      "material": "Çelik zincir (üretici Q235/Q325 çelik belirtiyor), ABS dış kaplama",
+      "compatibility": "Motosiklet, scooter ve bisiklet; 1000 mm zincir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "QB 1001-2006 (üretici beyanı)",
+      "features": [
+        "Çift taraflı şifreli kelepçe",
+        "Değiştirilebilir şifre (fabrika kodu 0000)",
+        "1000 mm uzunluk",
+        "ABS kaplama"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null,
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "us-20-drypack",
+    "brand": "kriega",
+    "name": "US-20 Drypack",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "20 litrelik, rulo kapaklı %100 su geçirmez ana bölmeli, CORDURA gövdeli, her motosiklete universal bağlanan ve diğer US-Drypack'lerle birleştirilebilen sele/kuyruk çantası.",
+    "description": [
+      "US-20 Drypack, Kriega'nın modüler US-Drypack sisteminin en çok satan parçası. Ana bölme rulo kapaklı ve üreticiye göre %100 su geçirmez; içinde bant dikişli, sökülebilir hafif bir iç astar var. Gövde 420D CORDURA Lite kumaştan, metal parçalar 6061-T6 alüminyum alaşımından; Hypalon takviye ve YKK fermuarlar kullanılıyor.",
+      "Çanta, motosikletin arka şasisine sabitlenen dokuma halkalara hızlı bağlanan kancalarla takılıyor; sele boyunca veya çapraz, ya da arka bagaj üzerine konabiliyor. Diğer US-Drypack'ler kancalanarak 70 litreye kadar sistem kurulabiliyor. Yan cep ve arka file cep hızlı erişim sağlıyor; ayrı satılan TANK dönüştürücüyle depo üstü çantası olarak da kullanılabiliyor. Sökülebilir omuz ve bel kayışıyla motosiklet dışında omuz çantası gibi taşınıyor."
+    ],
+    "forWho": [
+      "Bagaj demiri olmayan naked veya sport motosiklete su geçirmez çanta takmak isteyenler",
+      "Günübirlik veya bir gecelik tur yapanlar",
+      "İhtiyaca göre büyütülebilen modüler bir sistem arayanlar"
+    ],
+    "notFor": [
+      "Kilitli, sert bagaj arayanlar; yumuşak çanta hırsızlığa karşı koruma sağlamaz",
+      "Kurye teslimatı için yemek veya paket taşıyacaklar; ısı yalıtımı ve kutu formu yok"
+    ],
+    "pros": [
+      "Rulo kapaklı su geçirmez ana bölme",
+      "Bagaj demiri gerektirmeyen universal bağlantı",
+      "Modüler: diğer US-Drypack'lerle 70 litreye kadar büyür",
+      "Türkiye'de yerleşik mağazada stokta"
+    ],
+    "cons": [
+      "Rulo kapak, fermuarlı çantalara göre daha yavaş açılır",
+      "İlk montajda şasiye bağlantı halkalarının yerleştirilmesi gerekir",
+      "Türkiye fiyatı yumuşak çantalar içinde yüksek"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidişte yedek mont veya laptop dışı eşyalar için kullanılabilir; motosiklette bırakmak güvenli değil.",
+      "uzunYol": "Bir gecelik turlar için ideal hacim; daha uzun turda US-10 veya US-30 eklenebilir.",
+      "yagmur": "Rulo kapaklı ana bölme su geçirmez; yan cepler ana bölme kadar korumalı olmayabilir.",
+      "sport": "Sport motosiklette arka seleye sıkıca oturur; yüksek hızda stabil olması için kayışlar iyi gerilmeli."
+    },
+    "verdict": "US-20, bagaj demiri olmayan motosikletlere su geçirmez ve sağlam bir arka çanta takmanın en temiz yollarından biri. Modüler yapısı yatırımı korur. Yüksek fiyatı ve rulo kapağın yavaşlığı dışında belirgin bir zayıf yanı yok.",
+    "rivals": [
+      "oxford/aqua-t30"
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/kriega-us-20-drypack-motosiklet-cantasi",
+        "price": 11858.57,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaj demiri gerekli mi?",
+        "a": "Hayır. Kriega, çantanın arka şasiye sabitlenen dokuma halkalara kancalarla bağlanarak her tip motosiklete uyduğunu belirtiyor."
+      },
+      {
+        "q": "Depo üstü çantası olarak kullanılabilir mi?",
+        "a": "Evet, ayrı satılan Kriega TANK dönüştürücü ile."
+      }
+    ],
+    "manufacturerUrl": "https://kriega.com/sports/touring/us-20-drypack19",
+    "sources": [
+      {
+        "url": "https://kriega.com/sports/touring/us-20-drypack19",
+        "type": "manufacturer",
+        "label": "Kriega – US-20 Drypack ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/kriega-us-20-drypack-motosiklet-cantasi",
+        "type": "retailer",
+        "label": "Motodium – Kriega US-20 Drypack",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "specs": {
+      "accessoryType": "Kuyruk / sele çantası",
+      "material": "420D CORDURA Lite, Hypalon takviye, 6061-T6 alüminyum bağlantı parçaları, YKK fermuar",
+      "compatibility": "Universal; sele boyunca, çapraz veya arka bagaj üzerine",
+      "waterproof": true,
+      "capacityLiters": 20,
+      "certification": null,
+      "features": [
+        "Rulo kapaklı su geçirmez ana bölme",
+        "Bant dikişli sökülebilir iç astar",
+        "Modüler, 70 litreye kadar genişletme",
+        "Omuz ve bel kayışı dahil",
+        "TANK dönüştürücü ile depo üstü kullanım"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 11858.57,
+      "max": 11858.57,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "r20",
+    "brand": "kriega",
+    "name": "R20 Backpack",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "20 litrelik, yükü omuzdan göğüse aktaran QUADLOC-lite askılı, 500D/1000D CORDURA gövdeli, 13 inç laptop ve hidrasyon uyumlu motosiklet sırt çantası.",
+    "description": [
+      "R20, Kriega'nın günlük kullanımdan arazi turuna kadar çok yönlü olarak konumlandırdığı 20 litrelik sırt çantası. QUADLOC-lite askı sistemi ağırlığı omuzlardan göğüs ve gövdeye aktarıyor; askılar koltuk altından uzağa açılı olduğu için kollar serbest kalıyor. Askı bir kez boya göre ayarlandıktan sonra takıp çıkarmak tek klik.",
+      "Ana bölme YKK fermuarla tamamen açılıyor; yan/ön fermuarlı cep ve küçük eşyalar için iç cep var. Gövde 500D CORDURA, taban ve askılar 1000D CORDURA. İç kılıf cebine 13 inç laptop, hidrasyon torbası veya sırt koruyucu konabiliyor. Ölçüler 470×280×150 mm, ağırlık 1.150 g. Ön ve arkada reflektif detaylar, dört sıkıştırma kayışı ve isteğe bağlı bel kemeri bulunuyor. Üretici çantanın su geçirmez olduğunu iddia etmiyor."
+    ],
+    "forWho": [
+      "Motosikletle her gün işe 13 inç laptopla gidenler",
+      "Hafta sonu arazi turunda alet, yağmurluk ve su taşıyanlar",
+      "Uzun sürüşte omuz ağrısı çeken ve göğüs askılı bir sistem isteyenler"
+    ],
+    "notFor": [
+      "15 inç laptop taşıyanlar; iç cep 13 inç için tasarlanmış",
+      "Yoğun yağmurda içeriği tamamen kuru tutmak isteyenler: su geçirmezlik iddiası yok"
+    ],
+    "pros": [
+      "QUADLOC-lite askı ile yük göğse dağılıyor",
+      "Dayanıklı CORDURA gövde ve YKK fermuarlar",
+      "Laptop, hidrasyon torbası ve sırt koruyucu uyumlu iç cep",
+      "Türkiye'de yerleşik mağazada stokta"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "13 inçten büyük laptoplar sığmaz",
+      "Türkiye fiyatı günlük sırt çantalarına göre yüksek"
+    ],
+    "usage": {
+      "sehir": "Günlük işe gidiş için ideal hacim ve laptop cebi.",
+      "uzunYol": "Uzun sürüşte askı sistemi omuz yükünü azaltır; büyük bagaj için tek başına yetmez.",
+      "yagmur": "Su geçirmez değil; yoğun yağmurda yağmur kılıfı veya içeride su geçirmez torba gerekir.",
+      "sport": "Göğüs askılı yapı yüksek hızda çantanın kalkmasını sınırlar."
+    },
+    "verdict": "R20, 'ne çok büyük ne çok küçük' hacmi ve yükü göğse aktaran askısıyla motosiklet sırt çantalarında referans modellerden biri. Su geçirmez olmaması ve yüksek fiyatı en belirgin eksileri.",
+    "rivals": [
+      "sw-motech/pro-cosmo",
+      "kriega/trail18"
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/kriega-r20-sirt-cantasi-20-litre",
+        "price": 11858.57,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Laptop sığar mı?",
+        "a": "Kriega iç kılıf cebinin 13 inç laptop için uygun olduğunu belirtiyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Üretici R20 için su geçirmezlik iddiasında bulunmuyor; yoğun yağmurda ek koruma gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://kriega.com/riderpacks/r20",
+    "sources": [
+      {
+        "url": "https://kriega.com/riderpacks/r20",
+        "type": "manufacturer",
+        "label": "Kriega – R20 Backpack ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/kriega-r20-sirt-cantasi-20-litre",
+        "type": "retailer",
+        "label": "Motodium – Kriega R20 Sırt Çantası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "MultiCam Black"
+    ],
+    "specs": {
+      "accessoryType": "Motosiklet sırt çantası",
+      "material": "500D CORDURA gövde, 1000D CORDURA taban ve askı, YKK fermuar",
+      "compatibility": "Sürücü sırt çantası; 13 inç laptop, hidrasyon torbası veya sırt koruyucu uyumlu iç cep",
+      "waterproof": false,
+      "capacityLiters": 20,
+      "certification": null,
+      "features": [
+        "QUADLOC-lite askı sistemi",
+        "470×280×150 mm",
+        "Ağırlık 1.150 g",
+        "Reflektif paneller",
+        "Dört sıkıştırma kayışı",
+        "US-Drypack bağlantı noktaları"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 11858.57,
+      "max": 11858.57,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "trail18",
+    "brand": "kriega",
+    "name": "Trail18 Adventure Backpack",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "Toplam 18 litre, bunun 12 litresi rulo kapaklı su geçirmez bölmeden oluşan, QUADLOC-lite askılı, 10 yıl garantili adventure motosiklet sırt çantası.",
+    "description": [
+      "Trail18, adventure turu için tasarlanmış üç bölümlü bir sırt çantası. 11 litrelik rulo kapaklı ana gövde ve içteki 1 litrelik su geçirmez cep birlikte 12 litre %100 su geçirmez hacim sağlıyor. Arkada ağır hizmet fermuarlı 7 litrelik bölme alet rulosu, su şişesi veya ayrı satılan 2–3 litrelik hidrasyon torbası için ayrılmış.",
+      "Gövde 420D CORDURA Lite Plus ve Hypalon; arka panel hava file. QUADLOC-lite askı yükü göğse aktarıyor, sökülebilir bel kemeri arazide stabilite sağlıyor. Dışta ıslak eşyalar için elastik kordonlu Hypalon file var. Ölçüler 445×250×170 mm, ağırlık 1.630 g; üretici 10 yıl garanti veriyor."
+    ],
+    "forWho": [
+      "Adventure ve enduro turlarında su, alet ve yağmurluk taşıyanlar",
+      "Yağmurda eşyalarını kuru tutmak isteyen tur sürücüleri",
+      "Hidrasyon torbasıyla uzun arazi etapları yapanlar"
+    ],
+    "notFor": [
+      "Laptopla işe gidip gelenler: laptop bölmesi tanımlanmamış",
+      "Hafif bir şehir çantası arayanlar; 1,63 kg ve teknik yapısı şehir için fazla"
+    ],
+    "pros": [
+      "12 litre su geçirmez hacim",
+      "Ayrı fermuarlı alet/hidrasyon bölmesi",
+      "Islak eşya için dış Hypalon file",
+      "10 yıl garanti"
+    ],
+    "cons": [
+      "Rulo kapaklı ana bölmeye erişim yavaş",
+      "1.630 g ile R20'den ağır",
+      "Türkiye fiyatı yüksek"
+    ],
+    "usage": {
+      "uzunYol": "Adventure turlarında su ve alet taşımak için tasarlanmış; askı uzun sürüşte konforlu.",
+      "yagmur": "Ana gövde ve iç cep su geçirmez; arka fermuarlı bölme için aynı iddia yok.",
+      "yaz": "Hava file arka panel sıcakta terlemeyi azaltır.",
+      "sport": "Arazi sürüşünde bel kemeri ile stabil kalır."
+    },
+    "verdict": "Trail18, adventure sürücüsü için su geçirmezliği ve hidrasyon uyumunu bir araya getiren güçlü bir sırt çantası. Şehir ve laptop kullanımına göre değil, arazi turuna göre tasarlanmış; fiyatı da bu odakla birlikte yüksek.",
+    "rivals": [
+      "kriega/r20",
+      "sw-motech/pro-cosmo"
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/kriega-trail-18-motosiklet-sirt-cantasi-siyah",
+        "price": 17027.69,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tamamı su geçirmez mi?",
+        "a": "Kriega'ya göre 11 litrelik rulo kapaklı ana gövde ve 1 litrelik iç cep toplam 12 litre su geçirmez; 7 litrelik fermuarlı arka bölme için bu iddia yok."
+      },
+      {
+        "q": "Hidrasyon torbası dahil mi?",
+        "a": "Hayır, 2 ve 3 litrelik hidrasyon torbaları ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://kriega.com/riderpacks/trail18",
+    "sources": [
+      {
+        "url": "https://kriega.com/riderpacks/trail18",
+        "type": "manufacturer",
+        "label": "Kriega – Trail18 Adventure Backpack ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/kriega-trail-18-motosiklet-sirt-cantasi-siyah",
+        "type": "retailer",
+        "label": "Motodium – Kriega Trail 18 Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Turuncu",
+      "Lime",
+      "Coyote",
+      "MultiCam Black"
+    ],
+    "specs": {
+      "accessoryType": "Adventure motosiklet sırt çantası",
+      "material": "420D CORDURA Lite Plus, Hypalon, hava file arka panel, YKK fermuar",
+      "compatibility": "Sürücü sırt çantası; 2–3 litre hidrasyon torbası ve sırt koruyucu uyumlu",
+      "waterproof": true,
+      "capacityLiters": 18,
+      "certification": null,
+      "features": [
+        "12 litre su geçirmez bölüm",
+        "7 litre fermuarlı arka bölme",
+        "QUADLOC-lite askı",
+        "445×250×170 mm",
+        "Ağırlık 1.630 g",
+        "10 yıl garanti"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 17027.69,
+      "max": 17027.69,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    }
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "mt505-tanklock",
+    "brand": "givi",
+    "name": "MT505 Tanklock",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "Givi Tanklock flanşıyla depoya hızlı takılan, termoform EVA gövdeli, genişletilebilir 5 litrelik depo üstü çanta.",
+    "description": [
+      "MT505, Givi'nin Tanklock sistemine göre tasarlanmış genişletilebilir, termoform bir depo üstü çantası. Hacim 5 litre; gövde Guzy kaplı termoform EVA. Çanta, motosiklete özel BF serisi bir flanşla birlikte kullanılmak zorunda; flanş depo kapağına sabitleniyor, çanta da bu flanşa hızlıca takılıp çıkarılıyor.",
+      "İçeride neopren telefon bölmesi ve kapağın iç yüzünde cep var. Yan ceplerde Givi Power Hub sistemiyle uyumlu kablo geçişi bulunuyor; çekme tırnağı bir güvenlik kilidi takılmasına uygun. Kutudan yağmur kılıfı ve omuz askısı çıkıyor. Givi, satın almadan önce çantanın gidonla çakışıp sürüşü etkilemediğini kontrol etmeyi ve motosiklete özel flanş olup olmadığına bakmayı öneriyor."
+    ],
+    "forWho": [
+      "Depo üstünde cüzdan, telefon ve küçük eşya taşımak isteyenler",
+      "Çantayı mola verdiğinde hızla çıkarıp yanına almak isteyenler",
+      "Motosikletine uygun Givi Tanklock flanşı bulunan sürücüler"
+    ],
+    "notFor": [
+      "Motosikletine özel BF flanş bulunmayanlar",
+      "Büyük hacim arayanlar; 5 litre yalnız küçük eşyalar için",
+      "Kurye teslimatı için paket taşımak isteyenler"
+    ],
+    "pros": [
+      "Tanklock ile hızlı tak-çıkar ve boyaya temas eden kayış yok",
+      "Yağmur kılıfı ve omuz askısı dahil",
+      "Power Hub uyumlu kablo geçişi",
+      "Türkiye'de yerleşik mağazada stokta"
+    ],
+    "cons": [
+      "Flanş ayrı satın alınmak zorunda ve motosiklete özel",
+      "5 litre hacim sınırlı",
+      "Gidon dönüşünde çakışma riski için üretici kontrol öneriyor"
+    ],
+    "usage": {
+      "sehir": "Telefon, cüzdan ve küçük eşya için pratik; park ederken çanta kolayca alınır.",
+      "uzunYol": "Mola sırasında sık kullanılan eşyalara hızlı erişim sağlar.",
+      "yagmur": "Yağmur kılıfı dahil; çantanın kendisinin su geçirmez olduğu belirtilmiyor."
+    },
+    "verdict": "MT505, Tanklock flanşı olan motosikletler için küçük ve pratik bir depo üstü çantası. Hızlı tak-çıkar sistemi en güçlü yanı; flanşın ayrıca alınması ve sınırlı hacim hesaba katılmalı.",
+    "rivals": [],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/givi-mt505-depo-ustu-canta",
+        "price": 9926.37,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Her motosiklete takılır mı?",
+        "a": "Hayır. Givi, çantanın motosiklete özel BF serisi flanşla kullanılması gerektiğini belirtiyor; uyumlu flanşı Givi'nin motosiklet seçicisinden kontrol etmek gerekir."
+      },
+      {
+        "q": "Yağmurda ne olur?",
+        "a": "Kutudan yağmur kılıfı çıkıyor. Çantanın kendisi için su geçirmezlik iddiası yok."
+      }
+    ],
+    "manufacturerUrl": "https://www.givi.it/prodotti-givi/borse-moto-e-scooter/borse-serbatoio/mt505-tanklock",
+    "sources": [
+      {
+        "url": "https://www.givi.it/prodotti-givi/borse-moto-e-scooter/borse-serbatoio/mt505-tanklock",
+        "type": "manufacturer",
+        "label": "GIVI – MT505 Tanklock ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/givi-mt505-depo-ustu-canta",
+        "type": "retailer",
+        "label": "Motodium – Givi MT505 Depo Üstü Çanta",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.waterproof"
+    ],
+    "specs": {
+      "accessoryType": "Depo üstü çantası",
+      "material": "Guzy kaplı termoform EVA",
+      "compatibility": "Givi Tanklock sistemi; motosiklete özel BF serisi flanş gerekir",
+      "waterproof": null,
+      "capacityLiters": 5,
+      "certification": null,
+      "features": [
+        "Genişletilebilir gövde",
+        "Neopren telefon bölmesi",
+        "Power Hub uyumlu kablo geçişi",
+        "Güvenlik kilidi takılabilir tırnak",
+        "Yağmur kılıfı ve omuz askısı dahil"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 9926.37,
+      "max": 9926.37,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "colors": []
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "pro-cosmo",
+    "brand": "sw-motech",
+    "name": "PRO Cosmo Backpack",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "16 litrelik, 1680D balistik naylon gövdeli, 15 inç laptop veya hidrasyon torbası bölmeli, yağmur kılıflı ergonomik motosiklet sırt çantası.",
+    "description": [
+      "PRO Cosmo, SW-Motech'in günlük kullanım ve kısa turlar için tasarladığı 16 litrelik sırt çantası. Gövde 1680D balistik naylon ve 210D ripstop/polyester; sırta uyan kavisli panel ve hava geçiren file dolgu kullanılıyor. Ölçüler 45×30×19 cm, ağırlık yaklaşık 1,3 kg.",
+      "Dört bölmeli yapıda arka bölme 15 inçe kadar laptop veya hidrasyon torbası alıyor; içten ve dıştan erişilebilen file bölme ve kapakta ek bir cep var. Göğüs ve bel kemerleri eldivenle kullanılabilen hızlı kilitli tokalarla kapanıyor. Dört yan kayış hacmi sıkıştırıyor, sarkan uçlar cırtla toplanıyor. Kapakta aksesuar takmak için Hypalon MOLLE sistemi, reflektif detaylar ve rüzgârda yerinden çıkmaması için halkalarla sabitlenen gizlenebilir yağmur kılıfı bulunuyor."
+    ],
+    "forWho": [
+      "15 inç laptopla motosikletle işe gidenler",
+      "Günlük kullanımda düzenli bölmeli bir sırt çantası isteyenler",
+      "MOLLE ile küçük aksesuar takmak isteyenler"
+    ],
+    "notFor": [
+      "Gövdesi su geçirmez bir çanta arayanlar; yağmurda kılıfa güvenmek gerekir",
+      "20 litreden büyük hacim isteyenler"
+    ],
+    "pros": [
+      "15 inç laptop bölmesi",
+      "Eldivenle kullanılabilen hızlı kilitli göğüs ve bel kemeri",
+      "Gizlenebilir yağmur kılıfı dahil",
+      "MOLLE bağlantı sistemi ve reflektif detaylar"
+    ],
+    "cons": [
+      "Gövde su geçirmez değil",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı",
+      "16 litre hacim tur için sınırlı"
+    ],
+    "usage": {
+      "sehir": "Laptop bölmesi ve düzenli cepleriyle günlük işe gidiş için tasarlanmış.",
+      "uzunYol": "Kısa turlarda kullanılabilir; uzun turda hacim yetersiz kalabilir.",
+      "yagmur": "Yağmur kılıfı dahil; kılıf takılmadan gövde su geçirmez değil.",
+      "kurye": "Kişisel eşya için uygun; teslimat paketi taşımak için tasarlanmamış."
+    },
+    "verdict": "PRO Cosmo, laptopla işe giden motosikletli için düzenli ve ergonomik bir sırt çantası. Yağmur kılıfı ve eldiven dostu tokalar günlük kullanımda fark yaratır; gövdenin su geçirmez olmaması ve Türkiye'de fiyat bulunamaması eksileri.",
+    "rivals": [
+      "kriega/r20",
+      "kriega/trail18"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Kaç inç laptop sığar?",
+        "a": "SW-Motech arka bölmenin 15 inçe kadar laptop veya hidrasyon torbası aldığını belirtiyor."
+      },
+      {
+        "q": "Yağmurda ne yapmalı?",
+        "a": "Çantayla birlikte gelen yağmur kılıfı takılmalı; kılıf yüksek hızda yerinden çıkmaması için halkalarla sabitleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://sw-motech.com/en/p/4052572223574?sku=BC.RUC.00.004.30000",
+    "sources": [
+      {
+        "url": "https://sw-motech.com/en/p/4052572223574?sku=BC.RUC.00.004.30000",
+        "type": "manufacturer",
+        "label": "SW-Motech – PRO Cosmo backpack ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah/Antrasit"
+    ],
+    "specs": {
+      "accessoryType": "Motosiklet sırt çantası",
+      "material": "1680D balistik naylon, 210D ripstop/polyester, Hypalon MOLLE paneli",
+      "compatibility": "Sürücü sırt çantası; 15 inç laptop veya hidrasyon torbası",
+      "waterproof": false,
+      "capacityLiters": 16,
+      "certification": null,
+      "features": [
+        "45×30×19 cm",
+        "Ağırlık yaklaşık 1,3 kg",
+        "Hızlı kilitli göğüs ve bel kemeri",
+        "Gizlenebilir yağmur kılıfı",
+        "Pipet çıkışı",
+        "Reflektif detaylar"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "aqua-t30",
+    "brand": "oxford",
+    "name": "Aqua T-30 Roll Bag",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "30 litrelik, kaynaklı dikişli su geçirmez gövdeli, rulo kapaklı, sele altı güvenlik kayışlı bağlantı sistemiyle motosiklete sabitlenen rulo çanta.",
+    "description": [
+      "Aqua T-30, Oxford'un su geçirmez rulo çanta serisinin 30 litrelik modeli. Gövde silinebilir, kaynaklı dikişli su geçirmez malzemeden; ağız rulo kapakla kapanıyor. Dolu haldeki yaklaşık ölçüler 34 cm yükseklik, 50 cm genişlik ve 28 cm derinlik.",
+      "Motosiklete bağlantı için Oxford'un kendi bağlantı sistemi ve sele altına geçen güvenlik kayışı kullanılıyor; sıkıştırma kayışları yükü sabit tutuyor. Üstte taşıma sapı, dolgulu omuz askısı, iç ve dış küçük cepler ile suya dayanıklı fermuarlı ön cep var. Reflektif detaylar görünürlüğü artırıyor. Ön cep ve fermuarlar su geçirmez değil, suya dayanıklı olarak tanımlanıyor."
+    ],
+    "forWho": [
+      "Hafta sonu turu veya kamp için bagaj demirsiz motosiklete su geçirmez çanta takmak isteyenler",
+      "Tur sırasında çantayı omuzda taşıyıp otele götürmek isteyenler",
+      "Kriega gibi premium sistemlere göre daha erişilebilir bir rulo çanta arayanlar"
+    ],
+    "notFor": [
+      "Kilitli bagaj isteyenler",
+      "Kurye teslimatı için kutu formlu, ısı yalıtımlı çanta arayanlar"
+    ],
+    "pros": [
+      "Kaynaklı dikişli su geçirmez gövde",
+      "30 litre hacim",
+      "Sele altı güvenlik kayışlı bağlantı",
+      "Dolgulu omuz askısı ve reflektif detaylar"
+    ],
+    "cons": [
+      "Ön cep ve fermuarlar yalnızca suya dayanıklı",
+      "Rulo kapak sık erişimde yavaş",
+      "Kontrol tarihinde yerleşik Türk motosiklet mağazalarında birebir model fiyatı bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Hafta sonu turları için yeterli hacim; sele veya arka bagaja bağlanır.",
+      "yagmur": "Ana bölme kaynaklı dikiş ve rulo kapakla su geçirmez.",
+      "kis": "Ek katman ve yağmurluk taşımak için uygun hacim."
+    },
+    "verdict": "Aqua T-30, bagaj demiri olmayan motosiklete su geçirmez 30 litre eklemenin erişilebilir yolu. Rulo kapak ve suya yalnızca dayanıklı ön cep dışında tur kullanımında güvenilir bir çanta.",
+    "rivals": [
+      "kriega/us-20-drypack"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Motosiklete nasıl bağlanıyor?",
+        "a": "Oxford'un kendi bağlantı sistemi ve sele altından geçen güvenlik kayışıyla; sıkıştırma kayışları yükü sabitliyor."
+      },
+      {
+        "q": "Tamamen su geçirmez mi?",
+        "a": "Ana bölme kaynaklı dikişli ve rulo kapaklı olarak su geçirmez; ön cep ve fermuarlar suya dayanıklı olarak tanımlanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.oxfordproducts.com/oxford-aqua-t-30-roll-bag-m-ol401.html",
+    "sources": [
+      {
+        "url": "https://www.oxfordproducts.com/oxford-aqua-t-30-roll-bag-m-ol401.html",
+        "type": "manufacturer",
+        "label": "Oxford Products – Aqua T-30 Roll Bag ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Haki/Siyah",
+      "Siyah/Gri/Fluo",
+      "Siyah/Fluo",
+      "Siyah/Gri"
+    ],
+    "specs": {
+      "accessoryType": "Su geçirmez rulo çanta",
+      "material": null,
+      "compatibility": "Universal; sele veya arka bagaj, sele altı güvenlik kayışı",
+      "waterproof": true,
+      "capacityLiters": 30,
+      "certification": null,
+      "features": [
+        "Kaynaklı dikiş",
+        "Rulo kapak",
+        "Dolu halde yaklaşık 34×50×28 cm",
+        "Dolgulu omuz askısı",
+        "Sıkıştırma kayışları",
+        "Reflektif detaylar"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "aksesuar",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-07",
+    "slug": "tex-306-kurye-servis-cantasi",
+    "brand": "tex-motor",
+    "name": "Tex 306 Kurye Servis Çantası",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "43×43×52 cm, ısı yalıtım kaplamalı, impertex kumaşlı, güçlendirilmiş iskeletli ve üstten açılan, reflektif şeritli yerli kurye servis çantası.",
+    "description": [
+      "Tex 306, Tex Motor'un yemek ve paket teslimatı yapan kuryeler için ürettiği servis çantası. İç yüzeyde ısı yalıtım kaplaması var; üretici gıdaları sıcak ve soğuk tutmaya yönelik olduğunu belirtiyor. Dış kumaş uzun ömürlü impertex ve toza, kire ve suya dayanıklı olarak tanımlanıyor.",
+      "Ölçüler en 43 cm, boy 43 cm, derinlik 52 cm. Darbeye dayanıklı güçlendirilmiş iskelet kutu formunu koruyor, kapak üstten açılıp kapanıyor. Gece görünürlüğü için reflektif şeritler, yanlarda broşür veya not koymak için şeffaf PVC cepler ve rahat taşıma için omuz askısı aparatı bulunuyor. Tex Motor sitesinde online satış yapılmıyor; ürün mağaza ve bayilerde satılıyor."
+    ],
+    "forWho": [
+      "Yemek ve paket teslimatı yapan motosikletli kuryeler",
+      "Isı yalıtımlı, kutu formlu bir servis çantası arayan işletmeler",
+      "Yerli üreticiden yedek parça ve bayi desteği isteyenler"
+    ],
+    "notFor": [
+      "Kişisel eşya taşıyan tur sürücüleri; çanta teslimat odaklı",
+      "Kilitli sert kutu arayanlar"
+    ],
+    "pros": [
+      "Isı yalıtım kaplama",
+      "Güçlendirilmiş iskelet ile kutu formu korunuyor",
+      "Reflektif şeritler ve yan PVC cepler",
+      "Omuz askısıyla motosiklet dışında taşınabiliyor"
+    ],
+    "cons": [
+      "Hacim litre olarak belirtilmemiş",
+      "Motosiklete bağlantı şekli üretici sayfasında açıklanmıyor",
+      "Üreticinin sitesinde fiyat ve online satış yok"
+    ],
+    "usage": {
+      "kurye": "Asıl kullanım alanı; yemek ve paket teslimatında ısı yalıtımı ve kutu formu sağlar.",
+      "sehir": "Şehir içi teslimat turlarında üstten açılan kapak hızlı erişim sağlar.",
+      "yagmur": "Kumaş suya dayanıklı olarak tanımlanıyor; tam su geçirmezlik iddiası yok."
+    },
+    "verdict": "Tex 306, yerli üretici desteğiyle kurye teslimatı için tasarlanmış, ısı yalıtımlı ve formunu koruyan bir servis çantası. Hacim ve motosiklete bağlantı bilgisi sınırlı; satın almadan önce bayiden montaj şekli sorulmalı.",
+    "rivals": [],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Ölçüleri nedir?",
+        "a": "Tex Motor'a göre en 43 cm, boy 43 cm ve derinlik 52 cm."
+      },
+      {
+        "q": "Yemeği sıcak tutar mı?",
+        "a": "Üretici iç yüzeyde ısı yalıtım kaplaması olduğunu ve gıdaları sıcak ya da soğuk tutmaya yönelik olduğunu belirtiyor; süre bilgisi vermiyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-306-kurye-servis-cantasi/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-306-kurye-servis-cantasi/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX 306 Kurye Servis Çantası ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.capacityLiters",
+      "specs.compatibility",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "accessoryType": "Kurye servis çantası",
+      "material": "Impertex kumaş, ısı yalıtım kaplama, güçlendirilmiş iskelet",
+      "compatibility": null,
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "43×43×52 cm",
+        "Isı yalıtım kaplama",
+        "Üstten açılan kapak",
+        "Reflektif şeritler",
+        "Yan şeffaf PVC cepler",
+        "Omuz askısı aparatı"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null,
+    "colors": []
+  }
+]

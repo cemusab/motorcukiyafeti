@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "ece-22-05-ve-22-06-farki",
+    "title": "ECE 22.05 ile 22.06 Arasındaki Fark",
+    "description": "22.06; daha fazla darbe noktası, üç farklı darbe hızı, dönme ivmesi testi ve vizör testleriyle 22.05'ten ayrılır. Farkları madde madde inceledik.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 5,
+    "intro": "ECE 22.06'yı 22.05'ten ayıran temel fark, kaskın çok daha fazla noktadan, üç farklı hızda ve açılı darbeyle oluşan dönme etkisine karşı test edilmesidir. Bunlara vizöre parçacık testi, çene açılır kasklarda açık ve kapalı konumda test ve aksesuar kuralları eklenmiştir; 22.05 kasklar ise takılmaya devam edebilir.",
+    "sections": [
+      {
+        "heading": "Bir bakışta farklar",
+        "paragraphs": [
+          "22.05, 2000'lerin başından itibaren yaklaşık 20 yıl kullanıldı. 22.06, kaza araştırmalarından elde edilen bilgilerle testleri gerçek kazalara daha yakın hale getirmeyi amaçlıyor."
+        ],
+        "bullets": [
+          "Darbe hızı: 22.05'te tek standart hız (7,5 m/s); 22.06'da buna ek olarak 6 m/s ve 8,2 m/s",
+          "Darbe noktaları: 22.06'da mevcut noktalara ek yeni test noktaları",
+          "Dönme etkisi: 22.05'te yok; 22.06'da açılı darbe ile dönme ivmesi ölçülüyor",
+          "Vizör: 22.06'da yaklaşık 60 m/s hızla çelik bilye fırlatılan parçacık testi",
+          "Çene açılır kask: 22.06'da açık ve kapalı konumda test",
+          "Aksesuarlar: 22.06 kaskla sunulan ve sonradan takılan aksesuarlar için kurallar getirdi"
+        ]
+      },
+      {
+        "heading": "Darbe testlerindeki değişim",
+        "paragraphs": [
+          "22.05'te kask belirli noktalardan tek bir standart hızla test ediliyordu. Bu, üreticilerin kaskı yalnızca bu noktalarda optimize etmesine imkân veriyordu. 22.06'da test noktası sayısı arttı ve hız yelpazesi genişledi.",
+          "Düşük hız testi özellikle önemli: çok sert bir iç köpük yüksek hızlı darbede iyi sonuç verebilir ama düşük hızlı, günlük kazalara daha yakın darbelerde yeterince ezilmeyip enerjiyi kafaya aktarabilir. 22.06 bu dengesizliği ölçüyor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Dönme ivmesi testi",
+        "paragraphs": [
+          "En büyük yenilik açılı (oblique) darbe testidir. Kask eğimli bir yüzeye çarptırılır ve kafa modelinin ne kadar hızlı döndüğü ölçülür. Beyin, dönme kaynaklı ivmelenmelere karşı özellikle hassastır; 22.05 bu etkiyi hiç ölçmüyordu."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Vizör ve çene açılır kasklar",
+        "paragraphs": [
+          "22.06'da vizöre yüksek hızlı bir çelik bilye fırlatılarak taş çarpması gibi durumlara dayanıklılığı test edilir. Dahili güneş vizörü ve fotokromik vizörler için de ek şartlar tanımlanmıştır.",
+          "Çene açılır kasklar artık hem çene kapalı hem açık konumda testlerden geçer. Kask her iki konumda da onay alırsa etikette P/J ibaresi yer alır; yalnızca kapalı konumda onaylıysa çene açık sürüş için uygun değildir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Elimdeki 22.05 kaskı değiştirmeli miyim?",
+        "paragraphs": [
+          "Sadece standart değişti diye iyi durumdaki bir 22.05 kaskı atmana gerek yok; takman yasak değildir. Ancak kaskın yaşı ilerlemişse, darbe aldıysa ya da iç pedleri ve kayışı yıpranmışsa, yenisini alırken 22.06 onaylı bir model seçmek mantıklıdır.",
+          "Mağazada hâlâ 22.05 etiketli yeni kask görürsen bunun eski stok olduğunu, üretim tarihinin de eski olabileceğini unutma."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Etiketten 22.05 mi 22.06 mı olduğunu nasıl anlarım?",
+        "a": "Çene kayışındaki ECE etiketinde onay numarasının ilk iki hanesine bak: 05 ile başlıyorsa 22.05, 06 ile başlıyorsa 22.06 onaylıdır."
+      },
+      {
+        "q": "22.06 kasklar daha ağır mı?",
+        "a": "Bazı modellerde testlere uyum için küçük ağırlık artışları görülebilir, ancak bu genel bir kural değildir. Ağırlığı model bazında karşılaştırmak gerekir."
+      },
+      {
+        "q": "22.05 kaskımla trafik cezası alır mıyım?",
+        "a": "Geçiş kuralları satışa sunulan yeni kaskları kapsar; mevcut 22.05 kaskları kullanmak yasaklanmadı. Yine de yerel mevzuatı resmi kaynaklardan kontrol etmek en doğrusudur."
+      }
+    ],
+    "relatedGuides": ["ece-22-06-nedir", "kask-kac-yilda-degistirilir", "kask-nasil-secilir"],
+    "relatedCategories": ["kask", "kask/cene-acilir-kask"],
+    "sources": [
+      { "url": "https://globalautoregs.com/documents/22484", "type": "homologation", "label": "UN R22 06 serisi değişiklik önerisi (WP.29/2020/60)", "checkedAt": "2026-10-06" },
+      { "url": "https://www.rad.eu/en/concepts/ece-r-22-06-55.html", "type": "review", "label": "Louis/Rad: ECE-R 22/06 açıklaması", "checkedAt": "2026-10-06" },
+      { "url": "https://www.lerepairedesmotards.com/dossiers/norme-homologation-casque-moto-ece-22-06.php", "type": "review", "label": "Le Repaire des Motards: ECE 22.06 dosyası", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

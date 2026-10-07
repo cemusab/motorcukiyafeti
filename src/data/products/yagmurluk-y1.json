@@ -1,0 +1,1425 @@
+[
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Yaren Tekstil",
+        "url": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+        "price": 1710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 1710,
+      "max": 1710,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "yrn-2789",
+    "brand": "yaren-tekstil",
+    "name": "YRN-2789 Motokurye Yağmurluk Takım",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Uzun saatler yağmur altında çalışan kuryeler için tasarlanmış, 300D polyester dış kumaşı ve membranlı astarı bant kaynaklı dikişlerle birleştiren yerli iki parça yağmurluk takımı.",
+    "description": [
+      "YRN-2789, Yaren Tekstil'in doğrudan motokurye kullanımı için hazırladığı ceket ve pantolondan oluşan bir yağmurluk takımı. Üreticiye göre dış kumaş %100 300D polyester ve su/rüzgar geçirmez membranla lamine; iç astar da membranlı mikro kumaştan. Yani tek katmanlı ince naylon yağmurlukların aksine hem dış hem iç katman su geçirmez olarak tanımlanıyor. Dış kumaş ve astardaki tüm dikiş yerleri termo kaynak bandıyla kapatılmış.",
+      "Önde çift su patı, boydan boya 2 cm cırt ve altında su itici fermuar var; sağanakta fermuar hattından su almasını önlemeye yönelik bir yapı. Ceket ve pantolonda EN 20471 standardında reflektif biye şerit kullanıldığı belirtiliyor; bu, gece trafikte görünürlük için önemli. Ceketin belinde arkada lastik, önde iki cep bulunuyor; paçalarda su itici fermuar, kol ve paça ağızlarında cırtlı ayar var. Nefes alma ya da su sütunu değeri yayımlanmıyor; motosiklet koruma sertifikası da yok, yani koruyucu montun üstüne giyilecek bir dış katman."
+    ],
+    "forWho": [
+      "Gün boyu yağmurda paket taşıyan, sık inip binen motokuryeler",
+      "Mont ve pantolonunun üstüne giyeceği kalın, dayanıklı bir yağmurluk arayan şehir içi sürücüler",
+      "Gece çalışan ve reflektif şeridi olan bir takım isteyenler"
+    ],
+    "notFor": [
+      "Çantada az yer kaplayan, ince ve katlanınca küçülen bir acil durum yağmurluğu arayanlar",
+      "Nefes alma performansı ölçülmüş teknik membran bekleyen uzun yol sürücüleri"
+    ],
+    "pros": [
+      "Hem dış kumaş hem astar su geçirmez olarak tanımlanmış, dikişler termo bantlı",
+      "Çift su patı, cırt ve su itici fermuarla güçlü ön kapama",
+      "Ceket ve pantolonda reflektif biye şerit",
+      "Yerli üretici; fiyatı ithal yağmurluk takımlarının çok altında"
+    ],
+    "cons": [
+      "300D kumaş ve iki katmanlı yapı nedeniyle ince yağmurluklara göre hacimli olması beklenir",
+      "Su sütunu ve nefes alma değerleri yayımlanmıyor",
+      "Kontrol tarihinde üreticinin sitesinde stokta görünmüyordu",
+      "Resmi beden tablosu ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Kısa mesafeli dur-kalk kullanımda montun üstüne giyilip gün boyu üzerde kalacak şekilde düşünülmüş.",
+      "kurye": "Asıl hedef kitlesi. Uzun süre yağmur altında çalışma için tasarlandığını üretici özellikle belirtiyor; reflektif şerit gece teslimatlarında da işe yarar.",
+      "yagmur": "Bantlı dikişler ve çift patlı ön kapama sağanağa yönelik. Su sütunu değeri verilmediği için performans iddiası üreticinin tanımıyla sınırlı.",
+      "kis": "Membranlı iki katmanlı yapı rüzgarı keser; ısı yalıtımı yok, altına termal katman gerekir.",
+      "uzunYol": "Kullanılabilir ama hacmi nedeniyle çantada taşımak ince yağmurluklar kadar kolay değil."
+    },
+    "verdict": "YRN-2789, yağmuru günün birkaç dakikası değil saatleri olarak yaşayan kuryeler için yapılmış, dayanıklılığı öne alan bir yerli takım. Bantlı dikiş, çift patlı kapama ve reflektif şerit doğru tercihler; ölçülmüş su sütunu değeri olmaması ve hacmi ise hesaba katılmalı. Stok durumunu satın almadan önce kontrol etmek gerekiyor.",
+    "rivals": [
+      "yaren-tekstil/yrn-1551",
+      "scudo/peru",
+      "tex-motor/forte-gt-2001140"
+    ],
+    "faq": [
+      {
+        "q": "Mont yerine tek başına giyilebilir mi?",
+        "a": "Giyilebilir ama koruyucu ve CE sertifikası yok. Üretici bunu yağmur koruması için tasarlamış; düşmeye karşı koruma için altına korumalı mont ve pantolon giyilmeli."
+      },
+      {
+        "q": "Takımda ceket ve pantolon birlikte mi geliyor?",
+        "a": "Evet, ürün takım olarak satılıyor; ceket ve pantolonda reflektif şerit ve cırtlı paça/kol ayarı bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-2789 Motokurye Yağmurluk Takım ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "specs.ventilation",
+      "sizeChart",
+      "colors"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 300D polyester dış kumaş, su ve rüzgar geçirmez membran laminasyonlu; membran laminasyonlu mikro kumaş astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "Laminasyonlu su ve rüzgar geçirmez membran (marka adı belirtilmemiş)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar + çift su patı ve boydan boya cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Yaren Tekstil",
+        "url": "https://www.yarentekstil.com/yaren-tekstil-ce-belgeli-esnek-nefes-alir-dikissiz-motorcu-yagmurluk-kirmizi---siyah-takim-yrn-1551",
+        "price": 3490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Kırmızı / Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3490,
+      "max": 3490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "yrn-1551",
+    "brand": "yaren-tekstil",
+    "name": "YRN-1551 Dikişsiz Motorcu Yağmurluk Takım",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Polyester ve poliüretan kumaştan, suyla temas eden yerlerinde dikiş kullanılmadan yapıştırma tekniğiyle üretilen, nefes alan ve esnek yapıda yerli kırmızı-siyah yağmurluk takımı.",
+    "description": [
+      "YRN-1551, Yaren Tekstil'in ‘dikişsiz’ olarak tanımladığı yağmurluk takımı. Kumaş polyester ve poliüretan hammaddeden; üretici yağmurluğun su geçirmez ve ter atar olduğunu, suyla temas eden hiçbir yerinde dikiş kullanılmadığını ve özel yapıştırma tekniğiyle birleştirildiğini belirtiyor. Klasik PVC balıkçı yağmurluğuna göre daha hafif ve yumuşak olduğu vurgulanıyor.",
+      "Ön tarafta su geçirmez iki cep, su patı ve su itici fermuar var. Kumaşın kıvılcım veya sigara ateşiyle tutuşmadığı da ürün bilgilerinde yer alıyor. Üretici ürünü ‘CE belgeli’ olarak tanıtıyor ancak hangi standarda göre belgelendiğini sayfada yazmıyor; bu yüzden standart alanını boş bıraktık. Kırmızı-siyah renk düzeni trafikte tamamen siyah takımlara göre daha fark edilir, ancak ayrıca reflektif şerit bilgisi verilmiyor."
+    ],
+    "forWho": [
+      "Montunun üstüne giyeceği hafif ve esnek bir yağmurluk takımı arayan şehir içi sürücüler",
+      "PVC yağmurluğun terletmesinden ve sertliğinden şikayet eden kuryeler",
+      "Uygun fiyatlı, yerli üretim takım tercih edenler"
+    ],
+    "notFor": [
+      "Gece görünürlüğü için reflektif şerit şart koşanlar: ürün bilgilerinde reflektif detay belirtilmiyor",
+      "Belgelendirme standardını ve su sütunu değerini görmek isteyenler"
+    ],
+    "pros": [
+      "Suyla temas eden yerlerde dikiş yok, yapıştırma tekniğiyle birleştirilmiş",
+      "PVC'ye göre hafif, yumuşak ve nefes alan kumaş",
+      "Su geçirmez iki ön cep ve su patlı fermuar",
+      "Üreticinin kendi mağazasında stokta ve fiyatı açık"
+    ],
+    "cons": [
+      "CE belgesinin hangi standarda ait olduğu belirtilmiyor",
+      "Reflektif detay bilgisi yok",
+      "Beden seçeneği S–2XL ile sınırlı",
+      "Su sütunu ve nefes alma değerleri yayımlanmıyor"
+    ],
+    "usage": {
+      "sehir": "Montun üstüne hızlıca giyilen, şehir içi yağmurlu günlere uygun hafif bir takım.",
+      "kurye": "Ter atan yapısı ve yumuşak kumaşıyla gün boyu üzerde kalabilir; reflektif eksikliği gece çalışan kuryeler için bir yelekle kapatılmalı.",
+      "yagmur": "Dikişsiz yapı en zayıf nokta olan dikiş yerlerinden su alma riskini ortadan kaldırmaya yönelik.",
+      "kis": "Rüzgarı keser ama yalıtımı yoktur; altına katman gerekir."
+    },
+    "verdict": "YRN-1551, dikişsiz yapısı ve hafif kumaşıyla PVC yağmurluktan bir üst basamağa çıkmak isteyen şehir içi sürücüler için mantıklı bir yerli seçenek. Belgelendirme detayının ve reflektif şeridin olmaması zayıf yanları; gece çalışan kuryeler ek görünürlük önlemi almalı.",
+    "rivals": [
+      "yaren-tekstil/yrn-2789",
+      "scudo/peru",
+      "tex-motor/forte-gt-2001140"
+    ],
+    "faq": [
+      {
+        "q": "Dikişsiz olması ne anlama geliyor?",
+        "a": "Üreticiye göre suyla temas eden bölgelerde iğne dikişi yerine özel yapıştırma tekniği kullanılmış; böylece dikiş deliklerinden su girişi engelleniyor."
+      },
+      {
+        "q": "Üst ve alt ayrı satılıyor mu?",
+        "a": "Evet. Yaren Tekstil aynı serinin üst ve altını ayrı ürünler olarak da listeliyor; bu kayıt takım halini kapsıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yaren-tekstil-ce-belgeli-esnek-nefes-alir-dikissiz-motorcu-yagmurluk-kirmizi---siyah-takim-yrn-1551",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yaren-tekstil-ce-belgeli-esnek-nefes-alir-dikissiz-motorcu-yagmurluk-kirmizi---siyah-takim-yrn-1551",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1551 Dikişsiz Motorcu Yağmurluk Takım ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.madeIn",
+      "specs.membrane",
+      "sizeChart"
+    ],
+    "colors": [
+      "Kırmızı / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Polyester ve poliüretan kumaş, yapıştırma tekniğiyle birleştirilmiş",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Su itici fermuar + su patı",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Scudo",
+        "url": "https://www.scudo.com.tr/urun/scudo-peru-siyah-alt-ust-motosiklet-yagmurlugu-5xl",
+        "price": 5190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 5190,
+      "max": 5190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "peru",
+    "brand": "scudo",
+    "name": "Peru Yağmurluk Takımı",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Üreticinin EN 343 ve EN ISO 13688 sertifikalı olarak tanıttığı, kaynak bantlı dikişli ve nefes alan polyester kumaştan, XS'ten 6XL'e kadar bedeni olan yerli alt-üst yağmurluk takımı.",
+    "description": [
+      "Peru, Scudo'nun siyah alt-üst yağmurluk takımı. Ana kumaş %100 polyester ve su geçirmez; dikiş yerleri kaynak bantlı olduğu için dikişlerden su almadığı belirtiliyor. Scudo, yağmurluklarının EN ISO 13688 (koruyucu giysi genel gereklilikleri) ve EN 343 (yağmura karşı koruyucu giysi) sertifikalarına sahip olduğunu yazıyor; ancak EN 343'ün su geçirmezlik ve nefes alma sınıfları ürün sayfasında paylaşılmıyor.",
+      "Beden aralığının XS'ten 6XL'e kadar uzanması, montun üstüne giyilecek bir takım için önemli bir avantaj: kalın kışlık montun üstüne bir büyük beden almak kolay. Üst kısım sarı renkte de ayrı satılıyor; siyah takım daha az kirlenir ama gece görünürlüğü düşüktür. Ürün bilgilerinde reflektif detay, cep veya paça ayarı gibi ayrıntılar yer almıyor; bu konularda satın almadan önce mağazaya sormak gerekiyor."
+    ],
+    "forWho": [
+      "Sertifikalı (EN 343) bir yağmurluk takımı isteyen şehir içi ve kurye kullanıcıları",
+      "Büyük beden ihtiyacı olan sürücüler: 6XL'e kadar seçenek var",
+      "Yerli markadan uygun fiyatlı takım arayanlar"
+    ],
+    "notFor": [
+      "Gece trafikte görünürlüğü öncelikli olan kuryeler: siyah takımda reflektif detay belirtilmiyor, sarı üst varyant daha uygun olabilir",
+      "Cep, paça ayarı gibi ayrıntıları önceden bilmek isteyenler"
+    ],
+    "pros": [
+      "Üretici EN 343 ve EN ISO 13688 sertifikası bildiriyor",
+      "Kaynak bantlı dikişler",
+      "XS–6XL arası geniş beden seçeneği",
+      "Üst kısım ayrı olarak sarı renkte de satılıyor"
+    ],
+    "cons": [
+      "EN 343 performans sınıfları açıklanmıyor",
+      "Ürün sayfasında reflektif, cep ve ayar detayları yok",
+      "Siyah renk gece görünürlüğü için zayıf",
+      "Kontrol tarihinde bazı bedenlerde stok azdı"
+    ],
+    "usage": {
+      "sehir": "Montun üstüne giyilen klasik iki parça takım; şehir içinde yağmurlu günler için yeterli.",
+      "kurye": "Sertifikalı kumaş ve kaynak bantlı dikişler gün boyu kullanım için olumlu; gece için reflektif yelek eklenmeli.",
+      "yagmur": "EN 343 sertifikası yağmura karşı koruyucu giysi olarak test edildiğini gösteriyor; sınıf bilgisi verilmediği için performans seviyesi bilinmiyor.",
+      "uzunYol": "Nefes alan kumaş uzun etaplarda terlemeyi azaltır; takımın paketlenmiş hacmi belirtilmiyor."
+    },
+    "verdict": "Peru, sertifika bilgisini açıkça paylaşan az sayıdaki yerli yağmurluk takımından biri ve geniş beden aralığı büyük kalıplı sürücüler için gerçek bir artı. Siyah rengi ve detayların belirsizliği zayıf noktaları; gece çalışan kuryeler sarı üst seçeneğini değerlendirmeli.",
+    "rivals": [
+      "tex-motor/forte-gt-2001140",
+      "yaren-tekstil/yrn-2789",
+      "richa/rainwarrior-jacket"
+    ],
+    "faq": [
+      {
+        "q": "EN 343 ne demek?",
+        "a": "EN 343, yağmur ve soğuk-nemli havaya karşı koruyucu giysiler için Avrupa standardı. Su geçirmezlik ve nefes alma sınıflandırması içerir; Scudo bu ürün için sınıf değerlerini yayımlamıyor."
+      },
+      {
+        "q": "Sadece üst ya da alt alınabilir mi?",
+        "a": "Evet. Scudo Peru'nun siyah üstünü, siyah altını ve sarı üstünü ayrı ürünler olarak da satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-peru-siyah-alt-ust-motosiklet-yagmurlugu-5xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-peru-siyah-alt-ust-motosiklet-yagmurlugu-5xl",
+        "type": "manufacturer",
+        "label": "Scudo – Peru Siyah Alt Üst Motosiklet Yağmurluğu ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "specs.membrane",
+      "specs.closure",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester, su geçirmez ve nefes alabilen kumaş, kaynak bantlı dikişler",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 343, EN ISO 13688",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Tex Motor",
+        "url": "https://texmotor.com/urun/forte-gt-2001140-yagmurluk-takim/",
+        "price": 3500,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Taş / Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-2001140",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001140 Yağmurluk Takım",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Mikro polyester dış yüzey, membran orta katman ve astardan oluşan 3 katmanlı kumaş, kaynak bantlı dikiş ve ters fermuarlı ön kapamayla EN 343 / EN ISO 13688 onaylı olarak sunulan yerli yağmurluk takımı.",
+    "description": [
+      "Forte GT 2001140, Tex Motor'un alt ve üstten oluşan yağmurluk takımı. Üretici kumaşı üç katmanlı olarak tanımlıyor: su itici mikro polyester dış yüzey, suya dayanıklılık sağlayan orta membran ve tene yumuşak gelen poliamid astar. Dikişlerin altında üç katmanlı kaynak bant var. Ürün EN ISO 13688 ve EN 343 standartlarında CE onaylı olarak sunuluyor; sınıf değerleri ise sayfada yer almıyor.",
+      "Ön kapamada ters fermuar, fermuar önünde su tahliye kanalı ve tam boy cırt kullanılmış. Yan cepler ters fermuarlı ve su korumalı kapaklı; fermuarın çapraz açısı suyun fermuarda birikmesini önlemek için düşünülmüş. El ve ayak bilekleri cırtla ayarlanıyor, ön, kol ve sırtta reflektif hatlar var. Tex Motor tasarımın gündelik dış giyim olarak da kullanılabilecek kadar sade olduğunu vurguluyor; PVC yağmurluklara göre daha ‘mont gibi’ görünen bir takım."
+    ],
+    "forWho": [
+      "Montunun üstüne giyeceği, şık görünen ve sertifikalı bir yağmurluk takımı arayan şehir sürücüleri",
+      "Ön, kol ve sırtta reflektif hat isteyen kuryeler",
+      "Yağmurluğu motordan inince de giymek isteyenler"
+    ],
+    "notFor": [
+      "Çok küçük katlanan ultra hafif bir acil durum yağmurluğu arayanlar",
+      "Beden tablosunu satın almadan önce görmek isteyenler: ürün sayfasında beden bilgisi yok"
+    ],
+    "pros": [
+      "3 katmanlı kumaş ve dikişlerde 3 katmanlı kaynak bant",
+      "Ters fermuar, su tahliye kanalı ve tam boy cırtla çok kademeli ön kapama",
+      "Ön, kol ve sırtta reflektif hatlar",
+      "EN 343 ve EN ISO 13688 onayı bildiriliyor"
+    ],
+    "cons": [
+      "EN 343 sınıfları ve su sütunu değeri verilmiyor",
+      "Beden seçenekleri ve beden tablosu ürün sayfasında yok",
+      "3 katmanlı yapı ince yağmurluklara göre daha hacimli olabilir"
+    ],
+    "usage": {
+      "sehir": "Gündelik kıyafet gibi görünen tasarımıyla şehir içi yağmurlu günlerde rahat kullanılır.",
+      "kurye": "Reflektif hatlar ve kaynak bantlı dikişler kurye kullanımına uygun; gün boyu terleme davranışı nefes alma değeri verilmediği için belirsiz.",
+      "yagmur": "Ters fermuar ve su tahliye kanalı ön kapamadaki su sızıntısına karşı iyi düşünülmüş.",
+      "uzunYol": "Montun üstüne giyilerek uzun yolda kullanılabilir; çantadaki hacmi ince modellerden fazla olabilir.",
+      "kis": "Membranlı yapı rüzgarı keser; yalıtım için altına katman gerekir."
+    },
+    "verdict": "Forte GT 2001140, yerli yağmurluklar arasında kapama detaylarına en çok özen gösterilmiş takımlardan biri: ters fermuar, su tahliye kanalı, tam boy cırt ve reflektif hatlar bir arada. Beden bilgisinin eksikliği ve performans sınıflarının açıklanmaması satın almadan önce sorulması gereken konular.",
+    "rivals": [
+      "scudo/peru",
+      "yaren-tekstil/yrn-2789",
+      "held/rainstretch-top"
+    ],
+    "faq": [
+      {
+        "q": "Yağmurluk takım olarak mı satılıyor?",
+        "a": "Evet, üretici alt ve üst takım olarak sunuyor. Tex Motor aynı modelin siyah ve neon sarı renk seçeneklerini de ayrı sayfalarda listeliyor."
+      },
+      {
+        "q": "Altına koruyuculu mont giyilebilir mi?",
+        "a": "Bu ürün montun üstüne giyilmek üzere tasarlanmış bir yağmurluk; beden seçerken altındaki mont ve pantolonu hesaba katmak gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001140-yagmurluk-takim/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001140-yagmurluk-takim/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001140 Yağmurluk Takım ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Taş / Siyah"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "3 katmanlı kumaş: mikro polyester dış yüzey, membran orta katman, poliamid astar; 3 katmanlı kaynak bant",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 343, EN ISO 13688",
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "Orta katman membran (marka adı belirtilmemiş)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ters fermuar + su tahliye kanalı + tam boy cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "LBC",
+        "url": "https://www.lbc.com.tr/bot_yagmurlugu",
+        "price": 650,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "40-42",
+          "43-45"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 650,
+      "max": 650,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "bot-yagmurlugu",
+    "brand": "lbc",
+    "name": "Bot Yağmurluğu",
+    "subcategories": [
+      "yagmur-aksesuari"
+    ],
+    "summary": "Bot veya ayakkabının üstüne geçirilen, iki numara aralığında (40-42 ve 43-45) satılan, uygun fiyatlı yerli bot yağmurluğu; teknik özellikleri üretici sayfasında yayımlanmıyor.",
+    "description": [
+      "LBC'nin bot yağmurluğu, motosiklet botu ya da günlük ayakkabının üstüne giyilen bir kılıf. Üreticinin sayfasında ürün kodu (LBC008), fiyat ve iki numara aralığı (40-42 ve 43-45) dışında teknik bilgi bulunmuyor; malzeme, dikiş yapısı ve taban detayı yazılı değil. Bu yüzden bu kaydı düşük güven düzeyiyle tutuyoruz.",
+      "Bot yağmurluğu, su geçirmez olmayan bir botla yağmura yakalanan kuryeler ve şehir içi sürücüler için en ucuz çözümlerden biri. Ancak kılıfın vites pedalıyla temas eden üst kısmı ve tabanı zamanla aşınır; vites kolu ayakkabının üstüne sürtündüğü için kılıfın o bölgesinin dayanımı önemlidir. Satın almadan önce malzemeyi ve tabanın kaymaz olup olmadığını satıcıya sormanızı öneririz."
+    ],
+    "forWho": [
+      "Su geçirmez olmayan botla ya da spor ayakkabıyla sürüş yapan kuryeler",
+      "Yağmur ihtimaline karşı çantada ek ayakkabı koruması taşımak isteyenler"
+    ],
+    "notFor": [
+      "Teknik özellikleri net bilinen, tabanı ve malzemesi açıklanmış bir ürün arayanlar",
+      "45 numaradan büyük ayak ölçüsü olanlar"
+    ],
+    "pros": [
+      "Çok uygun fiyat",
+      "İki numara aralığıyla basit beden seçimi",
+      "Kontrol tarihinde üreticinin sitesinde stokta"
+    ],
+    "cons": [
+      "Malzeme, taban ve kapama bilgisi üretici sayfasında yok",
+      "Yalnızca 40-45 numara aralığı",
+      "Vites pedalı bölgesinde dayanıklılığı bilinmiyor"
+    ],
+    "usage": {
+      "sehir": "Yağmura yakalanınca botun üstüne geçirilen pratik bir çözüm.",
+      "kurye": "Su geçirmez bot alamayan kuryeler için ucuz bir ara çözüm; uzun vadede aşınma takip edilmeli.",
+      "yagmur": "Asıl kullanım amacı bu; su geçirmezlik iddiası ve test bilgisi yayımlanmamış."
+    },
+    "verdict": "LBC bot yağmurluğu, ayağını kuru tutmak için en düşük bütçeli seçeneklerden biri. Ancak üretici teknik bilgi paylaşmadığı için malzeme kalitesi ve dayanımı hakkında net bir şey söylemek mümkün değil; daha fazla bilgi isteyenler Büse veya Held gibi açıklamalı alternatiflere bakmalı.",
+    "rivals": [
+      "buse/regenstiefel"
+    ],
+    "faq": [
+      {
+        "q": "Hangi numaraları kapsıyor?",
+        "a": "Üreticinin sayfasında 40-42 ve 43-45 olmak üzere iki seçenek var."
+      },
+      {
+        "q": "Malzemesi nedir?",
+        "a": "Üretici sayfasında malzeme bilgisi yer almıyor; satın almadan önce satıcıya sormak gerekiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.lbc.com.tr/bot_yagmurlugu",
+    "sources": [
+      {
+        "url": "https://www.lbc.com.tr/bot_yagmurlugu",
+        "type": "manufacturer",
+        "label": "LBC – Bot Yağmurluğu ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.closure",
+      "specs.madeIn",
+      "colors"
+    ],
+    "colors": [],
+    "sizes": [
+      "40-42",
+      "43-45"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-rain-stretch-ust-motosiklet-yagmurluk-siyah-/-sari",
+        "price": 6770,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Sarı"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 6770,
+      "max": 6770,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "slug": "rainstretch-top",
+    "brand": "held",
+    "name": "Rainstretch Top",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "PU kaplı esnek polyester kumaştan, kask altına giyilebilen entegre kapüşonlu ve Scotchlite reflektifli, motosiklet ekipmanının üstüne giyilen yağmurluk ceketi; Rainstretch Base pantolonla takım olur.",
+    "description": [
+      "Rainstretch Top, Held'in esnek kumaşlı yağmurluk ceketi. Dış kumaş PU kaplı %100 polyester streç kumaş, içi tekstil astarlı. Streç yapı, kalın bir touring montunun üstüne geçirirken ve sürüş pozisyonunda kolları uzatırken kumaşın gerilmesini kolaylaştırıyor. Kask altına giyilebilen entegre bir kapüşon ve Scotchlite reflektif elemanlar bulunuyor; renk siyah-neon sarı.",
+      "Held bu ceketi Rainstretch Base adlı yağmurluk pantolonuyla birlikte kullanılacak şekilde sunuyor; iki parça ayrı satılıyor. Üreticinin beden tablosu XS–5XL aralığında; ekipmanın üstüne giyileceği için mont bedeninize göre bir beden büyük düşünmek mantıklı olabilir. Su sütunu ya da nefes alma değeri yayımlanmıyor; PU kaplı kumaşlar genellikle membranlı modeller kadar nefes almaz, bu yüzden uzun süreli yüksek tempoda terleme beklenebilir."
+    ],
+    "forWho": [
+      "Ekipmanının üstüne esnek, hareketi kısıtlamayan bir yağmurluk ceketi arayan touring sürücüleri",
+      "Neon sarı renk ve reflektifle görünürlüğü artırmak isteyen kuryeler ve şehir içi sürücüler",
+      "Ceket ve pantolonu ayrı ayrı almak isteyenler"
+    ],
+    "notFor": [
+      "Tek parça tulumun hızlı giyilişini tercih edenler",
+      "Yüksek nefes alma performansı bekleyenler: PU kaplı kumaş membranlı modeller kadar nefes almayabilir"
+    ],
+    "pros": [
+      "Streç kumaş ekipmanın üstünde rahat hareket sağlıyor",
+      "Kask altına giyilebilen entegre kapüşon",
+      "Neon sarı renk ve Scotchlite reflektif elemanlar",
+      "XS–5XL geniş beden aralığı ve resmi beden tablosu"
+    ],
+    "cons": [
+      "Pantolon (Rainstretch Base) ayrıca alınmalı",
+      "Su sütunu ve nefes alma değerleri yayımlanmıyor",
+      "Türkiye fiyatı yerli takımların neredeyse iki katı"
+    ],
+    "usage": {
+      "sehir": "Neon renk ve reflektifle trafikte görünürlüğü artırır; esnek kumaş sık inip binmede rahat.",
+      "uzunYol": "Montun üstüne giyilip yağmur bitene kadar kullanılır; PU kaplı kumaş uzun süre giyildiğinde terletebilir.",
+      "yagmur": "Asıl kullanım alanı. Su geçirmez kumaş ve kapüşon yağmurda boyun bölgesini korur.",
+      "kurye": "Görünürlük açısından güçlü; gün boyu giyildiğinde nefes alma sınırlı kalabilir."
+    },
+    "verdict": "Rainstretch Top, esnek kumaşı ve yüksek görünürlüğüyle ekipmanın üstüne giyilen yağmurluk ceketleri arasında konforlu bir seçenek. Pantolonun ayrı satılması ve Türkiye fiyatı toplam maliyeti artırıyor; nefes alma değeri de açıklanmıyor.",
+    "rivals": [
+      "richa/rainwarrior-jacket",
+      "tex-motor/forte-gt-2001140",
+      "scudo/peru"
+    ],
+    "faq": [
+      {
+        "q": "Pantolonu var mı?",
+        "a": "Evet, Held aynı serinin pantolonunu Rainstretch Base adıyla ayrı satıyor."
+      },
+      {
+        "q": "Kapüşon kaskın üstüne mi giyiliyor?",
+        "a": "Hayır. Üretici entegre kapüşonun kaskın altına giyilecek şekilde tasarlandığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Rainstretch-Top-Rain-jacket/061981-00-058-0-XXL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Rainstretch-Top-Rain-jacket/061981-00-058-0-XXL",
+        "type": "manufacturer",
+        "label": "Held – Rainstretch Top Rain jacket ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-rain-stretch-ust-motosiklet-yagmurluk-siyah-/-sari",
+        "type": "retailer",
+        "label": "Motomax – Held Rain Stretch Üst Yağmurluk Siyah/Sarı",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.closure"
+    ],
+    "colors": [
+      "Siyah / Neon sarı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "PU kaplı %100 polyester streç kumaş, tekstil astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "rain-skin-pro",
+    "brand": "held",
+    "name": "Rain Skin Pro",
+    "subcategories": [
+      "yagmur-aksesuari"
+    ],
+    "summary": "Eldivenin üstüne geçirilen, su ve rüzgar geçirmez nefes alan laminasyonlu, bilekte cırt ayarlı ve vizör sileceği olan eldiven yağmurluğu.",
+    "description": [
+      "Rain Skin Pro, normal motosiklet eldiveninin üstüne giyilen bir yağmur kılıfı. Dış kumaş PU kaplı %100 polyester; Held, dış eldivenle birleştirilmiş özel bir laminasyon sayesinde su ve rüzgar geçirmez, nefes alan bir yapı olduğunu belirtiyor. Bilekte cırtlı ayar ve işaret parmağında vizör sileceği bulunuyor.",
+      "Bu tip kılıflar, yazlık ya da su geçirmez olmayan deri eldivenle yola çıkıp yağmura yakalananlar için mantıklı: eldiven ıslanıp ağırlaşmaz, rüzgar da kesilir. Dezavantajı, iki kat malzeme nedeniyle gidon ve kol hissinin azalması. Beden aralığı 8–12 eldiven numarası; eldivenin üstüne giyileceği için normal bedeninizden bir büyük seçmeniz gerekebilir."
+    ],
+    "forWho": [
+      "Yazlık veya deri eldivenle yola çıkıp yağmura yakalanan sürücüler",
+      "İkinci bir su geçirmez eldiven taşımak yerine küçük bir kılıf tercih eden tur sürücüleri",
+      "Yağmurda gün boyu çalışan kuryeler"
+    ],
+    "notFor": [
+      "Hassas gidon ve kol hissi isteyen sport sürücüler",
+      "Isı yalıtımı bekleyenler: kılıf yalnızca su ve rüzgar koruması sağlar"
+    ],
+    "pros": [
+      "Su ve rüzgar geçirmez, nefes alan laminasyon",
+      "Vizör sileceği",
+      "Bilekte cırtlı ayar",
+      "Eldiven değiştirmeden yağmur koruması"
+    ],
+    "cons": [
+      "Gidon hissini azaltır",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık",
+      "Yalnızca siyah; görünürlük katkısı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa yağmurlarda eldivenin üstüne hızla geçirilir.",
+      "uzunYol": "Çantada küçük yer kaplayan bir yedek çözüm; uzun yağmurda eldiveni kuru tutar.",
+      "yagmur": "Asıl amacı bu. Vizör sileceği görüşü korumaya yardım eder.",
+      "kis": "Rüzgarı keserek eldivenin hissedilen sıcaklığını artırır; yalıtım sağlamaz.",
+      "kurye": "Gün boyu yağmurda eldiveni korur; sık telefon ve paket kullanımında çıkarıp takmak zahmetli olabilir."
+    },
+    "verdict": "Rain Skin Pro, yazlık eldivenle yağmura yakalanma sorununu küçük bir kılıfla çözen pratik bir aksesuar. Nefes alan laminasyon ve vizör sileceği iyi detaylar; ancak gidon hissinde kayıp ve Türkiye'de bulunabilirlik konusu hesaba katılmalı.",
+    "rivals": [
+      "buse/regenstiefel",
+      "lbc/bot-yagmurlugu"
+    ],
+    "faq": [
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Held 8–12 arası eldiven numarası sunuyor. Eldivenin üstüne giyileceği için eldiveninizin hacmine göre bir büyük beden gerekebilir; denemek en sağlıklısı."
+      },
+      {
+        "q": "Isıtır mı?",
+        "a": "Hayır, ısı yalıtımı yok. Rüzgarı ve suyu keserek eldivenin soğumasını azaltır."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Rain-Skin-Pro-Over-glove/002791-00-001-0-9",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Rain-Skin-Pro-Over-glove/002791-00-001-0-9",
+        "type": "manufacturer",
+        "label": "Held – Rain Skin Pro Over-glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "PU kaplı %100 polyester",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "Dış eldivenle birleştirilmiş özel laminasyon (su ve rüzgar geçirmez, nefes alan)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilekte cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "pacific-4-h2o",
+    "brand": "revit",
+    "name": "Pacific 4 H2O",
+    "subcategories": [
+      "tek-parca-yagmurluk"
+    ],
+    "summary": "Boydan boya çapraz fermuarıyla hızlı giyilen, kol, üst kol, bel ve paçalarda ayar noktaları olan ve kendi taşıma kesesine sığan tek parça yağmurluk tulumu.",
+    "description": [
+      "Pacific 4 H2O, REV'IT!'in tek parça yağmur tulumu. Tasarımın merkezinde giyme hızı var: tulum boyunca uzanan uzun, çapraz bir fermuar onu tamamen açıyor; sürücü içine adım atıp fermuarı kapatarak ekipmanının üstüne giyebiliyor. Ani bastıran yağmurda yol kenarında hızlı hazırlanmak için iki parçalı takımlara göre pratik bir çözüm.",
+      "Kol ağızlarında, üst kollarda, belde ve alt bacaklarda ayar noktaları; kol ve paça uçlarında lastik var. Bu ayarlar tulumun rüzgarda dalgalanmasını ve ekipmanın üstünde bol durmasını azaltmaya yarıyor. Yağmur bitince tulum kendi taşıma kesesine geri konup sırt çantasına ya da motosikletin saklama bölmesine kaldırılabiliyor. Üretici sayfasında kumaş bileşimi, su sütunu ve nefes alma değeri yer almıyor."
+    ],
+    "forWho": [
+      "Ani yağmurda hızlıca ekipmanının üstüne giyebileceği bir tulum arayan tur ve şehir sürücüleri",
+      "Rüzgarda dalgalanmayan, ayarlanabilir bir yağmurluk isteyenler",
+      "Yağmurluğu çantada taşıyıp gerektiğinde çıkaranlar"
+    ],
+    "notFor": [
+      "Gün içinde sık sık motordan inip yürüyen kuryeler: tek parça tulumu çıkarıp giymek iki parçaya göre zahmetli",
+      "Kumaş ve performans değerlerini önceden görmek isteyenler"
+    ],
+    "pros": [
+      "Boydan boya çapraz fermuarla hızlı giyiliş",
+      "Kol, üst kol, bel ve paçada çok noktalı ayar",
+      "Kendi taşıma kesesine sığıyor",
+      "S–3XL beden seçeneği"
+    ],
+    "cons": [
+      "Kumaş bileşimi ve performans değerleri yayımlanmıyor",
+      "Tuvalet molası ve kısa duraklarda tek parça kullanımı zahmetli",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "uzunYol": "En uygun olduğu alan. Yağmur bastırınca hızla giyilir, bitince keseye girer.",
+      "sehir": "Kullanılabilir ama kısa sürüşlerde giyip çıkarmak iki parça takıma göre uzun sürer.",
+      "yagmur": "Tek parça yapı bel bölgesinden su girişi riskini ortadan kaldırır.",
+      "kurye": "Sık inip binmede pratik değil; gün boyu yağmurda üzerde kalacaksa kullanılabilir."
+    },
+    "verdict": "Pacific 4 H2O, tek parça tulumların en büyük sorunu olan giyme zorluğunu boydan boya çapraz fermuarla çözmeye çalışan, ayar noktaları bol bir model. Tur sürücüsü için mantıklı; sık inip binen kuryeler iki parça takımla daha rahat eder. Teknik değerlerin yayımlanmaması eksi.",
+    "rivals": [
+      "alpinestars/hurricane-rain-v2-suit",
+      "macna/hydra-3-0",
+      "held/rainstretch-top"
+    ],
+    "faq": [
+      {
+        "q": "Tek parça mı, iki parça mı?",
+        "a": "Tek parça bir tulum. Uzun çapraz fermuar sayesinde tamamen açılıp içine adım atılarak giyiliyor."
+      },
+      {
+        "q": "Taşıma kesesi var mı?",
+        "a": "Evet, üretici tulumun kendi taşıma kesesine konup çantada saklanabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-rain-suit-pacific-4-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-rain-suit-pacific-4-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Rain Suit Pacific 4 H2O ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Black-Neon Yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Boydan boya çapraz fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "hurricane-rain-v2-suit",
+    "brand": "alpinestars",
+    "name": "Hurricane Rain V2 Suit",
+    "subcategories": [
+      "tek-parca-yagmurluk"
+    ],
+    "summary": "Su geçirmez, nefes alan ve rüzgar geçirmez laminasyonlu kumaştan, konfor astarlı, reflektif detaylı ve rulo çantasına katlanan hafif tek parça yağmur tulumu.",
+    "description": [
+      "Hurricane Rain V2 Suit, Alpinestars'ın yol ve adventure touring sürücüleri için tasarladığı hafif tek parça yağmur tulumu. Üretici kumaşı su geçirmez, nefes alan ve rüzgar geçirmez laminasyonlu bir kumaş olarak tanımlıyor; içinde konfor astarı var. Ergonomik kesim, tulumun ekipmanın üstünde sürüş pozisyonuna uymasını hedefliyor.",
+      "Düşük ışıkta görünürlük için reflektif detaylar bulunuyor. Tulum kompakt bir rulo çantasıyla geliyor; hava değiştiğinde çıkarıp çantaya koymak ve yeniden giymek kolay. Alpinestars sayfasında kapama tipi, ayar noktaları ve su sütunu gibi ayrıntılar verilmiyor. Hurricane serisinde ayrı ceket ve pantolon da bulunuyor; tek parça yerine iki parça isteyenler onlara bakabilir."
+    ],
+    "forWho": [
+      "Yol ve adventure turlarında yağmura hazırlıklı olmak isteyen sürücüler",
+      "Nefes alan laminasyonlu kumaş ve astar konforu isteyenler",
+      "Hafif ve kompakt paketlenen bir tulum arayanlar"
+    ],
+    "notFor": [
+      "Gün içinde sık inip binen kuryeler: tek parça yapı giyip çıkarmayı yavaşlatır",
+      "Neon renk ve yüksek görünürlük isteyenler: tulum siyah"
+    ],
+    "pros": [
+      "Su geçirmez, nefes alan ve rüzgar geçirmez laminasyonlu kumaş",
+      "Konfor astarı",
+      "Reflektif detaylar",
+      "Kompakt rulo çantası"
+    ],
+    "cons": [
+      "Kapama tipi ve ayar noktaları üretici sayfasında açıklanmıyor",
+      "Yalnızca siyah renk",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "uzunYol": "Hedef kullanım. Hafif ve paketlenebilir yapısıyla tur bagajında taşınır.",
+      "sehir": "Kullanılabilir, ancak kısa sürüşlerde tek parça tulumu giyip çıkarmak zaman alır.",
+      "yagmur": "Laminasyonlu kumaş ve tek parça yapı yağmurda tam kapsama sağlar.",
+      "kurye": "Gün boyu üzerde kalacaksa iş görür; sık inip binmede pratik değil."
+    },
+    "verdict": "Hurricane Rain V2 Suit, nefes alan laminasyonlu kumaşı ve kompakt paketlenmesiyle tur sürücüsünün bagajında taşınacak bir yağmur tulumu. Siyah rengi görünürlüğü sınırlıyor; detaylı teknik bilgi ve Türkiye fiyatı eksik.",
+    "rivals": [
+      "revit/pacific-4-h2o",
+      "macna/hydra-3-0"
+    ],
+    "faq": [
+      {
+        "q": "Ayrı ceket ve pantolonu var mı?",
+        "a": "Evet. Alpinestars Hurricane serisinde ayrı yağmur ceketi ve pantolonu da satıyor; bu kayıt tek parça tulumu kapsıyor."
+      },
+      {
+        "q": "Nasıl taşınıyor?",
+        "a": "Tulum kompakt bir rulo çantasıyla geliyor; katlanıp bagajda taşınabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/hurricane-rain-v2-suit",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/hurricane-rain-v2-suit",
+        "type": "manufacturer",
+        "label": "Alpinestars – Hurricane Rain V2 Suit ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.material",
+      "specs.membrane",
+      "specs.closure",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Su geçirmez, nefes alan, rüzgar geçirmez laminasyonlu kumaş; konfor astarı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "hydra-3-0",
+    "brand": "macna",
+    "name": "Hydra 3.0",
+    "subcategories": [
+      "tek-parca-yagmurluk"
+    ],
+    "summary": "Raintex membranlı, ekstra yüksek su geçirmez yakalı, merkez dışı ana fermuarlı ve tüm yönlerde laminasyonlu reflektif elemanlı unisex tek parça yağmur tulumu.",
+    "description": [
+      "Hydra 3.0, Macna'nın motosiklet giysisinin üstüne giyilen tek parça yağmur tulumu. Su geçirmez Raintex membranla donatılmış ve erkek-kadın ortak kalıpta. Yaka özellikle yüksek tutulmuş; amaç suyun sırttan aşağı akmasını önlemek. Merkezden kaydırılmış ana fermuar, ani yağmurda tulumu giymeyi kolaylaştırıyor.",
+      "Boyun, kalça, bilek ve ayak bileğinde ayar var. Tüm yönlerde, en çok da sırtta laminasyonlu reflektif elemanlar bulunuyor; sol üst bacakta su geçirmez bir cep var. Neon sarı varyantta bacaklar dizden aşağısı siyah yapılmış; böylece yol kiri en çok görünen yerde fark edilmiyor. Saklama çantasında içte kalan suyun buharlaşması için Water Exhaust adlı bir havalandırma var. Üretici malzemeyi özel kaplamalı su geçirmez polyester olarak tanımlıyor."
+    ],
+    "forWho": [
+      "Ekipmanının üstüne tek hamlede giyeceği bir yağmur tulumu arayan tur sürücüleri",
+      "Sırt ve yaka bölgesinden su girmesinden şikayet edenler",
+      "Reflektif ve neon renk seçeneğiyle görünürlüğü artırmak isteyenler"
+    ],
+    "notFor": [
+      "Gün içinde çok sık inip binen kuryeler: tek parça tulum iki parçaya göre yavaş giyilir",
+      "Membranın nefes alma değerini önceden bilmek isteyenler"
+    ],
+    "pros": [
+      "Ekstra yüksek su geçirmez yaka",
+      "Boyun, kalça, bilek ve ayak bileğinde ayar",
+      "Her yönde, özellikle sırtta laminasyonlu reflektif",
+      "Su geçirmez bacak cebi ve havalandırmalı saklama çantası"
+    ],
+    "cons": [
+      "Su sütunu ve nefes alma değeri yayımlanmıyor",
+      "Tek parça yapı kısa duraklarda pratik değil",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "uzunYol": "Tur sürücüleri için tasarlanmış; saklama çantasıyla bagajda taşınır.",
+      "sehir": "Kullanılabilir; kısa sürüşlerde giyip çıkarmak iki parça takıma göre uzun sürer.",
+      "yagmur": "Yüksek yaka ve tek parça gövde suyun girebileceği noktaları azaltır.",
+      "kurye": "Gün boyu yağmurda üzerde kalacaksa reflektifleriyle uygun; sık inip binmede zahmetli."
+    },
+    "verdict": "Hydra 3.0, yaka yüksekliği, ayar noktaları ve reflektif yerleşimiyle tek parça tulumların pratik sorunlarına düşünülmüş cevaplar veriyor. Teknik değerlerin açıklanmaması ve Türkiye'de bulunabilirliği eksi; tur sürücüsü için güçlü bir aday.",
+    "rivals": [
+      "revit/pacific-4-h2o",
+      "alpinestars/hurricane-rain-v2-suit"
+    ],
+    "faq": [
+      {
+        "q": "Kadınlar da kullanabilir mi?",
+        "a": "Evet, Macna Hydra 3.0'ı hem erkek hem kadın için uygun olarak tanımlıyor."
+      },
+      {
+        "q": "Saklama çantasındaki Water Exhaust ne işe yarıyor?",
+        "a": "Islak tulum çantaya konduğunda içte kalan su damlalarının buharlaşmasına izin veren bir havalandırma."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/rain-gear-macna-hydra-3-0",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/rain-gear-macna-hydra-3-0",
+        "type": "manufacturer",
+        "label": "MACNA – Hydra 3.0 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Fluo yellow / Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Özel kaplamalı su geçirmez polyester",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": "Raintex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Merkez dışı ana fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "rainwarrior-jacket",
+    "brand": "richa",
+    "name": "Rainwarrior Jacket",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "%100 polyester, bol kesimli ve hafif, motosiklet ekipmanının üstüne giyilen, kompakt saklama çantalı ve beş renk seçenekli temel yağmurluk ceketi; Rainwarrior pantolonla takım olur.",
+    "description": [
+      "Rainwarrior Jacket, Richa'nın ‘temel yağmurluk’ olarak konumladığı, ekipmanın üstüne geçirilen hafif bir ceket. %100 polyesterden yapılmış ve %100 su geçirmez olarak tanımlanıyor. Bol kesimi sayesinde motosiklet montunun üstüne kolayca giyiliyor; belde lastik var ve boyu kısa tutulmuş.",
+      "Çeşitli reflektif detaylar bulunuyor ve kompakt bir saklama çantasıyla geliyor. Beş renk seçeneği sunuluyor: siyah ile birlikte siyah-gri, siyah-kırmızı, siyah-sarı ve siyah-mavi. Pantolonu Rainwarrior Trousers adıyla ayrı satılıyor. Membran veya nefes alma bilgisi verilmediği için bunu nefes alan teknik bir kabuk değil, ucuz ve pratik bir acil durum yağmurluğu olarak değerlendirmek gerekiyor."
+    ],
+    "forWho": [
+      "Çantada taşıyacağı hafif ve ucuz bir yağmurluk ceketi arayan sürücüler",
+      "Renkli seçeneklerle görünürlüğü artırmak isteyenler (ör. siyah-sarı)",
+      "Ceket ve pantolonu ayrı ayrı almak isteyenler"
+    ],
+    "notFor": [
+      "Uzun süre giyildiğinde nefes alan bir kabuk bekleyenler: membran bilgisi yok",
+      "Gün boyu yağmurda çalışacak kuryeler için tek başına yetersiz kalabilir; uzun kullanımda terletme olasılığı var"
+    ],
+    "pros": [
+      "Hafif ve kompakt saklama çantalı",
+      "Bol kesim, ekipmanın üstüne kolay giyiliyor",
+      "Beş renk seçeneği ve reflektif detaylar",
+      "XS'ten 5XL'e kadar beden"
+    ],
+    "cons": [
+      "Nefes alma bilgisi yok",
+      "Kısa boy, yağmur pantolonuyla birlikte kullanılmalı",
+      "Kontrol tarihinde üreticinin mağazasında stokta görünmüyordu",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kısa yağmurlarda montun üstüne hızlıca giyilir.",
+      "uzunYol": "Hafif ve kompakt olduğu için tur çantasında yedek yağmurluk olarak taşınır.",
+      "yagmur": "Su geçirmez polyester kumaş yağmuru dışarıda tutar; nefes alma sınırlı olabilir.",
+      "kurye": "Ucuz bir başlangıç çözümü; gün boyu kullanımda terletebilir."
+    },
+    "verdict": "Rainwarrior Jacket, iddiası düşük ama işini yapan bir temel yağmurluk: hafif, bol kesimli ve renk seçenekli. Nefes alma beklentisi olanlar ya da gün boyu yağmurda çalışanlar daha teknik bir takıma bakmalı.",
+    "rivals": [
+      "held/rainstretch-top",
+      "scudo/peru"
+    ],
+    "faq": [
+      {
+        "q": "Pantolonu var mı?",
+        "a": "Evet, Richa aynı serinin pantolonunu Rainwarrior Trousers adıyla ayrı satıyor."
+      },
+      {
+        "q": "Kadınlar için uygun mu?",
+        "a": "Üretici ürünü unisex olarak sınıflandırıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/rainwarrior-jacket/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/rainwarrior-jacket/",
+        "type": "manufacturer",
+        "label": "Richa – Rainwarrior Jacket ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.membrane",
+      "specs.closure",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Black/Grey",
+      "Black/Red",
+      "Black/Yellow",
+      "Black/Blue"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yagmurluk",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "regenstiefel",
+    "brand": "buse",
+    "name": "Regenstiefel (Bot Yağmurluğu)",
+    "subcategories": [
+      "yagmur-aksesuari"
+    ],
+    "summary": "PU kaplı polyesterden, ön ayak altında yarım kauçuk tabanlı, arkadan tamamen açılıp çıtçıt ve cırtla kapanan, su ve rüzgar geçirmez bot yağmurluğu.",
+    "description": [
+      "Büse Regenstiefel, motosiklet botu ya da günlük ayakkabının üstüne giyilen bir bot yağmurluğu. Üst malzeme %100 polyester ve poliüretan kaplı; üretici su ve rüzgar geçirmez olduğunu belirtiyor. Ön ayağın altında yarım kauçuk taban, topuğun önünde stabilite için lastik bant var; bu, kılıfın yürürken ve vites değiştirirken ayakkabının üzerinde kaymasını azaltmaya yönelik.",
+      "Kılıf arka ortadan tamamen açılıyor ve çıtçıt ile cırtla kapanıyor; bu sayede botu çıkarmadan hızlıca giyilebiliyor. Üst kenarda ve baldır ortasında lastik büzgü bulunuyor. Bedenler XS–2XL olarak sunuluyor; numara karşılığını satın almadan önce satıcıyla teyit etmek gerekir. Kauçuk taban yalnızca ön ayakta olduğu için topuk bölgesinde kumaşın yürürken aşınması mümkün; uzun yürüyüşler için tasarlanmamış."
+    ],
+    "forWho": [
+      "Su geçirmez olmayan botla yağmura yakalanan sürücüler",
+      "Spor ayakkabıyla çalışan kuryeler",
+      "Çantada yedek koruma taşımak isteyen tur sürücüleri"
+    ],
+    "notFor": [
+      "Uzun süre yürüyecek olanlar: kauçuk taban yalnızca ön ayakta",
+      "Görünürlük katkısı isteyenler: yalnızca siyah"
+    ],
+    "pros": [
+      "Arkadan tamamen açılarak bot çıkarmadan giyiliyor",
+      "Ön ayak altında kauçuk taban ve topukta stabilite bandı",
+      "Su ve rüzgar geçirmez PU kaplı kumaş",
+      "XS–2XL geniş beden aralığı"
+    ],
+    "cons": [
+      "Topuk bölgesinde taban yok, aşınabilir",
+      "Yalnızca siyah",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yağmura yakalanınca botun üstüne geçirilen pratik bir kılıf.",
+      "kurye": "Spor ayakkabıyla çalışan kuryeler için ucuz bir koruma; sık yürüyüşte topuk bölgesi aşınabilir.",
+      "uzunYol": "Az yer kaplar, tur çantasında yedek olarak taşınır.",
+      "yagmur": "Asıl amacı bu; ayakkabıyı ve paçayı kuru tutar."
+    },
+    "verdict": "Büse Regenstiefel, yarım kauçuk tabanı ve arkadan açılan kapamasıyla basit ama iyi düşünülmüş bir bot yağmurluğu. Uzun yürüyüş için değil, sürüş sırasında ayağı kuru tutmak için; Türkiye'de bulunabilirliği sınırlı.",
+    "rivals": [
+      "lbc/bot-yagmurlugu",
+      "held/rain-skin-pro"
+    ],
+    "faq": [
+      {
+        "q": "Botu çıkarmadan giyilebilir mi?",
+        "a": "Evet. Kılıf arka ortadan tamamen açılıyor ve çıtçıt ile cırtla kapanıyor."
+      },
+      {
+        "q": "Tabanı kaymaz mı?",
+        "a": "Ön ayağın altında yarım kauçuk taban var; topuk bölgesinde ise kumaş bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.buese.com/de/buese-regenstiefel-bu189",
+    "sources": [
+      {
+        "url": "https://www.buese.com/de/buese-regenstiefel-bu189",
+        "type": "manufacturer",
+        "label": "Büse – Regenstiefel ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 polyester, poliüretan kaplı; ön ayakta yarım kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Arka ortada çıtçıt ve cırt",
+      "madeIn": null
+    }
+  }
+]

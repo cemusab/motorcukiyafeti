@@ -1,0 +1,430 @@
+[
+  {
+    "product": "hjc/smart-hjc-50b",
+    "images": [
+      {
+        "url": "https://smarthjc.com/wp-content/uploads/2023/08/50B-main.png",
+        "alt": "SMART HJC 50B kaska özel interkom",
+        "credit": "HJC",
+        "sourcePage": "https://smarthjc.com/smart-hjc-50b-2/"
+      },
+      {
+        "url": "https://smarthjc.com/wp-content/uploads/2023/08/50B-control.png",
+        "alt": "SMART HJC 50B kumanda ünitesi",
+        "credit": "HJC",
+        "sourcePage": "https://smarthjc.com/smart-hjc-50b-2/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "HALbaXTy32A",
+        "title": "SMART HJC 50B   Bağlantı, eşleştirme ve ipuçları",
+        "channel": "DRD Motorbikes",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "2M_p6aQQxIo",
+        "title": "SMART HJC 50B - Tutorial",
+        "channel": "HJC Helmets Europe",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "_Irdd3yZSNs",
+        "title": "SMART HJC 50B - Full-face Helmet Installation",
+        "channel": "HJC Helmets Europe",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "hjc/smart-hjc-21b",
+    "images": [
+      {
+        "url": "https://hjchelmets.us/cdn/shop/products/matte_black___smart_hjc_21b_1_7f1f6209-93c0-408e-aa47-6119da7ec52c.png",
+        "alt": "SMART HJC 21B Bluetooth interkom seti",
+        "credit": "HJC",
+        "sourcePage": "https://hjchelmets.us/products/smart-hjc-21b"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "4XH3U1idkws",
+        "title": "HJC Smart 21B and 50B Bluetooth Headset by Sena Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "gP2aV2AyOV8",
+        "title": "How I installed the HJC Smart 21B into a RPHA 91 Helmet",
+        "channel": "Go Far with Brent",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "shark/sena-for-shark-mesh",
+    "images": [
+      {
+        "url": "https://www.shark-helmets.com/cdn/shop/files/SENAWAVEMWSGRE_SHARK-HELMETS-SENA-FOR-SHARK-MW-SOLO-GREY_ps_01.webp",
+        "alt": "SENA for SHARK Mesh tekli set",
+        "credit": "Shark",
+        "sourcePage": "https://www.shark-helmets.com/en/products/sena-for-shark-mws-senawavemwsgre"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0918/9595/5780/files/SENAWAVEMWDGRE_SHARK-HELMETS-SENA-FOR-SHARK-MW-DUO-GREY_ps_01.webp",
+        "alt": "SENA for SHARK Mesh ikili set",
+        "credit": "Shark",
+        "sourcePage": "https://www.shark-helmets.com/en/products/sena-for-shark-mwd-senawavemwdgre"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "hitrrLxIc_A",
+        "title": "SKWAL i3   - Montage de l’intercom SENA FOR SHARK",
+        "channel": "SHARK Helmets",
+        "kind": "kurulum",
+        "lang": "fr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "x8Q66Gto1TY",
+        "title": "OXO - Montage de l’intercom SENA FOR SHARK",
+        "channel": "SHARK Helmets",
+        "kind": "kurulum",
+        "lang": "fr",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "shark/sena-for-shark-bluetooth",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0918/9595/5780/files/SENATOOTHBTSBLK_SHARK-HELMETS-SENA-FOR-SHARK-BT-SOLO-BLACK_ps_01.webp",
+        "alt": "SENA for SHARK Bluetooth tekli set",
+        "credit": "Shark",
+        "sourcePage": "https://www.shark-helmets.com/en/products/sena-for-shark-bts-senatoothbtsblk"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "nolan/n-com-mesh",
+    "images": [
+      {
+        "url": "https://nolan-helmets.com/cdn/shop/files/BNCOM00000052_NOLAN-INTERCOM-MESH_ps_01.webp",
+        "alt": "Nolan N-Com Mesh kaska özel interkom",
+        "credit": "Nolan",
+        "sourcePage": "https://nolan-helmets.com/en/products/mesh-bncom00000052"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "CcYGDjWy7Rw",
+        "title": "N-Com Bluetooth+ and Mesh on Nolan N100-6",
+        "channel": "Nolangroup Spa",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "yFF68IrcHgo",
+        "title": "N-Com Bluetooth+ and Mesh on Nolan N120-1",
+        "channel": "Nolangroup Spa",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "MEeq907d3Pw",
+        "title": "N-Com Bluetooth+ and Mesh on Nolan X-1005 UC",
+        "channel": "Nolangroup Spa",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "nolan/n-com-bluetooth-plus",
+    "images": [
+      {
+        "url": "https://nolan-helmets.com/cdn/shop/files/BNCOM00000050_NOLAN-INTERCOM-BLUETOOTH-_ps_01.webp",
+        "alt": "Nolan N-Com Bluetooth+ kaska özel interkom",
+        "credit": "Nolan",
+        "sourcePage": "https://nolan-helmets.com/en/products/bluetooth-bncom00000050"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "NJVBpog0Qjg",
+        "title": "N-Com Bluetooth+ and Mesh on Nolan N80-8",
+        "channel": "Nolangroup Spa",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "0U5ioHCb094",
+        "title": "N-Com Bluetooth+ and Mesh on Nolan N70-2 X",
+        "channel": "Nolangroup Spa",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "caberg/pro-speak-evo",
+    "images": [
+      {
+        "url": "https://www.caberg.it/_LOCAL/public/_src/theme/img/contenuto-pro-speak-evo.png",
+        "alt": "Caberg Pro Speak Evo kutu içeriği",
+        "credit": "Caberg",
+        "sourcePage": "https://www.caberg.it/en/communication-systems/"
+      },
+      {
+        "url": "https://www.caberg.it/_LOCAL/public/_src/theme/img/helmet-ready-for-pro-speak-evo.png",
+        "alt": "Pro Speak Evo'ya hazır Caberg kask",
+        "credit": "Caberg",
+        "sourcePage": "https://www.caberg.it/en/communication-systems/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "ZuKPA6CkH14",
+        "title": "HOW TO INSTALL PRO SPEAK EVO IN DRIFT EVO II BY @Paulein93",
+        "channel": "Caberg Helmets",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "schuberth/sc2",
+    "images": [
+      {
+        "url": "https://shop.schuberth.com/media/image/5a/b9/b6/SC2-Kit_hMKSdVDyieRg4_1280x1280.png",
+        "alt": "Schuberth SC2 interkom seti",
+        "credit": "Schuberth",
+        "sourcePage": "https://shop.schuberth.com/en/communication-systems/sc2/831/sc2-set"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "GyB0obYqKxo",
+        "title": "SCHUBERTH SC2 Kurulum & Bluetooth Eşleştirme Rehberi | Telefon, Mesh, Intercom | Türkçe Anlatım",
+        "channel": "MotoTAL",
+        "kind": "kurulum",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "ORd_fZ4utM8",
+        "title": "SCHUBERTH TV | How to install the SC2 communication system",
+        "channel": "SCHUBERTH Helmet",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "schuberth/sc2-standard",
+    "images": [
+      {
+        "url": "https://shop.schuberth.com/media/image/ca/b7/5f/SC2-Kit_eCrdC1u2otk0v_1280x1280.png",
+        "alt": "Schuberth SC2 Standard interkom seti",
+        "credit": "Schuberth",
+        "sourcePage": "https://shop.schuberth.com/en/communication-systems/sc2-standard/919/sc2-standard-set"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "schuberth/sc-edge",
+    "images": [
+      {
+        "url": "https://shop.schuberth.com/media/image/d7/fe/c9/SC-Edge_1280x1280.png",
+        "alt": "Schuberth SC EDGE interkom",
+        "credit": "Schuberth",
+        "sourcePage": "https://shop.schuberth.com/en/communication-systems/sc-edge/920/sc-edge-set"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "HRqK5eJ-CJY",
+        "title": "SCHUBERTH SC2 EDGE Kurulum & Bluetooth Eşleştirme Rehberi | Telefon, Mesh, Intercom | Türkçe Anlatım",
+        "channel": "MotoTAL",
+        "kind": "kurulum",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "Mo0xGLk3OZI",
+        "title": "SCHUBERTH TV | How to install, pair and get started with your SC EDGE",
+        "channel": "SCHUBERTH Helmet",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "nexx/x-com3",
+    "images": [
+      {
+        "url": "https://nexx-helmets.com/wp-content/uploads/2024/02/XCOM3_1-1024x1024.png",
+        "alt": "Nexx X-COM3 kaska özel interkom",
+        "credit": "Nexx",
+        "sourcePage": "https://nexx-helmets.com/en/accessories/x-com3/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "kfyzFzIfs-4",
+        "title": "How to Install the X-Com3 in the NEXX X.WED3 Helmet",
+        "channel": "Shopena",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "nexx/x-com3-pro",
+    "images": [
+      {
+        "url": "https://nexx-helmets.com/wp-content/uploads/2024/02/XCOM3PRO_1-1024x1024.png",
+        "alt": "Nexx X-COM3 PRO kaska özel Mesh interkom",
+        "credit": "Nexx",
+        "sourcePage": "https://nexx-helmets.com/en/accessories/x-com3-pro/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "eTzpozZDHBQ",
+        "title": "NEXX X-COM3 PRO | Mesh 3.0 + Wave Intercom",
+        "channel": "NEXX Helmets",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "airoh/awc4",
+    "images": [
+      {
+        "url": "https://www.airoh.com/wp-content/uploads/2025/09/awc4_prodotto.webp",
+        "alt": "Airoh AWC4 interkom",
+        "credit": "Airoh",
+        "sourcePage": "https://www.airoh.com/prodotto/awc4-break-the-silence/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "ftcI8--lPAA",
+        "title": "AWC4 and AWC2, the new Airoh Communication Systems to break the silence",
+        "channel": "Airoh Official",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "airoh/awc2",
+    "images": [
+      {
+        "url": "https://www.airoh.com/wp-content/uploads/2025/09/awc2_prodotto.webp",
+        "alt": "Airoh AWC2 interkom",
+        "credit": "Airoh",
+        "sourcePage": "https://www.airoh.com/prodotto/awc2-follow-the-sound/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "BRULnsNgmCY",
+        "title": "AIROH AWC2 AND AWC4 COMMUNICATION SYSTEMS",
+        "channel": "Airoh USA",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "ls2/spectrum-evo",
+    "images": [
+      {
+        "url": "https://static.ls2helmets.com/items/processed/800700008/gray/jpg/8007000081780045744_600.jpg",
+        "alt": "LS2 Intercom Spectrum EVO",
+        "credit": "LS2",
+        "sourcePage": "https://ls2helmets.com/accessories/ls2-intercom/ls2-intercom-spectrum-evo"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "ADDEjb3nv0Y",
+        "title": "LS2 Spectrum Evo",
+        "channel": "Midland World",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "product": "givi/i319s",
+    "images": [
+      {
+        "url": "https://media.givi.it/XN-Prodotti/foto/I319S.jpg",
+        "alt": "GIVI I319S kaska özel interkom",
+        "credit": "GIVI",
+        "sourcePage": "https://www.givi.it/prodotti-givi/caschi-per-moto-e-scooter/optional-caschi/i319s"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "agv/insyde",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/0609a9a6-5abc-4199-95ca-9091674fd346/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "AGV Insyde entegre interkom",
+        "credit": "AGV",
+        "sourcePage": "https://www.agv.com/it/en/agv-insyde---integrated-intercom-communication-system-for-tourmodular-and-k7-20KIT93024001.html"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "7Tg-jEhY1kY",
+        "title": "Agv INSYDE - Tourmodular Kask Entegre Interkom",
+        "channel": "Mototaş",
+        "kind": "inceleme",
+        "lang": "tr",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "youtubeId": "BoU0e2wMFrE",
+        "title": "AGV INSYDE tutorial | Tourmodular",
+        "channel": "AGV Helmets",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3135 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "roma",
+    "brand": "scudo",
+    "name": "Roma",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "600D Oxford polyesterden, çıkarılabilir rüzgar ve su geçirmez içlikli, EN 17092-4 A sınıfı sertifikalı, uygun fiyatlı yerli 4 mevsim erkek montu.",
+    "description": [
+      "Roma, Scudo'nun erkek tekstil mont serisinde 4 mevsim kullanıma yönelik giriş-orta segment modeli. Dış kabuk %100 polyester 600D Oxford kumaştan; içine fermuarla takılan rüzgar ve su geçirmez bir içlik geliyor. Böylece yazın içlik çıkarılıp tek katman, serin ve yağışlı günlerde içlikle birlikte kullanılabiliyor. Belde ve kol manşetlerinde ayar, belde pantolon bağlantı fermuarı ve YKK ön fermuar bulunuyor.",
+      "Üretici montu EN 17092-4:2020 A sınıfında sertifikalandırdığını belirtiyor; sırt, dirsek ve omuzlarda CE sertifikalı korumalar standart geliyor. Ürün sayfası koruyucuların seviyesini yazmıyor. 360 derece görülebilir reflektif detaylar gece ve yağmurlu havada görünürlük sağlıyor. Fiyatı ithal 4 mevsim montların çok altında; buna karşılık membran, havalandırma ve kalıp detaylarında üst segment kadar gelişmiş değil."
+    ],
+    "forWho": [
+      "Şehir içinde her gün motosiklete binen ve tek montla yıl boyu idare etmek isteyen sürücüler",
+      "Sınırlı bütçeyle CE sertifikalı, sırt korumalı bir mont arayanlar",
+      "Kuryelik veya iş için motor kullanan ve reflektif görünürlüğü önemseyenler"
+    ],
+    "notFor": [
+      "Uzun turlarda ağır yağmura saatlerce maruz kalacak sürücüler: su geçirmezlik yalnız içlikte, dış kabuk ıslanıp ağırlaşır",
+      "AA/AAA sınıfı yüksek aşınma koruması isteyen hızlı sürücüler"
+    ],
+    "pros": [
+      "EN 17092-4:2020 A sınıfı sertifika ve standart sırt koruması",
+      "Çıkarılabilir rüzgar ve su geçirmez içlikle 4 mevsim kullanım",
+      "360 derece reflektif detaylar",
+      "Pantolon bağlantı fermuarı ve ayarlanabilir bel/kol"
+    ],
+    "cons": [
+      "Koruyucuların EN 1621 seviyesi ürün sayfasında belirtilmiyor",
+      "Membran içte olduğu için yağmurda dış kumaş su alır",
+      "Havalandırma fermuarı bilgisi yok; çok sıcak günlerde içliksiz bile yetersiz kalabilir"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı. Dur-kalk trafikte rahat, cepleri ve ayarları günlük kullanıma uygun.",
+      "uzunYol": "Kısa-orta mesafe turlarda iş görür; uzun yağmurlu etaplarda içten membran yapısı sınırlayıcı olur.",
+      "yaz": "İçlik çıkarılınca giyilebilir ama file panelli yazlık bir mont kadar serin değil.",
+      "kis": "İçlik rüzgarı keser; dondurucu soğukta altına polar veya termal katman eklemek gerekir.",
+      "yagmur": "Kısa yağmurda içlik vücudu kuru tutar; dış kabuk ıslanır ve kuruması zaman alır.",
+      "sport": "Sport kalıp ve yüksek sınıf sertifika yok; pist veya agresif sürüş için tasarlanmamış.",
+      "kurye": "Fiyatı, reflektifleri ve 4 mevsim yapısıyla kurye için mantıklı bir seçenek; yoğun yağmurda üstüne yağmurluk önerilir."
+    },
+    "verdict": "Roma, CE A sınıfı sertifikası ve standart sırt korumasıyla bütçe dostu bir yıl boyu kullanılabilecek şehir montu. Kurye ve günlük kullanıcı için fiyat/performans güçlü; ağır yağmur ve uzun tur için içten membranın sınırlarını bilerek alınmalı.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "lbc/911-couger",
+      "tech90/vecton-4-mevsim-kevlar"
+    ],
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-roma-4-mevsim-erkek-motosiklet-ceketi-siyah-gri-2xl",
+        "price": 7490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL"
+        ],
+        "colors": [
+          "Siyah/Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Roma tamamen su geçirmez mi?",
+        "a": "Su geçirmezlik çıkarılabilir içlikten geliyor. Dış kumaş yağmurda ıslanır ama içlik takılıyken vücuda su geçmesini engeller; uzun ve şiddetli yağmurda üstüne yağmurluk giyilmesi daha doğru."
+      },
+      {
+        "q": "Sırt koruması dahil mi?",
+        "a": "Evet. Scudo sırt, dirsek ve omuz korumalarını montla birlikte veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-roma-4-mevsim-erkek-motosiklet-ceketi-siyah-gri-2xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-roma-4-mevsim-erkek-motosiklet-ceketi-siyah-gri-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Roma 4 Mevsim Erkek Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah/Gri",
+      "Siyah/Kırmızı",
+      "Siyah/Mavi",
+      "Siyah/Sarı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "%100 polyester 600D Oxford dış kumaş, çıkarılabilir rüzgar ve su geçirmez içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir rüzgar ve su geçirmez içlik",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "YKK ön fermuar, ayarlanabilir bel ve kol manşetleri, belde pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 7490,
+      "max": 7490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile %7 indirimli."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "milano",
+    "brand": "scudo",
+    "name": "Milano",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ön ve arka gövdesi file kumaştan, ImpacTec omuz-dirsek-sırt korumalı, EN 17092-4 A sınıfı ve S'den 10XL'e kadar beden seçeneği olan yerli yazlık mont.",
+    "description": [
+      "Milano, Scudo'nun erkek yazlık fileli ceketi. Ön ve arka gövdede hava alan file kumaş, kollarda esnek kumaş kullanılıyor; iç tarafta yumuşak bir astar var. Ön fermuarın arkasındaki rüzgar paneli göğse doğrudan çarpan havayı kesiyor. İçte biri fermuarlı iki geniş cep, önde iki fermuarlı cep ve YKK fermuarlar bulunuyor. Arkadaki kot halkası ceketin sürüşte yukarı kaymasını engelliyor.",
+      "Üretici, Milano için EN 17092-4:2020 A sınıfı sertifikayı ve omuz-dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumaları belirtiyor; sırt koruması standart geliyor. Korumalar kol boyuna göre ayarlanabiliyor. Sırtta, kol yanlarında ve önde reflektif şerit ve logo var. Beden aralığının 10XL'e kadar çıkması, iri yapılı sürücüler için Türkiye pazarında nadir bir avantaj."
+    ],
+    "forWho": [
+      "Yazın şehir içinde ve kısa yollarda serin kalmak isteyen sürücüler",
+      "Büyük beden (5XL–10XL) korumalı mont bulmakta zorlanan sürücüler",
+      "Yaz aylarında çalışan ve sırt korumalı hafif mont arayan kuryeler"
+    ],
+    "notFor": [
+      "Yağmurda kullanmak isteyenler: su geçirmez katman yok",
+      "Serin bahar/sonbahar sabahları tek mont isteyenler",
+      "Yıl boyu tek montla çalışacak kuryeler; kış ve yağmur için ikinci bir mont veya yağmurluk gerekir"
+    ],
+    "pros": [
+      "EN 17092-4:2020 A sınıfı, EN 1621 sertifikalı omuz-dirsek-sırt korumaları dahil",
+      "Ön ve arka file paneller ile iyi hava akışı",
+      "S'den 10XL'e kadar çok geniş beden aralığı",
+      "Kot halkası ve ayarlanabilir koruyucu yerleşimi"
+    ],
+    "cons": [
+      "Su geçirmez veya termal katman yok",
+      "Koruyucuların seviyesi (Level 1/2) belirtilmiyor",
+      "File yapı nedeniyle düşmede aşınma dayanımı AA sınıfı montların gerisinde"
+    ],
+    "usage": {
+      "sehir": "Yaz trafiğinde iyi; file gövde durunca da kısmen nefes alır.",
+      "uzunYol": "Sıcak havada kısa-orta turlar için uygun; rüzgar ve yağışa karşı ek katman taşımak gerekir.",
+      "yaz": "Asıl hedefi bu. Ön ve arka file sayesinde hareket halinde serin tutar.",
+      "kis": "Uygun değil; termal astarı yok.",
+      "yagmur": "Su geçirmez değil, üstüne yağmurluk giyilmeli.",
+      "sport": "Sport kalıp ve yüksek sınıf koruma sunmuyor.",
+      "kurye": "Yaz aylarında kuryelik için iyi; yağmurlu günlerde mutlaka yağmurlukla birlikte kullanılmalı."
+    },
+    "verdict": "Milano, sertifikalı korumaları standart sunan, uygun fiyatlı ve çok geniş beden aralıklı bir yazlık file mont. Sıcak aylarda şehir ve kurye kullanımı için mantıklı; yağmur ve soğuk için tek başına yeterli değil.",
+    "rivals": [
+      "yaren-tekstil/yrn-1390-yazlik",
+      "tex-motor/forte-gt-inferno",
+      "ixon/striker-2-air-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "price": 9390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL",
+          "6XL",
+          "7XL",
+          "8XL",
+          "9XL",
+          "10XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Milano hangi bedenlerde var?",
+        "a": "Scudo resmi mağazasında S'den 10XL'e kadar beden seçeneği listeleniyor; stok bedene göre değişebilir."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "File gövde su geçirmez değil. Yağmurda üstüne motosiklet yağmurluğu giyilmesi gerekir."
+      },
+      {
+        "q": "Korumalar hangi standartta?",
+        "a": "Üretici omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumalar kullandığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "type": "manufacturer",
+        "label": "Scudo – Milano Yazlık Fileli Erkek Motosiklet Ceketi ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Gri",
+      "Mavi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL",
+      "7XL",
+      "8XL",
+      "9XL",
+      "10XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Polyester; ön ve arka gövdede file kumaş, kollarda esnek kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön ve arka gövdede file kumaş",
+      "closure": "YKK ön fermuar ve rüzgar paneli, belde ayar kayışı, manşet ve üst kolda ayar tırnağı, kot halkası",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 9390,
+      "max": 9390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile indirim uygulanıyor."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "lisbon-kadin",
+    "brand": "scudo",
+    "name": "Lisbon Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ön, arka ve kollarında file paneller, çıkarılabilir rüzgar ve su geçirmez içlik ve EN 17092-4 A sertifikası olan, kadın kalıplı yerli 4 mevsim mont.",
+    "description": [
+      "Lisbon, Scudo'nun kadın kalıplı 4 mevsim ceketi. Ana kumaş %100 polyester 600D Oxford; ön, arka ve kollarda file paneller var. Sıcak havada file bölgeler hava aldırıyor, serin ve yağışlı günlerde ise çıkarılabilir rüzgar ve su geçirmez içlik takılıyor. İki iç, iki yan cep, ayarlanabilir bel ve kol manşetleri, belde pantolon bağlantı fermuarı ve YKK ön fermuar standart.",
+      "Üretici montu EN 17092-4:2020 A sınıfında sertifikalandırıyor ve sırt, kol ve omuzda CE sertifikalı korumaları montla birlikte veriyor. 360 derece reflektif detay şehir trafiğinde görünürlüğü artırıyor. File panelli dış kabuk ile içlik kombinasyonu, aynı serideki Lyon'a göre yaz tarafına daha yakın bir denge kuruyor."
+    ],
+    "forWho": [
+      "Şehir içinde ve kısa yollarda yıl boyu tek mont kullanmak isteyen kadın sürücüler",
+      "Bütçe dostu, sertifikalı ve sırt korumalı kadın montu arayanlar",
+      "Yazın da serin kalmak isteyen ama içlikle bahar/sonbaharı da kapatmak isteyenler"
+    ],
+    "notFor": [
+      "Şiddetli yağmurda uzun süre sürecek olanlar: file dış kabuk ıslanır, koruma içlikte",
+      "Dondurucu kış koşulları; termal kapitone katman yok",
+      "Uzun vardiyalı kurye kullanımı için tek mont olarak sınırlı; yağmur için ek yağmurluk gerekir"
+    ],
+    "pros": [
+      "Kadın kalıbı ve XS'den başlayan beden aralığı",
+      "File paneller + çıkarılabilir su geçirmez içlik ile esnek kullanım",
+      "EN 17092-4:2020 A sınıfı ve standart sırt koruması",
+      "360 derece reflektif detaylar"
+    ],
+    "cons": [
+      "Koruyucuların standart ve seviyesi ürün sayfasında yazmıyor",
+      "Termal içlik yok; soğukta ek katman gerekir",
+      "Beden aralığı XL'de bitiyor"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir sürüşü için tasarlanmış; cepleri ve ayarları pratik.",
+      "uzunYol": "Ilık havada kısa turlarda yeterli; uzun yağmurlu yolculukta yağmurluk gerekir.",
+      "yaz": "İçlik çıkarıldığında file paneller sayesinde serin.",
+      "kis": "İçlik rüzgarı keser ama ısı yalıtımı sınırlı; altına termal katman giyilmeli.",
+      "yagmur": "İçlik takılıyken kısa yağmurda kuru tutar; dış kumaş ıslanır.",
+      "sport": "Sport sürüş için kalıplanmamış.",
+      "kurye": "Ara sıra paket teslimatı için uygun; sürekli kuryelikte yağmur ve kış için ek ekipman gerekir."
+    },
+    "verdict": "Lisbon, file panelleri ve su geçirmez içliğiyle şehirde yıl boyu kullanılabilecek, uygun fiyatlı ve sertifikalı bir kadın montu. Yaz ağırlıklı kullanıp bahar ve sonbaharı da kapatmak isteyen kadın sürücüler için dengeli bir seçim.",
+    "rivals": [
+      "scudo/lyon-kadin",
+      "scudo/paris-kadin",
+      "tex-motor/forte-gt-inferno-kadin"
+    ],
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-lisbon-4-mevsim-kadin-motosiklet-ceketi-siyah-gri-xs",
+        "price": 7490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah/Gri"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Lisbon ile Lyon arasındaki fark ne?",
+        "a": "İkisi de Scudo'nun kadın 4 mevsim montları. Lisbon'un ön, arka ve kollarında file paneller var; bu yüzden yaz tarafında daha serin, içlik takıldığında ise ara mevsimlere uyum sağlıyor."
+      },
+      {
+        "q": "Sırt koruması dahil mi?",
+        "a": "Evet, sırt, kol ve omuz korumaları montla birlikte geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-lisbon-4-mevsim-kadin-motosiklet-ceketi-siyah-gri-xs",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-lisbon-4-mevsim-kadin-motosiklet-ceketi-siyah-gri-xs",
+        "type": "manufacturer",
+        "label": "Scudo – Lisbon 4 Mevsim Kadın Motosiklet Ceketi ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah/Gri",
+      "Siyah/Pembe"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "%100 polyester 600D Oxford; ön, arka ve kollarda file paneller; çıkarılabilir rüzgar ve su geçirmez içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir rüzgar ve su geçirmez içlik",
+      "airbagCompatible": null,
+      "ventilation": "Ön, arka ve kollarda file kumaş",
+      "closure": "YKK ön fermuar, ayarlanabilir bel ve kol manşetleri, pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 7490,
+      "max": 7490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Kredi kartı fiyatı; havale/EFT ile indirim uygulanıyor."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-inferno",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001072 Inferno",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ripstop file dış katman, çıkarılabilir yağmurluk ve kapitone içlikten oluşan üç katmanlı, EN 17092-4 sertifikalı, Türkiye üretimi 4 mevsim erkek montu.",
+    "description": [
+      "Forte GT Inferno, Tex Motor'un kendi markası Forte GT altında satılan erkek 4 mevsim montu. Sistem üç katmandan oluşuyor: ripstop dokulu, fileli bir dış kabuk; suya ve rüzgara dayanıklı, membranlı çıkarılabilir bir yağmurluk; soğuk günler için çıkarılabilir kapitone termal içlik. Katmanlar birlikte ya da ayrı kullanılabildiği için yazın tek kat file, kışın üç kat giyilebiliyor.",
+      "Üretici montun EN 17092-4:2020 standardına uygun olduğunu, omuz, dirsek ve sırtta EN 1621 standardına uygun korumalar bulunduğunu belirtiyor; sınıf harfi ve koruyucu seviyesi sayfada yazmıyor. Bel, kol ve bilekte ayar, reflektif şeritler ve S–6XL beden aralığı var. Ürün Türkiye'de üretiliyor; Tex Motor sitesinden online satış yapılmıyor, bayiler üzerinden satılıyor."
+    ],
+    "forWho": [
+      "Uygun bütçeyle yıl boyu tek mont kullanmak isteyen şehir sürücüleri",
+      "Yazın file, kışın kapitone içlikle kullanacak kurye ve işe gidip gelen sürücüler",
+      "Büyük beden (6XL'e kadar) arayanlar"
+    ],
+    "notFor": [
+      "Yüksek aşınma sınıfı (AA/AAA) isteyen hızlı tur ve sport sürücüler",
+      "Gün boyu şiddetli yağmurda çalışan kuryeler: yağmurluk katmanı 'suya dayanıklı' olarak tanımlanıyor, tam su geçirmezlik iddiası yok"
+    ],
+    "pros": [
+      "Üç katmanlı sistem: file dış kabuk, yağmurluk ve kapitone içlik",
+      "Omuz, dirsek ve sırt korumaları dahil",
+      "S–6XL geniş beden aralığı ve Türkiye üretimi",
+      "Reflektif şeritler"
+    ],
+    "cons": [
+      "EN 17092 sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Yağmurluk katmanı için su geçirmezlik değeri verilmiyor",
+      "Resmi sitede online satış yok, fiyat liste fiyatı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda pratik; ayarlanabilir bel ve kol ile katmanlar arasında iyi oturur.",
+      "uzunYol": "Ilıman havada turlarda kullanılabilir; uzun yağmurda yağmurluk katmanının sınırları görülebilir.",
+      "yaz": "Katmanlar çıkarılınca file dış kabuk hava aldırır.",
+      "kis": "Kapitone içlik ve yağmurluk birlikte takıldığında şehir içi kış kullanımına yeterli sıcaklık sağlar.",
+      "yagmur": "Yağmurluk katmanı kısa yağmurda korur; ağır ve uzun yağmurda ek yağmurluk önerilir.",
+      "sport": "Sport sürüş için tasarlanmamış.",
+      "kurye": "4 mevsim yapısı ve reflektifleriyle kurye için uygun bir bütçe seçeneği."
+    },
+    "verdict": "Inferno, üç katmanlı yapısıyla tek montla dört mevsimi kapatmak isteyen bütçe odaklı sürücüye hitap ediyor. Korumalar dahil ve beden aralığı geniş; sınıf harfi ve su geçirmezlik değeri belirtilmediği için yüksek beklentili tur sürücüsü daha üst segment bakmalı.",
+    "rivals": [
+      "scudo/roma",
+      "lbc/911-couger",
+      "tex-motor/forte-gt-assos-adventure"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001072-inferno/",
+        "price": 7300,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL",
+          "6XL"
+        ],
+        "colors": [
+          "Taş"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Inferno su geçirmez mi?",
+        "a": "Üretici çıkarılabilir yağmurluk katmanını suya ve rüzgara dayanıklı, membranlı olarak tanımlıyor. Su geçirmezlik değeri verilmediği için uzun yağmurda ek yağmurluk düşünülmeli."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Evet, aynı modelin kadın kalıplı Forte GT Inferno Kadın versiyonu da satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001072-inferno/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001072-inferno/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001072 Inferno Erkek Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizeChart"
+    ],
+    "colors": [
+      "Taş",
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Ripstop dokulu file dış katman, çıkarılabilir membranlı yağmurluk, çıkarılabilir kapitone termal içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Çıkarılabilir membranlı yağmurluk katmanı (suya ve rüzgara dayanıklı)",
+      "airbagCompatible": null,
+      "ventilation": "Fileli dış katman",
+      "closure": "Bel, kol ve bilekte ayar",
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 7300,
+      "max": 7300,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-assos-adventure",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001089 Assos Adventure",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Uzun adventure kesimli, Oxford ripstop kumaşlı, açılır göğüs ve sırt havalandırmalı, çıkarılabilir kapitone içlikli ve EN 17092-4 sertifikalı yerli touring montu.",
+    "description": [
+      "Assos Adventure, Forte GT serisinin uzun yol ve adventure kullanıcısına yönelik modeli. Gövde uzun kesimli; dış kumaş yırtılmaya dirençli Oxford ripstop. Çıkarılabilir kapitone içlik soğukta sıcaklık sağlıyor, çıkarıldığında mont hafifleyip nefes alır hale geliyor. Göğüste açılıp kapanan havalandırmalar, sırtta ise yukarı sabitlenebilen geniş bir panel var; panel açıldığında arka yüzey file olarak çalışıyor.",
+      "Üretici EN 17092-4:2020 CE sertifikasını, omuz, dirsek ve sırtta Flexist Protect ve Muon Protect teknolojili korumaları ve Level 1 ile Level 2 seçenekleri olduğunu belirtiyor. Suya dayanıklı sırt harita cebi, geniş kargo ve göğüs cepleri, yanlarda açılabilir paneller ve reflektif hatlar mevcut. Ürün sayfasında ayrı bir yağmurluk veya su geçirmez membran katmanından söz edilmiyor."
+    ],
+    "forWho": [
+      "Adventure veya touring motosikletle uzun yol yapan, çok cep isteyen sürücüler",
+      "Sıcak günlerde güçlü havalandırma, serin günlerde içlik isteyenler",
+      "Yerli üretim ve uygun fiyatlı adventure görünümlü mont arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda tek başına güvenilecek mont arayanlar: su geçirmez katman belirtilmiyor",
+      "Yağmurda da çalışan kuryeler; yağmurluk olmadan kurye kullanımı için uygun değil",
+      "Yüksek aşınma sınıfı isteyen sürücüler"
+    ],
+    "pros": [
+      "Açılır göğüs havalandırmaları ve geniş sırt paneli",
+      "Çıkarılabilir kapitone içlik",
+      "Çok sayıda kargo ve göğüs cebi, suya dayanıklı harita cebi",
+      "Level 1/Level 2 koruma seçenekleri"
+    ],
+    "cons": [
+      "Su geçirmez membran veya yağmurluk katmanı belirtilmiyor",
+      "EN 17092 sınıf harfi yazmıyor",
+      "Beden aralığı ürün sayfasında listelenmiyor"
+    ],
+    "usage": {
+      "sehir": "Uzun kesimi şehirde de rahat; cepler günlük kullanımda pratik.",
+      "uzunYol": "Asıl hedefi bu; cep düzeni ve havalandırması uzun etaplara göre tasarlanmış.",
+      "yaz": "Sırt paneli ve göğüs havalandırmaları açıldığında sıcak havada iyi hava akışı sağlar.",
+      "kis": "Kapitone içlik takılıyken serin havaya uygun; kış ortasında rüzgar ve yağmur katmanı eksik kalır.",
+      "yagmur": "Su geçirmez katman belirtilmediği için yağmurluk şart.",
+      "sport": "Sport sürüş için değil.",
+      "kurye": "Havalandırması güçlü ama yağmur koruması belirtilmediği için kurye için yağmurlukla birlikte düşünülmeli."
+    },
+    "verdict": "Assos Adventure, adventure kesimi, havalandırma çözümleri ve cep düzeniyle bütçe dostu bir uzun yol montu. Yağmur katmanı belirtilmediği için yağışlı iklimde mutlaka ayrı yağmurlukla kullanılmalı.",
+    "rivals": [
+      "richa/infinity-3-adventure",
+      "ixon/odin",
+      "tex-motor/forte-gt-inferno"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+        "price": 7175,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Assos Adventure su geçirmez mi?",
+        "a": "Ürün sayfası yırtılmaya dirençli Oxford ripstop kumaş ve suya dayanıklı harita cebinden söz ediyor; ayrı bir su geçirmez membran belirtmiyor. Yağmurda yağmurluk kullanılmalı."
+      },
+      {
+        "q": "Korumalar hangi seviyede?",
+        "a": "Üretici Flexist Protect ve Muon Protect korumalar için Level 1 ve Level 2 seçenekleri olduğunu belirtiyor; satın alırken hangi seviyenin takılı geldiği bayiye sorulmalı."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001089 Assos Adventure Mont Siyah ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Taş"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Oxford ripstop polyester dış kumaş, çıkarılabilir kapitone içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Açılır göğüs havalandırmaları, sırtta yukarı sabitlenebilen geniş file panel, yanlarda açılabilir paneller",
+      "closure": null,
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 7175,
+      "max": 7175,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "yrn-8002-dyneema",
+    "brand": "yaren-tekstil",
+    "name": "YRN-8002 Dyneema Motorcu Mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Dyneema kumaştan üretilen, EN 17092-3:2020 AA sınıfı sertifikalı, ImpacTec omuz-dirsek-sırt korumalı ve EN 20471 reflektifli yerli motosiklet montu.",
+    "description": [
+      "YRN-8002, Yaren Tekstil'in Dyneema kumaşla ürettiği özel koleksiyonun montu. Dyneema, ağırlığına göre çok yüksek çekme dayanımı olan bir UHMWPE elyafı; motosiklet giyiminde aşınma ve yırtılma direncini artırmak için kullanılıyor. Üretici bu takımın EN 17092-3:2020 AA sınıfında sertifikalı olduğunu belirtiyor; bu, şehir ve tur kullanımında A sınıfına göre belirgin biçimde daha yüksek aşınma koruması demek.",
+      "İçte fermuarla ayrılabilen, delikli 110 gr/m² raşel file astar var. Omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumalar kullanılıyor. Reflektifler EN 20471 standardında DM 6101 marka. Önü fermuarlı, mostrada iç cebi, ayarlanabilir bel kemeri, pazu ve kol kırımında çıtçıtlı ayar patları, yaka ve kol ağzı ayarı bulunuyor. Ürün sayfası membran, termal astar ya da havalandırma fermuarından söz etmiyor."
+    ],
+    "forWho": [
+      "Yerli üretimde AA sınıfı aşınma koruması arayan sürücüler",
+      "Her gün yoğun trafikte çalışan ve sağlam kumaş isteyen kuryeler (kuru havada)",
+      "Görünürlüğü yüksek, sertifikalı reflektif isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda kullanacak olanlar: su geçirmez membran belirtilmiyor",
+      "Kışın tek mont olarak kullanmak isteyenler; termal katman yok",
+      "Yağmurlu günlerde de çalışan kuryeler için yağmurluksuz uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı (üreticinin beyanı)",
+      "Dyneema kumaş ile yüksek aşınma ve yırtılma direnci",
+      "EN 1621-1/EN 1621-2 sertifikalı ImpacTec omuz, dirsek ve sırt korumaları",
+      "EN 20471 standardında reflektif malzeme"
+    ],
+    "cons": [
+      "Su geçirmezlik, termal astar ve havalandırma bilgisi yok",
+      "Sertifika metni takım (mont + pantolon) için yazılmış; montun tek başına sınıfı ayrıca belirtilmemiş",
+      "Renk seçeneği yalnız siyah"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir kullanımına uygun; ayar patları sayesinde farklı vücut tiplerine oturtulabilir.",
+      "uzunYol": "Kuru havada turda yüksek aşınma koruması sağlar; yağmur ve soğuk için ek katman taşımak gerekir.",
+      "yaz": "File astarlı ama havalandırma fermuarı belirtilmiyor; çok sıcakta file montlar kadar serin değil.",
+      "kis": "Termal katman yok; kış için altına sıcak tutan katman gerekir.",
+      "yagmur": "Su geçirmez değil kabul edilmeli; yağmurluk gerekir.",
+      "sport": "Sport kalıp değil ama AA sınıfı aşınma koruması hızlı yol sürüşünde avantaj.",
+      "kurye": "Sağlam kumaşı ve reflektifleriyle kuru havada kurye için güçlü; yağmurda yağmurlukla kullanılmalı."
+    },
+    "verdict": "YRN-8002, Dyneema kumaşı ve AA sınıfı beyanıyla Türk üreticiler arasında aşınma koruması yüksek, iddialı bir mont. Yağmur ve soğuk için katman sunmadığından mevsim esnekliği değil, koruma öncelikli sürücüye uygun.",
+    "rivals": [
+      "tech90/vecton-4-mevsim-kevlar",
+      "scudo/roma",
+      "yaren-tekstil/yrn-1493-kislik-kurye"
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi mağaza)",
+        "url": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+        "price": 13000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Dyneema nedir, neden önemli?",
+        "a": "Dyneema, çok yüksek dayanımlı bir polietilen elyafı. Motosiklet montunda aşınmaya ve yırtılmaya karşı direnci artırmak için kullanılıyor; üretici bu takım için EN 17092-3 AA sınıfı beyan ediyor."
+      },
+      {
+        "q": "Mont su geçirmez mi?",
+        "a": "Ürün sayfasında su geçirmez membrandan söz edilmiyor. Yağmurda motosiklet yağmurluğu ile kullanılmalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – Dyneema Motorcu Mont (YRN-8002) ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.season",
+      "specs.waterproof",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Dyneema dış kumaş, fermuarla ayrılabilen delikli 110 gr/m² raşel file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ön fermuar, ayarlanabilir bel kemeri, pazu ve kol kırımında çıtçıtlı ayar patları, ayarlanabilir yaka ve kol ağzı",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 13000,
+      "max": 13000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "yrn-1493-kislik-kurye",
+    "brand": "yaren-tekstil",
+    "name": "YRN-1493 Kışlık Moto Kurye Mont",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "600D polyester dış kumaş, 10.000 mm su sütunlu membran, bantlı dikişler, ısı yalıtım içliği ve EN 17092-4 A sınıfı sertifikayla kurye kullanımı için tasarlanmış yerli kışlık mont.",
+    "description": [
+      "YRN-1493, Yaren Tekstil'in perakende satılan kışlık moto kurye montu. Yapı dört katmandan oluşuyor: aşınmaya dayanıklı 600D kalın polyester dış kumaş, su geçirmez ve nefes alabilen membranla lamine edilmiş iki katlı bariyer kumaş, file astar ve ısı yalıtım içliği. Bariyer kumaş 10.000 mm su sütunu basınca dayanıyor ve dikiş yerleri kaynak bandıyla izole edilmiş. Üretici yine de ürünün su geçirmezlik teknolojisiyle üretildiğini ama su geçirmezlik garantisi vermediğini açıkça yazıyor.",
+      "Mont EN 17092-4:2020 A sınıfı sertifikalı. Omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 sertifikalı ImpacTec korumalar var. Reflektifler EN 471 standardına uygun. Firma kurumsal siparişlerde logo nakışı veya baskısı yapabiliyor. Ürün kontrol tarihinde resmi mağazada 'tükendi' olarak görünüyordu."
+    ],
+    "forWho": [
+      "Kışın her gün yağmur ve soğukta teslimat yapan moto kuryeler",
+      "Uygun fiyatlı, membranlı ve sırt korumalı kışlık mont arayan şehir sürücüleri",
+      "Ekibine logolu kurye montu almak isteyen işletmeler"
+    ],
+    "notFor": [
+      "Yaz aylarında kullanım: ısı yalıtım içliği ve membran sıcakta terletir",
+      "Hafif ve sportif kalıp arayanlar"
+    ],
+    "pros": [
+      "10.000 mm su sütunlu laminasyon membran ve bantlı dikişler",
+      "EN 17092-4:2020 A sınıfı ve EN 1621 sertifikalı omuz, dirsek, sırt korumaları",
+      "Isı yalıtım içliği ile kışlık kullanım",
+      "Reflektif malzeme ve geniş beden aralığı (S–5XL)"
+    ],
+    "cons": [
+      "Üretici su geçirmezlik garantisi vermiyor",
+      "Kontrol tarihinde stokta yok görünüyordu",
+      "Havalandırma ve ayar detayları ürün sayfasında belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için tasarlanmış; kalın ve korunaklı.",
+      "uzunYol": "Soğuk ve yağışlı havada şehirlerarası kısa yolculuklarda iş görür.",
+      "yaz": "Uygun değil; sıcakta fazla ısıtır.",
+      "kis": "Asıl hedefi bu; ısı yalıtım içliği ve rüzgar kesen membran soğukta korur.",
+      "yagmur": "Laminasyon membran ve bantlı dikişler yağmura karşı iyi bir bariyer; yine de üretici garanti vermiyor.",
+      "sport": "Sport kullanım için tasarlanmamış.",
+      "kurye": "Doğrudan kurye için tasarlanmış: membran, reflektif ve korumalar dahil; perakendede bireysel olarak da satılıyor."
+    },
+    "verdict": "YRN-1493, kış ve yağmurda çalışan kurye için doğrudan tasarlanmış, uygun fiyatlı ve sertifikalı bir mont. Laminasyon membranı ve bantlı dikişleri güçlü yanı; stok durumu ve garantisiz su geçirmezlik ifadesi ise satın almadan önce dikkate alınmalı.",
+    "rivals": [
+      "scudo/roma",
+      "bering/halifax",
+      "ixon/odin"
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi mağaza)",
+        "url": "https://www.yarentekstil.com/yrn-1493-kislik-moto-kurye-mont-kislik-moto-kurye-mont",
+        "price": 5390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "YRN-1493 bireysel olarak satın alınabilir mi?",
+        "a": "Evet. Yaren'in firmalara özel (perakende satışı olmayan) kurye montlarından farklı olarak YRN-1493 resmi mağazada fiyatıyla listeleniyor; kontrol tarihinde stok tükenmişti."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "10.000 mm su sütunlu membran ve bantlı dikişlerle üretiliyor; ancak üretici su geçirmezlik garantisi olmadığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-1493-kislik-moto-kurye-mont-kislik-moto-kurye-mont",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-1493-kislik-moto-kurye-mont-kislik-moto-kurye-mont",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1493 Kışlık Moto Kurye Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "600D polyester dış kumaş, membranla lamine iki katlı bariyer kumaş, file astar, ısı yalıtım içliği",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alabilen laminasyon membran (10.000 mm su sütunu), bantlı dikişler",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 5390,
+      "max": 5390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "yrn-1390-yazlik",
+    "brand": "yaren-tekstil",
+    "name": "YRN-1390 Korumalı Yazlık Motorcu Mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Hafif fileli yapıda, unisex kalıplı, CE belgeli korumalarla satılan, Türkiye üretimi ve çok uygun fiyatlı yazlık motorcu montu.",
+    "description": [
+      "YRN-1390, Yaren Tekstil'in perakende satılan yazlık fileli montu. Üretici erkek ve kadın kullanıcılar için uygun unisex bir kalıp, yaz aylarında serin tutan hafif bir yapı ve Türkiye'de üretim vurguluyor. S'den 5XL'e kadar beden seçeneği var ve resmi mağazada yazlık mont segmentinin en uygun fiyatlılarından biri.",
+      "Ürün adı CE belgeli korumalardan söz etse de ürün sayfası koruyucuların bölgesini, standardını veya montun EN 17092 sınıfını belirtmiyor. Kumaş türü, reflektif ve ayar detayları da yazılmamış. Bu nedenle fiyatı çekici olsa da teknik bilgisi sınırlı; satın almadan önce etiket ve sertifika bilgisinin satıcıdan istenmesi faydalı olur."
+    ],
+    "forWho": [
+      "Yazın kısa şehir içi sürüşler için düşük bütçeli fileli mont arayanlar",
+      "Yaz sezonunda çalışan ve yedek mont isteyen kuryeler",
+      "Büyük beden (5XL'e kadar) yazlık mont arayanlar"
+    ],
+    "notFor": [
+      "Sertifika sınıfını ve koruyucu detaylarını bilerek almak isteyenler",
+      "Yağmurlu ve serin günlerde kullanacak kuryeler; su geçirmez katman yok",
+      "Uzun tur ve hızlı yol sürüşü yapanlar"
+    ],
+    "pros": [
+      "Çok uygun fiyat",
+      "Hafif fileli yapı ile yaz kullanımı",
+      "Unisex kalıp ve S–5XL beden aralığı",
+      "Türkiye üretimi"
+    ],
+    "cons": [
+      "EN 17092 sınıfı ve koruyucu standardı ürün sayfasında yok",
+      "Kumaş ve reflektif bilgisi verilmemiş",
+      "Su geçirmez veya termal katman yok"
+    ],
+    "usage": {
+      "sehir": "Yazın kısa şehir içi kullanım için uygun.",
+      "uzunYol": "Teknik bilgisi sınırlı olduğu için uzun yol önerilmez.",
+      "yaz": "Fileli hafif yapısıyla sıcak havaya yönelik.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Yaz aylarında bütçe seçeneği; yağmurda yağmurluk ile kullanılmalı."
+    },
+    "verdict": "YRN-1390, düşük fiyatlı ve hafif bir yazlık file mont. Sertifika ve koruyucu detayları ürün sayfasında açık olmadığından, koruma seviyesini önemseyen sürücü satın almadan önce etiket bilgisini doğrulamalı.",
+    "rivals": [
+      "scudo/milano",
+      "ixon/striker-2-air-wp",
+      "richa/airsummer-kadin"
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi mağaza)",
+        "url": "https://www.yarentekstil.com/yrn-1390-ce-belgeli-korumali-yazlik-motorcu-mont-yrn-1390",
+        "price": 3950,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bu mont CE sertifikalı mı?",
+        "a": "Ürün adı CE belgeli korumalardan söz ediyor ama ürün sayfası montun EN 17092 sınıfını ve koruyucu standartlarını yazmıyor. Satın alırken etiketteki sertifika bilgisini kontrol edin."
+      },
+      {
+        "q": "Kadınlar da kullanabilir mi?",
+        "a": "Üretici montu erkek ve kadın kullanıcılar için uygun unisex bir tasarım olarak tanımlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-1390-ce-belgeli-korumali-yazlik-motorcu-mont-yrn-1390",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-1390-ce-belgeli-korumali-yazlik-motorcu-mont-yrn-1390",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1390 CE Belgeli Korumalı Yazlık Motorcu Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.material",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Fileli yazlık yapı",
+      "closure": null,
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 3950,
+      "max": 3950,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "911-couger",
+    "brand": "lbc",
+    "name": "911 Couger",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Kalın Cordura dış kumaş ve file paneller, membranlı su geçirmez mikro astar ile kapitone içlik ve dahil omuz-dirsek-sırt korumalarıyla bütçe dostu yerli 4 mevsim mont.",
+    "description": [
+      "911 Couger, LBC'nin fileli 4 mevsim montu. Dış katmanda sürtünmeye dayanıklı kalın Cordura kumaş ve yine kalın, dayanıklı malzemeden file bölgeler kullanılıyor. İçte file astar var; fermuarla çıkarılabilen içliğin bir katmanı membranlı su geçirmez mikro astar, diğeri elyaflı kapitone astar. Böylece yazın file yapıyla, kışın yağmurluklu ve kapitone içlikle kullanılabiliyor.",
+      "Omuz, dirsek ve sırt korumaları ürüne dahil ve istenirse çıkarılıp değiştirilebiliyor; ürün sayfası bunların standardını ve montun CE sınıfını belirtmiyor. Ön ve arkada reflektör şeritler, arkada gizli fermuarlı yolcu cebi, cırtlı kol ağzı, belde ve etek yanlarında cırtlı daraltma, kollarda çıtçıtlı ayar ve iç tarafı pamuklu kadife yaka bulunuyor."
+    ],
+    "forWho": [
+      "Çok düşük bütçeyle yıl boyu kullanılabilecek, korumaları dahil bir mont arayanlar",
+      "Şehir içinde günlük ulaşım yapan sürücüler",
+      "Ön ve arka reflektör isteyen kuryeler"
+    ],
+    "notFor": [
+      "CE sınıfı ve koruyucu standardı belgelenmiş ürün isteyenler",
+      "Büyük beden arayanlar; beden aralığı XL'de bitiyor",
+      "Uzun yağmurlu vardiyalarda çalışan kuryeler; membran içte ve değeri belirtilmiyor"
+    ],
+    "pros": [
+      "Kalın Cordura dış kumaş",
+      "Membranlı su geçirmez mikro astar + kapitone içlik",
+      "Omuz, dirsek ve sırt korumaları dahil",
+      "Ön ve arka reflektör, yolcu cebi gibi pratik detaylar"
+    ],
+    "cons": [
+      "CE sınıfı ve koruyucu standardı belirtilmiyor",
+      "Beden aralığı S–XL ile sınırlı",
+      "Su geçirmezlik değeri verilmemiş"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir kullanımına uygun, ayar seçenekleri bol.",
+      "uzunYol": "Kısa turlarda iş görür; uzun yağmurda sınırları görülebilir.",
+      "yaz": "İçlik çıkarılınca file bölgeler hava aldırır.",
+      "kis": "Kapitone içlik ve membranlı astarla şehir içi kış kullanımına yardımcı olur.",
+      "yagmur": "Membranlı içlik kısa yağmurda korur; dış kumaş ıslanır.",
+      "sport": "Sport sürüş için tasarlanmamış.",
+      "kurye": "Fiyatı ve 4 mevsim yapısıyla kurye için bütçe seçeneği; ağır yağmurda yağmurluk önerilir."
+    },
+    "verdict": "911 Couger, Cordura dış kumaşı ve iki katmanlı içliğiyle fiyatına göre zengin donanımlı bir 4 mevsim mont. Sertifika bilgisinin eksikliği ve sınırlı beden aralığı, koruma belgesini önemseyen sürücü için dezavantaj.",
+    "rivals": [
+      "scudo/roma",
+      "tex-motor/forte-gt-inferno",
+      "tech90/vecton-4-mevsim-kevlar"
+    ],
+    "offers": [
+      {
+        "seller": "LBC (resmi mağaza)",
+        "url": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-kirmizi",
+        "price": 4000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "LBC (resmi mağaza)",
+        "url": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-sax",
+        "price": 4000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Sax"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "LBC (resmi mağaza)",
+        "url": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-tas-renk",
+        "price": 3900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Taş"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Korumalar montla birlikte geliyor mu?",
+        "a": "Evet, omuz, dirsek ve sırt korumaları ürüne dahil; istenirse çıkarılıp değiştirilebiliyor."
+      },
+      {
+        "q": "Mont CE sertifikalı mı?",
+        "a": "Ürün sayfasında EN 17092 sınıfı veya koruyucu standardı belirtilmiyor; satın alırken etiket bilgisi kontrol edilmeli."
+      }
+    ],
+    "manufacturerUrl": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-kirmizi",
+    "sources": [
+      {
+        "url": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-kirmizi",
+        "type": "manufacturer",
+        "label": "LBC – 911 Couger fileli 4 mevsimlik mont (Kırmızı) ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lbc.com.tr/911-couger-fileli-4-mevsimlik-mont-tas-renk",
+        "type": "manufacturer",
+        "label": "LBC – 911 Couger fileli 4 mevsimlik mont (Taş) ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Kırmızı",
+      "Sax",
+      "Taş"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Kalın Cordura dış kumaş, dayanıklı file bölgeler, file iç astar, membranlı mikro astar ve elyaflı kapitone içlik",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Fermuarla çıkarılabilen membranlı su geçirmez mikro astar",
+      "airbagCompatible": null,
+      "ventilation": "Dış katmanda file bölgeler",
+      "closure": "Kalın dişli ön fermuar, cırtlı kol ağzı, belde ve etek yanlarında cırtlı daraltma, kollarda çıtçıt ayarı, çıtçıtlı yaka",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 3900,
+      "max": 4000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "vecton-4-mevsim-kevlar",
+    "brand": "tech90",
+    "name": "Vecton 4 Mevsim Korumalı Kevlar Motosiklet Montu",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "1000D/500D Cordura, darbe bölgelerinde Kevlar katman, membranlı kumaş, çıkarılabilir iç astar ve EN 17092-3:2020 sertifikalı yerli 4 mevsim mont.",
+    "description": [
+      "Tech90'ın Vecton markasıyla sattığı bu mont, yerli üretimde aşınma korumasını öne çıkaran bir 4 mevsim modeli. Darbe alan bölgelerde 1000D, diğer yerlerde 500D Cordura dış kumaş kullanılıyor ve darbe bölgelerinde altta Kevlar katman bulunuyor. Sızdırmaz, su geçirmeyen membranlı kumaş, suya dayanıklı fermuarlar ve 4 mevsim kullanım için çıkarılabilir iç astar var.",
+      "Üretici montu EN 17092-3:2020 standardında CE onaylı olarak tanımlıyor; bu bölüm AA sınıfı giysileri kapsar. Korumalar EN 1621-1:2012 ve EN 1621-2:2014 onaylı ultra hafif ImpacTec. Fermuarlı ayarlanabilir hava kanalları, cırtla ayarlanabilir kol ve bilekler, uzatılmış arka kısım, standartlara uygun reflektörler, iç telefon cebi ve YKK fermuarlar diğer detaylar."
+    ],
+    "forWho": [
+      "Yerli üretimde AA sınıfı koruma ve Kevlar takviyesi arayan sürücüler",
+      "Yıl boyu her havada şehir ve tur kullanımı yapanlar",
+      "Kurye olarak yüksek koruma ve membranlı mont isteyenler"
+    ],
+    "notFor": [
+      "Çok sıcak iklimde yalnız yaz kullanacak olanlar; file mont kadar serin değil",
+      "5XL ve üzeri beden arayanlar; beden aralığı 3XL'de bitiyor"
+    ],
+    "pros": [
+      "EN 17092-3:2020 sertifikası (AA sınıfı bölümü)",
+      "1000D/500D Cordura ve darbe bölgelerinde Kevlar katman",
+      "Membranlı su geçirmez kumaş ve suya dayanıklı fermuarlar",
+      "Fermuarlı hava kanalları ve çıkarılabilir iç astar"
+    ],
+    "cons": [
+      "Koruyucuların seviyesi (Level 1/2) belirtilmiyor",
+      "Beden aralığı S–3XL ile sınırlı",
+      "Renk seçeneği sınırlı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda korunaklı; iç telefon cebi pratik.",
+      "uzunYol": "Cordura/Kevlar yapısı ve membranıyla turda güçlü bir seçenek.",
+      "yaz": "Hava kanalları açılıp astar çıkarılınca kullanılabilir; çok sıcakta file mont kadar serin değil.",
+      "kis": "Çıkarılabilir iç astar ve membranla serin-soğuk havaya uygun.",
+      "yagmur": "Membranlı kumaş ve suya dayanıklı fermuarlar yağmura karşı korur.",
+      "sport": "Sport kalıp değil ama AA bölümü aşınma koruması hızlı yol sürüşünde avantaj.",
+      "kurye": "Membranı, reflektörleri ve yüksek aşınma korumasıyla kurye için güçlü bir yerli seçenek."
+    },
+    "verdict": "Vecton 4 Mevsim Kevlar mont, Cordura ve Kevlar takviyesi ile EN 17092-3 sertifikasını bir araya getiren, yerli pazarda koruma tarafında öne çıkan bir model. Beden aralığı ve koruyucu seviyesi bilgisinin eksikliği dışında yıl boyu kullanım için dengeli.",
+    "rivals": [
+      "yaren-tekstil/yrn-8002-dyneema",
+      "ixon/odin",
+      "scudo/roma"
+    ],
+    "offers": [
+      {
+        "seller": "Vecton (Tech90 resmi mağaza)",
+        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
+        "price": 8599,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "EN 17092-3 ne anlama geliyor?",
+        "a": "EN 17092 standardının 3. bölümü AA sınıfı motosiklet giysilerini kapsar; A sınıfına göre daha yüksek aşınma ve dikiş dayanımı testlerinden geçer."
+      },
+      {
+        "q": "Korumalar montla geliyor mu?",
+        "a": "Vecton tüm ceket ürünlerinde ImpacTec korumaları hediye olarak verdiğini belirtiyor; korumalar EN 1621-1:2012 ve EN 1621-2:2014 onaylı."
+      }
+    ],
+    "manufacturerUrl": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
+    "sources": [
+      {
+        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
+        "type": "manufacturer",
+        "label": "Vecton – 4 Mevsim Korumalı Kevlar Motosiklet Montu ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.protectors.level",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Darbe bölgelerinde 1000D, diğer alanlarda 500D Cordura; darbe bölgelerinde Kevlar katman; membranlı kumaş; çıkarılabilir iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sızdırmaz, su geçirmeyen membranlı kumaş",
+      "airbagCompatible": null,
+      "ventilation": "Fermuarlı ayarlanabilir hava kanalları",
+      "closure": "YKK fermuarlar, cırtlı kol ve bilek ayarı",
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 8599,
+      "max": 8599,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "infinity-3-adventure",
+    "brand": "richa",
+    "name": "Infinity 3 Adventure",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Cordura polyester gövde, içten veya dıştan giyilebilen 10.000 mm Aquashell yağmur ceketi, termal astar, Level 2 D3O korumalar ve AA sertifikasıyla 4 mevsim adventure montu.",
+    "description": [
+      "Infinity 3 Adventure, Belçikalı Richa'nın yıl boyu adventure ve tur sürüşü için geliştirdiği montu. Dış gövde yüksek aşınma dirençli Cordura polyester; esnek kumaş panelleri hareket serbestliği sağlıyor. Sistemin merkezinde çıkarılabilir bir Aquashell Pro LTD (10.000 mm) su geçirmez ceket var; bu ceket ana kabuğun içine ya da üstüne giyilebiliyor. Ayrıca çıkarılabilir termal astar ve konfor file iç astar bulunuyor.",
+      "Richa ACS sistemi önde ve arkada büyük fermuarlı havalandırma panelleri ve kollar boyunca çift yönlü havalandırma fermuarı sunuyor. Omuz ve dirsekte Level 2 D3O korumalar standart; sırt ve göğüs koruyucu için yer var ama ayrıca alınıyor. Üretici sertifikasyonu AA olarak veriyor. Beş büyük dış cep, kolda gizli kart cebi, reflektif bölgeler ve 360° pantolon bağlantı fermuarı var."
+    ],
+    "forWho": [
+      "Adventure motosikletle her mevsim tur yapan sürücüler",
+      "Yağmur katmanını dışa da giyerek ağır yağmurda kuru kalmak isteyenler",
+      "Yüksek beden aralığı (6XL'e kadar) arayanlar"
+    ],
+    "notFor": [
+      "Sırt koruyucusunun montla gelmesini bekleyenler",
+      "Gün içinde çok sık inip binen kuryeler: katman değiştirme ve ağır yapı vardiyada pratik değil"
+    ],
+    "pros": [
+      "AA sertifikası ve Level 2 D3O omuz-dirsek korumaları",
+      "İçten veya dıştan giyilebilen 10.000 mm Aquashell yağmur ceketi",
+      "Önde, arkada ve kollarda büyük havalandırma",
+      "Beş büyük dış cep ve 360° bağlantı fermuarı"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu ayrıca satılıyor",
+      "Ayrı yağmur katmanı sistemi laminat montlar kadar pratik değil",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure kesimi ve ağırlığı şehir içi kısa kullanımda fazla gelebilir.",
+      "uzunYol": "Asıl hedefi bu; cepler, havalandırma ve katman sistemi uzun turlar için tasarlanmış.",
+      "yaz": "ACS panelleri açıldığında iyi hava akışı sağlar.",
+      "kis": "Termal astar ve yağmur ceketiyle serin-soğuk havada kullanılabilir.",
+      "yagmur": "Aquashell ceket dışa giyildiğinde ana kabuğun ıslanmasını da engeller.",
+      "sport": "Sport sürüş için değil.",
+      "kurye": "Teknik olarak her havaya dayanıklı ama katman sistemi ve fiyatı kurye kullanımı için ideal değil."
+    },
+    "verdict": "Infinity 3 Adventure, AA sertifikası, Level 2 korumalar ve esnek katman sistemiyle her mevsim tur yapan adventure sürücü için güçlü bir paket. Sırt koruyucunun ayrıca alınması gerektiği ve yağmur ceketinin ayrı katman olduğu bilinerek tercih edilmeli.",
+    "rivals": [
+      "klim/carlsbad",
+      "modeka/atlaz",
+      "ixon/odin"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Yağmur katmanı nasıl kullanılıyor?",
+        "a": "Çıkarılabilir Aquashell Pro LTD ceket ana montun içine takılabildiği gibi tek başına dışa da giyilebiliyor. Ağır yağmurda dışa giymek ana kabuğun ıslanmasını önler."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Omuz ve dirsekte Level 2 D3O korumalar standart; sırt ve göğüs koruyucu için cep var, koruyucular ayrıca alınır."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/infinity-3-adventure-jacket/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/infinity-3-adventure-jacket/",
+        "type": "manufacturer",
+        "label": "Richa – Infinity 3 Adventure Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Blue/Red",
+      "Brown/Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Dış kabuk %100 polyester (Cordura), esnek kumaş panelleri; astar %100 polyester; çıkarılabilir termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir Aquashell Pro LTD su geçirmez ceket (10.000 mm), içten veya dıştan giyilebilir",
+      "airbagCompatible": null,
+      "ventilation": "Richa ACS: önde ve arkada fermuarlı büyük havalandırma panelleri, kollarda çift yönlü havalandırma fermuarı",
+      "closure": "360° pantolon bağlantı fermuarı, çok noktalı ayar kayışları",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "airsummer-kadin",
+    "brand": "richa",
+    "name": "Airsummer Kadın",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Büyük bölümü açık dokulu file kumaştan, D3O omuz-dirsek korumalı, A sınıfı sertifikalı, kısa ve regular kesimli kadın yazlık motosiklet ceketi.",
+    "description": [
+      "Airsummer, Richa'nın en sıcak yaz günleri için tasarladığı file ceketin kadın versiyonu. Dış katmanın büyük kısmı açık dokulu file; aşınma riski yüksek bölgelerde dayanıklı tekstil paneller kullanılıyor. Richa'nın AVS adını verdiği sabit havalandırma bölgeleri hava akışını artırıyor, içte yumuşak file astar var. Yaka ve kol uçları yumuşak neopren ile bitirilmiş.",
+      "Omuz ve dirsekte D3O korumalar standart, sırt koruyucu ise yükseltme seçeneği olarak sunuluyor. Üretici sertifikasyonu A olarak veriyor. Kısa ve regular kesimi tişört üstüne rahat giyilecek şekilde tasarlanmış; iki dış ve iki iç cep, ön fermuar arkasında rüzgar kapağı ve kısa pantolon bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Sıcak iklimde şehir içi ve kısa yolda serin kalmak isteyen kadın sürücüler",
+      "Hafif ve sade görünümlü, korumalı bir yaz ceketi arayanlar",
+      "XS'ten 4XL'e kadar geniş kadın beden aralığı arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda veya serin havada kullanacak olanlar: su geçirmez ve termal katman yok",
+      "Yıl boyu çalışan kadın kuryeler; yalnız yaz için uygun",
+      "Sırt koruyucunun standart gelmesini isteyenler"
+    ],
+    "pros": [
+      "Büyük bölümü file; çok sıcak havada etkili hava akışı",
+      "D3O omuz ve dirsek korumaları dahil",
+      "A sınıfı sertifika",
+      "XS–4XL kadın beden aralığı ve neopren yaka/kol uçları"
+    ],
+    "cons": [
+      "Sırt koruyucu ayrıca alınmalı",
+      "Su geçirmez veya rüzgar kesici katman yok",
+      "Koruyucu seviyesi belirtilmiyor; Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Yaz şehir kullanımı için ideal; kısa kesimi inip binmeyi rahatlatır.",
+      "uzunYol": "Sıcak havada kısa turlarda iyi; rüzgar ve yağış için yanına yağmurluk alınmalı.",
+      "yaz": "Asıl hedefi bu; file yapı en sıcak günlerde bile hava aldırır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport sürüşe yönelik değil.",
+      "kurye": "Yalnız sıcak aylar için uygun; yağmurda ek yağmurluk gerekir."
+    },
+    "verdict": "Airsummer Kadın, A sertifikası ve D3O korumalarıyla sıcak yaz günlerine odaklanan, sade ve hafif bir kadın file ceket. Yaz dışında kullanım ve sırt koruması için ek ekipman gerekir.",
+    "rivals": [
+      "scudo/paris-kadin",
+      "held/sonic-2-lady",
+      "alpinestars/stella-t-dyno-air"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Airsummer kadın ceket su geçirmez mi?",
+        "a": "Hayır. Ceket sıcak havada maksimum hava akışı için file ağırlıklı tasarlanmış; yağmurda üstüne yağmurluk giyilmeli."
+      },
+      {
+        "q": "Hangi korumalar dahil?",
+        "a": "Omuz ve dirsekte D3O korumalar standart geliyor; sırt koruyucu yükseltme seçeneği olarak ayrıca alınabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.richa.eu/product/airsummer-jacket-women/",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/product/airsummer-jacket-women/",
+        "type": "manufacturer",
+        "label": "Richa – Airsummer Jacket Women ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black",
+      "Light Grey",
+      "Red"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Dış kabuk %100 polyester; yüksek aşınma dirençli tekstil ve file panellerin karışımı; yumuşak file astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Büyük bölümü file dış katman, AVS sabit havalandırma bölgeleri",
+      "closure": "Rüzgar kapaklı ön fermuar, kısa pantolon bağlantı fermuarı, neopren yaka ve kol uçları",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "trave-r",
+    "brand": "rukka",
+    "name": "Trave-R",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "GORE-TEX Z-liner membranlı, 500D Cordura gövdeli, 1500D Cordura takviyeli, çıkarılabilir termal astarlı ve Level 2 D3O Air XTR korumalı Fin yapımı touring montu.",
+    "description": [
+      "Trave-R, Finlandiyalı Rukka'nın erkek touring montu. Dış kabuk aşınmaya dayanıklı CORDURA 500D; omuz ve dirseklerde CORDURA 1500D takviye var. Kabuğun altında %100 nefes alabilen, rüzgar ve su geçirmez GORE-TEX Z-liner membran bulunuyor; yani membran dış kumaş ile astar arasında sabit. Soğuk günler için 60 gramlık çıkarılabilir termal astar geliyor.",
+      "Omuz ve dirsekte EN 1621-1:2012 Level 2 Rukka D3O Air XTR korumalar standart; sırt için D3O Air XTR All koruyucu cebi var ama koruyucu ayrıca alınıyor. Yanlarda havalandırma açıklıkları, iki dış fermuarlı cep, telefon cebi dahil iki suya dayanıklı iç cep, ön cepte anahtar kancası, neopren yaka, üst kolda çıtçıtlı genişlik ayarı, kasık kayışı ve uzun pantolon bağlantı fermuarı mevcut. Ürün sayfası montun EN 17092 sınıfını belirtmiyor."
+    ],
+    "forWho": [
+      "Her mevsim yağmurda güvenilir GORE-TEX membran isteyen tur sürücüleri",
+      "Rukka kalitesini daha erişilebilir bir modelde arayanlar",
+      "Yağmurlu iklimde her gün motosiklet kullanan sürücüler"
+    ],
+    "notFor": [
+      "Çok sıcak iklimde yaz ağırlıklı kullanacak olanlar; havalandırma yalnız yanlarda",
+      "Bütçesi sınırlı kuryeler: teknik olarak uygun ama fiyatı kurye kullanımı için yüksek"
+    ],
+    "pros": [
+      "GORE-TEX Z-liner membran ile rüzgar ve su geçirmezlik",
+      "CORDURA 500D gövde, 1500D omuz ve dirsek takviyesi",
+      "Level 2 D3O Air XTR omuz ve dirsek korumaları",
+      "Çıkarılabilir 60 g termal astar"
+    ],
+    "cons": [
+      "Sırt koruyucu ayrıca satılıyor",
+      "Membran içte olduğu için dış kumaş yağmurda ıslanıp ağırlaşır",
+      "EN 17092 sınıfı ürün sayfasında yok; Türkiye fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda rahat; iç telefon cebi ve anahtar kancası pratik.",
+      "uzunYol": "Asıl hedefi bu; her havada uzun etaplarda kuru ve korunaklı tutar.",
+      "yaz": "Yan havalandırmalar var ama membranlı yapı sıcakta file mont kadar serin değil.",
+      "kis": "Termal astar ve rüzgar geçirmez membranla serin-soğuk havaya uygun.",
+      "yagmur": "GORE-TEX Z-liner ile güçlü; dış kabuk ıslansa da içerisi kuru kalır.",
+      "sport": "Sport sürüşe yönelik değil.",
+      "kurye": "Her havaya dayanıklı yapısıyla teknik olarak uygun; fiyatı kurye için yüksek kalabilir."
+    },
+    "verdict": "Trave-R, GORE-TEX membranı ve Level 2 korumalarıyla yağmurlu iklimde yıl boyu kullanılabilecek, Rukka'nın daha sade touring modeli. Sırt koruyucunun ayrıca alınması ve sınırlı havalandırma dışında güvenilir bir her hava montu.",
+    "rivals": [
+      "klim/carlsbad",
+      "bering/halifax",
+      "held/4-touring-2"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Trave-R gerçekten su geçirmez mi?",
+        "a": "Evet, üretici kabuğun altında %100 nefes alabilen, rüzgar ve su geçirmez GORE-TEX Z-liner membran kullanıldığını belirtiyor. Dış kumaş ıslanabilir ama membran içeriyi kuru tutar."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır, montta D3O Air XTR All sırt koruyucu için cep var; koruyucu ayrıca alınıyor."
+      }
+    ],
+    "manufacturerUrl": "https://luhta.com/en/p/trave-r-jkt-70258725r",
+    "sources": [
+      {
+        "url": "https://luhta.com/en/p/trave-r-jkt-70258725r",
+        "type": "manufacturer",
+        "label": "Rukka (Luhta) – Trave-R jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Basic black"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62",
+      "64",
+      "66"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "CORDURA 500D dış kabuk, omuz ve dirsekte CORDURA 1500D takviye, çıkarılabilir 60 g termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Z-liner (kabuğun altında)",
+      "airbagCompatible": null,
+      "ventilation": "Yanlarda havalandırma açıklıkları",
+      "closure": "Neopren yaka, üst kolda çıtçıtlı genişlik ayarı, cırtlı etek ve kol ucu ayarı, kasık kayışı, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "carlsbad",
+    "brand": "klim",
+    "name": "Carlsbad",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "GORE-TEX Performance Shell kabuklu, 630D CORDURA takviyeli, EN 17092-3 AA sertifikalı ve KLIM Rogue Level 2 omuz-dirsek-sırt korumalı dördüncü nesil adventure montu.",
+    "description": [
+      "Carlsbad, ABD'li KLIM'in 'gereken her şey, fazlası yok' yaklaşımıyla tasarladığı adventure montunun dördüncü nesli. Kabuk GORE-TEX Performance Shell; membran doğrudan dış kumaşa lamine olduğu için yağmurda dış yüzey su emip ağırlaşmaz. Omuz ve dirseklerde 630D CORDURA bükümlü iplik takviyesi, 3M Scotchlite Carbon Black reflektif malzeme kullanılıyor.",
+      "Üretici montu EN 17092-3 kapsamında CE AA sınıfı olarak sertifikalandırıyor. Yeni KLIM Rogue CE Level 2 havalandırmalı omuz, ayarlanabilir dirsek ve sırt koruyucuları standart geliyor. Havalandırma iki çift başlı ön kol, iki göğüs ve iki arka çıkış açıklığıyla sağlanıyor. Su dayanımlı kargo ve göğüs cepleri, uydu iletişim cihazı cebi, ön kolda kimlik kartı cebi ve sırt pedi arkasında gizli belge cebi gibi çok sayıda cep var. Termal astar yok; soğuk için ara katman giyilmesi öngörülüyor."
+    ],
+    "forWho": [
+      "Her havada uzun adventure turu yapan, laminat GORE-TEX isteyen sürücüler",
+      "Sırt koruyucusu dahil, AA sınıfı ve Level 2 korumalı mont arayanlar",
+      "Katman sistemini kendi ara katmanlarıyla kurmayı tercih edenler"
+    ],
+    "notFor": [
+      "Termal astarlı, tek parça kış montu arayanlar",
+      "Bütçe odaklı kurye kullanımı: fiyatı çok yüksek"
+    ],
+    "pros": [
+      "Laminat GORE-TEX Performance Shell: yağmurda dış yüzey su emmez",
+      "EN 17092-3 AA sınıfı",
+      "Rogue Level 2 omuz, dirsek ve sırt koruması dahil",
+      "Altı havalandırma açıklığı ve çok sayıda su dayanımlı cep"
+    ],
+    "cons": [
+      "Termal astar yok; soğukta ara katman gerekir",
+      "Fiyatı segmentin üst ucunda",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama adventure odaklı yapı şehir için fazla teknik ve pahalı.",
+      "uzunYol": "Asıl hedefi bu; uzun etaplarda konfor, cep ve hava koruması güçlü.",
+      "yaz": "Havalandırmalar açıkken ılık-sıcak havada idare eder; çok sıcakta laminat yapı ısınır.",
+      "kis": "Rüzgar ve yağmuru keser ama ısı yalıtımı yok; altına termal ara katman gerekir.",
+      "yagmur": "Güçlü olduğu alan; laminat GORE-TEX kabuk ağır yağmurda da ıslanıp ağırlaşmaz.",
+      "sport": "Sport sürüş için değil.",
+      "kurye": "Teknik olarak her havaya uygun ama fiyatı kurye kullanımı için orantısız."
+    },
+    "verdict": "Carlsbad, laminat GORE-TEX kabuğu, AA sınıfı ve dahil Level 2 korumalarıyla ciddi adventure sürücüsüne yönelik dengeli bir mont. Termal astarı olmaması ve yüksek fiyatı, onu yıl boyu kullanmak isteyenler için katman planı gerektiren bir tercih yapıyor.",
+    "rivals": [
+      "richa/infinity-3-adventure",
+      "rukka/trave-r",
+      "modeka/atlaz"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Carlsbad'ın içinde termal astar var mı?",
+        "a": "Hayır. Mont nem atan, koku önleyici bir astarla geliyor; soğuk havada altına ayrı bir ara katman giyilmesi gerekiyor."
+      },
+      {
+        "q": "Korumalar dahil mi?",
+        "a": "Evet, KLIM Rogue CE Level 2 omuz, dirsek ve sırt korumaları standart geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/carlsbad-jacket-6029-003",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/carlsbad-jacket-6029-003",
+        "type": "manufacturer",
+        "label": "KLIM – Carlsbad Jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "High-rise - Asphalt",
+      "Stealth Black",
+      "Oil Green",
+      "Dress Blues - Red Oxide",
+      "Asphalt - Ember Orange"
+    ],
+    "sizes": [
+      "SM",
+      "MD",
+      "LG",
+      "XL",
+      "2X",
+      "3X"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "GORE-TEX Performance Shell, omuz ve dirsekte 630D CORDURA bükümlü iplik takviyesi",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Performance Shell (laminat)",
+      "airbagCompatible": null,
+      "ventilation": "2 çift başlı ön kol, 2 göğüs ve 2 arka çıkış havalandırması",
+      "closure": null,
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "atlaz",
+    "brand": "modeka",
+    "name": "Atlaz",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "500D Cordura Ripstop gövdeli, CE AAA sertifikalı, içten veya dıştan giyilebilen 20k/20k HydroFlex membran ceketi ve ayrı giyilebilen ara katmanıyla 3'ü 1 arada adventure montu.",
+    "description": [
+      "Atlaz, Alman Modeka'nın adventure koleksiyonundaki en yüksek koruma sınıflı modeli. Dış kabuk 500D Cordura Ripstop (%100 poliamid) ve düşme bölgelerinde çift kat malzeme. Mont EN 17092 kapsamında en yüksek sınıf olan CE AAA ile sertifikalı; üretici bunu klasik zırh gibi sert olmayan bir yapıyla sağladığını vurguluyor. Sistem 3'ü 1 arada: ana dış ceket, In&Out HydroFlex20 (20k/20k) su geçirmez ceket ve ayrı giyilebilen softshell/kapitone ara katman.",
+      "Omuz ve dirsekte EN 1621-1:2012 Level 2 SAS-TEC koruyucular standart; sırt için SAS-TEC SC-1/FB2 koruyucu sonradan eklenebiliyor. Mont airbag uyumlu. Havalandırmada Fidlock mıknatıslı AirDraft kapakları, AirVent fermuarları ve açılabilir AirCollar yaka var. Ana cekette iki su geçirmez cep, sırt cebi, kimlik cebi ve iki iç cep; YKK Aquaguard fermuarlar ve pantolon bağlantı fermuarları bulunuyor."
+    ],
+    "forWho": [
+      "Adventure turda en yüksek CE sınıfını (AAA) isteyen sürücüler",
+      "Sıcaktan yağmura kadar tek sistemle her koşulda sürmek isteyenler",
+      "İleride airbag yeleği eklemeyi düşünenler"
+    ],
+    "notFor": [
+      "Gün içinde sık inip binen kuryeler: 3 katmanlı sistem vardiyada pratik değil",
+      "Sert enduro/trail kullanımı; üretici ağır arazi için daha hafif bir takım öneriyor"
+    ],
+    "pros": [
+      "CE AAA sınıfı: EN 17092'nin en yüksek koruma seviyesi",
+      "20k/20k HydroFlex su geçirmez ceket, içten veya dıştan giyilebilir",
+      "SAS-TEC Level 2 omuz ve dirsek korumaları, airbag uyumu",
+      "Fidlock mıknatıslı havalandırma kapakları ve açılır yaka"
+    ],
+    "cons": [
+      "Sırt koruyucu ayrıca satılıyor",
+      "Yağmur koruması ayrı katmanda; laminat montlar kadar pratik değil",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama şehir için fazla kapsamlı ve hacimli.",
+      "uzunYol": "Asıl hedefi bu; uzun adventure turlarında koruma ve iklim esnekliği sunar.",
+      "yaz": "Ara katman çıkarılıp havalandırmalar açıldığında sıcak günlerde de rahat.",
+      "kis": "Ara katmanla bahar ve sonbahara uygun; dondurucu soğukta ek katman gerekebilir.",
+      "yagmur": "HydroFlex ceket dışa giyildiğinde güçlü yağmur koruması sağlar.",
+      "sport": "Sport sürüş için değil.",
+      "kurye": "Koruması çok yüksek ama katman sistemi ve hacmi kurye temposuna uygun değil."
+    },
+    "verdict": "Atlaz, CE AAA sınıfını esnek bir 3'ü 1 arada sistemle birleştiren, koruma önceliği yüksek adventure sürücüsü için güçlü bir mont. Ayrı yağmur katmanı ve ayrıca alınan sırt koruyucu, kullanım alışkanlığına göre değerlendirilmeli.",
+    "rivals": [
+      "richa/infinity-3-adventure",
+      "klim/carlsbad",
+      "ixon/odin"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "CE AAA ne demek?",
+        "a": "EN 17092 standardındaki en yüksek koruma sınıfı. Aşınma, dikiş dayanımı ve darbe testlerinde en zorlu gereklilikleri karşılar."
+      },
+      {
+        "q": "Atlaz su geçirmez mi?",
+        "a": "Dış ceket yüksek aşınma dirençli ve havalandırmalı; su geçirmezlik In&Out HydroFlex20 ceketle sağlanıyor. Bu ceket içte ya da yağmurda en verimli şekilde dışta giyilebiliyor."
+      },
+      {
+        "q": "Airbag ile kullanılır mı?",
+        "a": "Üretici Atlaz montun airbag uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://modeka.de/de/produkte/detail/4818/123/jacke-atlaz/",
+    "sources": [
+      {
+        "url": "https://modeka.de/de/produkte/detail/4818/123/jacke-atlaz/",
+        "type": "manufacturer",
+        "label": "Modeka – Jacke Atlaz ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://modeka.de/de/serie/atlaz-ce-aaa-adventure-hero/",
+        "type": "manufacturer",
+        "label": "Modeka – Atlaz CE-AAA serisi sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.madeIn",
+      "colors",
+      "sizes",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "500D Cordura Ripstop (%100 poliamid), düşme bölgelerinde çift kat malzeme; ayrı giyilebilen softshell/kapitone ara katman",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AAA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "In&Out HydroFlex20 su geçirmez ceket (20k/20k), içte veya dışta giyilebilir",
+      "airbagCompatible": true,
+      "ventilation": "Fidlock mıknatıslı AirDraft kapakları, AirVent fermuarları, açılabilir AirCollar yaka",
+      "closure": "2 yönlü ön fermuar, YKK Aquaguard fermuarlar, kol ve bel ayarı, pantolon bağlantı fermuarları",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "halifax",
+    "brand": "bering",
+    "name": "Halifax EN 17353",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "EN 17092-3 AA ve EN 17353 görünürlük standartlarını birlikte karşılayan, çıkarılabilir BWTECH membranlı ve termal astarlı, geri dönüştürülmüş 600D polyester 4 mevsim montu.",
+    "description": [
+      "Halifax, Fransız Bering'in her mevsim kullanım için tasarladığı tekstil montu. Dış kumaş %100 geri dönüştürülmüş polyester liflerden Fibretech 600D. İçte çıkarılabilir BWTECH su geçirmez membran ve çıkarılabilir Shelltech termal astar var; yani yazın tek kabuk, yağmur ve soğukta katmanlı kullanılabiliyor. ADS havalandırma sistemi önde Fidlock mıknatıslı kapaklarla açılan panellerden oluşuyor.",
+      "Üretici montu EN 17092-3 AA sınıfı olarak sertifikalandırıyor ve aynı zamanda EN 17353 (orta ve düşük riskli durumlar için görünürlük artırıcı ekipman) standardını karşıladığını belirtiyor. Omuz ve dirsekte çıkarılabilir ALPHA EN 1621-1 Level 1 korumalar var; sırt koruyucu için CE cebi bulunuyor. Fermuarlı bilek ayarı, kol çırpma önleyici sistem, rüzgar kemeri, yan rahatlık fermuarları, çift yönlü ön fermuar, üç dış, bir cüzdan ve üç iç cep standart."
+    ],
+    "forWho": [
+      "Her havada ve gece yoğun trafikte çalışan kuryeler",
+      "Görünürlüğü sertifikalı bir mont isteyen şehir ve tur sürücüleri",
+      "AA sınıfı korumayı 4 mevsim katman sistemiyle almak isteyenler"
+    ],
+    "notFor": [
+      "Sırt koruyucusunun montla gelmesini bekleyenler",
+      "Laminat membran isteyenler: membran içte, dış kabuk yağmurda ıslanır"
+    ],
+    "pros": [
+      "EN 17092-3 AA ve EN 17353 görünürlük sertifikası bir arada",
+      "Çıkarılabilir BWTECH su geçirmez membran ve termal astar",
+      "Fidlock mıknatıslı havalandırma panelleri",
+      "Geri dönüştürülmüş 600D polyester dış kumaş, bol cep"
+    ],
+    "cons": [
+      "Omuz ve dirsek korumaları Level 1",
+      "Sırt koruyucu ayrıca alınmalı",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Görünürlük standardı ve bol cebiyle şehir trafiğine çok uygun.",
+      "uzunYol": "Katman sistemiyle değişken havada tur yapılabilir.",
+      "yaz": "Katmanlar çıkarılıp ADS panelleri açıldığında ılık-sıcak havada kullanılabilir.",
+      "kis": "Termal astar ve membranla soğuk havaya uygun.",
+      "yagmur": "Membran içeriyi kuru tutar; dış kabuk ıslanır.",
+      "sport": "Sport sürüş için değil.",
+      "kurye": "Bu listedeki en kurye dostu modellerden: EN 17353 görünürlük, AA sınıfı ve 4 mevsim katmanlar."
+    },
+    "verdict": "Halifax, AA sınıfı korumayı sertifikalı görünürlükle birleştiren nadir montlardan biri. Gece ve yağmurda çalışan kurye ya da her gün trafikte sürenler için çok mantıklı; Level 1 korumalar ve ayrıca alınan sırt koruyucu göz önünde bulundurulmalı.",
+    "rivals": [
+      "ixon/odin",
+      "rukka/trave-r",
+      "yaren-tekstil/yrn-1493-kislik-kurye"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "EN 17353 ne anlama geliyor?",
+        "a": "EN 17353, orta ve düşük riskli durumlarda kullanılan görünürlük artırıcı ekipman standardı. Montun belirli floresan/reflektif yüzey gerekliliklerini karşıladığını gösterir; gece ve kötü havada sürücünün fark edilmesine yardımcı olur."
+      },
+      {
+        "q": "Halifax su geçirmez mi?",
+        "a": "Evet, çıkarılabilir BWTECH membranla. Membran içte olduğu için dış kumaş yağmurda ıslanır ama içerisi kuru kalır."
+      }
+    ],
+    "manufacturerUrl": "https://bering-moto.com/products/halifax-en-17353-noiranthraciterouge-btv1161",
+    "sources": [
+      {
+        "url": "https://bering-moto.com/products/halifax-en-17353-noiranthraciterouge-btv1161",
+        "type": "manufacturer",
+        "label": "Bering – Halifax EN 17353 (Noir/Anthracite/Rouge) ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Noir/Anthracite/Rouge",
+      "Anthracite/Gris"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Fibretech 600D (%100 geri dönüştürülmüş polyester lif), dış kompozisyon polyester/PU; çıkarılabilir Shelltech termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir BWTECH su geçirmez membran",
+      "airbagCompatible": null,
+      "ventilation": "ADS: önde Fidlock mıknatıslı havalandırma kapakları",
+      "closure": "Çift yönlü ön fermuar, çıtçıtla ayarlanan yaka, fermuarlı bilek ayarı, rüzgar kemeri, yan rahatlık fermuarları",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "odin",
+    "brand": "ixon",
+    "name": "Odin",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Çıkarılabilir XDRY membran ve termal astarlı 3'ü 1 arada yapı, EN 17092-3:2020 AA sınıfı, Fanom Level 1 korumalar ve IX-Airbag uyumuyla 4 mevsim adventure montu.",
+    "description": [
+      "Odin, Fransız Ixon'un 3'ü 1 arada adventure montu. Dış kabuk 600D polyester ve ripstop; içte çıkarılabilir, su geçirmez ve nefes alabilen XDRY membran (14.000 mm / 20.000 MVTR) ve gövdede 120 g, kollarda 80 g dolgulu çıkarılabilir termal astar var. Termal astarın ana fermuar altına çıtçıtla tutturulan 200 g'lık rüzgar kapağı soğuk havada göğsü koruyor.",
+      "Mont EN 17092-3:2020 AA sınıfı sertifikalı. Omuz ve dirsekte Fanom SEKA_1 Tip A Level 1 koruyucular standart; sırt için Fanom BFB_2 veya IX-Pro BFB-2 ile uyumlu cep var. IX-Airbag U03/U04/U05 sistemleriyle uyumlu. Sırtta hava çıkışı, pazu ve göğüste doğrudan havalandırmalı fermuarlar, yolcu tutma kayışlı yan cepler, ön kol cebi, su geçirmez cüzdan cebi ve reflektif bölgeler bulunuyor."
+    ],
+    "forWho": [
+      "Her mevsim tur ve günlük kullanım için tek mont isteyen sürücüler",
+      "Airbag yeleği eklemeyi planlayanlar",
+      "Yağmurda ve kışın da çalışan, AA sınıfı koruma isteyen kuryeler"
+    ],
+    "notFor": [
+      "Laminat membranlı, dış kabuğu hiç ıslanmayan mont arayanlar",
+      "Level 2 koruyucuyu standart isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Çıkarılabilir XDRY membran ve termal astar, rüzgar kapağı",
+      "IX-Airbag U03/U04/U05 uyumu",
+      "Göğüs, pazu ve sırtta havalandırma, bol cep"
+    ],
+    "cons": [
+      "Omuz ve dirsek koruyucuları Level 1",
+      "Sırt koruyucu ayrıca alınmalı",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda pratik; cüzdan ve ön kol cebi kullanışlı.",
+      "uzunYol": "3'ü 1 arada yapısıyla değişken havada uzun turlara uygun.",
+      "yaz": "Katmanlar çıkarılıp göğüs ve pazu havalandırmaları açılınca ılık-sıcak havada kullanılır.",
+      "kis": "Termal astar ve rüzgar kapağıyla soğukta iyi korur.",
+      "yagmur": "XDRY membran içeriyi kuru tutar; dış kabuk ıslanır.",
+      "sport": "Sport sürüşe yönelik değil.",
+      "kurye": "AA sınıfı, membran, termal astar ve reflektifleriyle yıl boyu kurye kullanımına uygun."
+    },
+    "verdict": "Odin, AA sınıfı, airbag uyumu ve tam katman sistemiyle her mevsim kullanılacak dengeli bir adventure montu. Level 1 korumalar ve ayrıca alınan sırt koruyucu dışında kurye dahil yıl boyu kullanım için güçlü bir aday.",
+    "rivals": [
+      "bering/halifax",
+      "richa/infinity-3-adventure",
+      "rukka/trave-r"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Odin airbag ile kullanılabilir mi?",
+        "a": "Evet, üretici IX-Airbag U03, U04 ve U05 sistemleriyle uyumlu olduğunu belirtiyor; airbag ayrıca satılır."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Çıkarılabilir XDRY membran (14.000 mm) ile su geçirmez. Membran içte olduğu için dış kumaş ıslanabilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixon.com/en/odin",
+    "sources": [
+      {
+        "url": "https://www.ixon.com/en/odin",
+        "type": "manufacturer",
+        "label": "Ixon – Odin jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Light Grey/Black",
+      "Black",
+      "Navy/Black/Bright Red",
+      "Khaki/Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D polyester + ripstop dış kumaş, soft mesh iç astar, çıkarılabilir termal astar (120 g gövde, 80 g kol)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir XDRY membran (14.000 mm / 20.000 MVTR)",
+      "airbagCompatible": true,
+      "ventilation": "Sırtta hava çıkışı, pazuda ve göğüste fermuarlı doğrudan havalandırma",
+      "closure": "İç kapaklı ön kapama, ayarlanabilir neopren yaka, bilek, bel ve pazu ayarları",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "striker-2-air-wp",
+    "brand": "ixon",
+    "name": "Striker 2 Air WP",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sport-mont"
+    ],
+    "summary": "600D polyester ve Hard Mesh panelli, çıkarılabilir DryMesh su geçirmez membranlı, EN 17092-3:2020 AA sınıfı ve IX-Airbag uyumlu sportif yazlık mont.",
+    "description": [
+      "Striker 2 Air WP, Ixon'un sportif görünümlü yazlık montu. Dış kumaş 600D polyester ve geniş Hard Mesh paneller; sıcak havada yüksek hava akışı sağlıyor. Ani sağanaklar için çıkarılabilir, su geçirmez ve nefes alabilen DryMesh membran (10.000 mm / 5.000 MVTR) geliyor; yapı termal astarsız olarak tanımlanıyor. Kalıp regular, yaka cırtlı kayışlı klasik yaka.",
+      "Mont EN 17092-3:2020 AA sınıfı sertifikalı; bu, file yazlık montlar arasında yüksek bir seviye. Omuz ve dirsekte Fanom SEKA_1 Tip A Level 1 koruyucular standart, sırt için Fanom BFB_2 veya IX-Pro BFB-2 uyumlu cep var. IX-Airbag U03/U04/U05 uyumlu. Sırtta hava çıkışı ve pazuda iki fermuarlı havalandırma, iki fermuarlı el cebi, su geçirmez cüzdan cebi ve triseps bölgesinde reflektörler bulunuyor; pantolona elastik tokayla bağlanıyor."
+    ],
+    "forWho": [
+      "Sıcak havada file mont isteyen ama AA sınıfından vazgeçmek istemeyen sürücüler",
+      "Naked veya sport-touring motosikletle yaz sürüşü yapanlar",
+      "Yaz aylarında ani yağmura karşı yedek katman isteyen kuryeler"
+    ],
+    "notFor": [
+      "Kış kullanımı: termal astar yok",
+      "Yıl boyu tek montla çalışacak kuryeler; soğuk aylarda yetersiz",
+      "Sırt koruyucunun dahil olmasını isteyenler"
+    ],
+    "pros": [
+      "File yazlık mont olmasına rağmen EN 17092-3:2020 AA sınıfı",
+      "Çıkarılabilir DryMesh su geçirmez membran",
+      "IX-Airbag uyumu",
+      "Hard Mesh paneller ve pazu havalandırmalarıyla yüksek hava akışı"
+    ],
+    "cons": [
+      "Termal astar yok; serin havada sınırlı",
+      "Level 1 koruyucular, sırt koruyucu ayrıca",
+      "Türkiye'de yetkili satıcı fiyatı doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Yaz şehir sürüşünde serin ve sportif.",
+      "uzunYol": "Sıcak havada turda iyi; membran ani yağmurda işe yarar.",
+      "yaz": "Asıl hedefi bu; Hard Mesh paneller güçlü hava akışı sağlar.",
+      "kis": "Uygun değil.",
+      "yagmur": "DryMesh membran takılıyken kısa yağmurda korur.",
+      "sport": "Sportif kesimi ve AA sınıfıyla yol sporu sürüşüne uygun; pist için tasarlanmamış.",
+      "kurye": "Yaz aylarında kurye için iyi: AA sınıfı, membran ve hava akışı; kışın ikinci mont gerekir."
+    },
+    "verdict": "Striker 2 Air WP, file yazlık montlarda nadir görülen AA sınıfını ve çıkarılabilir membranı bir arada sunuyor. Sıcak iklimde sportif sürüş ve yaz kuryeliği için güçlü; kış için ayrı bir mont gerekir.",
+    "rivals": [
+      "scudo/milano",
+      "richa/airsummer-kadin",
+      "yaren-tekstil/yrn-1390-yazlik"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "File mont olmasına rağmen su geçirmez mi?",
+        "a": "Çıkarılabilir DryMesh membran (10.000 mm) takıldığında kısa yağmur ve sağanaklara karşı koruma sağlar; membran çıkarıldığında tamamen file bir yazlık mont olur."
+      },
+      {
+        "q": "Koruma sınıfı nedir?",
+        "a": "Üretici EN 17092-3:2020 AA sınıfı sertifika belirtiyor; omuz ve dirsekte Level 1 Fanom koruyucular standart."
+      }
+    ],
+    "manufacturerUrl": "https://www.ixon.com/en/striker-2-air-wp",
+    "sources": [
+      {
+        "url": "https://www.ixon.com/en/striker-2-air-wp",
+        "type": "manufacturer",
+        "label": "Ixon – Striker 2 Air WP jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "priceRange",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Green",
+      "Black/White/Red",
+      "Black/White",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "600D polyester + Hard Mesh dış kumaş, soft mesh iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir DryMesh membran (10.000 mm / 5.000 MVTR)",
+      "airbagCompatible": true,
+      "ventilation": "Hard Mesh paneller, sırtta hava çıkışı, pazuda 2 fermuarlı havalandırma",
+      "closure": "Fermuar, cırtlı kayışlı yaka, elastik cırtlı bilek ve etek ayarı, pantolona elastik toka bağlantısı",
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-skyland",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001079 Skyland",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Fileli dış katman, suya ve rüzgara dayanıklı iç astar ve termal kapitoneden oluşan üç katmanlı, EN 17092-4 sertifikalı, LDPE omuz dış korumalı yerli 4 mevsim montu.",
+    "description": [
+      "Skyland, Forte GT'nin üç katmanlı 4 mevsim montlarından biri. Dış katman nefes alabilen fileli yapıda; içine suya ve rüzgara dayanıklı bir astar ve soğuk günler için termal kapitone katman takılıyor. Dış kumaş kareli dokuma ripstop Oxford polyester; bu dokuma yırtılmanın yayılmasını zorlaştırıyor. Omuzlarda LDPE malzemeden ekstra dış koruma kabukları var.",
+      "Üretici montun EN 17092-4:2020 standardına uygun olduğunu ve omuz, dirsek ve sırtta EN 1621-1:2012 sertifikalı darbe emici korumalar bulunduğunu belirtiyor; sınıf harfi ve sırt koruyucusunun standardı ayrıca yazılmıyor. Reflektif detaylar, bel, kol ve bilekte ayar mevcut. Tex Motor sitesinden online satış yapılmıyor; fiyat liste fiyatı."
+    ],
+    "forWho": [
+      "Yerli üretim, uygun fiyatlı ve katmanlı bir 4 mevsim mont arayanlar",
+      "Yazın file, kışın kapitoneyle çalışan şehir sürücüleri ve kuryeler",
+      "Omuzda ek sert dış koruma isteyenler"
+    ],
+    "notFor": [
+      "Gün boyu yağmurda çalışan kuryeler: iç astar 'suya dayanıklı' olarak tanımlanıyor, su geçirmezlik değeri yok",
+      "AA/AAA sınıfı arayan hızlı tur sürücüleri"
+    ],
+    "pros": [
+      "Üç katman: file dış kabuk, suya ve rüzgara dayanıklı astar, termal kapitone",
+      "EN 17092-4:2020 ve EN 1621-1:2012 korumalar",
+      "Omuzlarda LDPE dış koruma",
+      "Ripstop Oxford kumaş ve reflektif detaylar"
+    ],
+    "cons": [
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Su geçirmezlik değeri yok",
+      "Beden aralığı ürün sayfasında listelenmiyor"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun, ayarları vücuda iyi oturtur.",
+      "uzunYol": "Ilıman havada kısa-orta turlarda iş görür.",
+      "yaz": "İç katmanlar çıkarıldığında file dış kabuk hava aldırır.",
+      "kis": "Termal kapitone ve rüzgar kesen astarla şehir içi kışa yeterli.",
+      "yagmur": "Kısa yağmurda astar korur; uzun yağmurda yağmurluk gerekir.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "4 mevsim katmanları ve reflektifleriyle kurye için uygun bir bütçe seçeneği; yağmurda ek yağmurluk önerilir."
+    },
+    "verdict": "Skyland, üç katmanlı yapısı ve omuzdaki ek LDPE korumayla Forte GT serisinin dengeli 4 mevsim modeli. Bütçe dostu ve yıl boyu kullanılabilir; su geçirmezlik ve sınıf bilgisi eksik olduğu için ağır yağmurda yağmurlukla tamamlanmalı.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "scudo/roma",
+      "lbc/911-couger"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+        "price": 7600,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Skyland ile Inferno arasındaki fark ne?",
+        "a": "İkisi de üç katmanlı 4 mevsim Forte GT montları. Skyland'de omuzlarda ek LDPE dış koruma ve EN 1621-1:2012 olarak belirtilen korumalar var; Inferno'da katmanlardan biri çıkarılabilir yağmurluk olarak tanımlanıyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Üretici iç astarı suya ve rüzgara dayanıklı olarak tanımlıyor; su geçirmezlik değeri vermiyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001079-skyland/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001079 Skyland Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "colors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Ripstop Oxford polyester fileli dış katman, suya ve rüzgara dayanıklı iç astar, termal kapitone katman",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Suya ve rüzgara dayanıklı çıkarılabilir iç astar",
+      "airbagCompatible": null,
+      "ventilation": "Fileli dış katman",
+      "closure": "Bel, kol ve bilekte ayar",
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 7600,
+      "max": 7600,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-ocean",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001055 Ocean",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Büyük bölümü fileli, ripstop kumaşlı, EN 17092-4 sertifikalı, omuz-dirsek-sırt korumalı ve reflektif hatlı, Türkiye üretimi uygun fiyatlı yazlık mont.",
+    "description": [
+      "Ocean, Forte GT'nin yazlık montu. Gövdenin büyük bölümü fileli kumaştan; sürüş sırasında hava akışı sağlayarak sıcak havada terlemeyi azaltmayı hedefliyor. Aşınma ve yırtılma direnci için ripstop kumaş kullanılıyor; bel ve bileklerde cırtlı ayar var.",
+      "Üretici montun Türkiye'de üretildiğini, EN 17092-4:2020 CE sertifikasına sahip olduğunu ve omuz, dirsek ve sırtta EN 1621 standardına uygun korumalar bulunduğunu belirtiyor; sınıf harfi ve koruyucu seviyesi yazılmıyor. Reflektif hatlar gece görünürlüğüne yardımcı oluyor. Siyah ve kırmızı renkleri var; serinin en uygun fiyatlı montlarından biri."
+    ],
+    "forWho": [
+      "Yazın şehir içinde serin ve korumalı kalmak isteyen sürücüler",
+      "Yaz aylarında çalışan, bütçe dostu korumalı mont arayan kuryeler",
+      "İlk montunu alan yeni sürücüler"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada kullanmak isteyenler; su geçirmez ya da termal katman yok",
+      "Yıl boyu tek montla çalışacak kuryeler: kış ve yağmur için ek ekipman gerekir"
+    ],
+    "pros": [
+      "Büyük bölümü file; yazın iyi hava akışı",
+      "EN 17092-4:2020 ve omuz, dirsek, sırt korumaları dahil",
+      "Ripstop kumaş ve reflektif hatlar",
+      "Uygun fiyat ve Türkiye üretimi"
+    ],
+    "cons": [
+      "Su geçirmez ve termal katman yok",
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Beden aralığı ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Yaz trafiğinde serin ve pratik.",
+      "uzunYol": "Sıcak havada kısa turlarda iş görür; yağmurluk taşınmalı.",
+      "yaz": "Asıl hedefi bu.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Yaz kuryeliği için uygun bütçe seçeneği; yağmurda yağmurlukla kullanılmalı."
+    },
+    "verdict": "Ocean, sertifikalı korumaları dahil, uygun fiyatlı ve yerli üretim bir yazlık file mont. Sıcak aylarda şehir ve kurye kullanımı için mantıklı; yağmur ve soğuk için tek başına yeterli değil.",
+    "rivals": [
+      "scudo/milano",
+      "yaren-tekstil/yrn-1390-yazlik",
+      "ixon/striker-2-air-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+        "price": 5040,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ocean'da sırt koruması var mı?",
+        "a": "Evet, üretici omuz, dirsek ve sırt bölgesinde EN 1621 standardına uygun korumalar bulunduğunu belirtiyor."
+      },
+      {
+        "q": "Yağmurda kullanılır mı?",
+        "a": "Fileli yapısı su geçirmez değil; yağmurda üstüne yağmurluk giyilmeli."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001055-ocean-siyah/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001055 Ocean Mont Siyah ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Kırmızı"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Ripstop kumaş, büyük bölümü fileli gövde",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Geniş file paneller",
+      "closure": "Bel ve bilekte cırtlı ayar",
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 5040,
+      "max": 5040,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "mont",
+    "lastCheckedAt": "2026-10-06",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "forte-gt-scorpion",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001080 Scorpion",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "Ripstop dış kumaşlı, çıkarılabilir kapitone iç astarlı, EN 17092-4:2020 sertifikalı ve omuz-dirsek-sırt korumalı yerli kışlık motosiklet montu.",
+    "description": [
+      "Scorpion, Forte GT'nin kış koşulları için tasarlanmış montu. Yırtılmaya dayanıklı ripstop dış kumaş ve çıkarılabilir kapitone iç astar düşük sıcaklıklarda ısı yalıtımı sağlıyor; astar çıkarıldığında mont daha hafif hale geliyor. Üretici modeli soğuk havada uzun süreli sürüşlere uygun olarak konumluyor.",
+      "Mont EN 17092-4:2020 standardına uygun üretiliyor; omuz, dirsek ve sırtta CE sertifikalı darbe korumaları bulunuyor. Ürün sayfası sınıf harfini, koruyucu standart ve seviyesini, su geçirmez membran veya reflektif detayları belirtmiyor. Fiyatı serinin orta bandında."
+    ],
+    "forWho": [
+      "Kışın şehir içinde motosiklet kullanmaya devam eden sürücüler",
+      "Soğukta çalışan ve bütçe dostu korumalı kışlık mont arayan kuryeler",
+      "Yerli üretim kışlık mont tercih edenler"
+    ],
+    "notFor": [
+      "Yağmurda tek başına güvenilecek mont isteyenler; su geçirmezlik belirtilmiyor",
+      "Yaz kullanımı",
+      "Yağmurlu kışta tam gün çalışan kuryeler: yağmurluk olmadan uygun değil"
+    ],
+    "pros": [
+      "Çıkarılabilir kapitone astar ile kışlık ısı yalıtımı",
+      "Ripstop dış kumaş",
+      "EN 17092-4:2020 ve omuz, dirsek, sırt korumaları",
+      "Uygun fiyat"
+    ],
+    "cons": [
+      "Su geçirmez membran ve reflektif bilgisi yok",
+      "Sınıf harfi ve koruyucu seviyesi belirtilmiyor",
+      "Beden ve renk bilgisi ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içi kullanım için tasarlanmış.",
+      "uzunYol": "Soğuk havada kısa şehirlerarası yolculuklarda iş görür; yağmur için ek katman gerekir.",
+      "yaz": "Uygun değil; astar çıkarılsa da kışlık kesim sıcakta yorar.",
+      "kis": "Asıl hedefi bu; kapitone astar soğukta sıcak tutar.",
+      "yagmur": "Su geçirmezlik belirtilmediği için yağmurluk gerekir.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Kuru soğuk havada kurye için uygun; yağmurda mutlaka yağmurlukla kullanılmalı."
+    },
+    "verdict": "Scorpion, kapitone astarı ve sertifikalı korumalarıyla bütçe dostu bir kışlık şehir montu. Su geçirmezlik ve görünürlük bilgisi olmadığından yağışlı kışta yağmurlukla birlikte düşünülmeli.",
+    "rivals": [
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "tex-motor/forte-gt-skyland",
+      "scudo/roma"
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+        "price": 6360,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Scorpion su geçirmez mi?",
+        "a": "Ürün sayfası ripstop dış kumaş ve kapitone astardan söz ediyor; su geçirmez membran belirtmiyor. Yağmurda yağmurluk giyilmeli."
+      },
+      {
+        "q": "Korumalar dahil mi?",
+        "a": "Evet, omuz, dirsek ve sırtta CE sertifikalı korumalar montla geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001080-scorpion-4-mevsim/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001080 Scorpion Kışlık Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "colors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Ripstop dış kumaş, çıkarılabilir kapitone iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 6360,
+      "max": 6360,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir."
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "midland",
+    "name": "Midland",
+    "country": "İtalya",
+    "founded": null,
+    "website": "https://www.midlandeurope.com/",
+    "about": [
+      "Midland, Avrupa'da İtalya merkezli Midland Europe üzerinden satılan bir telsiz ve iletişim cihazı markası. Motosiklet interkomları; telsiz, kamera ve araç içi iletişim ürünleriyle birlikte markanın ana ürün gruplarından biri.",
+      "Motosiklet tarafında BTX Pro S serisi Bluetooth interkomlar ve kendi geliştirdiği Midland Mesh Communication (MMC) altyapısını kullanan R serisi mesh interkomlar öne çıkıyor. Marka, Bluetooth interkom modunda Cardo, Sena ve Interphone cihazlarıyla uyumu vurguluyor.",
+      "Türkiye'de Mototaş tarafından distribütör garantisiyle satılıyor; bu da yedek parça ve servis erişimi açısından avantaj sağlıyor."
+    ],
+    "strengths": [
+      "Uygun fiyatlı mesh (R1 Mesh)",
+      "Diğer markalarla Bluetooth uyumu",
+      "Uzun pil ömrü",
+      "Türkiye'de distribütör desteği"
+    ],
+    "categories": [
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "BTX Pro S serisi",
+        "note": "Çift Bluetooth çipli orta segment interkomlar.",
+        "url": "https://www.midlandeurope.com/en_150/products/btx2-pro-s-lr"
+      },
+      {
+        "name": "R serisi",
+        "note": "Mıknatıslı montajlı, RCF sesli interkomlar; R1 Mesh, MMC mesh altyapısını kullanır.",
+        "url": "https://www.midlandeurope.com/en_150/products/r1-mesh-intercom-midland"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "R1 Mesh",
+        "url": "https://www.midlandeurope.com/en_150/products/r1-mesh-intercom-midland",
+        "reason": "Mesh ve Bluetooth'u bir arada, segmentine göre uygun fiyata sunan model."
+      }
+    ],
+    "alternatives": [
+      "sena",
+      "cardo",
+      "interphone"
+    ],
+    "history": [],
+    "strongestLine": "Uygun fiyatlı Bluetooth ve mesh interkomlar",
+    "sources": [
+      {
+        "url": "https://www.midlandeurope.com/en_150/cat/intercoms/moto-intercoms",
+        "type": "manufacturer",
+        "label": "Midland Europe – Motosiklet interkomları",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.mototas.com.tr/midland",
+        "type": "distributor",
+        "label": "Mototaş – Midland Türkiye distribütör sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "ejeas",
+    "name": "EJEAS",
+    "country": "Çin",
+    "founded": 2005,
+    "website": "https://www.ejeas.com/",
+    "about": [
+      "EJEAS, Shenzhen merkezli Shenzhen Ejeas Intelligent Technology Co., Ltd. şirketinin markası. Şirket 2005'te kuruldu; motosiklet kaskı interkomlarının yanı sıra kayak, antrenör ve hakem iletişimi için de cihazlar üretiyor.",
+      "Motosiklet tarafında bütçe dostu Bluetooth modelleri (Q7 gibi) ve kendi mesh altyapısını kullanan Q8, MS serisi gibi mesh modelleriyle biliniyor. Ürünleri uygun fiyatları nedeniyle kuryeler ve ilk interkomunu alan sürücüler arasında yaygın.",
+      "Mesh altyapısı yalnız EJEAS cihazlar arasında çalışıyor; Sena veya Cardo mesh'iyle uyumlu değil."
+    ],
+    "strengths": [
+      "Çok uygun fiyat",
+      "Bütçe sınıfında mesh seçenekleri",
+      "IP67 ve USB-C gibi güncel donanım"
+    ],
+    "categories": [
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "Q serisi",
+        "note": "Giriş ve orta seviye Bluetooth ve mesh interkomlar (Q7, Q8).",
+        "url": "https://www.ejeas.com/products/q8"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Q8",
+        "url": "https://www.ejeas.com/products/q8",
+        "reason": "Bütçe sınıfında 6 kişilik mesh grup sunan model."
+      }
+    ],
+    "alternatives": [
+      "midland",
+      "sena"
+    ],
+    "history": [
+      {
+        "year": 2005,
+        "event": "Shenzhen Ejeas Intelligent Technology kuruldu; ilk markası VNETPHONE ile iletişim ürünlerine odaklandı."
+      },
+      {
+        "year": 2009,
+        "event": "V6 kask interkomu piyasaya sürüldü."
+      },
+      {
+        "year": 2017,
+        "event": "Mesh iletişim teknolojisine yatırım yapmaya başladı."
+      }
+    ],
+    "strongestLine": "Bütçe dostu Bluetooth ve mesh interkomlar",
+    "sources": [
+      {
+        "url": "https://www.ejeas.com/pages/ejeas-brand-story",
+        "type": "manufacturer",
+        "label": "EJEAS – Marka hikâyesi",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.ejeas.com/pages/contact",
+        "type": "manufacturer",
+        "label": "EJEAS – İletişim",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

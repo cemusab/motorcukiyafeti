@@ -1,0 +1,73 @@
+[
+  {
+    "slug": "karbon-mu-fiber-mi-kask",
+    "title": "Karbon Kask mı, Fiber mi, Termoplastik mi?",
+    "description": "Karbon en hafif ve en pahalı, fiber dengeli, termoplastik bütçe dostudur; üçü de ECE 22.06 onayı alabilir. Hangisinin sana uyduğunu anlattık.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 5,
+    "intro": "Üç kabuk malzemesi de ECE 22.06 testlerini geçebildiği için aralarındaki temel fark güvenlikten çok ağırlık, fiyat ve kullanım ömrü hissidir: karbon en hafif ve en pahalısı, fiber (kompozit) dengeli seçenek, termoplastik ise en uygun fiyatlısıdır. Seçimi bütçene ve ne kadar uzun süre kask taktığına göre yap.",
+    "sections": [
+      {
+        "heading": "Kabuk ne işe yarar?",
+        "paragraphs": [
+          "Kaskın dış kabuğu darbeyi geniş bir alana yayar ve sivri cisimlerin delmesini engeller; enerjinin asıl sönümlendiği yer ise altındaki EPS köpüktür. Bu yüzden kaskın koruması, yalnızca kabuk malzemesine değil, kabuk ile köpüğün birlikte nasıl tasarlandığına bağlıdır.",
+          "Bu nedenle \"karbon kask daha güvenlidir\" demek doğru değildir. Onay etiketi taşıyan her kask, malzemesinden bağımsız olarak aynı testlerden geçmiştir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Termoplastik (polikarbonat vb.)",
+        "paragraphs": [
+          "Plastik kalıplara enjeksiyonla üretilir. Seri üretime uygun olduğu için uygun fiyatlıdır. Testleri geçmek için genellikle biraz daha kalın kabuk ya da köpük gerekir; bu da kaskı aynı sınıftaki kompozitlere göre daha ağır ve biraz daha hacimli yapabilir.",
+          "Termoplastik malzemeler UV ışınına ve bazı kimyasallara karşı daha hassastır; bu yüzden üreticinin bakım talimatlarına uymak burada özellikle önemlidir. Yeni başlayan ve bütçesi sınırlı sürücüler için mantıklı bir başlangıçtır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Fiber / kompozit (cam elyafı, aramid karışımları)",
+        "paragraphs": [
+          "Cam elyafı, aramid ve benzeri liflerin reçineyle katmanlanmasıyla üretilir. Elle yapılan işçilik payı daha fazla olduğundan termoplastikten pahalıdır, ama genellikle daha hafiftir. Birçok orta ve üst segment kask bu yapıdadır.",
+          "Kompozit kabuklarda üreticiler çoğu zaman birden fazla kabuk bedeni kullanır; böylece küçük beden kask, gereksiz büyük bir kabuk taşımaz. Bu hem ağırlığı hem de görünümü iyileştirir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Karbon fiber",
+        "paragraphs": [
+          "Karbon lifler yüksek dayanım/ağırlık oranına sahiptir; bu sayede aynı dayanım daha hafif bir kabukla elde edilebilir. Malzeme ve işçilik maliyeti yüksek olduğundan en pahalı seçenektir. Birçok \"karbon\" kask aslında karbonu diğer liflerle birlikte kullanan karma bir kabuğa sahiptir; ürün açıklamasında kabuğun tam yapısına bak.",
+          "Karbonun en belirgin faydası uzun yolda, pistte ve rüzgârda boyun yorgunluğunun azalmasıdır. Günde kısa mesafeler süren bir sürücü için aradaki fark daha az hissedilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Hangisini seçmeli?",
+        "paragraphs": [
+          "Önce doğru bedeni ve kafa şekline uyan modeli bul, sonra malzemeye bak. Malzeme bir tercih katmanıdır; uymayan bir karbon kask, tam oturan bir termoplastik kasktan daha az korur."
+        ],
+        "bullets": [
+          "Sınırlı bütçe, şehir içi kullanım: termoplastik",
+          "Düzenli kullanım, uzun yol, ağırlık/fiyat dengesi: fiber/kompozit",
+          "Uzun yol, sportif sürüş, en düşük ağırlık önceliği: karbon"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Karbon kask düşünce daha kolay kırılır mı?",
+        "a": "Karbon ve kompozit kabuklar darbe anında enerjiyi kısmen kendi katmanlarında dağıtır ve çatlayabilir; bu tasarımın bir parçasıdır. Hangi malzeme olursa olsun darbe almış kask değiştirilmelidir."
+      },
+      {
+        "q": "Termoplastik kaskın ömrü daha mı kısa?",
+        "a": "Termoplastik UV ve kimyasallara daha hassastır, bu yüzden bakım ve saklama koşulları daha önemlidir. Değiştirme süresi için üreticinin kılavuzundaki öneriyi esas al."
+      },
+      {
+        "q": "Kaskın ağırlığı ne kadar önemli?",
+        "a": "Uzun sürüşlerde ağırlık boyun yorgunluğuna doğrudan etki eder. Ancak ağırlık tek başına güvenlik ölçütü değildir; dengeli ağırlık dağılımı ve iyi oturuş da yorgunluğu azaltır."
+      }
+    ],
+    "relatedGuides": ["kask-nasil-secilir", "kask-dusurulurse-degistirilir-mi", "ece-22-06-nedir"],
+    "relatedCategories": ["kask/karbon-kask", "kask/fiber-kask", "kask/termoplastik-kask"],
+    "sources": []
+  }
+]

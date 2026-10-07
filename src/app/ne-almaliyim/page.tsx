@@ -1,0 +1,24 @@
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { Container, LinkCard, Notice, PageHead } from "@/components/ui";
+import { activeLists } from "@/lib/catalog";
+import { meta } from "@/lib/seo";
+
+export const metadata = meta({
+  title: "Ne Almalıyım? Kask, Mont ve İnterkom Önerileri",
+  description: "Gerçek sorulara göre hazırlanmış öneri listeleri: en hafif kasklar, çene açılır kasklar, uzun yol kaskları, Mesh interkomlar ve yazlık montlar.",
+  path: "/ne-almaliyim",
+});
+
+export default function ListsPage() {
+  const lists = activeLists();
+  return (
+    <>
+      <PageHead title="Ne almalıyım?" intro="Her liste açık kriterlerle, yalnızca verisi doğrulanmış ürünlerden oluşturulur. Kriterleri karşılayan ürün sayısı az ise liste kısa kalır; listeyi doldurmak için ürün eklemeyiz.">
+        <Breadcrumbs items={[{ name: "Ne Almalıyım?", href: "/ne-almaliyim" }]} />
+      </PageHead>
+      <Container className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {lists.length ? lists.map((l) => <LinkCard key={l.slug} href={`/ne-almaliyim/${l.slug}`} title={l.title} desc={l.description} icon="star" />) : <Notice>Listeler ürün verileri eklendikçe yayınlanacak.</Notice>}
+      </Container>
+    </>
+  );
+}

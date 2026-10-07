@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "interkom-nasil-secilir",
+    "title": "İnterkom Nasıl Seçilir?",
+    "description": "İnterkom seçerken önce kullanımını (tek, ikili, grup), sonra Mesh ihtiyacını, kask uyumunu, ses kalitesini ve uygulama desteğini değerlendir.",
+    "topic": "interkom",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 6,
+    "intro": "İnterkom seçerken önce nasıl kullanacağını belirle: tek başına navigasyon ve müzik için basit bir Bluetooth cihaz yeterliyken, düzenli grup sürüşü yapıyorsan Mesh destekli bir model gerekir. Ardından kaskınla uyumu, hoparlör kalitesini, uygulama ve güncelleme desteğini ve arkadaşlarının hangi markayı kullandığını kontrol et.",
+    "sections": [
+      {
+        "heading": "1. Kullanım senaryonu belirle",
+        "paragraphs": [
+          "İnterkomlar sadece sürücüler arası konuşma için değil; telefon görüşmesi, navigasyon komutları ve müzik için de kullanılır. Hangi işlevin senin için öncelikli olduğu, ihtiyacın olan cihazın sınıfını belirler."
+        ],
+        "bullets": [
+          "Tek sürücü (navigasyon, telefon, müzik): giriş seviyesi Bluetooth",
+          "Sürücü + yolcu veya iki motosiklet: Bluetooth interkom",
+          "Üç ve daha fazla motosikletle düzenli grup: Mesh interkom"
+        ]
+      },
+      {
+        "heading": "2. Bluetooth mu, Mesh mi?",
+        "paragraphs": [
+          "Klasik Bluetooth interkom, cihazları zincir gibi birbirine bağlar; grup büyüdükçe kurulum zorlaşır ve zincirdeki bir halka koptuğunda bağlantı da kopabilir. Bu yüzden Bluetooth, ikili ve küçük grup kullanımında rahattır.",
+          "Mesh interkomlarda her cihaz ağın bir düğümü olur; bir sürücü menzilden çıkınca ağ kendini yeniden düzenler ve diğerleri konuşmaya devam eder. Cardo bunu DMC (Dynamic Mesh Communication), Sena ise Mesh Intercom olarak adlandırır. Grup sürüşü yapıyorsan Mesh'in sağladığı rahatlık fiyat farkına değer."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "3. Kaskınla uyumu kontrol et",
+        "paragraphs": [
+          "İnterkomun kaskın içinde iyi ses verebilmesi için hoparlörlerin kulak hizasına denk gelmesi gerekir. Birçok kaskta hoparlör cepleri bulunur; bazı modellerde ise kaska özel tasarlanmış gömülü interkom seçenekleri vardır. Kaska özel sistemler daha temiz bir görünüm ve iyi aerodinamik sunar, ama yalnızca o kask modeliyle kullanılabilir.",
+          "Kelepçeli ya da yapışkanlı evrensel bağlantı aparatları çoğu kaska uyar. ECE 22.06, kaskla birlikte sunulan aksesuarlar ve sonradan takılan parçalar için kurallar getirdi; bu nedenle kaskın üreticisinin uyumlu ilan ettiği montaj yöntemini tercih et ve kabuğu delmek ya da kesmek gibi değişikliklerden kaçın."
+        ],
+        "bullets": [
+          "Hoparlör ceplerinin derinliği ve konumu",
+          "Kaska özel interkom seçeneği var mı?",
+          "Çene açılır kaskta mikrofon konumu (çene bölümüne sabitlenen tip gerekebilir)"
+        ]
+      },
+      {
+        "heading": "4. Ses, mikrofon ve kullanım",
+        "paragraphs": [
+          "Hoparlör kalitesi müzik dinlerken ve yüksek hızda belirgin fark yaratır; üst seviye modellerde Cardo'nun JBL, Sena'nın Harman Kardon iş birlikleriyle geliştirilmiş ses sistemleri bulunur. Mikrofonun rüzgâr gürültüsünü ne kadar bastırdığı ise karşı tarafın seni ne kadar net duyduğunu belirler.",
+          "Sürüş sırasında tuşlara basmak zordur; sesli komut desteği, eldivenle kullanılabilen büyük tuşlar veya döner düğme önemli konfor sağlar. Uzun yolda pil ömrü, hızlı şarj ve USB-C girişi de dikkate alınmalıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "5. Uygulama, güncelleme ve marka uyumu",
+        "paragraphs": [
+          "Güncel interkomlar telefon uygulamasıyla ayarlanır (ör. Cardo Connect, Sena Motorcycles). Yazılım güncellemeleri hataları gidermenin yanı sıra yeni özellikler de getirebilir; kablosuz (OTA) güncelleme bu süreci kolaylaştırır.",
+          "Grup sürüşlerinde arkadaşlarının kullandığı marka önemlidir. Cardo'nun DMC'si ile Sena'nın Mesh'i birbiriyle Mesh üzerinden konuşmaz; markalar arası bağlantı Bluetooth tabanlı \"universal intercom\" özellikleriyle sağlanır ve bu durumda Mesh'in grup avantajları kaybolur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "6. Dayanıklılık",
+        "paragraphs": [
+          "İnterkom yağmura, toza ve titreşime maruz kalır. Üreticinin belirttiği su ve toz dayanım sınıfına (ör. IP67) bak. Ayrıca bağlantı aparatının sağlamlığı ve yedek aparat bulunabilirliği, ikinci bir kaskta kullanmak istediğinde işini kolaylaştırır."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Yolcuyla konuşmak için Mesh gerekir mi?",
+        "a": "Hayır. Sürücü ile yolcu arasındaki ikili konuşma için Bluetooth interkom yeterlidir. Mesh, özellikle üç ve daha fazla motosikletle sürüşte fark yaratır."
+      },
+      {
+        "q": "Farklı markadaki arkadaşımla konuşabilir miyim?",
+        "a": "Çoğu güncel interkom, Bluetooth üzerinden diğer markalarla eşleşebilen bir universal intercom özelliği sunar. Ancak bu bağlantı Mesh değil Bluetooth tabanlıdır ve özellik desteği modele göre değişir."
+      },
+      {
+        "q": "İnterkomla müzik dinlemek güvenli mi?",
+        "a": "Ses seviyesini trafiği duyabileceğin düzeyde tut. Yerel trafik mevzuatı sürüş sırasında kulaklık ve cihaz kullanımına ilişkin kurallar içerebilir; bunları kontrol et."
+      },
+      {
+        "q": "Kaska özel interkom mu, evrensel mi?",
+        "a": "Kaska özel sistemler daha temiz entegrasyon sunar ama başka kaska taşınamaz. Kaskını sık değiştirmeyi düşünüyorsan evrensel bir model daha esnektir."
+      }
+    ],
+    "relatedGuides": ["mesh-nedir", "cardo-mu-sena-mi", "kask-nasil-secilir", "adventure-surucu-ekipmanlari"],
+    "relatedCategories": ["interkom", "interkom/mesh-interkom", "interkom/bluetooth-interkom", "interkom/kaska-ozel-interkom", "kask/interkomlu-kask"],
+    "sources": [
+      { "url": "https://cardosystems.com/products/packtalk-neo", "type": "manufacturer", "label": "Cardo Packtalk Neo ürün sayfası (DMC, JBL, Cardo Connect)", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sena.com/en-us/product/50s/", "type": "manufacturer", "label": "Sena 50S ürün sayfası (Mesh, Harman Kardon, Sena Motorcycles)", "checkedAt": "2026-10-06" },
+      { "url": "https://www.rad.eu/en/concepts/ece-r-22-06-55.html", "type": "review", "label": "Louis/Rad: ECE-R 22/06 ve aksesuarlar", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

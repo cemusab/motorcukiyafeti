@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "motosiklet-eldiveni-nasil-secilir",
+    "title": "Motosiklet Eldiveni Nasıl Seçilir? (EN 13594)",
+    "description": "Motosiklet eldiveni seçerken EN 13594 Level 1 ve Level 2 farkı, KP işareti, bilek boyu, malzeme, mevsim ve doğru beden.",
+    "topic": "eldiven",
+    "readingMinutes": 6,
+    "intro": "Motosiklet eldiveni seçerken önce EN 13594:2015 etiketine bakmalısın: Level 1 temel, Level 2 daha yüksek koruma demektir ve KP işareti parmak eklemi koruyucusunun darbe testinden geçtiğini gösterir. Ardından kullanımına göre bilek boyunu, malzemeyi ve mevsimi seç, bedeni de gidonu tutuyormuş gibi elin kapalıyken dene.",
+    "sections": [
+      {
+        "heading": "Etiketi oku: Level 1, Level 2 ve KP",
+        "paragraphs": [
+          "EN 13594:2015 iki performans seviyesi tanımlar. Level 1, kullanımı kolay ve hareketi az kısıtlayan ama belirli bir koruma sağlayan eldivenler içindir. Level 2 ise sürtünme ve kesilme gibi testlerde daha sıkı şartları karşılayan, daha yüksek korumalı eldivenlerdir.",
+          "Parmak eklemi darbe koruması Level 1'de isteğe bağlıdır, Level 2'de ise zorunlu olarak test edilir. Etikette KP ibaresi varsa eklem koruyucusu darbe testini geçmiş demektir. Üzerinde sert kabuk olan ama KP ibaresi taşımayan eldivenler de vardır; bu durumda kabuk test edilmemiştir."
+        ],
+        "bullets": [
+          "Level 1: Bilek manşeti daha kısa olabilir, kesilme testi yalnızca avuç içinde",
+          "Level 2: Daha uzun manşet, daha güçlü bilek bağlantısı, daha geniş alanda kesilme testi",
+          "KP: Parmak eklemi koruyucusu darbe testinden geçmiş"
+        ]
+      },
+      {
+        "heading": "Avuç içi: düşmede ilk temas eden bölge",
+        "paragraphs": [
+          "Düşen sürücü refleksle elini öne uzatır ve ilk temas çoğunlukla avuç içinin alt kısmında olur. Bu bölgedeki sert kaydırıcılar (slider), eli zeminde yapıştırmak yerine kaydırarak bilek kemiklerine binen yükü azaltmayı amaçlar.",
+          "Avuç içinde çift kat deri veya takviyeli kumaş olup olmadığına bak. Bu bölge aynı zamanda gidon tutuşunu belirlediği için çok kalın dolgu hissi azaltabilir; denerken gidonu kavradığını düşün."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Bilek boyu ve bağlantı",
+        "paragraphs": [
+          "Eldivenin düşmede elden çıkmaması en temel şarttır. Standart, bilek bağlantısının belirli bir çekme kuvvetine dayanmasını ister ve Level 2'de bu şart daha sıkıdır. Kısa şehir eldivenlerinde bile bilek kayışı sıkıca kapanabilmelidir.",
+          "Uzun manşetli eldivenler mont kolunun üstüne veya altına girerek bilek ile mont arasında açık kalmasını engeller. Sport ve touring kullanımda uzun manşet, yazın şehirde ise kısa manşet tercih edilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Malzeme ve mevsim",
+        "paragraphs": [
+          "Deri, özellikle keçi ve kanguru derisi, ince olmasına rağmen iyi sürtünme dayanımı ve hissi bir arada sunar. Tekstil eldivenler daha hafif ve havalandırmalıdır; çoğu modelde deri avuç içi ve tekstil üst gövde birlikte kullanılır.",
+          "Yazlık eldivenlerde delikli deri veya file paneller, kışlık eldivenlerde yalıtım ve su geçirmez membran bulunur. Kalın kışlık eldiven elcik ve fren hissini azaltır; çok soğuk iklimlerde ısıtmalı eldiven ya da elcik ısıtıcısı daha ince bir eldivenle sürüş imkânı verir."
+        ],
+        "bullets": [
+          "Yazlık: delikli deri veya file, kısa manşet",
+          "Kışlık: yalıtım, membran, uzun manşet",
+          "Touring: hava koşullarına dayanım ve konfor",
+          "Sport: uzun manşet, sert koruyucular, parmak köprüsü"
+        ]
+      },
+      {
+        "heading": "Doğru beden",
+        "paragraphs": [
+          "Eldiveni elin açıkken değil, gidonu kavrar gibi yumruk yapıp gevşetirken dene. Parmak uçları eldivenin sonuna değmeli ama bastırmamalı; parmak arası dikişleri parmak diplerine oturmalıdır. Bol eldiven düşmede dönebilir, dar eldiven ise kan dolaşımını kısıtlayıp soğukta elleri daha çabuk üşütür.",
+          "Markaların bedenleri birbirinden farklıdır. Satın almadan önce üreticinin beden tablosuna göre avuç çevresini ölç ve iki beden arasındaysan elcik tutuşunda deneyerek karar ver."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kısa şehir eldiveni güvenli mi?",
+        "a": "EN 13594 etiketi taşıyorsa ve bilek kayışı sıkı kapanıyorsa şehir içi kullanım için koruma sağlar. Ancak uzun manşetli eldiven kadar bilek bölgesini kapsamaz; hız ve mesafe arttıkça uzun manşet tercih et."
+      },
+      {
+        "q": "Su geçirmez eldiven yeterince hissettirir mi?",
+        "a": "Membran katmanı his üzerinde bir miktar etki yapar. Laminasyonlu membranlı modeller, ayrı iç astarlı modellere göre genellikle daha iyi his verir ve parmaklarda katman kayması yaşatmaz."
+      },
+      {
+        "q": "Dokunmatik ekran uyumu önemli mi?",
+        "a": "Navigasyonu telefondan kullanıyorsan pratiktir, ancak sürüş halinde telefon kullanmak dikkat dağıtır. Bu özelliği koruma ve beden kriterlerinden sonra değerlendir."
+      },
+      {
+        "q": "Eldiveni ne zaman değiştirmeliyim?",
+        "a": "Düşmede avuç içi veya eklem bölgesi aşındıysa, dikişler açıldıysa ya da bilek kayışı artık sıkı kapanmıyorsa yenile. Deri eldivenlerin ömrü düzenli temizlik ve bakımla uzar."
+      }
+    ],
+    "relatedGuides": [
+      "ilk-motosiklet-ekipmanlari",
+      "kislik-motosiklet-ekipmani",
+      "yazlik-motosiklet-ekipmani"
+    ],
+    "relatedCategories": [
+      "eldiven",
+      "eldiven/yazlik-eldiven",
+      "eldiven/kislik-eldiven",
+      "eldiven/sport-eldiven",
+      "eldiven/touring-eldiven"
+    ],
+    "sources": [
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594:2015 motosiklet eldiveni standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.intertek.com/textiles-apparel/protective-apparel/motorcycle-gloves-testing/",
+        "type": "homologation",
+        "label": "Intertek – EN 13594:2015 eldiven testleri",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

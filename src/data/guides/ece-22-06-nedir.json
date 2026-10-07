@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "ece-22-06-nedir",
+    "title": "ECE 22.06 Nedir?",
+    "description": "ECE 22.06, motosiklet kasklarının güncel BM/Avrupa onay standardıdır. Hangi testleri içerdiğini ve etiketin nasıl okunduğunu anlattık.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 6,
+    "intro": "ECE 22.06, Birleşmiş Milletler Avrupa Ekonomik Komisyonu'nun (UNECE) 22 numaralı regülasyonunun motosiklet kaskları için geçerli güncel sürümüdür ve bir kaskın darbe, dönme etkisi, vizör ve bağlantı testlerinden geçtiğini gösterir. 2020'de kabul edilen bu seri, yaklaşık 20 yıl kullanılan 22.05'in yerini aldı; Avrupa pazarında yeni satılan kasklar geçiş döneminden sonra 22.06 onaylı olmak zorundadır.",
+    "sections": [
+      {
+        "heading": "Regülasyonun kısa tarihi",
+        "paragraphs": [
+          "UN R22 regülasyonunun 06 serisi değişiklikleri, BM'nin araç regülasyonlarını yöneten WP.29 forumunda Haziran 2020'de kabul edildi. Ardından üreticilere yeni testlere uyum için geçiş süresi tanındı. Kaynakların büyük çoğunluğuna göre bu sürecin sonunda, 2024 başından itibaren Avrupa'da yeni satışa sunulan kaskların 22.06 onaylı olması gerekiyor.",
+          "Önemli bir ayrıntı: geçiş, satışa sunulan yeni kaskları kapsar. Daha önce alınmış 22.05 onaylı bir kaskı takmak yasak değildir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "22.06 hangi testleri içerir?",
+        "paragraphs": [
+          "Yeni seride doğrusal darbe testleri genişletildi. Kask, standart 7,5 m/s hızın yanında 6 m/s düşük hızda ve 8,2 m/s yüksek hızda da test edilir. Düşük hız testinin amacı, yalnızca sert darbelere göre fazla katı tasarlanmış ve küçük darbelerde yeterince enerji sönümleyemeyen kaskları elemektir.",
+          "Darbe noktası sayısı da arttı: 22.05'teki noktalara ek olarak kaskın farklı bölgelerinde yeni test noktaları tanımlandı. Böylece üreticinin kaskı yalnızca belirli noktalarda güçlü yapması zorlaştı."
+        ],
+        "bullets": [
+          "Düşük, standart ve yüksek hızda doğrusal darbe testleri",
+          "Daha fazla darbe noktası",
+          "Açılı (oblique) darbe ile dönme ivmesi ölçümü",
+          "Vizöre yüksek hızlı parçacık testi",
+          "Çene açılır kasklarda açık ve kapalı konumda test"
+        ]
+      },
+      {
+        "heading": "Açılı darbe ve dönme ivmesi",
+        "paragraphs": [
+          "22.06'nın en önemli yeniliği açılı darbe testidir. Gerçek kazalarda kafa yere çoğunlukla dik değil, bir açıyla çarpar; bu da kafanın hızla dönmesine ve beyinde dönme kaynaklı yaralanmalara yol açabilir. Yeni testte kask eğimli bir yüzeye düşürülür ve kafa modelinde oluşan dönme ivmesi ölçülür.",
+          "Bu test, kaskın kabuğunun ve iç yapısının bu dönme kuvvetini ne kadar azalttığını sınar. 22.05'te böyle bir ölçüm yoktu."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Vizör, güneş vizörü ve aksesuarlar",
+        "paragraphs": [
+          "Vizörler artık yüksek hızlı parçacık testine tabidir: küçük bir çelik bilye yaklaşık 60 m/s hızla vizöre fırlatılır ve vizörün delinmemesi ya da parçalanmaması beklenir. Bu, yolda taş çarpması gibi durumları temsil eder. Dahili güneş vizörlerinin görüş alanı ve fotokromik vizörler için de yeni şartlar getirildi.",
+          "22.06 ayrıca kaskla birlikte sunulan aksesuarları (ör. fabrikada takılı interkom) da gündeme aldı ve sonraki eklerle kaska sonradan takılan aksesuarların değerlendirilmesi düzenlendi. Pratikte bunun anlamı şu: kaskın üreticisinin uyumlu ilan ettiği interkomu ve aksesuarı kullanmak en doğru yoldur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Etiket nasıl okunur?",
+        "paragraphs": [
+          "ECE etiketi genellikle çene kayışına dikilir. Daire içindeki E harfi ve yanındaki sayı onayı veren ülkeyi gösterir (ör. E2 Fransa, E3 İtalya). Onay numarasının ilk iki hanesi regülasyon serisini belirtir: 06 ile başlıyorsa kask 22.06'ya göre onaylanmıştır.",
+          "Etikette ayrıca kask tipini gösteren harfler bulunur: P çene korumalı, J çene korumasız (jet), NP koruyucu olmayan çene parçası anlamına gelir. Çene açılır kasklarda P/J ibaresi, kaskın hem kapalı hem açık konumda onaylandığını gösterir."
+        ],
+        "bullets": [
+          "E + ülke numarası: onaylayan ülke",
+          "06 ile başlayan numara: 22.06 onayı",
+          "P, J, P/J, NP: çene koruma durumu"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Türkiye'de ECE 22.06 zorunlu mu?",
+        "a": "Türkiye, ECE regülasyonlarını uygulayan ülkeler arasındadır ve piyasadaki kaskların büyük kısmı ECE onaylıdır. Güncel yasal yükümlülükler için ilgili resmi düzenlemeleri kontrol etmek gerekir; tüketici olarak yeni kask alırken 22.06 etiketi aramak en güvenli yaklaşımdır."
+      },
+      {
+        "q": "22.06 kask, 22.05 kasktan ne kadar daha güvenli?",
+        "a": "Standart tek bir yüzde vermez. 22.06'nın farkı, kaskı daha fazla noktada, farklı hızlarda ve dönme etkisine karşı test etmesidir; bu da zayıf noktaları olan kaskların onay almasını zorlaştırır."
+      },
+      {
+        "q": "DOT veya Snell etiketi 22.06 yerine geçer mi?",
+        "a": "Hayır, bunlar farklı ülkelere ve kuruluşlara ait ayrı standartlardır. Avrupa ve ECE uygulayan pazarlarda geçerli olan onay ECE 22'dir; bazı kasklar birden fazla standarda aynı anda sahiptir."
+      },
+      {
+        "q": "Etiketi olmayan kask kullanılabilir mi?",
+        "a": "Onay etiketi olmayan bir kaskın hangi testlerden geçtiğini bilemezsin. Etiketi yırtılmış eski bir kaskı yenilemek, etiketsiz yeni bir kaskı ise hiç almamak gerekir."
+      }
+    ],
+    "relatedGuides": ["ece-22-05-ve-22-06-farki", "kask-nasil-secilir", "kask-kac-yilda-degistirilir", "interkom-nasil-secilir"],
+    "relatedCategories": ["kask", "kask/kapali-kask", "kask/cene-acilir-kask"],
+    "sources": [
+      { "url": "https://globalautoregs.com/documents/22484", "type": "homologation", "label": "UN R22 06 serisi değişiklik önerisi (WP.29/2020/60), Haziran 2020'de kabul", "checkedAt": "2026-10-06" },
+      { "url": "https://globalautoregs.com/texts?rule_id=33", "type": "homologation", "label": "UN R22 regülasyon metinleri ve ekleri", "checkedAt": "2026-10-06" },
+      { "url": "https://www.rad.eu/en/concepts/ece-r-22-06-55.html", "type": "review", "label": "Louis/Rad: ECE-R 22/06 açıklaması", "checkedAt": "2026-10-06" },
+      { "url": "https://www.lerepairedesmotards.com/dossiers/norme-homologation-casque-moto-ece-22-06.php", "type": "review", "label": "Le Repaire des Motards: ECE 22.06 dosyası", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

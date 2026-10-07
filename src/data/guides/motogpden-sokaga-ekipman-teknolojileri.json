@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "motogpden-sokaga-ekipman-teknolojileri",
+    "title": "Pistten Sokağa: MotoGP'nin Motosiklet Ekipmanına Kazandırdıkları",
+    "description": "Airbag tulumdan diz sürtmesine, FIM kask homologasyonundan sırt koruyucuya: pistte doğup yol ekipmanına geçen teknolojiler.",
+    "topic": "motogp",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 8,
+    "intro": "Bugün yol sürücülerinin kullandığı airbag yelekler, sırt koruyucular, diz sürtmeleri ve parmak köprülü eldivenler, ilk olarak Grand Prix pistlerinde ihtiyaç duyulup geliştirilen teknolojilerdir. Pist, bu ürünler için hem test alanı hem vitrin oldu: airbag'li tulum 2018'den beri MotoGP'de zorunlu, kasklar ise 2026'dan itibaren FIM'in en sıkı yarış standardı FRHPhe-02'yi geçmek zorunda. Bu rehberde her teknolojinin pistteki kökenini ve sitemizde hangi ürün grubunda karşına çıktığını sade bir dille anlatıyoruz.",
+    "sections": [
+      {
+        "heading": "Airbag tulumlar: Dainese D-air ve Alpinestars Tech-Air",
+        "paragraphs": [
+          "Dainese'ye göre airbag'li bir yarış tulumu ilk kez 2007 Valencia Grand Prix'sinde, 125cc serbest antrenmanında Marco Simoncelli'nin düşüşünde devreye girdi. Dainese, D-air'in profesyonel Grand Prix pilotlarını koruyan ilk airbag sistemi olduğunu ve fikrin ilk eskizden çalışan sisteme ulaşmasının 12 yıl sürdüğünü belirtiyor.",
+          "Alpinestars, motosiklet sürücüleri için kendiliğinden açılan bir airbag üzerine araştırmaya 2001'de başladığını, 2003'te tüm sensörlerin motosiklete değil sürücünün giysisine yerleştirildiği kablosuz, elektronik bir sistemde karar kıldığını söylüyor. Markanın MotoGP pilotları airbag'li tulumları 2009 sezonunda giymeye başladı; ilk Tech-Air yarış tulumu 2011'de satışa çıktı.",
+          "FIM ve MotoGP, 2018 sezonundan itibaren MotoGP, Moto2 ve Moto3'teki tam zamanlı pilotlar için airbag'li tulumu zorunlu hâle getirdi. Kurallar, airbag'in en az omuzları ve köprücük kemiğini korumasını ve motosiklete kablo veya ek parça bağlanmadan çalışmasını şart koşuyor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Pistten yola airbag: ne alabilirsin?",
+        "paragraphs": [
+          "Yarışta geliştirilen elektronik airbag'ler bugün yol sürücüsü için de satılıyor. Alpinestars'ın Tech-Air ailesinde Tech-Air 10 omuz, göğüs, sırtın tamamı ve kalçayı; Tech-Air 5 omuz, göğüs, kaburga ve sırtı; Tech-Air 3 ise omuz, göğüs ve sırtı koruyor. Dainese de yol ve adventure kullanımı için D-air sistemli ve Smart Air uyumlu montlar sunuyor.",
+          "Sitemizde bu ürünleri Koruma > Airbag Yelek kategorisinde bulabilirsin. Yolda kullanılan sistemlerin bir kısmı elektronik, bir kısmı motosiklete bağlanan kablolu (mekanik) tiptedir; elektronik sistemler bağlantı gerektirmez ama şarj ve yazılım güncellemesi ister."
+        ],
+        "bullets": [
+          "Elektronik airbag: kablo yok, sensörlerle düşmeyi algılar; şarj edilmesi gerekir.",
+          "Kablolu airbag: motosiklete bir kordonla bağlanır; sürücü motosikletten ayrılınca açılır.",
+          "Airbag, sertifikalı bir mont ve koruyucunun yerine geçmez; onların üstüne eklenen bir katmandır."
+        ]
+      },
+      {
+        "heading": "Kaskta FIM homologasyonu: FRHPhe-01 ve FRHPhe-02",
+        "paragraphs": [
+          "FIM Yarış Homologasyon Programı (FRHP), yarış kaskları için yol standartlarından daha sıkı bir test protokolüdür. İlk aşama FRHPhe-01, 3 Haziran 2019'da Grand Prix ve Superbike yarışlarında yürürlüğe girdi; 2020'nin ilk yarışından itibaren tüm pist yarışlarında zorunlu oldu. FIM'e göre bu standart ECE 22.05, Snell M2015 ve JIS T8133'ün ötesine geçiyordu; düşük, orta ve yüksek hızda doğrusal darbe testlerine ek olarak beyne zarar veren dönme (rotasyonel) ivmeyi ölçen eğik darbe testi içeriyordu.",
+          "İkinci aşama FRHPhe-02, Kasım 2022'de duyuruldu; 2025'te önerilen, 2026'da ise FIM şampiyonalarında zorunlu hâle geldi. Yeni sürüm eğik ve yarım küre örslere çarpma testleri, kafatası kırılma kriteri (Skull Fracture Criterion) ve acil durumda yanak pedlerinin hızlı çıkarılması testini ekliyor; darbe noktaları her kaskta 22 olası noktadan 9–13'ü rastgele seçilerek test ediliyor. FRHPhe-02 ayrıca motokros ve enduro gibi arazi disiplinlerini de kapsıyor. Onaylı kasklarda FIM homologasyon etiketi çene kayışına dikili olarak bulunuyor."
+        ],
+        "bullets": [
+          "FRHPhe-01: 2019'da MotoGP ve Superbike'ta, 2020'de tüm pist yarışlarında zorunlu.",
+          "FRHPhe-02: 2026'dan itibaren FIM şampiyonalarında zorunlu; yalnızca pist değil arazi kasklarını da kapsar.",
+          "Yolda yasal olarak aranan belge ECE 22.06'dır; FIM etiketi yol için zorunlu değil, ek bir güvence işaretidir."
+        ]
+      },
+      {
+        "heading": "Kask aerodinamiği ve spoilerlar",
+        "paragraphs": [
+          "MotoGP'de 300 km/s'yi rahatça aşan hızlarda kask, rüzgârda boyun kaslarını yoran bir yelken gibi davranabilir. Bu yüzden yarış kasklarında arka spoiler ve rüzgâr tünelinde şekillendirilmiş kabuklar yaygın. Shark, Aeron-GP modelinin sürücünün pozisyonuna göre ayarlanan patentli, uyarlanabilir bir spoilere sahip ilk kask olduğunu belirtiyor.",
+          "Sokakta bu tasarımın faydası özellikle otoyolda ve sportif pozisyonda hissedilir: daha az kaldırma ve sallanma, daha az boyun yorgunluğu. Sitemizde bu kaskları Kask > Racing Kask kategorisinde bulabilirsin. Şehir içi ve düşük hızlı kullanımda ise geniş görüş, sessizlik ve havalandırma çoğu zaman spoilerdan daha önemlidir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Diz ve dirsek sürtmeleri",
+        "paragraphs": [
+          "Kenny Roberts'ın 1978'den itibaren dizini yere değdirerek viraj alması, pilotların tulumlarına el yapımı korumalar bantlamasına yol açtı. Dainese, ilk diz sürtmesini (\"istrice\", kirpi) 1981'de tanıttığını; 1986'da oval plastik forma geçtiğini anlatıyor. Markaya göre ilk dirsek sürtmeleri ise 2010'dan sonra, pilotların yatış açıları arttıkça ortaya çıktı.",
+          "Diz sürtmeleri bugün deri tulumlarda ve sportif deri pantolon ve montlarda cırt cırtla takılan, değiştirilebilir parçalar olarak karşına çıkar. Sitemizde Mont > Deri Mont kategorisindeki sportif modellerde dirsekte sürtme yuvası olup olmadığını ürün sayfasından kontrol edebilirsin."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sırt koruyucu ve parmak köprülü eldivenler",
+        "paragraphs": [
+          "Dainese'ye göre şirketin ilk sırt koruyucusu 1979'da ıstakoz kabuğundan esinlenerek, yumuşak köpük üzerine birbirine geçen sert plakalarla tasarlandı. Koruyucunun yayılmasında 1984'te Kyalami'de ağır bir düşüşten ayağa kalkan Freddie Spencer'ın etkili olduğu anlatılıyor. Bugün sırt koruyucularının performansı EN 1621-2 standardındaki Level 1 ve Level 2 seviyeleriyle ölçülüyor.",
+          "Pist eldivenlerinde yüzük parmağı ile serçe parmağını birbirine bağlayan parmak köprüsü, düşmede serçe parmağının geriye ya da yana bükülmesini önlemek için geliştirildi. Alpinestars bu tasarım için patent sahibi olduğunu belirtiyor; benzer çözümler başka markaların sport eldivenlerinde de var. Sitemizde bu özelliği Eldiven > Sport / Pist Eldiveni kategorisinde, sırt koruyucuları ise Koruma kategorisinde bulabilirsin."
+        ],
+        "bullets": [
+          "Sırt koruyucu: EN 1621-2 etiketi ve Level 2 tercih edilmeli.",
+          "Sport eldiven: parmak köprüsü, avuç içi kaydırıcı ve uzun bilek aranacak özellikler.",
+          "Sport bot: burulmayı sınırlayan bilek desteği pistten gelen bir başka çözüm (Bot > Sport / Pist Botu)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "FRHPhe-02 nedir?",
+        "a": "FIM'in yarış kaskları için uyguladığı homologasyon programının ikinci aşamasıdır. 2026'dan itibaren FIM şampiyonalarında zorunludur; eğik ve yarım küre örslere darbe testleri, kafatası kırılma kriteri ve yanak pedlerinin hızlı çıkarılması testi gibi ECE 22.06'nın ötesine geçen testler içerir."
+      },
+      {
+        "q": "Yolda FIM onaylı kask kullanmak zorunlu mu?",
+        "a": "Hayır. Yolda aranan belge ECE 22.06'dır. FIM onaylı kasklar aynı zamanda ECE belgelidir ve daha sıkı yarış testlerinden geçmiştir; ancak yol kullanımı için şart değildir."
+      },
+      {
+        "q": "MotoGP'de airbag ne zamandan beri zorunlu?",
+        "a": "MotoGP, Moto2 ve Moto3'te tam zamanlı pilotlar için airbag'li tulum 2018 sezonundan beri zorunludur. Airbag'in en az omuzları ve köprücük kemiğini koruması gerekir."
+      },
+      {
+        "q": "Yol için airbag yelek almaya değer mi?",
+        "a": "Airbag, gövdeyi ve özellikle göğüs, sırt ve omuzları ek olarak korur; ancak sertifikalı mont ve koruyucuların yerine geçmez. Elektronik ve kablolu sistemler arasındaki fark, şarj ihtiyacı ve fiyat seçimi belirler."
+      }
+    ],
+    "relatedGuides": [
+      "motogp-pilotlari-hangi-ekipmani-kullaniyor",
+      "ece-22-06-nedir",
+      "kask-nasil-secilir",
+      "level-1-ve-level-2-koruma-farki",
+      "d3o-sas-tec-koruyucu",
+      "motosiklet-derisi-turleri",
+      "motosiklet-eldiveni-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "koruma/airbag",
+      "kask/racing-kask",
+      "mont/deri-mont",
+      "eldiven/sport-eldiven",
+      "bot/sport-botu"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/demonerosso/moto/dainese-motorcycle-airbag-how-it-works-guide/651281462.html",
+        "type": "manufacturer",
+        "label": "Dainese – Motosiklet airbag'i nedir, nasıl çalışır? (D-air tarihçesi)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.dainese.com/us/en/airbag.html",
+        "type": "manufacturer",
+        "label": "Dainese – Motorcycle Airbag (D-air ürün aileleri)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://eu.alpinestarsrsrv.com/blogs/rsrv-blog/air-on-the-safe-side",
+        "type": "manufacturer",
+        "label": "Alpinestars – Air on the safe side (Tech-Air tarihçesi)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.alpinestars.com/pages/alpinestars-tech-air-autonomous-airbag-systems",
+        "type": "manufacturer",
+        "label": "Alpinestars – Tech-Air otonom airbag sistemleri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.alpinestars.com/products/tech-air-10-airbag-system",
+        "type": "manufacturer",
+        "label": "Alpinestars – Tech-Air 10 Airbag System",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.alpinestars.com/products/tech-air-5-system",
+        "type": "manufacturer",
+        "label": "Alpinestars – Tech-Air 5 System",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motogp.com/ja/news/2017/12/21/178599",
+        "type": "review",
+        "label": "MotoGP – Airbags: compulsory from 2018",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/frhp-for-helmets-comes-into-force",
+        "type": "homologation",
+        "label": "FIM – FRHP for helmets comes into force (2019)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/fim-launches-the-phase-2-of-the-fim-racing-homologation-programme-for-helmets-frhphe-02",
+        "type": "homologation",
+        "label": "FIM – FRHPhe-02 ikinci aşama duyurusu (Kasım 2022)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/circuit-racing-helmets-come-into-force-fim-homologated-under-frhphe-02",
+        "type": "homologation",
+        "label": "FIM – FRHPhe-02 pist kaskları yürürlükte",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/more-helmets-and-fim-explanations-fim-homologated-helmets-under-frhphe-02",
+        "type": "homologation",
+        "label": "FIM – FRHPhe-02 açıklamaları ve yeni onaylı kasklar (Şubat 2026)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/fileadmin/library/FRHPhe-01-amended2_web_extract.pdf",
+        "type": "homologation",
+        "label": "FIM – FRHPhe-01 homologasyon el kitabı (özet)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.shark-helmets.com/en/collections/aeron-gp",
+        "type": "manufacturer",
+        "label": "Shark – Aeron-GP (uyarlanabilir spoiler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.dainese.com/us/en/demonerosso/demons/the-evolution-of-the-knee-slider/653283376.html",
+        "type": "manufacturer",
+        "label": "Dainese – Diz sürtmesinin evrimi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.dainese.com/us/en/demonerosso/demons/the-story-of-the-back-protector/651513317.html",
+        "type": "manufacturer",
+        "label": "Dainese – Sırt koruyucunun tarihi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://gb.alpinestars.com/products/morph-sport-gloves-black",
+        "type": "manufacturer",
+        "label": "Alpinestars – Morph Sport eldiven (patentli parmak köprüsü)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

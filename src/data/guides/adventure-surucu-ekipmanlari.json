@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "adventure-surucu-ekipmanlari",
+    "title": "Adventure Sürücüsü İçin Ekipman",
+    "description": "Asfalt ve arazi arasında gidip gelen adventure sürücüleri için kask, katmanlı mont, koruyucular, bot ve eldiven seçiminde dikkat edilecekler.",
+    "topic": "genel",
+    "readingMinutes": 7,
+    "intro": "Adventure sürücüsü için ekipman, asfaltta korumayı arazide hareket özgürlüğüyle birleştirmelidir: siperlikli bir adventure kask, havalandırmalı ve katmanlı AA sınıfı mont ile pantolon, Level 2 diz ve sırt koruyucuları, karma zemine uygun eldiven ve uzun konçlu bir adventure bot temel settir. Uzun etaplarda farklı iklimlerden geçileceği için tek mevsimlik parçalar yerine katmanlı, çok havalandırmalı ve dayanıklı ekipman daha mantıklıdır.",
+    "sections": [
+      {
+        "heading": "Kask",
+        "paragraphs": [
+          "Adventure kasklarda siperlik güneşi keser ve arazide yukarıdan gelen dalları uzak tutar; geniş vizör ise asfalttaki konforu korur. Otoyol hızlarında siperlik rüzgar alabildiği için aerodinamik tasarımı ve ağırlığı önemlidir.",
+          "Ağırlıklı arazi kullanıyorsan vizörsüz cross kask ve gözlük daha fazla hava sağlar. Yolun çoğu asfaltsa adventure kask doğru dengeyi kurar. Her iki durumda da ECE 22.06 etiketi şarttır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Mont ve pantolon: katman ve havalandırma",
+        "paragraphs": [
+          "Adventure takımlarının çoğu touring yapısındadır: geniş havalandırma fermuarları, çıkarılabilir termal astar ve su geçirmez membran. Bir günde dağ geçidinden sıcak vadiye inen bir sürücü için havalandırmanın gerçekten açılabilmesi en kritik özelliktir.",
+          "AA sınıfı, asfalttaki hızlar ve arazide düşme riski düşünüldüğünde makul bir hedeftir. Arazide çok efor harcıyorsan ve sıcak iklimde sürüyorsan, su geçirmez katmanı ayrı taşıyıp üstüne giyilen bir yapı, membranı montun içinde taşımaktan daha serin olabilir."
+        ],
+        "bullets": [
+          "Göğüs, sırt ve kollarda açılabilir havalandırma",
+          "Çıkarılabilir termal ve su geçirmez astar",
+          "Mont ile pantolonu bağlayan fermuar",
+          "Eldivenle kullanılabilen büyük cepler"
+        ]
+      },
+      {
+        "heading": "Koruyucular",
+        "paragraphs": [
+          "Arazide düşmeler daha sık ama genellikle daha yavaştır; asfaltta ise daha seyrek ama daha yüksek hızda olur. Bu yüzden adventure sürücüsünün koruyucuları her iki senaryoyu da düşünmelidir. Diz koruyucunun ayakta sürüş pozisyonunda yerinden kaymaması özellikle önemlidir.",
+          "Montunda boş sırt cebi varsa EN 1621-2 Level 2 bir sırt koruyucu ekle. Göğüs için EN 1621-3 sertifikalı bir koruyucu veya EN 1621-4 kapsamında bir airbag yelek uzun yolda ek güvenlik sağlar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Bot",
+        "paragraphs": [
+          "Adventure botları sert tabanlı, kaval kemiğine uzanan ve bileği destekleyen yapıdadır. EN 13634 kodunda yükseklik hanesinin 2 olması ve IPA ile IPS işaretleri, ayak bileği ve kaval kemiği korumasının test edildiğini gösterir.",
+          "Ayakta sürüşte tabanın marşpiyelde kaymaması, molada ise taşlık zeminde yürünebilmesi gerekir. Saf cross botlar en yüksek korumayı sunar ama yürümek zordur; adventure botları bu iki ihtiyaç arasında daha esnek bir denge kurar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Eldiven",
+        "paragraphs": [
+          "Arazide elcik hissi ve parmak hareketliliği önemlidir; asfaltta ise sürtünme ve darbe koruması. Pek çok adventure sürücüsü iki eldiven taşır: arazi için ince ve esnek bir model, yağmur ve otoyol için su geçirmez bir model. Her ikisinin de EN 13594 etiketi taşıması gerekir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Uzun yolda pratik ipuçları",
+        "paragraphs": [
+          "Ekipman ne kadar iyi olursa olsun uzun etaplarda yorgunluk ve sıvı kaybı riskini artırır. Hidrasyon sırt çantası veya mont uyumlu su torbası ayakta sürüşte de su içebilmeni sağlar."
+        ],
+        "bullets": [
+          "Toz ve çamurdan sonra fermuarları temizle",
+          "Yedek vizör veya gözlük camı taşı",
+          "Katmanları kolay erişilebilir yerde tut",
+          "Yağmur takımını çantanın en üstüne koy"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Adventure için deri mi tekstil mi?",
+        "a": "Tekstil çok daha yaygındır, çünkü havalandırma, su geçirmezlik ve katman sistemi sunar ve arazide daha esnektir. Deri, sürtünme dayanımı yüksek olsa da sıcak ve efor yoğun arazi sürüşünde konforsuzdur."
+      },
+      {
+        "q": "Cross bot mu, adventure bot mu?",
+        "a": "Zamanının büyük kısmı zorlu arazideyse cross bot daha yüksek koruma sağlar. Asfalt ve arazi karışık kullanıyor, molalarda yürüyorsan adventure botu daha pratiktir."
+      },
+      {
+        "q": "Adventure sürüşte airbag kullanılır mı?",
+        "a": "Evet, birçok elektronik airbag sisteminin arazi kullanımı için modları vardır. Satın almadan önce sistemin adventure veya off-road kullanımı desteklediğini üreticinin sayfasından kontrol et."
+      }
+    ],
+    "relatedGuides": [
+      "level-1-ve-level-2-koruma-farki",
+      "motosiklet-botu-nasil-secilir",
+      "aa-ve-aaa-koruma-farki",
+      "interkom-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "kask/adventure-kask",
+      "mont/touring-mont",
+      "bot/adventure-botu",
+      "eldiven/adventure-eldiven",
+      "koruma/sirt-koruma",
+      "koruma/airbag"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN1621.php",
+        "type": "homologation",
+        "label": "SATRA – EN 1621 darbe koruyucu standartları özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594:2015 motosiklet eldiveni standardı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

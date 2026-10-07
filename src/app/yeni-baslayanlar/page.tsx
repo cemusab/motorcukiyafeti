@@ -1,127 +1,71 @@
-import { PrismaClient } from '@prisma/client';
-import Link from 'next/link';
+import Link from "next/link";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
+import { Container } from "@/components/ui";
+import { Wizard } from "@/components/Wizard";
+import { GEAR } from "@/data/riding";
+import { wizardBikes, wizardProducts } from "@/lib/catalog";
+import { getGuide } from "@/lib/data";
+import { faqLd, meta } from "@/lib/seo";
 
-const prisma = new PrismaClient();
+export const metadata = meta({
+  title: "Yeni Motor Aldım, Hangi Ekipmanları Almalıyım?",
+  description: "Motor türünü, kullanımını, mevsimi ve bütçeni seç; ihtiyacın olan kask, mont, eldiven, bot ve korumaları nedenleri ve bütçe paylarıyla gör.",
+  path: "/yeni-baslayanlar",
+});
 
-// İstemci tarafı formu ayrı bir dosyaya ayırıyoruz
-import WizardClientForm from "@/components/WizardClientForm";
+const STARTER = ["ilk-motosiklet-ekipmanlari", "kask-nasil-secilir", "kask-bedeni-nasil-olculur", "ece-22-06-nedir", "aa-ve-aaa-koruma-farki", "level-1-ve-level-2-koruma-farki", "motosiklet-eldiveni-nasil-secilir", "motosiklet-botu-nasil-secilir"];
 
-export default async function WizardPage({ searchParams }: { searchParams: Promise<{ [key: string]: string }> }) {
-  const params = await searchParams;
-  const bike = params.bike || '';
-  const usage = params.usage || '';
-  const budget = params.budget || '';
-
-  // Eğer parametre yoksa formu göster
-  if (!bike) {
-    return (
-      <div className="bg-[#f5f5f7] min-h-screen text-gray-900 font-sans pb-24">
-        <main className="max-w-4xl mx-auto px-4 py-12">
-           <WizardClientForm />
-        </main>
-      </div>
-    );
-  }
-
-  // Akıllı Tavsiye Motoru (Kural Motoru)
-  let kaskKeyword = 'NXR 2'; // Default (Naked)
-  let kaskTypeDesc = 'Günlük / Sokak Kaskı';
-  
-  let montKeyword = 'T-GP Plus';
-  let montTypeDesc = 'Korumalı Sokak Montu';
-  
-  const bikeLower = bike.toLowerCase();
-  
-  if (bikeLower.match(/ninja|zx|r25|r7|cbr|panigale|s1000rr|sr/)) {
-    // Supersport
-    kaskKeyword = 'Pista'; 
-    if (budget.includes('Ekonomik')) kaskKeyword = 'K1 S';
-    if (budget.includes('Orta')) kaskKeyword = 'RPHA 11';
-    kaskTypeDesc = 'Aerodinamik Yarış Kaskı';
-    montKeyword = 'Racing 4';
-    montTypeDesc = 'Deri Pist Montu';
-  } else if (bikeLower.match(/gs|africa|tenere|tracer|v-strom|mt|adventure/)) {
-    // Adventure
-    kaskKeyword = 'Hornet';
-    if (budget.includes('Orta')) kaskKeyword = 'Tourmodular';
-    kaskTypeDesc = 'Adventure / Touring Kaskı';
-    montKeyword = 'Gore-Tex';
-    montTypeDesc = '4 Mevsim Touring Montu';
-  } else if (bikeLower.match(/pcx|dio|forza|nmax|xmax|vespa|scooter/)) {
-    // Scooter
-    kaskKeyword = 'Neotec';
-    if (budget.includes('Ekonomik')) kaskKeyword = 'Valiant';
-    kaskTypeDesc = 'Çene Açılır / Şehir İçi Kask';
-    montKeyword = 'Fileli';
-    montTypeDesc = 'Hafif Şehir Montu';
-  }
-
-  // Veritabanından gerçek ürünleri bul
-  let recommendedKask = await prisma.product.findFirst({ 
-    where: { category: { slug: 'kask' }, name: { contains: kaskKeyword } },
-    include: { brand: true, category: true }
-  });
-
-  // Eğer bulamazsa yedek (fallback) kask ver
-  if (!recommendedKask) {
-    recommendedKask = await prisma.product.findFirst({
-      where: { category: { slug: 'kask' } },
-      include: { brand: true, category: true }
-    });
-  }
-
-  // Montlar için (şimdilik statik mock, gerçek veritabanı montlarla doluysa oradan alırız)
-  const recommendedMont = await prisma.product.findFirst({
-    where: { category: { slug: 'mont' } },
-    include: { brand: true, category: true }
-  });
-
+export default function StarterPage() {
+  const guides = STARTER.map(getGuide).filter((g) => !!g);
+  const faq = [
+    { q: "Yeni motorcu ilk olarak hangi ekipmanı almalı?", a: "Önce ECE 22.06 onaylı ve bedene tam oturan bir kask, ardından eldiven ve bileği kapatan bir bot. Bunlardan sonra korumalı mont ve pantolon gelir." },
+    { q: "Ekipman bütçesi nasıl paylaştırılmalı?", a: `Genel bir yaklaşım olarak bütçenin yaklaşık %${GEAR.kask.share}'unu kaska, %${GEAR.mont.share}'sini monta, kalanını pantolon, eldiven ve bota ayırmak dengeli bir set sağlar.` },
+    { q: "Şehir içinde kısa mesafe için de tam ekipman gerekir mi?", a: "Evet. Kazaların büyük kısmı şehir içinde ve düşük-orta hızlarda olur; kısa mesafe sürtünme ve darbe riskini ortadan kaldırmaz." },
+  ];
   return (
-    <div className="bg-[#f5f5f7] min-h-screen text-gray-900 font-sans pb-24 py-12">
-      <main className="max-w-5xl mx-auto px-4">
-         <div className="bg-white rounded-3xl p-8 shadow-xl border border-gray-100 text-center mb-8">
-           <h2 className="text-3xl font-black mb-2 text-green-600">🎉 Sizin İçin En İdeal Ekipman Seti Hazır!</h2>
-           <p className="text-gray-500"><strong className="text-gray-800">{bike}</strong> model motosiklet, {usage} ve {budget} bütçe tercihinize göre akıllı algoritmamız tarafından gerçek ürünlerle eşleştirildi.</p>
-         </div>
-         
-         <div className="grid md:grid-cols-3 gap-6">
-           
-           {/* Dinamik Kask Kartı */}
-           <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 flex flex-col items-center text-center hover:shadow-lg transition relative overflow-hidden group">
-             <span className="text-4xl mb-2">🏍️</span>
-             <div className="h-40 w-full flex items-center justify-center mb-4">
-                <img src={recommendedKask?.imageUrl || ''} alt={recommendedKask?.name} className="h-full object-contain transform scale-110 group-hover:scale-125 transition" />
-             </div>
-             <h3 className="font-black text-xl mb-1">{recommendedKask?.brand.name} {recommendedKask?.name}</h3>
-             <div className="text-lg font-bold text-gray-900 mb-1">{recommendedKask?.basePriceMin?.toLocaleString('tr-TR')} TL</div>
-             <p className="text-xs text-gray-500 mb-4">{kaskTypeDesc}</p>
-             <Link href={`/kask/${recommendedKask?.slug}`} className="mt-auto w-full bg-red-50 text-red-600 hover:bg-red-600 hover:text-white font-bold py-2 rounded-lg transition">İncele</Link>
-           </div>
-           
-           {/* Mont Kartı */}
-           <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 flex flex-col items-center text-center hover:shadow-lg transition">
-             <span className="text-4xl mb-4">🧥</span>
-             <h3 className="font-black text-xl mb-1">{recommendedMont?.brand?.name || 'Alpinestars'} {recommendedMont?.name || montKeyword}</h3>
-             <div className="text-lg font-bold text-gray-900 mb-1">{recommendedMont?.basePriceMin?.toLocaleString('tr-TR') || '15.000'} TL</div>
-             <p className="text-xs text-gray-500 mb-4">{montTypeDesc}</p>
-             <Link href="/mont" className="mt-auto w-full bg-red-50 text-red-600 hover:bg-red-600 hover:text-white font-bold py-2 rounded-lg transition">İncele</Link>
-           </div>
-           
-           {/* İnterkom Kartı */}
-           <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 flex flex-col items-center text-center hover:shadow-lg transition">
-             <span className="text-4xl mb-4">🎧</span>
-             <h3 className="font-black text-xl mb-1">Cardo Packtalk Edge</h3>
-             <div className="text-lg font-bold text-gray-900 mb-1">32.990 TL</div>
-             <p className="text-xs text-gray-500 mb-4">Uyumlu Premium İnterkom</p>
-             <Link href="/interkom" className="mt-auto w-full bg-red-50 text-red-600 hover:bg-red-600 hover:text-white font-bold py-2 rounded-lg transition">İncele</Link>
-           </div>
-
-         </div>
-         
-         <div className="text-center mt-12">
-           <Link href="/yeni-baslayanlar" className="text-gray-500 hover:text-gray-900 font-bold underline">Tekrar Test Çöz</Link>
-         </div>
-      </main>
-    </div>
+    <>
+      <JsonLd data={faqLd(faq)} />
+      <div className="bg-night text-white">
+        <Container className="py-10">
+          <div className="[&_a]:text-white/70 [&_span]:text-white">
+            <Breadcrumbs items={[{ name: "Yeni Başlayanlar", href: "/yeni-baslayanlar" }]} />
+          </div>
+          <h1 className="mt-4 max-w-3xl font-display text-4xl leading-none font-bold sm:text-6xl">Yeni motor aldım, hangi ekipmanları almalıyım?</h1>
+          <p className="mt-4 max-w-2xl text-lg text-white/75">
+            Kısa cevap: kask, mont, pantolon, eldiven ve bot temel settir. Motor türüne, kullanımına ve mevsime göre sırt koruması, interkom, yağmurluk ve termal giyim eklenir.
+          </p>
+          <div className="mt-8">
+            <Wizard products={wizardProducts()} bikes={wizardBikes()} />
+          </div>
+        </Container>
+      </div>
+      <Container className="mt-12 grid gap-10 lg:grid-cols-2">
+        <section>
+          <h2 className="mb-4 font-display text-3xl font-bold">Başlangıç rehberleri</h2>
+          <ul className="space-y-2">
+            {guides.map((g) => (
+              <li key={g.slug}>
+                <Link href={`/rehber/${g.slug}`} className="block rounded-lg border border-line bg-white p-4 hover:border-ink">
+                  <span className="block font-display text-xl font-bold">{g.title}</span>
+                  <span className="text-sm text-mute">{g.description}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+        <section>
+          <h2 className="mb-4 font-display text-3xl font-bold">Sık sorulanlar</h2>
+          <div className="space-y-2">
+            {faq.map((f) => (
+              <details key={f.q} className="rounded-lg border border-line bg-white open:border-ink">
+                <summary className="cursor-pointer p-4 font-semibold">{f.q}</summary>
+                <p className="px-4 pb-4 text-ink-2">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      </Container>
+    </>
   );
 }

@@ -1,0 +1,3298 @@
+[
+  {
+    "slug": "sand-5-h2o",
+    "brand": "revit",
+    "name": "Sand 5 H2O",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "REV'IT!'in uzun soluklu adventure serisinin beşinci nesli: üç katmanlı yapı, dışa veya içe takılabilen hydratex membran ceket, SEEFLEX seviye 2 koruma ve EN 17092-3 AA sınıfı.",
+    "description": [
+      "Sand 5 H2O, Sand serisinin devrim değil evrim niteliğindeki yeni sürümü. Dış kabukta 600D yüksek yoğunluklu polyester, ripstop ve 3D hava file panelleri birlikte kullanılıyor. Göğüste ve sırtta fermuarla açılan, ön kapağın arkasına katlanan havalandırma panelleri var; kollardaki geniş fermuarlar da hava akışını artırıyor. Üretici, Sand 4'e göre biraz daha sportif bir duruş hedeflediğini söylüyor; kalıp yine de 'Regular fit', yani vücudu sıkmadan oturuyor.",
+      "Katman sistemi montun asıl gücü: çıkarılabilir termal astar kendi başına da giyilebiliyor, 3 katmanlı hydratex su geçirmez ceket ise dış kabuğun içine ya da üstüne takılabiliyor. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart; sırt (SEESOFT seviye 2) ve bölünmüş göğüs koruyucu (seviye 1) için cep hazır ama koruyucular ayrıca alınıyor. Bel arkasında 1,5 litrelik su torbası cebi, Avertum Tech-Air airbag uyumu (bir beden büyük alınarak) ve kısa/uzun pantolon bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Adventure motosikletle uzun tur yapan, tek montla yazdan sonbahara kadar sürmek isteyenler",
+      "Sonradan airbag yeleği eklemeyi düşünen sürücüler",
+      "Sand 5 pantolonla takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olan ve gün boyu inip binen kuryeler: çok katmanlı yapı ve fiyatı kurye kullanımına göre ağır",
+      "Yalnızca şehir içinde kısa mesafe sürenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Su geçirmez ceketi dışa veya içe takma esnekliği",
+      "Ayrı giyilebilen termal astar",
+      "Airbag ve su torbası hazırlığı"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Katmanları yönetmek pratik ama zaman alır; yağmur başlayınca durmak gerekir",
+      "Türkiye'de doğrulanmış güncel satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama ağır ve çok katmanlı; şehir içi kısa yollar için fazlası var.",
+      "uzunYol": "Asıl hedefi. Cepler, katman sistemi ve pantolon bağlantısı uzun turda işe yarıyor.",
+      "yaz": "Panelleri açınca hava alıyor ama tam file mont kadar serin değil.",
+      "kis": "Termal astar ve membranla serin havada iyi; sert kış için altına katman gerekir.",
+      "yagmur": "Hydratex ceket dışa takıldığında dış kabuk ıslanmadan yağmuru keser.",
+      "kurye": "Dayanıklı ama pahalı ve katman yönetimi gerektiren yapısı kurye temposuna uygun değil."
+    },
+    "verdict": "Sand 5 H2O, tek montla dört mevsime yakın kullanım isteyen adventure sürücüsü için güçlü ve dengeli bir seçim. AA sınıfı ve airbag uyumu artı; sırt koruyucunun ayrıca alınması ve katman yönetiminin zahmeti hesaba katılmalı.",
+    "faq": [
+      {
+        "q": "Su geçirmez katman nasıl kullanılıyor?",
+        "a": "3 katmanlı hydratex ceket dış kabuğun içine takılabildiği gibi üstüne de giyilebiliyor. Üstte kullanıldığında dış kabuk ıslanmıyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Montta SEESOFT seviye 2 sırt koruyucu ve seviye 1 bölünmüş göğüs koruyucu için cep var; koruyucular ayrı satılıyor."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "Üretici Avertum Tech-Air sistemine hazır olduğunu belirtiyor; bu durumda bir beden büyük alınması öneriliyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-sand-5-h2o-black-anthracite",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-sand-5-h2o-black-anthracite",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Sand 5 H2O ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Silver-Anthracite",
+      "Silver-Blue",
+      "Grey-Dark Grey",
+      "Black-Anthracite",
+      "Sand-Blue"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      },
+      {
+        "size": "4XL",
+        "min": 132,
+        "max": 141
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D yüksek yoğunluklu polyester, polyester ripstop, 3D hava file ve streç file; geri dönüştürülmüş polyester dış kabuk",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir 3 katmanlı hydratex ceket (içte veya dışta)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs ve sırtta katlanır havalandırma panelleri, kollarda geniş fermuarlar",
+      "closure": "Ön fermuar, Flexisnap yaka, kısa ve uzun pantolon bağlantı fermuarı, kol ağzı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/carese-3",
+      "revit/offtrack-3-h2o",
+      "held/hakuna-matata-3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "offtrack-3-h2o",
+    "brand": "revit",
+    "name": "Offtrack 3 H2O",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Hafif üç katmanlı adventure mont: PWR|Shell ve ripstop dış kabuk, büyük havalandırma panelleri, ayrılabilir termal astar, dışa takılabilen hydratex ceket ve AA sınıfı.",
+    "description": [
+      "Offtrack 3 H2O, REV'IT!'in rally esintili adventure montunun üçüncü nesli. Dış kabuk 600D yüksek yoğunluklu polyester ve XL ripstop 600D kumaştan; önde ve arkada geniş, kolay açılan havalandırma panelleri, alt kollarda da fermuarlar var. Kol oyuğunun arkasındaki genişleme pileleri, ayakta sürüşte omuz hareketini rahatlatıyor.",
+      "İçeride ayrılabilir termal astar ve dışa ya da içe takılabilen hydratex su geçirmez katman bulunuyor; üretici bunu hafif 2'si 1 arada astar olarak tanımlıyor. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart, sırt ve göğüs koruyucu cepleri hazır. Mont EN 17092-3:2020 AA sınıfında; Avertum Tech-Air airbag uyumu (bir beden büyük) ve kısa pantolon bağlantı fermuarı da var."
+    ],
+    "forWho": [
+      "Toprak ve asfaltı karıştıran, sıcak havada bol hava isteyen adventure sürücüleri",
+      "Sand 5'ten daha hafif ve sade bir katmanlı mont arayanlar"
+    ],
+    "notFor": [
+      "Kurye kullanımı: fiyatı ve adventure odaklı kesimi günlük teslimat temposuna uygun değil",
+      "Uzun süre yağmur altında katman değiştirmeden sürmek isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Önde ve arkada büyük havalandırma panelleri",
+      "Hafif yapı ve ayakta sürüşe uygun kol pileleri",
+      "Airbag hazırlığı"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucu ayrıca alınmalı",
+      "Cep sayısı Sand 5'e göre daha az",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Hafifliği ve katmanları sayesinde çok günlük adventure turlarında rahat.",
+      "yaz": "Büyük paneller açıldığında sıcak havada iyi hava alıyor.",
+      "kis": "Termal astar serin sabahlar için yeterli; gerçek kış montu değil.",
+      "yagmur": "Hydratex ceket dışa takıldığında yağmuru iyi keser; dış kabuk tek başına su geçirmez değil.",
+      "sehir": "Şehirde giyilebilir ama adventure kesimi ve renkleri günlük kullanımda göze batabilir."
+    },
+    "verdict": "Offtrack 3 H2O, sıcak iklimde arazi ağırlıklı sürüp yine de yağmur ve serinliğe hazırlıklı olmak isteyen sürücü için hafif ve mantıklı bir seçim. Koruyucu eksikleri ve fiyat göz önüne alınmalı.",
+    "faq": [
+      {
+        "q": "Offtrack 2 ile farkı ne?",
+        "a": "Üçüncü nesil yeni renkler, PWR|Shell ve ripstop dış kabuk, büyük ön ve arka havalandırma panelleri ve dışa takılabilen hydratex katmanla geliyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Dış kabuk değil; su geçirmezliği ayrılabilir hydratex katman sağlıyor. Bu katman içte veya montun üstünde kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-offtrack-3-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-offtrack-3-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Offtrack 3 H2O ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Red-White",
+      "Black",
+      "Blue-Blue",
+      "Blue-Silver"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      },
+      {
+        "size": "4XL",
+        "min": 132,
+        "max": 141
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D yüksek yoğunluklu polyester ve XL polyester ripstop 600D; geri dönüştürülmüş polyester dış kabuk, C0 DWR",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Ayrılabilir hydratex katman (içte veya dışta)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs ve sırtta büyük havalandırma panelleri, alt kollarda fermuar",
+      "closure": "Ön fermuar, ayarlanabilir yaka, kısa pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/sand-5-h2o",
+      "held/hakuna-matata-3",
+      "revit/tornado-4-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "tornado-4-h2o",
+    "brand": "revit",
+    "name": "Tornado 4 H2O",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "3D hava file gövdeli, termal astarlı ve dışa takılabilen 3 katmanlı hydratex ceketli çok mevsimli touring/adventure montu; SEEFLEX seviye 2 koruma ve AA sınıfı.",
+    "description": [
+      "Tornado 4 H2O, REV'IT!'in uzun süredir koleksiyonda tuttuğu çok mevsimli touring montunun dördüncü nesli. Göğüs, kollar ve sırt büyük oranda 3D hava fileden; aşınma bölgelerinde ripstop ve Hypalon takviye var. Astarlar çıkarıldığında mont neredeyse bir yazlık file mont gibi çalışıyor.",
+      "Hava soğuduğunda termal astar takılıyor; yağmurda ise paketlenebilir 3 katmanlı hydratex ceket montun içine ya da üstüne giyilebiliyor. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart; sırt ve bölünmüş göğüs koruyucusu için cep hazır. Mont EN 17092-3:2020 AA sınıfında ve Avertum Tech-Air airbag uyumlu (bir beden büyük alınarak). Göğüs, omuz ve sırtta yansıtıcı detaylar var."
+    ],
+    "forWho": [
+      "Sıcak yaz ve serin bahar/sonbahar arasında tek mont isteyen touring sürücüleri",
+      "Sand 5 seviyesinde bütçe ayırmadan katmanlı AA sınıfı mont arayanlar"
+    ],
+    "notFor": [
+      "Kurye kullanımı: yağmurda katman değişimi gerektiren yapı yoğun teslimatta pratik değil",
+      "Kışın düzenli soğukta sürenler"
+    ],
+    "pros": [
+      "Astarsız haliyle yazlık mont kadar hava alan file gövde",
+      "EN 17092-3:2020 AA sınıfı",
+      "Dışa takılabilen su geçirmez ceket",
+      "Türkiye'de yetkili satıcıda fiyatı doğrulanabiliyor"
+    ],
+    "cons": [
+      "Dış kabuk tek başına su geçirmez değil",
+      "Sırt ve göğüs koruyucu ayrıca alınmalı",
+      "File gövde, deriye veya Cordura'ya göre daha az aşınma dayanımı hissi verir"
+    ],
+    "usage": {
+      "sehir": "Astarsız haliyle şehir içi yaz kullanımında rahat.",
+      "uzunYol": "Katman sistemi sayesinde değişken havalı turlarda iş görür.",
+      "yaz": "Güçlü yanı; file gövde trafikte bile hava alır.",
+      "kis": "Termal astarla serin günlerde yeterli, kış montu değil.",
+      "yagmur": "Hydratex ceket dışa giyildiğinde yağmuru keser; içte kullanılırsa dış kabuk ıslanıp ağırlaşır."
+    },
+    "verdict": "Tornado 4 H2O, sıcak iklimde yaşayan ve bahar-sonbaharda da aynı montu kullanmak isteyen sürücü için fiyat/performans dengesi iyi bir AA sınıfı seçenek. Yağmurda katman takmak için durmak ve sırt koruyucuyu ayrıca almak gerekiyor.",
+    "faq": [
+      {
+        "q": "Yazın kullanılır mı?",
+        "a": "Evet. Termal ve su geçirmez katmanlar çıkarıldığında göğüs, kol ve sırttaki 3D file paneller doğrudan hava aldırır."
+      },
+      {
+        "q": "Türkiye'de nereden alınabilir?",
+        "a": "Kontrol tarihinde Ars Motor'da Kum-Siyah renk için fiyat listeleniyordu; güncel stok ve beden için satıcı sayfasına bakın."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-tornado-4-h2o-black-anthracite",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-tornado-4-h2o-black-anthracite",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Tornado 4 H2O ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/revit-tornado-4-h2o-mont-kum-siyah-5",
+        "type": "retailer",
+        "label": "Ars Motor – REV'IT Tornado 4 H2O Kum-Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/revit-tornado-4-h2o-mont-kum-siyah-5",
+        "price": 31421,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Kum-Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 31421,
+      "max": 31421,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Sand-Black",
+      "Black-Anthracite",
+      "Silver-Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      },
+      {
+        "size": "4XL",
+        "min": 132,
+        "max": 141
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "3D hava file, polyester ripstop, polyester file, Hypalon takviye; geri dönüştürülmüş polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir 3 katmanlı hydratex ceket (içte veya dışta)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, kollar ve sırtta tam file 3D hava paneller",
+      "closure": "Ön fermuar, Flexisnap yaka, kol ağzı fermuarı, kısa pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/levante-2-h2o",
+      "held/4-touring-2",
+      "revit/sand-5-h2o"
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "eclipse-2",
+    "brand": "revit",
+    "name": "Eclipse 2",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "yazlik-mont",
+      "sehir-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Şehir içi yaz kullanımı için hafif file mont: 600D polyester çerçeve, geniş file paneller, SEESMART seviye 1 omuz/dirsek koruması ve EN 17092-4 A sınıfı.",
+    "description": [
+      "Eclipse 2, sıcak havada işe gidip gelen sürücü için tasarlanmış sade bir file mont. Gövdenin ön, arka ve iç kol kısımları polyester fileden; aşınma bölgelerinde 600D polyester kullanılıyor. Bel, kol ağzı ve pazı bölgesindeki ayar tırnaklarıyla oturuş daraltılabiliyor; kalıp 'Slim fit'.",
+      "Omuz ve dirseklerde SEESMART CE seviye 1 koruyucu standart, sırt için SEESOFT seviye 2 koruyucu cebi var. Mont EN 17092-4:2020 A sınıfında; yani AA sınıfı touring montlar kadar aşınma dayanımı iddiası yok. Su geçirmez veya termal astar bulunmuyor; serin ya da yağmurlu günlerde üstüne yağmurluk veya altına katman gerekir."
+    ],
+    "forWho": [
+      "Yazın şehir içinde scooter veya naked motorla kısa yol yapanlar",
+      "Giriş seviyesi fiyatla markalı file mont arayanlar",
+      "Sıcak iklimde kurye olarak çalışan ve hafif mont isteyenler"
+    ],
+    "notFor": [
+      "Otoyolda yüksek hızda uzun yol yapanlar: A sınıfı ve seviye 1 koruma sınırlı",
+      "Yağmurda ve soğukta da tek montla sürmek isteyenler"
+    ],
+    "pros": [
+      "Çok hafif ve hava alan file gövde",
+      "Türkiye'de erişilebilir fiyat",
+      "Sırt koruyucu cebi ve kot pantolon bağlantı halkası",
+      "Kadın versiyonu da mevcut"
+    ],
+    "cons": [
+      "EN 17092-4 A sınıfı; AA montlara göre daha düşük aşınma dayanımı",
+      "Koruyucular seviye 1",
+      "Su geçirmezlik ve termal astar yok"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; hafif ve günlük kıyafete yakın.",
+      "yaz": "File gövde sıcakta iyi hava alır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; üstüne yağmurluk gerekir.",
+      "kurye": "Yazın şehir içi teslimatta hafifliği avantaj; sırt koruyucu eklenmesi önerilir, yağmurda ek yağmurluk şart.",
+      "uzunYol": "Kısa turlarda olur; uzun ve hızlı yolda koruma seviyesi ve rüzgar konforu sınırlı."
+    },
+    "verdict": "Eclipse 2, sıcak şehir trafiği için hafif, ucuz ve sertifikalı bir file mont isteyenler için doğru adres. Koruma seviyesi A sınıfı ve seviye 1 koruyucularla sınırlı; otoyol ve uzun tur için daha güçlü bir mont düşünülmeli.",
+    "faq": [
+      {
+        "q": "Sırt koruyucu var mı?",
+        "a": "Standart değil; SEESOFT seviye 2 sırt koruyucu için cep bulunuyor ve ayrıca alınabiliyor."
+      },
+      {
+        "q": "Yağmurda kullanılır mı?",
+        "a": "Su geçirmez katmanı yok. Yağmurlu günlerde üstüne motosiklet yağmurluğu giyilmesi gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-eclipse-2-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-eclipse-2-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Eclipse 2 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/revit-eclipse-2-mont-siyah-7",
+        "type": "retailer",
+        "label": "Ars Motor – REV'IT Eclipse 2 Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/revit-eclipse-2-mont-siyah-7",
+        "price": 11970,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 11970,
+      "max": 11970,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Black Olive",
+      "Tarmac",
+      "Sand",
+      "Blue",
+      "Black",
+      "Silver"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      },
+      {
+        "size": "4XL",
+        "min": 132,
+        "max": 141
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Polyester 600D ve polyester file; geri dönüştürülmüş polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön, arka ve iç kollarda tam file paneller",
+      "closure": "Ön fermuar, bel/kol ağzı/pazı ayar tırnakları, kot pantolon halkası",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/sonic-2",
+      "revit/airwave-4",
+      "held/sonic-2-lady"
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "airwave-4",
+    "brand": "revit",
+    "name": "Airwave 4",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "yazlik-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Sıcak havada adventure/sport sürüş için tam file mont: softshell, ripstop ve PWR|Shell file karışımı, SEESMART seviye 1 koruma ve buna rağmen EN 17092-3 AA sınıfı.",
+    "description": [
+      "Airwave 4, REV'IT!'in havalandırma odaklı adventure sport montu. Gövdede 3 katmanlı softshell, polyester ripstop, 3D hava file ve PWR|Shell file birlikte kullanılıyor; büyük file paneller sürüş sırasında havayı doğrudan vücuda yönlendiriyor. Kalıp 'Regular fit', bel elastik ve etek büzgülü.",
+      "File mont olmasına rağmen EN 17092-3:2020 AA sınıfı alması dikkat çekici. Omuz ve dirseklerde SEESMART CE seviye 1 koruyucu standart; sırt (SEESOFT seviye 2) ve bölünmüş göğüs (seviye 1) koruyucuları için cep var. Avertum Tech-Air airbag uyumu (bir beden büyük), kısa pantolon bağlantı fermuarı, kot halkası ve omuz, alt kol ve sırtta yansıtıcı detaylar bulunuyor."
+    ],
+    "forWho": [
+      "Sıcak iklimde adventure veya naked motorla tur atan sürücüler",
+      "Yazlık file montta AA sertifikası arayanlar"
+    ],
+    "notFor": [
+      "Yağmurlu ve serin havalarda tek mont arayanlar",
+      "Seviye 2 omuz/dirsek koruması şart koşanlar"
+    ],
+    "pros": [
+      "File mont için yüksek AA sınıfı",
+      "Çok iyi hava akışı",
+      "Airbag ve göğüs/sırt koruyucu hazırlığı"
+    ],
+    "cons": [
+      "Omuz ve dirsek koruyucuları seviye 1",
+      "Su geçirmez ve termal katman yok",
+      "Türkiye'de erkek modeli için doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "yaz": "Asıl hedefi; büyük file panellerle sıcakta serin tutar.",
+      "uzunYol": "Yaz turlarında rahat; hava değişirse ek yağmurluk ve ara katman gerekir.",
+      "sehir": "Trafikte bile hava alır, şehir içi yaz kullanımında rahat.",
+      "yagmur": "Su geçirmez değil.",
+      "kis": "Uygun değil.",
+      "kurye": "Yazın kullanılabilir; yağmurlu günler için ayrı yağmurluk şart."
+    },
+    "verdict": "Airwave 4, yazın havalandırmadan ödün vermeden AA sertifikalı bir mont isteyen sürücü için başarılı. Seviye 1 koruyucuları istenirse seviye 2'ye yükseltmek ve yağmur için ayrı çözüm düşünmek gerekiyor.",
+    "faq": [
+      {
+        "q": "File mont olduğu halde neden AA sınıfı?",
+        "a": "Üretici montu EN 17092-3:2020 AA sınıfında sertifikalandırıyor; softshell, ripstop ve PWR|Shell file karışımı bu sınıfa yetecek aşınma dayanımı sunuyor."
+      },
+      {
+        "q": "Göğüs koruyucu takılabilir mi?",
+        "a": "Evet, SEESOFT seviye 1 bölünmüş göğüs koruyucu için cep var; koruyucu ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-airwave-4-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-airwave-4-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Airwave 4 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Light Grey-Blue",
+      "Black-Red",
+      "Sand-Black",
+      "Black",
+      "Black-Anthracite",
+      "Silver-Anthracite"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 84,
+        "max": 90
+      },
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      },
+      {
+        "size": "4XL",
+        "min": 132,
+        "max": 141
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "3 katmanlı softshell, 3D hava file, PWR|Shell file, polyester ripstop",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": true,
+      "ventilation": "Tam file paneller",
+      "closure": "Ön fermuar, Flexisnap yaka, kısa pantolon bağlantı fermuarı, kot halkası",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/eclipse-2",
+      "held/sonic-2",
+      "revit/tornado-4-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "defender-4-gtx",
+    "brand": "revit",
+    "name": "Defender 4 GTX",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "REV'IT!'in premium adventure travel montunun yeni nesli: dışa veya içe takılan GORE-TEX katman, ayrı giyilebilen PrimaLoft Silver termal astar, SEEFLEX seviye 2 koruma ve AA sınıfı.",
+    "description": [
+      "Defender 4 GTX baştan tasarlanmış bir üst segment adventure travel montu. Ana gövde büyük ölçüde esnek 'bonded rib stretch' malzemeden; aşınmaya açık bölgelerde CORDURA ripstop ve omuz/dirseklerde koruyucu baskı kullanılıyor. Bel, ön kol, kol ağzı ve etekteki ayarlar, katman eklenip çıkarıldıkça oturuşu düzenlemeye yarıyor.",
+      "İçeride ayrı ceket olarak da giyilebilen PrimaLoft Silver termal astar ve içte ya da dışta kullanılabilen 2'si 1 arada GORE-TEX su geçirmez katman var. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart, sırt ve göğüs koruyucu cepleri hazır. Mont EN 17092-3:2020 AA sınıfında, Avertum Tech-Air uyumlu (bir beden büyük) ve boyunluk (neck brace) hazırlığına sahip; çok sayıda cep ve kısa/uzun pantolon bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Her havada uzun mesafe adventure turu yapan, en üst seviye katman sistemi isteyenler",
+      "GORE-TEX su geçirmezliğine önem verenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar ve kuryeler: fiyatı ve tur odaklı yapısı günlük teslimat için anlamsız",
+      "Sıcak yazlarda yalnız şehir içi sürenler"
+    ],
+    "pros": [
+      "GORE-TEX katman ve ayrı giyilebilen PrimaLoft termal astar",
+      "EN 17092-3:2020 AA sınıfı",
+      "Çok sayıda cep, airbag ve boyunluk hazırlığı"
+    ],
+    "cons": [
+      "Sırt ve göğüs koruyucusu standart değil",
+      "Yeni model; Türkiye'de fiyat ve stok doğrulanamadı",
+      "Çok katmanlı yapı ağır ve hacimli"
+    ],
+    "usage": {
+      "uzunYol": "Asıl hedefi; her hava koşuluna hazır katmanlar ve bol cep.",
+      "kis": "PrimaLoft astar ve GORE-TEX katmanla serin ve soğuk günlerde iyi.",
+      "yagmur": "GORE-TEX katman dışta kullanıldığında güçlü yağmur koruması.",
+      "yaz": "Göğüs ve sırt panelleri var ama file mont kadar serin değil.",
+      "sehir": "Şehir içi kısa kullanım için ağır ve pahalı."
+    },
+    "verdict": "Defender 4 GTX, yağmur, soğuk ve sıcak arasında geçen uzun turlarda tek mont isteyen deneyimli sürücü için üst düzey bir seçenek. Yüksek fiyat, ayrıca alınması gereken sırt koruyucu ve Türkiye'de henüz doğrulanmamış bulunabilirlik dikkate alınmalı.",
+    "faq": [
+      {
+        "q": "Defender 3 GTX ile farkı ne?",
+        "a": "Defender 4 GTX baştan tasarlanmış; esnek bonded rib gövde, CORDURA ripstop takviye, PrimaLoft Silver termal astar ve içte/dışta kullanılan GORE-TEX katmanla geliyor."
+      },
+      {
+        "q": "Termal astar ayrı giyilebilir mi?",
+        "a": "Evet, üretici termal astarın motosiklet dışında ayrı ceket olarak da kullanılabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-defender-4-gtx-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-defender-4-gtx-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Defender 4 GTX ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Anthracite-Red",
+      "Black-Ocher Yellow",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 90,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 96,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 108,
+        "max": 115
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 123
+      },
+      {
+        "size": "3XL",
+        "min": 123,
+        "max": 132
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Bonded rib stretch gövde, CORDURA ripstop takviye, neopren detaylar, PrimaLoft Silver yalıtım",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir 2'si 1 arada GORE-TEX katman (içte veya dışta)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs ve sırtta havalandırma panelleri",
+      "closure": "Ön fermuar, Flexisnap yaka, kısa ve uzun pantolon bağlantı fermuarı, kol ağzı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/atacama",
+      "held/carese-evo",
+      "revit/sand-5-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "levante-2-h2o",
+    "brand": "revit",
+    "name": "Levante 2 H2O",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "yazlik-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Bahar, yaz ve sonbahar için file gövdeli, çıkarılabilir hydratex|Lite su geçirmez astarlı, SEEFLEX seviye 2 korumalı ve AA sınıfı adventure sport montu.",
+    "description": [
+      "Levante 2 H2O, 'su geçirmez mi file mi' ikilemine orta yol arayanlar için tasarlanmış. Önde, arkada ve kollarda büyük 3D hava file paneller, çerçevede 450D polyester kullanılıyor. Astar çıkarıldığında mont bir file mont gibi hava alıyor; çıkarılan hydratex|Lite astar arka cebe sığıyor.",
+      "Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart, sırt ve bölünmüş göğüs koruyucu için cepler hazır. Mont EN 17092-3:2020 AA sınıfında. Termal astar bulunmadığı için üretici montu ilkbahar, yaz ve sonbahar kullanımına yönelik konumluyor; önde ve arkada büyük cepler, çift kısa pantolon bağlantı fermuarı ve yansıtıcı detaylar var."
+    ],
+    "forWho": [
+      "Sıcak iklimde sürüp ara sıra yağmura yakalanan adventure/touring sürücüleri",
+      "Yazlık montta seviye 2 koruma ve AA sınıfı isteyenler"
+    ],
+    "notFor": [
+      "Kışın sürenler: termal astar yok",
+      "Kurye kullanımı: su geçirmez astar içte olduğu için yağmurda dış kabuk ıslanır ve ağırlaşır"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı ve SEEFLEX seviye 2 koruma",
+      "Astarsız haliyle iyi havalandırma",
+      "Türkiye'de yetkili satıcıda fiyatı doğrulanabiliyor"
+    ],
+    "cons": [
+      "Termal astar yok",
+      "Su geçirmez katman içte; dış kabuk yağmurda ıslanır",
+      "Sırt ve göğüs koruyucu ayrıca alınmalı"
+    ],
+    "usage": {
+      "yaz": "Astarsız haliyle file mont gibi hava alır.",
+      "uzunYol": "Yaz ve geçiş mevsimi turlarında iyi; bol cep var.",
+      "yagmur": "Hydratex|Lite astar takılıyken su geçirmez ama dış kabuk ıslanır.",
+      "kis": "Uygun değil; altına katman giyilse de yetersiz kalır.",
+      "sehir": "Yazın şehir içinde rahat ama adventure görünümlü."
+    },
+    "verdict": "Levante 2 H2O, sıcak bölgelerde yaşayıp ara sıra yağmura hazırlıklı olmak isteyen sürücü için koruma seviyesi yüksek bir yazlık mont. Kış kullanımı ve dışa takılan yağmur katmanı beklentisi olanlar Tornado 4 H2O'ya bakmalı.",
+    "faq": [
+      {
+        "q": "Kışın kullanılır mı?",
+        "a": "Termal astarı yok; üretici montu ilkbahar, yaz ve sonbahar için konumluyor."
+      },
+      {
+        "q": "Su geçirmez astar nerede saklanıyor?",
+        "a": "Çıkarılan hydratex|Lite astar montun arka cebine sığacak şekilde tasarlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-levante-2-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-levante-2-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Levante 2 H2O ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/revit-levante-2-h2o-mont-siyah-6",
+        "type": "retailer",
+        "label": "Ars Motor – REV'IT Levante 2 H2O Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/revit-levante-2-h2o-mont-mavi-5",
+        "type": "retailer",
+        "label": "Ars Motor – REV'IT Levante 2 H2O Mavi",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/revit-levante-2-h2o-mont-siyah-6",
+        "price": 29327,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/revit-levante-2-h2o-mont-mavi-5",
+        "price": 29327,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 29327,
+      "max": 29327,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Dark Grey",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 91,
+        "max": 96
+      },
+      {
+        "size": "M",
+        "min": 97,
+        "max": 102
+      },
+      {
+        "size": "L",
+        "min": 103,
+        "max": 108
+      },
+      {
+        "size": "XL",
+        "min": 109,
+        "max": 114
+      },
+      {
+        "size": "XXL",
+        "min": 115,
+        "max": 120
+      },
+      {
+        "size": "3XL",
+        "min": 121,
+        "max": 126
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "3D hava file, file ve 450D mat polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir hydratex|Lite astar",
+      "airbagCompatible": null,
+      "ventilation": "Ön, arka ve kollarda büyük file paneller",
+      "closure": "Ön fermuar, Flexisnap yaka, çift kısa pantolon bağlantı fermuarı, kol ağzı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/tornado-4-h2o",
+      "revit/airwave-4",
+      "held/4-touring-2"
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "ignition-4-h2o",
+    "brand": "revit",
+    "name": "Ignition 4 H2O",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont",
+      "4-mevsim-mont"
+    ],
+    "summary": "Sığır derisi ve PWR|Shell file karışımı, çıkarılabilir termal ve hydratex astarlı, SEEFLEX seviye 2 korumalı ve AA sınıfı sportif deri-tekstil montu.",
+    "description": [
+      "Ignition 4 H2O, REV'IT!'in deri/file karışık sportif montunun dördüncü nesli. Gövde panellerinde sığır derisi ile sık dokunmuş PWR|Shell file birleştiriliyor; böylece deri kadar aşınma dayanımı ile file kadar hava akışı tek montta toplanmaya çalışılıyor. Göğüs, kol ve sırtta havalandırma panelleri, ön kollarda fermuarlar var. Kalıp 'Slim fit' ve kollarda, koltuk altında streç bölgeler bulunuyor.",
+      "İçeride çıkarılabilir termal astar ve hydratex|Lite su geçirmez astar var; ikisi ayrı ayrı veya birlikte takılabiliyor. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart, sırt ve göğüs koruyucu cepleri hazır. Mont EN 17092-3:2020 AA sınıfında; kısa ve uzun pantolon bağlantı fermuarı, güvenlik dikişleri ve Leather Working Group Gold sertifikalı deri kullanılıyor."
+    ],
+    "forWho": [
+      "Naked veya sport-touring motorla sportif sürüp montunu üç mevsim kullanmak isteyenler",
+      "Deri görünüm ve dayanımını havalandırmayla birleştirmek isteyenler"
+    ],
+    "notFor": [
+      "Kurye kullanımı: slim kalıp, deri bakım ihtiyacı ve fiyatı günlük teslimata uygun değil",
+      "Dik oturuşlu adventure motor kullananlar"
+    ],
+    "pros": [
+      "Deri ve file karışımıyla AA sınıfı",
+      "Termal ve su geçirmez astarlarla üç mevsim kullanım",
+      "SEEFLEX seviye 2 koruma ve pantolon bağlantısı"
+    ],
+    "cons": [
+      "Su geçirmez astar içte; deri dış kabuk yağmurda ıslanır",
+      "Slim kalıp geniş yapılı sürücüleri zorlayabilir",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "sport": "Güçlü olduğu alan; slim kalıp ve deri paneller sportif sürüşe uygun.",
+      "yaz": "File paneller ve havalandırmalarla sıcakta deri montlara göre daha serin.",
+      "kis": "Termal astarla serin günlerde iyi; sert kışta yetersiz.",
+      "yagmur": "Hydratex|Lite astar içten korur ama dış kabuk ıslanır, uzun yağmurda yağmurluk önerilir.",
+      "sehir": "Şık görünümüyle şehir içinde de giyilebilir.",
+      "uzunYol": "Sport-touring turlarında rahat; cep sayısı touring montlara göre az."
+    },
+    "verdict": "Ignition 4 H2O, deri montun güvenliğini sevip yazın da terlemek istemeyen sportif sürücü için ilginç bir orta yol. Yağmurda dış kabuğun ıslanması ve slim kalıp, satın almadan önce denenmesi gereken noktalar.",
+    "faq": [
+      {
+        "q": "Tamamen deri mi?",
+        "a": "Hayır. Sığır derisi paneller PWR|Shell file, neopren ve streç polyesterle birleştiriliyor."
+      },
+      {
+        "q": "Beden sistemi nasıl?",
+        "a": "Avrupa ölçüsü 46-60 bedenleriyle sunuluyor; üreticinin göğüs çevresi tablosuna göre seçim yapılmalı."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-ignition-4-h2o-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-ignition-4-h2o-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Ignition 4 H2O ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "sizeChart": [
+      {
+        "size": "46",
+        "min": 92,
+        "max": 96
+      },
+      {
+        "size": "48",
+        "min": 96,
+        "max": 100
+      },
+      {
+        "size": "50",
+        "min": 100,
+        "max": 104
+      },
+      {
+        "size": "52",
+        "min": 104,
+        "max": 108
+      },
+      {
+        "size": "54",
+        "min": 108,
+        "max": 112
+      },
+      {
+        "size": "56",
+        "min": 112,
+        "max": 117
+      },
+      {
+        "size": "58",
+        "min": 117,
+        "max": 123
+      },
+      {
+        "size": "60",
+        "min": 123,
+        "max": 129
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Sığır derisi, PWR|Shell file, neopren, streç polyester, suni nubuk",
+      "materialClass": "karma",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir hydratex|Lite astar",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, kol ve sırtta havalandırma panelleri, ön kollarda fermuar",
+      "closure": "Ön fermuar, rüzgar kesici, kısa ve uzun pantolon bağlantı fermuarı, kot halkası",
+      "madeIn": null
+    },
+    "rivals": [
+      "alpinestars/gp-plus-r-v4-airflow",
+      "held/savona-st",
+      "revit/airwave-4"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "tornado-4-h2o-ladies",
+    "brand": "revit",
+    "name": "Tornado 4 H2O Ladies",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Tornado 4 H2O'nun kadın kalıplı versiyonu: 3D hava file gövde, termal astar, dışa takılabilen hydratex ceket, SEEFLEX seviye 2 koruma ve AA sınıfı.",
+    "description": [
+      "Tornado 4 H2O Ladies, erkek modelle aynı çok mevsimli konsepti kadın vücut ölçülerine göre kalıplanmış gövdeyle sunuyor. Göğüs, kollar ve sırtta 3D hava file; aşınma bölgelerinde ripstop ve Hypalon var. Astarlar çıkarıldığında yazlık file mont gibi çalışıyor.",
+      "Termal astar ve 3 katmanlı hydratex ceket ayrı ayrı takılabiliyor; su geçirmez ceket montun içine ya da üstüne giyilebiliyor. Omuz ve dirseklerde SEEFLEX CE seviye 2 koruyucu standart, sırt koruyucu için SEESOFT seviye 2 cebi hazır. Üretici sayfasında kadın modelde göğüs koruyucu hazırlığı belirtilmiyor. Mont EN 17092-3:2020 AA sınıfında ve Avertum Tech-Air uyumlu (bir beden büyük)."
+    ],
+    "forWho": [
+      "Sıcak yaz ve serin geçiş mevsimlerinde tek montla tur yapmak isteyen kadın sürücüler",
+      "Kadın kalıbında AA sınıfı katmanlı mont arayanlar"
+    ],
+    "notFor": [
+      "Kış aylarında düzenli soğukta sürenler",
+      "Kurye kullanımı: yağmurda katman değiştirme gerektiren yapı yoğun teslimatta pratik değil"
+    ],
+    "pros": [
+      "Kadın kalıbı ve 34-44 beden aralığı",
+      "EN 17092-3:2020 AA sınıfı",
+      "Astarsız yaz kullanımı ve dışa takılabilen su geçirmez ceket"
+    ],
+    "cons": [
+      "Sırt koruyucu ayrıca alınmalı",
+      "Dış kabuk tek başına su geçirmez değil",
+      "Türkiye'de kadın modeli için doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "yaz": "File gövde sayesinde sıcakta iyi hava alır.",
+      "uzunYol": "Katman sistemi değişken havalı turlarda iş görür.",
+      "yagmur": "Hydratex ceket dışa giyildiğinde yağmuru keser.",
+      "kis": "Termal astarla serin günlerde yeterli, kış montu değil.",
+      "sehir": "Astarsız haliyle şehir içinde rahat."
+    },
+    "verdict": "Tornado 4 H2O Ladies, kadın sürücüler için çok mevsimli, AA sınıfı ve fiyat/performansı makul bir touring montu. Sırt koruyucuyu ayrıca almak ve yağmurda katman takmak için durmak gerektiği unutulmamalı.",
+    "faq": [
+      {
+        "q": "Erkek modelden farkı ne?",
+        "a": "Konsept ve malzemeler aynı; kalıp kadın vücut ölçülerine göre ve bedenler 34-44 arası. Üretici sayfasında kadın modelde göğüs koruyucu hazırlığı listelenmiyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Üreticinin tablosunda 34 beden 81-85 cm, 44 beden 101-106 cm göğüs çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-tornado-4-h2o-ladies-black-anthracite",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-tornado-4-h2o-ladies-black-anthracite",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Tornado 4 H2O Ladies ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard",
+      "priceRange"
+    ],
+    "colors": [
+      "Black-Anthracite",
+      "Silver-Black"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "sizeChart": [
+      {
+        "size": "34",
+        "min": 81,
+        "max": 85
+      },
+      {
+        "size": "36",
+        "min": 85,
+        "max": 89
+      },
+      {
+        "size": "38",
+        "min": 89,
+        "max": 93
+      },
+      {
+        "size": "40",
+        "min": 93,
+        "max": 97
+      },
+      {
+        "size": "42",
+        "min": 97,
+        "max": 101
+      },
+      {
+        "size": "44",
+        "min": 101,
+        "max": 106
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "3D hava file, polyester ripstop, polyester file, Hypalon takviye; geri dönüştürülmüş polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir 3 katmanlı hydratex ceket (içte veya dışta)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, kollar ve sırtta tam file 3D hava paneller",
+      "closure": "Ön fermuar, Flexisnap yaka, kol ağzı fermuarı, kısa pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/sand-5-h2o-ladies",
+      "held/sonic-2-lady",
+      "revit/eclipse-2-ladies"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "eclipse-2-ladies",
+    "brand": "revit",
+    "name": "Eclipse 2 Ladies",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "yazlik-mont",
+      "sehir-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Kadın kalıplı hafif şehir file montu: 600D polyester çerçeve, geniş file paneller, SEESMART seviye 1 omuz/dirsek koruması ve EN 17092-4 A sınıfı.",
+    "description": [
+      "Eclipse 2 Ladies, erkek modelin kadın kalıbına uyarlanmış hali. Ön, arka ve iç kollarda polyester file, aşınma bölgelerinde 600D polyester kullanılıyor. Bel, kol ağzı ve pazıdaki ayar tırnaklarıyla daha dar ya da daha bol oturuş sağlanabiliyor; kalıp 'Slim fit'.",
+      "Omuz ve dirseklerde SEESMART CE seviye 1 koruyucu standart, SEESOFT seviye 2 sırt koruyucu için cep var. EN 17092-4:2020 A sınıfı sertifika, montun kısa mesafeli şehir kullanımına yönelik olduğunu gösteriyor. Su geçirmez veya termal astar yok; kot pantolon halkası ve fermuarlı cepler günlük kullanımı kolaylaştırıyor."
+    ],
+    "forWho": [
+      "Yazın şehir içinde scooter veya hafif motosikletle sürüş yapan kadınlar",
+      "Uygun fiyatlı, sertifikalı ilk file montunu arayanlar"
+    ],
+    "notFor": [
+      "Uzun ve hızlı yol yapanlar: A sınıfı ve seviye 1 koruma sınırlı",
+      "Yağmurlu ve soğuk havada sürenler"
+    ],
+    "pros": [
+      "Hafif ve iyi hava alan file gövde",
+      "Türkiye'de erişilebilir fiyat",
+      "Kadın kalıbı ve 34-46 beden aralığı"
+    ],
+    "cons": [
+      "A sınıfı, seviye 1 koruyucular",
+      "Sırt koruyucu standart değil",
+      "Su geçirmezlik ve termal astar yok"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı.",
+      "yaz": "Sıcakta serin tutar.",
+      "yagmur": "Su geçirmez değil.",
+      "kis": "Uygun değil.",
+      "kurye": "Yazın şehir içi kısa teslimatlarda kullanılabilir; sırt koruyucu ve yağmurluk eklenmeli."
+    },
+    "verdict": "Eclipse 2 Ladies, sıcak şehir sürüşü için hafif ve bütçe dostu bir kadın file montu. Koruma seviyesi şehir içine uygun; otoyol ve tur için AA sınıfı bir mont tercih edilmeli.",
+    "faq": [
+      {
+        "q": "Beden aralığı nedir?",
+        "a": "Üretici 34-46 beden sunuyor; 34 beden 81-85 cm, 46 beden 106-112 cm göğüs çevresine karşılık geliyor."
+      },
+      {
+        "q": "Sırt koruyucu eklenebilir mi?",
+        "a": "Evet, SEESOFT seviye 2 sırt koruyucu için cep var; koruyucu ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-jacket-eclipse-2-ladies-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-jacket-eclipse-2-ladies-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Jacket Eclipse 2 Ladies ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/revit-eclipse-2-kadin-mont-siyah-6",
+        "type": "retailer",
+        "label": "Ars Motor – REV'IT Eclipse 2 Kadın Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/revit-eclipse-2-kadin-mont-siyah-6",
+        "price": 11970,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 11970,
+      "max": 11970,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "unverified": [
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Aubergine",
+      "Pink",
+      "Sand",
+      "Silver",
+      "Black"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "sizeChart": [
+      {
+        "size": "34",
+        "min": 81,
+        "max": 85
+      },
+      {
+        "size": "36",
+        "min": 85,
+        "max": 89
+      },
+      {
+        "size": "38",
+        "min": 89,
+        "max": 93
+      },
+      {
+        "size": "40",
+        "min": 93,
+        "max": 97
+      },
+      {
+        "size": "42",
+        "min": 97,
+        "max": 101
+      },
+      {
+        "size": "44",
+        "min": 101,
+        "max": 106
+      },
+      {
+        "size": "46",
+        "min": 106,
+        "max": 112
+      }
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Polyester 600D ve polyester file; geri dönüştürülmüş polyester",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön, arka ve iç kollarda tam file paneller",
+      "closure": "Ön fermuar, bel/kol ağzı/pazı ayar tırnakları, kot pantolon halkası",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/sonic-2-lady",
+      "revit/tornado-4-h2o-ladies",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "carese-evo",
+    "brand": "held",
+    "name": "Carese Evo",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Cordura 500D dış kabuklu, içte/dışta veya tek başına kullanılabilen GORE-TEX 3 katman yağmur ceketli, D3O T5 EvoProX seviye 2 korumalı ve AA sınıfı touring montu.",
+    "description": [
+      "Carese Evo, Held'in uzun yol montu ailesinin oturmuş bir üyesi. Dış kabuk Cordura 500D; ön ve iç kollarda GORE esnek paneller, kaza bölgelerinde ripstop takviye var. Önde, sırtta ve kollarda havalandırma fermuarları, ayrıca hava kanalı olarak açılabilen cepler bulunuyor. Sırttaki 3D file paneller ve COOLMAX astar terin uzaklaşmasına yardım ediyor.",
+      "Su geçirmezliği çıkarılabilir GORE-TEX 3 katman ceket sağlıyor; bu ceket montun içine takılabiliyor, üstüne giyilebiliyor ya da tek başına yağmurluk olarak kullanılabiliyor. Omuz ve dirseklerde yüksekliği ayarlanabilen D3O T5 EvoProX seviye 2 (EN 1621-1:2012) koruyucular standart; sırt koruyucu (EN 1621-2:2014) opsiyonel, göğüs koruyucu için cırt bağlantı var. Mont EN 17092-3:2020 AA sınıfında. Kask altına giyilebilen entegre kapüşon, Held Clip-in sistemi ve opsiyonel su torbası/ışık sistemi uyumu öne çıkan detaylar."
+    ],
+    "forWho": [
+      "Uzun mesafe touring yapan ve gerçek GORE-TEX yağmur koruması isteyenler",
+      "Geniş beden yelpazesi (uzun, göbekli, kadın bedenleri) arayan sürücüler"
+    ],
+    "notFor": [
+      "Kurye kullanımı: yüksek fiyat ve touring odaklı yapı günlük teslimata uygun değil",
+      "Kışın termal astarlı tek mont arayanlar"
+    ],
+    "pros": [
+      "D3O T5 EvoProX seviye 2 omuz/dirsek koruması standart",
+      "GORE-TEX katman içte, dışta veya ayrı kullanılabiliyor",
+      "EN 17092-3:2020 AA sınıfı",
+      "Çok geniş beden seçenekleri"
+    ],
+    "cons": [
+      "Termal astar yok; soğukta ara katman gerekir",
+      "Sırt koruyucu opsiyonel",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Asıl hedefi; havalandırma, cepler ve yağmur katmanı uzun turlar için düşünülmüş.",
+      "yagmur": "GORE-TEX ceket dışta kullanıldığında dış kabuk ıslanmadan yağmuru keser.",
+      "yaz": "Havalandırma fermuarları ve file sırt panelleriyle ılık havada rahat; sıcak yazda file mont kadar serin değil.",
+      "kis": "Termal astar yok; soğukta altına sıcak tutan katman gerekir.",
+      "sehir": "Şehirde giyilebilir ama hacimli ve touring odaklı."
+    },
+    "verdict": "Carese Evo, yağmurda güvenilir GORE-TEX koruması ve standart seviye 2 koruyucularla uzun yol yapan sürücü için sağlam bir seçim. Termal astar eksikliği ve sırt koruyucunun ayrıca alınması gerektiği dikkate alınmalı.",
+    "faq": [
+      {
+        "q": "GORE-TEX katmanı nasıl kullanılıyor?",
+        "a": "Çıkarılabilir 3 katmanlı GORE-TEX ceket montun içine takılabilir, üstüne giyilebilir veya tek başına yağmur ceketi olarak kullanılabilir."
+      },
+      {
+        "q": "Kadın bedeni var mı?",
+        "a": "Üretici gri-kırmızı renkte DS-D4XL kadın bedenleri, ayrıca uzun ve göbekli beden seçenekleri sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Carese-Evo-GORE-TEX-touring-jacket/062140-00-069-0-M",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Carese-Evo-GORE-TEX-touring-jacket/062140-00-069-0-M",
+        "type": "manufacturer",
+        "label": "Held – Carese Evo GORE-TEX touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season"
+    ],
+    "colors": [
+      "black",
+      "brown",
+      "grey-blue",
+      "grey-red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      },
+      {
+        "size": "6XL",
+        "min": 150,
+        "max": 157
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Cordura 500D dış kabuk, GORE esnek paneller, ripstop takviye, COOLMAX file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir GORE-TEX 3 katman ceket (içte, dışta veya ayrı)",
+      "airbagCompatible": null,
+      "ventilation": "Önde, sırtta ve kollarda havalandırma fermuarları, ön ACS hava fermuarı, havalandırma olarak açılan cepler",
+      "closure": "Ön fermuar, bel kemeri, çift kol ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/carese-3",
+      "held/atacama",
+      "revit/defender-4-gtx"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "zorro-st",
+    "brand": "held",
+    "name": "Zorro ST",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Uygun fiyatlı Held touring montu: HEROS-TEC 600D dış kabuk, entegre Sympatex membran, çıkarılabilir termal yelek, D3O T5 Evo seviye 1 koruma ve AA sınıfı.",
+    "description": [
+      "Zorro ST Top, Held'in giriş-orta segment touring montu Zorro'nun yeni nesli. Dış kabuk HEROS-TEC 600D, dirseklerde 300D çift kat polyester takviye var. Omuz, dirsek ve koltuk altlarında streç paneller hareket serbestliği sağlıyor; havalandırma fermuarları ve yumuşak yaka standart.",
+      "Su geçirmezliği dış kabuğa entegre Sympatex membran sağlıyor; yani yağmurda ayrı katman takmak gerekmiyor. Çıkarılabilir termal yelek serin günler için. Omuz ve dirseklerde yüksekliği ayarlanabilen D3O T5 Evo seviye 1 (EN 1621-1:2012) koruyucular standart, sırt koruyucu (EN 1621-2:2014) opsiyonel. Üretici montu EN 17092:2020 AA sınıfında belirtiyor; eVest/eVest PRO airbag uyumu ve SnapTech kapüşon/yaka sistemi de var."
+    ],
+    "forWho": [
+      "Uygun bütçeyle su geçirmez ve AA sınıfı bir touring mont arayanlar",
+      "Yağmurda katman değiştirmeden sürmek isteyen günlük kullanıcılar ve kuryeler"
+    ],
+    "notFor": [
+      "Çok sıcak yazlarda sürenler: entegre membran nedeniyle file montlar kadar serin değil",
+      "Seviye 2 koruyucu şart koşanlar"
+    ],
+    "pros": [
+      "Entegre Sympatex membranla yağmurda katman değiştirme derdi yok",
+      "Termal yelekle dört mevsime yakın kullanım",
+      "AA sınıfı ve airbag (eVest) uyumu",
+      "Segmentine göre uygun fiyat"
+    ],
+    "cons": [
+      "Koruyucular seviye 1",
+      "Entegre membran sıcak havada terletir",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun; yağmurda ek yağmurluk gerektirmez.",
+      "uzunYol": "Cepler ve termal yelekle orta mesafe turlarda rahat.",
+      "yagmur": "Entegre membran sayesinde ek katmansız su geçirmez; dış kabuk ıslanıp ağırlaşabilir.",
+      "kis": "Termal yelekle serin günlerde yeterli.",
+      "yaz": "Havalandırma fermuarları var ama membranlı yapı sıcakta terletir.",
+      "kurye": "Su geçirmezliği ve fiyatıyla kurye kullanımına uygun adaylardan; seviye 1 koruyucular yükseltilebilir."
+    },
+    "verdict": "Zorro ST, yağmura ve serinliğe hazır, AA sınıfı ve uygun fiyatlı bir günlük/touring mont isteyen sürücü için mantıklı. Seviye 1 koruyucular ve sıcak havada membranın terletmesi kabul edilmesi gereken ödünler.",
+    "faq": [
+      {
+        "q": "Zorro ile Zorro ST farkı ne?",
+        "a": "Zorro ST; HEROS-TEC 600D kabuk, Sympatex membran, D3O T5 Evo koruyucular, eVest uyumu ve AA sınıfıyla geliyor. Eski Zorro A sınıfında ve Held-Tex Z-Liner membranlı."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet, membran dış kabuğa entegre; ayrıca yağmur katmanı takmak gerekmiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Zorro-ST-Top-Touring-jacketn/062527-00-014-0-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Zorro-ST-Top-Touring-jacketn/062527-00-014-0-XL",
+        "type": "manufacturer",
+        "label": "Held – Zorro ST Top touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.ceStandard"
+    ],
+    "colors": [
+      "black",
+      "black-white",
+      "black-anthracite"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "HEROS-TEC 600D dış kabuk, dirseklerde 300D çift kat polyester, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sympatex (entegre)",
+      "airbagCompatible": true,
+      "ventilation": "Havalandırma fermuarları",
+      "closure": "Ön fermuar, bel kemeri, kol ayarı, pantolon bağlantı fermuarı, SnapTech yaka sistemi",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/4-touring-2",
+      "held/savona-st",
+      "held/pentland"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "hakuna-matata-3",
+    "brand": "held",
+    "name": "Hakuna Matata 3",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Cordura RipStop 500D adventure montu: içte/dışta veya ayrı kullanılabilen Sympatex katman, açılır göğüs panelleri, D3O T5 EvoProX seviye 2 koruma ve AA sınıfı.",
+    "description": [
+      "Hakuna Matata 3 Top, Held'in adventure montunun üçüncü nesli. Dış kabuk Cordura RipStop 500D. Göğüste fermuarla çıkarılabilen paneller ve önde, sırtta, kollarda havalandırma fermuarları sıcak havada hava akışını artırıyor. Göğüs ve sırtta yansıtıcı yazılar, SnapTech yükseltilebilir kapüşon/yaka sistemi ve Held Clip-in teknolojisi var.",
+      "Çıkarılabilir Sympatex su geçirmez katman montun içine takılabiliyor, üstüne giyilebiliyor veya tek başına yağmurluk olarak kullanılabiliyor. Omuz ve dirseklerde D3O T5 EvoProX seviye 2 (EN 1621-1:2012) koruyucular standart; sırt koruyucu (EN 1621-2:2014) opsiyonel, göğüs koruyucu için cırt bağlantı var. Üretici EN 17092:2020 AA sınıfı ve eVest/eVest PRO airbag uyumu belirtiyor."
+    ],
+    "forWho": [
+      "Asfalt ve toprak karışık turlar yapan adventure sürücüleri",
+      "Sıcak havada açılır panellerle serinlemek, yağmurda dış katmanla korunmak isteyenler"
+    ],
+    "notFor": [
+      "Kışın sürenler: termal astar yok",
+      "Kurye kullanımı: adventure odaklı ve yüksek fiyatlı"
+    ],
+    "pros": [
+      "D3O T5 EvoProX seviye 2 koruma standart",
+      "Sympatex katman içte, dışta veya ayrı",
+      "Açılır göğüs panelleriyle iyi havalandırma",
+      "Kısa, uzun ve kadın beden seçenekleri"
+    ],
+    "cons": [
+      "Termal astar yok",
+      "Sırt koruyucu opsiyonel",
+      "Türkiye'de doğrulanmış fiyat bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Adventure turlarında cepler, havalandırma ve yağmur katmanıyla güçlü.",
+      "yaz": "Göğüs panelleri açıldığında sıcakta iyi hava alır.",
+      "yagmur": "Sympatex katman dışta kullanıldığında iyi korur.",
+      "kis": "Termal astar yok; soğukta ara katman gerekir.",
+      "sehir": "Şehirde kullanılabilir ama adventure görünümü ve hacmi fazla."
+    },
+    "verdict": "Hakuna Matata 3, değişken havada arazi ağırlıklı tur yapan sürücüye seviye 2 koruma ve esnek yağmur çözümü sunan dengeli bir adventure montu. Kış kullanımı için ek katman planlanmalı.",
+    "faq": [
+      {
+        "q": "Airbag ile uyumlu mu?",
+        "a": "Üretici montun Held eVest ve eVest PRO airbag yeleklerine hazır olduğunu belirtiyor."
+      },
+      {
+        "q": "Su geçirmez katman nasıl çalışıyor?",
+        "a": "Çıkarılabilir Sympatex katman içe takılabiliyor, montun üstüne giyilebiliyor ya da tek başına yağmur ceketi olarak kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Hakuna-Matata-3-Top-Adventure-jacket/062528-00-069-0-4-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Hakuna-Matata-3-Top-Adventure-jacket/062528-00-069-0-4-XL",
+        "type": "manufacturer",
+        "label": "Held – Hakuna Matata 3 Top adventure jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season",
+      "specs.ceStandard"
+    ],
+    "colors": [
+      "black",
+      "grey-black",
+      "grey-blue",
+      "sand-brown"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Cordura RipStop 500D dış kabuk, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir Sympatex katman (içte, dışta veya ayrı)",
+      "airbagCompatible": true,
+      "ventilation": "Çıkarılabilir göğüs panelleri, önde/sırtta/kollarda havalandırma fermuarları",
+      "closure": "Ön fermuar, bel kemeri, çift kol ayarı, pantolon bağlantı fermuarı, SnapTech yaka",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/carese-3",
+      "revit/offtrack-3-h2o",
+      "revit/sand-5-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "sonic-2",
+    "brand": "held",
+    "name": "Sonic II",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "AIRGUARD 400D çerçeveli, önde, sırtta ve kollarda file panelli hafif yazlık mont; EN 1621-1 seviye 1 yumuşak koruyucular ve EN 17092-4 A sınıfı.",
+    "description": [
+      "Sonic II, Held'in sportif kesimli yazlık file montu. Çerçeve AIRGUARD 400D kumaştan, ön, sırt ve kollar ise büyük ölçüde fileden. Sırtta 3D hava file paneller ve önde ACS hava fermuarı hava akışını artırıyor; omuz ve dirseklerdeki streç paneller sport pozisyonda hareket serbestliği sağlıyor.",
+      "Omuz ve dirseklerde EN 1621-1:2012 seviye 1 yumuşak koruyucular standart, sırt koruyucu (EN 1621-2:2014) opsiyonel. Mont EN 17092-4:2020 A sınıfında; su geçirmez katman yok. Held Clip-in teknolojisiyle ayrı satılan Clip-in yağmur veya termal katmanlar eklenebiliyor. Erkek bedenleri S-5XL; kadın versiyonu ayrı olarak listeleniyor."
+    ],
+    "forWho": [
+      "Yazın şehir içi ve kısa tur yapan, hafif ve hava alan mont isteyenler",
+      "Sıcak iklimde çalışan kuryeler",
+      "Bütçesini aşmadan markalı sertifikalı mont arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda ve serin havada tek mont arayanlar",
+      "Yüksek hızlı uzun yolda AA sınıfı koruma isteyenler"
+    ],
+    "pros": [
+      "Hafif ve bol hava alan file gövde",
+      "Türkiye'de yetkili satıcıda indirimli fiyatla bulunabiliyor",
+      "Clip-in katman uyumu"
+    ],
+    "cons": [
+      "EN 17092-4 A sınıfı ve seviye 1 koruyucular",
+      "Su geçirmez değil",
+      "Sırt koruyucu opsiyonel"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde rahat ve hafif.",
+      "yaz": "Asıl hedefi; file paneller sıcakta hava aldırır.",
+      "yagmur": "Su geçirmez değil; Clip-in yağmur katmanı veya yağmurluk gerekir.",
+      "kis": "Uygun değil.",
+      "kurye": "Sıcak aylarda şehir içi teslimata uygun; sırt koruyucu eklenmesi ve yağmur için ek katman önerilir.",
+      "sport": "Streç paneller ve kısa kesim sportif pozisyona uyumlu, ama koruma seviyesi pist için yetersiz."
+    },
+    "verdict": "Sonic II, sıcak havada hafif ve ucuz bir sertifikalı mont isteyen şehir sürücüsü ve kurye için mantıklı. A sınıfı ve seviye 1 koruma uzun, hızlı yollarda sınırlı kalır; yağmur için ayrı çözüm şart.",
+    "faq": [
+      {
+        "q": "Kadın modeli var mı?",
+        "a": "Evet, Sonic II kadın bedenleri (DS-DXXL) ayrı olarak sunuluyor; sitemizde Sonic II Lady olarak ayrıca yer alıyor."
+      },
+      {
+        "q": "Türkiye fiyatı nedir?",
+        "a": "Kontrol tarihinde Motomax'ta liste fiyatı 16.730 TL, indirimli fiyatı 10.810 TL idi."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Sonic-II-Sport-mesh-jacket/062335-00-068-0-L",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Sonic-II-Sport-mesh-jacket/062335-00-068-0-L",
+        "type": "manufacturer",
+        "label": "Held – Sonic II sport mesh jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sonic 2 Siyah",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-gri-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Held Sonic 2 Gri/Mavi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-gri-/-yesil",
+        "type": "retailer",
+        "label": "Motomax – Held Sonic 2 Gri/Yeşil",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-siyah",
+        "price": 16730,
+        "salePrice": 10810,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-gri-/-mavi",
+        "price": 16730,
+        "salePrice": 10810,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Mavi"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sonic-2-korumali-yazlik-motosiklet-montu-gri-/-yesil",
+        "price": 16730,
+        "salePrice": 10810,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri / Yeşil"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 10810,
+      "max": 10810,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "İndirimli fiyat; liste fiyatı 16.730 TL."
+    },
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "black",
+      "grey-black",
+      "grey-blue",
+      "military green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "AIRGUARD 400D çerçeve, file paneller, 3D hava file sırt, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Önde, sırtta ve kollarda file, ön ACS hava fermuarı",
+      "closure": "Ön fermuar, kol ve kalça ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/eclipse-2",
+      "revit/airwave-4",
+      "held/sonic-2-lady"
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "atacama",
+    "brand": "held",
+    "name": "Atacama Top",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Held'in amiral gemisi touring montu: GORE-TEX 3 katman laminat dış kabuk, SuperFabric ve Armacor takviye, SAS-TEC seviye 2 omuz/dirsek ve standart SAS-TEC sırt koruyucu, AA sınıfı.",
+    "description": [
+      "Atacama Top, Held'in en üst seviye touring montlarından. Dış kabuk doğrudan GORE-TEX 3 katman laminat; yani membran dış kumaşa yapıştırılmış ve mont yağmurda ıslanıp ağırlaşmıyor. Kritik bölgelerde Armacor takviye, kaza bölgelerinde SuperFabric, esnek bölümlerde schoeller keprotec streç kumaş kullanılıyor. Önde ve sırtta su geçirmez Aquaguard, kollarda Aquaseal havalandırma fermuarları var.",
+      "Koruma tarafında Held'e özel yonca biçimli SAS-TEC omuz ve dirsek koruyucuları (EN 1621-1:2012, seviye 2) ve EN 1621-2:2014 sertifikalı SAS-TEC sırt koruyucu standart geliyor; kaburga koruması için ek cep ve göğüs koruyucu cırt bağlantısı da mevcut. Mont EN 17092-3:2020 AA sınıfında. Held Clip-in sistemi, opsiyonel su torbası ve Held Light System ışık uyumu, 3M Scotchlite yansıtıcılar ve çok geniş beden seçenekleri sunuluyor."
+    ],
+    "forWho": [
+      "Her havada uzun mesafe tur yapan ve laminat GORE-TEX'in ıslanmayan dış kabuğunu isteyenler",
+      "Sırt koruyucusu dahil eksiksiz koruma paketi arayanlar"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar ve kuryeler: çok yüksek fiyatlı bir touring montu",
+      "Sıcak yazlarda ağırlıklı şehir içi sürenler"
+    ],
+    "pros": [
+      "Laminat GORE-TEX: dış kabuk ıslanmaz, katman değiştirme yok",
+      "SAS-TEC seviye 2 omuz/dirsek ve sırt koruyucu standart",
+      "SuperFabric ve Armacor takviye, AA sınıfı"
+    ],
+    "cons": [
+      "Çok yüksek fiyat",
+      "Laminat yapı sıcak havada file montlar kadar serin değil",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Asıl hedefi; her hava koşulunda uzun mesafe için tasarlanmış.",
+      "yagmur": "Laminat GORE-TEX ile en güçlü olduğu alan; dış kabuk ıslanmaz.",
+      "kis": "Termal astar yok; Clip-in termal katman veya ara katmanla serin havada iyi.",
+      "yaz": "Su geçirmez havalandırma fermuarları var ama sıcakta terletebilir.",
+      "sehir": "Şehir içi için gereğinden ağır ve pahalı."
+    },
+    "verdict": "Atacama Top, laminat GORE-TEX ve standart sırt koruyucusuyla parasının karşılığını uzun turlarda veren üst seviye bir mont. Fiyatı yüksek ve sıcak iklimde terletebilir; ama yağmurda ıslanmayan, katman derdi olmayan bir mont arayan için güçlü aday.",
+    "faq": [
+      {
+        "q": "Laminat GORE-TEX ne avantaj sağlıyor?",
+        "a": "Membran dış kumaşa yapıştırıldığı için yağmurda dış kabuk su emmiyor, mont ağırlaşmıyor ve yağmur başladığında katman takmak gerekmiyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Evet, EN 1621-2:2014 sertifikalı SAS-TEC sırt koruyucu standart olarak geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Atacama-Top-Touring-jacket/061941-00-072-0-3-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Atacama-Top-Touring-jacket/061941-00-072-0-3-XL",
+        "type": "manufacturer",
+        "label": "Held – Atacama Top touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season",
+      "specs.protectors.level"
+    ],
+    "colors": [
+      "black",
+      "grey-red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "GORE-TEX 3 katman laminat, Armacor takviye, SuperFabric, schoeller keprotec streç, COOLMAX file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX 3 katman laminat (dış kabuğa entegre)",
+      "airbagCompatible": null,
+      "ventilation": "Önde ve sırtta Aquaguard, kollarda Aquaseal su geçirmez havalandırma fermuarları, ön ACS hava fermuarı",
+      "closure": "Ön fermuar, yüksekliği ayarlanır kol ve bel ayarı, kalça ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "revit/defender-4-gtx",
+      "held/carese-evo",
+      "held/carese-3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "savona-st",
+    "brand": "held",
+    "name": "Savona ST",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "4-mevsim-mont",
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Sportif kesimli touring montu: HEROS-TEC 600D dış kabuk, GORE-TEX Z-Liner membran, çıkarılabilir termal yelek, seviye 2 yumuşak koruyucular ve AA sınıfı.",
+    "description": [
+      "Savona ST, sport-touring motosiklet kullananlara yönelik daha dar ve sportif kesimli bir Held montu. Dış kabuk HEROS-TEC 600D; iç kollarda ve koltuk altında streç paneller var. Önde ACS hava fermuarı ve ek havalandırma fermuarları bulunuyor.",
+      "Su geçirmezlik GORE-TEX Z-Liner teknolojisiyle sağlanıyor; membran dış kabukla astar arasında sabit. Çıkarılabilir termal yelek serin havada sıcak tutuyor. Omuz ve dirseklerde EN 1621-1:2012 seviye 2 yumuşak koruyucular standart, sırt koruyucu (EN 1621-2:2014) opsiyonel, göğüs koruyucu için cırt bağlantı var. Üretici EN 17092:2020 AA sınıfı belirtiyor; SnapTech yaka sistemi ve Held Clip-in uyumu mevcut."
+    ],
+    "forWho": [
+      "Sport-touring motorla günlük ve hafta sonu sürüşü yapan, yağmura hazır olmak isteyenler",
+      "Termal yelekle dört mevsime yakın kullanım arayanlar"
+    ],
+    "notFor": [
+      "Çok sıcak yazlarda sürenler: membran sabit, file mont kadar serin değil",
+      "Adventure tipi bol kesim isteyenler"
+    ],
+    "pros": [
+      "GORE-TEX Z-Liner ile katman değiştirmeden su geçirmezlik",
+      "Termal yelek dahil",
+      "Seviye 2 koruyucular ve AA sınıfı"
+    ],
+    "cons": [
+      "Sabit membran sıcakta terletir; dış kabuk yağmurda ıslanabilir",
+      "Sırt koruyucu opsiyonel",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "sehir": "Sportif ve sade görünümüyle günlük kullanımda rahat.",
+      "uzunYol": "Sport-touring turlarında rüzgar ve yağmura karşı iyi.",
+      "yagmur": "Z-Liner membran sayesinde ek katmansız su geçirmez.",
+      "kis": "Termal yelekle serin günlerde yeterli.",
+      "yaz": "Havalandırma fermuarları var ama sıcak yazda terletir.",
+      "kurye": "Su geçirmezliği ve seviye 2 koruyucularıyla dört mevsim kurye kullanımına uygun; fiyatı yüksek tarafta."
+    },
+    "verdict": "Savona ST, sportif kesimli, yağmura ve serinliğe hazır tek bir mont isteyen sport-touring sürücüsü için dengeli bir seçim. Yaz sıcağında membranlı yapı terletir; sırt koruyucu ayrıca alınmalı.",
+    "faq": [
+      {
+        "q": "GORE-TEX Z-Liner nedir?",
+        "a": "Membranın dış kabuk ile astar arasında sabit durduğu yapı. Ayrı katman takmaya gerek kalmadan su geçirmezlik sağlar, ancak dış kumaş ıslanabilir."
+      },
+      {
+        "q": "Termal astar var mı?",
+        "a": "Evet, çıkarılabilir termal yelek standart geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Savona-ST-Sporty-touring-jacket/062440-00-002-0-M",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Savona-ST-Sporty-touring-jacket/062440-00-002-0-M",
+        "type": "manufacturer",
+        "label": "Held – Savona ST sporty touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.ceStandard"
+    ],
+    "colors": [
+      "black",
+      "black-red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      },
+      {
+        "size": "6XL",
+        "min": 150,
+        "max": 157
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "HEROS-TEC 600D dış kabuk, streç paneller, file astar, çıkarılabilir termal yelek",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Z-Liner (entegre)",
+      "airbagCompatible": null,
+      "ventilation": "Ön ACS hava fermuarı ve havalandırma fermuarları",
+      "closure": "Ön fermuar, bel kemeri, kol ayarı, pantolon bağlantı fermuarı, SnapTech yaka",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/zorro-st",
+      "held/pentland",
+      "revit/ignition-4-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "pentland",
+    "brand": "held",
+    "name": "Pentland Top",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Cordura 500D dış kabuklu, entegre Held-Tex Z-Liner membranlı, seviye 2 yumuşak koruyuculu ve AA sınıfı, orta segment adventure/touring montu.",
+    "description": [
+      "Pentland Top, Held'in Cordura kabuklu orta segment adventure montu. Dış kabuk Cordura 500D; dirseklerde, kol altı ve iç kollarda özel streç paneller var. Önde, sırtta ve kollarda havalandırma fermuarları; su geçirmez dış cepler, harita cebi ve sırt cebi bulunuyor.",
+      "Su geçirmezliği entegre Held-Tex Z-Liner membran sağlıyor. Omuz ve dirseklerde EN 1621-1:2012 seviye 2 yumuşak koruyucular standart; dirseklerde HPA (Held protector adjustment) ayar sistemi var. Sırt koruyucu (EN 1621-2:2014) opsiyonel, göğüs koruyucu için cırt bağlantı mevcut. Mont EN 17092-3:2020 AA sınıfında; termal astar bulunmuyor."
+    ],
+    "forWho": [
+      "Cordura dayanımında, uygun fiyatlı ve su geçirmez bir adventure/touring mont arayanlar",
+      "Yağmurda katman takmadan sürmek isteyen günlük kullanıcılar"
+    ],
+    "notFor": [
+      "Kışın sürenler: termal astar yok",
+      "Sıcak yazlarda file mont serinliği bekleyenler"
+    ],
+    "pros": [
+      "Cordura 500D dış kabuk",
+      "Entegre membranla ek katmansız su geçirmezlik",
+      "Seviye 2 koruyucular, HPA dirsek ayarı ve AA sınıfı"
+    ],
+    "cons": [
+      "Termal astar yok",
+      "Sırt koruyucu opsiyonel",
+      "Türkiye'de doğrulanmış satış fiyatı bulunamadı"
+    ],
+    "usage": {
+      "uzunYol": "Cepler ve havalandırmayla orta-uzun turlarda rahat.",
+      "yagmur": "Entegre membranla su geçirmez; dış kabuk ıslanabilir.",
+      "yaz": "Havalandırma fermuarları var ama membranlı yapı sıcakta terletir.",
+      "kis": "Termal astar yok; ara katman gerekir.",
+      "sehir": "Günlük kullanıma uygun.",
+      "kurye": "Su geçirmezliği, seviye 2 koruyucuları ve Cordura kabuğuyla yoğun kullanıma dayanıklı bir aday."
+    },
+    "verdict": "Pentland Top, Cordura dayanımı, entegre membran ve seviye 2 koruyucularla fiyat/performans odaklı sağlam bir adventure/touring montu. Termal astarın olmaması serin aylarda ek katman gerektiriyor.",
+    "faq": [
+      {
+        "q": "HPA sistemi nedir?",
+        "a": "Held Protector Adjustment; dirsek koruyucusunun konumunu kol uzunluğuna göre ayarlamaya yarayan sistem."
+      },
+      {
+        "q": "Kadın bedeni var mı?",
+        "a": "Üretici sayfasında Pentland Top yalnızca erkek bedenleriyle (S-6XL) listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Pentland-Top-Adventure-jacket/062321-00-030-0-S",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Pentland-Top-Adventure-jacket/062321-00-030-0-S",
+        "type": "manufacturer",
+        "label": "Held – Pentland Top adventure jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season"
+    ],
+    "colors": [
+      "black",
+      "navy blue-fluorescent yellow",
+      "grey-black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      },
+      {
+        "size": "6XL",
+        "min": 150,
+        "max": 157
+      }
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Cordura 500D dış kabuk, streç paneller, file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Held-Tex Z-Liner (entegre)",
+      "airbagCompatible": null,
+      "ventilation": "Önde, sırtta ve kollarda havalandırma fermuarları",
+      "closure": "Ön fermuar, çift kol ayarı, bel ayarı, pantolon bağlantı fermuarı",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/zorro-st",
+      "held/4-touring-2",
+      "held/hakuna-matata-3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  },
+  {
+    "slug": "carese-3",
+    "brand": "held",
+    "name": "Carese 3 Top",
+    "category": "mont",
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "subcategories": [
+      "touring-mont",
+      "tekstil-mont"
+    ],
+    "summary": "Held'in yeni adventure/touring montu: Cordura RipStop 500D, içte/dışta veya ayrı kullanılan GORE-TEX 3 katman ceket, Megavent sırt paneli, D3O T5 EvoProX seviye 2 ve AA sınıfı.",
+    "description": [
+      "Carese 3 Top, üreticinin 'İsviçre çakısı' olarak tanıttığı yeni nesil Carese. Dış kabuk Cordura RipStop 500D; sırtta büyük 'Megavent' havalandırma paneli, önde ACS hava fermuarı ve önde, sırtta, kollarda havalandırma fermuarları var. İç kollar ve dirseklerde streç paneller, sırtta 3D hava file ve COOLMAX astar bulunuyor.",
+      "Çıkarılabilir GORE-TEX 3 katman ceket montun içine takılabiliyor, üstüne giyilebiliyor ya da tek başına yağmurluk olarak kullanılabiliyor. Omuz ve dirseklerde D3O T5 EvoProX seviye 2 (EN 1621-1:2012) koruyucular standart, dirseklerde HPA ayarı var; sırt koruyucu (EN 1621-2:2014) opsiyonel. Üretici EN 17092:2020 AA sınıfı, eVest/eVest PRO airbag uyumu ve SnapTech kapüşon/yaka sistemi belirtiyor."
+    ],
+    "forWho": [
+      "Sıcak havada güçlü havalandırma, yağmurda GORE-TEX koruması isteyen adventure/touring sürücüleri",
+      "Airbag yeleğine geçmeyi düşünenler"
+    ],
+    "notFor": [
+      "Kurye kullanımı: yüksek fiyatlı ve tur odaklı",
+      "Kışın termal astarlı tek mont arayanlar"
+    ],
+    "pros": [
+      "Megavent sırt paneliyle güçlü havalandırma",
+      "GORE-TEX katman içte, dışta veya ayrı",
+      "D3O T5 EvoProX seviye 2, AA sınıfı ve eVest uyumu"
+    ],
+    "cons": [
+      "Termal astar yok",
+      "Sırt koruyucu opsiyonel",
+      "Yeni model; Türkiye'de fiyat ve stok doğrulanamadı"
+    ],
+    "usage": {
+      "uzunYol": "Asıl hedefi; havalandırma ve yağmur katmanı uzun turlar için.",
+      "yaz": "Megavent sırt paneli ve fermuarlarla sıcakta iyi hava alır.",
+      "yagmur": "GORE-TEX ceket dışta kullanıldığında yağmuru dış kabuğa ulaşmadan keser.",
+      "kis": "Termal astar yok; ara katman gerekir.",
+      "sehir": "Şehirde kullanılabilir ama hacimli."
+    },
+    "verdict": "Carese 3 Top, havalandırma ile GORE-TEX yağmur korumasını esnek biçimde birleştiren güçlü bir adventure/touring montu. Termal astar eksikliği ve sırt koruyucunun ayrıca alınması dışında eksik yanı az; fiyatı ise üst segmentte.",
+    "faq": [
+      {
+        "q": "Carese Evo'dan farkı ne?",
+        "a": "Carese 3; Cordura RipStop kabuk, Megavent sırt paneli, eVest airbag uyumu ve SnapTech yaka sistemiyle geliyor. Her ikisinde de çıkarılabilir GORE-TEX 3 katman ceket var."
+      },
+      {
+        "q": "Kısa ve uzun beden var mı?",
+        "a": "Üretici gri-siyah renkte kısa (K-) ve uzun (L-) bedenler ile DS-D3XL kadın bedenleri sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Carese-3-Top-Adventure-touring-jacket/062640-00-069-0-L",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Carese-3-Top-Adventure-touring-jacket/062640-00-069-0-L",
+        "type": "manufacturer",
+        "label": "Held – Carese 3 Top adventure touring jacket ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season",
+      "specs.ceStandard"
+    ],
+    "colors": [
+      "black",
+      "brown",
+      "grey-black",
+      "grey-blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 86,
+        "max": 93
+      },
+      {
+        "size": "M",
+        "min": 94,
+        "max": 101
+      },
+      {
+        "size": "L",
+        "min": 102,
+        "max": 109
+      },
+      {
+        "size": "XL",
+        "min": 110,
+        "max": 117
+      },
+      {
+        "size": "XXL",
+        "min": 118,
+        "max": 125
+      },
+      {
+        "size": "3XL",
+        "min": 126,
+        "max": 133
+      },
+      {
+        "size": "4XL",
+        "min": 134,
+        "max": 141
+      },
+      {
+        "size": "5XL",
+        "min": 142,
+        "max": 149
+      }
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Cordura RipStop 500D dış kabuk, ripstop takviye, 3D hava file sırt, COOLMAX astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Çıkarılabilir GORE-TEX 3 katman ceket (içte, dışta veya ayrı)",
+      "airbagCompatible": true,
+      "ventilation": "Megavent sırt paneli, ön ACS hava fermuarı, önde/sırtta/kollarda havalandırma fermuarları",
+      "closure": "Ön fermuar, bel kemeri, çift kol ayarı, kalça ayarı, pantolon bağlantı fermuarı, SnapTech yaka",
+      "madeIn": null
+    },
+    "rivals": [
+      "held/carese-evo",
+      "held/hakuna-matata-3",
+      "revit/sand-5-h2o"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "sizeChartMeasure": "Göğüs çevresi (cm)"
+  }
+]

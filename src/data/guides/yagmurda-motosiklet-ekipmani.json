@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "yagmurda-motosiklet-ekipmani",
+    "title": "Yağmurda Motosiklet Ekipmanı",
+    "description": "Yağmurda kuru, sıcak ve görünür kalmak için membranlı mont mu yağmurluk mu, su geçirmez eldiven ve bot, vizör buğusu ve bakım önerileri.",
+    "topic": "genel",
+    "readingMinutes": 6,
+    "intro": "Yağmurda motosiklet sürmek için gereken temel ekipman; su geçirmez membranlı veya üstüne yağmurluk giyilmiş mont ve pantolon, su geçirmez eldiven ve bot, buğu önleyici ekranlı kask ve görünürlüğü artıran reflektif detaylardır. Islanmak yalnızca konforsuzluk değil, üşüme ve dikkat kaybı demektir; yağmurda görüş de azaldığı için diğer sürücülerin seni fark etmesi ayrıca önem kazanır.",
+    "sections": [
+      {
+        "heading": "Membranlı mont mu, ayrı yağmurluk mu?",
+        "paragraphs": [
+          "Su geçirmezliği sağlamanın üç yolu vardır. Laminasyonlu membranda su geçirmez katman dış kumaşa yapışıktır; dış kat ıslanıp ağırlaşmaz ve kuruma hızlıdır. İçten astarlı membranda dış kumaş suyu emer, montun içi kuru kalsa da ağırlaşır ve geç kurur. Ayrı yağmurluk ise herhangi bir montun üstüne giyilir ve yağmur durunca çıkarılır.",
+          "Yağmurda sık sürüyorsan laminasyonlu membran en konforlu ama en pahalı seçenektir. Yazın file mont kullanıp ara sıra yağmura yakalanıyorsan çantada taşınan bir yağmurluk takımı en mantıklı tamamlayıcıdır."
+        ],
+        "bullets": [
+          "Laminasyonlu membran: en iyi performans, en yüksek maliyet",
+          "İç astar membran: ekonomik, dış kat ıslanır",
+          "Ayrı yağmurluk: esnek, her montla kullanılır, giyip çıkarması zaman alır"
+        ]
+      },
+      {
+        "heading": "Eller ve ayaklar",
+        "paragraphs": [
+          "Islak eldiven kısa sürede eli soğutur ve kavrayışı bozar. Su geçirmez eldivenlerde manşetin mont kolunun altına mı üstüne mi gireceği önemlidir: kollar eldivenin üstüne binerse su eldivenin içine akmaz.",
+          "Botta etikette WR olması, botun bütününün su geçirmezlik testinden geçtiğini gösterir. Pantolon paçasının botun konçunun üstüne binmesi, suyun yukarıdan bota dolmasını engeller."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Görüş: vizör ve buğu",
+        "paragraphs": [
+          "Yağmurda iki sorun aynı anda yaşanır: vizörün dışında su damlaları, içinde ise nefesle oluşan buğu. İç taraf için Pinlock gibi bir buğu önleyici ekran en etkili çözümdür. Dış yüzeyde su itici bir bakım ürünü damlaların daha kolay akmasını sağlar; kullanmadan önce vizör kaplamasına uygun olduğunu üreticiden kontrol et.",
+          "Gece yağmurda koyu renk vizör kullanma. Islak asfalttaki yansımalar zaten görüşü zorlaştırır; şeffaf vizör en güvenli seçimdir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Görünür olmak",
+        "paragraphs": [
+          "Yağmurda araç sürücülerinin görüşü sileceklere, buğuya ve yansımalara bağlıdır. Motosiklet zaten küçük bir silüettir; açık renkli bir yağmurluk veya reflektif paneller seni çok daha erken fark edilir kılar.",
+          "Birçok yağmurluk takımı neon sarı veya turuncu seçeneklerle gelir. Koyu bir montun üzerine giyilen açık renkli yağmurluk, görünürlüğü aynı anda artırmanın en kolay yoludur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kurutma ve bakım",
+        "paragraphs": [
+          "Membranlı ekipmanı ıslak halde kapalı bir dolaba koyma; askıda, doğrudan ısı kaynağından uzakta kurut. Kaloriferin üstüne konan deri eldiven ve botlar sertleşip çatlayabilir.",
+          "Dış kumaşın suyu itmesini sağlayan su itici kaplama zamanla zayıflar. Kumaş yağmurda koyulaşıp su emmeye başladıysa üreticinin önerdiği temizlik ve yenileme ürünleriyle bakım yap; bu, membranın nefes almasını da korur."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Su geçirmez mont aynı zamanda nefes alır mı?",
+        "a": "Membranlar su damlalarını içeri almazken buharın dışarı çıkmasına izin verecek şekilde tasarlanır. Ancak yoğun eforda veya sıcak havada içeride yoğuşma olabilir; bu her zaman sızıntı anlamına gelmez."
+      },
+      {
+        "q": "Yağmurluk takımı koruma sağlar mı?",
+        "a": "Yağmurlukların çoğu sürtünme koruması sağlamaz; yalnızca suyu keser. Koruma alttaki sınıflı mont ve pantolondan gelir."
+      },
+      {
+        "q": "Yağmurda deri eldiven kullanılır mı?",
+        "a": "Membransız deri eldiven yağmurda suyu emer ve eli soğutur. Kurutma sonrası deri sertleşebilir; yağmurlu günler için ayrı su geçirmez bir eldiven taşımak daha iyidir."
+      }
+    ],
+    "relatedGuides": [
+      "pinlock-nedir",
+      "kislik-motosiklet-ekipmani",
+      "motosiklet-botu-nasil-secilir",
+      "motosiklet-montu-nasil-secilir"
+    ],
+    "relatedCategories": [
+      "mont/4-mevsim-mont",
+      "mont/tekstil-mont",
+      "eldiven/touring-eldiven",
+      "bot/touring-botu",
+      "pantolon/tekstil-pantolon"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.tcxboots.com/bg/en/certifications.html",
+        "type": "manufacturer",
+        "label": "TCX – EN 13634 sertifika açıklamaları",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

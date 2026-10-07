@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "double-d-nedir",
+    "title": "Double-D Bağlantı Nedir?",
+    "description": "Double-D, kask çene kayışının iki D şeklindeki metal halkadan geçirilerek kilitlendiği bağlantı sistemidir. Mikrometrik tokayla farkını anlattık.",
+    "topic": "kask",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 4,
+    "intro": "Double-D (çift D halkası), kaskın çene kayışının iki D şeklindeki metal halkadan geçirilip geri döndürülerek sıkıldığı, toka içermeyen bir bağlantı sistemidir. Kayış her takışta kafana göre yeniden sıkıldığı için çok sağlam ve basit bir kilitlemedir; özellikle pist ve sportif kasklarda yaygındır.",
+    "sections": [
+      {
+        "heading": "Nasıl çalışır?",
+        "paragraphs": [
+          "Kayışın bir ucunda üst üste iki metal D halkası bulunur. Kayışın serbest ucunu önce iki halkanın içinden geçirir, sonra yalnızca üstteki (ikinci) halkanın içinden geri döndürür ve çekerek sıkarsın. Kayış gerildikçe halkalar birbirine bastırır ve kayışı sürtünmeyle kilitler.",
+          "Kayışın artan ucu genellikle küçük bir çıtçıt (basmalı düğme) ile sabitlenir; bu çıtçıt rüzgârda kayışın sallanmasını önler, kilitleme görevi yoktur."
+        ],
+        "bullets": [
+          "Kayışı iki halkadan geçir",
+          "Ucu sadece dıştaki halkadan geri döndür",
+          "Çene altında bir-iki parmak sığacak kadar sık",
+          "Artan ucu çıtçıtla sabitle"
+        ]
+      },
+      {
+        "heading": "Avantajları",
+        "paragraphs": [
+          "Mekanizmanın hareketli parçası yoktur, bu yüzden bozulacak ya da kırılacak bir toka da yoktur. Her takışta kayışı sıktığın için, ayarı zamanla gevşemiş bir tokaya güvenmek zorunda kalmazsın. Bu basitlik ve sağlamlık nedeniyle birçok pist ve yarış organizasyonu double-D bağlantılı kask şartı arar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Dezavantajları",
+        "paragraphs": [
+          "Eldivenle takıp çıkarmak mikrometrik tokaya göre daha zahmetlidir ve alışana kadar biraz zaman alır. Şehir içinde sık sık kask çıkaran kuryeler ya da kısa mesafe sürücüleri için pratiklik kaybı hissedilebilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Mikrometrik toka ile farkı",
+        "paragraphs": [
+          "Mikrometrik tokada kayışın ucu dişli bir dile geçer ve tık tık sesiyle kademeli olarak sıkılır; açmak için küçük bir kulakçık çekilir. Eldivenle tek elle kullanmak kolaydır ve şehir, touring ve çene açılır kasklarda yaygındır.",
+          "Her iki sistem de ECE onaylı kasklarda kullanılır ve onay testlerinden geçer. Güvenlik açısından en önemli şey, hangisi olursa olsun kayışı her seferinde doğru sıkmaktır. Mikrometrik tokada ayar bir kez yapılır; zamanla kayışın gevşeyip gevşemediğini ara ara kontrol etmek gerekir."
+        ],
+        "bullets": [
+          "Double-D: en basit ve sağlam, her seferinde ayarlanır, eldivenle daha yavaş",
+          "Mikrometrik: hızlı ve pratik, ayar sabit kalır, mekanik parça içerir"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Double-D mi daha güvenli, mikrometrik mi?",
+        "a": "İkisi de ECE onay testlerinden geçer. Double-D daha basit bir mekanizmadır ve pist kullanımında tercih edilir; günlük kullanımda doğru sıkılmış mikrometrik toka da güvenlidir."
+      },
+      {
+        "q": "Çene kayışı ne kadar sıkı olmalı?",
+        "a": "Kayış bağlıyken çenenin altına bir-iki parmak sığmalı ve kaskı arkadan öne doğru iterek çıkarmak mümkün olmamalıdır."
+      },
+      {
+        "q": "Çıtçıtı takmasam olur mu?",
+        "a": "Çıtçıt kilitleme yapmaz, sadece kayış ucunun rüzgârda dövmesini önler. Kilidi D halkaları sağlar; yine de kayışın çırpınmaması için çıtçıtı takmak daha konforludur."
+      }
+    ],
+    "relatedGuides": ["kask-nasil-secilir", "ece-22-06-nedir", "kask-bedeni-nasil-olculur"],
+    "relatedCategories": ["kask", "kask/racing-kask", "kask/kapali-kask"],
+    "sources": [
+      { "url": "https://blog.rad.eu/en/safest-helmet-closure-micrometric-or-double-d-ring/", "type": "review", "label": "Louis/Rad: Mikrometrik mi, double-D mi?", "checkedAt": "2026-10-06" },
+      { "url": "https://mthelmets.com/en/blogs/mt-helmets/micrometric-buckle-mt-helmets", "type": "manufacturer", "label": "MT Helmets: mikrometrik toka açıklaması", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

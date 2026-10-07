@@ -1,0 +1,740 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/smx-6-v3",
+      "alpinestars/stella-faster-3-rideknit",
+      "alpinestars/web-gore-tex",
+      "held/belrock"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-montaro-wp-korumali-motosiklet-botu-siyah",
+        "price": 10900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "38",
+          "39",
+          "40",
+          "44",
+          "45",
+          "46",
+          "47"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 10900,
+      "max": 10900,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black",
+      "black-red"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.season",
+      "specs.closure",
+      "specs.madeIn"
+    ],
+    "slug": "montaro-wp",
+    "brand": "held",
+    "name": "Held Montaro WP",
+    "subcategories": [
+      "sehir-botu"
+    ],
+    "summary": "Spor ayakkabı görünümlü, Held-Tex su geçirmez membranlı, vites pedli ve EN 13634:2017 1122 WR sertifikalı kısa şehir botu.",
+    "description": [
+      "Montaro WP, Held'in sneaker görünümlü şehir ayakkabısının su geçirmez sürümü. Üst yüzey mikrofiber ve tekstil karışımı, içeride yumuşak polyester astar ve su, rüzgâr geçirmeyen, nefes alan Held-Tex membran var. Vites pedi ve dayanıklı kauçuk taban standart. Held, 43 numarada konç yüksekliğini 15 cm olarak veriyor; yani bileği kapatan ama klasik bot kadar yüksek olmayan bir yapı.",
+      "Ayakkabı EN 13634:2017 kapsamında 1122 WR koduyla sertifikalı. Bu kod; yükseklik ve aşınma dayanımında 1, kesilme ve enine ezilme dayanımında 2 seviyesini, WR ise su geçirmezlik testini geçtiğini gösterir. Ayak bileği koruması mevcut. Held modeli erkek/unisex olarak 36–47 numaralarda, siyah ve siyah-kırmızı renklerde sunuyor."
+    ],
+    "forWho": [
+      "Kuryeler ve gün boyu inip binen şehir sürücüleri: yürümesi rahat sneaker formu, vites pedi ve su geçirmez membran bir arada",
+      "Motosikletten inince ayakkabı değiştirmek istemeyen günlük kullanıcılar",
+      "Scooter ve naked motosiklet sahipleri"
+    ],
+    "notFor": [
+      "Sport ve pist sürüşü: kaval ve burulma koruması yok",
+      "Arazi ve adventure kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 1122 WR; su geçirmezlik testi geçilmiş",
+      "Kesilme ve enine ezilme dayanımında seviye 2",
+      "Sneaker formu sayesinde yürümesi rahat",
+      "Türkiye'de geniş numara stoğu"
+    ],
+    "cons": [
+      "Yükseklik ve aşınma dayanımında seviye 1; uzun botların gerisinde",
+      "Kaval koruması yok",
+      "Membranlı yapı sıcak yaz günlerinde ayağı ısıtabilir"
+    ],
+    "usage": {
+      "sehir": "En güçlü alanı. Gün boyu yürüyüp sürmek zorunda olan kuryeler için konfor, su geçirmezlik ve vites pedi dengesi iyi.",
+      "uzunYol": "Kısa turlar için kullanılabilir; uzun yolda daha yüksek konçlu touring botlar daha fazla koruma sağlar.",
+      "yaz": "Membranlı olduğu için çok sıcak günlerde file ayakkabılar kadar serin değil.",
+      "kis": "Su geçirmez ama yalıtım bilgisi verilmiyor; soğukta kalın çorap gerekir.",
+      "yagmur": "WR sertifikası ve Held-Tex membran yağmurda ayağı kuru tutmayı hedefliyor.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Montaro WP, şehir içinde her gün süren ve yağmura yakalanan biri için en mantıklı ayakkabı tiplerinden biri: sertifikalı, su geçirmez ve yürünebilir. Kısa konç ve kaval korumasının olmaması, onu otoyol ve sport kullanım yerine şehir ve kurye temposuna uygun kılıyor.",
+    "faq": [
+      {
+        "q": "1122 WR ne anlama geliyor?",
+        "a": "EN 13634:2017 sertifikasındaki dört rakam sırasıyla yükseklik, aşınma, kesilme ve enine ezilme dayanımını gösterir. Montaro WP'de ilk ikisi 1, son ikisi 2 seviyesinde; WR ise su geçirmezlik testinin geçildiğini belirtir."
+      },
+      {
+        "q": "Konç yüksekliği ne kadar?",
+        "a": "Held, 43 numarada konç yüksekliğini 15 cm olarak veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Montaro-WP-sneaker/082650-00-001-0-47",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Montaro-WP-sneaker/082650-00-001-0-47",
+        "type": "manufacturer",
+        "label": "Held – Montaro WP sneaker ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-montaro-wp-korumali-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Montaro WP Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Mikrofiber / tekstil karışımı üst yüzey, polyester astar, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "1122 WR",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Held-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/smx-6-v3",
+      "alpinestars/web-gore-tex",
+      "held/belrock",
+      "held/montaro-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-faster-3-rideknit-korumali-kadin-motosiklet-botu-siyah-/-antrasit",
+        "price": 12340,
+        "salePrice": 9260,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "38,5",
+          "40"
+        ],
+        "colors": [
+          "Siyah / Antrasit"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 9260,
+      "max": 9260,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06",
+      "note": "İndirimli fiyat; liste fiyatı 12.340 TL."
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black Anthracite"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "37.5",
+      "38",
+      "38.5",
+      "39",
+      "40",
+      "40.5",
+      "41",
+      "42",
+      "42.5",
+      "43",
+      "43.5",
+      "44"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors",
+      "specs.waterproof",
+      "specs.season",
+      "specs.closure",
+      "specs.madeIn"
+    ],
+    "slug": "stella-faster-3-rideknit",
+    "brand": "alpinestars",
+    "name": "Alpinestars Stella Faster-3 Rideknit",
+    "subcategories": [
+      "sehir-botu",
+      "sport-botu"
+    ],
+    "summary": "Kadın ayağına göre kalıplanmış, dikişsiz Rideknit örgü gövdeli, hafif ve havadar; şehir ve sportif yol sürüşü için kısa motosiklet ayakkabısı.",
+    "description": [
+      "Stella Faster-3 Rideknit, Alpinestars'ın Faster-3 ayakkabısının kadın kalıplı sürümü. Gövdede dikişsiz Rideknit örgü kullanılıyor; bu sayede çok hafif ve hava geçirgen bir yapı elde ediliyor. Stella kalıbı, kadın ayak formuna göre ayarlanmış ve üretici bunun ayağı daha iyi tuttuğunu söylüyor. Numaralar 36'dan 44'e kadar, yarım numaralar dahil.",
+      "Koruma için üretici, iç ve dış takviyelerin darbe ve aşınmaya karşı kritik bölgelere yerleştirildiğini ve ayakkabının kadın sürücüler için CE korumalı olduğunu belirtiyor; ancak sayfada EN 13634 kodu veya seviye bilgisi yok. Alpinestars yol ve sportif sürüşe yönelik tanımlıyor; örgü yapı nedeniyle su geçirmez bir ayakkabı olarak sunulmuyor."
+    ],
+    "forWho": [
+      "Şehir içinde ve hafta sonu kısa sportif sürüşlerde ayakkabı formunda koruma isteyen kadın sürücüler",
+      "Sıcak havada ağır bot giymek istemeyenler"
+    ],
+    "notFor": [
+      "Yağmurda da çalışan kuryeler: örgü gövde su geçirmez olarak sunulmuyor",
+      "Pist kullanımı ve uzun yol",
+      "Sertifika detayını (EN 13634 kodu) görmeden almak istemeyenler"
+    ],
+    "pros": [
+      "Kadın ayak kalıbı ve yarım numaralar",
+      "Rideknit örgü ile çok hafif ve havadar",
+      "Günlük ayakkabı görünümü",
+      "Türkiye'de indirimli fiyatla bulunabiliyor"
+    ],
+    "cons": [
+      "Üretici sayfasında EN 13634 kodu ve seviyeleri yok",
+      "Su geçirmez değil",
+      "Kısa yapı; kaval ve yüksek bilek koruması sunmaz",
+      "Türkiye stokunda numara seçeneği çok sınırlı"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: kısa şehir sürüşleri ve gün içinde yürüme. Yoğun kurye kullanımında yağmur koruması olmaması dezavantaj.",
+      "uzunYol": "Uzun yol için koruma ve hava koşullarına dayanım sınırlı.",
+      "yaz": "Örgü gövde ile sıcakta oldukça rahat.",
+      "kis": "Yalıtım ve membran bilgisi yok; kış için uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sportif yol sürüşü için tasarlanmış, ancak pist için bot gerekir."
+    },
+    "verdict": "Stella Faster-3 Rideknit, kadın sürücüye hafif ve şık bir şehir ayakkabısı sunuyor. Ancak üreticinin sertifika kodunu paylaşmaması ve su geçirmez olmaması önemli eksikler; satın almadan önce kutu içindeki CE etiketini kontrol etmeni öneriyoruz.",
+    "faq": [
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Üretici bu modeli su geçirmez olarak tanımlamıyor; Rideknit örgü gövde hava geçirgenliği için tasarlanmış."
+      },
+      {
+        "q": "Hangi CE sertifikasına sahip?",
+        "a": "Alpinestars sayfasında 'CE korumalı' ifadesi var ama EN 13634 kodu ve seviyeleri yazmıyor. Kesin bilgi için ürün etiketini kontrol etmek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/stella-faster-3-rideknit-sup-reg-sup-shoes-black-anthracite",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/stella-faster-3-rideknit-sup-reg-sup-shoes-black-anthracite",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella Faster-3 Rideknit Shoes ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-faster-3-rideknit-korumali-kadin-motosiklet-botu-siyah-/-antrasit",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Stella Faster-3 Rideknit Siyah/Antrasit",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Dikişsiz Rideknit örgü gövde, iç ve dış takviyeler",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Örgü gövde ile yüksek hava geçirgenliği",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/smx-6-v3",
+      "alpinestars/stella-faster-3-rideknit",
+      "held/belrock",
+      "held/montaro-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-web-goretex-korumali-motosiklet-botu-siyah",
+        "price": 22450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "39",
+          "41"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 22450,
+      "max": 22450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.madeIn",
+      "specs.materialClass"
+    ],
+    "slug": "web-gore-tex",
+    "brand": "alpinestars",
+    "name": "Alpinestars Web Gore-Tex",
+    "subcategories": [
+      "touring-botu"
+    ],
+    "summary": "Gore-Tex astarlı, yandan girişli geniş cırt kapamalı, çift yoğunluklu bilek korumalı touring botu; uzun yol ve her gün kullanım için tasarlanmış.",
+    "description": [
+      "Web Gore-Tex, Alpinestars'ın uzun yol ve günlük kullanım için tasarladığı su geçirmez touring botu. Yüzde yüz su geçirmez Gore-Tex astar, ön ve arkada esnek akordeon bölgeler ve geniş cırtlı, su itici körüklü yandan giriş sistemi var. İçte tekstil yakalı astar ve çıkarılabilir anatomik EVA tabanlık bulunuyor.",
+      "Koruma için deri yüzeyin altında ve üstünde çift yoğunluklu bilek kalkanı, vites bölgesinde takviyeli ped, gömülü şank takviyeli poliamid iç taban, sağlam burun kutusu ve dış topuk sabitleyici var. Arka tarafta gece görünürlüğü için reflektif parça bulunuyor. Üretici botun tam CE sertifikalı olduğunu söylüyor, ancak EN 13634 kodunu sayfada paylaşmıyor."
+    ],
+    "forWho": [
+      "Touring ve sport-touring motosikletle uzun yol yapanlar",
+      "Her hava koşulunda çalışan kuryeler: Gore-Tex, reflektif detay ve kolay giyilen yan giriş artı; ancak gün içinde çok yürüyenler için sneaker formuna göre daha ağır"
+    ],
+    "notFor": [
+      "Arazi ağırlıklı adventure kullanımı",
+      "Sıcak yazda hafif ayakkabı arayanlar"
+    ],
+    "pros": [
+      "Gore-Tex membran",
+      "Geniş cırtlı yan giriş ile hızlı giyip çıkarma",
+      "Çift yoğunluklu bilek kalkanı ve sağlam topuk/burun yapısı",
+      "Reflektif arka panel"
+    ],
+    "cons": [
+      "Üretici sayfasında EN 13634 kodu ve seviyeleri yok",
+      "Kaval plakası belirtilmemiş",
+      "Türkiye stokunda numara seçeneği sınırlı",
+      "Fiyatı şehir ayakkabılarına göre yüksek"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılır; yan giriş sayesinde pratik. Yoğun yürüme gerektiren kurye işinde sneaker tipi ayakkabılardan daha ağır hissettirebilir.",
+      "uzunYol": "Asıl kullanım alanı; üretici uzun mesafede konfor için kalıplandığını belirtiyor.",
+      "yaz": "Gore-Tex nefes alsa da sıcak yazda file botlar kadar serin değil.",
+      "kis": "Su geçirmez yapı ile serin havada iyi; yalıtım bilgisi verilmediği için ağır soğukta kalın çorap gerekir.",
+      "yagmur": "Gore-Tex astar yağmurda ayağı kuru tutmak için tasarlanmış.",
+      "sport": "Sport kullanım için değil."
+    },
+    "verdict": "Web Gore-Tex, uzun yolda ve yağmurda güvenilir, giymesi kolay bir touring botu. Sertifika kodunun üretici tarafından açıkça verilmemesi bir eksik; koruma tarafında bilek ve topuk yapısı güçlü ama kaval koruması belirtilmiyor.",
+    "faq": [
+      {
+        "q": "Bot su geçirmez mi?",
+        "a": "Evet. Alpinestars, botta yüzde yüz su geçirmez ve nefes alan Gore-Tex astar kullanıldığını belirtiyor."
+      },
+      {
+        "q": "Nasıl kapanıyor?",
+        "a": "Su itici körüklü yandan giriş ve geniş cırtlı kapama sistemiyle."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/web-gore-tex-boots-black",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/web-gore-tex-boots-black",
+        "type": "manufacturer",
+        "label": "Alpinestars – Web Gore-Tex Boots ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-web-goretex-korumali-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Web Gore-Tex Siyah",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Gore-Tex astar, tekstil yakalı iç astar, iç yanda deri yüzey, Alpinestars kauçuk taban",
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Gore-Tex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yandan giriş, geniş cırt kapama, su itici körük",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/stella-faster-3-rideknit",
+      "alpinestars/web-gore-tex",
+      "held/belrock",
+      "held/montaro-wp"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-smx-6-v3-korumali-motosiklet-botu-siyah-/-gumus-/-kirmizi",
+        "price": 24700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gümüş / Kırmızı"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "priceRange": {
+      "min": 24700,
+      "max": 24700,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "slug": "smx-6-v3",
+    "brand": "alpinestars",
+    "name": "Alpinestars SMX-6 v3",
+    "subcategories": [
+      "sport-botu"
+    ],
+    "summary": "Mikrofiber gövde, TPU bilek destek sistemi, kaval plakası, vidalı değiştirilebilir burun slider'ı ve EN 13634:2017 sertifikasıyla yol ve pist için sport bot.",
+    "description": [
+      "SMX-6 v3, Alpinestars'ın en çok satan sport botlarından birinin üçüncü nesli. Gövde hafif ve aşınmaya dayanıklı mikrofiber; önde ve arkada 3D file üzerine yumuşak TPU enjekte edilmiş esneme bölgeleri, ayağın doğal ileri-geri hareketine izin verirken darbe ve aşınmaya karşı da koruma sağlıyor. Yeni üst yapı, yürüme konforunu iyileştirmek için ayağın anatomisine göre kalıplanmış.",
+      "Koruma tarafında yan kaval-bilek arasında biyomekanik destek veren TPU bilek destek sistemi, yarıştan gelen TPU kaval plakası, vites bölgesinde TPU koruma, çift yoğunluklu iç bilek koruyucuları, vidalı ve değiştirilebilir burun slider'ları ve arka baldır TPU köprüsü bulunuyor. İç tarafta fermuar ve geniş cırtlı kapama, Lace-Lock sistemi ve çıkarılabilir EVA tabanlık var. Üretici EN 13634:2017 sertifikasını belirtiyor ama seviye kodunu paylaşmıyor."
+    ],
+    "forWho": [
+      "Sport ve naked motosikletle tempolu yol sürüşü ve track day yapanlar",
+      "Tam yarış botu kadar sert olmayan ama yüksek koruma isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler ve gün boyu yürüyenler: sport bot yapısı uzun yürüyüşte yorar",
+      "Yağmurda kullanım: bu sürüm su geçirmez olarak tanımlanmıyor (ayrı Drystar ve Gore-Tex sürümleri var)"
+    ],
+    "pros": [
+      "EN 13634:2017 sertifikalı",
+      "Bilek destek sistemi ve kaval plakası",
+      "Değiştirilebilir burun slider'ları",
+      "Pantolon altına sığan kompakt kaval tasarımı"
+    ],
+    "cons": [
+      "EN 13634 seviye kodu üretici sayfasında yok",
+      "Standart sürüm su geçirmez değil",
+      "Türkiye'de yetkili satıcı fiyatını doğrulayamadık",
+      "Uzun yürüyüşler için değil"
+    ],
+    "usage": {
+      "sehir": "Şehirde giyilebilir ama dur-kalk ve yürüyüşte konforu sneaker tipi ayakkabılardan düşük; kurye kullanımı için önermiyoruz.",
+      "uzunYol": "Sport-touring için kullanılabilir; su geçirmezlik gerekiyorsa Drystar veya Gore-Tex sürümü düşünülmeli.",
+      "yaz": "Havalandırmalı ayrı bir 'Vented' sürümü de var; standart sürüm sıcakta ısınabilir.",
+      "kis": "Yalıtımı yok.",
+      "yagmur": "Standart sürüm için su geçirmezlik belirtilmiyor.",
+      "sport": "Asıl kullanım alanı: yol ve pist için tasarlanmış."
+    },
+    "verdict": "SMX-6 v3, sport sürücü için yarış botuna yakın koruma ve kabul edilebilir yürüme konforu sunan dengeli bir model. Seviye kodunun verilmemesi ve standart sürümün su geçirmez olmaması dikkate alınmalı; günlük iş kullanımı için doğru bot değil.",
+    "faq": [
+      {
+        "q": "SMX-6 v3'ün su geçirmez sürümü var mı?",
+        "a": "Alpinestars SMX-6 v3'ü havalandırmalı, Drystar ve Gore-Tex varyantlarıyla da sunuyor. Bu kayıt standart sürüme ait."
+      },
+      {
+        "q": "Burun slider'ı değiştirilebiliyor mu?",
+        "a": "Evet, üretici vidalı ve değiştirilebilir çift yoğunluklu TPU burun slider'ları kullanıldığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/smx-6-v3-boots",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/smx-6-v3-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – SMX-6 v3 Boots ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-smx-6-v3-korumali-motosiklet-botu-siyah-/-gumus-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars SMX-6 v3 Siyah/Gümüş/Kırmızı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Mikrofiber üst yüzey, TPU koruma parçaları, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İç yan fermuar ve geniş cırt kapama, Lace-Lock sistemi",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "category": "bot",
+    "rivals": [
+      "alpinestars/smx-6-v3",
+      "alpinestars/stella-faster-3-rideknit",
+      "alpinestars/web-gore-tex",
+      "held/montaro-wp"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-06",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "slug": "belrock",
+    "brand": "held",
+    "name": "Held Belrock",
+    "subcategories": [
+      "adventure-botu",
+      "touring-botu"
+    ],
+    "summary": "Manda derisi/tekstil gövde, Sympatex su geçirmez membran, tokalı cırt kayışlar ve EN 13634:2017 2222 WR sertifikalı, 36 cm konçlu adventure botu.",
+    "description": [
+      "Belrock, Held'in adventure botu; markanın Hakuna Matata 3 adventure takımıyla eşleşecek şekilde tasarlanmış. Gövde manda derisi ve tekstil kombinasyonu, içeride su, rüzgâr geçirmez ve nefes alan Sympatex membran var. Hızlı açılıp kapanan tokalı cırt kayışlar, vites pedi ve kaymaz taban standart. Held, 43 numarada konç yüksekliğini 36 cm olarak veriyor.",
+      "Bot EN 13634:2017 kapsamında 2222 WR koduyla sertifikalı; yani yükseklik, aşınma, kesilme ve enine ezilme dayanımının dördünde de seviye 2, ayrıca su geçirmezlik testi geçilmiş. Sertifika satırında ayrıca IPA ibaresi yer alıyor. Kaval koruyucu, bilek koruması ve sert plastik topuk koruması mevcut. Held modeli ilkbahar–sonbahar için konumlandırıyor; numaralar 37–48 arası."
+    ],
+    "forWho": [
+      "Adventure motosikletle asfalt ve stabilize yol karışık tur yapanlar",
+      "Uzun yolda yüksek konçlu, su geçirmez ve sertifika seviyesi yüksek bot arayanlar"
+    ],
+    "notFor": [
+      "Kuryeler ve şehir içinde sık inip binenler: 36 cm konç ve kayışlı kapama günlük iş temposunda zahmetli",
+      "Ağır enduro ve motokros kullanımı"
+    ],
+    "pros": [
+      "EN 13634:2017 2222 WR; dört kategoride de seviye 2",
+      "Sympatex membran",
+      "Kaval, bilek ve topuk koruması",
+      "Tokalı cırt kayışlarla hızlı ve sağlam kapama"
+    ],
+    "cons": [
+      "Yüksek ve sert yapı; yürüme konforu şehir botlarının gerisinde",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık",
+      "Sıcak yazda membranlı yüksek bot ısıtır"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir ama kısa mesafe ve sık inip binme için fazla bot; kurye kullanımında pratik değil.",
+      "uzunYol": "Adventure ve touring turlarında güçlü: su geçirmez, yüksek konçlu ve yüksek sertifika seviyeli.",
+      "yaz": "Sıcak havada membranlı ve yüksek konçlu yapı ayağı ısıtabilir.",
+      "kis": "Su geçirmez; yalıtım bilgisi verilmiyor, soğukta kalın çorap gerekir.",
+      "yagmur": "WR sertifikası ve Sympatex membran ile yağmura dayanıklı.",
+      "sport": "Sport kullanım için değil."
+    },
+    "verdict": "Belrock, sertifika tablosunda dört kategoride de seviye 2 alan, su geçirmez ve yüksek konçlu bir adventure botu; uzun turlarda güven veriyor. Şehir içi kısa kullanım ve kurye temposu için ise fazla ağır ve uzun.",
+    "faq": [
+      {
+        "q": "2222 WR ne demek?",
+        "a": "EN 13634:2017'deki dört rakam yükseklik, aşınma, kesilme ve enine ezilme dayanımını gösterir. Belrock'ta dördü de seviye 2; WR su geçirmezlik testinin geçildiğini belirtir."
+      },
+      {
+        "q": "Konç yüksekliği ne kadar?",
+        "a": "Held, 43 numarada 36 cm konç yüksekliği belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Belrock-adventure-boots/082670-00-001-0-38",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Belrock-adventure-boots/082670-00-001-0-38",
+        "type": "manufacturer",
+        "label": "Held – Belrock adventure boots ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Manda derisi / tekstil kombinasyonu, polyester astar, kaymaz taban",
+      "materialClass": "karma",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "2222 WR",
+      "protectors": [
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sympatex",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Tokalı hızlı cırt kayışlar",
+      "madeIn": null
+    }
+  }
+]

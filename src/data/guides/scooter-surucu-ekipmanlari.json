@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "scooter-surucu-ekipmanlari",
+    "title": "Scooter Sürücüsü İçin Ekipman",
+    "description": "Şehir içinde scooter kullananlar için kask tipi, şehir montu, motosiklet jeani, kısa eldiven ve korumalı ayakkabı seçiminde pratik rehber.",
+    "topic": "genel",
+    "readingMinutes": 5,
+    "intro": "Scooter sürücüsü için ekipman, kısa mesafe ve düşük hız algısına rağmen motosiklet sürücüsüyle aynı mantığa dayanır: ECE 22.06 onaylı bir kask (tercihen kapalı veya çene açılır), EN 13594 onaylı eldiven, EN 17092 sınıflı bir şehir montu ve bileği kapatan EN 13634 onaylı bir ayakkabı. Şehir hızları düşük görünse de asfaltla temas eden eller, dirsekler ve dizler bu hızlarda bile ciddi yaralanabilir.",
+    "sections": [
+      {
+        "heading": "Kask tipi",
+        "paragraphs": [
+          "Scooter kullanıcılarının çoğu pratik olduğu için açık kask tercih eder. Ancak açık kask çene ve yüz bölgesini korumaz ve düşmelerde bu bölge sık darbe alır. Pratiklik ile korumayı birleştirmek isteyenler için çene açılır kasklar iyi bir orta yoldur: trafik ışığında veya park ederken çene kısmı kaldırılabilir.",
+          "Kasklık bölmesi olan scooterlarda kaskın ölçüsünün bölmeye sığıp sığmadığını kontrol et; bazı çene açılır kasklar küçük bölmelere girmez."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Şehir montu ve pantolon",
+        "paragraphs": [
+          "Şehir montları günlük ceket görünümünde olup EN 17092 sınıfı ve koruyucu taşır. İşe veya okula gidip gelen biri için ofiste de giyilebilen bir model, ekipmanın her gün kullanılma ihtimalini artırır.",
+          "Alt taraf için aramid takviyeli ve diz koruyuculu motosiklet jeanleri günlük görünüm ve koruma arasında iyi bir dengedir. Etiketinde sınıf bilgisi olmayan 'motosiklet jeanlerine' dikkat et."
+        ],
+        "bullets": [
+          "Mont: EN 17092 A veya AA sınıfı, omuz ve dirsek koruyucu",
+          "Pantolon: sınıflı motosiklet jeani veya tekstil pantolon",
+          "Yağmur ve kış için diz örtüsü veya yağmurluk"
+        ]
+      },
+      {
+        "heading": "Eldiven ve ayakkabı",
+        "paragraphs": [
+          "Kısa manşetli şehir eldivenleri günlük kullanımda giyilmesi kolay olduğu için iyi bir seçimdir; EN 13594 etiketi ve sıkı kapanan bir bilek kayışı yeterli bir temel sağlar.",
+          "Scooterda vites pedalı olmadığı için ayakkabı seçimi daha esnektir, ancak koruma ihtiyacı aynıdır. Spor ayakkabı görünümünde, bileği kapatan ve EN 13634 sertifikalı şehir botları günlük hayata en kolay uyum sağlayan çözümdür."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Hava koşulları ve görünürlük",
+        "paragraphs": [
+          "Scooterların bacak kalkanı rüzgarın bir kısmını keser ama yağmur ve soğukta yeterli değildir. Kışın ve yağmurda scooter için tasarlanmış diz örtüleri ve elcik örtüleri büyük konfor sağlar; ancak bunlar koruyucu ekipman değildir, korumalı giysinin yerine geçmez.",
+          "Şehir trafiğinde görünür olmak en önemli güvenlik önlemlerinden biridir. Açık renkli kask, reflektif detaylı mont veya yüksek görünürlük yeleği, kör noktada fark edilme olasılığını artırır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Günlük kullanımı kolaylaştırmak",
+        "paragraphs": [
+          "Ekipmanın en büyük düşmanı 'bu sefer giymeyeyim' düşüncesidir. Kolay giyilen, günlük kıyafetin üstüne geçirilebilen ve iş yerinde göze batmayan parçalar seçmek, her sürüşte giyilmelerini sağlar."
+        ],
+        "bullets": [
+          "Kaskı ve eldiveni scooterda kilitli bölmede tut",
+          "Ofis için günlük görünümlü şehir montu seç",
+          "Kısa sürüşler için de aynı ekipmanı kullan"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Scooter için açık kask yeterli mi?",
+        "a": "Yasal olarak onaylı bir açık kask kullanılabilir, ancak çene ve yüzü korumaz. Daha iyi koruma isteyen ve pratiklikten vazgeçmek istemeyenler için çene açılır kask daha güvenli bir seçimdir."
+      },
+      {
+        "q": "Kısa şehir içi mesafelerde eldiven gerçekten gerekli mi?",
+        "a": "Evet. Düşmede ilk temas eden bölge çoğunlukla ellerdir ve düşük hızda bile avuç içi ciddi sürtünme yaraları alabilir. Kısa manşetli bir şehir eldiveni giyilmesi kolay bir çözümdür."
+      },
+      {
+        "q": "Scooter için motosiklet botu şart mı?",
+        "a": "Uzun bir bot şart değildir, ancak bileği kapatan ve EN 13634 sertifikalı bir şehir botu veya korumalı ayakkabı önerilir. Bunlar günlük spor ayakkabı görünümünde de üretilir."
+      }
+    ],
+    "relatedGuides": [
+      "ilk-motosiklet-ekipmanlari",
+      "kask-nasil-secilir",
+      "yagmurda-motosiklet-ekipmani"
+    ],
+    "relatedCategories": [
+      "kask/acik-kask",
+      "kask/cene-acilir-kask",
+      "mont/sehir-mont",
+      "pantolon/kevlar-jean",
+      "bot/sehir-botu",
+      "eldiven/yazlik-eldiven"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594:2015 motosiklet eldiveni standardı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634:2017 motosiklet botu standardı",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

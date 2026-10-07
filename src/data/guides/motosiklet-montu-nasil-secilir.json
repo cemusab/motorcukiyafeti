@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "motosiklet-montu-nasil-secilir",
+    "title": "Motosiklet Montu Nasıl Seçilir?",
+    "description": "Motosiklet montu seçerken EN 17092 sınıfı, deri-tekstil farkı, mevsim, koruyucu seviyesi ve doğru beden için bilmen gerekenler.",
+    "topic": "mont",
+    "readingMinutes": 7,
+    "intro": "Motosiklet montu seçerken önce EN 17092 sınıfına (AAA, AA, A veya B) bakmalı, ardından sürüş tarzına ve mevsime uygun malzemeyi seçmeli, en son da montu sürüş pozisyonunda deneyerek bedeni doğrulamalısın. Etiketinde sınıf yazmayan ve omuz ile dirseğinde EN 1621-1 koruyucu bulunmayan bir mont, görünüşü ne olursa olsun koruyucu ekipman sayılmaz.",
+    "sections": [
+      {
+        "heading": "1. Sınıfa bak: EN 17092",
+        "paragraphs": [
+          "EN 17092, motosiklet giysilerini sürtünme, yırtılma ve dikiş dayanımı ile koruyucu zorunluluğuna göre sınıflandırır. AAA, AA ve A sınıfında omuz, dirsek ve diz koruyucusu zorunludur; B sınıfı aynı A seviyesinde sürtünme koruması sağlar ama koruyucu içermez.",
+          "Şehir içi ve kısa mesafede A sınıfı makul bir alt sınırdır. Otoyol, uzun yol ve sportif sürüşte AA veya AAA sınıfı daha uygun bir güvenlik payı bırakır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "2. Deri mi, tekstil mi?",
+        "paragraphs": [
+          "Deri, aynı kalınlıkta çoğu tekstile göre sürtünmeye daha dayanıklıdır ve vücuda daha sıkı oturduğu için koruyucuları yerinde tutar. Buna karşılık ağırdır, yağmurda bakım ister ve sıcakta delikli olmadıkça bunaltır.",
+          "Tekstil montlar daha hafif, daha fazla havalandırma seçeneği sunan ve genellikle su geçirmez membranlı ürünlerdir. Touring ve günlük kullanım için çok yönlüdür. Seçim yaparken malzemeden çok sınıfa güven: AA sınıfı bir tekstil mont, sınıfsız bir deri ceketten daha güvenilirdir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "3. Mevsim ve katman yapısı",
+        "paragraphs": [
+          "Montlar kabaca üç gruba ayrılır: file panelli yazlık, termal astarlı kışlık ve çıkarılabilir astarlarla dört mevsim kullanılabilen modeller. Türkiye'nin çoğu bölgesinde tek mont ile yıl boyu idare etmek isteyenler için dört mevsim tip mantıklı bir orta yoldur, ancak sıcak yaz günlerinde ayrı bir file mont kadar serin tutmaz.",
+          "Su geçirmezlik iki şekilde sağlanır: dış kumaşın arkasına yapıştırılmış (laminasyonlu) membran ya da içeride ayrı bir astar olarak duran membran. Laminasyonlu yapıda dış kumaş ıslanıp ağırlaşmaz; ayrı astarlı yapı daha ucuzdur ama dış kat su emebilir."
+        ],
+        "bullets": [
+          "Yazlık: geniş file paneller, açılıp kapanan havalandırma fermuarları",
+          "Kışlık: termal astar, rüzgar kesici yaka ve bilek",
+          "Dört mevsim: çıkarılabilir termal ve su geçirmez astar"
+        ]
+      },
+      {
+        "heading": "4. Koruyucuları kontrol et",
+        "paragraphs": [
+          "Omuz ve dirsek koruyucuları EN 1621-1, sırt koruyucusu EN 1621-2 ile test edilir. Level 2, darbede vücuda daha az kuvvet ileten seviyedir. Birçok montta sırt cebi boş gelir veya yalnızca ince bir köpük ped bulunur; bu ped sertifikalı koruyucu değildir.",
+          "Koruyucunun seviyesi kadar yeri de önemlidir. Dirsek koruyucusu kolun dışına kayıyorsa ya da omuz koruyucusu omzun önüne düşüyorsa darbe anında işe yaramaz. Kol ve omuzda ayar kayışları olan montlar bu konuda avantajlıdır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "5. Bedeni sürüş pozisyonunda dene",
+        "paragraphs": [
+          "Montu giydikten sonra kollarını gidonu tutuyormuş gibi öne uzat ve hafifçe öne eğil. Bu pozisyonda kol bilekleri eldivenin üstünde kalmalı, sırt açılmamalı ve göğüs gerilip nefesini kısıtlamamalıdır. Kışın altına kalın katman giyeceksen denemeyi o katmanla yap.",
+          "Mont ile pantolonu birbirine bağlayan bir fermuar varsa iki ürünün aynı markada uyumlu olup olmadığını kontrol et. Bu bağlantı, düşmede montun yukarı sıyrılıp beli açıkta bırakmasını engeller."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "6. Pratik ayrıntılar",
+        "paragraphs": [
+          "Uzun vadede memnuniyeti küçük ayrıntılar belirler: kolayca açılan havalandırmalar, eldivenle kullanılabilen fermuarlar, su geçirmez bir iç cep ve gece görünürlüğü sağlayan reflektif paneller. Airbag yelek kullanmayı düşünüyorsan montun buna uygun kesimde olup olmadığını üreticinin sayfasından kontrol et."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Su geçirmez mont mu almalıyım, yoksa yağmurluk mu?",
+        "a": "Yağmurda düzenli sürüyorsan laminasyonlu membranlı bir mont en konforlu çözümdür. Seyrek yağmur görüyorsan file veya normal bir montun üstüne giyilen ayrı yağmurluk daha esnek ve ekonomiktir."
+      },
+      {
+        "q": "Mont ve pantolon aynı marka olmak zorunda mı?",
+        "a": "Zorunda değil, ancak birbirine fermuarla bağlanabilmeleri için genellikle aynı markanın uyumlu ürünleri gerekir. Bağlantı yoksa montun bel kısmının yeterince uzun olduğundan emin ol."
+      },
+      {
+        "q": "Şehir içi için A sınıfı mont yeterli mi?",
+        "a": "Düşük ve orta hızlarda kullanılan şehir montları için A sınıfı kabul edilebilir bir alt sınırdır. Otoyola sık çıkıyorsan AA sınıfı daha yüksek sürtünme dayanımı sunar."
+      },
+      {
+        "q": "Bir düşmeden sonra mont kullanılmaya devam edilir mi?",
+        "a": "Kumaşta delinme, dikişlerde açılma veya koruyucuda çatlak yoksa kullanılabilir; ancak sürtünen bölgeler zayıflamış olabilir. Hasarlı bölge varsa üreticinin onarım hizmetine danış veya yenisiyle değiştir."
+      }
+    ],
+    "relatedGuides": [
+      "aa-ve-aaa-koruma-farki",
+      "level-1-ve-level-2-koruma-farki",
+      "yazlik-motosiklet-ekipmani",
+      "kislik-motosiklet-ekipmani"
+    ],
+    "relatedCategories": [
+      "mont",
+      "mont/yazlik-mont",
+      "mont/4-mevsim-mont",
+      "mont/deri-mont",
+      "mont/tekstil-mont",
+      "koruma/sirt-koruma"
+    ],
+    "sources": [
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092:2020 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://satra.com/ppe/EN1621.php",
+        "type": "homologation",
+        "label": "SATRA – EN 1621 darbe koruyucu standartları özeti",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "updatedAt": "2026-10-06"
+  }
+]

@@ -1,0 +1,2660 @@
+[
+  {
+    "slug": "gp-pro-r4",
+    "brand": "alpinestars",
+    "name": "GP Pro R4",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kanguru derisi avuç, DFS Race eklem ve bilek koruması, aramid takviye ve 3.-4. parmak köprüsüyle gelen, EN 13594:2015 Level 1 KP sertifikalı uzun bilekli sport eldiven.",
+    "description": [
+      "GP Pro R4, Alpinestars'ın yol üzerinde agresif sport sürüş için tasarladığı uzun bilekli deri eldiveni. El sırtında sığır ve keçi derisi karışımı, avuç ve parmaklarda kanguru derisi kullanılıyor; avuç dikişleri içeride olduğu için gidonla temas yüzeyi pürüzsüz. Parmak, el sırtı ve başparmakta akordeon esneme panelleri hareket serbestliği sağlıyor.",
+      "Koruma tarafında çift yoğunluklu DFS Race eklem koruyucu, DFS Race bilek kısmı, TPU parmak koruyucular, avuç ve parmak kaydırıcıları ile el sırtı ve avuç iniş bölgesinde aramid takviye bulunuyor. 3. ve 4. parmak arasındaki köprü kayma sırasında parmağın ayrılıp kıvrılmasını önlemeyi amaçlıyor. Bilek ayarı ve kol ağzı kapağıyla çift kapama var. Üretici sertifikayı EN 13594:2015 Level 1 KP olarak belirtiyor; yani pist kökenli olsa da Level 2 değil."
+    ],
+    "forWho": [
+      "Sport ve naked motosikletle tempolu yol sürüşü yapanlar",
+      "Ara sıra track day'e çıkan ve yüksek kapsamalı deri eldiven isteyenler",
+      "Kanguru derisi avuçla gidon hissini önemseyenler"
+    ],
+    "notFor": [
+      "Kurye ve günlük şehir kullanımı: uzun bilek takıp çıkarması zahmetli, yağmur koruması yok",
+      "Düzenli pist sürüşü yapıp Level 2 sertifika arayanlar",
+      "Soğuk ve yağışlı havada sürenler"
+    ],
+    "pros": [
+      "Kanguru derisi avuç ve parmaklarla iyi gidon hissi",
+      "DFS Race eklem ve bilek koruması, aramid takviye",
+      "3. ve 4. parmak köprüsü",
+      "Çift kapamalı uzun bilek"
+    ],
+    "cons": [
+      "Sertifika Level 1 KP; bu fiyat sınıfında Level 2 eldivenler de var",
+      "Su geçirmez ve yalıtımlı değil",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir sürüşlerinde kullanılabilir ama uzun bilek ve sıkı kalıp günlük takıp çıkarmada pratik değil.",
+      "uzunYol": "Kuru havada sport-touring etaplarında rahat; hava değişirse ikinci eldiven gerekir.",
+      "yaz": "Eklem bölgesindeki havalandırmalı körük biraz hava alır; yine de tam deri olduğu için yazlık file eldiven kadar serin değil.",
+      "kis": "Yalıtımı yok, uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: tempolu yol sürüşü ve track day."
+    },
+    "verdict": "GP Pro R4, yol ağırlıklı sport sürücü için koruma ve gidon hissini iyi dengeleyen üst seviye bir deri eldiven. DFS Race koruma ve parmak köprüsü güven veriyor; Level 1 KP sertifika ve yalnız kuru havaya uygun olması bu fiyatta göz önünde tutulmalı.",
+    "rivals": [
+      "dainese/full-metal-7",
+      "dainese/carbon-4-long",
+      "five-gloves/rfx3-evo"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "GP Pro R4 pist eldiveni mi?",
+        "a": "Pist kökenli korumalara sahip ama Alpinestars onu yol sürücüsü için konumluyor ve sertifikası EN 13594:2015 Level 1 KP. Düzenli pist için Level 2 sertifikalı modellere bakmak daha doğru olur."
+      },
+      {
+        "q": "Ağırlığı ne kadar?",
+        "a": "Üretici çift başına yaklaşık 455–456 g veriyor ve bedene göre değiştiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/gp-pro-r4-gloves",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/gp-pro-r4-gloves",
+        "type": "manufacturer",
+        "label": "Alpinestars – GP Pro R4 Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Black/White",
+      "Black/Red Fluo/White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "El sırtında sığır ve keçi derisi karışımı, avuç ve parmaklarda kanguru derisi, aramid takviye",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "bilek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı eklem körüğü",
+      "closure": "Bilek ayarı ve kol ağzı kayışıyla çift kapama",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "andes-v3-drystar",
+    "brand": "alpinestars",
+    "name": "Andes V3 Drystar",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "adventure-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Keçi derisi ve tekstil gövdeli, Drystar su geçirmez membranlı, viskoelastik eklem korumalı ve dokunmatik ekran uyumlu parmak uçlarına sahip ara sezon touring eldiveni.",
+    "description": [
+      "Andes V3 Drystar, Alpinestars'ın değişken hava için tasarladığı ara sezon touring ve adventure eldiveni. Gövde keçi derisi ve tekstil karışımı; içte Drystar su geçirmez, nefes alan membran bulunuyor. Üretici membran için 5000 mm su geçirmezlik ve 5000 g/m² nefes alma değeri veriyor.",
+      "Koruma tarafı daha sade: eklemde viskoelastik koruyucu var, sert kabuk ya da avuç kaydırıcısı belirtilmemiş. Yansıtıcı paneller karanlıkta görünürlüğe katkı sağlıyor, parmak uçları dokunmatik ekran uyumlu. Üretici sayfasında EN 13594 sertifika seviyesi yazmadığı için bu bilgiyi doğrulanmamış bırakıyoruz."
+    ],
+    "forWho": [
+      "İlkbahar ve sonbaharda yağmura yakalanma ihtimaliyle tur yapanlar",
+      "Adventure ve touring motosikletle tek eldivenle değişken havayı karşılamak isteyenler",
+      "Türkiye'de kolay bulunan, orta fiyatlı su geçirmez eldiven arayanlar"
+    ],
+    "notFor": [
+      "Pist ve tempolu sport sürüş: eklem koruması yumuşak, kaydırıcı yok",
+      "Sert kış koşulları: yalıtım değeri belirtilmemiş",
+      "Gün boyu sürekli takıp çıkaran kuryeler: membranlı yapı içi ıslandığında geç kurur"
+    ],
+    "pros": [
+      "Drystar membran, 5000 mm su geçirmezlik",
+      "Dokunmatik ekran uyumlu parmak uçları",
+      "Yansıtıcı paneller",
+      "Türkiye'de Motomax'ta stokta ve fiyatı belli"
+    ],
+    "cons": [
+      "Eklem koruması sert kabuk değil, viskoelastik",
+      "Üretici sayfasında CE seviyesi belirtilmemiş",
+      "Membranlı yapı yazın sıcak tutar"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu günlerde şehirde iyi bir seçenek; uzun süreli kurye kullanımında membranlı yapı içeriden terletebilir.",
+      "uzunYol": "Asıl kullanım alanı: değişken havada uzun etaplar.",
+      "yaz": "Sıcakta membran nedeniyle bunaltabilir.",
+      "kis": "Hafif soğukta yeterli; sert kış için yalıtımlı eldiven gerekir.",
+      "yagmur": "Drystar membran yağmurda eli kuru tutmak için tasarlanmış.",
+      "sport": "Sport kullanım için koruma seviyesi sınırlı."
+    },
+    "verdict": "Andes V3 Drystar, ilkbahar ve sonbaharda yağmura karşı tek eldivenle yola çıkmak isteyen touring sürücüsü için mantıklı bir seçim. Koruma tarafı sade; daha yüksek darbe ve kayma koruması isteyenler sertifika seviyesi açıkça belirtilmiş modellere bakmalı.",
+    "rivals": [
+      "held/air-n-dry-2",
+      "revit/kodiak-2-gtx",
+      "dainese/tempest-2-d-dry-long"
+    ],
+    "priceRange": {
+      "min": 10290,
+      "max": 10290,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-andes-v3-drystar-korumali-motosiklet-eldiveni-siyah",
+        "price": 10290,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Andes V3 tamamen su geçirmez mi?",
+        "a": "Alpinestars Drystar membran için 5000 mm su geçirmezlik değeri veriyor; membran eli kuru tutmak için tasarlanmış, ancak dış deri ve tekstil yüzey ıslanabilir."
+      },
+      {
+        "q": "Telefonla kullanılabilir mi?",
+        "a": "Üretici parmak uçlarının dokunmatik ekran uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/andes-v3-drystar-glove",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/andes-v3-drystar-glove",
+        "type": "manufacturer",
+        "label": "Alpinestars – Andes V3 Drystar Glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-andes-v3-drystar-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Andes V3 Drystar Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.closure",
+      "specs.madeIn",
+      "sizeChart",
+      "specs.season"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Keçi derisi ve tekstil",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar",
+      "airbagCompatible": null,
+      "ventilation": "Yok (membranlı)",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "ht-5-heat-tech-drystar",
+    "brand": "alpinestars",
+    "name": "HT-5 Heat Tech Drystar",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "7,4 V bataryalı, üç kademeli ısıtma, 80 g PrimaLoft yalıtım ve Drystar membranla gelen, CE Level 1 KP sertifikalı ısıtmalı kış eldiveni.",
+    "description": [
+      "HT-5 Heat Tech Drystar, Alpinestars'ın bataryalı ısıtmalı eldiveni. 7,4 V lityum batarya, bakır-nikel ısıtıcı iplik ve dışarıdan erişilen düğmeyle üç ısı kademesi sunuyor; her el ayrı ayarlanabiliyor. Paketle iki bataryayı aynı anda şarj etmek için micro USB Y kablo geliyor.",
+      "Isıtmanın yanında 80 g PrimaLoft yalıtım ve Drystar su geçirmez, nefes alan membran var. Avuç keçi derisi, sırt softshell; eklem koruması, avuç kaydırıcısı ve işaret parmağıyla başparmakta dokunmatik ekran uyumlu bölge bulunuyor. Üretici CE Level 1 KP sertifikası belirtiyor; standart numarasını sayfada açıkça yazmıyor."
+    ],
+    "forWho": [
+      "Kışın da düzenli motor kullanan ve parmakları üşüyen sürücüler",
+      "Soğuk sabahlarda uzun yol yapanlar",
+      "Motor elektriğine bağlanmayan, bataryalı çözüm isteyenler"
+    ],
+    "notFor": [
+      "Kurye kullanımı: batarya süresi ve şarj takibi gün boyu kullanımda pratik değil",
+      "Ilık havalar: yalıtım ve membran fazla sıcak tutar",
+      "Sport sürüş: koruma seviyesi touring odaklı"
+    ],
+    "pros": [
+      "Üç kademeli, eller ayrı ayarlanabilen ısıtma",
+      "Drystar membran ve 80 g PrimaLoft yalıtım",
+      "CE Level 1 KP",
+      "Dokunmatik ekran uyumlu işaret ve başparmak"
+    ],
+    "cons": [
+      "Pahalı",
+      "Batarya süresi üretici sayfasında belirtilmemiş",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Soğuk günlerde şehir içinde konforlu; günlük şarj gerektirir.",
+      "uzunYol": "Kış turlarında ısıtma büyük fark yaratır; uzun etaplarda yedek batarya planlamak gerekir.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "Drystar membranla yağmura karşı korumalı.",
+      "sport": "Sport kullanım için tasarlanmamış."
+    },
+    "verdict": "HT-5, kışın motoru bırakmayan ve parmakları üşüyen sürücü için ciddi bir çözüm. Isıtma, membran ve yalıtım bir arada; yüksek fiyatı ve batarya yönetimi ise kararı kullanım sıklığına bağlı kılıyor.",
+    "rivals": [
+      "held/inuit",
+      "revit/kodiak-2-gtx",
+      "five-gloves/wfx-prime-evo-gtx"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Kaç ısı kademesi var?",
+        "a": "Üç kademe var ve her el ayrı ayarlanabiliyor."
+      },
+      {
+        "q": "Motora bağlanması gerekiyor mu?",
+        "a": "Hayır. 7,4 V lityum bataryalarla çalışıyor; şarj için micro USB Y kablo kutudan çıkıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/ht-5-heat-tech-drystar-sup-reg-sup-gloves",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/ht-5-heat-tech-drystar-sup-reg-sup-gloves",
+        "type": "manufacturer",
+        "label": "Alpinestars – HT-5 Heat Tech Drystar Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceStandard",
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Keçi derisi avuç, softshell sırt, 80 g PrimaLoft yalıtım, ısıtıcı iplik",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-copper",
+    "brand": "alpinestars",
+    "name": "Stella Copper",
+    "category": "eldiven",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın eline göre kalıplanmış, sert eklem korumalı, sentetik süet avuçlu ve dokunmatik ekran uyumlu işaret parmaklı, EN 13594:2015 Level 1 KP sertifikalı kısa şehir eldiveni.",
+    "description": [
+      "Stella Copper, Alpinestars'ın kadın sürücüler için kalıplanmış hafif, kısa bilekli şehir eldiveni. Eklemde streç kumaşla kaplı sert koruyucu, avuçta tam sentetik süet ve tutuşu artıran avuç takviyeleri bulunuyor. Parmak aralarında likra, el sırtında akordeon esneme panelleri var.",
+      "Kapama cırt cırtlı bilekle yapılıyor ve ergonomik çekme kulpu takıp çıkarmayı kolaylaştırıyor. İşaret parmağı ucu dokunmatik ekran uyumlu. Üretici sertifikayı CE Level 1 EN 13594:2015 KP olarak veriyor. Membranı ya da yalıtımı yok; serin ve kuru havada şehir içi için düşünülmüş."
+    ],
+    "forWho": [
+      "Şehir içinde scooter veya motosikletle işe gidip gelen kadın sürücüler",
+      "Kısa bilekli, hafif ve pratik eldiven isteyenler",
+      "Uygun fiyatlı ama sertifikalı bir başlangıç eldiveni arayanlar"
+    ],
+    "notFor": [
+      "Uzun yol ve yüksek hız: bilek kısa, koruma temel seviyede",
+      "Yağmur ve kış: su geçirmez ve yalıtımlı değil",
+      "Yoğun kurye kullanımı: sentetik süet avuç sık kullanımda daha çabuk aşınabilir"
+    ],
+    "pros": [
+      "Kadın eline özel kalıp",
+      "EN 13594:2015 Level 1 KP",
+      "Sert eklem koruyucu",
+      "Türkiye'de Motomax'ta fiyatı belli"
+    ],
+    "cons": [
+      "Kısa bilek, bilek kemiği koruması yok",
+      "Avuçta deri yerine sentetik süet",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: kısa şehir içi sürüşler.",
+      "uzunYol": "Kısa bilek ve temel koruma nedeniyle uzun yol için sınırlı.",
+      "yaz": "Likra parmak araları hava alır; tam file yaz eldiveni kadar serin değil.",
+      "kis": "Yalıtımı yok.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Stella Copper, şehir içinde kullanan kadın sürücü için uygun fiyatlı ve sertifikalı bir başlangıç eldiveni. Sert eklem koruyucu ve dokunmatik parmak ucu günlük kullanımda işe yarıyor; kısa bilek ve sentetik avuç uzun yol ya da yüksek hız için yeterli değil.",
+    "rivals": [
+      "dainese/metrax-air",
+      "held/sparrow-2",
+      "revit/sand-5-ladies"
+    ],
+    "priceRange": {
+      "min": 4430,
+      "max": 4430,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-copper-korumali-kadin-motosiklet-eldiveni-siyah",
+        "price": 4430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Stella Copper sertifikalı mı?",
+        "a": "Evet. Alpinestars CE Level 1 EN 13594:2015 KP sertifikası belirtiyor."
+      },
+      {
+        "q": "Erkek Copper'dan farkı ne?",
+        "a": "Stella sürümü kadın eline göre kalıplanmış ve XS bedenden başlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/womens-copper-gloves-black",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/womens-copper-gloves-black",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella Copper Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-copper-korumali-kadin-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Stella Copper Kadın Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black",
+      "Black/Fuchsia"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tekstil sırt, streç kaplı sert eklem, sentetik süet avuç, likra parmak araları",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Likra parmak araları",
+      "closure": "Cırt cırtlı bilek, çekme kulpu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "carbon-4-long",
+    "brand": "dainese",
+    "name": "Carbon 4 Long",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Keçi derisi gövdeli, karbon fiber eklem koruyuculu, serçe parmakta DCP sistemi bulunan, EN 13594:2015 Level 1 sertifikalı uzun bilekli sport eldiven.",
+    "description": [
+      "Carbon 4 Long, Dainese'nin yol ağırlıklı sport sürücüler için sunduğu uzun bilekli deri eldiveni. Avuçta tambur boyalı yumuşak keçi derisi, başparmak-işaret parmağı-avuç arasında keçi derisi takviye ve mikro koyun derisi kullanılıyor. Parmaklar önceden kavisli, dikişler içte.",
+      "Koruma tarafında eklemde karbon fiber kompozit parçalar, parmak eklemleri ve avuçta poliüretan parçalar, serçe parmağın dışa bükülmesini sınırlayan DCP sistemi ve elin yan kenarında tek parça deri panel var. Ayarlanabilir kol ağzı kayışı ve bilek sıkma kayışı eldiveni yerinde tutuyor. Üretici sertifikayı EN 13594:2015 Kategori II, Level 1 olarak veriyor; KP ibaresi sayfada açıkça yazmıyor."
+    ],
+    "forWho": [
+      "Sport ve naked motosikletle yol ağırlıklı sürüş yapanlar",
+      "Pist eldiveni fiyatı ödemeden uzun bilekli deri eldiven isteyenler",
+      "Dainese tulum veya montla takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Düzenli pist sürüşü: Level 2 sertifikalı Full Metal 7 gibi modeller daha uygun",
+      "Kurye kullanımı: uzun bilek takıp çıkarmada zahmetli, yağmur koruması yok",
+      "Kış ve yağmurlu hava"
+    ],
+    "pros": [
+      "Karbon fiber eklem koruması",
+      "Serçe parmakta DCP sistemi",
+      "Yumuşak keçi derisi avuç",
+      "Bilek sıkma kayışı ve kol ağzı ayarı"
+    ],
+    "cons": [
+      "Level 1; pist odaklı modellerin gerisinde",
+      "Su geçirmez ve yalıtımlı değil",
+      "Dainese sitesinde indirimli/outlet bölümünde görünüyor; renk ve beden bulunabilirliği değişken olabilir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama uzun bilek şehirde pratik değil.",
+      "uzunYol": "Kuru havada sport-touring etaplarında rahat.",
+      "yaz": "Parmak iç kenarlarında perforasyon var; yine de tam deri olduğu için sıcakta ısınır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: tempolu yol sürüşü, ara sıra track day."
+    },
+    "verdict": "Carbon 4 Long, uzun bilekli deri sport eldiven arayan yol sürücüsü için dengeli bir seçenek. Karbon eklem ve DCP sistemi iyi bir koruma tabanı sunuyor; Level 1 sertifika ve sitede indirimli bölümde görünmesi, uzun vadede bulunabilirlik açısından akılda tutulmalı.",
+    "rivals": [
+      "alpinestars/gp-pro-r4",
+      "five-gloves/rfx3-evo",
+      "held/evo-thrux-3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "DCP sistemi ne işe yarar?",
+        "a": "Dainese'nin serçe parmağa yerleştirdiği bu sistem, düşme sırasında serçe parmağın aşırı bükülmesini sınırlamayı amaçlar."
+      },
+      {
+        "q": "Carbon 4 Long pist için yeterli mi?",
+        "a": "Track day'de kullanılabilir ancak sertifikası Level 1. Düzenli pist için Level 2 sertifikalı eldivenler daha uygun."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/carbon-4---mens-motorcycle-long-leather-gloves-201815957W12.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/carbon-4---mens-motorcycle-long-leather-gloves-201815957W12.html",
+        "type": "manufacturer",
+        "label": "Dainese – Carbon 4 Men's Motorcycle Long Leather Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season"
+    ],
+    "colors": [
+      "Black/Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "S",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 21.6,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 24.1,
+        "max": 24.1
+      },
+      {
+        "size": "XXL",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "XXXL",
+        "min": 26.7,
+        "max": 26.7
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Tambur boyalı keçi derisi avuç, keçi derisi takviye, mikro koyun derisi, karbon fiber eklem",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Parmak iç kenarlarında perforasyon",
+      "closure": "Ayarlanabilir kol ağzı kayışı ve bilek sıkma kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "full-metal-7",
+    "brand": "dainese",
+    "name": "Full Metal 7",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Titanyum Pro-Tek eklem parçaları, aramid takviyeler, DCP serçe parmak sistemi ve Level 2 sertifikasıyla Dainese'nin MotoGP kökenli en üst seviye pist eldiveni.",
+    "description": [
+      "Full Metal 7, Dainese'nin MotoGP sürücülerinin kullandığı en üst seviye yarış eldiveni. Gövde keçi derisi, avuç tambur boyalı yumuşak keçi derisi; dikişlerde aramid lif, el sırtı ve avuçta aramid örgü kullanılıyor. Kol ağzı ve parmaklar önceden kavisli; parmaklarda ve parmak aralarında esnek, yüksek mukavemetli kumaş ekler var.",
+      "Korumada eklemde titanyum Pro-Tek parçalar ve ergonomik PU taban, parmak eklemlerinde TPU kaydırıcılar, takviyeli deri avuç, elin yan kenarında tek parça deri panel ve serçe parmakta DCP sistemi bulunuyor; Dainese bunlara Pro-Hand adını veriyor. Üretici sertifikayı CE Kategori II, EN 13594 Level 2 olarak belirtiyor. Ön ve arka deliklerle havalandırma sağlanıyor."
+    ],
+    "forWho": [
+      "Düzenli pist ve yarış sürüşü yapanlar",
+      "En yüksek sertifika seviyesini isteyen sport sürücüler",
+      "Dainese yarış tulumu kullananlar"
+    ],
+    "notFor": [
+      "Günlük şehir ve kurye kullanımı: fiyatı ve yarış kalıbı buna uygun değil",
+      "Yağmur ve soğuk hava",
+      "Bütçesi sınırlı olanlar"
+    ],
+    "pros": [
+      "EN 13594 Level 2 sertifika",
+      "Titanyum eklem kaydırıcıları ve aramid takviyeler",
+      "DCP serçe parmak sistemi",
+      "Yarış tulumlarıyla uyumlu kol ağzı yapısı"
+    ],
+    "cons": [
+      "Çok pahalı",
+      "Sıkı, yarış odaklı kalıp günlük kullanımda yorucu olabilir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Şehir için fazla; takıp çıkarması ve kalıbı pist odaklı.",
+      "uzunYol": "Kuru havada sport-touring yapılabilir ama asıl amaç bu değil.",
+      "yaz": "Delikli havalandırma var; yine de tam deri yarış eldiveni sıcakta ısınır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: pist ve yarış."
+    },
+    "verdict": "Full Metal 7, pistte en yüksek korumayı isteyen sürücü için Dainese'nin tepe noktası. Level 2 sertifika, titanyum kaydırıcılar ve DCP sistemi ciddi bir paket; fiyatı ve yarış kalıbı ise onu yol sürücüsünden çok pist kullanıcısına uygun kılıyor.",
+    "rivals": [
+      "alpinestars/gp-pro-r4",
+      "dainese/carbon-4-long",
+      "five-gloves/rfx3-evo"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Full Metal 7'nin sertifika seviyesi nedir?",
+        "a": "Dainese, CE Kategori II, EN 13594 standardında Level 2 sertifika belirtiyor."
+      },
+      {
+        "q": "Pro-Hand ne demek?",
+        "a": "Dainese'nin eldivenlerindeki koruma paketinin adı; bu modelde titanyum eklem parçaları, TPU parmak kaydırıcılar ve DCP sistemi gibi elemanları kapsıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/full-metal-7---mens-motorcycle-racing-leather-gloves-2018100071631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/full-metal-7---mens-motorcycle-racing-leather-gloves-2018100071631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Full Metal 7 Men's Motorcycle Racing Leather Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange",
+      "specs.season"
+    ],
+    "colors": [
+      "Black/White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "S",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 21.6,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 24.1,
+        "max": 24.1
+      },
+      {
+        "size": "XXL",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "XXXL",
+        "min": 26.7,
+        "max": 26.7
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Keçi derisi, tambur boyalı keçi derisi avuç, aramid örgü ve aramid dikiş, titanyum Pro-Tek eklem",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön ve arka havalandırma delikleri",
+      "closure": "Ayarlanabilir kol ağzı kayışı ve bilek sıkma kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tempest-2-d-dry-long",
+    "brand": "dainese",
+    "name": "Tempest 2 D-Dry Long",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "D-Dry su geçirmez membranlı, Fiberfill ısı yalıtımlı, TPU eklem korumalı ve Smart Touch parmak uçlu, EN 13594:2015 Level 1 sertifikalı uzun bilekli kış touring eldiveni.",
+    "description": [
+      "Tempest 2 D-Dry Long, Dainese'nin kış ve ara sezon için tasarladığı tekstil ağırlıklı touring eldiveni. D-Dry su geçirmez membran ve Fiberfill ısı yalıtımı kullanılıyor; dört yönlü esneyen kumaş ve önceden kavisli parmaklar eldiveni hafif ve rahat tutuyor.",
+      "Avuç sentetik süet; parmak uçlarında deri takviye, eklemde TPU Pro-Tek koruyucu var. Uzun kol ağzı ayarlanabilir ve bilekte sıkma kayışı bulunuyor. Parmak uçlarındaki Smart Touch ekleri telefon ve navigasyon kullanımına izin veriyor. Üretici sertifikayı EN 13594:2015 Kategori II, Level 1 olarak veriyor."
+    ],
+    "forWho": [
+      "Kışın ve yağmurlu havada şehir dışına ve orta mesafeli yolculuğa çıkanlar",
+      "Hafif, kalın olmayan bir kış eldiveni isteyenler",
+      "Isıtmalı eldiven fiyatı ödemek istemeyenler"
+    ],
+    "notFor": [
+      "Sert dondurucu soğuk: ısıtma yok, yalıtım orta seviye",
+      "Sport sürüş: koruma touring seviyesinde",
+      "Yazın kullanım"
+    ],
+    "pros": [
+      "D-Dry su geçirmez membran ve Fiberfill yalıtım",
+      "Smart Touch parmak uçları",
+      "Uzun, ayarlanabilir kol ağzı",
+      "Hafif ve esnek yapı"
+    ],
+    "cons": [
+      "Avuç deri değil, sentetik süet",
+      "Avuç kaydırıcısı belirtilmemiş",
+      "Dainese sitesinde indirimli/outlet bölümünde görünüyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Soğuk ve yağışlı günlerde şehir içinde rahat.",
+      "uzunYol": "Kışın orta ve uzun mesafe için tasarlanmış.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı; çok düşük sıcaklıkta ısıtmalı eldiven daha iyi sonuç verir.",
+      "yagmur": "D-Dry membranla su geçirmez.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Tempest 2 D-Dry Long, kışın da motor kullanan ama ısıtmalı eldivene yatırım yapmak istemeyen touring sürücüsü için pratik bir seçenek. Membran, yalıtım ve dokunmatik parmak uçları günlük kullanımda işe yarıyor; avuç tarafındaki koruma sade kalıyor.",
+    "rivals": [
+      "revit/kodiak-2-gtx",
+      "five-gloves/wfx-prime-evo-gtx",
+      "alpinestars/andes-v3-drystar"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tempest 2 D-Dry su geçirmez mi?",
+        "a": "Evet, Dainese D-Dry su geçirmez membran kullanıldığını belirtiyor."
+      },
+      {
+        "q": "Telefon kullanılabilir mi?",
+        "a": "Parmak uçlarındaki Smart Touch ekleri dokunmatik ekran kullanımı için tasarlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/tempest-2-d-dry---mens-waterproof-motorcycle-gloves-long-2018100005001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/tempest-2-d-dry---mens-waterproof-motorcycle-gloves-long-2018100005001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Tempest 2 D-Dry Men's Waterproof Motorcycle Gloves (Long) ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "S",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 21.6,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 24.1,
+        "max": 24.1
+      },
+      {
+        "size": "XXL",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "XXXL",
+        "min": 26.7,
+        "max": 26.7
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Dört yönlü streç tekstil, sentetik süet avuç, parmak uçlarında deri takviye, Fiberfill yalıtım",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Ayarlanabilir kol ağzı kayışı ve bilek sıkma kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "metrax-air",
+    "brand": "dainese",
+    "name": "Metrax Air",
+    "category": "eldiven",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "File ve likra sırtlı, viskoelastik Comf-Tek eklem korumalı, Smart Touch işaret parmaklı, EN 13594:2015 Level 1 sertifikalı kısa bilekli yazlık şehir eldiveni.",
+    "description": [
+      "Metrax Air, Dainese'nin sıcak havada şehir içi kullanım için tasarladığı hafif tekstil eldiveni. El sırtı file ve likra, parmaklar likra; avuçta esneme paneli var. Bu yapı yazın hava akışı ve hareket serbestliği sağlıyor. Avuç sentetik kumaş; parmak, başparmak ve avuçta dolgu bulunuyor.",
+      "Eklemde sert kabuk yerine yumuşak, viskoelastik Comf-Tek koruyucu kullanılıyor. Kısa kol ağzı takıp çıkarmayı kolaylaştırıyor, işaret parmağındaki Smart Touch eki telefon ve navigasyon kullanımına izin veriyor. Yansıtıcı detaylar var. Üretici sertifikayı EN 13594:2015 Kategori II, Level 1 olarak belirtiyor."
+    ],
+    "forWho": [
+      "Yazın şehir içinde scooter veya motosikletle kısa yolculuk yapanlar",
+      "Hafif ve serin bir eldivenle temel sertifikalı koruma isteyenler",
+      "Sık takıp çıkaran kullanıcılar"
+    ],
+    "notFor": [
+      "Yüksek hız ve uzun yol: kısa bilek ve yumuşak eklem koruması sınırlı",
+      "Yağmur ve soğuk",
+      "Yoğun kurye kullanımı: tekstil avuç sık kullanımda deri kadar dayanıklı olmayabilir"
+    ],
+    "pros": [
+      "File ve likra yapıyla iyi havalandırma",
+      "EN 13594:2015 Level 1",
+      "Smart Touch işaret parmağı",
+      "Uygun fiyat sınıfı"
+    ],
+    "cons": [
+      "Sert eklem kabuğu yok",
+      "Avuç deri değil",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: yazın şehir içi.",
+      "uzunYol": "Uzun yol için koruma seviyesi düşük.",
+      "yaz": "File sırt ve likra parmaklarla serin.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Metrax Air, yazın şehirde serin kalmak isteyen sürücü için hafif ve sertifikalı bir eldiven. Havalandırma ve pratiklik güçlü yanları; sert eklem kabuğu ve deri avuç olmaması yüksek hızlı kullanım için onu sınırlıyor.",
+    "rivals": [
+      "alpinestars/stella-copper",
+      "held/sparrow-2",
+      "revit/cayenne-2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Metrax Air sertifikalı mı?",
+        "a": "Evet, Dainese EN 13594:2015 Kategori II, Level 1 sertifikası belirtiyor."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Dainese sitesinde Metrax Air'in kadın versiyonu da listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/metrax-air---mens-summer-textile-motorcycle-gloves-2018100053604.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/metrax-air---mens-summer-textile-motorcycle-gloves-2018100053604.html",
+        "type": "manufacturer",
+        "label": "Dainese – Metrax Air Men's Summer Textile Motorcycle Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "S",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 21.6,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 24.1,
+        "max": 24.1
+      },
+      {
+        "size": "XXL",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "XXXL",
+        "min": 26.7,
+        "max": 26.7
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "File ve likra sırt, likra parmaklar, sentetik süet avuç",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File sırt ve likra parmaklar",
+      "closure": "Ayarlanabilir kısa kol ağzı kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "tempest-2-d-dry-lady",
+    "brand": "dainese",
+    "name": "Tempest 2 D-Dry Lady",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın eline göre kalıplanmış, D-Dry su geçirmez membranlı, Fiberfill yalıtımlı, Comf-Tek eklem korumalı ve Smart Touch parmak uçlu, EN 13594:2015 Level 1 kış touring eldiveni.",
+    "description": [
+      "Tempest 2 D-Dry'nin kadın versiyonu, kadın eline göre kalıplanmış bir kış ve ara sezon touring eldiveni. D-Dry su geçirmez membran ve Fiberfill ısı yalıtımı var; dört yönlü esneyen kumaş ve önceden kavisli parmaklar hafif ve rahat bir his veriyor.",
+      "Erkek modelden farklı olarak eklemde viskoelastik poliüretan Comf-Tek koruyucu kullanılıyor. Avuç sentetik süet, parmak uçları deri takviyeli; Smart Touch ekleri dokunmatik ekranlarla çalışıyor. Yansıtıcı ekler ve bilek sıkma kayışı bulunuyor. Üretici sertifikayı EN 13594:2015 Kategori II, Level 1 olarak veriyor."
+    ],
+    "forWho": [
+      "Kışın ve yağmurlu havada motor kullanan kadın sürücüler",
+      "Erkek kalıbı eldivenlerde parmak boyu sorunu yaşayanlar",
+      "Hafif bir kış eldiveni isteyenler"
+    ],
+    "notFor": [
+      "Sert dondurucu soğuk: ısıtma yok",
+      "Sport sürüş",
+      "Yazın kullanım"
+    ],
+    "pros": [
+      "Kadın eline özel kalıp",
+      "D-Dry membran ve Fiberfill yalıtım",
+      "Smart Touch parmak uçları",
+      "EN 13594:2015 Level 1"
+    ],
+    "cons": [
+      "Eklem koruması sert kabuk değil",
+      "Avuç deri değil",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Soğuk ve yağışlı günlerde şehir içinde rahat.",
+      "uzunYol": "Kışın orta mesafeli yolculuklar için uygun.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "D-Dry membranla su geçirmez.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Tempest 2 D-Dry Lady, kışın motoru bırakmayan kadın sürücü için hafif ve su geçirmez bir touring eldiveni. Kadın kalıbı ve dokunmatik parmak uçları artı; yumuşak eklem koruması ve sentetik avuç ise korumayı touring seviyesinde tutuyor.",
+    "rivals": [
+      "dainese/tempest-2-d-dry-long",
+      "revit/kodiak-2-gtx",
+      "five-gloves/wfx-prime-evo-gtx"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Erkek Tempest 2 D-Dry'dan farkı nedir?",
+        "a": "Kadın eline göre kalıplanmış ve eklemde TPU yerine viskoelastik Comf-Tek koruyucu kullanılıyor."
+      },
+      {
+        "q": "Beden aralığı nedir?",
+        "a": "Dainese sitesinde XS–XL arası listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/tempest-2-d-dry--womens-waterproof-motorcycle-gloves-2018100007001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/tempest-2-d-dry--womens-waterproof-motorcycle-gloves-2018100007001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Tempest 2 D-Dry Women's Waterproof Motorcycle Gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 15.2,
+        "max": 15.2
+      },
+      {
+        "size": "S",
+        "min": 16.5,
+        "max": 16.5
+      },
+      {
+        "size": "M",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "L",
+        "min": 19.1,
+        "max": 19.1
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Dört yönlü streç tekstil, sentetik süet avuç, parmak uçlarında deri takviye, Fiberfill yalıtım",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek sıkma kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "air-n-dry-2",
+    "brand": "held",
+    "name": "Air n Dry II",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "adventure-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX Gore 2in1 teknolojisiyle bir bölmesi su geçirmez, diğeri havadar iki bölmeli; kanguru derisi avuçlu, sert eklem korumalı ve EN 13594:2015 Level 1 KP sertifikalı touring eldiveni.",
+    "description": [
+      "Air n Dry II, Held'in Gore 2in1 teknolojisini kullanan iki bölmeli touring ve adventure eldiveni. Eli iki farklı bölmeye sokabiliyorsunuz: biri GORE-TEX membranlı ve su geçirmez, diğeri astarsız ve havadar. Böylece kuru sıcak havada serin bölmeyi, yağmurda su geçirmez bölmeyi kullanıyorsunuz. Held eldiveni ilkbahar-sonbahar ve yaz için konumluyor.",
+      "Dış yüzey deri detaylı Cordura sırt ve aşınmaya dayanıklı kanguru derisi avuçtan oluşuyor. Delikli parmak yanları, delikli deri sırt, parmaklarda ACS hava kanalları ve delikli avuç havalandırmayı destekliyor. Sert plastik eklem koruması, Armaprotec destekli başparmak kökü ve elin yan kenarında SuperFabric takviye var. Parmaklarda telefon kullanımına izin veren özel deri ve vizör sileceği bulunuyor. Held, EN 13594:2015 Level 1 KP sertifikası belirtiyor."
+    ],
+    "forWho": [
+      "Yazın da yağmur riskini göze almadan tur yapanlar",
+      "Tek eldivenle hem sıcak hem yağışlı günleri karşılamak isteyenler",
+      "Kısa/uzun parmak ve kadın bedenleri dahil geniş beden seçeneği arayanlar"
+    ],
+    "notFor": [
+      "Kış soğuğu: yalıtımı yok",
+      "Kurye kullanımı: bölme değiştirmek sık durmalarda pratik değil ve fiyatı yüksek",
+      "Pist sürüşü"
+    ],
+    "pros": [
+      "Gore 2in1: su geçirmez ve havadar iki bölme",
+      "Kanguru derisi avuç, SuperFabric takviye",
+      "EN 13594:2015 Level 1 KP",
+      "Kısa, uzun parmak ve kadın bedenleri",
+      "Türkiye'de Motomax'ta fiyatı belli"
+    ],
+    "cons": [
+      "Pahalı",
+      "Bölme değiştirmek için eldiveni çıkarmak gerekir",
+      "Yalıtımsız, kışa uygun değil"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu ve sıcak günlerde şehirde kullanılabilir; sık takıp çıkarmada iki bölme kafa karıştırabilir.",
+      "uzunYol": "Asıl kullanım alanı: yaz ve ara sezon turları.",
+      "yaz": "Astarsız bölme ve bol delikli yapı sayesinde yazın kullanılabilir.",
+      "kis": "Yalıtımı yok.",
+      "yagmur": "GORE-TEX bölmesiyle su geçirmez.",
+      "sport": "Sport kullanım için tasarlanmamış."
+    },
+    "verdict": "Air n Dry II, yazın uzun yola çıkıp yağmura yakalanmaktan çekinen sürücü için en akıllı çözümlerden biri. İki bölmeli yapı gerçekten iki eldiven yerine geçiyor; yüksek fiyat ve kışa uygun olmaması tek eksikleri.",
+    "rivals": [
+      "alpinestars/andes-v3-drystar",
+      "held/sambia-ktc-2",
+      "revit/cayenne-2"
+    ],
+    "priceRange": {
+      "min": 17200,
+      "max": 17200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-air-n-dry-2-gtx-korumali-motosiklet-eldiveni-siyah",
+        "price": 17200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-air-n-dry-2-gtx-korumali-motosiklet-eldiveni-siyah-/-gri",
+        "price": 17200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Gore 2in1 nasıl çalışır?",
+        "a": "Eldivende iki ayrı bölme var: biri GORE-TEX membranlı ve su geçirmez, diğeri astarsız ve havadar. Hava durumuna göre elinizi uygun bölmeye sokuyorsunuz."
+      },
+      {
+        "q": "Kadın bedeni var mı?",
+        "a": "Held siyah renkte D-5'ten D-8'e kadar kadın bedenleri ile kısa ve uzun parmak seçenekleri sunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Air-n-Dry-II-GORE-TEX-gloves/022342-00-001-0-L-8",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Air-n-Dry-II-GORE-TEX-gloves/022342-00-001-0-L-8",
+        "type": "manufacturer",
+        "label": "Held – Air n Dry II GORE-TEX gloves ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-air-n-dry-2-gtx-korumali-motosiklet-eldiveni-siyah-/-gri",
+        "type": "retailer",
+        "label": "Motomax – Held Air n Dry 2 Gore-Tex Siyah/Gri",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "black",
+      "black-grey"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "sizeChart": [
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Deri detaylı Cordura sırt, kanguru derisi avuç, SuperFabric yan kenar takviyesi",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (Gore 2in1)",
+      "airbagCompatible": null,
+      "ventilation": "Delikli deri sırt ve avuç, parmaklarda ACS hava kanalları",
+      "closure": "Bilek ve kol ağzında cırt cırtlı ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "evo-thrux-3",
+    "brand": "held",
+    "name": "Evo-Thrux 3",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Aramid üzerine enjekte eklem kapağı, kanguru derisi avuç, yüzük-serçe parmak köprüsü ve SuperFabric takviyeli, EN 13594:2015 Level 1 KP sertifikalı uzun bilekli sport eldiven.",
+    "description": [
+      "Evo-Thrux 3, Held'in uzun bilekli sport eldiveni. Üst yüzey keçi derisi, avuç aşınmaya dayanıklı kanguru derisi. Özel düz dikiş, el sırtı ve parmaklarda elastik deri paneller sürüşte hassasiyet sağlıyor; avuç astarsız.",
+      "Eklemde aramid üzerine enjekte edilmiş sert kapak bulunuyor ve eklem koruması darbe testinden geçmiş. Yüzük parmağı ile serçe parmak arasındaki köprü, elin yan kenarı ve parmaklarda çift kat malzeme ve başparmak kökünde SuperFabric takviye var. NUDUD iletken teknoloji telefon kullanımını kolaylaştırıyor, vizör sileceği de mevcut. Held, EN 13594:2015 Level 1 KP sertifikası belirtiyor."
+    ],
+    "forWho": [
+      "Sport ve naked motosikletle yazın tempolu sürüş yapanlar",
+      "Kanguru derisi avuçlu, uzun bilekli eldiveni makul fiyata isteyenler",
+      "Kadın bedenlerinde sport eldiven arayanlar"
+    ],
+    "notFor": [
+      "Kurye kullanımı: uzun bilek ve membransız yapı günlük işe uygun değil",
+      "Yağmur ve soğuk hava",
+      "Level 2 sertifika arayan pist sürücüleri"
+    ],
+    "pros": [
+      "Kanguru derisi avuç",
+      "Aramid üzerine enjekte eklem kapağı",
+      "Yüzük-serçe parmak köprüsü",
+      "Kadın, kısa ve uzun parmak bedenleri",
+      "Türkiye'de Motomax'ta fiyatı belli"
+    ],
+    "cons": [
+      "Level 1 KP",
+      "Su geçirmez değil",
+      "Bazı renkler yalnız belirli beden gruplarında"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama uzun bilek şehirde pratik değil.",
+      "uzunYol": "Kuru havada sport-touring etaplarında rahat.",
+      "yaz": "Held yaz eldiveni olarak sınıflandırıyor; tam deri olduğu için file eldivenler kadar serin değil.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: tempolu yol sürüşü ve track day."
+    },
+    "verdict": "Evo-Thrux 3, kanguru derisi avuç ve parmak köprüsü gibi üst sınıf özellikleri daha erişilebilir fiyata getiren dengeli bir sport eldiven. Level 1 KP sertifika ve yalnız kuru hava kullanımı sınırları; geniş beden seçeneği ise önemli bir artı.",
+    "rivals": [
+      "alpinestars/gp-pro-r4",
+      "dainese/carbon-4-long",
+      "five-gloves/rfx3-evo"
+    ],
+    "priceRange": {
+      "min": 9270,
+      "max": 9270,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-evo-thrux-3-korumali-motosiklet-eldiveni-siyah",
+        "price": 11680,
+        "salePrice": 9270,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Evo-Thrux 3 kadın bedeninde var mı?",
+        "a": "Evet, Held bazı renklerde D-5'ten D-8'e kadar kadın bedenleri sunuyor."
+      },
+      {
+        "q": "Telefonla kullanılabilir mi?",
+        "a": "Held, NUDUD iletken teknolojisiyle akıllı telefon kullanımının mümkün olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Evo-Thrux-3-sports-glove/022611-00-014-0-LD-5",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Evo-Thrux-3-sports-glove/022611-00-014-0-LD-5",
+        "type": "manufacturer",
+        "label": "Held – Evo-Thrux 3 sports glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-evo-thrux-3-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Evo-Thrux 3 Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "black",
+      "black-red",
+      "black-white",
+      "black-white-red"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "sizeChart": [
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Keçi derisi üst yüzey, kanguru derisi avuç, SuperFabric başparmak takviyesi",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek ve kol ağzında cırt cırtlı ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "inuit",
+    "brand": "held",
+    "name": "Inuit",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "7,4 V 3000 mAh bataryalı, üç kademeli ve üç bölgeli ısıtmalı; SKINFIT membranlı, D3O eklem korumalı ve EN 13594:2015 sertifikalı kış touring eldiveni.",
+    "description": [
+      "Inuit, Held'in USB-C ile şarj edilen bataryalı ısıtmalı kış eldiveni. 7,4 V 3000 mAh batarya ile Turbo (~70°C), High (~50°C) ve Low (~30°C) kademeleri sunuyor. Isıtma yalnız parmaklar, yalnız avuç ya da ikisi birden olarak seçilebiliyor; Held'e göre süreler yalnız parmak modunda 2,5–7,5 saat, ikisi birden modunda 1,5–4 saat arasında değişiyor.",
+      "Sırt streç kumaş, avuç keçi derisi; el sırtında Thermoplush polar ve PrimaLoft, ayrıca 3M Thinsulate astar var. SKINFIT membran su ve rüzgâr geçirmez, nefes alan yapıda. Korumada D3O eklem koruyucu, SuperFabric ve Armaprotec destekli başparmak kökü ve el kenarı takviyesi bulunuyor. NUDUD iletken teknoloji ve vizör sileceği mevcut. Held, EN 13594:2015 sertifikası belirtiyor; seviye bilgisini sayfada bulamadık."
+    ],
+    "forWho": [
+      "Kışın düzenli motor kullanan ve elleri üşüyen sürücüler",
+      "Isıtılacak bölgeyi seçmek isteyenler",
+      "USB-C ile şarj edilen bataryalı çözüm arayanlar"
+    ],
+    "notFor": [
+      "Kurye kullanımı: en sıcak modda batarya süresi kısalıyor",
+      "Ilık havalar",
+      "Sport sürüş"
+    ],
+    "pros": [
+      "Üç kademe ve üç bölge seçimiyle ısıtma",
+      "USB-C çift şarj kablosu ve batarya kutuda",
+      "D3O eklem koruması",
+      "SKINFIT su ve rüzgâr geçirmez membran"
+    ],
+    "cons": [
+      "Pahalı",
+      "En yüksek kademede batarya süresi kısa",
+      "Held sitesinde şu an stokta görünmüyor",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Soğuk sabahlarda şehirde çok rahat; günlük şarj planı gerekir.",
+      "uzunYol": "Kış turlarında düşük kademe ve tek bölge ısıtmayla daha uzun dayanır.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "SKINFIT membranla su geçirmez.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Inuit, ısıtılan bölgeyi ve kademeyi seçmeye izin vermesiyle batarya süresini kullanıma göre ayarlamak isteyen kış sürücüsü için esnek bir ısıtmalı eldiven. D3O eklem koruması iyi; fiyatı ve stok durumu ise satın almadan önce kontrol edilmeli.",
+    "rivals": [
+      "alpinestars/ht-5-heat-tech-drystar",
+      "revit/kodiak-2-gtx",
+      "five-gloves/wfx-prime-evo-gtx"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Batarya ne kadar dayanır?",
+        "a": "Held'in verdiği değerlere göre ikisi birden modunda Turbo'da yaklaşık 1,5 saat, Low'da 4 saat; yalnız avuç modunda Low'da 11 saate kadar."
+      },
+      {
+        "q": "Nasıl şarj edilir?",
+        "a": "Bataryalar ve USB-C çift şarj kablosu kutudan çıkıyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Inuit-Heated-glove/022672-00-001-0-9-5",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Inuit-Heated-glove/022672-00-001-0-9-5",
+        "type": "manufacturer",
+        "label": "Held – Inuit Heated glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11",
+      "12"
+    ],
+    "sizeChart": [
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "7.5",
+        "min": 19.1,
+        "max": 19.1
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "8.5",
+        "min": 21.6,
+        "max": 21.6
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "9.5",
+        "min": 24.2,
+        "max": 24.2
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Streç kumaş sırt, keçi derisi avuç, PrimaLoft ve 3M Thinsulate yalıtım, ısıtıcı eleman",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "SKINFIT",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek ve kol ağzında cırt cırtlı ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "sparrow-2",
+    "brand": "held",
+    "name": "Sparrow 2",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Keçi derisi gövdeli, köpük eklem ve parmak korumalı, NUDUD dokunmatik teknolojili, erkek ve kadın bedenleri olan EN 13594:2015 Level 1 sertifikalı hafif yazlık touring eldiveni.",
+    "description": [
+      "Sparrow 2, Held'in hafif ve sade deri touring eldiveni. Gövde keçi derisi, avuç astarsız, el sırtı ipek astarlı. El sırtı ve parmaklardaki elastik deri paneller rahat bir kalıp sağlıyor; bilek ve kol ağzı cırt cırtla ayarlanıyor.",
+      "Korumada sert kabuk yok: eklem ve parmaklarda özel köpük, elin yan kenarı ve başparmak kökünde deri ve Held Armaprotec takviye var. Yansıtıcı bölümler, vizör sileceği ve NUDUD iletken teknoloji bulunuyor. Held, EN 13594:2015 Level 1 sertifikası belirtiyor; aynı model 7–12 erkek ve D-5–D-8 kadın bedenleriyle sunuluyor."
+    ],
+    "forWho": [
+      "Yazın şehir içi ve kısa turlarda deri eldiven isteyenler",
+      "Uygun fiyatlı, sade ve sertifikalı eldiven arayanlar",
+      "Kadın bedeninde deri eldiven arayanlar"
+    ],
+    "notFor": [
+      "Yüksek hız ve sport sürüş: sert eklem kabuğu yok",
+      "Yağmur ve kış",
+      "Yoğun kurye kullanımı: ince yapı uzun süreli ağır kullanımda yıpranabilir"
+    ],
+    "pros": [
+      "Keçi derisi, hafif ve rahat kalıp",
+      "EN 13594:2015 Level 1",
+      "Erkek ve kadın bedenleri",
+      "NUDUD dokunmatik teknoloji",
+      "Türkiye'de Motomax'ta fiyatı belli"
+    ],
+    "cons": [
+      "Sert eklem koruması yok, köpük koruma",
+      "KP (eklem) sertifika ibaresi yok",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: yazın şehir içi.",
+      "uzunYol": "Kuru havada kısa ve orta turlarda rahat.",
+      "yaz": "Held yaz eldiveni olarak sınıflandırıyor; delikli değil, çok sıcakta file eldivenler daha serin.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Sparrow 2, sade deri eldiven isteyen şehir ve hafif tur sürücüsü için uygun fiyatlı ve sertifikalı bir seçenek. Kadın bedenlerinin olması artı; sert eklem kabuğu ve KP sertifikası olmaması korumayı temel seviyede tutuyor.",
+    "rivals": [
+      "alpinestars/stella-copper",
+      "dainese/metrax-air",
+      "held/desert-2"
+    ],
+    "priceRange": {
+      "min": 5490,
+      "max": 5490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sparrow-2-korumali-motosiklet-eldiveni-siyah",
+        "price": 5490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-sparrow-2-korumali-kadin-motosiklet-eldiveni-siyah",
+        "price": 5490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Sparrow 2'nin kadın versiyonu farklı bir model mi?",
+        "a": "Hayır. Held aynı modeli 7–12 erkek ve D-5–D-8 kadın bedenleriyle sunuyor."
+      },
+      {
+        "q": "Eklem koruması sert mi?",
+        "a": "Hayır. Held eklem ve parmaklarda özel köpük koruma kullanıldığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Sparrow-2-Touring-glove/022550-00-001-0-8",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Sparrow-2-Touring-glove/022550-00-001-0-8",
+        "type": "manufacturer",
+        "label": "Held – Sparrow 2 Touring glove ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sparrow-2-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sparrow 2 Siyah",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sparrow-2-korumali-kadin-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sparrow 2 Kadın Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "D-5",
+      "D-6",
+      "D-7",
+      "D-8"
+    ],
+    "sizeChart": [
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Keçi derisi, ipek astarlı sırt, Armaprotec takviye",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek ve kol ağzında cırt cırtlı ayar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "kodiak-2-gtx",
+    "brand": "revit",
+    "name": "Kodiak 2 GTX",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX Z-liner, PrimaLoft Gold yalıtım, su itici keçi derisi, sert kabuk eklem ve avuç kaydırıcısıyla gelen, EN 13594:2015 Level 1 KP sertifikalı kış eldiveni.",
+    "description": [
+      "Kodiak 2 GTX, REV'IT!'in soğukta motor kullanmayı bırakmayanlar için tasarladığı ısıtmasız kış eldiveni. Sabit GORE-TEX Z-liner su geçirmezliği sağlıyor; yüksek tüylü astar, push-pull tri-fleece astar, el sırtında PrimaLoft Gold 300 g ve avuçta kaymaz PrimaLoft Gold Eco 80 g yalıtım bulunuyor.",
+      "Dış yüzey su itici işlemli tambur boyalı keçi derisi, PWR|Shell streç, flock PU ve süet deriden oluşuyor. Korumada TPU sert kabuk eklem, PU enjekte parmak eklemleri, TPU sert kabuk avuç kaydırıcısı ve başparmak koruyucusu, altlarında Temperfoam köpük var. Avuçta Pittards tutuş yaması, işaret parmağı ve başparmakta Connect Finger Tip dokunmatik uçlar, süet vizör sileceği ve kol ağzında rüzgâr kesen çekme kulpu bulunuyor. Üretici EN 13594:2015 Level 1 KP sertifikası belirtiyor."
+    ],
+    "forWho": [
+      "Kışın işe gidip gelen ve uzun yol yapan sürücüler",
+      "Isıtmalı eldivenin batarya derdini istemeyenler",
+      "Kışlık eldivende de sert eklem ve avuç kaydırıcısı arayanlar"
+    ],
+    "notFor": [
+      "Ilık havalar ve yaz",
+      "Sport sürüş",
+      "Isıtmalı eldiven kadar sıcaklık bekleyenler: yalıtım ne kadar iyi olsa da aktif ısıtma yok"
+    ],
+    "pros": [
+      "GORE-TEX Z-liner ve kalın PrimaLoft Gold yalıtım",
+      "Sert kabuk eklem ve avuç kaydırıcısı",
+      "EN 13594:2015 Level 1 KP",
+      "Dokunmatik işaret ve başparmak"
+    ],
+    "cons": [
+      "Kalın yalıtım gidon hissini azaltır",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık",
+      "Kısa kol ağzı (regular cuff); bazı montlarla üstten giyimi sınırlı olabilir"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içinde ve işe gidip gelirken rahat.",
+      "uzunYol": "Kış turları için tasarlanmış.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "GORE-TEX Z-liner ile su geçirmez.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "Kodiak 2 GTX, ısıtmalı eldivene geçmeden kışta motor kullanmak isteyen sürücü için en dolu pasif kış eldivenlerinden biri. GORE-TEX, kalın yalıtım ve sert koruma birlikte geliyor; bunun bedeli gidon hissinin azalması.",
+    "rivals": [
+      "dainese/tempest-2-d-dry-long",
+      "five-gloves/wfx-prime-evo-gtx",
+      "held/inuit"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Kodiak 2 GTX ısıtmalı mı?",
+        "a": "Hayır. Isıtma yok; sıcaklığı PrimaLoft Gold yalıtım ve yüksek tüylü astarla sağlıyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet, sabit GORE-TEX Z-liner kullanılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycles-gloves-kodiak-2-gtx-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycles-gloves-kodiak-2-gtx-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Gloves Kodiak 2 GTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Su itici tambur boyalı keçi derisi, PWR|Shell streç, flock PU, PrimaLoft Gold 300 g ve 80 g yalıtım",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Z-liner",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırt cırtlı bilek kayışı, kol ağzı ayar tırnağı, çekme kulpu",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "cayenne-2",
+    "brand": "revit",
+    "name": "Cayenne 2",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Delikli keçi derisi gövdeli, TPU sert kabuk eklem, avuç kaydırıcısı ve el sırtı koruyuculu, EN 13594:2015 Level 1 KP sertifikalı yazlık adventure eldiveni.",
+    "description": [
+      "Cayenne 2, REV'IT!'in adventure koleksiyonundaki yaz eldiveni. Gövde keçi derisi; delikli deri bölümler ve havalandırma delikleri sıcakta hava akışı sağlıyor. Avuç ve başparmakta Pittards Digital tutuş yamaları teknik arazide gidonu kavramayı kolaylaştırıyor, dışarıda konumlanan PWR|Yarn dikişler baskı noktalarını azaltıyor.",
+      "Korumada TPU sert kabuk eklem, PU enjekte parmak eklemleri ve serçe parmak, TPU sert kabuk avuç kaydırıcısı ve başparmak koruyucusu, el sırtında TPU koruyucu ve çeşitli bölgelerde Temperfoam köpük var. Hypalon detaylar, akordeon yapı, bilek ve kol ağzı ayarı ile Connect Finger Tip dokunmatik uçlar bulunuyor. Üretici EN 13594:2015 Level 1 KP sertifikası belirtiyor; su geçirmez değil."
+    ],
+    "forWho": [
+      "Yazın adventure motosikletle asfalt ve stabilize yol karışık sürenler",
+      "Delikli deri eldivende sert eklem ve avuç kaydırıcısı isteyenler",
+      "Sıcak havada uzun tur yapanlar"
+    ],
+    "notFor": [
+      "Yağmur ve soğuk hava: su geçirmez değil",
+      "Pist sürüşü",
+      "Kurye kullanımı: yağmurda yedek eldiven gerekir"
+    ],
+    "pros": [
+      "Delikli keçi derisi ile iyi havalandırma",
+      "TPU eklem, avuç ve el sırtı koruması",
+      "EN 13594:2015 Level 1 KP",
+      "Pittards Digital tutuş yamaları"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Kısa-orta bilek; uzun bilekli adventure eldivenler kadar bileği örtmez",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde rahat; yağmurlu günlerde yetersiz.",
+      "uzunYol": "Sıcak havada uzun turlar için uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Pist için tasarlanmamış; adventure kullanımında yeterli koruma sunuyor."
+    },
+    "verdict": "Cayenne 2, yazın adventure motosikletle yola çıkan ve deri eldivende sert koruma isteyen sürücü için güçlü bir seçenek. Havalandırma ve koruma dengesi iyi; yağmurda yedek eldiven taşımak gerekiyor.",
+    "rivals": [
+      "held/sambia-ktc-2",
+      "held/air-n-dry-2",
+      "revit/sand-5-ladies"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Cayenne 2 su geçirmez mi?",
+        "a": "Hayır. REV'IT! onu havalandırmalı, su geçirmez olmayan bir yaz eldiveni olarak tanımlıyor."
+      },
+      {
+        "q": "Telefon kullanılabilir mi?",
+        "a": "İşaret parmağı ve başparmakta Connect Finger Tip dokunmatik uçlar var."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycles-gloves-cayenne-2-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycles-gloves-cayenne-2-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Gloves Cayenne 2 ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Black-Sand",
+      "Black-Silver"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Keçi derisi, delikli keçi derisi, Pittards Digital WR100X, Hypalon",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Delikli deri ve havalandırma delikleri",
+      "closure": "Cırt cırtlı bilek ve kol ağzı ayarı, elastik bilek",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "sand-5-ladies",
+    "brand": "revit",
+    "name": "Sand 5 Ladies",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın kalıbı, 3D air mesh ve keçi derisi gövdeli, TPR enjekte eklem ve TPU avuç kaydırıcılı, EN 13594:2015 Level 1 KP sertifikalı kısa bilekli yazlık adventure eldiveni.",
+    "description": [
+      "Sand 5 Ladies, REV'IT!'in kadın adventure sürücüleri için kalıpladığı hafif, havadar yaz eldiveni. Kısa kol ağzı, büyük ölçüde 3D air mesh ve tambur boyalı yumuşak keçi derisinden oluşan bir gövdeyle birleşiyor; PWR|4-way streç, Ottoman streç ve Hypalon detaylar da kullanılıyor. İçte geri dönüştürülmüş polyesterden tri-fleece astar var.",
+      "Korumada yeni TPR enjekte eklem koruyucu, TPR parmak eklemleri ve serçe parmak koruyucu, TPU sert kabuk avuç kaydırıcısı ve başparmak koruyucusu, altlarında Temperfoam köpük bulunuyor. Avuç ve başparmakta tutuş yamaları, kol ağzında çekme kulpu ve ayar tırnağı, işaret parmağı ve başparmakta Connect Finger Tip dokunmatik uçlar var. Üretici EN 13594:2015 Level 1 KP sertifikası belirtiyor."
+    ],
+    "forWho": [
+      "Yazın adventure veya touring motosiklet kullanan kadın sürücüler",
+      "Havadar ama sert eklem korumalı eldiven isteyenler",
+      "Kısa bilekli, kolay takılan eldiven tercih edenler"
+    ],
+    "notFor": [
+      "Yağmur ve soğuk hava",
+      "Pist sürüşü",
+      "Kurye kullanımı: yağmurda yedek eldiven gerekir"
+    ],
+    "pros": [
+      "Kadın eline özel kalıp",
+      "3D air mesh ile çok iyi havalandırma",
+      "TPR eklem ve TPU avuç kaydırıcısı",
+      "EN 13594:2015 Level 1 KP"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Kısa bilek",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde rahat ve kolay takılıyor.",
+      "uzunYol": "Sıcak havada turlar için uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Pist için tasarlanmamış."
+    },
+    "verdict": "Sand 5 Ladies, yazın yola çıkan kadın adventure sürücüsü için havalandırma ve korumayı iyi dengeleyen bir eldiven. Sert eklem ve avuç kaydırıcısı güven veriyor; kısa bilek ve su geçirmez olmaması kullanımını kuru sıcak havayla sınırlıyor.",
+    "rivals": [
+      "revit/cayenne-2",
+      "alpinestars/stella-copper",
+      "held/sparrow-2"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Sand 5 Ladies hangi bedenlerde var?",
+        "a": "REV'IT! sitesinde siyah renk için XS–XL bedenler listeleniyor."
+      },
+      {
+        "q": "Su geçirmez versiyonu var mı?",
+        "a": "REV'IT! koleksiyonunda ayrı bir Sand 5 H2O Ladies giyim seti var; bu eldiven ise su geçirmez değil."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycles-gloves-sand-5-ladies-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycles-gloves-sand-5-ladies-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Gloves Sand 5 Ladies ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Grey-Red"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "3D air mesh, tambur boyalı keçi derisi, PWR|4-way streç, Hypalon",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "3D air mesh ve havalandırma delikleri",
+      "closure": "Cırt cırtlı bilek, elastik bilek, kol ağzı ayar tırnağı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "rfx3-evo",
+    "brand": "five-gloves",
+    "name": "RFX3 Evo",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "AirGO PROTECH havalandırmalı eklem kabuğu, ERGO PROTECH avuç kaydırıcısı, parmak köprüsü ve keçi derisi avuçla gelen, EN 13594:2015 KP1 sertifikalı uzun bilekli sport eldiven.",
+    "description": [
+      "RFX3 Evo, FIVE'ın Racing serisinde yol ve pist arasında çok yönlü konumlanan uzun bilekli eldiveni. Üst yapı sentetik deri ve tam tahıllı keçi derisi, avuç yumuşak tam tahıllı keçi derisi. Kapalı el pozisyonunda kabuğun yerleşmesine yardım eden delikli deri körükler ve Hi-Res Grip avuç takviyesi var. Kalıp dar (slim) ve performans odaklı.",
+      "Korumanın merkezinde kask teknolojisinden esinlenen, sert dış kabuk ve petek yapılı iç katmana sahip havalandırmalı AirGO PROTECH eklem kabuğu duruyor. Avuçta esnek TPR ERGO PROTECH kaydırıcı, hava girişli TPR parmak koruyucular, bilekte TPR kaydırıcı ve serçe-yüzük parmak arasında dönmeyi önleyen bağlantı bulunuyor. Çift kapama, işaret ve başparmakta Touch Screen sistemi var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
+    ],
+    "forWho": [
+      "Sport motosikletle yol ağırlıklı sürüp ara sıra piste çıkanlar",
+      "Havalandırmalı eklem kabuğu isteyenler",
+      "Dar, hassas kalıp sevenler"
+    ],
+    "notFor": [
+      "Kurye ve günlük şehir kullanımı",
+      "Yağmur ve soğuk hava",
+      "Geniş el yapısı olup rahat kalıp arayanlar: üretici kalıbı dar olarak tanımlıyor"
+    ],
+    "pros": [
+      "Havalandırmalı AirGO PROTECH eklem kabuğu",
+      "Avuç, bilek ve parmaklarda TPR kaydırıcılar",
+      "Parmak köprüsü",
+      "Dokunmatik işaret ve başparmak"
+    ],
+    "cons": [
+      "Sertifika KP1 (Level 1)",
+      "Dar kalıp herkese uymayabilir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Uzun bilek ve dar kalıp nedeniyle şehirde pratik değil.",
+      "uzunYol": "Kuru havada sport-touring etaplarında kullanılabilir.",
+      "yaz": "FIVE yaz eldiveni olarak sınıflandırıyor; havalandırmalı eklem kabuğu ve parmak hava girişleri yardımcı oluyor.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Asıl kullanım alanı: tempolu yol sürüşü ve track day."
+    },
+    "verdict": "RFX3 Evo, yol ağırlıklı sport sürücü için havalandırma ve korumayı ilginç biçimde birleştiren bir eldiven. Eklem kabuğu ve kaydırıcılar güçlü; dar kalıp ve KP1 sertifika ise beklentiyi buna göre ayarlamayı gerektiriyor.",
+    "rivals": [
+      "alpinestars/gp-pro-r4",
+      "held/evo-thrux-3",
+      "dainese/carbon-4-long"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "RFX3 Evo'nun sertifikası nedir?",
+        "a": "FIVE, EN 13594:2015 ve CE KP1 belirtiyor."
+      },
+      {
+        "q": "Kalıbı nasıl?",
+        "a": "Üretici kalıbı dar (slim) olarak tanımlıyor; konfordan çok hassasiyete öncelik veriliyor."
+      }
+    ],
+    "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
+    "sources": [
+      {
+        "url": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
+        "type": "manufacturer",
+        "label": "FIVE Gloves – RFX3 EVO ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Black / Neon Red",
+      "Black / White",
+      "White"
+    ],
+    "sizes": [
+      "07/XS",
+      "08/S",
+      "09/M",
+      "10/L",
+      "11/XL",
+      "12/2XL",
+      "13/3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Sentetik deri ve tam tahıllı keçi derisi üst yapı, keçi derisi avuç",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "bilek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı AirGO PROTECH eklem kabuğu, hava girişli parmak koruyucular",
+      "closure": "Bilekte cırt cırtlı kayış ve kol ağzı ayar kayışıyla çift kapama",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "wfx-prime-evo-gtx",
+    "brand": "five-gloves",
+    "name": "WFX Prime Evo GTX",
+    "category": "eldiven",
+    "subcategories": [
+      "kislik-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX membranlı, PrimaLoft Gold yalıtımlı ve FIVE Thermo+ yapılı; ERGO PROTECH eklem kabuğu ve SuperFabric takviyeli, EN 13594:2015 KP1 sertifikalı kış eldiveni.",
+    "description": [
+      "WFX Prime Evo GTX, FIVE'ın üst seviye kış eldiveni. Softshell kumaş üst yapı, tam tahıllı keçi derisi avuç ve kısmen avuca bağlanmış GORE-TEX Grip membran kullanılıyor. Üst yüzde PrimaLoft Gold 200 g ve alüminyum ek, avuçta PrimaLoft Gold Grip Control 60 g var. FIVE, kalın yalıtımı parmak aralarına kadar taşıyan Thermo+ yapısının yüzde 20'ye kadar daha fazla ısı verimi sağladığını belirtiyor.",
+      "Korumada gizli, petek iç yapılı ERGO PROTECH tek parça eklem kabuğu, esnek TPR avuç kaydırıcısı, serçe ve yüzük parmakta TPR koruma ve başparmak kökünde SuperFabric panel bulunuyor. Ceket koluna göre genişleyen Over Size Cuff kol ağzı, su itici YKK fermuar, bilek ve kol ağzında cırt ayarı, yansıtıcı 3D yamalar, dokunmatik işaret ve başparmak ile sol elde vizör sileceği var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
+    ],
+    "forWho": [
+      "Kışın düzenli ve uzun süre motor kullananlar",
+      "Isıtmasız ama çok sıcak tutan bir kış eldiveni isteyenler",
+      "Geniş beden aralığı (3XS–5XL) arayanlar"
+    ],
+    "notFor": [
+      "Ilık havalar",
+      "Sport sürüş",
+      "Gidon hissini her şeyin önünde tutanlar: kalın yalıtım hissi azaltır"
+    ],
+    "pros": [
+      "GORE-TEX membran ve PrimaLoft Gold yalıtım",
+      "Thermo+ yapısıyla parmak aralarında da kalın yalıtım",
+      "ERGO PROTECH eklem kabuğu ve SuperFabric",
+      "3XS–5XL geniş beden aralığı"
+    ],
+    "cons": [
+      "Pahalı",
+      "Rahat (relaxed) kalıp dar el yapısına bol gelebilir",
+      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kışın şehir içinde rahat; fermuarlı kol ağzı takıp çıkarmayı biraz yavaşlatır.",
+      "uzunYol": "Kış turları için uygun.",
+      "yaz": "Uygun değil.",
+      "kis": "Asıl kullanım alanı.",
+      "yagmur": "GORE-TEX membranla su geçirmez.",
+      "sport": "Uygun değil."
+    },
+    "verdict": "WFX Prime Evo GTX, ısıtmalı eldivene geçmeden kışı karşılamak isteyen sürücü için en iddialı pasif kış eldivenlerinden biri. Thermo+ yapısı, GORE-TEX ve gizli eklem kabuğu güçlü bir paket; fiyatı ve kalın yapısı ise karşılığında kabul edilmesi gereken şeyler.",
+    "rivals": [
+      "revit/kodiak-2-gtx",
+      "dainese/tempest-2-d-dry-long",
+      "alpinestars/ht-5-heat-tech-drystar"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Thermo+ nedir?",
+        "a": "FIVE'ın, kalın yalıtımı parmak aralarına kadar uzatıp ince yalıtımı avucun düz bölümünde tuttuğu yapısı; üretici yüzde 20'ye kadar daha fazla ısı verimi belirtiyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Evet, GORE-TEX membran kullanılıyor ve üst yüzde dikişsiz ısıl yapıştırma bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
+    "sources": [
+      {
+        "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
+        "type": "manufacturer",
+        "label": "FIVE Gloves – WFX PRIME EVO GTX ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "lastCheckedAt": "2026-10-07",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "colors": [
+      "Black",
+      "Black / Gray"
+    ],
+    "sizes": [
+      "05/3XS",
+      "06/2XS",
+      "07/XS",
+      "08/S",
+      "09/M",
+      "10/L",
+      "11/XL",
+      "12/2XL",
+      "13/3XL",
+      "14/4XL",
+      "15/5XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Softshell üst yapı, tam tahıllı keçi derisi avuç, PrimaLoft Gold 200 g ve Grip Control 60 g yalıtım, SuperFabric",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Grip",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Su itici YKK fermuar, bilek ve kol ağzında cırt cırtlı ayar",
+      "madeIn": null
+    }
+  }
+]

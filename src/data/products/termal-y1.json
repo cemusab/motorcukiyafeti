@@ -1,0 +1,1051 @@
+[
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "ride-tech-top-long-sleeve-winter",
+    "brand": "alpinestars",
+    "name": "Ride Tech Top Long Sleeve Winter",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "En açıkta kalan bölgelerde çift yoğunluklu kumaş kullanan, dikişsiz tüp örgü ve kompresyon kalıplı, sürtünmede erimeyen polipropilen-elastan kışlık uzun kollu termal içlik.",
+    "description": [
+      "Ride Tech Top Long Sleeve Winter, Alpinestars'ın soğuk havada sürüş için geliştirdiği uzun kollu termal içlik. Gövde dikişsiz tüp örgüyle üretiliyor; rüzgara en çok maruz kalan bölgelerde çift yoğunluklu kumaş kullanılmış. Amaç vücut sıcaklığını korurken teri cildin üstünden uzaklaştırmak. Üretici kumaşı polipropilen ve elastan olarak tanımlıyor ve sürtünme altında erimediğini özellikle belirtiyor; bu, kaza anında cilt üstünde eriyen bazı sentetik içliklere göre önemli bir güvenlik detayı.",
+      "Kalıp kompresyon tipinde; kas desteği sağlayarak yorgunluğu azaltmayı hedefliyor. Bu yüzden vücuda sıkı oturuyor, bol bir sweatshirt hissi beklememek gerekiyor. Bedenler XS/S, M/L ve XL/2XL olarak ikişerli gruplanmış; ara bedende olanlar kompresyon hissini hesaba katarak seçmeli. Aynı serinin alt içliği de ayrı satılıyor."
+    ],
+    "forWho": [
+      "Kış aylarında montun altına ince ama sıcak tutan bir katman isteyen sürücüler",
+      "Sabah erken çıkan, gün içinde ısısı değişen havada çalışan kuryeler",
+      "Kompresyon kalıbı seven sport ve touring sürücüleri"
+    ],
+    "notFor": [
+      "Bol ve rahat kesim içlik arayanlar",
+      "Yaz sürüşü için serinletici içlik arayanlar: bu kışlık versiyon"
+    ],
+    "pros": [
+      "Açıkta kalan bölgelerde çift yoğunluklu kumaş",
+      "Dikişsiz tüp örgü, sürtünme yapmaz",
+      "Sürtünmede erimeyen polipropilen-elastan malzeme",
+      "Nem atan yapı"
+    ],
+    "cons": [
+      "İkişerli beden grupları ara bedenlerde tam oturmayabilir",
+      "Kompresyon kalıbı herkese rahat gelmeyebilir",
+      "Türkiye'de kışlık versiyonun yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı. Montun altına ilk katman olarak giyilir.",
+      "sehir": "Kısa şehir sürüşlerinde de ince yapısıyla mont altında rahat eder.",
+      "uzunYol": "Uzun etaplarda terlemeyi uzaklaştırıp üşümeyi azaltır.",
+      "kurye": "Gün boyu giyilebilecek ince bir katman; sık inip binmede terleme sonrası soğumayı azaltır."
+    },
+    "verdict": "Ride Tech Winter, ince kalıp içinde çift yoğunluklu kumaş ve erimeyen malzemeyle sürücüye özel düşünülmüş bir kış içliği. Kompresyon kalıbı ve ikişerli bedenler denemeden almayı zorlaştırıyor; Türkiye'de kışlık versiyonun bulunabilirliği de kontrol edilmeli.",
+    "rivals": [
+      "revit/thermic-shirt",
+      "klim/aggressor-shirt-efire"
+    ],
+    "faq": [
+      {
+        "q": "Altı var mı?",
+        "a": "Evet, Alpinestars aynı serinin alt içliğini ayrıca satıyor."
+      },
+      {
+        "q": "Bedenler nasıl?",
+        "a": "Üretici XS/S, M/L ve XL/2XL olmak üzere ikişerli beden grupları sunuyor; kalıp kompresyon tipinde."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/ride-tech-top-long-sleeve-winter",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/ride-tech-top-long-sleeve-winter",
+        "type": "manufacturer",
+        "label": "Alpinestars – Ride Tech Top Long Sleeve Winter ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Gray"
+    ],
+    "sizes": [
+      "XS/S",
+      "M/L",
+      "XL/2XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Polipropilen + elastan, açıkta kalan bölgelerde çift yoğunluklu kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-neck-warmer-termal-boyunluk-siyah",
+        "price": 2340,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "priceRange": {
+      "min": 2340,
+      "max": 2340,
+      "currency": "TRY",
+      "checkedAt": "2026-10-07"
+    },
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "neck-warmer",
+    "brand": "alpinestars",
+    "name": "Neck Warmer",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Çift katmanlı polar, esnek ve nem atan kumaştan, boynu rüzgara karşı koruyan tek beden boyunluk.",
+    "description": [
+      "Alpinestars Neck Warmer, kask ile mont yakası arasındaki açıklıktan giren soğuk rüzgarı kesmek için tasarlanmış basit bir boyunluk. Üretici çift katmanlı ve polarlı olduğunu, esnek ve nem atan malzemeden yapıldığını belirtiyor. Tek beden olarak satılıyor.",
+      "Boyunluk, kışlık montun yakası yeterince kapanmadığında ya da açık/çene açılır kasklarda boyun bölgesinin üşümesine karşı en ucuz ve etkili çözümlerden biri. Yüzü kapatmadığı için kask altında balaclava kadar yer kaplamaz, gözlük ve interkom kulaklıklarıyla çakışmaz. Rüzgar geçirmez membran bilgisi verilmediği için çok yüksek hızlarda ve dondurucu soğukta membranlı modeller kadar etkili olmayabilir."
+    ],
+    "forWho": [
+      "Kış sabahlarında boyun bölgesinden üşüyen şehir içi sürücüler ve kuryeler",
+      "Balaclava kullanmak istemeyen, yüzü açık kalsın isteyenler",
+      "Uygun fiyatlı, kolay bulunan bir boyunluk arayanlar"
+    ],
+    "notFor": [
+      "Yüz ve kulakları da kapatan tam koruma isteyenler: balaclava daha uygun",
+      "Otoyol hızında dondurucu soğuk için membranlı boyunluk arayanlar"
+    ],
+    "pros": [
+      "Çift katmanlı polar yapı",
+      "Esnek ve nem atan kumaş",
+      "Kask altında az yer kaplar",
+      "Türkiye'de yetkili mağazada stokta"
+    ],
+    "cons": [
+      "Rüzgar geçirmez membran bilgisi yok",
+      "Tek beden; çok ince ya da çok kalın boyunlarda oturuşu değişebilir",
+      "Yüzü ve ağzı korumaz"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; mont yakasındaki boşluğu kapatır.",
+      "sehir": "Şehir hızlarında boyunu sıcak tutmak için yeterli.",
+      "kurye": "Sık inip binen kurye için pratik: kaskı çıkarmadan da takılı kalabilir, yüzü kapatmadığı için konuşmayı engellemez.",
+      "uzunYol": "Otoyolda kullanılabilir; membranlı modeller kadar rüzgarı kesmeyebilir."
+    },
+    "verdict": "Alpinestars Neck Warmer, boyun bölgesindeki soğuğu kesmek için basit ve ulaşılabilir bir çözüm. Membranlı modeller kadar rüzgar kesici olmayabilir, ama şehir içi ve kurye kullanımında fiyat/fayda oranı iyi.",
+    "rivals": [
+      "held/windstopper-neckwarmer",
+      "buff/windproof-balaclava",
+      "dainese/thermo-balaclava"
+    ],
+    "faq": [
+      {
+        "q": "Rüzgar geçirmez mi?",
+        "a": "Üretici rüzgar koruması sağladığını belirtiyor ama ayrı bir rüzgar geçirmez membran bilgisi vermiyor; çift katmanlı polar yapıda."
+      },
+      {
+        "q": "Bedeni var mı?",
+        "a": "Tek beden olarak satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/neck-warmer",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/neck-warmer",
+        "type": "manufacturer",
+        "label": "Alpinestars – Neck Warmer ürün sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-neck-warmer-termal-boyunluk-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Neck Warmer Termal Boyunluk Siyah",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Çift katmanlı polar, esnek ve nem atan kumaş",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "thermic-shirt",
+    "brand": "revit",
+    "name": "Shirt Thermic",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "Hipoalerjenik Dryarn kumaşın bölgesel örgü desenleriyle vücut ısısını hapseden, teri uzaklaştıran ve yükseltilmiş lastikli yakası boynu saran uzun kollu termal içlik.",
+    "description": [
+      "Shirt Thermic, REV'IT!'in kış ve adventure kullanımı için uzun kollu termal içliği. Hipoalerjenik Dryarn kumaştan yapılmış ve stratejik olarak yerleştirilmiş farklı örgü desenleri kullanıyor. Üreticiye göre bu yapı vücut ısısını aktif olarak yalıtırken teri cilt üzerinden alıp kumaşın dışında buharlaştırıyor; böylece nem soğuk dış ortam ile sıcak gövde arasında ısı köprüsü kurmuyor.",
+      "Yükseltilmiş lastikli yaka boynu sararak sıcak havanın gövdeden yukarı kaçmasını azaltıyor. REV'IT! ısının korunmasıyla vücudun sıcaklığı korumak için daha az enerji harcayacağını ve sürücünün daha dinç kalacağını vurguluyor. Bedenler XS-S, M-L ve XL olarak gruplanmış; aynı serinin pantolonu (Pants Thermic) ayrı satılıyor."
+    ],
+    "forWho": [
+      "Kışın ve geçiş mevsimlerinde uzun yol ya da adventure sürüşü yapanlar",
+      "Yünlü içliklerde kaşıntı yaşayan, hipoalerjenik kumaş arayanlar",
+      "Terleyip sonra üşüme sorunu yaşayan sürücüler"
+    ],
+    "notFor": [
+      "Yaz için serinletici içlik arayanlar",
+      "Bütçe odaklı alıcılar: fiyatı temel içliklerin üzerinde"
+    ],
+    "pros": [
+      "Hipoalerjenik Dryarn kumaş",
+      "Bölgesel örgü desenleriyle yalıtım ve nem yönetimi",
+      "Boynu saran yükseltilmiş yaka",
+      "Pantolonu ile takım yapılabiliyor"
+    ],
+    "cons": [
+      "İkili beden grupları ara bedenlerde tam oturmayabilir",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık",
+      "Sıcaklık aralığı verilmiyor"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; mont altına ilk katman.",
+      "uzunYol": "Uzun etaplarda nem yönetimi sayesinde terleyip üşümeyi azaltır.",
+      "sehir": "Kısa şehir sürüşlerinde de mont altında ince kalır.",
+      "kurye": "Gün boyu giyilebilir; sık inip binmede terlemenin ardından soğumayı azaltır."
+    },
+    "verdict": "Shirt Thermic, Dryarn kumaş ve bölgesel örgüyle sürüşe özel düşünülmüş bir kış içliği. Fiyatı ve Türkiye'de bulunabilirliği engel olabilir; uzun yol ve kış sürüşünü ciddiye alanlar için değerli bir ilk katman.",
+    "rivals": [
+      "alpinestars/ride-tech-top-long-sleeve-winter",
+      "klim/aggressor-shirt-efire"
+    ],
+    "faq": [
+      {
+        "q": "Dryarn nedir?",
+        "a": "REV'IT! Dryarn® kumaşı hipoalerjenik ve teri cilt üzerinden alıp buharlaştıran bir kumaş olarak tanımlıyor; bu içlikte farklı örgü desenleriyle kullanılıyor."
+      },
+      {
+        "q": "Pantolonu var mı?",
+        "a": "Evet, Pants Thermic adıyla ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://revitsport.com/products/en-motorcycle-clothing-shirt-thermic-black",
+    "sources": [
+      {
+        "url": "https://revitsport.com/products/en-motorcycle-clothing-shirt-thermic-black",
+        "type": "manufacturer",
+        "label": "REV'IT! – Shirt Thermic ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "XS-S",
+      "M-L",
+      "XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Dryarn® kumaş, bölgesel örgü desenleri",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "windstopper-neckwarmer",
+    "brand": "held",
+    "name": "Neckwarmer Windstopper",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Su itici ve nefes alan Tactel dış kumaşı, GORE-TEX Labs Windstopper astarı ve fermuarlı kapaması olan, boyun çevresine göre dört bedende sunulan rüzgar geçirmez boyunluk.",
+    "description": [
+      "Held'in bu boyunluğu, polar boyunlukların yüksek hızda yetersiz kaldığı yerde devreye giriyor: dış kumaş su itici ve nefes alan Tactel, iç katman ise GORE-TEX Labs'ın Windstopper malzemesi. Bu kombinasyon rüzgarı keserken nemin dışarı çıkmasına izin vermeyi hedefliyor.",
+      "Fermuarlı kapaması sayesinde kaskı çıkarmadan takılıp çıkarılabiliyor; kafadan geçirilen tüp boyunluklara göre pratik. Held boyun çevresine göre dört beden sunuyor: S 38 cm, M 42 cm, L 47 cm ve XL 54 cm. Doğru beden boynu boşluk bırakmadan sarmalı; aksi halde rüzgar alttan girer."
+    ],
+    "forWho": [
+      "Otoyol hızlarında boynuna rüzgar giren touring sürücüleri",
+      "Kaskı çıkarmadan boyunluğu takıp çıkarmak isteyen kuryeler",
+      "Polar boyunluğun yetmediği soğuk günlerde sürenler"
+    ],
+    "notFor": [
+      "Yüzü de kapatan koruma isteyenler: balaclava daha uygun",
+      "Çok ucuz bir çözüm arayanlar"
+    ],
+    "pros": [
+      "Windstopper astar ile rüzgar geçirmez yapı",
+      "Su itici ve nefes alan Tactel dış kumaş",
+      "Fermuarlı kapama, kask çıkarmadan kullanım",
+      "Boyun çevresine göre dört beden"
+    ],
+    "cons": [
+      "Yüzü korumaz",
+      "Doğru beden seçimi önemli; yanlış bedende rüzgar alır",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; soğuk rüzgarı boyun bölgesinde keser.",
+      "uzunYol": "Otoyol hızında polar boyunluklardan daha etkili olması beklenir.",
+      "kurye": "Fermuarlı yapısı sayesinde kaskı çıkarmadan takılıp çıkarılır; sık inip binmede pratik.",
+      "sehir": "Şehir içinde de kullanılır; ılık günlerde fazla gelebilir."
+    },
+    "verdict": "Held Windstopper boyunluk, rüzgar geçirmez astarı ve fermuarlı kapamasıyla polar boyunluklardan bir üst seviye. Boyun ölçüsüne göre beden seçimi doğru yapılırsa kış sürüşünde boyun bölgesindeki en büyük ısı kaybı noktasını kapatır.",
+    "rivals": [
+      "alpinestars/neck-warmer",
+      "buff/windproof-balaclava",
+      "dainese/thermo-balaclava"
+    ],
+    "faq": [
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Held boyun çevresine göre beden veriyor: S 38 cm, M 42 cm, L 47 cm, XL 54 cm. Boynunuzu ölçüp en yakın bedeni seçin."
+      },
+      {
+        "q": "Kaskı çıkarmadan takılır mı?",
+        "a": "Evet, fermuarlı kapaması sayesinde boyun çevresine sarılıp kapatılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Neckwarmer-Material-WINDSTOPPER-by-GoreTex-Labs/009059-00-001-0-XL",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Neckwarmer-Material-WINDSTOPPER-by-GoreTex-Labs/009059-00-001-0-XL",
+        "type": "manufacturer",
+        "label": "Held – Neckwarmer Material WINDSTOPPER by GoreTex Labs ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Tactel® dış kumaş (su itici, nefes alan), WINDSTOPPER® by GORE-TEX Labs astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": "WINDSTOPPER® by GORE-TEX Labs",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "thermo-balaclava",
+    "brand": "dainese",
+    "name": "Thermo Balaclava",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Dryarn ağırlıklı dikişsiz streç kumaştan, yüz ve boynu tamamen saran, üreticinin -20°C ile 10°C arası için önerdiği İtalyan üretimi kask altı termal bone.",
+    "description": [
+      "Thermo Balaclava, Dainese'nin soğuk aylarda kask altına giyilen ısı yalıtımlı bonesi. Streç kumaştan dikişsiz olarak üretiliyor; yüzü ve boynu tamamen kapatıyor. Dikiş olmaması kask içinde baskı noktası oluşturmaması açısından önemli. Üretici sıcaklık aralığını -20°C ile 10°C olarak veriyor.",
+      "Kumaş %85 Dryarn, %10 poliamid ve %5 elastandan oluşuyor; Dryarn yüksek ağırlık/uzunluk oranıyla nemi uzaklaştırıp kuru tutmayı hedefliyor. 3D çerçeve örgü ek ısı yalıtımı sağlıyor. Aşınmaya, yırtılmaya ve tüylenmeye dayanıklı olduğu ve İtalya'da üretildiği belirtiliyor. Tek beden olarak satılıyor; çok sıkı kalıplı kasklarda bone kaskın oturuşunu değiştirebilir, bu yüzden kaskla birlikte denemek iyi olur."
+    ],
+    "forWho": [
+      "Kışın yüzü ve boynu tamamen kapatan bir kask altı katman isteyenler",
+      "Dondurucu havada uzun yol ya da sabah erken sürüş yapanlar",
+      "Kask astarını terden korumak isteyenler"
+    ],
+    "notFor": [
+      "Çok dar oturan kask kullananlar: bone kaskın oturuşunu değiştirebilir",
+      "Sık inip binip kaskı çıkaran kuryeler: her seferinde boneyi düzeltmek zahmetli olabilir"
+    ],
+    "pros": [
+      "Dikişsiz yapı, kask içinde baskı noktası yok",
+      "Üretici -20°C / 10°C aralığı veriyor",
+      "Nem atan Dryarn kumaş",
+      "İtalya üretimi, aşınma ve tüylenmeye dayanıklı"
+    ],
+    "cons": [
+      "Tek beden",
+      "Rüzgar geçirmez membran yok; yüksek hızda boyun bölgesi için ek boyunluk gerekebilir",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; yüz ve boyun için ilk katman.",
+      "uzunYol": "Soğuk otoyol etaplarında yüz ve boynu sıcak tutar.",
+      "sehir": "Kışın şehir içinde de kullanılır; ılık günlerde fazla gelebilir.",
+      "kurye": "Isı açısından uygun; kask sık çıkarılıyorsa her seferinde düzeltme gerekebilir."
+    },
+    "verdict": "Dainese Thermo Balaclava, dikişsiz yapısı ve Dryarn kumaşıyla kask altında rahat eden ciddi bir kış bonesi. Tek beden olması ve membran içermemesi sınırları; dondurucu havada uzun yol yapanlar için değerli bir katman.",
+    "rivals": [
+      "buff/windproof-balaclava",
+      "held/windstopper-neckwarmer",
+      "alpinestars/neck-warmer"
+    ],
+    "faq": [
+      {
+        "q": "Hangi sıcaklıklarda kullanılır?",
+        "a": "Dainese -20°C ile 10°C arasını öneriyor."
+      },
+      {
+        "q": "Kask içinde rahatsız eder mi?",
+        "a": "Dikişsiz üretildiği için baskı noktası oluşturmaması hedeflenmiş; çok dar kasklarda yine de kaskın oturuşu değişebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/thermal-motorcycle-balaclava-unisex---mid-layer-winter-201996266606.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/thermal-motorcycle-balaclava-unisex---mid-layer-winter-201996266606.html",
+        "type": "manufacturer",
+        "label": "Dainese – Thermal Motorcycle Balaclava Unisex ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "OS"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "%85 Dryarn®, %10 poliamid, %5 elastan; dikişsiz",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "İtalya"
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "windproof-balaclava",
+    "brand": "buff",
+    "name": "Windproof Balaclava",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Su itici GORE-TEX Windstopper teknolojisi, lazer kesim nefes delikleri ve dikişsiz, vücuda oturan kalıbıyla rüzgarlı ortamlar için tasarlanmış balaclava.",
+    "description": [
+      "Buff Windproof Balaclava, rüzgarlı ve soğuk havada yüz ve boynu korumak için tasarlanmış bir bone. Su itici Windstopper by GORE-TEX teknolojisi kullanıyor; kumaşın %52'si geri dönüştürülmüş içerikten. Bileşim %52 geri dönüştürülmüş polyester, %41 poliamid ve %7 elastan. Üretim yeri İspanya.",
+      "Buff bu ürünü motosiklet için değil genel yüksek tempolu aktiviteler için tanımlıyor; ancak dikişsiz ve vücuda oturan kalıbı kask altında kullanım için uygun. Ağız bölgesinde lazer kesim nefes delikleri var; bu, kask içinde buğulanmayı azaltmaya yardımcı olabilir. Rüzgar geçirmez katman, polar ya da örgü bonelere göre yüksek hızda daha etkili koruma sunar. Beden seçenekleri ürün sayfasından net olarak doğrulanamadı."
+    ],
+    "forWho": [
+      "Kışın yüksek hızda yüzüne ve boynuna rüzgar giren sürücüler",
+      "Açık veya çene açılır kask kullanan şehir sürücüleri",
+      "Motosiklet dışında kayak, bisiklet gibi aktivitelerde de kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Sık kask çıkaran kuryeler: balaclava'yı her seferinde düzeltmek gerekir",
+      "Motosiklete özel tasarlanmış ürün isteyenler"
+    ],
+    "pros": [
+      "Windstopper by GORE-TEX rüzgar koruması",
+      "Lazer kesim nefes delikleri",
+      "Dikişsiz, vücuda oturan kalıp",
+      "Geri dönüştürülmüş içerikli kumaş"
+    ],
+    "cons": [
+      "Motosiklete özel değil, genel outdoor ürünü",
+      "Beden seçenekleri doğrulanamadı",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; yüz ve boyunu rüzgardan korur.",
+      "uzunYol": "Otoyol hızında rüzgar kesici katmanı sayesinde etkili.",
+      "sehir": "Açık kasklarda yüz bölgesini korumak için kullanışlı.",
+      "kurye": "Isı ve rüzgar koruması iyi; kaskı sık çıkaranlar için zahmetli olabilir."
+    },
+    "verdict": "Buff Windproof Balaclava, rüzgar geçirmez katmanı ve nefes delikleriyle soğuk havada kask altında iş gören bir bone. Motosiklete özel değil ve beden bilgisi net değil; ama yüksek hızda rüzgar koruması isteyenler için polar bonelerden daha etkili bir seçenek.",
+    "rivals": [
+      "dainese/thermo-balaclava",
+      "held/windstopper-neckwarmer",
+      "alpinestars/neck-warmer"
+    ],
+    "faq": [
+      {
+        "q": "Motosiklet için mi tasarlanmış?",
+        "a": "Buff ürünü şehirden ekstrem koşullara kadar yüksek tempolu aktiviteler için tanımlıyor; motosiklete özel değil ama kask altında kullanılabilir."
+      },
+      {
+        "q": "Nefes almayı engeller mi?",
+        "a": "Ağız bölgesinde lazer kesim nefes delikleri var ve kumaş nem buharını dışarı aktaracak şekilde tasarlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://www.buff.com/en_north/windproof-balaclava-buff-solid-black-black-137536999.html",
+    "sources": [
+      {
+        "url": "https://www.buff.com/en_north/windproof-balaclava-buff-solid-black-black-137536999.html",
+        "type": "manufacturer",
+        "label": "BUFF – Windproof Balaclava Solid Black ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "%52 geri dönüştürülmüş polyester, %41 poliamid, %7 elastan",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": "WINDSTOPPER® by GORE-TEX",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": "İspanya"
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "aggressor-shirt-efire",
+    "brand": "klim",
+    "name": "Aggressor eFire Heated Shirt",
+    "subcategories": [
+      "isitmali-giyim",
+      "termal-icgiyim"
+    ],
+    "summary": "Göğüste iki, sırtta bir dikey ısıtma paneli, üç ısı modu ve USB-C ile şarj edilen gizli fermuarlı cepte bataryası olan ısıtmalı termal içlik.",
+    "description": [
+      "Aggressor eFire, KLIM'in Aggressor termal içlik serisine ısıtma elemanları eklenmiş versiyonu. Göğüste iki, sırtın üst kısmında bir dikey ısıtma paneli var. Düşük, orta ve yüksek olmak üzere üç ısı modu sunuluyor; güç, USB-C ile şarj edilen bir bataryadan geliyor ve batarya gizli fermuarlı bir cepte duruyor. Motosiklet elektrik sistemine bağlanma gerekmiyor.",
+      "KLIM ürünü öncelikle karda (kar motosikleti) kullanım için tanımlıyor; ancak montun altına giyilen bataryalı bir içlik olarak motosiklette de çalışır. Bataryalı sistemin avantajı kabloyla motora bağlanmamak, dezavantajı ise kullanım süresinin batarya kapasitesine bağlı olması; üretici sayfasında bu süre verilmiyor. Üretici suya batma riski olan yerlerde ve şimşekli havada kullanılmamasını uyarıyor."
+    ],
+    "forWho": [
+      "Kablo bağlantısıyla uğraşmadan ısıtmalı katman isteyen kış sürücüleri",
+      "Isıtmalı ceketi hacimli bulup ince bir içlik tercih edenler",
+      "Motor dışında da (kayak, kar motosikleti) kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Tüm gün kesintisiz ısı isteyen kuryeler: batarya süresi açıklanmıyor, 12V bağlantılı ürünler daha uygun",
+      "Bütçe odaklı alıcılar"
+    ],
+    "pros": [
+      "Kablosuz, USB-C şarjlı batarya",
+      "Üç ısı modu",
+      "Göğüs ve sırtta ısıtma panelleri",
+      "Aggressor termal içlik tabanı ile nem yönetimi"
+    ],
+    "cons": [
+      "Batarya süresi üretici sayfasında verilmiyor",
+      "Kol ve bel bölgesinde ısıtma yok",
+      "Öncelikli olarak kar sporu ürünü",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; montun altında ilk katman olarak ısı sağlar.",
+      "uzunYol": "Batarya süresi sınırlayıcı olabilir; yedek batarya ya da mola planı gerekebilir.",
+      "sehir": "Kısa şehir sürüşlerinde bataryalı yapı pratik.",
+      "kurye": "Vardiya boyu ısı için batarya süresi belirsiz; 12V motor bağlantılı yelekler gün boyu kullanımda daha güvenilir."
+    },
+    "verdict": "Aggressor eFire, kablosuz ısıtmayı ince bir içliğe taşıyan pratik bir ürün. Motosikletten bağımsız çalışması avantaj, batarya süresinin açıklanmaması ve öncelikle kar sporu için tasarlanmış olması ise sınırlar.",
+    "rivals": [
+      "keis/v501-heated-vest",
+      "gerbing/heated-vest-liner-12v",
+      "macna/centre"
+    ],
+    "faq": [
+      {
+        "q": "Motora bağlanması gerekiyor mu?",
+        "a": "Hayır. Güç, gizli cepteki USB-C ile şarj edilen bataryadan geliyor."
+      },
+      {
+        "q": "Kaç ısı kademesi var?",
+        "a": "Üç: düşük, orta ve yüksek."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/aggressor-shirt-efire-3426-000",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/aggressor-shirt-efire-3426-000",
+        "type": "manufacturer",
+        "label": "KLIM – Aggressor eFire Heated Shirt ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "SM",
+      "MD",
+      "LG",
+      "XL",
+      "2X",
+      "3X"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "v501-heated-vest",
+    "brand": "keis",
+    "name": "V501 Heated Vest",
+    "subcategories": [
+      "isitmali-giyim"
+    ],
+    "summary": "Rüzgara dayanıklı softshell gövde, göğüs ve sırtta mikro karbon fiber ısıtma panelleri, 12V araç bağlantısı veya isteğe bağlı bataryayla çalışan ve diğer KEIS ürünlerine güç dağıtan ısıtmalı yelek.",
+    "description": [
+      "V501, İngiliz KEIS'in kolsuz ısıtmalı yeleği. Gövde nefes alan ve rüzgara dayanıklı softshell; göğüs ve sırtta mikro karbon fiber ısıtma panelleri uzak kızılötesi ısı yayarak vücut çekirdeğini ısıtıyor. Kolsuz olduğu için ısıtmalı cekete göre daha az hacim kaplıyor ve montun altında daha rahat hareket sağlıyor.",
+      "Çift güç seçeneği var: doğrudan motosikletin 12V sistemine bağlanabiliyor ya da isteğe bağlı KEIS taşınabilir bataryasıyla çalışabiliyor. Kutuda yelek, 12V araç bağlantı kablosu ve talimatlar bulunuyor; batarya dahil değil. Entegre bağlantılar sayesinde yelek, KEIS ısıtmalı eldiven, pantolon veya çoraplara güç dağıtan bir merkez görevi görebiliyor. 2XS'ten 3XL'e kadar beden seçeneği sunuluyor."
+    ],
+    "forWho": [
+      "Kış boyunca her gün motorla işe giden veya çalışan kuryeler: 12V bağlantıyla gün boyu ısı",
+      "Isıtmalı cekete göre daha ince bir katman isteyenler",
+      "İleride ısıtmalı eldiven ekleyip tek kaynaktan beslemek isteyenler"
+    ],
+    "notFor": [
+      "Motorunda 12V çıkış ya da bağlantı kurmak istemeyenler: batarya ayrıca alınmalı",
+      "Kolların da ısınmasını isteyenler"
+    ],
+    "pros": [
+      "12V motor bağlantısıyla sınırsız çalışma",
+      "İsteğe bağlı bataryayla motor dışında da kullanım",
+      "Diğer KEIS ısıtmalı ürünlere güç dağıtımı",
+      "2XS–3XL geniş beden aralığı"
+    ],
+    "cons": [
+      "Batarya ve sıcaklık kontrolcüsü bilgisi kutu içeriğinde yok; ayrıca alınması gerekebilir",
+      "Kollar ısıtılmıyor",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; montun altında ara katman.",
+      "kurye": "Motorun 12V sistemine bağlandığında vardiya boyu ısı sağlar; bu yüzden kurye kullanımına uygun.",
+      "uzunYol": "Motor bağlantısıyla uzun etaplarda kesintisiz ısı.",
+      "sehir": "Kısa sürüşlerde de pratik; bataryayla motordan inince de kullanılabilir."
+    },
+    "verdict": "KEIS V501, 12V motor bağlantısı sayesinde kış boyunca her gün motor kullananlar ve kuryeler için mantıklı bir ısıtmalı yelek. Bataryanın ayrıca alınması ve kolların ısıtılmaması sınırları; fiyat ve bulunabilirlik Türkiye'de kontrol edilmeli.",
+    "rivals": [
+      "gerbing/heated-vest-liner-12v",
+      "macna/centre",
+      "klim/aggressor-shirt-efire"
+    ],
+    "faq": [
+      {
+        "q": "Kutudan neler çıkıyor?",
+        "a": "Üreticiye göre V501 yelek, 12V araç bağlantı kablosu ve talimatlar. Taşınabilir batarya isteğe bağlı olarak ayrıca satılıyor."
+      },
+      {
+        "q": "Isıtmalı eldiven bağlanabilir mi?",
+        "a": "Evet, yeleğin entegre güç bağlantıları KEIS ısıtmalı eldiven, pantolon ve çoraplara güç aktarabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://keisapparel.com/products/heated-vest-v501rp-premium",
+    "sources": [
+      {
+        "url": "https://keisapparel.com/products/heated-vest-v501rp-premium",
+        "type": "manufacturer",
+        "label": "KEIS – V501 Heated Vest ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.closure",
+      "sizeChart",
+      "colors"
+    ],
+    "colors": [],
+    "sizes": [
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Nefes alan, rüzgara dayanıklı softshell; mikro karbon fiber ısıtma panelleri",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "heated-vest-liner-12v",
+    "brand": "gerbing",
+    "name": "Heated Vest Liner 12V",
+    "subcategories": [
+      "isitmali-giyim"
+    ],
+    "summary": "Yaka, göğüs ve sırtta beş Microwire ısıtma bölgesi olan, motosikletin 12V sistemine bağlanan, 54 W gücünde ve mini ripstop naylon kabuklu ısıtmalı yelek astarı.",
+    "description": [
+      "Gerbing Heated Vest Liner 12V, motosikletin elektrik sistemine bağlanan klasik bir ısıtmalı yelek astarı. Yaka, göğüs (2) ve sırt (2) olmak üzere beş Microwire ısıtma bölgesi var; Gerbing paslanmaz çelik mikro liflerin su geçirmez kaplamayla kaplandığı bu sistemin saniyeler içinde tam sıcaklığa ulaştığını belirtiyor. Teknik değerler 12V DC, 4,5 A ve 54 W; maksimum ısı 135°F (yaklaşık 57°C).",
+      "Kabuk mini ripstop naylon, arka kısım sürüş pozisyonunda daha iyi örtmesi için uzatılmış, fermuarlar YKK. Pantolon astarı için hazır kablo bağlantısı var. Önemli not: tüm Gerbing kurulumları için akü kablo seti ve sıcaklık kontrolcüsü gerekiyor ve bunlar ayrıca satılıyor; üretici kontrolcüsüz kullanımın rahatsızlık ve yanığa yol açabileceği konusunda uyarıyor. Yelek, dış montun altına ve ince bir polyester içliğin üstüne giyilecek şekilde tasarlanmış."
+    ],
+    "forWho": [
+      "Kışın her gün motor kullanan ve motordan sınırsız güç almak isteyen kuryeler ve işe gidenler",
+      "Montunun altına ince ve hafif bir ısı katmanı isteyenler",
+      "İleride ısıtmalı pantolon astarı eklemek isteyenler"
+    ],
+    "notFor": [
+      "Motoruna kablo seti kurmak istemeyenler",
+      "Motordan inince de ısınmak isteyenler: bataryasız, yalnızca 12V bağlantıyla çalışır"
+    ],
+    "pros": [
+      "12V motor bağlantısıyla sınırsız çalışma süresi",
+      "Yaka dahil beş ısıtma bölgesi",
+      "Uzatılmış sırt ve YKK fermuarlar",
+      "Pantolon astarına hazır bağlantı"
+    ],
+    "cons": [
+      "Akü kablo seti ve sıcaklık kontrolcüsü ayrıca alınmalı",
+      "Motordan inince ısıtma yok",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; montun altında ısı katmanı.",
+      "kurye": "Motor gücüyle vardiya boyu ısı sağlar; sık inip binmede kabloyu takıp çıkarmak alışkanlık gerektirir.",
+      "uzunYol": "Uzun kış etaplarında kesintisiz ısı için ideal.",
+      "sehir": "Kısa şehir sürüşlerinde de çalışır; kurulum maliyeti kısa kullanım için yüksek gelebilir."
+    },
+    "verdict": "Gerbing 12V yelek astarı, motor gücüyle sınırsız ısı isteyen kış sürücüleri ve kuryeler için kanıtlanmış bir çözüm. Kablo seti ve kontrolcünün ayrıca alınması gerekiyor; motordan inince ısıtmaması da hesaba katılmalı.",
+    "rivals": [
+      "keis/v501-heated-vest",
+      "macna/centre",
+      "klim/aggressor-shirt-efire"
+    ],
+    "faq": [
+      {
+        "q": "Bataryayla çalışır mı?",
+        "a": "Bu model 12V motor bağlantısı için tasarlanmış. Gerbing'in bataryalı (7V) yelekleri ayrı ürünler."
+      },
+      {
+        "q": "Ek olarak ne gerekiyor?",
+        "a": "Üreticiye göre akü kablo seti ve sıcaklık kontrolcüsü gerekiyor; ikisi de ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.gerbing.com/products/gerbing-heated-vest-liner-12v-motorcycle",
+    "sources": [
+      {
+        "url": "https://www.gerbing.com/products/gerbing-heated-vest-liner-12v-motorcycle",
+        "type": "manufacturer",
+        "label": "Gerbing – Heated Vest Liner 12V Motorcycle ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart",
+      "colors"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Mini ripstop naylon kabuk; Microwire™ ısıtma elemanları (12V DC, 4,5 A, 54 W)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "YKK fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "termal",
+    "status": "active",
+    "successor": null,
+    "offers": [],
+    "priceRange": null,
+    "lastCheckedAt": "2026-10-07",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "slug": "centre",
+    "brand": "macna",
+    "name": "Centre",
+    "subcategories": [
+      "isitmali-giyim"
+    ],
+    "summary": "7,4V batarya veya 12V motor bağlantısıyla çalışan, ısı yansıtan HRS iç filmi, dört ısı kademesi, Bluetooth uygulama kontrolü ve bilekte eldiven bağlantısı olan ısıtmalı içlik ceket.",
+    "description": [
+      "Centre, MACNA'nın günlük işe gidenler ve soğukta sürenler için geliştirdiği elektrikli ısıtmalı içlik ceketi. Dual Power Technology ile 7,4V ya da 12V güç kaynağı kullanılabiliyor: ceketteki bataryadan ya da doğrudan motosikletin aküsünden. Üretici bu boyuttaki bir giysi için bataryalı kullanımda 6A, tercihen 12V batarya öneriyor; motor bağlantısı ise sınırsız güç sağlıyor.",
+      "İçte Heat Reflection System adlı ince bir film var; normalde kaybolacak ısıyı geri yansıtarak enerji ihtiyacını azaltmayı hedefliyor. Göğüsteki kontrolcü dört ısı kademesini renkle gösteriyor ve kalan güç seviyesini bildiriyor; MACNA Heated uygulaması üzerinden Bluetooth ile de yönetilebiliyor. Bileklerde ısıtmalı eldiven için küçük fişler, pantolona bağlanma fermuarı, su geçirmez bel cebi ve sırt koruyucu cebi (RISC FB/CB) bulunuyor. XXS'ten 4XL'e kadar beden seçeneği var."
+    ],
+    "forWho": [
+      "Kış boyunca her gün motorla işe giden veya çalışan sürücüler ve kuryeler",
+      "Isıtmalı eldivenleri ceketten beslemek isteyenler",
+      "Isı kademesini telefondan yönetmek isteyenler"
+    ],
+    "notFor": [
+      "İnce bir yelek yeterli olanlar: kollu ceket daha hacimli",
+      "Batarya ve kablo yatırımı yapmak istemeyenler: güç kaynağı ayrıca alınmalı"
+    ],
+    "pros": [
+      "7,4V veya 12V çift güç seçeneği",
+      "Isıyı geri yansıtan HRS iç filmi",
+      "Dört kademe, güç göstergesi ve Bluetooth uygulama",
+      "Eldiven bağlantısı ve sırt koruyucu cebi"
+    ],
+    "cons": [
+      "Batarya ya da motor bağlantı kablosu bilgisi kutu içeriğinde belirtilmiyor",
+      "Bataryalı kullanım süresi açıklanmıyor",
+      "Türkiye'de yetkili mağazada fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "kis": "Asıl kullanım alanı; montun altına ısıtmalı ara katman.",
+      "kurye": "Motor bağlantısıyla vardiya boyu ısı; bataryayla motordan inince de ısınmaya devam eder. Kurye kullanımına uygun.",
+      "uzunYol": "Motor aküsüne bağlanınca uzun etaplarda kesintisiz ısı.",
+      "sehir": "Günlük işe gidiş için tasarlanmış; tek başına dış giysi olarak da giyilebiliyor."
+    },
+    "verdict": "MACNA Centre, çift güç seçeneği, ısı yansıtan iç film ve uygulama kontrolüyle ısıtmalı içlik ceketler arasında özellik açısından zengin bir model. Güç kaynağının ayrıca planlanması gerekiyor; her gün motorla çalışanlar için güçlü bir aday.",
+    "rivals": [
+      "keis/v501-heated-vest",
+      "gerbing/heated-vest-liner-12v",
+      "klim/aggressor-shirt-efire"
+    ],
+    "faq": [
+      {
+        "q": "Bataryayla mı motorla mı çalışır?",
+        "a": "İkisiyle de. Dual Power Technology 7,4V veya 12V kaynak kabul ediyor; ceketteki bataryadan ya da motosikletin aküsünden beslenebiliyor."
+      },
+      {
+        "q": "Isıtmalı eldiven bağlanabilir mi?",
+        "a": "Evet, bileklerde ısıtmalı eldivenler için küçük bağlantı fişleri var."
+      }
+    ],
+    "manufacturerUrl": "https://www.macna.com/en/electrically-heated-jackets-macna-centre-jacket",
+    "sources": [
+      {
+        "url": "https://www.macna.com/en/electrically-heated-jackets-macna-centre-jacket",
+        "type": "manufacturer",
+        "label": "MACNA – Centre ısıtmalı ceket ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.madeIn",
+      "specs.closure",
+      "sizeChart",
+      "colors"
+    ],
+    "colors": [],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL",
+      "4XL"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  }
+]

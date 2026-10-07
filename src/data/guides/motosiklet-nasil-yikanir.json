@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "motosiklet-nasil-yikanir",
+    "title": "Motosiklet Nasıl Yıkanır? Adım Adım Temizlik Rehberi",
+    "description": "Motosiklet nasıl yıkanır? Motoru soğutma, basınçlı suyu rulman ve elektriğe tutmama, doğru ürünler, kurutma ve yıkama sonrası zincir bakımı.",
+    "topic": "genel",
+    "updatedAt": "2026-10-06",
+    "readingMinutes": 6,
+    "intro": "Motosiklet, motor soğuduktan sonra gölgede, motosiklete uygun bir şampuan ve yumuşak süngerle yukarıdan aşağıya yıkanır; basınçlı su rulmanlara, keçelere ve elektrik bağlantılarına doğrudan tutulmaz. Yıkamanın ardından motosiklet kurulanır, zincir kurutulup yağlanır ve frenler kısa bir sürüşle kontrol edilir.",
+    "sections": [
+      {
+        "heading": "Hazırlık: soğuk motor, gölge, doğru malzeme",
+        "paragraphs": [
+          "Sıcak motor, egzoz ve fren diskleri üzerine soğuk su dökmek metal parçalarda ani sıcaklık değişimine yol açar; ayrıca sıcak yüzeyde şampuan hemen kuruyup leke bırakır. Motosikleti en az motor ve egzoz elle dokunulacak kadar soğuyana kadar beklet ve doğrudan güneş almayan bir yerde yıka.",
+          "Araba yıkama ürünlerinin bir kısmı motosiklette de kullanılabilir, ama motosiklete özel şampuan ve temizleyiciler alüminyum, krom, plastik ve mat yüzeyler düşünülerek hazırlanır. Bulaşık deterjanı yüzeydeki koruyucu cilayı ve bazı plastikleri kurutabilir."
+        ],
+        "bullets": [
+          "Motor ve egzoz soğuk olmalı",
+          "Gölgede yıka",
+          "Motosiklete uygun şampuan, iki kova, yumuşak sünger ya da yıkama eldiveni",
+          "Ayrı bir jant ve zincir fırçası, mikrofiber kurulama bezleri"
+        ]
+      },
+      {
+        "heading": "Hangi parçaları korumalısın?",
+        "paragraphs": [
+          "Kärcher'in motosiklet yıkama rehberi, basınçlı yıkayıcı kullanılıyorsa orta ayarın seçilmesini ve tabancanın motosikletten belirli bir mesafede tutulmasını önerir; aksi halde plastik parçalar ve keçeler zarar görebilir. Doğrudan ve yakından tutulan basınçlı su; tekerlek rulmanlarına, direksiyon kafasına, ön amortisör keçelerine ve zincirin O-ring/X-ring contalarına su sokabilir.",
+          "Elektrik bağlantıları, gösterge paneli, kontak, elektrik düğmeleri ve hava filtresi girişi de doğrudan su tutulmaması gereken yerlerdir. Egzoz çıkışının ağzını bir torba ya da bezle kapatmak içine su kaçmasını önler; yıkama bitince örtüyü çıkarmayı unutma."
+        ],
+        "bullets": [
+          "Basınçlı suyu rulman, keçe ve zincire doğrudan tutma",
+          "Gösterge, kontak, düğmeler ve soketlerden uzak dur",
+          "Hava filtresi girişine su kaçırma",
+          "Egzoz ağzını yıkama süresince kapat"
+        ]
+      },
+      {
+        "heading": "Adım adım yıkama",
+        "paragraphs": [
+          "Yıkamaya en kirli bölgelerden değil, yukarıdan başla; böylece kirli su temizlenmiş yüzeylere akmaz. Jant, motor altı ve zincir bölgesi için ayrı bir fırça ya da sünger kullan; buradaki kum ve fren tozu boyalı yüzeyleri çizer."
+        ],
+        "bullets": [
+          "Motosikleti düşük basınçlı ya da normal hortum suyuyla ıslatıp tozu yumuşat",
+          "Gerekirse motor ve jant bölgesine uygun bir yağ sökücü uygula, ürünün talimatına göre beklet",
+          "İki kova yöntemiyle (biri şampuanlı, biri durulama) yukarıdan aşağıya yıka",
+          "Jantları ve motor altını ayrı fırçayla temizle",
+          "Bol suyla, yine yukarıdan aşağıya durula"
+        ]
+      },
+      {
+        "heading": "Fren diskleri ve kimyasallar",
+        "paragraphs": [
+          "Fren disklerine ve balatalara yağ sökücü, cila, silikonlu parlatıcı ya da zincir yağı bulaşmamalıdır. Bu ürünler fren gücünü ciddi biçimde azaltabilir. Sprey kullanırken diskleri bir bezle koru.",
+          "Silikonlu lastik parlatıcıları lastik sırtına sürme; tutuşu düşürür. Sele ve el tutamaklarında da kaygan bırakan parlatıcılardan kaçın."
+        ],
+        "bullets": [
+          "Disk ve balatalara yağlı ürün bulaştırma",
+          "Lastik sırtına parlatıcı sürme",
+          "Seleye kaygan ürün uygulama"
+        ]
+      },
+      {
+        "heading": "Kurutma",
+        "paragraphs": [
+          "Motosikleti temiz mikrofiber bezlerle kurula. Mümkünse elektrik bağlantıları, düğmeler ve vida aralarındaki suyu üflemek için düşük güçte bir hava üfleyici kullan. Kendi haline bırakılan su damlaları kireç lekesi bırakır ve vida aralarında paslanmaya yol açabilir.",
+          "Kuruladıktan sonra kısa ve sakin bir sürüş, motorun ve egzozun ısınmasıyla kalan nemin buharlaşmasına yardımcı olur. Bu sürüşte ilk önce frenleri düşük hızda dene; ıslak fren ilk birkaç basışta daha zayıf tutabilir."
+        ],
+        "bullets": [
+          "Mikrofiberle kurula",
+          "Düğme ve soket aralarındaki suyu hava ile al",
+          "Kısa bir sürüşle nemi uçur, frenleri düşük hızda dene"
+        ]
+      },
+      {
+        "heading": "Yıkama sonrası zincir",
+        "paragraphs": [
+          "Yıkama zincirdeki yağı da alır. Yıkamadan hemen sonra zincirdeki suyu bezle al ve zincir kuruyup hafifçe ısındığında, O-ring ve X-ring contalara uygun bir zincir yağıyla yağla. Zinciri yağsız bırakmak kısa sürede yüzey paslanmasına yol açar.",
+          "Zincir yağlarken motor kapalı olmalı ve arka tekerleği elle çevirmelisin. Ayrıntılı adımlar için zincir bakımı rehberimize bak."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Motosikleti oto yıkamada yıkatmak sakıncalı mı?",
+        "a": "Sakıncalı olan, basınçlı suyun rulman, keçe, zincir ve elektrik aksamına yakından tutulmasıdır. Yıkayan kişiye bu bölgelere doğrudan su tutmamasını söyle ya da motosikleti kendin yıka."
+      },
+      {
+        "q": "Motosiklet ne sıklıkla yıkanmalı?",
+        "a": "Belirli bir kural yok. Kışın tuzlu yollarda ve çamurlu havada kullandıktan sonra beklemeden yıkamak korozyonu önler. Kuru havada düzenli kullanımda daha seyrek yıkamak yeterli olabilir."
+      },
+      {
+        "q": "Mat boyalı motosiklet nasıl yıkanır?",
+        "a": "Mat yüzeye cila, pasta ya da parlatıcı uygulama; yüzey parlaklaşır ve lekelenir. Mat yüzeylere uygun şampuan kullan ve yumuşak bir bezle kurula. Üreticinin kılavuzundaki öneriye uy."
+      },
+      {
+        "q": "Yıkamadan sonra frenler neden zayıf?",
+        "a": "Disk ve balatalardaki su ilk basışlarda sürtünmeyi azaltabilir. Düşük hızda birkaç kez frene basmak genelde yeterlidir. Sorun sürerse diskte yağlı bir ürün kalmış olabilir; kontrol ettir."
+      }
+    ],
+    "relatedGuides": ["motosiklet-zincir-bakimi-ve-yaglama", "motor-yagi-degisimi-dikkat-edilecekler", "motosiklet-montu-nasil-yikanir", "kask-temizligi-ve-bakimi", "kislik-motosiklet-ekipmani"],
+    "relatedCategories": ["eldiven", "mont", "kask"],
+    "sources": [
+      { "url": "https://www.kaercher.com/int/home-garden/know-how/motorcycle-cleaning.html", "type": "manufacturer", "label": "Kärcher: motosiklet yıkama ipuçları", "checkedAt": "2026-10-06" },
+      { "url": "https://didchain.com/blogs/news/d-i-d-chain-maintenance", "type": "manufacturer", "label": "D.I.D: zincir bakımı (buhar ve çözücü uyarısı)", "checkedAt": "2026-10-06" },
+      { "url": "https://www.sportsbikeshop.co.uk/articles/advice-and-guides/how-to-clean-and-lube-a-motorcycle-chain", "type": "retailer", "label": "Sportsbikeshop: zincir temizleme ve yağlama", "checkedAt": "2026-10-06" }
+    ]
+  }
+]

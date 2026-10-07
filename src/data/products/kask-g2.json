@@ -1,0 +1,3483 @@
+[
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "k1-s",
+    "brand": "agv",
+    "name": "K1 S",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin giriş seviyesi kapalı kaskı. Termoplastik kabuk, ECE 22.06 onayı ve sportif bir çizgi; iç güneş vizörü yok ama fiyatına göre aerodinamiği ve görüş alanı iyi.",
+    "description": [
+      "K1 S, AGV'nin MotoGP tasarım dilini uygun bir fiyata indirdiği kapalı kask. Kabuk yüksek dayanımlı termoplastikten üretiliyor ve iki dış kabuk boyutuyla sunuluyor; EPS ise dört farklı boyutta. Üretici, ilk kabuk bedeninde ağırlığı 1.500 g olarak veriyor. Köprücük kemiğini korumaya yönelik alt kabuk profili ve rüzgâr tünelinde geliştirilen Aero Spoiler bu fiyat sınıfında pek görülmeyen detaylar.",
+      "Vizör çizilmeye dirençli Ultravision, yatayda 190° görüş sunuyor ve Pinlock 70 MaxVision lensine hazır; ancak lens kutudan çıkmıyor. Beş ön hava girişi ve iki arka çıkış var. İç pedler Dry-Comfort kumaştan, çıkarılıp yıkanabiliyor; burun koruyucu ve rüzgâr perdesi sökülebiliyor. Çene kilidi Double D.",
+      "Kaskın en belirgin eksiği iç güneş vizörü olmaması: güneşli günlerde koyu vizör ya da güneş gözlüğü gerekiyor. Gözlük kullananlar için yanak bölgesi buna göre şekillendirilmiş, genel interkom sistemlerinin takılması için de hazırlık var."
+    ],
+    "forWho": [
+      "İlk kaliteli kaskını alan ve markalı, ECE 22.06 onaylı bir kapalı kask arayan sürücüler",
+      "Naked ya da spor motorla şehir içi ve kısa şehirlerarası sürüş yapanlar",
+      "Sportif görünüm ve Rossi replika boyalarını önemseyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyenler; K1 S'te yok",
+      "Günde saatlerce ve her havada sürüş yapan kuryeler: güneş vizörü ve Pinlock lensinin eksikliği bu kullanımda can sıkar"
+    ],
+    "pros": [
+      "ECE 22.06 onayı ve köprücük kemiği dostu kabuk profili",
+      "Fiyatına göre iyi aerodinamik ve Aero Spoiler",
+      "190° yatay görüş sunan çizilmeye dirençli vizör",
+      "Çıkarılıp yıkanabilen iç pedler, gözlüğe uygun yanaklar"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Pinlock lensi kutudan çıkmıyor, ayrıca alınmalı",
+      "Termoplastik kabuk ve 1.500 g ağırlık: fiber kasklara göre biraz daha ağır ve hacimli",
+      "Yasal garanti 2 yıl; 5 yıla uzatmak için ürünü 30 gün içinde kaydetmek gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Hafif yapısı ve geniş görüş alanıyla şehirde rahat; güneşli saatlerde iç vizör yokluğu hissedilir.",
+      "uzunYol": "Kısa ve orta mesafede yeterli konfor sunar. Uzun etaplarda iç güneş vizörü ve daha sessiz bir kask arayanlar üst modellere bakmalı.",
+      "otoban": "Aero Spoiler yüksek hızda stabiliteye yardım eder; rüzgâr sesi fiyat sınıfı için makul.",
+      "sport": "Sportif sürüş pozisyonuna uygun çizgide; hafta sonu viraj turları için iyi bir giriş kaskı.",
+      "adventure": "Siperliksiz ve asfalt odaklı; arazi kullanımına uygun değil.",
+      "gozluk": "Üretici, iç yapının gözlükle kullanıma göre tasarlandığını belirtiyor.",
+      "interkom": "Genel interkom sistemleri için hazırlık var; markaya özel entegre bir ünite yuvası yok.",
+      "kurye": "Fiyatı uygun ama güneş vizörü ve Pinlock lensi olmadığı için yoğun kurye kullanımında ek aksesuar gerekir."
+    },
+    "verdict": "K1 S, bütçesi sınırlı ama tanınmış bir markadan ECE 22.06 onaylı, sportif bir kapalı kask isteyen için mantıklı bir başlangıç. Görüş alanı ve aerodinamiği fiyatının üzerinde. İç güneş vizörü olmaması ve Pinlock lensinin ayrı satılması ise günlük ve yoğun kullanımda eksik kalıyor.",
+    "rivals": [
+      "hjc/c71",
+      "shark/ridill-2",
+      "hjc/i71"
+    ],
+    "priceRange": {
+      "min": 11990,
+      "max": 11990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/agv-k1s-mono-kapali-kask-parlak-siyah-_57730.html",
+        "price": 11990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Parlak Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "AGV K1 S'te güneş vizörü var mı?",
+        "a": "Hayır. K1 S'te iç güneş vizörü bulunmuyor; güneşli havalarda koyu vizör ya da güneş gözlüğü kullanmak gerekiyor. İç vizör isteyenler için AGV'nin K3 modeli daha uygun."
+      },
+      {
+        "q": "K1 S ile Pinlock kutudan çıkıyor mu?",
+        "a": "Hayır. Vizör Pinlock 70 MaxVision lensine hazır ama lens ayrıca satılıyor."
+      },
+      {
+        "q": "Bedenimi nasıl seçmeliyim?",
+        "a": "AGV tablosuna göre M beden 57-58 cm, L beden 59-60 cm kafa çevresine karşılık geliyor. Ölçünü kaşların hemen üstünden, kafanın en geniş yerinden al ve mümkünse mağazada dene."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/full-face/k1-s/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/full-face/k1-s/",
+        "type": "manufacturer",
+        "label": "AGV K1 S model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/k1-s-black---motorbike-full-face-helmet-e2206-2118394017027.html",
+        "type": "manufacturer",
+        "label": "AGV K1 S Black ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/agv-k1s-mono-kapali-kask-parlak-siyah-_57730.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – AGV K1 S",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Yüksek dayanımlı termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1500,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Ultravision, çizilmeye dirençli, 190° yatay görüş, hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": false,
+      "ventilation": "5 ön giriş, 2 arka çıkış, ayarlanabilir",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Genel interkom sistemlerinin takılmasına hazır; özel entegre yuva yok.",
+      "spoiler": true,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "k3",
+    "brand": "agv",
+    "name": "K3",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "touring-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin her işe yarayan kapalı kaskı. Termoplastik kabuk, iç güneş vizörü ve kutudan çıkan Pinlock 70 ile günlük kullanım için dengeli, fiyatı makul bir paket.",
+    "description": [
+      "K3, AGV gamında K1 S'in bir üstünde duran ve günlük kullanımı merkeze alan kapalı kask. Kabuk yüksek dayanımlı termoplastikten, üç dış kabuk boyutuyla üretiliyor; çok yoğunluklu EPS dört boyutta. İlk kabuk bedeninde ağırlık 1.500 g olarak veriliyor. ECE 22.06 onaylı ve köprücük kemiği dostu alt profil burada da var.",
+      "K1 S'ten en önemli farkı donanım: eldivenle kullanılabilen iç güneş vizörü, kutudan çıkan Pinlock 70 MaxVision buğu önleyici lens ve paslanmaz çelik mikrometrik çene kilidi. Vizör 190° yatay görüş sunuyor; şehir içi için hafif aralık konumu da var. Dört ön hava girişi ve bir arka çıkış bulunuyor.",
+      "İç pedler 2DRY kumaştan, çıkarılıp yıkanabiliyor ve yanak pedleri tüm bedenler arasında değiştirilebiliyor; bu sayede oturuş kişiselleştirilebiliyor. AGV, kabuğun 130 km/s'te dinamik ağırlığının sıfır olacak şekilde tasarlandığını söylüyor. Gözlük kullananlar için ve genel interkom sistemleri için hazırlık var."
+    ],
+    "forWho": [
+      "Tek kaskla şehir, yol ve hafta sonu turu yapmak isteyen sürücüler",
+      "İç güneş vizörü ve buğu önleyici lensi ilk günden isteyen, bütçesini kontrol eden alıcılar",
+      "Gözlük kullanan ve kaskı rahatça takıp çıkarmak isteyenler"
+    ],
+    "notFor": [
+      "Pistte ya da çok agresif sportif sürüşte en hafif kaskı arayanlar",
+      "Fiber kabuk hafifliği bekleyenler; K3 termoplastik"
+    ],
+    "pros": [
+      "İç güneş vizörü ve Pinlock 70 lensi kutuda",
+      "Mikrometrik çelik çene kilidi günlük kullanımda pratik",
+      "Üç dış kabuk boyutu, değiştirilebilir yanak pedleri",
+      "ECE 22.06 onayı ve köprücük kemiği dostu profil"
+    ],
+    "cons": [
+      "Termoplastik kabuk; aynı bütçede fiber alternatifler kadar hafif değil",
+      "Tek arka hava çıkışı, sıcak havada havalandırma ortalama kalabilir",
+      "Yasal garanti 2 yıl; 5 yıl için ürün kaydı gerekiyor",
+      "Entegre interkom yuvası yok, genel sistemlere hazırlık var"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü, şehir aralık konumu ve mikrometrik kilitle şehirde pratik bir kask.",
+      "uzunYol": "Pinlock lensi ve iç vizörle uzun yolda da iş görür; sessizlik konusunda üst segment kasklar kadar iddialı değil.",
+      "otoban": "AGV'nin aerodinamik çalışması yüksek hızda boynu yormayı hedefliyor; 130 km/s civarında dengeli.",
+      "sport": "Sportif sürüşe uygun ama asıl amacı çok yönlü kullanım.",
+      "adventure": "Siperliksiz; toprak yol odaklı değil.",
+      "gozluk": "Eyewear Ready iç tasarım gözlük sapları için yer bırakıyor.",
+      "interkom": "Genel interkom sistemlerinin takılmasına hazır.",
+      "kurye": "Fiyatı, iç vizörü ve Pinlock lensiyle günlük yoğun kullanıma uygun; termoplastik kabuk biraz ağırlık getirir."
+    },
+    "verdict": "K3, AGV'nin en dengeli günlük kaskı. İç güneş vizörü, kutudan çıkan Pinlock lensi ve mikrometrik kilit fiyatına göre güçlü bir donanım. Fiber kabuk hafifliği ya da üst düzey sessizlik beklemeyen, tek kaskla her şeyi yapmak isteyen sürücü için doğru seçim.",
+    "rivals": [
+      "hjc/i71",
+      "shark/skwal-i3",
+      "ls2/ff800-storm-ii"
+    ],
+    "priceRange": {
+      "min": 13290,
+      "max": 13290,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/agv-k3-mplk-mono-kapali-kask-seta-beyaz-_57619.html",
+        "price": 13290,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Seta Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "K3 ile K1 S arasındaki fark ne?",
+        "a": "K3'te iç güneş vizörü, kutudan çıkan Pinlock 70 lensi, mikrometrik çene kilidi ve üç dış kabuk boyutu var. K1 S daha sade ve iki kabuk boyutlu; güneş vizörü yok."
+      },
+      {
+        "q": "AGV K3 Pinlock ile mi geliyor?",
+        "a": "Evet. Üretici, Pinlock 70 MaxVision buğu önleyici lensin kutuda olduğunu belirtiyor."
+      },
+      {
+        "q": "K3 kaç gram?",
+        "a": "AGV ilk kabuk bedeninde 1.500 g veriyor. Büyük bedenlerde ağırlık artar."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/full-face/k3/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/full-face/k3/",
+        "type": "manufacturer",
+        "label": "AGV K3 model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/k3-e2206---mono-white-2118381001022.html",
+        "type": "manufacturer",
+        "label": "AGV K3 Mono White ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/agv-k3-mplk-mono-kapali-kask-seta-beyaz-_57619.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – AGV K3",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.breathGuard",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Yüksek dayanımlı termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1500,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Ultravision, çizilmeye dirençli, 190° yatay görüş, şehir aralık konumu, hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "4 ön giriş (alın ve çene), 1 arka çıkış, eldivenle ayarlanabilir",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Genel interkom sistemlerinin takılmasına hazır.",
+      "spoiler": null,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "k7",
+    "brand": "agv",
+    "name": "K7",
+    "subcategories": [
+      "kapali-kask",
+      "fiber-kask",
+      "touring-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin spor-touring kapalı kaskı. Kompozit fiber kabuk, 1.450 g'lık hafiflik, iç güneş vizörü ve Pinlock 120 ile hem viraj hem uzun yol için kurgulanmış.",
+    "description": [
+      "K7, AGV'nin sportiflik ile touring konforunu tek kaskta birleştirmeye çalıştığı modeli. Kompozit fiber kabuk üç dış kabuk ve dört EPS boyutuyla üretiliyor; üretici ilk kabuk bedeninde 1.450 g veriyor ve kaskı kendi sınıfının en kompakt kapalı yol kaskı olarak tanımlıyor. ECE 22.06 onaylı ve köprücük kemiği koruma profiline sahip.",
+      "Yeni vizör mekanizması daha kompakt; bu sayede şakak bölgesine daha fazla EPS konabilmiş. Vizör 190° yatay görüşlü, çizilmeye dirençli ve kutudan Pinlock 120XLT MaxVision lensiyle çıkıyor; iç güneş vizörü aletsiz sökülebiliyor. AGV'nin patentli Air Diffusion Crownpad sistemi, tepe pedi ile EPS'yi birlikte çalıştırarak içerideki hava dağılımını iyileştirmeyi hedefliyor; beş ön giriş ve iki arka çıkış var.",
+      "İç döşeme Ritmo ve Shalimar kumaşlardan, DrySpeed işlemli; yanak pedleri bedenler arasında değiştirilebiliyor, tamamı çıkarılıp yıkanabiliyor. Çene kilidi çelik mikrometrik. AGV, kaskın tam entegre bir interkom kurulumu için hazırlandığını belirtiyor."
+    ],
+    "forWho": [
+      "Hem viraj keyfi hem uzun yol yapan spor-touring sürücüleri",
+      "Hafif ve kompakt bir fiber kask isteyip iç güneş vizöründen vazgeçmek istemeyenler",
+      "Sıcak havada iç havalandırmayı önemseyenler"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar ve kuryeler: fiyatı yoğun kurye kullanımının yıpranmasına göre yüksek",
+      "Saf pist kaskı arayanlar; bu iş için Pista GP RR gibi modeller var"
+    ],
+    "pros": [
+      "1.450 g ile hafif ve kompakt fiber kabuk",
+      "İç güneş vizörü ve Pinlock 120XLT lensi kutuda",
+      "Air Diffusion Crownpad ile iç hava dağılımına yönelik özel tasarım",
+      "Değiştirilebilir yanak pedleri, gözlüğe uygun iç yapı"
+    ],
+    "cons": [
+      "K3'e göre belirgin biçimde pahalı",
+      "Mikrometrik kilit pratik ama pist kullanımı için Double D tercih edenler olabilir",
+      "Yasal garanti 2 yıl; 5 yıl için ürün kaydı gerekiyor",
+      "Entegre interkom ünitesi ayrı satılıyor"
+    ],
+    "usage": {
+      "sehir": "Hafifliği ve iç vizörüyle şehirde rahat; fiyatı göz önüne alındığında sadece şehir için fazla olabilir.",
+      "uzunYol": "Asıl güçlü olduğu alan: hafif kabuk, iç vizör, Pinlock 120 ve iyi iç havalandırma uzun etaplarda yorgunluğu azaltır.",
+      "otoban": "Rüzgâr tünelinde geliştirilen kabuk ve entegre spoyler yüksek hızda stabil kalmak için tasarlanmış.",
+      "sport": "Kompakt yapısı ve geniş görüşüyle sportif sürüşte de iyi iş çıkarır.",
+      "adventure": "Siperliksiz; asfalt odaklı.",
+      "gozluk": "İç yapı gözlükle kullanıma göre şekillendirilmiş.",
+      "interkom": "Tam entegre interkom kurulumu için hazırlık var; ünite ayrı satılır.",
+      "kurye": "Teknik olarak kullanılabilir ama fiyatı yoğun, her havada kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "K7, AGV'nin bugün sunduğu en dengeli spor-touring kask. Hafif fiber kabuk, iç güneş vizörü ve kutudan çıkan Pinlock 120 birlikte geliyor. Fiyatı K3'ün iki katına yaklaşıyor; bu farkı en çok uzun yolda ve sıcak havada hissedersin.",
+    "rivals": [
+      "hjc/rpha-72",
+      "shark/spartan-gt-pro",
+      "shoei/gt-air-3"
+    ],
+    "priceRange": {
+      "min": 27290,
+      "max": 27290,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/agv-k7-mplk-mono-kapali-kask-beyaz-_59557.html",
+        "price": 27290,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "AGV K7 kaç gram?",
+        "a": "AGV, ilk kabuk bedeninde 1.450 g veriyor. Büyük bedenlerde daha büyük kabuk kullanıldığı için ağırlık artar."
+      },
+      {
+        "q": "K7'de güneş vizörü var mı?",
+        "a": "Evet. İç güneş vizörü var ve aletsiz sökülebiliyor. Pinlock 120XLT MaxVision lensi de kutudan çıkıyor."
+      },
+      {
+        "q": "K7 mi K3 mü?",
+        "a": "K3 termoplastik ve daha uygun fiyatlı. K7 fiber kabuklu, daha hafif ve iç havalandırması daha gelişmiş. Uzun yol ve sportif sürüş yapıyorsan K7 farkını hissettirir."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/full-face/k7/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/full-face/k7/",
+        "type": "manufacturer",
+        "label": "AGV K7 model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/k7-mplk-damascus-black-silver---motorbike-full-face-helmet-e2206-2118399001010.html",
+        "type": "manufacturer",
+        "label": "AGV K7 Damascus ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/agv-k7-mplk-mono-kapali-kask-beyaz-_59557.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – AGV K7",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Kompozit fiber",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1450,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Ultravision, çizilmeye dirençli, 190° yatay görüş, patentli kilit, hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "5 ön giriş, 2 arka çıkış, Air Diffusion Crownpad sistemi",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Tam entegre interkom kurulumuna hazır (ünite ayrı satılır).",
+      "spoiler": true,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "tourmodular",
+    "brand": "agv",
+    "name": "Tourmodular",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin karbon-aramid-cam elyafı kabuklu çene açılır touring kaskı. P/J onay, 1.620 g, iç güneş vizörü ve Cardo ile geliştirilen INSYDE interkom yuvası öne çıkıyor.",
+    "description": [
+      "Tourmodular, AGV'nin uzun yol için tasarladığı çene açılır kask. Kabuk karbon, aramid ve cam elyafı karışımından, üç dış kabuk boyutuyla üretiliyor; EPS beş yoğunluklu ve dört boyutlu. Üretici ilk kabuk bedeninde 1.620 g veriyor. Metal çene kilit sistemi sayesinde P/J çift onaylı; yani çene açık konumda da açık kask olarak onaylı.",
+      "Vizör mekanizmaları metal ve küçültülmüş; vizör kalınlığı 4 mm'ye kadar çıkıyor. Görüş alanı yatayda 190°, dikeyde 85°. İç güneş vizörü aletsiz sökülebiliyor ve Pinlock 120 MaxVision lensi kutudan çıkıyor. Dört büyük ayarlanabilir hava girişi ve 16 iç kanal var. AGV, 130 km/s'te dinamik ağırlığın sıfır olduğunu söylüyor.",
+      "Kaskın ayırt edici özelliği DMC teknolojili INSYDE interkom için hazır gelmesi: Cardo ile geliştirilen ünite (ayrı satılır) kaskın içine yerleşiyor ve üretici 15 sürücüye kadar bağlantıdan söz ediyor. Not: AGV, 2025'te belirli seri numarası aralığındaki Tourmodular E2206 kasklarda çene mekanizması parçasının kırılabileceği gerekçesiyle gönüllü geri çağırma başlattı; ikinci el ya da stoktan alırken seri numarasını AGV'nin duyurusuyla kontrol etmek gerekiyor."
+    ],
+    "forWho": [
+      "Uzun yol yapan ve entegre interkomu kaskın içine temiz yerleştirmek isteyen touring sürücüleri",
+      "Çene açıkken de onaylı kullanmak isteyen, sık durup kalkan sürücüler",
+      "Gözlük kullanan ve kaskı çıkarmadan gözlüğünü takıp çıkarmak isteyenler"
+    ],
+    "notFor": [
+      "Kuryeler ve bütçe odaklı alıcılar: fiyatı ve mekanizmalı yapısı yoğun kurye kullanımına göre pahalı",
+      "Sportif, hafif bir kapalı kask arayanlar"
+    ],
+    "pros": [
+      "P/J çift onay ve metal çene kilit sistemi",
+      "Karbon-aramid-cam elyafı kabuk, üç dış kabuk boyutu",
+      "İç güneş vizörü ve Pinlock 120 lensi kutuda",
+      "Cardo ile geliştirilen INSYDE interkom için özel yuva"
+    ],
+    "cons": [
+      "1.620 g ile hafif değil",
+      "INSYDE interkom ayrı satılıyor, toplam maliyet yükseliyor",
+      "2025'te belirli seri numaralarında çene mekanizması için geri çağırma yapıldı; alırken seri numarası kontrol edilmeli",
+      "Yasal garanti 2 yıl; 5 yıl için ürün kaydı gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Çeneyi kaldırıp konuşabilmek şehirde pratik; ağırlığı kısa yolda sorun olmaz.",
+      "uzunYol": "Asıl kullanım alanı: iç vizör, Pinlock 120, iyi havalandırma ve entegre interkom uzun etaplar için kurgulanmış.",
+      "otoban": "AGV aerodinamiği 130 km/s'te dengeli olacak şekilde ayarlamış; yine de yüksek hızda çene kapalı sürülmeli.",
+      "sport": "Sportif kullanım için ağır ve hacimli.",
+      "adventure": "Siperliği yok; asfalt ağırlıklı turlara uygun.",
+      "gozluk": "Çene açılır yapı gözlükle kullanımı kolaylaştırır; iç yapı da gözlüğe göre tasarlanmış.",
+      "interkom": "AGV INSYDE (Cardo DMC) için özel hazırlık var; ünite ayrı satılır.",
+      "kurye": "Çene açılması teslimatta pratik ama fiyatı ve mekanizması yoğun kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "Tourmodular, entegre interkom ve P/J onayı isteyen uzun yol sürücüsü için güçlü bir çene açılır kask. Kabuk malzemesi ve donanımı segmentin üst sınıfında. Ağırlığı ve INSYDE ünitesiyle birlikte toplam maliyeti yüksek; 2025 geri çağırmasını da göz önünde bulundurup seri numarasını kontrol ederek almak gerekir.",
+    "rivals": [
+      "schuberth/c5",
+      "shoei/neotec-3",
+      "hjc/rpha-91"
+    ],
+    "priceRange": {
+      "min": 33390,
+      "max": 33390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/agv-kasktourmodular-solid-mplk-black-l-32281",
+        "price": 33390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Black"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tourmodular geri çağırmadan etkileniyor mu?",
+        "a": "AGV, 2025'te Tourmodular E2206'nın belirli seri numarası aralığında çene mekanizması parçasının kırılabileceği gerekçesiyle gönüllü geri çağırma duyurdu. Çene kayışındaki etiketteki seri numarasını AGV'nin duyuru sayfasıyla karşılaştırmak gerekiyor."
+      },
+      {
+        "q": "Çene açıkken sürülebilir mi?",
+        "a": "Evet. Tourmodular P/J çift onaylı; çene açık konumda kilitliyken açık kask olarak da onaylı."
+      },
+      {
+        "q": "Hangi interkomla uyumlu?",
+        "a": "Kask, AGV'nin Cardo ile geliştirdiği INSYDE interkom için hazırlanmış; ünite ayrı satılıyor ve kurulum aparatı kutuda geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/flip-up/tourmodular/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/flip-up/tourmodular/",
+        "type": "manufacturer",
+        "label": "AGV Tourmodular model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/tourmodular-matt-black---motorbike-flip-up-helmet-e2206-201251E4OY003.html",
+        "type": "manufacturer",
+        "label": "AGV Tourmodular Matt Black ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/tourmodular-recall2025.html",
+        "type": "manufacturer",
+        "label": "AGV Tourmodular 2025 geri çağırma duyurusu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/agv-kasktourmodular-solid-mplk-black-l-32281",
+        "type": "retailer",
+        "label": "Mototaş – AGV Tourmodular",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Karbon-aramid-cam elyafı kompozit",
+      "materialClass": "fiber",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1620,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Ultravision, 4 mm'ye kadar kalınlık, 190° yatay / 85° dikey görüş, metal mekanizma",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "4 büyük ayarlanabilir giriş (tepe ve çene), 16 iç kanal, 1 arka çıkış",
+      "chinCurtain": true,
+      "breathGuard": true,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "AGV INSYDE (Cardo, DMC) interkom için hazır; ünite ayrı satılır. P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "ax9",
+    "brand": "agv",
+    "name": "AX9",
+    "subcategories": [
+      "adventure-kask",
+      "karbon-kask",
+      "touring-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin karbon-aramid-cam elyafı kabuklu adventure kaskı. Siperlik ve vizör sökülerek dört farklı düzende kullanılabiliyor; karbon versiyon 1.365 g.",
+    "description": [
+      "AX9, AGV'nin hem asfalt hem toprak yol için tasarladığı adventure touring kaskı. Kabuk karbon, aramid ve cam elyafı karışımından, üç dış kabuk boyutuyla üretiliyor; EPS dört yoğunluklu ve dört boyutlu. Üretici, karbon versiyonda ilk kabuk bedeninde 1.365 g veriyor. ECE 22.06 onaylı.",
+      "Kaskın en önemli özelliği esnekliği: ayarlanabilir siperlik ve geniş vizör ayrı ayrı sökülebildiği için dört farklı düzende kullanılabiliyor. Vizörsüz kullanımda cross gözlüğüyle uyumlu. Ultravision vizör yatayda 190°, dikeyde 110° görüş sunuyor ve Pinlock 70 MaxVision lensi kutudan çıkıyor. İç güneş vizörü bulunmuyor.",
+      "Çene havalandırması aletsiz sökülebiliyor ve altına maksimum hava için ızgara yerleştirilebiliyor; üç ön giriş ve iki arka çıkış var. Boyun pedi su itici işlemli Shalimar ve nubuk kumaştan. Çene kilidi Double D; genel interkom sistemleri için hazırlık var."
+    ],
+    "forWho": [
+      "Asfalt ve toprak yolu karıştıran adventure motor sahipleri",
+      "Hafif bir adventure kask isteyen ve siperliği gerektiğinde çıkarmak isteyen sürücüler",
+      "Arazide cross gözlüğüyle de kullanmak isteyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü isteyenler; AX9'da yok",
+      "Kuryeler ve şehir içi kullanıcılar: fiyatı ve siperlikli yapısı bu kullanım için uygun değil"
+    ],
+    "pros": [
+      "Karbon versiyonda 1.365 g ile hafif",
+      "Siperlik ve vizör sökülerek dört farklı düzen",
+      "190° yatay / 110° dikey geniş görüş, Pinlock 70 lensi kutuda",
+      "Aletsiz sökülebilen çene havalandırması"
+    ],
+    "cons": [
+      "İç güneş vizörü yok",
+      "Siperlik otoban hızlarında rüzgâr yükü getirebilir",
+      "Fiyatı yüksek; Türkiye'de görülen versiyonlar karbon",
+      "Yasal garanti 2 yıl; 5 yıl için ürün kaydı gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama siperlikli yapı ve fiyat şehir içi için gereğinden fazla.",
+      "uzunYol": "Hafif kabuk uzun etaplarda boynu yormaz; güneşli havalarda iç vizör eksikliği hissedilir.",
+      "otoban": "AGV siperliği yelken etkisini sınırlayacak şekilde tasarlamış; yine de siperlikli kasklar yüksek hızda kapalı kasklardan daha fazla rüzgâr alır. Gerekirse siperlik çıkarılabilir.",
+      "sport": "Sportif asfalt sürüşüne göre değil.",
+      "adventure": "Asıl alanı: siperlik, geniş görüş ve gözlük uyumu toprak yolda işe yarar.",
+      "gozluk": "Üretici iç yapının gözlükle kullanıma göre tasarlandığını belirtiyor.",
+      "interkom": "Genel interkom sistemlerinin takılmasına hazır.",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı ve siperlikli yapısı bu iş için fazla."
+    },
+    "verdict": "AX9, hafif ve esnek bir adventure kask arayan için iyi bir seçim. Dört farklı kullanım düzeni ve geniş görüş alanı arazide gerçekten işe yarıyor. Ancak iç güneş vizörünün olmaması ve fiyatı, ağırlıklı asfaltta kullanacaklar için düşünülmesi gereken noktalar.",
+    "rivals": [
+      "hjc/rpha-60"
+    ],
+    "priceRange": {
+      "min": 39990,
+      "max": 39990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/agv-kaskax-9-mono-glossy-carbon-xl-27963",
+        "price": 39990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Glossy Carbon"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "AX9'da güneş vizörü var mı?",
+        "a": "Hayır. AX9'da iç güneş vizörü yok. Güneşli havalarda koyu vizör ya da gözlük kullanmak gerekir."
+      },
+      {
+        "q": "AX9 cross gözlüğüyle kullanılabilir mi?",
+        "a": "Evet. Vizör çıkarıldığında kask cross gözlüğüyle kullanılabiliyor; siperlik de ayrıca sökülebiliyor."
+      },
+      {
+        "q": "AX9 kaç gram?",
+        "a": "AGV, karbon versiyon için ilk kabuk bedeninde 1.365 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/full-face/ax9/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/full-face/ax9/",
+        "type": "manufacturer",
+        "label": "AGV AX9 model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/ax9-mono-matt-carbon---motorbike-full-face-helmet-e2206-21183B5001002.html",
+        "type": "manufacturer",
+        "label": "AGV AX9 Mono Matt Carbon ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.mototas.com.tr/agv-kaskax-9-mono-glossy-carbon-xl-27963",
+        "type": "retailer",
+        "label": "Mototaş – AGV AX9",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.breathGuard",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "Karbon-aramid-cam elyafı kompozit",
+      "materialClass": "karbon",
+      "shellSizes": 3,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1365,
+      "weightSize": "En küçük kabuk bedeni (karbon versiyon)",
+      "headShape": null,
+      "visor": "Ultravision, çizilmeye dirençli, 190° yatay / 110° dikey görüş, sökülebilir; siperlik ayarlanabilir ve sökülebilir",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": false,
+      "ventilation": "3 ön giriş, 2 arka çıkış, aletsiz sökülebilen çene havalandırması",
+      "chinCurtain": true,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Genel interkom sistemlerinin takılmasına hazır.",
+      "spoiler": null,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "irides",
+    "brand": "agv",
+    "name": "Irides",
+    "subcategories": [
+      "acik-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "AGV'nin şehir içi için tasarlanan termoplastik açık kaskı. Uzun vizör, mıknatıslı vizör kilidi, iç güneş vizörü ve kilitleme halkası günlük kullanımda pratik.",
+    "description": [
+      "Irides, AGV'nin şehir içi kullanım için geliştirdiği açık (jet) kask. Kabuk yüksek dayanımlı termoplastikten, iki dış kabuk boyutuyla üretiliyor; EPS üç boyutta. Üretici ilk kabuk bedeninde 1.500 g veriyor. ECE 22.06 onaylı.",
+      "Uzun vizör yüzün büyük bölümünü kapatıyor ve VMS adlı mıknatıslı kapanma mekanizmasıyla yüksek hızda da yerinde kalması amaçlanıyor. Vizör Pinlock 70 lensine hazır ama lens ayrı satılıyor. Ayarlanabilir iç güneş vizörü, bir üst hava girişi ve bir arka çıkış var.",
+      "Farklı kalınlıkta yanak pedleri tüm bedenler arasında değiştirilebiliyor; AGV toplam 24 farklı ayardan söz ediyor. İç döşeme ve çene kayışı pedi çıkarılıp yıkanabiliyor. Mikrometrik çelik kilit ve kaskı motora kilitlemeye yarayan halka şehir içi için düşünülmüş; interkom sistemleri için de hazırlık var. Açık kask olduğu için çene koruması yok."
+    ],
+    "forWho": [
+      "Scooter ya da küçük hacimli motorla şehir içinde sürenler",
+      "Sık inip binen, kaskı kolay takıp çıkarmak isteyenler",
+      "Sıcak havada daha ferah bir kask isteyenler"
+    ],
+    "notFor": [
+      "Otoban ve uzun yol kullanıcıları: çene koruması yok",
+      "Kuryeler için tek başına önerilmez: günde saatlerce trafikte çene koruması olmayan kask risklidir"
+    ],
+    "pros": [
+      "Uzun vizör ve mıknatıslı vizör kilidi",
+      "İç güneş vizörü",
+      "Mikrometrik kilit ve kilitleme halkası",
+      "24 farklı yanak pedi ayarı, çıkarılıp yıkanabilen iç döşeme"
+    ],
+    "cons": [
+      "Açık kask: çene ve yüz alt bölümü korunmuyor",
+      "Pinlock lensi ayrı satılıyor",
+      "Termoplastik kabukla 1.500 g; açık kask için hafif sayılmaz",
+      "Yüksek hızda rüzgâr ve ses kapalı kasklara göre fazla"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: kolay takılıp çıkarılır, iç vizör ve kilitleme halkası şehirde pratik.",
+      "uzunYol": "Uzun yol için önerilmez; rüzgâr, ses ve çene koruması eksikliği yorar.",
+      "otoban": "Otoban hızlarında rüzgâr yükü ve ses artar; çene koruması olmadığı için kapalı kask daha doğru.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Açık yapısı sayesinde gözlükle kullanımı kolay; iç yapı da gözlüğe göre tasarlanmış.",
+      "interkom": "Modern interkom sistemleriyle uyumlu olacak şekilde hazırlanmış.",
+      "kurye": "Teslimatta pratik ama çene koruması olmadığı için yoğun kurye kullanımında kapalı ya da çene açılır kask daha güvenli."
+    },
+    "verdict": "Irides, şehir içinde kısa mesafeler için iyi düşünülmüş bir açık kask: uzun vizör, iç güneş vizörü ve kilitleme halkası günlük hayatı kolaylaştırıyor. Çene koruması olmadığını unutmamak gerekiyor; hız ve mesafe arttıkça kapalı bir kask daha doğru tercih.",
+    "rivals": [
+      "hjc/rpha-31",
+      "shark/rs-jet"
+    ],
+    "priceRange": {
+      "min": 10290,
+      "max": 10290,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/agv-irides-mono-gunes-vizorlu-acik-kask-mat-siyah-_58704.html",
+        "price": 10290,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Irides'te güneş vizörü var mı?",
+        "a": "Evet. Ayarlanabilir bir iç güneş vizörü var ve aletsiz sökülebiliyor."
+      },
+      {
+        "q": "Irides Pinlock ile mi geliyor?",
+        "a": "Hayır. Vizör Pinlock 70 lensine hazır; lens aksesuar olarak ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.agv.com/de/en/open-face/irides/",
+    "sources": [
+      {
+        "url": "https://www.agv.com/de/en/open-face/irides/",
+        "type": "manufacturer",
+        "label": "AGV Irides model sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.agv.com/de/en/irides-agv-e2206---trieste-matt-black-white-red-2118469001015.html",
+        "type": "manufacturer",
+        "label": "AGV Irides Trieste ürün sayfası (teknik özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/agv-irides-mono-gunes-vizorlu-acik-kask-mat-siyah-_58704.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – AGV Irides",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "Yüksek dayanımlı termoplastik",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1500,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Uzun vizör, çizilmeye dirençli ve UV korumalı, mıknatıslı VMS kilit",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": true,
+      "ventilation": "1 ayarlanabilir üst giriş, 1 arka çıkış",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Genel interkom sistemlerine hazır; kaskı kilitlemek için hırsızlık önleyici halka var.",
+      "spoiler": null,
+      "warrantyYears": 2,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "rpha-72",
+    "brand": "hjc",
+    "name": "RPHA 72",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "HJC'nin premium spor-touring kapalı kaskı. PIM kompozit kabuk, iç güneş vizörü, titanyum Double D ve SMART HJC uyumu öne çıkıyor.",
+    "description": [
+      "RPHA 72, HJC'nin RPHA serisindeki spor-touring kapalı kaskı ve gamda RPHA 71'in ardından gelen model. Kabuk, HJC'nin ikinci nesil PIM (Premium Integrated Matrix) prepreg kompozitinden üretiliyor. Üretici kaskın genel hacminin %4 küçültüldüğünü, M bedenin pek çok markanın L bedenine yakın bir dış hacimde kaldığını ve sürüklenme kuvvetinin %19,7, kaldırma kuvvetinin %6,2 azaldığını söylüyor. ECE 22.06 onaylı; HJC ayrıca DOT'tan söz ediyor.",
+      "Vizör HJ-48: Pinlock'a hazır, %99 UV korumalı ve çizilmeye dirençli; HJC Pinlock lensinin kutuda olduğunu belirtiyor. Kademeli ayarlanabilen iç güneş vizörü buğu önleyici kaplamalı. Çene kilidi titanyum Double D. İç döşemede rüzgâr türbülansını ve yol sesini azaltmak için ek yarım boyun pedi kullanılmış; tepe ve yanak pedleri çıkarılıp yıkanabiliyor, gözlük sapı kanalları var.",
+      "Kask, ayrı satılan SMART HJC Bluetooth interkom sistemiyle uyumlu. HJC Europe sayfasında ağırlık ve kabuk boyutu sayısı verilmiyor; bu nedenle bu değerleri boş bıraktık. Garanti, satın alma tarihinden itibaren 5 yıl (üretimden itibaren en fazla 7 yıl)."
+    ],
+    "forWho": [
+      "Hem şehirlerarası yol hem viraj sürüşü yapan spor-touring sürücüleri",
+      "İç güneş vizörü ve sessizliği önemseyen, kompakt bir kask isteyenler",
+      "SMART HJC ile temiz bir interkom kurulumu planlayanlar"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar ve kuryeler: fiyatı yoğun kurye kullanımının yıpratıcılığına göre yüksek",
+      "Saf pist kaskı arayanlar; bu iş için RPHA 1 ya da RPHA 12 daha uygun"
+    ],
+    "pros": [
+      "PIM prepreg kompozit kabuk ve kompakt hacim",
+      "İç güneş vizörü, Pinlock lensi kutuda",
+      "Titanyum Double D çene kilidi",
+      "Ses azaltmaya yönelik ek boyun pedi, yıkanabilir iç döşeme",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk boyutu sayısını paylaşmıyor",
+      "SMART HJC interkom ayrı satılıyor",
+      "Türkiye'de satıcılar arasında fiyat farkı belirgin",
+      "Double D kilit, mikrometrik kilit kadar hızlı takılıp çıkarılmaz"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü şehirde işe yarar; Double D kilit sık inip binmede biraz zaman alır.",
+      "uzunYol": "Ek boyun pedi, iç vizör ve Pinlock lensiyle uzun yol için iyi donatılmış.",
+      "otoban": "HJC'nin aerodinamik iyileştirmeleri yüksek hızda stabiliteyi hedefliyor.",
+      "sport": "Kompakt kabuk ve aerodinamik yapı sportif sürüşe uygun.",
+      "adventure": "Siperliksiz; asfalt odaklı.",
+      "gozluk": "İç döşemede gözlük sapı kanalları var.",
+      "interkom": "SMART HJC Bluetooth sistemiyle uyumlu (ayrı satılır).",
+      "kurye": "Teknik olarak uygun ama fiyatı yoğun kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "RPHA 72, iç güneş vizörlü, kompakt ve donanımlı bir spor-touring kask arayan için güçlü bir aday. PIM kabuk, titanyum Double D ve 5 yıl garanti fiyatını destekliyor. Üreticinin ağırlık bilgisi paylaşmaması ve interkomun ayrı satılması ise karar verirken akılda tutulmalı.",
+    "rivals": [
+      "agv/k7",
+      "shark/spartan-gt-pro",
+      "shoei/gt-air-3"
+    ],
+    "priceRange": {
+      "min": 24840,
+      "max": 28195.2,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-rpha72-kask-mat-siyah",
+        "price": 24840,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mat Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-72-kapali-kask-beyaz",
+        "price": 28195.2,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "RPHA 72'yi öne çıkaran ne?",
+        "a": "HJC, kaskın genel hacminin %4 küçültüldüğünü, sürüklenmenin %19,7 ve kaldırma kuvvetinin %6,2 azaldığını, vizörün hafiflediğini ve ses azaltan ek bir yarım boyun pedi eklendiğini belirtiyor."
+      },
+      {
+        "q": "RPHA 72 Pinlock ile mi geliyor?",
+        "a": "HJC, Pinlock lensinin kaskla birlikte geldiğini belirtiyor. Vizör HJ-48 tipinde."
+      },
+      {
+        "q": "Bedenimi nasıl seçmeliyim?",
+        "a": "HJC tablosuna göre M 57-58 cm, L 58-59 cm. HJC, M bedenin dış hacminin pek çok markanın L bedenine yakın olduğunu söylüyor; yine de mağazada denemek en doğrusu."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/rpha-72-full-face-premium-motorcycle-helmet",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/rpha-72-full-face-premium-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 72 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/rpha-72-full-face-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 72 mağaza sayfası (renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-rpha72-kask-mat-siyah",
+        "type": "retailer",
+        "label": "Ars Motor – HJC RPHA 72",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-72-kapali-kask-beyaz",
+        "type": "retailer",
+        "label": "Motodium – HJC RPHA 72",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "Semi Flat Metallic Blue",
+      "N Gray",
+      "Semi Flat Titanium",
+      "Matte Black",
+      "Metal Black"
+    ],
+    "sizes": [],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 55
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "PIM 2. nesil prepreg kompozit",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": true,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "HJ-48, Pinlock'a hazır, %99 UV korumalı, çizilmeye dirençli",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "ACS (Advanced Channeling Ventilation System)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "SMART HJC Bluetooth sistemiyle uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "rpha-12",
+    "brand": "hjc",
+    "name": "RPHA 12",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask"
+    ],
+    "summary": "HJC'nin sportif sürüş ve pist günleri için tasarlanan kapalı kaskı. PIM EVO kompozit kabuk, arka spoyler, acil durum yanak pedleri ve ECE 22.06 onayı var.",
+    "description": [
+      "RPHA 12, HJC'nin RPHA serisindeki sportif kapalı kaskı. Kabuk PIM EVO adlı karışımdan üretiliyor: karbon-aramid, karbon fiber, cam elyafı, organik dokusuz kumaş ve doğal keten lifi. HJC bu karışımın darbe direncini artırırken kaskı hafiflettiğini söylüyor. ECE 22.06 onaylı.",
+      "Optimize edilmiş kabuk, arka spoyler ve kavisli HJ-42 vizör; kaldırma ve sürüklenme kuvvetini, rüzgâr sesini azaltmak ve yüksek hızda stabiliteyi artırmak için tasarlanmış. HJC'nin MotoGP kasklarından gelen ACS havalandırma sistemi kullanılıyor ve kask HJC'nin kendi rüzgâr tünelinde test ediliyor.",
+      "İç döşeme tamamen çıkarılabiliyor; anti-bakteriyel, nem atan kumaştan yapılmış ve yansıtıcı detaylar içeriyor. Yanak pedleri tüm bedenler arasında değiştirilebiliyor ve kazada kaskın güvenle çıkarılması için acil durum çekme bandı var. HJC Europe sayfasında iç güneş vizörü, ağırlık ve kabuk boyutu bilgisi yer almıyor. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "Spor motor sahipleri ve pist günlerine katılanlar",
+      "Hafif kompozit kabuklu, aerodinamiği öne çıkan bir kask arayanlar",
+      "Değiştirilebilir yanak pedleriyle oturuşu ayarlamak isteyenler"
+    ],
+    "notFor": [
+      "İç güneş vizörü arayanlar; üretici sayfasında böyle bir özellik yer almıyor",
+      "Kuryeler ve şehir içi kullanıcılar: sportif oturuş ve fiyatı bu kullanım için uygun değil"
+    ],
+    "pros": [
+      "PIM EVO çok katmanlı kompozit kabuk",
+      "Arka spoyler ve rüzgâr tünelinde geliştirilmiş aerodinamik",
+      "Acil durum yanak pedi çekme bandı",
+      "Tüm bedenlerde değiştirilebilen yanak pedleri",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk boyutu bilgisi paylaşmıyor",
+      "İç güneş vizörü bilgisi yok; sportif kasklarda genellikle bulunmaz",
+      "Sportif oturuş dik pozisyonda uzun yolda yorucu olabilir",
+      "İnterkom uyumu üretici sayfasında belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Şehirde kullanılabilir ama sportif oturuşu ve güneş vizörü bilgisinin olmaması günlük kullanımda dezavantaj.",
+      "uzunYol": "Sportif motorla uzun yol yapılabilir; konfor odaklı touring kasklar kadar rahat beklenmemeli.",
+      "otoban": "Spoyler ve aerodinamik kabuk yüksek hızda stabilite için tasarlanmış.",
+      "sport": "Asıl alanı: spor motor, viraj ve pist kullanımı.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Üretici sayfasında gözlük uyumuna dair bilgi yok; mağazada denemek gerekir.",
+      "interkom": "Üretici sayfasında interkom hazırlığı belirtilmemiş; genel bir sistem takmadan önce iç yapıyı kontrol et.",
+      "kurye": "Kurye kullanımı için uygun değil; sportif oturuş ve fiyat bu işe göre değil."
+    },
+    "verdict": "RPHA 12, spor motor sahibi ve pist günü meraklısı için HJC'nin güçlü önerisi. PIM EVO kabuk, spoyler ve acil durum pedleri sportif kullanımda önemli. Günlük ve touring kullanım için ise HJC'nin RPHA 72 modeli daha mantıklı.",
+    "rivals": [
+      "agv/k6-s",
+      "shark/spartan-rs",
+      "arai/rx-7v-evo"
+    ],
+    "priceRange": {
+      "min": 24840,
+      "max": 24840,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-rpha12-kask-metal-siyah",
+        "price": 24840,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Metal Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "RPHA 12 pist için uygun mu?",
+        "a": "Kask sportif sürüş için tasarlanmış ve ECE 22.06 onaylı. FIM onayı üretici sayfasında belirtilmediği için FIM şartı olan yarışlarda kullanmadan önce organizasyonun kurallarını kontrol etmek gerekir."
+      },
+      {
+        "q": "RPHA 12'de acil durum sistemi var mı?",
+        "a": "Evet. Yanak pedleri, kazada kaskın güvenle çıkarılması için acil durum çekme bandıyla sökülebiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/rpha-12-full-face-sport-motorcycle-hlmet",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/rpha-12-full-face-sport-motorcycle-hlmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 12 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/rpha-12-sport-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 12 mağaza sayfası (renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-rpha12-kask-metal-siyah",
+        "type": "retailer",
+        "label": "Ars Motor – HJC RPHA 12",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.fim",
+      "specs.headShape",
+      "specs.intercomNotes",
+      "specs.intercomReady",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.retention",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.sunVisor",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "Metal Black",
+      "N Grey",
+      "Semi Flat Titanium",
+      "Matte Black",
+      "Semi Flat Metallic Blue"
+    ],
+    "sizes": [],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 55
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "PIM EVO (karbon-aramid, karbon, cam elyafı, keten lifi karışımı)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "HJ-42 kavisli vizör",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "ACS (Advanced Channeling Ventilation System)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": null,
+      "intercomReady": null,
+      "intercomNotes": null,
+      "spoiler": true,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "f100",
+    "brand": "hjc",
+    "name": "F100",
+    "subcategories": [
+      "cene-acilir-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "HJC'nin çene bölümü kaskın arkasına dönen modüler kaskı. Cam elyafı kompozit kabuk, iç güneş vizörü ve hoparlör cepleriyle tam kapalı ya da açık kask gibi kullanılabiliyor.",
+    "description": [
+      "F100, HJC'nin dönen çene sistemine sahip modüler kaskı: çene bölümü kaskın üzerinden arkaya dönerek açık kask düzenine geçiyor. Kabuk HJC'nin Advanced Fiberglass Composite (AFC) adlı cam elyafı kompozitinden üretiliyor. ECE 22.06 onaylı; üretici kaskın hem tam kapalı hem açık düzende kullanılabildiğini belirtiyor.",
+      "İç güneş vizörü 8 mm'ye kadar daha aşağı uzayacak şekilde ayarlanabiliyor. Kompakt vizör mekanizması ve vizörü kapalı konumda kilitleyen vizör kilidi rüzgâr sesini azaltmak ve vizörün kalkmasını önlemek için tasarlanmış. Havalandırmada üç giriş ve beş çıkış var; büyütülmüş alın ve ağız girişleri buğulanmayı azaltmayı hedefliyor.",
+      "Kaskta hazır hoparlör cepleri var; böylece Bluetooth interkom kurulumu aletsiz yapılabiliyor. Bedenler XS'ten 3XL'e kadar. Üretici ağırlık ve kabuk boyutu sayısı vermiyor; garanti 3 yıl (üretimden itibaren en fazla 5 yıl)."
+    ],
+    "forWho": [
+      "Uzun yolda çeneyi tamamen arkaya alıp açık kask gibi sürmek isteyenler",
+      "Şehir içinde sık durup konuşan, kaskı çıkarmadan su içmek isteyen sürücüler",
+      "Gözlük kullanan ve modüler kaskın kolaylığını isteyenler"
+    ],
+    "notFor": [
+      "Ağırlık bilgisini önceden görmek isteyenler; üretici paylaşmıyor",
+      "Bütçesi çok sınırlı kuryeler: fiyatı ve mekanizmalı yapısı yoğun kurye kullanımı için pahalı kalabilir"
+    ],
+    "pros": [
+      "Arkaya dönen çene sistemiyle açık kask düzeninde dengeli kullanım",
+      "Cam elyafı kompozit kabuk",
+      "İç güneş vizörü ve vizör kilidi",
+      "Hazır hoparlör cepleri, XS–3XL beden aralığı"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk boyutu sayısını vermiyor",
+      "P/J onay detayı üretici sayfasında açıkça yazılmıyor",
+      "Pinlock bilgisi üretici sayfasında yok",
+      "Garanti 3 yıl; HJC'nin RPHA serisindeki 5 yıldan kısa"
+    ],
+    "usage": {
+      "sehir": "Çeneyi arkaya almak şehirde ferahlık sağlar; iç güneş vizörü de işe yarar.",
+      "uzunYol": "Modüler yapı ve iç vizörle uzun yola uygun; ağırlık bilgisi olmadığı için mağazada denemek önemli.",
+      "otoban": "Vizör kilidi ve aerodinamik kabuk yüksek hızda sessizlik ve denge için tasarlanmış; otobanda çene kapalı sürülmeli.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliksiz; asfalt odaklı.",
+      "gozluk": "Modüler yapı gözlükle takıp çıkarmayı kolaylaştırır.",
+      "interkom": "Hazır hoparlör cepleri sayesinde genel Bluetooth interkomlar kolay takılır.",
+      "kurye": "Çenenin dönmesi teslimatlarda pratik; mekanizma bakımı ve fiyatı yoğun kullanımda göz önüne alınmalı."
+    },
+    "verdict": "F100, çeneyi arkaya döndürerek açık kask gibi kullanılabilen, cam elyafı kabuklu ve iç güneş vizörlü bir modüler arayan için ilginç bir seçenek. Fiyatı RPHA 91'in altında. Üreticinin ağırlık ve P/J onay detayını açıkça paylaşmaması ise eksik.",
+    "rivals": [
+      "agv/tourmodular",
+      "hjc/rpha-91",
+      "shark/oxo"
+    ],
+    "priceRange": {
+      "min": 21600,
+      "max": 21600,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-f100-kask-metal-siyah",
+        "price": 21600,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Metal Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "F100'ün çenesi nasıl açılıyor?",
+        "a": "F100'de çene bölümü yukarı kalkıp kaskın üzerinden arkaya dönüyor; böylece kask açık kask düzenine geçiyor."
+      },
+      {
+        "q": "F100'e interkom takılır mı?",
+        "a": "Evet. Kaskta hazır hoparlör cepleri var; Bluetooth interkomlar aletsiz takılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/f100-modular-motorcycle-helmet",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/f100-modular-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe F100 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/f100-rotational-modular-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe F100 mağaza sayfası (beden, renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-f100-kask-metal-siyah",
+        "type": "retailer",
+        "label": "Ars Motor – HJC F100",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.retention",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "Metal Black",
+      "Semi Flat Metallic Blue",
+      "Semi Flat Black",
+      "N Gray",
+      "Semi Flat Titanium"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 55
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      },
+      {
+        "size": "3XL",
+        "min": 64,
+        "max": 65
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "AFC (Advanced Fiberglass Composite)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Kompakt mekanizma, vizör kilidi",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "3 giriş, 5 çıkış; büyütülmüş alın ve ağız girişleri",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "Hazır hoparlör cepleri; genel Bluetooth interkomlar için.",
+      "spoiler": null,
+      "warrantyYears": 3,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "rpha-60",
+    "brand": "hjc",
+    "name": "RPHA 60",
+    "subcategories": [
+      "adventure-kask",
+      "touring-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "HJC'nin premium adventure kaskı. PIM kompozit kabuk, aletsiz sökülen siperlik, iç güneş vizörü, titanyum Double D ve SMART HJC uyumu var.",
+    "description": [
+      "RPHA 60, HJC'nin arazi patikaları ve uzun yol için tasarladığı çift amaçlı (adventure) kask. Kabuk HJC'nin ikinci nesil PIM prepreg kompozitinden üretiliyor. ECE 22.06 onaylı.",
+      "Aerodinamik siperlik aletsiz takılıp çıkarılabiliyor; böylece kask asfaltta siperliksiz de kullanılabiliyor. HJ-47 vizör Pinlock'a hazır, %99 UV korumalı ve çizilmeye dirençli. Kademeli ayarlanan iç güneş vizörü buğu önleyici kaplamalı. ACS havalandırma sistemi farklı koşullarda gün boyu konfor için kurgulanmış.",
+      "RPHA Premium Fit iç döşeme anti-bakteriyel, nem atan kumaştan; yanak pedleri bedenler arasında değiştirilebiliyor ve acil durum çekme bandı var. Çene kilidi titanyum Double D. Ayrı satılan ikinci nesil SMART HJC interkom kaskla bütünleşik çalışacak şekilde tasarlanmış. Üretici ağırlık ve kabuk boyutu sayısı vermiyor; garanti 5 yıl."
+    ],
+    "forWho": [
+      "Adventure motorla asfalt ve toprak yolu karıştıran sürücüler",
+      "Siperliği gerektiğinde çıkarıp kaskı asfaltta da kullanmak isteyenler",
+      "İç güneş vizörü ve entegre interkom isteyen uzun yol sürücüleri"
+    ],
+    "notFor": [
+      "Kuryeler ve şehir içi kullanıcılar: siperlikli yapı ve fiyatı bu iş için uygun değil",
+      "Ağırlık bilgisini önceden görmek isteyenler; üretici paylaşmıyor"
+    ],
+    "pros": [
+      "PIM prepreg kompozit kabuk",
+      "Aletsiz sökülebilen siperlik",
+      "İç güneş vizörü ve Pinlock'a hazır vizör",
+      "Acil durum yanak pedleri, titanyum Double D",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk boyutu sayısını vermiyor",
+      "Pinlock lensinin kutuda olup olmadığı belirtilmemiş",
+      "SMART HJC interkom ayrı satılıyor",
+      "Siperlik otoban hızında rüzgâr yükü getirebilir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama siperlikli yapı şehirde gereksiz hacim yaratır.",
+      "uzunYol": "İç vizör, ACS havalandırma ve interkom uyumuyla uzun turlar için uygun.",
+      "otoban": "Siperlik yüksek hızda rüzgâr yükü oluşturabilir; gerekirse aletsiz sökülebilmesi avantaj.",
+      "sport": "Sportif asfalt sürüşü için tasarlanmamış.",
+      "adventure": "Asıl alanı: siperlik, geniş vizör ve havalandırma toprak yolda işe yarar.",
+      "gozluk": "Üretici sayfasında gözlük uyumu belirtilmemiş; mağazada denemek gerekir.",
+      "interkom": "İkinci nesil SMART HJC sistemiyle bütünleşik çalışacak şekilde tasarlanmış (ayrı satılır).",
+      "kurye": "Kurye kullanımı için uygun değil; fiyatı ve siperlikli yapısı bu işe göre değil."
+    },
+    "verdict": "RPHA 60, iç güneş vizörlü ve entegre interkom seçeneği olan premium bir adventure kask arayan için güçlü bir aday. PIM kabuk, aletsiz siperlik ve 5 yıl garanti öne çıkıyor. Üreticinin ağırlık bilgisi vermemesi, hafiflik konusunda karşılaştırma yapmayı zorlaştırıyor.",
+    "rivals": [
+      "agv/ax9"
+    ],
+    "priceRange": {
+      "min": 27000,
+      "max": 27000,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-rpha60-kask-metal-siyah",
+        "price": 27000,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Metal Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "RPHA 60'ın siperliği çıkarılabilir mi?",
+        "a": "Evet. Siperlik aletsiz takılıp çıkarılabiliyor; kask siperliksiz olarak asfaltta da kullanılabiliyor."
+      },
+      {
+        "q": "RPHA 60'ta güneş vizörü var mı?",
+        "a": "Evet. Kademeli ayarlanabilen, buğu önleyici kaplamalı bir iç güneş vizörü var."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/rpha-60-adventure-motorcycle-helmet-full-face",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/rpha-60-adventure-motorcycle-helmet-full-face",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 60 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/rpha-60-adventure-full-face-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 60 mağaza sayfası (beden, renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-rpha60-kask-metal-siyah",
+        "type": "retailer",
+        "label": "Ars Motor – HJC RPHA 60",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.pinlockIncluded",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "Semi Flat Metallic Blue",
+      "N Gray",
+      "Semi Flat Sand Beige",
+      "Semi Flat Titanium",
+      "Matte Black",
+      "Metal Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 55
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "adventure",
+      "shellMaterial": "PIM 2. nesil prepreg kompozit",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "HJ-47, Pinlock'a hazır, %99 UV korumalı, çizilmeye dirençli; aletsiz sökülen siperlik",
+      "pinlock": true,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "ACS (Advanced Channeling Ventilation System)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "İkinci nesil SMART HJC ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "rpha-31",
+    "brand": "hjc",
+    "name": "RPHA 31",
+    "subcategories": [
+      "acik-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "HJC'nin premium açık kaskı. PIM EVO kompozit kabuk, uzatılmış kabuk ve çene EPS'si, iç güneş vizörü ve SMART HJC uyumuyla şehir ve kısa tur için.",
+    "description": [
+      "RPHA 31, HJC'nin üst segment açık (jet) kaskı. Kabuk PIM EVO karışımından (karbon-aramid, karbon fiber, cam elyafı, organik dokusuz kumaş ve keten lifi) ve çok yoğunluklu EPS'den oluşuyor. ECE 22.06 onaylı; rüzgâr tünelinde test edilmiş.",
+      "HJC, uzatılmış kabuk ve çene bölgesine doğru uzanan EPS sayesinde kaskın klasik açık kasklara göre daha sıkı, kapalı kaska yakın bir oturuş sunduğunu söylüyor. Açılabilir vizör deflektörü ve yenilenen vizör tutucu, rüzgâr sesini azaltmak ve vizörün yüksek hızda sabit durmasını sağlamak için tasarlanmış. Kademeli ayarlanan iç güneş vizörü buğu önleyici kaplamalı.",
+      "RPHA Premium Fit iç döşeme anti-bakteriyel ve hızlı kuruyan kumaştan; yanak pedleri bedenler arasında değiştirilebiliyor. Kask SENA ile geliştirilen ikinci nesil SMART HJC interkomla uyumlu (ayrı satılır). Bedenler S–2XL. Üretici ağırlık bilgisi vermiyor. Açık kask olduğu için çene koruması yok."
+    ],
+    "forWho": [
+      "Şehir içinde ve kısa turda premium bir açık kask isteyenler",
+      "Sıcak havada ferahlık arayan scooter ve klasik motor kullanıcıları",
+      "Açık kaskta bile sıkı bir oturuş ve iç güneş vizörü isteyenler"
+    ],
+    "notFor": [
+      "Otoban ve uzun yol kullanıcıları: çene koruması yok",
+      "Kuryeler için tek başına önerilmez: çene koruması olmayan kask günde saatlerce trafikte risklidir; fiyatı da yüksek"
+    ],
+    "pros": [
+      "PIM EVO kompozit kabuk, çok yoğunluklu EPS",
+      "Uzatılmış kabukla açık kask için sıkı oturuş",
+      "İç güneş vizörü ve vizör deflektörü",
+      "SMART HJC ikinci nesil interkom uyumu"
+    ],
+    "cons": [
+      "Açık kask: çene korunmuyor",
+      "Açık kask için fiyatı yüksek",
+      "Üretici ağırlık ve garanti süresini bu model sayfasında belirtmiyor",
+      "XS beden yok (S–2XL)"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: ferah, kolay takılan ve iç vizörlü bir şehir kaskı.",
+      "uzunYol": "Kısa turlarda keyifli; uzun yolda rüzgâr ve ses yorar, çene koruması da yok.",
+      "otoban": "Vizör tutucu ve deflektör yüksek hızda vizörü sabitlemek için tasarlanmış; yine de otobanda kapalı kask daha güvenli.",
+      "sport": "Sportif sürüş için uygun değil.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Açık yapısı gözlükle kullanımı kolaylaştırır.",
+      "interkom": "İkinci nesil SMART HJC ile uyumlu (ayrı satılır).",
+      "kurye": "Teslimatta pratik ama çene koruması olmadığı ve fiyatı yüksek olduğu için yoğun kurye kullanımına uygun değil."
+    },
+    "verdict": "RPHA 31, açık kaskta premium malzeme, sıkı oturuş ve entegre interkom isteyen şehir sürücüsü için iyi bir seçim. İç güneş vizörü ve vizör deflektörü günlük kullanımı kolaylaştırıyor. Çene koruması olmadığı ve fiyatının yüksek olduğu unutulmamalı.",
+    "rivals": [
+      "agv/irides",
+      "shark/rs-jet"
+    ],
+    "priceRange": {
+      "min": 27904.12,
+      "max": 27904.12,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-31-acik-kask-solid-jet-siyah",
+        "price": 27904.12,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "RPHA 31'de güneş vizörü var mı?",
+        "a": "Evet. Kademeli ayarlanabilen, buğu önleyici kaplamalı bir iç güneş vizörü var."
+      },
+      {
+        "q": "RPHA 31 hangi bedenlerde var?",
+        "a": "HJC Europe mağazasında S'ten 2XL'e kadar bedenler listeleniyor. HJC tablosuna göre S 55-56 cm, 2XL 62-63 cm kafa çevresine karşılık geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/rpha-31-premium-open-face-motorcycle-helmet",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/rpha-31-premium-open-face-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 31 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/rpha-31-open-face-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe RPHA 31 mağaza sayfası (beden, renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/hjc-rpha-31-acik-kask-solid-jet-siyah",
+        "type": "retailer",
+        "label": "Motodium – HJC RPHA 31",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.retention",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.warrantyYears",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "Matte Black",
+      "N Gray",
+      "Metal Black",
+      "Semi Flat Titanium",
+      "Semi Flat Metallic Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "PIM EVO (karbon-aramid, karbon, cam elyafı, keten lifi karışımı)",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "Açılabilir vizör deflektörü, yenilenmiş vizör tutucu",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": true,
+      "ventilation": "ACS (Advanced Channeling Ventilation System)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": null,
+      "intercomReady": true,
+      "intercomNotes": "SENA ile geliştirilen ikinci nesil SMART HJC ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "c71",
+    "brand": "hjc",
+    "name": "C71",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "HJC'nin uygun fiyatlı spor-touring kapalı kaskı. Polikarbonat kompozit kabuk, ECE 22.06, yıkanabilir iç döşeme ve hoparlör cepleriyle şehir ve günlük kullanım için.",
+    "description": [
+      "C71, HJC'nin spor ve naked motor sürücüleriyle şehir içi kullanıcılarını hedefleyen giriş seviyesi kapalı kaskı. Kabuk HJC'nin hafif APC (Advanced Polycarbonate Compound) polikarbonat kompozitinden üretiliyor. ECE 22.06 onaylı.",
+      "Yarış esintili tasarım kaldırma ve sürüklenme kuvvetini azaltarak yüksek hızda dengeyi artırmayı hedefliyor. HJ-34P vizör %99 UV korumalı ve çizilmeye dirençli. HJC'nin ACS havalandırma sistemi kullanılıyor; üretici sayfasında hem iki giriş-bir çıkış hem de üç giriş-beş çıkış ifadesi geçtiği için tam sayıyı mağazada kontrol etmek gerekiyor.",
+      "Perfect Fit iç döşeme anti-bakteriyel, nem atan ve hızlı kuruyan kumaştan; tamamı çıkarılıp yıkanabiliyor ve yanak pedleri bedenler arasında değiştirilebiliyor. Bluetooth için hoparlör cepleri ve Double D çene kilidi var. Üretici ağırlık bilgisi vermiyor; garanti 3 yıl."
+    ],
+    "forWho": [
+      "Bütçesi sınırlı ama markalı, ECE 22.06 onaylı bir kapalı kask arayanlar",
+      "Naked ya da spor motorla şehir içi ve kısa yol kullanıcıları",
+      "Kendi Bluetooth interkomunu takmak isteyenler"
+    ],
+    "notFor": [
+      "Uzun yolda üst düzey sessizlik ve hafiflik bekleyenler",
+      "İç güneş vizörü arayanlar; üretici sayfasında yer almıyor"
+    ],
+    "pros": [
+      "Uygun fiyat, ECE 22.06 onayı",
+      "Tamamen çıkarılıp yıkanabilen iç döşeme",
+      "Hoparlör cepleri ve Double D kilit",
+      "Değiştirilebilir yanak pedleri"
+    ],
+    "cons": [
+      "Üretici ağırlık ve kabuk boyutu sayısını vermiyor",
+      "İç güneş vizörü ve Pinlock bilgisi üretici sayfasında yok",
+      "Havalandırma sayısı üretici sayfasında çelişkili veriliyor",
+      "Polikarbonat kabuk, fiber kasklara göre daha hacimli olabilir"
+    ],
+    "usage": {
+      "sehir": "Uygun fiyatı ve yıkanabilir iç döşemesiyle şehir için pratik.",
+      "uzunYol": "Kısa ve orta mesafede yeterli; uzun yolda daha sessiz ve donanımlı kasklar daha rahat ettirir.",
+      "otoban": "Aerodinamik tasarım yüksek hızda dengeyi hedefliyor; ses yalıtımı fiyat sınıfına göre beklenmeli.",
+      "sport": "Naked ve spor motorlarda sportif kullanım için uygun bir giriş kaskı.",
+      "adventure": "Siperliksiz; arazi odaklı değil.",
+      "gozluk": "Üretici sayfasında gözlük kanalından söz edilmiyor; mağazada denemek gerekir.",
+      "interkom": "Hoparlör cepleri sayesinde genel Bluetooth interkomlar takılabilir.",
+      "kurye": "Fiyatı ve yıkanabilir iç döşemesiyle kurye kullanımına uygun bir seçenek; güneş vizörü bilgisi olmadığı için güneşli günlerde koyu vizör gerekebilir."
+    },
+    "verdict": "C71, bütçe odaklı ama tanınmış bir markadan ECE 22.06 onaylı kapalı kask isteyen için mantıklı bir seçim. Yıkanabilir iç döşeme ve hoparlör cepleri günlük kullanımda işe yarıyor. Üreticinin ağırlık ve güneş vizörü konusunda bilgi vermemesi ise eksik.",
+    "rivals": [
+      "agv/k1-s",
+      "shark/ridill-2",
+      "ls2/ff800-storm-ii"
+    ],
+    "priceRange": {
+      "min": 8100,
+      "max": 9720,
+      "currency": "TRY",
+      "checkedAt": "2026-10-06"
+    },
+    "offers": [
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-c71-kask-inci-beyazi",
+        "price": 8100,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "İnci Beyazı"
+        ],
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "seller": "Ars Motor",
+        "url": "https://www.arsmotor.com/urun/hjc-c71-kask-faber-mc7",
+        "price": 9720,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Faber MC7"
+        ],
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "C71 ile i71 arasındaki fark ne?",
+        "a": "İkisi de HJC'nin polikarbonat kabuklu kapalı kaskları. i71 iç güneş vizörlü bir üst model; C71 daha sade ve daha uygun fiyatlı bir giriş modeli."
+      },
+      {
+        "q": "C71'e interkom takılır mı?",
+        "a": "Evet. Kaskta Bluetooth interkom için hoparlör cepleri var."
+      }
+    ],
+    "manufacturerUrl": "https://hjchelmets.eu/pages/c71",
+    "sources": [
+      {
+        "url": "https://hjchelmets.eu/pages/c71",
+        "type": "manufacturer",
+        "label": "HJC Europe C71 sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/products/c71-full-face-motorcycle-helmet",
+        "type": "manufacturer",
+        "label": "HJC Europe C71 mağaza sayfası (renkler)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://hjchelmets.eu/pages/size-chart",
+        "type": "manufacturer",
+        "label": "HJC Europe beden tablosu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-c71-kask-inci-beyazi",
+        "type": "retailer",
+        "label": "Ars Motor – HJC C71",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-c71-kask-faber-mc7",
+        "type": "retailer",
+        "label": "Ars Motor – HJC C71",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizes",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.madeIn",
+      "specs.pinlock",
+      "specs.pinlockIncluded",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.sunVisor",
+      "specs.weightGrams",
+      "specs.weightSize"
+    ],
+    "colors": [
+      "Pearl White",
+      "N Gray",
+      "Semi Flat Black",
+      "Metal Black"
+    ],
+    "sizes": [],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 54,
+        "max": 55
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 58,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 61
+      },
+      {
+        "size": "2XL",
+        "min": 62,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "APC (Advanced Polycarbonate Compound)",
+      "materialClass": "termoplastik",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": null,
+      "weightSize": null,
+      "headShape": null,
+      "visor": "HJ-34P, %99 UV korumalı, çizilmeye dirençli",
+      "pinlock": null,
+      "pinlockIncluded": null,
+      "sunVisor": null,
+      "ventilation": "ACS (Advanced Channeling Ventilation System)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": true,
+      "linerWashable": true,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Bluetooth interkom için hoparlör cepleri.",
+      "spoiler": null,
+      "warrantyYears": 3,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "spartan-gt-pro",
+    "brand": "shark",
+    "name": "Spartan GT Pro",
+    "subcategories": [
+      "kapali-kask",
+      "touring-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shark'ın karbon ve cam elyafı kabuklu spor-touring kapalı kaskı. 1.465 g, iç güneş vizörü, kutudan çıkan Pinlock 120 ve acil durum sökme sistemi var.",
+    "description": [
+      "Spartan GT Pro, Shark'ın Spartan ailesinde touring konforunu öne çıkaran kapalı kask; Shark'ın sitesinde karbon kabuklu versiyonlarıyla listeleniyor. Kabuk karbon ve cam elyafı kompozitinden, EPS çok yoğunluklu. Üretici ilk kabuk bedeninde 1.465 g veriyor. ECE 22.06 onaylı.",
+      "Vizör optik sınıf 1, çizilmeye dirençli ve Shark'ın yarış kaskı Race-R Pro GP'den gelen dört noktalı kilitlemeye sahip. Kutudan Pinlock 120 Max Vision lensi çıkıyor. UV380 iç güneş vizörü buğu önleyici. Rüzgâr tünelinde şekillendirilen kabuk ve çok kanallı havalandırma (ön girişler ve arka çıkışlar) var.",
+      "İç döşeme antimikrobiyal ALVEOTECH kumaştan. SHARK Emergency Release sistemi kazada kaskın hızlı çıkarılmasına yardım ediyor. Çene kilidi Double D. Kask Sharktooth ve SENA for SHARK interkomlarıyla uyumlu; kutuda kask kılıfı ve yansıtıcı bantlar da var. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "Hem viraj hem uzun yol yapan, hafif bir karbon kask arayan sürücüler",
+      "İç güneş vizörü ve Pinlock lensini kutudan isteyenler",
+      "Shark'ın entegre interkom seçeneklerini kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Bütçe odaklı alıcılar ve kuryeler: karbon kabuk fiyatı yoğun kurye kullanımına göre yüksek",
+      "Türkiye'de kolay bulunabilir ve hemen değiştirilebilir bir model isteyenler; yerel satış bilgisi sınırlı"
+    ],
+    "pros": [
+      "Karbon-cam elyafı kabuk, 1.465 g",
+      "İç güneş vizörü, Pinlock 120 kutuda",
+      "Dört noktalı vizör kilidi, optik sınıf 1",
+      "Acil durum sökme sistemi, Double D kilit",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "Kabuk boyutu sayısı üretici sayfasında yok",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "Karbon versiyonlar fiyatı yükseltiyor",
+      "İnterkom ünitesi ayrı satılıyor"
+    ],
+    "usage": {
+      "sehir": "İç vizörü sayesinde şehirde rahat; Double D kilit sık takıp çıkarmada biraz yavaş.",
+      "uzunYol": "Hafif kabuk, iç vizör ve Pinlock 120 ile uzun yol için iyi donatılmış.",
+      "otoban": "Rüzgâr tünelinde geliştirilen kabuk ve dört noktalı vizör kilidi yüksek hızda denge ve sızdırmazlık için tasarlanmış.",
+      "sport": "Spartan ailesinin sportif kökeni nedeniyle viraj sürüşüne de uygun.",
+      "adventure": "Siperliksiz; asfalt odaklı.",
+      "gozluk": "Shark, kaskın gözlükle uyumlu olduğunu belirtiyor.",
+      "interkom": "Sharktooth ve SENA for SHARK interkomlarıyla uyumlu (ayrı satılır).",
+      "kurye": "Kullanılabilir ama karbon kabuk fiyatı yoğun kurye kullanımı için ekonomik değil."
+    },
+    "verdict": "Spartan GT Pro, hafif karbon kabuk, iç güneş vizörü ve kutudan çıkan Pinlock 120'yi bir arada isteyen spor-touring sürücüsü için güçlü bir seçenek. Acil durum sökme sistemi ve 5 yıl garanti artı. Türkiye'de satış ve fiyat bilgisini doğrulayamadığımız için almadan önce yetkili satıcıyla görüşmek gerekiyor.",
+    "rivals": [
+      "agv/k7",
+      "hjc/rpha-72",
+      "shoei/gt-air-3"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Spartan GT Pro kaç gram?",
+        "a": "Shark, ilk kabuk bedeninde 1.465 g veriyor. Büyük bedenlerde ağırlık artar."
+      },
+      {
+        "q": "Spartan GT Pro Pinlock ile mi geliyor?",
+        "a": "Evet. Shark, Pinlock 120 Max Vision lensinin kutuda olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/spartan-gt-pro-carbon-skin-matte-he1351edma",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/spartan-gt-pro-carbon-skin-matte-he1351edma",
+        "type": "manufacturer",
+        "label": "Shark Spartan GT Pro Carbon Skin ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Karbon ve cam elyafı kompozit",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1465,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Optik sınıf 1, çizilmeye dirençli, 4 noktalı kilit, kolay söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çok kanallı: ön girişler ve arka çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": true,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Sharktooth ve SENA for SHARK ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "spartan-rs",
+    "brand": "shark",
+    "name": "Spartan RS",
+    "subcategories": [
+      "kapali-kask",
+      "racing-kask",
+      "fiber-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shark'ın ECE 22.06 onayı alan ilk kaskı. Çok eksenli kompozit kabuk, dört noktalı vizör kilidi, iç güneş vizörü ve Pinlock 120 ile sportif bir kapalı kask.",
+    "description": [
+      "Spartan RS, Shark'ın ECE 22.06 onayı alan ilk kaskı olarak tanıtılıyor. Kabuk çok eksenli (multiaxial) kompozitten, EPS çok yoğunluklu. Üretici ilk kabuk bedeninde 1.500 g veriyor.",
+      "Yarış esintili yapıda dört noktalı kilitlenen, darbeye dayanıklı ve optik sınıf 1 bir vizör var; kutudan Pinlock 120 Max Vision lensi çıkıyor. İç güneş vizörü de bulunuyor. Aerodinamik profil sürüklenmeyi, türbülansı ve sesi azaltmak için tasarlanmış.",
+      "İç döşeme ALVEOTECH kumaş ile suni deri karışımından ve neo-retro bir görünüm veriyor. Sökülebilir türbülans önleyici bir parça var. Çene kilidi Double D. Kask Sharktooth ve SENA for SHARK interkomlarıyla uyumlu. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "Spor ve naked motorla sportif sürüş yapanlar",
+      "Sportif bir kaskta iç güneş vizöründen vazgeçmek istemeyenler",
+      "Neo-retro iç döşeme ve sade grafik seçeneklerini beğenenler"
+    ],
+    "notFor": [
+      "Saf pist kullanımı için FIM onaylı kask arayanlar",
+      "Bütçe odaklı kuryeler: fiyatı yoğun kurye kullanımına göre yüksek"
+    ],
+    "pros": [
+      "Çok eksenli kompozit kabuk, ECE 22.06",
+      "Dört noktalı vizör kilidi, Pinlock 120 kutuda",
+      "Sportif kaskta iç güneş vizörü",
+      "Double D kilit, 5 yıl garanti"
+    ],
+    "cons": [
+      "1.500 g ile karbon rakiplerinden ağır",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "Kabuk boyutu sayısı üretici sayfasında yok",
+      "İnterkom ünitesi ayrı satılıyor"
+    ],
+    "usage": {
+      "sehir": "İç güneş vizörü şehirde işe yarar; sportif oturuş dik motorda biraz öne eğik hissettirebilir.",
+      "uzunYol": "Pinlock 120 ve iç vizörle uzun yola da uygun; touring odaklı kasklar kadar sessiz beklenmemeli.",
+      "otoban": "Aerodinamik profil ve dört noktalı vizör kilidi yüksek hızda dengeyi hedefliyor.",
+      "sport": "Asıl alanı: sportif asfalt sürüşü.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Shark, kaskın gözlükle uyumlu olduğunu belirtiyor.",
+      "interkom": "Sharktooth ve SENA for SHARK ile uyumlu (ayrı satılır).",
+      "kurye": "Teknik olarak uygun ama sportif oturuş ve fiyatı yoğun kurye kullanımı için ideal değil."
+    },
+    "verdict": "Spartan RS, sportif bir kapalı kaskta iç güneş vizörü ve kutudan çıkan Pinlock 120 isteyen sürücü için dengeli bir seçenek. Ağırlığı karbon rakiplerinin biraz üzerinde. Türkiye'de fiyat ve stok bilgisini doğrulayamadık.",
+    "rivals": [
+      "hjc/rpha-12",
+      "agv/k6-s",
+      "agv/k7"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Spartan RS'te güneş vizörü var mı?",
+        "a": "Evet. Shark ürün sayfasında iç güneş vizörü listeleniyor."
+      },
+      {
+        "q": "Spartan RS kaç gram?",
+        "a": "Shark, ilk kabuk bedeninde 1.500 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/spartan-rs-blank-matte-he8102ekma",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/spartan-rs-blank-matte-he8102ekma",
+        "type": "manufacturer",
+        "label": "Shark Spartan RS Blank ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Çok eksenli (multiaxial) kompozit",
+      "materialClass": "fiber",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1500,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Optik sınıf 1, darbeye dayanıklı, çizilmeye dirençli, 4 noktalı kilit",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çok kanallı: ön girişler ve arka çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "double-d",
+      "intercomReady": true,
+      "intercomNotes": "Sharktooth ve SENA for SHARK ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "skwal-i3",
+    "brand": "shark",
+    "name": "Skwal i3",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Entegre aktif LED fren lambasına sahip kapalı kask. Lexan kabuk, iç güneş vizörü, kutudan çıkan Pinlock 70 ve SENA for SHARK uyumu var.",
+    "description": [
+      "Skwal i3, Shark'ın entegre aktif LED fren lambalarına sahip kapalı kaskı; Shark bunu bu özelliğe sahip ilk kapalı kask olarak tanıtıyor. Kabuk Lexan (polikarbonat), EPS çok yoğunluklu. Üretici ilk kabuk bedeninde 1.570 g veriyor. ECE 22.06 onaylı.",
+      "Kaskın arkasındaki LED'ler fren yapıldığında yanarak arkadaki sürücülere ek görünürlük sağlamayı hedefliyor. Vizör optik sınıf 1, çizilmeye dirençli ve hızlı sökülebiliyor; Pinlock 70 lensi kutudan çıkıyor. Çizilmeye dirençli ve buğu önleyici bir iç güneş vizörü var.",
+      "Shark'ın BEST FIT iç yapısı ve mikrometrik çene kilidi kullanılıyor. Kask SENA for SHARK ve Sharktooth interkomlarıyla uyumlu; kutuda kask kılıfı ve yansıtıcı bantlar var. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "Gece ve şehir trafiğinde arkadan görünürlüğü artırmak isteyenler",
+      "İç güneş vizörlü, Pinlock'u kutudan çıkan uygun fiyatlı bir kask arayanlar",
+      "Kurye ve yoğun şehir içi kullanıcıları"
+    ],
+    "notFor": [
+      "Hafiflik arayanlar: Lexan kabukla 1.570 g",
+      "Sportif sürüşte en kompakt kaskı isteyenler"
+    ],
+    "pros": [
+      "Entegre aktif LED fren lambası",
+      "İç güneş vizörü, Pinlock 70 kutuda",
+      "Mikrometrik kilit günlük kullanımda pratik",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "1.570 g ile ağır sayılır",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "LED sisteminin şarj ve bakım gerektirmesi ek bir iş",
+      "Kabuk boyutu sayısı üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: LED fren lambası ve iç vizör şehir trafiğinde fayda sağlar.",
+      "uzunYol": "Pinlock ve iç vizörle uzun yolda kullanılabilir; ağırlığı uzun etapta hissedilebilir.",
+      "otoban": "Otobanda LED'ler arkadan görünürlüğe katkı sağlar; ses yalıtımı fiyat sınıfına göre beklenmeli.",
+      "sport": "Sportif görünümlü ama ağırlığı nedeniyle pist odaklı değil.",
+      "adventure": "Siperliksiz; arazi odaklı değil.",
+      "gozluk": "Shark, kaskın gözlükle uyumlu olduğunu belirtiyor.",
+      "interkom": "SENA for SHARK ve Sharktooth ile uyumlu (ayrı satılır).",
+      "kurye": "LED fren lambası, iç vizör, Pinlock ve mikrometrik kilit kurye kullanımında pratik; ağırlığı uzun mesailerde hissedilir."
+    },
+    "verdict": "Skwal i3, arkadan görünürlüğe önem veren şehir ve kurye kullanıcısı için farklı bir seçenek. LED fren lambası, iç güneş vizörü ve kutudan çıkan Pinlock 70 günlük kullanımda değerli. Ağırlığı ve LED sisteminin bakım gerektirmesi ise eksileri.",
+    "rivals": [
+      "agv/k3",
+      "hjc/i71",
+      "ls2/ff800-storm-ii"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Skwal i3'teki LED'ler ne işe yarıyor?",
+        "a": "Kaskın arkasındaki entegre aktif LED'ler fren yapıldığında yanarak arkadaki araçlara ek görünürlük sağlamayı amaçlıyor."
+      },
+      {
+        "q": "Skwal i3 kaç gram?",
+        "a": "Shark, ilk kabuk bedeninde 1.570 g veriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/skwal-i3-blank-sp-matte-he0811ekak",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/skwal-i3-blank-sp-matte-he0811ekak",
+        "type": "manufacturer",
+        "label": "Shark Skwal i3 Blank SP ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Lexan (polikarbonat)",
+      "materialClass": "termoplastik",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1570,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Optik sınıf 1, çizilmeye dirençli, hızlı söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Çok kanallı: ön girişler ve arka çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "SENA for SHARK ve Sharktooth ile uyumlu, ayrı satılır. Entegre aktif LED fren lambaları.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "ridill-2",
+    "brand": "shark",
+    "name": "Ridill 2",
+    "subcategories": [
+      "kapali-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shark'ın giriş seviyesi kapalı kaskı. Termoplastik kabuk, 1.470 g, iç güneş vizörü ve Pinlock 70'e hazır vizörle fiyatına göre zengin donanım.",
+    "description": [
+      "Ridill 2, Shark'ın bütçe dostu kapalı kaskının ikinci nesli. Kabuk enjeksiyon Lexan (termoplastik), EPS çok yoğunluklu. Üretici ilk kabuk bedeninde 1.470 g veriyor; bu, termoplastik bir kask için hafif bir değer. ECE 22.06 onaylı.",
+      "Vizör optik sınıf 1 ve çizilmeye dirençli; Pinlock 70 lensine hazır ama lens kutudan çıkmıyor. Vizör gerginliği kollarla ayarlanabiliyor ve hava akışı için hafif aralık (air stream) konumu var. Çizilmeye dirençli ve buğu önleyici bir iç güneş vizörü bulunuyor.",
+      "Patentli aletsiz vizör söküm sistemi ve yine patentli tekstil sabitleme sistemi bakım işlerini kolaylaştırıyor. Çene kilidi mikrometrik. Kask SENA for SHARK ve Sharktooth interkomlarıyla uyumlu. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "İlk kaskını alan ve bütçesini korumak isteyen sürücüler",
+      "Şehir içi ve günlük kullanım için iç güneş vizörlü bir kapalı kask arayanlar",
+      "Kurye ve yoğun şehir içi kullanıcıları"
+    ],
+    "notFor": [
+      "Uzun yolda üst düzey sessizlik ve konfor bekleyenler",
+      "Pinlock lensini kutudan isteyenler; ayrı alınması gerekiyor"
+    ],
+    "pros": [
+      "Termoplastik kask için hafif: 1.470 g",
+      "İç güneş vizörü ve Pinlock 70'e hazır vizör",
+      "Aletsiz vizör söküm, mikrometrik kilit",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "Pinlock lensi kutuda değil",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "Ses yalıtımı ve malzeme kalitesi üst modellerin gerisinde",
+      "Kabuk boyutu sayısı üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: hafif yapısı, iç vizörü ve mikrometrik kilidiyle şehirde pratik.",
+      "uzunYol": "Kısa ve orta mesafede yeterli; uzun yolda daha sessiz kasklar daha rahat ettirir.",
+      "otoban": "Rüzgâr tünelinde test edilen kabuk yüksek hızda dengeyi hedefliyor; ses seviyesi fiyat sınıfına göre beklenmeli.",
+      "sport": "Sportif görünümlü, giriş seviyesi viraj kullanımına uygun.",
+      "adventure": "Siperliksiz; arazi odaklı değil.",
+      "gozluk": "Shark, kaskın gözlükle uyumlu olduğunu belirtiyor.",
+      "interkom": "SENA for SHARK ve Sharktooth ile uyumlu (ayrı satılır).",
+      "kurye": "Hafifliği, iç vizörü ve mikrometrik kilidiyle kurye kullanımı için mantıklı; Pinlock lensini ayrıca almak gerekir."
+    },
+    "verdict": "Ridill 2, bütçe sınıfında hafif, iç güneş vizörlü ve 5 yıl garantili bir kapalı kask isteyen için akıllıca bir seçim. Günlük şehir ve kurye kullanımında işini iyi yapar. Pinlock lensinin kutudan çıkmaması ve uzun yolda ses seviyesi ise beklentiyi sınırlıyor.",
+    "rivals": [
+      "hjc/c71",
+      "agv/k1-s"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Ridill 2 Pinlock ile mi geliyor?",
+        "a": "Hayır. Vizör Pinlock 70 lensine hazır ama Shark, kutu içeriğinde Pinlock lensini listelemiyor."
+      },
+      {
+        "q": "Ridill 2'de güneş vizörü var mı?",
+        "a": "Evet. Çizilmeye dirençli ve buğu önleyici bir iç güneş vizörü var."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/ridill-2-blank-matte-he1101ekma",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/ridill-2-blank-matte-he1101ekma",
+        "type": "manufacturer",
+        "label": "Shark Ridill 2 Blank ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "kapali",
+      "shellMaterial": "Enjeksiyon Lexan (termoplastik)",
+      "materialClass": "termoplastik",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1470,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Optik sınıf 1, çizilmeye dirençli, air stream aralık konumu, aletsiz söküm",
+      "pinlock": true,
+      "pinlockIncluded": false,
+      "sunVisor": true,
+      "ventilation": "Çok kanallı: ön girişler ve arka çıkışlar",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "SENA for SHARK ve Sharktooth ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "oxo",
+    "brand": "shark",
+    "name": "OXO",
+    "subcategories": [
+      "cene-acilir-kask",
+      "termoplastik-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Çenesi 180° arkaya dönen (flip-back) modüler kask. P/J çift onay, Lexan kabuk, iç güneş vizörü ve kutudan çıkan Pinlock 70 var.",
+    "description": [
+      "OXO, Shark'ın çene bölümü kaskın üzerinden 180° arkaya dönen (flip-back) modüler kaskı. Kabuk Lexan (polikarbonat), iki dış kabuk boyutuyla üretiliyor. Üretici ilk kabuk bedeninde 1.660 g veriyor. ECE 22.06 ve P/J çift onaylı; yani hem tam kapalı hem jet düzeninde onaylı.",
+      "Çene kilidi '2 DIGIT UNLOCK' adlı iki parmakla açılan bir düğmeyle çalışıyor. Jet düzeninde çene arkaya döndüğü için aerodinamiğin korunması hedefleniyor. Panoramik vizör çizilmeye dirençli ve tam ya da kısmi açılabiliyor; Pinlock 70 lensi kutudan çıkıyor.",
+      "UV380 iç güneş vizörü buğu önleyici ve çizilmeye dirençli, yandaki mekanizmayla ayarlanıyor. Çene kilidi mikrometrik. Kask Sharktooth ve SENA for SHARK interkomlarıyla uyumlu; kutuda kask kılıfı ve yansıtıcı bantlar var. Garanti 5 yıl."
+    ],
+    "forWho": [
+      "Şehirde jet, yolda kapalı kask olarak tek kask kullanmak isteyenler",
+      "Sık durup konuşan, su içen, gözlük takıp çıkaran sürücüler",
+      "Scooter ve touring motor kullanıcıları"
+    ],
+    "notFor": [
+      "Hafiflik arayanlar: 1.660 g",
+      "Sportif sürüş için kompakt bir kask isteyenler"
+    ],
+    "pros": [
+      "Çene 180° arkaya dönüyor, P/J çift onay",
+      "İç güneş vizörü, Pinlock 70 kutuda",
+      "İki kabuk boyutu",
+      "5 yıl garanti"
+    ],
+    "cons": [
+      "1.660 g ile ağır",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "Polikarbonat kabuk; fiber modüler rakiplerden daha hacimli olabilir",
+      "Mekanizmalı yapı düzenli bakım ister"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: çene arkaya alınınca jet kask gibi ferah; iç vizör ve mikrometrik kilit pratik.",
+      "uzunYol": "Tam kapalı düzende uzun yola uygun; ağırlığı uzun etapta hissedilebilir.",
+      "otoban": "Otobanda çene kapalı sürmek daha güvenli ve sessiz.",
+      "sport": "Sportif sürüş için tasarlanmamış.",
+      "adventure": "Siperliksiz; asfalt odaklı.",
+      "gozluk": "Modüler yapı gözlükle takıp çıkarmayı kolaylaştırır; Shark da gözlük uyumunu belirtiyor.",
+      "interkom": "Sharktooth ve SENA for SHARK ile uyumlu (ayrı satılır).",
+      "kurye": "Teslimatlarda çeneyi arkaya almak pratik; mekanizmanın yoğun kullanımda düzenli kontrol edilmesi gerekir."
+    },
+    "verdict": "OXO, şehirde jet, yolda kapalı kask olarak kullanılabilen, P/J onaylı ve iç güneş vizörlü bir modüler arayan için mantıklı bir seçenek. Pinlock 70'in kutudan çıkması artı. Ağırlığı ve polikarbonat kabuğun hacmi ise eksileri; Türkiye fiyatını doğrulayamadık.",
+    "rivals": [
+      "hjc/f100",
+      "agv/tourmodular"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "OXO'nun çenesi nasıl açılıyor?",
+        "a": "Çene bölümü '2 DIGIT UNLOCK' düğmesiyle açılıyor ve kaskın üzerinden 180° arkaya dönerek jet düzenine geçiyor."
+      },
+      {
+        "q": "OXO çene açıkken onaylı mı?",
+        "a": "Evet. Kask P/J çift onaylı; hem tam kapalı hem jet düzeninde onaylı."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/oxo-blank-matte-he8701ekma",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/oxo-blank-matte-he8701ekma",
+        "type": "manufacturer",
+        "label": "Shark OXO Blank ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.snell",
+      "specs.spoiler",
+      "specs.ventilation"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "cene-acilir",
+      "shellMaterial": "Lexan (polikarbonat)",
+      "materialClass": "termoplastik",
+      "shellSizes": 2,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1660,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Panoramik, çizilmeye dirençli, tam veya kısmi açılma, kolay söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": null,
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Sharktooth ve SENA for SHARK ile uyumlu, ayrı satılır. P/J çift onay.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "kask",
+    "status": "active",
+    "successor": null,
+    "slug": "rs-jet",
+    "brand": "shark",
+    "name": "RS Jet",
+    "subcategories": [
+      "acik-kask",
+      "karbon-kask",
+      "interkomlu-kask"
+    ],
+    "summary": "Shark'ın karbon ve çok eksenli kompozit kabuklu sportif açık kaskı. Pinlock 120 Max Vision kutuda, sökülebilir UV380 güneş vizörü ve mikrometrik kilit var.",
+    "description": [
+      "RS Jet, Shark'ın sportif çizgili açık (jet) kaskı. Kabuk çok eksenli kompozit ve karbon fiberden, EPS çok yoğunluklu. Üretici ilk kabuk bedeninde 1.480 g veriyor. ECE 22.06 onaylı.",
+      "Vizör çizilmeye dirençli, kolay sökülebiliyor ve kutudan Pinlock 120 Max Vision buğu önleyici lensle geliyor. Sökülebilir UV380 iç güneş vizörü var. Shark, kaskın aerodinamik sürüklenmeyi, türbülansı ve sesi azaltırken iyi havalandırma sunduğunu söylüyor.",
+      "Lazerle kesilmiş pedler çene kısmı olmamasına rağmen kaskın kafada sabit durmasını hedefliyor. Çene kilidi mikrometrik; kask Sharktooth ve SENA for SHARK interkomlarıyla uyumlu. Garanti 5 yıl. Açık kask olduğu için çene koruması yok."
+    ],
+    "forWho": [
+      "Şehir içinde ve kısa turda sportif görünümlü bir açık kask isteyenler",
+      "Sıcak havada ferahlık arayan scooter ve naked motor kullanıcıları",
+      "Açık kaskta da Pinlock 120 ve iç vizör isteyenler"
+    ],
+    "notFor": [
+      "Otoban ve uzun yol kullanıcıları: çene koruması yok",
+      "Kuryeler için tek başına önerilmez: çene koruması olmayan kask günde saatlerce trafikte risklidir"
+    ],
+    "pros": [
+      "Karbon ve kompozit kabuk",
+      "Pinlock 120 Max Vision kutuda",
+      "Sökülebilir UV380 iç güneş vizörü",
+      "Mikrometrik kilit, 5 yıl garanti"
+    ],
+    "cons": [
+      "Açık kask: çene korunmuyor",
+      "1.480 g; açık kask için hafif sayılmaz",
+      "Türkiye'de yetkili satıcıda birebir model ve TL fiyatı doğrulayamadık",
+      "Kabuk boyutu sayısı üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Asıl alanı: ferah, kolay takılan ve iç vizörlü bir şehir kaskı.",
+      "uzunYol": "Kısa turlarda keyifli; uzun yolda rüzgâr ve ses yorar, çene koruması da yok.",
+      "otoban": "Otoban hızlarında kapalı bir kask daha güvenli ve sessiz.",
+      "sport": "Sportif görünümlü ama sportif sürüş için çene koruması olan kask gerekir.",
+      "adventure": "Arazi kullanımına uygun değil.",
+      "gozluk": "Açık yapısı gözlükle kullanımı kolaylaştırır; Shark da gözlük uyumunu belirtiyor.",
+      "interkom": "Sharktooth ve SENA for SHARK ile uyumlu (ayrı satılır).",
+      "kurye": "Teslimatta pratik ama çene koruması olmadığı için yoğun kurye kullanımında kapalı ya da çene açılır kask daha güvenli."
+    },
+    "verdict": "RS Jet, açık kaskta karbon kabuk, Pinlock 120 ve iç güneş vizörü isteyen şehir sürücüsü için donanımlı bir seçenek. Sportif görünüşü ve kaliteli vizörü öne çıkıyor. Çene koruması olmadığı ve Türkiye fiyatını doğrulayamadığımız akılda tutulmalı.",
+    "rivals": [
+      "hjc/rpha-31",
+      "agv/irides"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "RS Jet'te güneş vizörü var mı?",
+        "a": "Evet. Sökülebilir UV380 iç güneş vizörü var."
+      },
+      {
+        "q": "RS Jet Pinlock ile mi geliyor?",
+        "a": "Evet. Shark, Pinlock 120 Max Vision lensinin kutuda olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.shark-helmets.com/en/products/rs-jet-blank-matte-he8251ekma",
+    "sources": [
+      {
+        "url": "https://www.shark-helmets.com/en/products/rs-jet-blank-matte-he8251ekma",
+        "type": "manufacturer",
+        "label": "Shark RS Jet Blank ürün sayfası (özellikler, beden tablosu)",
+        "checkedAt": "2026-10-06"
+      }
+    ],
+    "lastCheckedAt": "2026-10-06",
+    "dataConfidence": "high",
+    "unverified": [
+      "colors",
+      "priceRange",
+      "specs.breathGuard",
+      "specs.chinCurtain",
+      "specs.dot",
+      "specs.emergencyCheekPads",
+      "specs.fim",
+      "specs.headShape",
+      "specs.linerRemovable",
+      "specs.linerWashable",
+      "specs.madeIn",
+      "specs.shellSizes",
+      "specs.snell",
+      "specs.spoiler"
+    ],
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "helmetType": "acik",
+      "shellMaterial": "Çok eksenli kompozit ve karbon fiber",
+      "materialClass": "karbon",
+      "shellSizes": null,
+      "ece2206": true,
+      "dot": null,
+      "snell": null,
+      "fim": null,
+      "weightGrams": 1480,
+      "weightSize": "En küçük kabuk bedeni",
+      "headShape": null,
+      "visor": "Çizilmeye dirençli, kolay söküm",
+      "pinlock": true,
+      "pinlockIncluded": true,
+      "sunVisor": true,
+      "ventilation": "Doğal havalandırma (açık kask)",
+      "chinCurtain": null,
+      "breathGuard": null,
+      "linerRemovable": null,
+      "linerWashable": null,
+      "emergencyCheekPads": null,
+      "retention": "mikrometrik",
+      "intercomReady": true,
+      "intercomNotes": "Sharktooth ve SENA for SHARK ile uyumlu, ayrı satılır.",
+      "spoiler": null,
+      "warrantyYears": 5,
+      "madeIn": null
+    }
+  }
+]

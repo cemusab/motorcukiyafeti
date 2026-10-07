@@ -1,0 +1,351 @@
+[
+  {
+    "slug": "pinlock",
+    "name": "Pinlock",
+    "country": "Hollanda",
+    "founded": null,
+    "website": "https://pinlock.com/",
+    "about": [
+      "Pinlock, motosiklet kask vizörleri için buğu önleyici iç lens teknolojisinin mucidi olan Hollanda kökenli bir marka. Kurucusu Derek Arnold, Hollanda'da kask distribütörlüğü yaparken müşterilerinin buğulanan vizör şikâyetinden yola çıkarak çift cam yalıtım prensibini nem emen lens malzemesiyle birleştirdi; buluş Hollanda'da yılın buluşu ödülüne layık görüldü.",
+      "Marka bugün lenslerini 30, 70, 120 ve 200 olmak üzere dört buğu önleme seviyesinde sunuyor; MaxVision geniş lens kesimi ve ışık geçirgenliği yüksek XLT malzeme öne çıkan teknolojileri. Lensler kaska özel (DKS kodlu) ve kask üreticileriyle birlikte geliştiriliyor; Pinlock lensleri doğrudan satmıyor. Son dönemde motosiklet kulak tıkacı da sunuyor. Türkiye'de Tex Motor tarafından dağıtılıyor."
+    ],
+    "strengths": [
+      "Vizör içi buğu önleyici lenslerde sektör standardı",
+      "Kask üreticileriyle kaska özel lens geliştirme",
+      "XLT yüksek ışık geçirgenliği ve MaxVision geniş görüş"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Pinlock 70",
+        "note": "Günlük ve uzun yol için orta-üst seviye buğu önleme, MaxVision kesimli.",
+        "url": "https://pinlock.com/products/solutions"
+      },
+      {
+        "name": "Pinlock 120 XLT",
+        "note": "Zorlu hava için üst seviye; yüksek ışık geçirgenliği, gece kullanımına uygun.",
+        "url": "https://pinlock.com/products/solutions"
+      },
+      {
+        "name": "Pinlock 200",
+        "note": "Serinin en güçlü seviyesi; MotoGP'de test edilmiş.",
+        "url": "https://pinlock.com/products/pinlock200"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Pinlock 120 XLT MaxVision",
+        "url": "https://pinlock.com/brands/LS2/Vector%20II/Clear",
+        "reason": "Yüksek buğu önleme kapasitesini gece kullanımına uygun berraklıkla birleştiriyor."
+      }
+    ],
+    "alternatives": [],
+    "history": [],
+    "strongestLine": "Kaska özel buğu önleyici vizör lensleri",
+    "sources": [
+      {
+        "url": "https://pinlock.com/about-us",
+        "type": "manufacturer",
+        "label": "Pinlock – Hakkımızda",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://pinlock.com/products/solutions",
+        "type": "manufacturer",
+        "label": "Pinlock – ürün seviyeleri",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://texmotor.com/urun/pinlock/",
+        "type": "distributor",
+        "label": "Tex Motor – Pinlock marka sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "alpine-hearing",
+    "name": "Alpine Hearing Protection",
+    "country": "Hollanda",
+    "founded": null,
+    "website": "https://www.alpinehearingprotection.com/",
+    "about": [
+      "Alpine Hearing Protection, yalnız işitme koruma ürünlerine odaklanan Hollandalı bir marka. Müzik, uyku, seyahat, iş ve su sporları gibi farklı kullanım alanları için kulak tıkaçları üretiyor; motosiklet serisi MotoSafe adını taşıyor.",
+      "MotoSafe ailesi tur için 17 dB SNR'lik Tour, otoyol ve pist için 20 dB SNR'lik Sport ve ikisini birlikte sunan Duo paketinden oluşuyor; MotoGP lisanslı yarış versiyonu da bulunuyor. AlpineAcousticFilters adlı filtreler rüzgâr gürültüsünü azaltırken trafik, navigasyon ve interkom sesinin duyulmasını hedefliyor. Türkiye'de Motomax ürünleri distribütör garantili olarak satıyor."
+    ],
+    "strengths": [
+      "Motosiklete özel, SNR değeri açıkça yayımlanan kulak tıkaçları",
+      "Silikonsuz yumuşak malzeme",
+      "Kullanım senaryosuna göre ayrılmış koruma seviyeleri"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "MotoSafe Tour",
+        "note": "17 dB SNR; tur ve tali yollar için.",
+        "url": "https://www.alpinehearingprotection.com/products/motosafetour"
+      },
+      {
+        "name": "MotoSafe Sport",
+        "note": "20 dB SNR; otoyol, pist ve açık kask için.",
+        "url": "https://www.alpinehearingprotection.com/products/motosafe-sport"
+      },
+      {
+        "name": "MotoSafe Duo",
+        "note": "Tour ve Sport'u bir arada sunan paket.",
+        "url": "https://www.alpinehearingprotection.com/products/motosafe-duo"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Alpine MotoSafe Sport",
+        "url": "https://www.alpinehearingprotection.com/products/motosafe-sport",
+        "reason": "Yüksek hızda belirgin koruma sunuyor ve Türkiye'de yetkili mağazada bulunuyor."
+      }
+    ],
+    "alternatives": [
+      "earpeace",
+      "auritech",
+      "pinlock"
+    ],
+    "history": [],
+    "strongestLine": "Motosiklet ve müzik için filtreli kulak tıkaçları",
+    "sources": [
+      {
+        "url": "https://www.alpinehearingprotection.com/collections/motor",
+        "type": "manufacturer",
+        "label": "Alpine – motosiklet kulak tıkaçları",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/motosiklet-kulak-tikaclari",
+        "type": "retailer",
+        "label": "Motomax – kulak tıkaçları kategorisi",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "auritech",
+    "name": "Auritech",
+    "country": "Birleşik Krallık",
+    "founded": null,
+    "website": "https://www.auritech.co.uk/",
+    "about": [
+      "Auritech, İngiltere merkezli Appia Healthcare Limited'in işitme koruma markası. Ürünlerinin ayırt edici özelliği, kulak kanalında derine yerleşen, patentli ve frekans seçici seramik filtreler; bu filtreler tiz gürültüyü bastırırken konuşma ve uyarı seslerinin duyulmasına izin vermek üzere tasarlanıyor.",
+      "Marka motosiklet, atıcılık, seyahat, uyku, iş, müzik ve su sporları için evrensel tıkaçların yanı sıra kişiye özel kalıp ürünler de sunuyor. Ürünlerinin EN 352-2 standardına göre sertifikalı olduğunu ve Almanya'daki IFA tarafından test edildiğini belirtiyor. Türkiye'de yetkili bir satış noktasını doğrulayamadık."
+    ],
+    "strengths": [
+      "Patentli seramik akustik filtre",
+      "Silikonsuz, hipoalerjenik gövde",
+      "EN 352-2 sertifikası"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Biker",
+        "note": "Motosiklet sürücüleri için evrensel kulak tıkacı.",
+        "url": "https://www.auritech.co.uk/universal-fit-earplugs/biker.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Auritech Biker",
+        "url": "https://www.auritech.co.uk/universal-fit-earplugs/biker.html",
+        "reason": "Seramik filtresiyle sesi boğmadan rüzgâr gürültüsünü azaltıyor."
+      }
+    ],
+    "alternatives": [
+      "alpine-hearing",
+      "earpeace"
+    ],
+    "history": [],
+    "strongestLine": "Seramik filtreli evrensel kulak tıkaçları",
+    "sources": [
+      {
+        "url": "https://www.auritech.co.uk/universal-fit-earplugs/biker.html",
+        "type": "manufacturer",
+        "label": "Auritech – Biker ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "earpeace",
+    "name": "EarPeace",
+    "country": "ABD",
+    "founded": null,
+    "website": "https://www.earpeace.com/",
+    "about": [
+      "EarPeace, müzik, motosiklet, spor, uyku ve günlük kullanım için yeniden kullanılabilir, filtreli kulak tıkaçları üreten ABD merkezli bir marka. Ürünlerinin çoğu değiştirilebilir filtrelerle farklı koruma seviyeleri sunuyor ve SNR değerlerini açıkça yayımlıyor.",
+      "Motosiklet serisinde üç filtre setli MOTO ve Contour uçlu, PRO filtreli MOTO PRO modelleri bulunuyor; her ikisi de alüminyum taşıma kutusuyla geliyor. Marka ayrıca yedek filtre setleri, bağlantı kordonu ve kişiye özel kalıp tıkaçlar satıyor. Türkiye'de yetkili bir satış noktasını doğrulayamadık."
+    ],
+    "strengths": [
+      "Değiştirilebilir filtrelerle ayarlanabilir koruma",
+      "SNR değerlerinin açıkça yayımlanması",
+      "Alüminyum taşıma kutusu"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "MOTO",
+        "note": "17/20/26 dB SNR üç filtre seti, iki boy silikon uç.",
+        "url": "https://www.earpeace.com/products/motorcycle-ear-plugs"
+      },
+      {
+        "name": "MOTO PRO",
+        "note": "Contour uçlar ve 20 veya 24 dB SNR PRO filtre.",
+        "url": "https://www.earpeace.com/products/moto-pro"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "EarPeace MOTO",
+        "url": "https://www.earpeace.com/products/motorcycle-ear-plugs",
+        "reason": "Tek kutuda üç koruma seviyesi sunuyor."
+      }
+    ],
+    "alternatives": [
+      "alpine-hearing",
+      "auritech"
+    ],
+    "history": [],
+    "strongestLine": "Değiştirilebilir filtreli kulak tıkaçları",
+    "sources": [
+      {
+        "url": "https://www.earpeace.com/products/motorcycle-ear-plugs",
+        "type": "manufacturer",
+        "label": "EarPeace – MOTO Earplugs",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.earpeace.com/products/moto-pro",
+        "type": "manufacturer",
+        "label": "EarPeace – MOTO PRO Earplugs",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "muc-off",
+    "name": "Muc-Off",
+    "country": "Birleşik Krallık",
+    "founded": null,
+    "website": "https://muc-off.com/",
+    "about": [
+      "Muc-Off, bisiklet ve motosiklet temizlik, bakım ve yağlama ürünleriyle tanınan İngiliz bir marka. Pembe şişeli temizleyicileriyle bilinen markanın motosiklet serisinde temizleyiciler, zincir bakım ürünleri, koruyucu spreyler ve kask bakım ürünleri bulunuyor.",
+      "Kask tarafında deiyonize su bazlı, pH nötr ve solvent içermeyen vizör-kask temizleyici ile iç astar köpüğü, vizör temizleyici ve mikrofiber bezleri bir araya getiren kask temizleme seti öne çıkıyor. Türkiye'de bu ürünler için yetkili bir motor ekipmanı mağazasında fiyat doğrulayamadık."
+    ],
+    "strengths": [
+      "Biyolojik olarak parçalanabilir, solvent içermeyen formüller",
+      "Kask, vizör ve motosiklet bakımında geniş ürün yelpazesi",
+      "Kullanıma hazır bakım setleri"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "Helmet, Visor & Goggle Cleaner",
+        "note": "Deiyonize su bazlı, pH nötr vizör ve kask temizleyici.",
+        "url": "https://muc-off.com/products/visor-lens-goggle-cleaner"
+      },
+      {
+        "name": "Helmet Cleaning Kit",
+        "note": "İç astar köpüğü, vizör temizleyici ve iki mikrofiber bez.",
+        "url": "https://muc-off.com/products/helmet-cleaning-kit"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Muc-Off Helmet, Visor & Goggle Cleaner",
+        "url": "https://muc-off.com/products/visor-lens-goggle-cleaner",
+        "reason": "Kaplamalı vizörlerde ve tüm lens malzemelerinde güvenli, solvent içermeyen formül."
+      }
+    ],
+    "alternatives": [
+      "motul"
+    ],
+    "history": [],
+    "strongestLine": "Bisiklet ve motosiklet temizlik ve bakım ürünleri",
+    "sources": [
+      {
+        "url": "https://muc-off.com/products/visor-lens-goggle-cleaner",
+        "type": "manufacturer",
+        "label": "Muc-Off – Helmet Visor & Goggle Cleaner",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://muc-off.com/products/helmet-cleaning-kit",
+        "type": "manufacturer",
+        "label": "Muc-Off – Helmet Cleaning Kit",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "motul",
+    "name": "Motul",
+    "country": "Fransa",
+    "founded": null,
+    "website": "https://www.motul.com/tr-TR",
+    "about": [
+      "Motul, motor yağları ve teknik sıvılarıyla tanınan Fransız bir şirket. Otomobil, motosiklet, ağır vasıta, deniz ve bisiklet gibi pek çok alanda yağlar, fren sıvıları, soğutucular ve bakım ürünleri sunuyor; motosiklet tarafındaki bakım ürünleri MC Care serisi altında toplanıyor.",
+      "MC Care serisinde zincir bakımından lastik tamirine kadar çeşitli ürünlerin yanında kask için iki ürün var: dış kabuk ve vizör için M1 Helmet & Visor Clean ve kask içi için M2 Helmet Interior Clean. Motul'un Türkiye sitesi ve satış noktası bulucusu bulunuyor; bu kask bakım ürünleri için yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+    ],
+    "strengths": [
+      "Motosiklet yağları ve teknik sıvılarda köklü marka",
+      "MC Care serisiyle kapsamlı motosiklet bakım ürünleri",
+      "Türkiye'de yaygın satış ağı"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [
+      {
+        "name": "MC Care M1 Helmet & Visor Clean",
+        "note": "Kask dış yüzeyi ve vizör için nötr temizleyici.",
+        "url": "https://www.motul.com/tr-TR/products/35776"
+      },
+      {
+        "name": "MC Care M2 Helmet Interior Clean",
+        "note": "Kask içi temizleyici ve dezenfektan.",
+        "url": "https://www.motul.com/tr-TR/products/35775"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Motul MC Care M1 Helmet & Visor Clean",
+        "url": "https://www.motul.com/tr-TR/products/35776",
+        "reason": "Tüm vizör teknolojilerine uygun, iz bırakmayan nötr temizleyici."
+      }
+    ],
+    "alternatives": [
+      "muc-off"
+    ],
+    "history": [],
+    "strongestLine": "Motor yağları ve MC Care motosiklet bakım ürünleri",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/35776",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care M1",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motul.com/tr-TR/products/35775",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care M2",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

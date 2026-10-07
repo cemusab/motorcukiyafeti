@@ -1,0 +1,2499 @@
+[
+  {
+    "slug": "yaren-tekstil",
+    "name": "Yaren Tekstil",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.yarentekstil.com/",
+    "about": [
+      "Yaren Tekstil, iş elbisesi, arama-kurtarma, AFAD ve resmi kurum üniformalarıyla bilinen yerli bir teknik tekstil üreticisidir. Motosiklet kıyafetleri bu üretimin ayrı bir kolu olarak büyümüş; mont, pantolon, yağmurluk, eldiven, bot ve koruma ürünlerini tek çatı altında topluyor. Firma kendi sitesinde ISO 9001, ISO 14001 ve ISO 45001 belgelerini paylaşıyor.",
+      "Markanın asıl gücü moto kurye ekipmanı. Getir, Trendyol Go, Yemeksepeti, McDonald's ve Aras Kargo gibi şirketlerin kurye montları ve takımları katalogda ayrı ayrı yer alıyor; bu kurumsal modellerin bir kısmı perakende satılmıyor. Bireysel alıcı için ise CE belgeli yazlık file montlar, kışlık kurye montu, dikiş yerleri termo bantla kapatılmış yağmurluk takımları ve Dyneema kumaşlı, EN 17092-3 AA sınıfı bir mont sunuluyor.",
+      "Yaren ürünleri hobi sürücüsünden çok her gün saatlerce motor üstünde kalan kullanıcıya göre tasarlanmış: reflektif şeritler, cırtlı manşetler, geniş beden aralığı (5XL'e kadar) ve logo baskıya uygun yüzeyler öne çıkıyor. Koruma sınıfını her üründe ayrı ayrı kontrol etmek gerekir; tüm modeller aynı CE seviyesinde değildir."
+    ],
+    "strengths": [
+      "Kurye ve kurumsal filo ekipmanında uzun deneyim",
+      "Dikişleri bantlı, ekonomik yağmurluk takımları",
+      "Geniş beden aralığı ve toplu siparişe uygun üretim",
+      "Dyneema kumaşlı AA sınıfı mont seçeneği"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Motosiklet Mont ve Kaban",
+        "note": "Yazlık file, kışlık kurye montu ve CE belgeli korumalı montlar.",
+        "url": "https://www.yarentekstil.com/motosiklet-kiyafetleri/motosiklet-mont-kaban"
+      },
+      {
+        "name": "Motosiklet Yağmurluk",
+        "note": "Membranlı, dikişleri termo bantlı alt-üst yağmurluk takımları.",
+        "url": "https://www.yarentekstil.com/motosiklet-kiyafetleri/motorsiklet-yagmurluk"
+      },
+      {
+        "name": "Motosiklet Takım",
+        "note": "Mont ve pantolonun birlikte satıldığı kurye ve kurum takımları.",
+        "url": "https://www.yarentekstil.com/motosiklet-kiyafetleri/motosiklet-takim"
+      },
+      {
+        "name": "Motosiklet Eldiven",
+        "note": "Yazlık ve kışlık sürüş eldivenleri.",
+        "url": "https://www.yarentekstil.com/motosiklet-kiyafetleri/motorsiklet-eldiven"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "YRN-2789 Motokurye Yağmurluk Takım",
+        "url": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+        "reason": "Membranlı 300D polyester dış kumaşı, termo bantlı dikişleri ve EN 20471 reflektif şeritleriyle doğrudan yağmurda çalışan kurye için tasarlanmış."
+      },
+      {
+        "label": "Dyneema Motorcu Mont YRN-8002",
+        "url": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+        "reason": "EN 17092-3 AA sınıfı belgesi ve Dyneema kumaşıyla markanın en yüksek koruma seviyesindeki montu."
+      },
+      {
+        "label": "YRN-1493 Kışlık Moto Kurye Mont",
+        "url": "https://www.yarentekstil.com/yrn-1493-kislik-moto-kurye-mont-kislik-moto-kurye-mont",
+        "reason": "Kış boyunca her gün kullanılacak, reflektörlü ve kurye işine göre kesilmiş yerli bir kışlık mont arayanlar için."
+      }
+    ],
+    "alternatives": [
+      "metanic-tekstil",
+      "tex-motor",
+      "lbc"
+    ],
+    "history": [],
+    "strongestLine": "Moto kurye montları ve termo bantlı yağmurluk takımları",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/kurumsal/hakkimizda",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.yarentekstil.com/motosiklet-kiyafetleri",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – Motosiklet Kıyafetleri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.yarentekstil.com/dyneema-motorcu-mont-yrn-8002",
+        "type": "manufacturer",
+        "label": "Yaren – Dyneema Motorcu Mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "tex-motor",
+    "name": "Tex Motor (Forte GT / Sway)",
+    "country": "Türkiye",
+    "founded": 2008,
+    "website": "https://texmotor.com/",
+    "about": [
+      "Tex Motor, 2008'den beri İstanbul Bağcılar merkezli olarak motosiklet aksesuarı ve sürücü ekipmanı üreten, ithal eden ve ihraç eden bir firmadır. Kendi sitesine göre ürünleri Türkiye genelinde 500'ü aşkın bayi üzerinden satılıyor ve Avrupa, Balkanlar ile Orta Doğu'ya ihracat yapılıyor. Pazarda çoğu zaman \"Tex\" ya da \"Texmotor\" adıyla anılır.",
+      "Firmanın kendi markaları iş bölümü yapar: Forte GT giyim tarafıdır (mont, pantolon, yağmurluk, eldiven, yelek), Sway kask tarafı, Xlock ise kilit tarafı. Forte GT montlarının ürün sayfalarında EN 17092-4:2020 (A sınıfı) belgesi, eldivenlerde EN 13594:2015, reflektif yeleklerde ise motosikletçiye yönelik EN 17353:2020 standardı belirtiliyor. Forte GT giysilerinin Türkiye'de üretildiği firma tarafından açıkça vurgulanıyor.",
+      "Sway kaskları ECE 22.06 onaylı; kapalı, çene açılır, açık ve cross tiplerde geniş bir yelpaze var ve çoğu ABS kabuklu, uygun fiyatlı modellerdir. Tex Motor ayrıca Pinlock, Kryptonite ve Ones Again gibi markaların Türkiye distribütörlüğünü yapıyor; bu yüzden sitede gördüğün her ürün Tex'in kendi üretimi değildir."
+    ],
+    "strengths": [
+      "Mont, kask, eldiven, yağmurluk ve kilidi tek çatı altında sunan geniş yerli katalog",
+      "Forte GT montlarında belirtilmiş EN 17092-4 A sınıfı",
+      "Yaygın bayi ağı sayesinde yedek parça ve değişime kolay erişim",
+      "Uygun fiyatlı, ECE 22.06 onaylı Sway çene açılır kasklar"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "kask",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Forte GT 4 Mevsim Montlar",
+        "note": "Membranlı, ripstop kumaşlı Inferno, Skyland ve Assos serileri; EN 17092-4:2020.",
+        "url": "https://texmotor.com/urun-kategori/montlar/4-mevsim-montlar/"
+      },
+      {
+        "name": "Sway Çene Açılır Kasklar",
+        "note": "SW 907, 912, 917, 919, 926 ve X600 gibi ECE 22.06 onaylı modüler kasklar.",
+        "url": "https://texmotor.com/urun-kategori/kasklar/cene-acilir-kasklar-2/"
+      },
+      {
+        "name": "Forte GT Eldivenler",
+        "note": "Yazlık, kışlık ve 4 mevsim eldivenler; EN 13594:2015.",
+        "url": "https://texmotor.com/urun-kategori/eldivenler/forte-gt-eldivenler/"
+      },
+      {
+        "name": "Yağmurluklar",
+        "note": "Alt-üst yağmurluk takımları ve tek parça yağmurluklar.",
+        "url": "https://texmotor.com/urun-kategori/yagmurluk/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Sway SW 919 çene açılır kask",
+        "url": "https://texmotor.com/urun-kategori/kasklar/cene-acilir-kasklar-2/sway-sw-919/",
+        "reason": "ECE 22.06 onaylı, Pinlock uyumlu ve güneş vizörlü bir çene açılır kaskı yerli bayi desteğiyle düşük bütçeye getiriyor."
+      },
+      {
+        "label": "Forte GT 2001089 Assos Adventure Mont",
+        "url": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+        "reason": "Membranlı, ripstop kumaşlı ve EN 17092-4 belgeli bir 4 mevsim montu yerli üretimle sunuyor."
+      },
+      {
+        "label": "Forte GT kışlık montlar",
+        "url": "https://texmotor.com/urun-kategori/montlar/kislik-montlar/",
+        "reason": "Soğuk aylarda her gün sürenler için termal astarlı yerli seçenekler tek sayfada."
+      }
+    ],
+    "alternatives": [
+      "scudo",
+      "yaren-tekstil",
+      "ls2"
+    ],
+    "history": [
+      {
+        "year": 2008,
+        "event": "Tex Motor, İstanbul Bağcılar'da motosiklet aksesuarı ve sürücü ekipmanı üretimi, ithalatı ve ihracatı için kuruldu."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı ECE 22.06 onaylı Sway kasklar ve Forte GT giyim",
+    "sources": [
+      {
+        "url": "https://texmotor.com/hakkimizda/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/urun/sway/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Sway kask marka sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "scudo",
+    "name": "Scudo",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.scudo.com.tr/",
+    "about": [
+      "Scudo, İstanbul Üsküdar (Koşuyolu) merkezli Scudo Sports Tekstil Sanayi ve Ticaret Ltd. Şti.'nin motosiklet, bisiklet ve outdoor ürünleri için kullandığı yerli markadır. \"Hayatını Önemsiyoruz\" sloganıyla çalışan firma, üretim yapısını Türkiye ve İtalya merkezli olarak tanımlıyor. Kuruluş yılı ve kurucu bilgisi resmi sitede paylaşılmıyor; markanın kamuya açık en belirgin dönüm noktası, Ocak 2024'te duyurduğu EN 17092-4:2020 A sınıfı CE belgesi. Scudo bu belgeyle kendini Türkiye'nin ilk CE belgeli A sınıfı motosiklet giyim markası olarak tanıtıyor ve AA ile AAA sınıfları için çalışmalarının sürdüğünü belirtiyor.",
+      "Markanın en güçlü olduğu alan şehir içi ve günlük kullanıma yönelik tekstil montlar. Koleksiyon şehir isimleriyle adlandırılıyor: Milano, Santiago ve kadınlar için Paris ile Lima yazlık file montlar; Berlin, Roma, Vivaldi ve kadınlar için Lyon ile Lisbon 4 mevsim montlar; Rio, Madrid ve Tokyo 3 mevsim; Alaska ise kışlık model. Ürün sayfalarına göre montlarda omuz, dirsek ve sırtı da kapsayan dokuz noktada ImpacTec koruyucular kullanılıyor; omuz-dirsek korumaları EN 1621-1, sırt koruması EN 1621-2 belgeli ve sırt koruması montla birlikte veriliyor. Milano gibi modellerin 10XL'e kadar beden sunması da öne çıkan bir ayrıntı.",
+      "Scudo ürünleri Türkiye'de başta markanın kendi sitesi olmak üzere çevrimiçi satılıyor; kask, eldiven, bot, yağmurluk ve tam gövde koruma (body armour) da katalogda yer alıyor, ancak kask gibi bazı ürünlerin üretim yeri ürün bazında farklı olabilir. Orta segment fiyatlarıyla Scudo, ithal bir markaya bütçe ayırmadan belgeli A sınıfı mont arayan şehir içi sürücü ve kurye kullanıcıları için güçlü bir yerli aday."
+    ],
+    "strengths": [
+      "EN 17092-4 A sınıfı belgeli yerli giyim",
+      "Montlarda standart sırt koruması",
+      "Yazlık, 4 mevsim ve kışlık seçeneklerin net ayrımı",
+      "Kadın modellerine ayrı kalıp"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Motosiklet Montları",
+        "note": "Milano, Santiago (yazlık), Berlin, Roma, Vivaldi (4 mevsim), Alaska (kışlık).",
+        "url": "https://www.scudo.com.tr/kategori/motosiklet-montlari"
+      },
+      {
+        "name": "Motosiklet Yağmurlukları",
+        "note": "Erkek ve kadın yağmurluk takımları.",
+        "url": "https://www.scudo.com.tr/kategori/motosiklet-yagmurluklari"
+      },
+      {
+        "name": "Motosiklet Eldivenleri",
+        "note": "Parma gibi yazlık modeller ve kışlık eldivenler; EN 13594 belgeli.",
+        "url": "https://www.scudo.com.tr/kategori/motosiklet-eldivenleri"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Scudo Milano yazlık file mont",
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "reason": "Bol file yüzeyli, sırt korumalı yerli bir yazlık mont; 10XL'e kadar beden sunması da ayrı bir artı."
+      },
+      {
+        "label": "Scudo Berlin 4 mevsim mont",
+        "url": "https://www.scudo.com.tr/urun/scudo-berlin-4-mevsim-erkek-motosiklet-montu-2xl",
+        "reason": "Yıl boyu tek montla idare etmek isteyen şehir içi kullanıcı için markanın çok yönlü modeli."
+      },
+      {
+        "label": "Scudo Vivaldi 4 mevsim mont",
+        "url": "https://www.scudo.com.tr/urun/scudo-vivaldi-4-mevsim-motosiklet-ceketi-siyah-siyah-3xl",
+        "reason": "EN 17092-4 A sınıfı belgeli, dokuz noktada ImpacTec korumalı ve sırt koruması dahil gelen; markanın 4 mevsim serisinin üst modeli."
+      }
+    ],
+    "alternatives": [
+      "tex-motor",
+      "tech90",
+      "revit"
+    ],
+    "history": [
+      {
+        "year": 2024,
+        "event": "Scudo, Ocak 2024'te motosiklet montları ve pantolonları için EN 17092-4:2020 A sınıfı CE belgesi aldığını duyurdu ve AA ile AAA sınıfları için çalışma başlattığını açıkladı."
+      }
+    ],
+    "strongestLine": "EN 17092-4 A sınıfı belgeli yerli tekstil montlar (Milano, Vivaldi, Berlin)",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/blog/icerik/scudo-turkiye-nin-ilk-ce-belgeli-en-17092-4-2020-onayli-a-sinifi-motosiklet-kiyafetleri-markasi-oldu",
+        "type": "manufacturer",
+        "label": "Scudo – EN 17092-4 A sınıfı duyurusu",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/sayfa/hakkimizda",
+        "type": "manufacturer",
+        "label": "Scudo – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-vivaldi-4-mevsim-motosiklet-ceketi-siyah-siyah-3xl",
+        "type": "manufacturer",
+        "label": "Scudo – Vivaldi 4 mevsim mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "type": "manufacturer",
+        "label": "Scudo – Milano yazlık mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.scudo.com.tr/kategori/motosiklet-montlari",
+        "type": "manufacturer",
+        "label": "Scudo – Motosiklet montları kategorisi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "tech90",
+    "name": "Tech90 (Vecton / ImpacTec)",
+    "country": "Türkiye",
+    "founded": 2006,
+    "website": "https://www.tech90.com.tr/",
+    "about": [
+      "Tech90, 2006'da İstanbul'da kurulmuş, motosiklet sürücülerine yönelik kot ve tekstil giyim üreten bir firmadır. Kendini Türkiye'nin tek lisanslı Kevlar® pantolon üreticisi olarak tanıtıyor; ürünlerinde DuPont Kevlar®, Cordura® ve astarda Coolmax® kumaşları kullanıyor. Lycra şirketinin marka tanıtımında da Tech90'ın dünya genelinde özel etiket (private label) üretim yaptığı belirtiliyor.",
+      "Tech90'ın kendi tüketici markaları Vecton (giyim) ve ImpacTec (koruyucu) olarak satılıyor; vecton.com.tr Tech90'ın resmi online mağazası. Vecton Ad Pro gibi Kevlar-Cordura kot pantolonlar EN 17092-3 AA sınıfı belgeli ve dizlik yüksekliği ayarlanabilen ImpacTec korumalarla geliyor. ImpacTec koruyucular, Yaren Tekstil ve Scudo gibi başka yerli markaların ürünlerinde de karşına çıkabilir.",
+      "Günlük kıyafet görünümünde ama gerçek sürtünme koruması olan bir pantolon arayan şehir içi ve kurye sürücüleri için Tech90/Vecton, yurt dışı muadillerine göre daha erişilebilir fiyatlı ve yerli bir seçenek."
+    ],
+    "strengths": [
+      "Lisanslı Kevlar® kullanan yerli kot pantolon üretimi",
+      "EN 17092-3 AA sınıfı belgeli modeller",
+      "Kendi koruyucu markası ImpacTec",
+      "Günlük kıyafet görünümünde koruma"
+    ],
+    "categories": [
+      "pantolon",
+      "mont",
+      "koruma",
+      "eldiven"
+    ],
+    "families": [
+      {
+        "name": "Vecton Motorcu Pantolonları",
+        "note": "Kevlar ve Cordura takviyeli kot ve taktik pantolonlar.",
+        "url": "https://vecton.com.tr/motorcu-pantolonu-11"
+      },
+      {
+        "name": "Vecton Motorcu Montları",
+        "note": "Tekstil montlar; ImpacTec korumalarla birlikte satılıyor.",
+        "url": "https://vecton.com.tr/motorcu-montu-5"
+      },
+      {
+        "name": "ImpacTec Koruma Ekipmanları",
+        "note": "Seviye 1 ve seviye 2 sırt, diz, dirsek ve omuz koruyucuları.",
+        "url": "https://vecton.com.tr/motosiklet-koruma-ekipmanlari-6"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Vecton Ad Pro Kevlar Cordura Pantolon",
+        "url": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-52",
+        "reason": "EN 17092-3 AA sınıfı belgeli, yerli üretim Kevlar-Cordura kot; günlük görünümle ciddi sürtünme korumasını birleştiriyor."
+      }
+    ],
+    "alternatives": [
+      "scudo",
+      "revit",
+      "spidi"
+    ],
+    "history": [
+      {
+        "year": 2006,
+        "event": "Firma İstanbul'da kuruldu ve iki perakende mağazasıyla motosiklet giyim ve aksesuarı ithal edip satmaya başladı."
+      },
+      {
+        "year": 2010,
+        "event": "Şirket Tech90 adıyla yeniden markalaştı ve DuPont Kevlar® kullanan motosiklet giyimi tasarımı ve üretimine yöneldi."
+      },
+      {
+        "year": 2019,
+        "event": "LYCRA Company, Tech90'ı Coolmax® astarlı motosiklet kotlarıyla bir marka tanıtım yazısında öne çıkardı."
+      }
+    ],
+    "strongestLine": "Kevlar® takviyeli motosiklet kot pantolonları (Vecton)",
+    "sources": [
+      {
+        "url": "https://www.tech90.com.tr/",
+        "type": "manufacturer",
+        "label": "Tech90 resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vecton.com.tr/",
+        "type": "manufacturer",
+        "label": "Vecton – Tech90 resmi online mağazası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lycra.com/en/business/news/brand-spotlight-tech90s-quality-apparel-motorcycle-enthusiast",
+        "type": "review",
+        "label": "Lycra – Tech90 marka tanıtımı",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "lbc",
+    "name": "LBC Motor Giyim",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.lbc.com.tr/",
+    "about": [
+      "LBC, \"%100 yerli üretim\" vurgusuyla motosiklet montu, pantolonu, termal yelek, polar mont ve boyunluk gibi ürünler üreten ve kendi sitesinden satan bir Türk markasıdır. Speed, Tiger Enduro, Olimpos, Repsol ve kadın serisi Meryo gibi mont modelleri katalogun omurgasını oluşturuyor.",
+      "Firmanın hakkımızda sayfasında kurye firmalarının kendi logo ve tasarımlarıyla toplu sipariş verebildiği açıkça yazıyor; bu yönüyle LBC bireysel satışın yanında kurumsal kurye giyimine de hizmet ediyor. Neon yelek ve termal yelek gibi görünürlük ve ara katman ürünleri de mevcut.",
+      "Fiyatlar giriş segmentinde. Montların omuz, dirsek ve sırt korumalı olduğu belirtiliyor, ancak ürün sayfalarında EN 17092 sınıfı tutarlı biçimde yazmıyor; alırken satıcıdan CE sınıfını ve koruyucu standartlarını teyit etmek gerekir."
+    ],
+    "strengths": [
+      "Giriş seviyesi fiyatlar",
+      "Kurye firmalarına logolu toplu üretim",
+      "Termal yelek ve polar gibi ara katman ürünleri"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Motosiklet Montları",
+        "note": "Speed, Tiger Enduro, Olimpos ve Meryo (kadın) serileri.",
+        "url": "https://www.lbc.com.tr/montlar/motosiklet-montu/"
+      },
+      {
+        "name": "Termal Yelek ve Montlar",
+        "note": "Kışın mont altına giyilecek ara katmanlar.",
+        "url": "https://www.lbc.com.tr/montlar/termal-yelek-ve-montlar/"
+      },
+      {
+        "name": "Pantolonlar",
+        "note": "Horizon ve Star gibi korumalı motosiklet pantolonları.",
+        "url": "https://www.lbc.com.tr/pantolon/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "LBC Tiger Enduro Mont",
+        "url": "https://www.lbc.com.tr/tiger-enduro-motosiklet-mont-siyah",
+        "reason": "Markanın en bilinen modellerinden; düşük bütçeyle korumalı, yerli üretim bir mont arayanlar için başlangıç noktası."
+      },
+      {
+        "label": "LBC Neon Yelek",
+        "url": "https://www.lbc.com.tr/neon-yelek",
+        "reason": "Mevcut montun üzerine giyilerek görünürlüğü ucuza artırmanın pratik yolu."
+      }
+    ],
+    "alternatives": [
+      "yaren-tekstil",
+      "tex-motor",
+      "metanic-tekstil"
+    ],
+    "history": [],
+    "strongestLine": "Giriş seviyesi yerli üretim motosiklet montları (Tiger Enduro, Speed)",
+    "sources": [
+      {
+        "url": "https://www.lbc.com.tr/hakkimizda.html",
+        "type": "manufacturer",
+        "label": "LBC – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lbc.com.tr/",
+        "type": "manufacturer",
+        "label": "LBC Motor Giyim resmi sitesi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "metanic-tekstil",
+    "name": "Metanic Tekstil",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.motokuryekiyafetleri.com/",
+    "about": [
+      "Metanic Tekstil, İstanbul Bağcılar'da faaliyet gösteren ve motorize kurye, kargo, arama-kurtarma ve 112 sağlık ekipleri için teknik iş kıyafeti üreten bir firmadır. Motokuryekiyafetleri.com adresi altında satış yapıyor ve ürünlerini yerli tasarım ve üretim olarak tanıtıyor.",
+      "Kurye tarafında reflektörlü, rüzgar ve su geçirmez kaban-pantolon takımları, kurye montları, polar ara katmanlar ve diz-dirsek-sırt korumaları var. Kurumsal görünüm, logo uygulaması ve toplu sipariş odaklı bir üretici olduğu için ekip giydiren işletmeler için uygun.",
+      "Ürünler iş kıyafeti mantığıyla tasarlanmış; sitede EN 17092 gibi motosiklet giyim sınıfı her üründe belirtilmiyor. Bu yüzden kendi güvenliğin için alıyorsan, korumaların EN 1621 belgeli olup olmadığını ve dış kumaşın sürtünme dayanımını satıcıya sor; gerekirse altına korumalı bir pantolon ya da koruma seti ekle."
+    ],
+    "strengths": [
+      "Kurye ve kargo filolarına özel takım üretimi",
+      "Reflektörlü, su geçirmez iş kıyafeti tasarımı",
+      "Logolu toplu sipariş"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Motorize Kurye Kıyafetleri",
+        "note": "Su geçirmez, reflektörlü kurye mont ve pantolonları.",
+        "url": "https://www.motokuryekiyafetleri.com/motorize-kurye-kiyafetleri-k25"
+      },
+      {
+        "name": "Kabanlar",
+        "note": "Kışlık kurye ve saha kabanları.",
+        "url": "https://www.motokuryekiyafetleri.com/kabanlar-k20"
+      },
+      {
+        "name": "Korumalar (Diz, Dirsek, Sırt)",
+        "note": "Kıyafete eklenebilen koruyucular.",
+        "url": "https://www.motokuryekiyafetleri.com/korumalar-diz-dirsek-sirt-k19"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Kurye Takımı (Kaban + Pantolon)",
+        "url": "https://www.motokuryekiyafetleri.com/kurye-takimi-kaban-pantolon-u168",
+        "reason": "Bütün gün dışarıda çalışan kurye ekipleri için reflektörlü, su geçirmez takım çözümü."
+      }
+    ],
+    "alternatives": [
+      "yaren-tekstil",
+      "lbc"
+    ],
+    "history": [],
+    "strongestLine": "Reflektörlü, su geçirmez kurye kaban-pantolon takımları",
+    "sources": [
+      {
+        "url": "https://www.motokuryekiyafetleri.com/",
+        "type": "manufacturer",
+        "label": "Metanic Tekstil – Moto Kurye Kıyafetleri",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motokuryekiyafetleri.com/motorize-kurye-kiyafetleri-k25",
+        "type": "manufacturer",
+        "label": "Metanic – Motorize kurye kıyafetleri kategorisi",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "buse",
+    "name": "Büse",
+    "country": "Almanya",
+    "founded": 1982,
+    "website": "https://www.buese.com/",
+    "about": [
+      "Büse, Alman enduro sporunun en başarılı isimlerinden Heino Büse'nin kurduğu bir markadır. Gençliğinde Kreidler ile arazi sürmeye başlayan Büse, Alman ordusunda astsubay olarak görev yaparken boş zamanlarında yarıştı; firmanın kendi aktarımına göre 12 Almanya şampiyonluğu, 2 Avrupa şampiyonluğu ve 12 Altı Gün altın madalyası kazandı, 1975'te Man Adası'ndaki Altı Gün yarışını en iyi bireysel sürücü olarak bitirdi. 1982'de yarışçılığı bırakıp kurduğu aksesuar işi bugünkü Heino Büse MX Import GmbH'ye dönüştü; merkez hâlâ Aachen yakınlarındaki Roetgen'dedir.",
+      "Enduro kökenli bir ithalatçı olarak başlayan firma 1990'larda Avrupa'daki bayi ve ithalatçı ağını genişletti ve zamanla deri ve tekstil giyim, eldiven, bot, kask ve yağmurluk sunan geniş bir katalog kurdu. Büse'nin asıl gücü, makul fiyatlı ama membranlı ve korumalı touring tekstil takımlarıdır: Highland II, Livorno, Open Road III ve Monterey gibi modeller Motorrad, MO, Tourenfahrer ve MotoPlus gibi dergilerin testlerinde düzenli olarak üst sıralarda yer alıyor. Firma bu sonuçları sitesindeki test sonuçları sayfasında yıl yıl listeliyor. Büyük beden, kısa ve uzun boy kalıplar ile kadın kesimleri de Alman pazarına özgü pratik bir artı.",
+      "Türkiye'de Büse'nin yerleşik bir distribütörü ya da yaygın mağaza ağı bulunmuyor; ürünlere çoğunlukla Avrupa'daki çevrimiçi satıcılar üzerinden ulaşılıyor. Yine de standart dışı beden arayan, uzun yol için su geçirmez bir takımı orta bütçeyle almak isteyen sürücüler için Büse, bağımsız dergi testleriyle desteklenen güvenli bir referans noktası."
+    ],
+    "strengths": [
+      "Fiyat-performans odaklı touring tekstil",
+      "Geniş beden ve kalıp seçeneği",
+      "Bağımsız dergi testlerinde düzenli yer alması"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Bekleidung (Giyim)",
+        "note": "Deri ve tekstil mont-pantolon, eldiven, bot ve yağmurluk.",
+        "url": "https://www.buese.com/de/bekleidung/114"
+      },
+      {
+        "name": "Helme (Kasklar)",
+        "note": "Büse markalı kasklar.",
+        "url": "https://www.buese.com/de/helme/87"
+      },
+      {
+        "name": "Neuheiten (Yenilikler)",
+        "note": "Sezonun yeni ürünleri.",
+        "url": "https://www.buese.com/de/neuheiten/817"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Büse test sonuçları sayfası",
+        "url": "https://www.buese.com/de/testurteile",
+        "reason": "Hangi Büse ürününün Alman dergilerinde nasıl puan aldığını tek yerde görmeni sağlıyor; model seçerken iyi bir başlangıç."
+      },
+      {
+        "label": "Büse Highland II tekstil mont",
+        "url": "https://www.buese.com/de/buese-highland-ii-textiljacke-bu11578",
+        "reason": "Motorrad dergisinin 2023 karşılaştırmasında 1000 euro altı sınıfında birinci olan, markanın touring tekstildeki fiyat-performans iddiasını en iyi özetleyen model."
+      },
+      {
+        "label": "Büse Livorno tekstil mont",
+        "url": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+        "reason": "2023'te Motorrad testinde test birincisi seçilen ve Plus X Award alan, şehir ve tur kullanımına uygun membranlı mont."
+      },
+      {
+        "label": "Büse Open Road III tekstil mont",
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+        "reason": "Markanın uzun süredir devam eden Open Road touring serisinin güncel nesli; 2025'te Motorrad-Check'te beş üzerinden dört yıldız aldı."
+      }
+    ],
+    "alternatives": [
+      "modeka",
+      "revit",
+      "held"
+    ],
+    "history": [
+      {
+        "year": 1975,
+        "event": "Heino Büse, Man Adası'nda düzenlenen 50. Uluslararası Altı Gün Enduro yarışını KTM ile en iyi bireysel sürücü olarak tamamladı."
+      },
+      {
+        "year": 1982,
+        "event": "Aktif yarışçılığı bırakan Büse, Bundeswehr'deki görevini sürdürürken bir motosiklet aksesuar işi kurarak Heino Büse MX Import GmbH'nin temelini attı."
+      },
+      {
+        "year": 2020,
+        "event": "Santerno tekstil montu Alman Motorrad dergisinin testinde beş üzerinden beş yıldız aldı."
+      },
+      {
+        "year": 2023,
+        "event": "Livorno tekstil montu Motorrad dergisinin karşılaştırmasında test birincisi seçildi, Highland II ise 1000 euro altı sınıfında birinci oldu."
+      },
+      {
+        "year": 2024,
+        "event": "Monterey tekstil takımı Plus X Award'da kalite, tasarım ve ergonomi dahil beş ayrı dalda ödül aldı."
+      }
+    ],
+    "strongestLine": "Fiyat-performans odaklı membranlı touring tekstil takımlar (Highland, Livorno, Open Road)",
+    "sources": [
+      {
+        "url": "https://www.buese.com/",
+        "type": "manufacturer",
+        "label": "Büse resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/ueber-uns",
+        "type": "manufacturer",
+        "label": "Büse – Über uns (tarihçe)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/testurteile",
+        "type": "manufacturer",
+        "label": "Büse – Test sonuçları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://blog.ktm.com/inthisyear1975-heino-buese-is-best-individual-rider-at-the-six-days-trial-at-the-isle-of-man/",
+        "type": "review",
+        "label": "KTM Blog – Heino Büse, 1975 Altı Gün yarışı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shop.zweirad-stadler.de/top-marken-die-inspirieren/buese/",
+        "type": "retailer",
+        "label": "Zweirad Stadler – Büse marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-highland-ii-textiljacke-bu11578",
+        "type": "manufacturer",
+        "label": "Büse – Highland II ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-livorno-textiljacke-bu11444",
+        "type": "manufacturer",
+        "label": "Büse – Livorno ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.buese.com/de/buese-open-road-iii-textiljacke-bu11620",
+        "type": "manufacturer",
+        "label": "Büse – Open Road III ürün sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "ixs",
+    "name": "iXS",
+    "country": "İsviçre",
+    "founded": 1979,
+    "website": "https://www.ixs.com/",
+    "about": [
+      "iXS, 1979'da İsviçre'nin Sursee kentinde Hostettler şirketi çatısı altında doğmuş bir koruyucu giyim markasıdır. Hostettler grubu, kendi tanımıyla yaklaşık 120 yıldır motosiklet, bisiklet ve tüketici elektroniği gibi alanlarda faaliyet gösteren bir aile şirketi; iXS ise grubun kendi markası olarak Sursee'deki yaklaşık 30 kişilik ekiple tasarlanıyor. 1980'lerde dönemin modasını yansıtan deri yarış tulumlarıyla tanınan marka, 2000'lerde Tom Lüthi ve Dominique Aegerter gibi İsviçreli pilotları destekledi; Lüthi 2020'den beri marka elçisi ve ürün geliştirme ortağı.",
+      "iXS bugün iki ayağa dayanıyor: motosiklet tarafında mont, pantolon, eldiven, bot, kask ve airbag; bisiklet tarafında ise 2001'de başlayan ve tasarım ödülleri almış MTB koruma ve kask serisi. Motosiklet tarafındaki en belirgin kimlik \"100% Airbag Ready\" yaklaşımı: X-Stretch kumaşlı montlar, In&motion teknolojisiyle çalışan iPRO 1.0 elektronik airbag yeleğiyle uyumlu olacak şekilde kesiliyor. Tourster koleksiyonu bu yaklaşımın touring tarafı; üst modeli Tourster-GTX 1.0, üç katmanlı GORE-TEX laminat ve EN 17092 AAA sınıfıyla markanın en iddialı takımı. Rapid gibi seriler ise şehir ve yazlık kullanımı karşılıyor.",
+      "Türkiye'de iXS'in yaygın bir mağaza ağı yok; ürünlere çoğunlukla Avrupa'daki çevrimiçi satıcılar üzerinden ulaşılıyor. Orta segment fiyatlarla airbag'e hazır bir giyim sistemi kurmak isteyen ya da yağmurda uzun yol yapan sürücüler için iXS, REV'IT! ve Held'e İsviçre kökenli bir alternatif sunuyor."
+    ],
+    "strengths": [
+      "Airbag uyumlu giyim yaklaşımı",
+      "Geniş touring ve yağmurluk yelpazesi",
+      "MIPS'li çene açılır kask seçeneği"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "kask",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Tourster Collection",
+        "note": "Uzun yol ve adventure odaklı tekstil koleksiyon.",
+        "url": "https://www.ixs.com/collections/tourster-collection"
+      },
+      {
+        "name": "Motorrad Airbag",
+        "note": "Airbag yelekler ve uyumlu montlar.",
+        "url": "https://www.ixs.com/collections/motorrad-airbag"
+      },
+      {
+        "name": "Motorrad Regenbekleidung",
+        "note": "Yağmurluk takımlar ve laminat ürünler.",
+        "url": "https://www.ixs.com/collections/motorrad-regenbekleidung"
+      },
+      {
+        "name": "Klapphelme",
+        "note": "Çene açılır kasklar.",
+        "url": "https://www.ixs.com/collections/klapphelme"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "iXS Venture 1.0 MIPS çene açılır kask",
+        "url": "https://www.ixs.com/products/ixs-venture-1-0-mips-klapphelm-matt-schwarz-anthrazit",
+        "reason": "Açılı darbelere karşı MIPS katmanı olan, orta fiyatlı bir çene açılır kask arayanlar için."
+      },
+      {
+        "label": "iXS airbag koleksiyonu",
+        "url": "https://www.ixs.com/collections/motorrad-airbag",
+        "reason": "Airbag'e geçmeyi düşünenler için uyumlu mont ve yelekler tek sayfada."
+      },
+      {
+        "label": "iXS iPRO 1.0 airbag yelek",
+        "url": "https://www.ixs.com/products/ixs-airbag-weste-ipro-1-0-schwarz",
+        "reason": "In&motion teknolojisiyle çalışan, motosiklete bağlantı gerektirmeyen ve 60 milisaniyenin altında şişen elektronik yelek; iXS'in Airbag Ready giyim sisteminin merkezi."
+      },
+      {
+        "label": "iXS Tourster-GTX 1.0 laminat mont",
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "reason": "Üç katmanlı GORE-TEX laminat, EN 17092 AAA sınıfı ve airbag uyumluluğuyla markanın touring tarafındaki en üst modeli."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "held",
+      "modeka"
+    ],
+    "history": [
+      {
+        "year": 1979,
+        "event": "iXS markası, İsviçre'nin Sursee kentindeki aile şirketi Hostettler bünyesinde kuruldu."
+      },
+      {
+        "year": 2001,
+        "event": "Marka ilk dağ bisikleti (MTB) ürün serisini çıkararak motosiklet dışına açıldı."
+      },
+      {
+        "year": 2020,
+        "event": "125cc dünya şampiyonu İsviçreli pilot Tom Lüthi, ürün geliştirmeye de katılan iXS marka elçisi oldu."
+      },
+      {
+        "year": 2024,
+        "event": "In&motion iş birliğiyle geliştirilen elektronik iPRO 1.0 airbag yeleği, Airbag Ready X-Stretch montlarla birlikte Avrupa pazarında satışa sunuldu."
+      }
+    ],
+    "strongestLine": "Airbag uyumlu touring tekstil giyim (Tourster serisi, iPRO 1.0 airbag yelek)",
+    "sources": [
+      {
+        "url": "https://www.ixs.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "iXS – About us",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/en/pages/about-us",
+        "type": "manufacturer",
+        "label": "iXS – About us (İngilizce)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/en/pages/airbag-ready",
+        "type": "manufacturer",
+        "label": "iXS – 100% Airbag Ready",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/products/ixs-airbag-weste-ipro-1-0-schwarz",
+        "type": "manufacturer",
+        "label": "iXS – iPRO 1.0 airbag yelek ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixs.com/products/tourster-gtx-1-0-laminatjacke-dunkelgrau",
+        "type": "manufacturer",
+        "label": "iXS – Tourster-GTX 1.0 laminat mont ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.hostettler.com/en/tom-luethi-is-the-new-ixs-brand-ambassador/",
+        "type": "manufacturer",
+        "label": "Hostettler – Tom Lüthi iXS marka elçisi oldu (2020)",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/accessori/airbag-ixs-ipro-1-0-il-gilet-elettronico-e-il-giubbotto-airbag-ready-ts-pro-st-video.html",
+        "type": "review",
+        "label": "Moto.it – iXS iPRO 1.0 incelemesi (Haziran 2024)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "bering",
+    "name": "Bering",
+    "country": "Fransa",
+    "founded": 1991,
+    "website": "https://bering-moto.com/",
+    "about": [
+      "Bering, 1991'de kurulmuş bir Fransız motosiklet giyim markasıdır; adını ve ayı amblemini Asya ile Kuzey Amerika arasındaki Bering Boğazı'ndan alır. 2026'da 35. yılı vesilesiyle kurumsal kimliğini yeniledi.",
+      "Ürün yelpazesi Adventouring, Roadster ve Urban Mobility gibi kullanım odaklı koleksiyonlara ayrılmış. Gore-Tex'li Anchorage gibi touring montlar, geniş eldiven yelpazesi ve kabloyla tetiklenen C-Protect Air Evo airbag yeleği markanın öne çıkan ürünleri. Bering ürünlerinde 5 yıl garanti veriyor.",
+      "Fransa'da scooter ve şehir içi sürücülerin çok sevdiği bir markadır; eldiven ve kışlık ürünlerde özellikle iddialıdır. Türkiye'de yetkili satış kanalı sınırlı olduğu için yurt dışı alışverişte beden tablosunu dikkatle kontrol etmek gerekir."
+    ],
+    "strengths": [
+      "Şehir içi ve kış kullanımına yönelik geniş eldiven yelpazesi",
+      "Gore-Tex'li touring giyim",
+      "Uygun fiyatlı kablolu airbag yelek",
+      "5 yıl garanti"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Adventouring",
+        "note": "Uzun yol ve adventure koleksiyonu.",
+        "url": "https://bering-moto.com/collections/adventouring"
+      },
+      {
+        "name": "Urban Mobility",
+        "note": "Şehir içi ve scooter kullanıcıları için koleksiyon.",
+        "url": "https://bering-moto.com/collections/urban-mobility"
+      },
+      {
+        "name": "Gants (Eldivenler)",
+        "note": "Yazlık, kışlık ve ısıtmalı eldivenler.",
+        "url": "https://bering-moto.com/collections/gants"
+      },
+      {
+        "name": "Équipement pluie",
+        "note": "Yağmurluklar.",
+        "url": "https://bering-moto.com/collections/equipement-pluie"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Bering C-Protect Air Evo airbag yelek",
+        "url": "https://bering-moto.com/products/c-protect-air-evo-noir-abc070",
+        "reason": "Mevcut montun üzerine giyilen, kablolu ve bakımı basit bir airbag yelek; airbag'e en düşük maliyetle girişlerden biri."
+      },
+      {
+        "label": "Bering Anchorage Gore-Tex mont",
+        "url": "https://bering-moto.com/products/anchorage-gore-tex-noir-btv1250",
+        "reason": "Gore-Tex membranıyla yağmurlu ve soğuk havada uzun süre kuru kalmak isteyen touring sürücüsü için."
+      }
+    ],
+    "alternatives": [
+      "ixon",
+      "furygan",
+      "richa"
+    ],
+    "history": [
+      {
+        "year": 1951,
+        "event": "Markanın kökeni olan Plastex, motorcular ve denizciler için su geçirmez giyim üretmek üzere Fransa'da kuruldu."
+      },
+      {
+        "year": 1991,
+        "event": "Plastex, sert iklimiyle bilinen Bering Boğazı'ndan esinlenerek kutup ayısı amblemli Bering adını benimsedi."
+      },
+      {
+        "year": 2010,
+        "event": "Bering, kablosuz elektronik airbag sistemi Protect Air'i sunan ilk Fransız marka oldu."
+      },
+      {
+        "year": 2011,
+        "event": "Marka, Fransız kask üreticisi Shark'ın bağlı olduğu holding grubu tarafından satın alındı."
+      },
+      {
+        "year": 2012,
+        "event": "Bering, tüm motosiklet eldivenlerini KKD olarak sertifikalandıran ilk Fransız üretici oldu."
+      },
+      {
+        "year": 2017,
+        "event": "Mekanik tetiklemeli C-Protect Air airbag yeleği piyasaya çıktı."
+      },
+      {
+        "year": 2026,
+        "event": "35. yılında kutup ayısı logosunu yeniden öne çıkaran yeni bir kimliğe geçti."
+      }
+    ],
+    "strongestLine": "Kışlık ve ısıtmalı eldivenler, su geçirmez şehir-touring giyim",
+    "sources": [
+      {
+        "url": "https://bering-moto.com/pages/bering-35-ans-nouvelle-identite",
+        "type": "manufacturer",
+        "label": "Bering – 35 yıl ve yeni kimlik",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bering-moto.com/",
+        "type": "manufacturer",
+        "label": "Bering resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lerepairedesmotards.com/dossiers/marques/bering.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Bering marka dosyası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "ixon",
+    "name": "Ixon",
+    "country": "Fransa",
+    "founded": 1996,
+    "website": "https://www.ixon.com/",
+    "about": [
+      "Ixon, \"Designed in France\" vurgusu yapan bir Fransız motosiklet giyim markasıdır. Racing, Roadster, Adventure, Urban ve Heritage olmak üzere kullanım tarzına göre ayrılmış geniş bir koleksiyonu var; mont, pantolon, tulum, eldiven, bot, kot, yağmurluk ve çanta üretiyor.",
+      "Markanın teknik tarafta öne çıkan ürünleri ısıtmalı eldivenler ve IX-Airbag U04 gibi elektronik airbag yelekleridir. Fiyatlandırma orta segmentte; tasarım dili genç ve sportif.",
+      "Ixon özellikle Fransa ve Benelüks'te scooter ve şehir içi kullanıcılar arasında çok yaygındır. Türkiye'de bulunabilirliği sınırlı, ancak ısıtmalı eldiven ve airbag yelek gibi niş ürünlerde güçlü bir alternatif."
+    ],
+    "strengths": [
+      "Isıtmalı eldiven seçenekleri",
+      "Elektronik airbag yelek",
+      "Kullanım tarzına göre net ayrılmış koleksiyonlar"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Adventure",
+        "note": "Adventure ve touring koleksiyonu.",
+        "url": "https://www.ixon.com/en/adventure"
+      },
+      {
+        "name": "Urban",
+        "note": "Şehir içi kullanım için mont ve aksesuarlar.",
+        "url": "https://www.ixon.com/en/urban"
+      },
+      {
+        "name": "Rain gear",
+        "note": "Yağmurluk ürünleri.",
+        "url": "https://www.ixon.com/en/rain-gear"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Ixon ısıtmalı eldivenler",
+        "url": "https://www.ixon.com/en/heated-gloves",
+        "reason": "Kışın elleri sıcak tutmak için kendi bataryalı ısıtmalı eldiven serisi sunan az sayıdaki markadan biri."
+      },
+      {
+        "label": "IX-Airbag U04",
+        "url": "https://www.ixon.com/en/ix-airbag-u04",
+        "reason": "Mont üzerine giyilen, kablosuz tetiklemeli bir airbag yelek arayanlar için."
+      }
+    ],
+    "alternatives": [
+      "bering",
+      "furygan",
+      "revit"
+    ],
+    "history": [
+      {
+        "year": 1996,
+        "event": "IXON, 24 yaşındaki motosiklet tutkunu Thierry Maniguet tarafından Fransa'da kuruldu."
+      },
+      {
+        "year": 2010,
+        "event": "Marka MotoGP paddock'unda yer almaya başlayarak yarış dünyasındaki varlığını güçlendirdi."
+      }
+    ],
+    "strongestLine": "Fiyat/performans odaklı şehir ve touring montları",
+    "sources": [
+      {
+        "url": "https://www.ixon.com/en/heritage",
+        "type": "manufacturer",
+        "label": "Ixon – Heritage / marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixon.com/en/designed-in-france",
+        "type": "manufacturer",
+        "label": "Ixon – Designed in France",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.ixon.com/en/about",
+        "type": "manufacturer",
+        "label": "IXON – About",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "richa",
+    "name": "Richa",
+    "country": "Belçika",
+    "founded": 1956,
+    "website": "https://www.richa.eu/",
+    "about": [
+      "Richa, Belçika kökenli bir aile şirketidir. Marka tarihi Charles Rigaux'nun 1950'lerin başında deri eldiven üretmesiyle başlar; isim, Rigaux soyadı ile oğlu Julien'in baş harfinin birleşiminden gelir. Motosiklet giyimine 1977'de geçildi, merkez 1991'de Michelbeke'ye taşındı.",
+      "Firma Tunus, Pakistan ve Asya'daki üretim tesisleriyle yaklaşık 50 ülkeye ihracat yapıyor. 2011'den itibaren Gore-Tex, 2014'ten itibaren D3O ile iş birliği yapıyor; Belçika ve Hollanda polisinin motosiklet ekipmanı tedarikçisi olması, markanın günlük ve yoğun kullanıma dayanıklılığına dair iyi bir gösterge.",
+      "Richa kökeni gereği eldivende çok güçlüdür; touring tarafında Infinity ve Cyclone, Gore-Tex segmentinde Platinum GTX Pro, yazlık tarafta ise Airstream gibi file montlar öne çıkar. Büyük beden (big size) kalıpları da ayrı sunulur."
+    ],
+    "strengths": [
+      "Eldiven kökenli üretim deneyimi",
+      "Gore-Tex ve D3O iş birlikleri",
+      "Polis teşkilatlarına ekipman tedariği",
+      "Büyük beden kalıplar"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "kask",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "Infinity",
+        "note": "4 mevsim adventure/touring mont ve pantolonlar.",
+        "url": "https://www.richa.eu/product/infinity-3-adventure-jacket/"
+      },
+      {
+        "name": "Airstream",
+        "note": "Yazlık file montlar.",
+        "url": "https://www.richa.eu/product/airstream-x-2-jacket/"
+      },
+      {
+        "name": "Eldivenler",
+        "note": "Markanın kökeni olan geniş eldiven yelpazesi.",
+        "url": "https://www.richa.eu/shop/cat/gloves/"
+      },
+      {
+        "name": "Yağmurluklar",
+        "note": "Yağmur takımları ve tek parça yağmurluklar.",
+        "url": "https://www.richa.eu/shop/cat/rainwear/gen/men,unisex/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Richa Platinum GTX Pro mont",
+        "url": "https://www.richa.eu/product/platinum-gtx-pro-jacket/",
+        "reason": "Gore-Tex Pro katmanıyla markanın en üst seviye, her havaya dayanıklı touring montu."
+      },
+      {
+        "label": "Richa Infinity 3 Adventure mont",
+        "url": "https://www.richa.eu/product/infinity-3-adventure-jacket/",
+        "reason": "Yıl boyu kullanılacak, çıkarılabilir katmanlı bir 4 mevsim montta fiyat-performans dengesi iyi."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "held",
+      "bering"
+    ],
+    "history": [
+      {
+        "year": 1952,
+        "event": "Charles Rigaux Belçika'da deri eldiven üretimine başladı."
+      },
+      {
+        "year": 1956,
+        "event": "Oğlu Julien Rigaux, adını babasının isminden alan Richa markasını kurdu."
+      },
+      {
+        "year": 1977,
+        "event": "Luc Rigaux yönetiminde motosiklet giyimi üretimine geçildi."
+      },
+      {
+        "year": 2011,
+        "event": "Richa ilk Gore-Tex sertifikalı eldivenlerini üretti."
+      },
+      {
+        "year": 2014,
+        "event": "D3O koruma ortaklığı başladı ve ihracat 40 ülkeye ulaştı."
+      },
+      {
+        "year": 2020,
+        "event": "Hollanda'da MKC Moto, Belçika'da Joma Motors ve Avusturya'da Bike Expert devralındı."
+      },
+      {
+        "year": 2021,
+        "event": "Koleksiyonun tamamı EN 17092 sertifikasına kavuştu."
+      }
+    ],
+    "strongestLine": "Motosiklet eldivenleri ve Gore-Tex touring giyim",
+    "sources": [
+      {
+        "url": "https://www.richa.eu/brand-history/",
+        "type": "manufacturer",
+        "label": "Richa – 70 years of Richa",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "rukka",
+    "name": "Rukka",
+    "country": "Finlandiya",
+    "founded": 1950,
+    "website": "https://luhta.com/en/b/rukka-motorsport",
+    "about": [
+      "Rukka, 1950'de Finlandiya'nın Lahti kentinde doğmuş bir dış giyim markasıdır ve motosiklet tarafında uzun yol ve adventure sürücülerinin üst segment tercihi olarak bilinir. Bugün motosiklet ürünleri Luhta grubunun sitesinde \"Rukka Motorsport\" adıyla satılıyor.",
+      "Rukka'nın ünü, Gore-Tex membranlı ve D3O korumalı takımların on yıl ve daha uzun süre kullanılmasından gelir. Mont ve pantolonlarda 5 yıl garanti, eldiven ve katmanlarda 2 yıl garanti veriliyor. İskandinav iklimine göre geliştirildiği için yağmur ve soğukta performansı en çok övülen yanıdır.",
+      "Fiyatlar yüksek; Türkiye'de bulmak zor ve ithalat maliyeti eklenir. Buna karşın yılda on binlerce kilometre yapan touring sürücüleri için toplam kullanım ömrü düşünüldüğünde mantıklı bir yatırım olabilir."
+    ],
+    "strengths": [
+      "Uzun ömürlü Gore-Tex touring takımlar",
+      "Mont ve pantolonlarda 5 yıl garanti",
+      "Soğuk ve yağmurlu iklime göre geliştirme"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven"
+    ],
+    "families": [
+      {
+        "name": "Erkek montlar",
+        "note": "Touring, adventure ve urban montlar.",
+        "url": "https://luhta.com/en/c/rukka-motorsport/all-products/men/jackets"
+      },
+      {
+        "name": "Erkek pantolonlar",
+        "note": "Montlarla eşleşen touring pantolonlar.",
+        "url": "https://luhta.com/en/c/rukka-motorsport/all-products/men/trousers"
+      },
+      {
+        "name": "Kışlık eldivenler",
+        "note": "Soğuk hava için yalıtımlı, membranlı eldivenler.",
+        "url": "https://luhta.com/en/c/rukka-motorsport/all-products/gloves/winter"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Rukka kışlık eldivenleri",
+        "url": "https://luhta.com/en/c/rukka-motorsport/all-products/gloves/winter",
+        "reason": "Finlandiya kışına göre geliştirilmiş eldivenler; soğukta uzun süre sürenler için güçlü bir referans."
+      }
+    ],
+    "alternatives": [
+      "klim",
+      "held",
+      "revit"
+    ],
+    "history": [
+      {
+        "year": 1950,
+        "event": "Roger Störling, Finlandiya'nın Kokkola bölgesinde koşu giysileri üreten aile şirketini kurdu."
+      },
+      {
+        "year": 1953,
+        "event": "Şirket ürün gamını su geçirmez yağmurluklara genişletti; ikonik sarı yağmurluk bu dönemde doğdu."
+      },
+      {
+        "year": 1990,
+        "event": "Rukka, Lahti merkezli L-Fashion Group (Luhta) bünyesine bağımsız bir marka olarak katıldı."
+      }
+    ],
+    "strongestLine": "Gore-Tex membranlı premium touring takımları",
+    "sources": [
+      {
+        "url": "https://luhta.com/en/b/rukka-motorsport",
+        "type": "manufacturer",
+        "label": "Rukka Motorsport – Luhta resmi mağaza",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fc-moto.de/en/Brands/R/Rukka",
+        "type": "retailer",
+        "label": "FC-Moto – Rukka marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://yle.fi/a/3-9871155",
+        "type": "review",
+        "label": "Yle – Rukka yağmurluğunun hikâyesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://sportsbikeshop.co.uk/motorcycle_parts/content_cat/1306",
+        "type": "retailer",
+        "label": "SportsBikeShop – Rukka marka sayfası",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "klim",
+    "name": "Klim",
+    "country": "ABD",
+    "founded": 1999,
+    "website": "https://www.klim.com/",
+    "about": [
+      "Klim, Idaho (ABD) merkezli; adventure, dual sport, off-road ve kar motosikleti ekipmanı üreten bir markadır. Gore-Tex ile uzun süreli iş birliği ve kendi geliştirdiği koruyucularıyla özellikle adventure segmentinde referans kabul edilir.",
+      "Badlands Pro A3 gibi üst seviye ürünlerde EN 17092-2'ye göre CE AAA sınıfı, Gore-Tex Pro 3 katman kabuk ve Klim'in kendi seviye 2 Rogue koruyucuları kullanılıyor. Carlsbad gibi modeller ise daha erişilebilir Gore-Tex touring tarafını temsil ediyor; Induction gibi file montlar sıcak iklim için.",
+      "Klim pahalıdır ve Türkiye'de sınırlı bayide bulunur. Buna karşılık aynı montu her gün, her havada uzun yıllar kullanmak isteyen adventure ve touring sürücüsü için toplam maliyet hesabında öne çıkabilir."
+    ],
+    "strengths": [
+      "Adventure segmentinde CE AAA sınıfı ürünler",
+      "Gore-Tex Pro kabuklar ve kuru kalma garantisi",
+      "Sıcak iklim için file seçenekleri"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot",
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Badlands",
+        "note": "Üst seviye Gore-Tex Pro adventure mont/pantolon.",
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/badlands-pro-a3-jacket-4101-002"
+      },
+      {
+        "name": "Carlsbad",
+        "note": "Gore-Tex'li, daha erişilebilir touring/adventure takım.",
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/carlsbad-jacket-6029-003"
+      },
+      {
+        "name": "Induction",
+        "note": "Yazlık file mont.",
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/induction-jacket-5060-003"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Klim Badlands Pro A3 mont",
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/badlands-pro-a3-jacket-4101-002",
+        "reason": "CE AAA sınıfı ve Gore-Tex Pro kabuğu bir arada sunan, adventure montlarının ölçüt alındığı model."
+      },
+      {
+        "label": "Klim Induction file mont",
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/induction-jacket-5060-003",
+        "reason": "Sıcak havada maksimum hava akışı isteyen adventure sürücüsü için markanın yazlık seçeneği."
+      }
+    ],
+    "alternatives": [
+      "rukka",
+      "revit",
+      "dainese"
+    ],
+    "history": [
+      {
+        "year": 1994,
+        "event": "Justin Summers, Salt Lake City'de Teton Outfitters adıyla kar motosikleti tulumları üretmeye başladı."
+      },
+      {
+        "year": 1999,
+        "event": "Şirket Idaho'ya taşınarak KLIM adını aldı."
+      },
+      {
+        "year": 2005,
+        "event": "Kar sezonu dışında kapasiteyi değerlendirmek için arazi motosikleti ekipmanı geliştirilmeye başlandı."
+      },
+      {
+        "year": 2009,
+        "event": "Büyüyen adventure motosiklet pazarı için dayanıklı yol giyim serisi sunuldu."
+      },
+      {
+        "year": 2012,
+        "event": "KLIM, Polaris tarafından satın alınarak tamamen ona bağlı bir şirket oldu."
+      }
+    ],
+    "strongestLine": "Gore-Tex adventure ve touring takımları (Badlands Pro, Carlsbad)",
+    "sources": [
+      {
+        "url": "https://www.klim.com/collections/mens-motorcycle-jackets/products/badlands-pro-a3-jacket-4101-002",
+        "type": "manufacturer",
+        "label": "Klim – Badlands Pro A3 ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.klim.com/",
+        "type": "manufacturer",
+        "label": "Klim resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Klim_(clothing)",
+        "type": "review",
+        "label": "Wikipedia – Klim (clothing)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "icon",
+    "name": "Icon",
+    "country": "ABD",
+    "founded": 2002,
+    "website": "https://www.rideicon.com/",
+    "about": [
+      "Icon Motosports, ABD'nin Portland kentiyle özdeşleşmiş, sokak ve sportif sürüşe yönelik kask, mont, eldiven ve bot üreten bir markadır. Grafik tasarımları ve sokak kültürüne yakın dili sayesinde genç sürücüler arasında ayrı bir kimliği var.",
+      "Kask tarafında Airflite (geniş vizörlü, güneş vizörlü), Airform (MIPS seçenekli, uygun fiyatlı), Airframe Pro ve karbon kabuklu Ultraflite öne çıkıyor. Airflite modelinin DOT ve ECE 22.06 onaylı versiyonları bulunuyor; Avrupa'da alırken etiketi kontrol etmek gerekir.",
+      "Icon'un giyim tarafı ABD pazarına göre tasarlandığı için bazı ürünler EN 17092 yerine yalnızca koruyucu (EN 1621) belgesiyle gelir. Görünüm öncelikli sürücüler için cazip, ancak koruma sınıfını ürün bazında kontrol etmek şart."
+    ],
+    "strengths": [
+      "Dikkat çekici grafik tasarımlar",
+      "MIPS seçenekli uygun fiyatlı kasklar",
+      "Sokak ve sportif sürüş odaklı dil"
+    ],
+    "categories": [
+      "kask",
+      "mont",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Airform",
+        "note": "MIPS seçenekli, uygun fiyatlı kapalı kask.",
+        "url": "https://www.rideicon.com/product/p/airform-mips-island-time-helmet"
+      },
+      {
+        "name": "Airframe Pro",
+        "note": "Kompozit kabuklu sportif kapalı kask.",
+        "url": "https://www.rideicon.com/product/p/airframe-pro-hyperstrike-helmet-red"
+      },
+      {
+        "name": "Ultraflite",
+        "note": "Karbon kabuklu üst seviye kask.",
+        "url": "https://www.rideicon.com/product/p/ultraflite-carbon-helmet-gold"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Icon Airform MIPS",
+        "url": "https://www.rideicon.com/product/p/airform-mips-island-time-helmet",
+        "reason": "Açılı darbeler için MIPS katmanını uygun fiyatlı bir kapalı kaskta sunuyor."
+      }
+    ],
+    "alternatives": [
+      "bell",
+      "hjc",
+      "scorpion"
+    ],
+    "history": [
+      {
+        "year": 2002,
+        "event": "Icon, Portland'da tasarım direktörü Kurt Walter'ın mesai sonrası bir denemesi olarak sokak odaklı motorcu ekipmanı üretmeye başladı."
+      },
+      {
+        "year": 2008,
+        "event": "Sert çizgili Airframe tam yüz kaskı piyasaya çıktı."
+      },
+      {
+        "year": 2012,
+        "event": "Deri, denim ve D3O korumalı premium Icon 1000 serisi tanıtıldı."
+      }
+    ],
+    "strongestLine": "Sokak stili tam yüz kasklar (Airframe Pro, Airflite)",
+    "sources": [
+      {
+        "url": "https://www.rideicon.com/product/helmets",
+        "type": "manufacturer",
+        "label": "Icon – Kasklar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://sharp.dft.gov.uk/helmets/icon-airflite/",
+        "type": "homologation",
+        "label": "SHARP – Icon Airflite testi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.gearpatrol.com/cars/motorcycles/a87432/review-icon-motorsports/",
+        "type": "review",
+        "label": "Gear Patrol – Talk Shop: Icon Motorsports",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://old.webbikeworld.com/?p=5507",
+        "type": "review",
+        "label": "webBikeWorld – Icon Airframe incelemesi (2008)",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "bell",
+    "name": "Bell",
+    "country": "ABD",
+    "founded": 1954,
+    "website": "https://www.bellhelmets.com/",
+    "about": [
+      "Bell, Kaliforniya kökenli, motor sporları kaskı denilince akla gelen en eski Amerikan markalarından biridir. Bugün motosiklet tarafında kapalı, çene açılır, retro, adventure ve off-road kasklar; ayrıca geniş bir bisiklet kaskı yelpazesi sunuyor.",
+      "Bell'in Avrupa'da en çok bilinen yüzü retro serisidir: Bullitt gibi modeller klasik görünümü güncel onaylarla birleştirir. Modüler tarafta SRT Modular ve Broozer gibi modeller, off-road tarafta ise Moto-10 Spherical gibi üst seviye ürünler var.",
+      "Bell kasklarının bir kısmı yalnızca ABD (DOT) pazarı için üretilir. Türkiye'de ya da Avrupa'da alacağın modelin ECE 22.06 etiketli versiyon olduğundan emin ol; sitedeki ürün adlarında \"DOT/ECE\" ibaresi bunu ayırt etmeye yardım eder."
+    ],
+    "strengths": [
+      "Retro kasklarda güçlü tasarım mirası",
+      "Off-road ve motor sporlarında köklü geçmiş",
+      "Modüler ve adventure seçenekleri"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Retro",
+        "note": "Bullitt gibi klasik görünümlü kasklar.",
+        "url": "https://www.bellhelmets.com/powersports/retro/"
+      },
+      {
+        "name": "Modular",
+        "note": "SRT Modular ve Broozer gibi çene açılır modeller.",
+        "url": "https://www.bellhelmets.com/powersports/modular/"
+      },
+      {
+        "name": "Off Road",
+        "note": "Moto-10 Spherical ve MX serisi.",
+        "url": "https://www.bellhelmets.com/powersports/off-road/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Bell retro kask serisi",
+        "url": "https://www.bellhelmets.com/powersports/retro/",
+        "reason": "Klasik motosikletler için güncel onaylı, otantik görünümlü kask arayanların ilk durağı."
+      },
+      {
+        "label": "Bell modüler kasklar",
+        "url": "https://www.bellhelmets.com/powersports/modular/",
+        "reason": "Güneş vizörlü SRT Modular gibi modellerle şehir ve touring için çene açılır seçenekler."
+      }
+    ],
+    "alternatives": [
+      "icon",
+      "hjc",
+      "arai"
+    ],
+    "history": [
+      {
+        "year": 1954,
+        "event": "Roy Richter, Kaliforniya'da fiberglas kabuklu ilk Bell 500 yarış kaskını üretti."
+      },
+      {
+        "year": 1956,
+        "event": "Bell Helmet Company, Bell Auto Parts'ın bir bölümü olarak kuruldu."
+      },
+      {
+        "year": 1968,
+        "event": "Bell Star ile piyasadaki ilk tam yüz motosiklet kaskı sunuldu."
+      },
+      {
+        "year": 1971,
+        "event": "Bell, ilk tam yüz arazi motosikleti kaskını üretti."
+      },
+      {
+        "year": 1980,
+        "event": "Şirket Riddell ile birleşerek Bell-Riddell'i oluşturdu."
+      },
+      {
+        "year": 2016,
+        "event": "Bell'in bağlı olduğu grup Vista Outdoor tarafından satın alındı."
+      }
+    ],
+    "strongestLine": "Retro ve off-road kasklar (Bullitt, Moto-9)",
+    "sources": [
+      {
+        "url": "https://www.bellhelmets.com/about.html",
+        "type": "manufacturer",
+        "label": "Bell Helmets – About Us",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bell_Sports",
+        "type": "review",
+        "label": "Wikipedia – Bell Sports",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "ogk-kabuto",
+    "name": "OGK Kabuto",
+    "country": "Japonya",
+    "founded": 1948,
+    "website": "https://www.ogkkabuto.co.jp/",
+    "about": [
+      "OGK Kabuto, motosiklet ve bisiklet kaskı üreten bir Japon firmasıdır. Motosiklet kaskları Kabuto markasıyla satılıyor ve Japon pazarında Shoei ile Arai'nin yanında anılan yerli üreticilerden biridir.",
+      "Ürün yelpazesi sportif Aeroblade ve F-17, günlük kullanıma yönelik Kamui-3 ve çene açılır Ryuki gibi modellerden oluşuyor. Kabuto rüzgar tünelinde geliştirilmiş aerodinamik stabilizatörleri (wake stabilizer) ile bilinir; Ryuki'de UV ve kızılötesi ışını kesen vizör kullanılıyor.",
+      "Fiyat-performans dengesi Japon rakiplerine göre daha erişilebilir. Avrupa ve Türkiye'de satılan modellerin ECE 22.06 onaylı versiyonlarını seçmek ve Asya tipi (daha yuvarlak) kafa kalıbına uyumu denemek gerekir."
+    ],
+    "strengths": [
+      "Japon üretim kalitesini daha erişilebilir fiyata sunması",
+      "Aerodinamik stabilizatörlü sportif kasklar",
+      "Hafif çene açılır model (Ryuki)"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Ryuki",
+        "note": "Çene açılır (system) kask.",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/system/ryuki/"
+      },
+      {
+        "name": "Kamui-3",
+        "note": "Güneş vizörlü, günlük kullanıma yönelik kapalı kask.",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/fullface/kamui3/kamui3.html"
+      },
+      {
+        "name": "Aeroblade-6",
+        "note": "Sportif, aerodinamik kapalı kask.",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/fullface/aeroblade6/aeroblade6.html"
+      },
+      {
+        "name": "F-17",
+        "note": "Pist odaklı üst seviye kapalı kask.",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/fullface/f17/f17.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Kabuto Ryuki çene açılır kask",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/system/ryuki/",
+        "reason": "UV ve kızılötesi kesen vizörü, iç güneş vizörü ve interkom yuvasıyla hafif bir touring çene açılır kaskı."
+      },
+      {
+        "label": "Kabuto Kamui-3",
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/products/fullface/kamui3/kamui3.html",
+        "reason": "Güneş vizörlü, günlük kullanım için dengeli fiyatlı bir Japon kapalı kask."
+      }
+    ],
+    "alternatives": [
+      "shoei",
+      "arai",
+      "hjc"
+    ],
+    "history": [
+      {
+        "year": 1948,
+        "event": "Osaka Grip MFG., bisiklet için plastik ve kauçuk aksesuar üreticisi olarak Osaka'da kuruldu."
+      },
+      {
+        "year": 1974,
+        "event": "Şirket ayrı bir yapı altında motosiklet ve bisiklet kaskı geliştirmeye ve satmaya başladı."
+      },
+      {
+        "year": 1992,
+        "event": "RS-1R, üst havalandırma sistemine sahip dünyanın ilk kaskı olarak tanıtıldı."
+      },
+      {
+        "year": 1998,
+        "event": "Ragles modeliyle ilk arka aero kanatçık kullanıldı."
+      },
+      {
+        "year": 2006,
+        "event": "Marka OGK Kabuto adını aldı ve Suzuka 8 Saat'te ilk zaferini kazandı."
+      },
+      {
+        "year": 2007,
+        "event": "FF-5, dünyanın ilk 'wake stabilizer' aerodinamik parçasıyla piyasaya çıktı."
+      },
+      {
+        "year": 2011,
+        "event": "Hollanda'da Kabuto Europe kuruldu."
+      }
+    ],
+    "strongestLine": "Aerodinamik ve hafif spor-touring kasklar (Aeroblade, RT-33, Kamui)",
+    "sources": [
+      {
+        "url": "https://www.ogkkabuto.co.jp/motorcycle/",
+        "type": "manufacturer",
+        "label": "Kabuto – Motosiklet kaskları",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bikereview.com.au/history-kabuto-ogk-helmets/",
+        "type": "review",
+        "label": "Bike Review – History of Kabuto OGK helmets",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "caberg",
+    "name": "Caberg",
+    "country": "İtalya",
+    "founded": 1974,
+    "website": "https://www.caberg.it/",
+    "about": [
+      "Caberg, Bergamo bölgesinde kurulu İtalyan kask üreticisidir ve özellikle çene açılır (apribile) kasklarıyla tanınır. Duke, Levo, Horus ve Tourmax gibi modüler aileleri Avrupa'da şehir içi ve touring sürücülerinin sık tercih ettiği orta segment kasklardır.",
+      "Caberg modüler kaskları P/J çift onaylıdır, yani çene açık ve kapalı haliyle ECE 22.06 testinden geçer. Horus X örneğinde LG Chem ABS kabuk, yaklaşık 1650 gram ağırlık, 82 derecelik geniş görüş açısı, Pinlock Max Vision ve iç güneş vizörü bulunuyor. Kasklar markanın Pro Speak Evo interkomuna hazır tasarlanıyor ve firma 22.06 testlerini interkom takılıyken yaptığını belirtiyor.",
+      "Duke X ise çenenin 180 derece geriye döndüğü yapısıyla jet kask gibi kullanılabiliyor; sık durup kalkan, yüzünü açmak isteyen kurye ve şehir içi kullanıcılar için pratik. Türkiye'de bulunabilirliği iyidir."
+    ],
+    "strengths": [
+      "P/J çift onaylı çene açılır kasklar",
+      "Orta segmentte fiyat-performans",
+      "Kendi interkomuyla test edilmiş uyum",
+      "180 derece dönen çene (Duke)"
+    ],
+    "categories": [
+      "kask",
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "Duke",
+        "note": "Çenesi 180 derece dönen, P/J onaylı modüler kask.",
+        "url": "https://www.caberg.it/caschi/apribili/duke-x/"
+      },
+      {
+        "name": "Horus",
+        "note": "Geniş vizörlü, ABS kabuklu modüler kask.",
+        "url": "https://www.caberg.it/caschi/apribili/horus-x/"
+      },
+      {
+        "name": "Levo",
+        "note": "Kompakt, şehir ve touring odaklı modüler kask.",
+        "url": "https://www.caberg.it/caschi/apribili/levo-x/"
+      },
+      {
+        "name": "Drift Evo II",
+        "note": "Sportif kapalı kask.",
+        "url": "https://www.caberg.it/caschi/integrali/drift-evo-ii/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Caberg Duke X",
+        "url": "https://www.caberg.it/caschi/apribili/duke-x/",
+        "reason": "Çenesi tamamen arkaya dönerek jet moduna geçen, P/J onaylı bir kask; sık durup kalkan sürücü için çok pratik."
+      },
+      {
+        "label": "Caberg Horus X",
+        "url": "https://www.caberg.it/caschi/apribili/horus-x/",
+        "reason": "82 derecelik geniş vizör, Pinlock ve güneş vizörüyle orta bütçeli touring çene açılır kaskı."
+      }
+    ],
+    "alternatives": [
+      "ls2",
+      "nolan",
+      "mt-helmets"
+    ],
+    "history": [
+      {
+        "year": 1974,
+        "event": "Adı 'Caschi di Bergamo' kısaltmasından gelen Caberg, Bergamo'da kuruldu ve ilk olarak Articolo 100 kapalı kask ile Articolo 300 siperlikli açık kaskı üretti."
+      },
+      {
+        "year": 1978,
+        "event": "Firma yaylı vizör mekanizmalı Ventura'yı ve arazi kullanımı için tasarladığı ilk kaskı Total Cross'u piyasaya sürdü."
+      },
+      {
+        "year": 1992,
+        "event": "292 Unlimited ile çene açılır kask geliştiren ilk İtalyan üretici oldu."
+      },
+      {
+        "year": 1998,
+        "event": "Just One, çenesi tek düğmeyle açılabilen ve açık kaska dönüştürülebilen bir modüler kask olarak tanıtıldı."
+      },
+      {
+        "year": 2014,
+        "event": "Tourmax, marka tarafından dünyanın ilk çene açılır dual-sport kaskı olarak sunuldu."
+      },
+      {
+        "year": 2023,
+        "event": "Duke Evo, ECE 22.06 kapsamında P/J çift onayı alan çene açılır kask olarak tanıtıldı."
+      },
+      {
+        "year": 2024,
+        "event": "Caberg 50. yılını kutladı ve SOS Medical ID teknolojili Drift Evo II'yi tanıttı."
+      }
+    ],
+    "strongestLine": "P/J onaylı çene açılır kasklar (Duke, Horus, Levo)",
+    "sources": [
+      {
+        "url": "https://www.caberg.it/caschi/apribili/horus-x/",
+        "type": "manufacturer",
+        "label": "Caberg – Horus X ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.caberg.it/caschi/apribili/",
+        "type": "manufacturer",
+        "label": "Caberg – Çene açılır kasklar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.caberg.it/en/company/",
+        "type": "manufacturer",
+        "label": "Caberg – Şirket tarihçesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.caberg.it/mondo-caberg/en/2024/03/12/caberg-celebrates-50-years-of-innovation-in-producing-motorcycle-helmets/",
+        "type": "manufacturer",
+        "label": "Caberg – 50. yıl duyurusu",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "airoh",
+    "name": "Airoh",
+    "country": "İtalya",
+    "founded": 1986,
+    "website": "https://www.airoh.com/",
+    "about": [
+      "Airoh, Bergamo bölgesinde kurulu bir İtalyan kask üreticisidir ve motokros ile enduro dünyasında güçlü bir geçmişe sahiptir. Cross kasklarının yanında yol kaskı yelpazesi de son yıllarda belirgin biçimde genişledi.",
+      "Yol tarafında GP 800 gibi karbon kabuklu sportif kasklar, Commander 2 gibi adventure kasklar ve Mathisse II gibi P/J çift onaylı modüler kasklar bulunuyor. Aviator serisi ise off-road tarafının üst seviyesidir.",
+      "Airoh kaskları genellikle hafiflik ve İtalyan tasarımıyla öne çıkar; Türkiye'de distribütör üzerinden bulunabilir. Adventure kask arayan ve hem asfalt hem toprakta süren kullanıcılar için Commander 2 değerlendirmeye değer."
+    ],
+    "strengths": [
+      "Off-road ve adventure kasklarında güçlü geçmiş",
+      "Karbon kabuklu hafif modeller",
+      "P/J onaylı modüler seçenek"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "Commander",
+        "note": "Siperlikli adventure kask.",
+        "url": "https://www.airoh.com/prodotto/commander-2-skip/"
+      },
+      {
+        "name": "Mathisse",
+        "note": "P/J çift onaylı modüler kask.",
+        "url": "https://www.airoh.com/modello/mathisse-ii/"
+      },
+      {
+        "name": "GP 800",
+        "note": "Karbon kabuklu sportif kapalı kask.",
+        "url": "https://www.airoh.com/prodotto/gp-800-carbon-gloss-6k-ece/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Airoh Commander 2",
+        "url": "https://www.airoh.com/prodotto/commander-2-skip/",
+        "reason": "Asfalt ve toprak yolu birlikte kullananlar için markanın en dengeli adventure kaskı."
+      },
+      {
+        "label": "Airoh Mathisse II",
+        "url": "https://www.airoh.com/modello/mathisse-ii/",
+        "reason": "Çift onaylı (P/J) modüler yapısıyla şehirde ve touring'de çene açık kullanılabiliyor."
+      }
+    ],
+    "alternatives": [
+      "caberg",
+      "agv",
+      "nexx"
+    ],
+    "history": [
+      {
+        "year": 1986,
+        "event": "Antonio Locatelli, Bergamo vadilerinde Locatelli S.p.A.'yı kurdu; şirket ilk yıllarında başka markalar için fason kask üretti."
+      },
+      {
+        "year": 1997,
+        "event": "Locatelli kendi markası Airoh'u ('Antonio Innovative Range Of Helmets') kurarak dünya pazarına açıldı."
+      },
+      {
+        "year": 2002,
+        "event": "Zamanla markanın amiral gemisi hâline gelen Mathisse çene açılır kaskı piyasaya çıktı."
+      },
+      {
+        "year": 2005,
+        "event": "Tony Cairoli Airoh kaskla ilk motokros dünya şampiyonluğunu kazandı; marka bu tarihten sonra yüzün üzerinde dünya unvanı biriktirdi."
+      },
+      {
+        "year": 2015,
+        "event": "Airoh, FIM International Six Days Enduro (ISDE) yarışının ana sponsoru oldu."
+      },
+      {
+        "year": 2023,
+        "event": "Airoh, Yamaha Italia ile resmi kask ortaklığına başladı."
+      }
+    ],
+    "strongestLine": "Motokros ve enduro kaskları (Aviator serisi)",
+    "sources": [
+      {
+        "url": "https://www.airoh.com/caschi-on-road/flip-up/",
+        "type": "manufacturer",
+        "label": "Airoh – Modüler kasklar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.airoh.com/",
+        "type": "manufacturer",
+        "label": "Airoh resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.lerepairedesmotards.com/dossiers/marques/airoh.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Airoh marka dosyası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://fc-moto.de/en/Brands/A/Airoh",
+        "type": "retailer",
+        "label": "FC-Moto – Airoh marka sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://blog.ktm.com/built-fly-making-championship-winning-helmet/",
+        "type": "review",
+        "label": "KTM Blog – Cairoli ve Airoh kaskı",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.fim-moto.com/en/news/news-detail/article/airoh-becomes-main-partner-of-isde",
+        "type": "review",
+        "label": "FIM – Airoh ISDE ana sponsoru",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/news/-airoh-e-yamaha-italia-insieme-dal-2023.html",
+        "type": "review",
+        "label": "Moto.it – Airoh ve Yamaha Italia 2023",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "suomy",
+    "name": "Suomy",
+    "country": "İtalya",
+    "founded": 1997,
+    "website": "https://www.suomy.com/en/",
+    "about": [
+      "Suomy, 1997'de İtalya'da yarış kaskı üreticisi olarak kurulmuştur. Ducati ile 2000'de başlayan iş birliği ve Troy Bayliss, James Toseland, Max Biaggi gibi isimlerle Superbike'ta kazanılan şampiyonluklar markayı tanınır kıldı; bugün MotoGP'de Francesco Bagnaia'nın kask sponsorudur.",
+      "Firma 2014'te bir yatırım fonuna satıldı ve Endonezyalı kask üreticisi KYT ile stratejik iş birliğine girdi. Üretim yurt dışına taşınırken tasarım ve Ar-Ge İtalya'da kaldı; bu sayede fiyatlar eski döneme göre daha erişilebilir hale geldi.",
+      "Yelpaze S1-XR GP ve SR-GP Evo gibi yarış kasklarından Speedstar 2 ve Stellar 2 gibi sport-touring modellere, şehir için Armor'a kadar uzanıyor. Sportif kapalı kask arayan sürücüler için yarış kökenli ama makul fiyatlı bir seçenek."
+    ],
+    "strengths": [
+      "Superbike ve MotoGP kökenli tasarım",
+      "Yarış kaskını erişilebilir fiyata indirmesi",
+      "Sport-touring modellerde güneş vizörlü seçenekler"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "S1-XR GP",
+        "note": "Yarış odaklı kapalı kask.",
+        "url": "https://www.suomy.com/en/s1xr-gp/"
+      },
+      {
+        "name": "Speedstar 2",
+        "note": "Sport-touring kapalı kask.",
+        "url": "https://www.suomy.com/en/speedstar2/"
+      },
+      {
+        "name": "Stellar 2",
+        "note": "Sport-touring kapalı kask.",
+        "url": "https://www.suomy.com/en/stellar2/"
+      },
+      {
+        "name": "Armor",
+        "note": "Şehir kullanımı için kask.",
+        "url": "https://www.suomy.com/en/armor-2/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Suomy S1-XR GP",
+        "url": "https://www.suomy.com/en/s1xr-gp/",
+        "reason": "Markanın yarış mirasını en doğrudan taşıyan, pist günü yapan sportif sürücü için tasarlanmış kask."
+      },
+      {
+        "label": "Suomy Speedstar 2",
+        "url": "https://www.suomy.com/en/speedstar2/",
+        "reason": "Sportif görünümü günlük kullanım konforuyla dengeleyen sport-touring modeli."
+      }
+    ],
+    "alternatives": [
+      "agv",
+      "shark",
+      "scorpion"
+    ],
+    "history": [
+      {
+        "year": 1997,
+        "event": "Suomy, İtalya'da yarış kaskı üreticisi olarak kuruldu."
+      },
+      {
+        "year": 2000,
+        "event": "Ducati ile imzalanan anlaşmayla Ducati Superbike pilotları Suomy kask takmaya başladı."
+      },
+      {
+        "year": 2001,
+        "event": "Troy Bayliss, Suomy kaskla ilk Dünya Superbike şampiyonluğunu kazandı."
+      },
+      {
+        "year": 2014,
+        "event": "Marka bir özel yatırım fonuna satıldı ve Endonezyalı KYT ile iş birliğine girdi; üretim yurt dışına taşınırken tasarım ve Ar-Ge İtalya'da kaldı."
+      },
+      {
+        "year": 2018,
+        "event": "SR-GP yarış kaskı, Fransa GP'sinde Andrea Dovizioso'nun başında ilk kez görüldü."
+      },
+      {
+        "year": 2022,
+        "event": "Francesco Bagnaia, SR-GP kaskla MotoGP dünya şampiyonu oldu."
+      }
+    ],
+    "strongestLine": "Yarış kökenli sportif kapalı kasklar (SR-GP, S1-XR GP)",
+    "sources": [
+      {
+        "url": "https://www.suomy.com/en/about-suomy-helmet/",
+        "type": "manufacturer",
+        "label": "Suomy – About",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "mt-helmets",
+    "name": "MT Helmets",
+    "country": "İspanya",
+    "founded": 1968,
+    "website": "https://mthelmets.com/",
+    "about": [
+      "MT Helmets, İspanya merkezli bir kask markasıdır ve bütçe-orta segmentte geniş model yelpazesiyle Avrupa'da yaygınlaştı. Kask dışında bot, mont, pantolon ve eldiven de üretiyor; markanın uluslararası yarışlarda desteklediği sporcular var.",
+      "Model adlarındaki \"SV\" ibaresi entegre güneş vizörünü gösterir. Genesis SV ve Atom 2 SV P/J onaylı modüler kasklar, Thunder 4 SV ve Braker SV ise kapalı kask tarafının çok satanlarıdır. Genesis SV'nin üretici fiyatı 145 euro civarında, bu da onu en uygun fiyatlı güneş vizörlü modüler kasklardan biri yapıyor.",
+      "MT kaskları Türkiye'de de kolay bulunur. Düşük bütçeyle ECE 22.06 onaylı, güneş vizörlü bir çene açılır kask arayan kurye ve şehir içi kullanıcılar için öncelikli adaylardan biridir."
+    ],
+    "strengths": [
+      "Çok uygun fiyatlı, güneş vizörlü modüler kasklar",
+      "Geniş model ve grafik seçeneği",
+      "Türkiye'de kolay bulunabilirlik"
+    ],
+    "categories": [
+      "kask",
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Genesis SV",
+        "note": "HIRP kabuklu, P/J onaylı, güneş vizörlü modüler kask.",
+        "url": "https://mthelmets.com/collections/genesis-sv"
+      },
+      {
+        "name": "Atom 2 SV",
+        "note": "Adventure görünümlü modüler kask.",
+        "url": "https://mthelmets.com/collections/atom-2-sv"
+      },
+      {
+        "name": "Thunder 4 SV",
+        "note": "Güneş vizörlü, uygun fiyatlı kapalı kask.",
+        "url": "https://mthelmets.com/collections/thunder-4-sv"
+      },
+      {
+        "name": "Braker SV",
+        "note": "Kapalı kask.",
+        "url": "https://mthelmets.com/collections/braker-sv"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "MT Genesis SV",
+        "url": "https://mthelmets.com/collections/genesis-sv",
+        "reason": "P/J onaylı, güneş vizörlü ve interkom uyumlu bir modüler kaskı en düşük bütçelerden birine indiriyor."
+      },
+      {
+        "label": "MT Thunder 4 SV",
+        "url": "https://mthelmets.com/collections/thunder-4-sv",
+        "reason": "İlk kaskını alacaklar için güneş vizörlü, uygun fiyatlı bir kapalı kask."
+      }
+    ],
+    "alternatives": [
+      "ls2",
+      "caberg",
+      "hjc"
+    ],
+    "history": [
+      {
+        "year": 1968,
+        "event": "MT (Manufacturas Tomás, S.A.), Cartagena'ya bağlı La Palma'daki kendi fabrikasında motosiklet kaskı üretmeye başladı."
+      },
+      {
+        "year": 2018,
+        "event": "Marka, sonradan Moto3 ve Moto2 şampiyonu olacak genç pilot Pedro Acosta ile beş yıl sürecek iş birliğine başladı."
+      },
+      {
+        "year": 2021,
+        "event": "Pedro Acosta, MT kaskla çaylak sezonunda Moto3 dünya şampiyonu oldu."
+      },
+      {
+        "year": 2023,
+        "event": "Acosta MT kaskla Moto2 dünya şampiyonluğunu da kazandı."
+      },
+      {
+        "year": 2024,
+        "event": "Acosta'nın MotoGP'ye geçişiyle yollar ayrıldı; MT kendi yarış yapılanmasını Moto3, Moto2 ve MotoE'ye genişletti."
+      }
+    ],
+    "strongestLine": "Güneş vizörlü, uygun fiyatlı modüler ve kapalı kasklar (Genesis SV, Thunder 4 SV)",
+    "sources": [
+      {
+        "url": "https://mthelmets.com/collections/genesis-sv",
+        "type": "manufacturer",
+        "label": "MT Helmets – Genesis SV",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://mthelmets.com/collections/modular",
+        "type": "manufacturer",
+        "label": "MT Helmets – Modüler kasklar",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://mthelmets.com/en/content/about-us",
+        "type": "manufacturer",
+        "label": "MT Helmets – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://mthelmets.com/pages/mt-world",
+        "type": "manufacturer",
+        "label": "MT Helmets – MT World",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://bikebd.com/motorcycle/brand/mt",
+        "type": "review",
+        "label": "BikeBD – MT marka profili",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motofichas.com/noticias/6686-mt-helmets-y-pedro-acosta-ponen-fin-a-su-union-y-afrontan-nuevos-retos-por-separado/amp",
+        "type": "review",
+        "label": "Motofichas – MT Helmets ve Pedro Acosta ayrılığı",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "interphone",
+    "name": "Interphone",
+    "country": "İtalya",
+    "founded": null,
+    "website": "https://interphone.com/",
+    "about": [
+      "Interphone, İtalyan aksesuar şirketi Cellularline Group'un motosiklet interkomu markasıdır. Avrupa'da özellikle şehir içi ve tur sürücülerinin uygun fiyatlı Bluetooth interkom ihtiyacına yönelik U-COM serisiyle tanınır; markanın kataloğunda telefon tutucular ve kör nokta radarı gibi ürünler de var.",
+      "Üst seviye modeli ERA 1X; Mesh 3.0 (Sena Mesh ile uyumlu), Bluetooth 5.3 ile 4 sürücüye kadar interkom, internet üzerinden sınırsız menzilli Wave Intercom desteği, Harman Kardon imzalı 40 mm hoparlörler, IP67 su geçirmezlik ve 25 saate kadar kullanım süresi sunuyor. Model 2026'da Red Dot tasarım ödülü aldı.",
+      "U-COM 4 ve U-COM 16 gibi modeller ise grup sürüşü yerine tek kişilik ya da yolcu-sürücü kullanımına uygun, daha basit ve ucuz çözümler. Firma kendi sitesinde başka markalarla uyumluluk tablosu yayınlıyor."
+    ],
+    "strengths": [
+      "Sena Mesh ile uyumlu Mesh 3.0",
+      "Uygun fiyatlı Bluetooth interkomlar",
+      "Uyumluluk tablosu ve firmware destek sayfaları"
+    ],
+    "categories": [
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "ERA",
+        "note": "Mesh 3.0 ve Wave Intercom destekli üst seviye interkom.",
+        "url": "https://interphone.com/collections/interfoni/products/interphone-era-1-x"
+      },
+      {
+        "name": "U-COM",
+        "note": "Bluetooth interkom serisi (U-COM 4, U-COM 16 vb.).",
+        "url": "https://interphone.com/collections/interfoni/products/u-com-16"
+      },
+      {
+        "name": "Tüm interkomlar",
+        "note": "Güncel interkom kataloğu.",
+        "url": "https://interphone.com/collections/interfoni"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Interphone ERA 1X",
+        "url": "https://interphone.com/collections/interfoni/products/interphone-era-1-x",
+        "reason": "Sena Mesh uyumu, IP67 koruma ve 25 saatlik pil ömrüyle Sena ve Cardo'ya karşı ciddi bir alternatif."
+      },
+      {
+        "label": "Interphone U-COM 4",
+        "url": "https://interphone.com/collections/interfoni/products/u-com-4",
+        "reason": "Navigasyon, telefon ve müzik için temel bir interkom arayan şehir içi sürücüye düşük maliyetli çözüm."
+      }
+    ],
+    "alternatives": [
+      "sena",
+      "cardo"
+    ],
+    "history": [
+      {
+        "year": 1990,
+        "event": "Interphone'un çatı şirketi Cellularline, Reggio Emilia'da ilk cep telefonlarının distribütörü olarak kuruldu."
+      },
+      {
+        "year": 2015,
+        "event": "Cellularline EICMA'da yeni logo ve tamamen yenilenen Tour, Sport ve Urban modelleriyle Interphone markasını baştan tasarladı."
+      },
+      {
+        "year": 2025,
+        "event": "Mesh 3.0 ve Harman Kardon hoparlörlü ERA 1X, ilk kez EICMA 2025'te tanıtıldı."
+      },
+      {
+        "year": 2026,
+        "event": "ERA 1X, Red Dot tasarım ödülüne layık görüldü."
+      }
+    ],
+    "strongestLine": "Mesh uyumlu interkomlar (ERA 1X) ve uygun fiyatlı U-COM serisi",
+    "sources": [
+      {
+        "url": "https://interphone.com/collections/interfoni/products/interphone-era-1-x",
+        "type": "manufacturer",
+        "label": "Interphone – ERA 1X ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://interphone.com/blogs/news/interphone-era-1x-vince-il-red-dot-award-2026",
+        "type": "manufacturer",
+        "label": "Interphone – ERA 1X Red Dot 2026 haberi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.moto.it/accessori/eicma-2015-svela-il-nuovo-volto-di-interphone.html",
+        "type": "review",
+        "label": "Moto.it – EICMA 2015 Interphone yenilenmesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://techprincess.it/interphone-era-1x-eicma-2025/",
+        "type": "review",
+        "label": "TechPrincess – ERA 1X EICMA 2025",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.websim.it/azioni/small-mid-cap/notizie/cellularline-estero-e-nuove-acquisizioni-fra-i-pilastri-della-crescita/",
+        "type": "review",
+        "label": "Websim – Cellularline şirket profili",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "modeka",
+    "name": "Modeka",
+    "country": "Almanya",
+    "founded": 1946,
+    "website": "https://modeka.de/",
+    "about": [
+      "Modeka, 80 yılı aşkın geçmişiyle Alman bir motosiklet giyim markasıdır. Adventure, touring, urban ve sport koleksiyonlarında mont, pantolon, eldiven ve bot üretiyor; Türkiye'de de bayiler üzerinden bulunabilen Avrupa markalarından biridir.",
+      "Markanın amiral ürünü Atlaz serisidir: 500D ripstop Cordura ve deri takviyeli bu 3'ü 1 arada adventure takımı EN 17092'ye göre CE AAA sınıfına sahiptir. Altına, üstüne giyilebilen ya da tamamen çıkarılabilen In&Out yağmur katmanı ve airbag uyumluluğu da sunuyor. Bir alt seviyede Panamericana II serisi AA sınıfında.",
+      "Modeka orta segment fiyatlarla yüksek koruma sınıfı sunmasıyla dikkat çeker. AAA sınıfı bir adventure takım isteyen ama Klim veya Rukka bütçesine girmek istemeyenler için güçlü bir aday."
+    ],
+    "strengths": [
+      "Orta fiyatta CE AAA sınıfı adventure takım",
+      "Çok kullanımlı In&Out yağmur katmanı",
+      "Airbag uyumlu tasarım"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Atlaz",
+        "note": "CE AAA sınıfı, 3'ü 1 arada adventure mont ve pantolon.",
+        "url": "https://modeka.de/de/serie/atlaz-ce-aaa-adventure-hero/"
+      },
+      {
+        "name": "Adventure Kollektion",
+        "note": "Panamericana II dahil adventure ürünleri.",
+        "url": "https://modeka.de/de/adventure-kollektion/"
+      },
+      {
+        "name": "Adventure & Touring (erkek)",
+        "note": "Erkek adventure ve touring ürün listesi.",
+        "url": "https://modeka.de/de/produkte/men/adventure-touring/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Modeka Atlaz serisi",
+        "url": "https://modeka.de/de/serie/atlaz-ce-aaa-adventure-hero/",
+        "reason": "CE AAA sınıfını, çıkarılabilir yağmur katmanını ve airbag uyumunu orta segment fiyatta bir araya getiriyor."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "buse",
+      "klim"
+    ],
+    "history": [
+      {
+        "year": 1946,
+        "event": "August Oberkönig, savaş gazilerine iş imkânı sağlamak amacıyla küçük bir eldiven atölyesi kurdu."
+      },
+      {
+        "year": 1952,
+        "event": "Kendi tabakhanesi ve boyahanesi bulunan Beckumer Leder-Bekleidungswerk fabrikası açıldı."
+      },
+      {
+        "year": 1966,
+        "event": "Motosikletçilere yönelik ilk marka olan Belmo Design hayata geçti."
+      },
+      {
+        "year": 1980,
+        "event": "Şirket uluslararası kimliğini Modeka adıyla yeniden yapılandırdı."
+      },
+      {
+        "year": 1999,
+        "event": "Su geçirmez membranlı Outback koleksiyonuyla ilk touring tekstil ürünleri piyasaya çıktı."
+      },
+      {
+        "year": 2011,
+        "event": "Zorlu koşullarda sürenler için ilk adventure koleksiyonu tanıtıldı."
+      },
+      {
+        "year": 2017,
+        "event": "Aile şirketinin üçüncü kuşağından Lou Windau, geleceğin yöneticisi olarak şirkete katıldı."
+      }
+    ],
+    "strongestLine": "CE AAA sınıfı adventure tekstil takımlar (Atlaz)",
+    "sources": [
+      {
+        "url": "https://modeka.de/de/serie/atlaz-ce-aaa-adventure-hero/",
+        "type": "manufacturer",
+        "label": "Modeka – Atlaz serisi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://modeka.de/en/about-modeka",
+        "type": "manufacturer",
+        "label": "Modeka – Hakkımızda / tarihçe",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "nexx",
+    "name": "Nexx",
+    "country": "Portekiz",
+    "founded": 2001,
+    "website": "https://nexx-helmets.com/",
+    "about": [
+      "Nexx, Portekiz'de tasarlayıp üreten bir kask markasıdır ve Avrupa'da kendi fabrikasında üretim yapan az sayıdaki orta-üst segment kask üreticisinden biridir. Karbon ve çok katmanlı kompozit kabuklarıyla tanınır.",
+      "Yelpazede X.Lifetour (touring) ve X.Lifecountry (adventure) çene açılır kasklar, X.WED3 adventure kask, X.R3R yarış kaskı ve Y.100 / X.G30 gibi şehir ve retro modeller var. X.Lifetour örneğinde X-Pro karbon ya da X-Matrix 2 kompozit kabuk, yaklaşık 1750 gram ağırlık, P/J onayı, güneş vizörü, Pinlock 120 ve X-COM3 interkom hazırlığı bulunuyor.",
+      "Nexx kaskları rakiplerine göre daha cesur tasarımlara sahip; adventure tarafında X.WED serisi uzun yıllardır markanın en tanınan ürünüdür."
+    ],
+    "strengths": [
+      "Avrupa'da kendi tesisinde üretim",
+      "Karbon ve kompozit kabuk seçenekleri",
+      "Güçlü adventure kask geçmişi"
+    ],
+    "categories": [
+      "kask",
+      "interkom"
+    ],
+    "families": [
+      {
+        "name": "X.Lifetour",
+        "note": "P/J onaylı touring çene açılır kask.",
+        "url": "https://nexx-helmets.com/en/helmets/x-lifetour/"
+      },
+      {
+        "name": "X.WED3",
+        "note": "Adventure kask.",
+        "url": "https://nexx-helmets.com/en/helmets/x-wed3/"
+      },
+      {
+        "name": "Y.100",
+        "note": "Şehir kullanımına yönelik kask.",
+        "url": "https://nexx-helmets.com/en/helmets/y-100/"
+      },
+      {
+        "name": "X.G30",
+        "note": "Retro açık kask.",
+        "url": "https://nexx-helmets.com/en/helmets/x-g30/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Nexx X.Lifetour",
+        "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+        "reason": "Karbon kabuk seçeneği, P/J onayı ve X-COM3 hazırlığıyla üst segment touring çene açılır kask arayanlar için."
+      },
+      {
+        "label": "Nexx X.WED3",
+        "url": "https://nexx-helmets.com/en/helmets/x-wed3/",
+        "reason": "Markanın en bilinen adventure kask serisinin güncel nesli."
+      }
+    ],
+    "alternatives": [
+      "schuberth",
+      "shark",
+      "airoh"
+    ],
+    "history": [
+      {
+        "year": 2001,
+        "event": "Makine mühendisi Hélder Loureiro, Portekiz'in Anadia kentinde Nexx'i kurdu."
+      },
+      {
+        "year": 2002,
+        "event": "Markanın ilk modelleri X.10 ve X.20 üretime girdi."
+      },
+      {
+        "year": 2003,
+        "event": "SX.60 modeli tanıtıldı."
+      },
+      {
+        "year": 2014,
+        "event": "Nexx, interkom teknolojisini ürün gamına ekledi."
+      },
+      {
+        "year": 2024,
+        "event": "X.WED3 adventure kaskı ve X.WST3 tanıtıldı; şirket yeni fabrika için Anadia'da arazi satın aldı."
+      },
+      {
+        "year": 2026,
+        "event": "Nexx, 2031'e kadar günlük üretimi iki katına çıkaracak 11 milyon euroluk yeni bir fabrika yatırımını duyurdu."
+      }
+    ],
+    "strongestLine": "Adventure ve touring kasklar (X.WED3, X.Lifetour)",
+    "sources": [
+      {
+        "url": "https://nexx-helmets.com/en/helmets/x-lifetour/",
+        "type": "manufacturer",
+        "label": "Nexx – X.Lifetour ürün sayfası",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://nexx-helmets.com/en/about/",
+        "type": "manufacturer",
+        "label": "Nexx – About",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://eco.sapo.pt/2026/06/29/anadia-vai-receber-fabrica-de-capacetes-que-salvam-vidas-nexx-investe-11-milhoes/",
+        "type": "review",
+        "label": "ECO – Nexx 11 milyon euroluk fabrika yatırımı",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "shima",
+    "name": "Shima",
+    "country": "Polonya",
+    "founded": 2009,
+    "website": "https://shima.pl/",
+    "about": [
+      "Shima, Polonya'nın Puławy kentinde kurulu bir motosiklet giyim markasıdır. Deri ve tekstil mont, pantolon, tulum, eldiven ve bot üretiyor; Avrupa'da fiyat-performans markası olarak hızla yayıldı.",
+      "Markanın en çok tanınan ürünleri X-Mesh gibi yazlık file montlar, Bandit gibi şehir montları ve sportif STR eldivenleridir. Shima kendi geliştirdiği ESG koruma sistemi, Night Vision reflektif detayları ve G-Flexx gibi teknolojileri öne çıkarıyor.",
+      "Fiyatlar düşük-orta segmentte; ilk ekipmanını alan ya da yazlık mont gibi ikinci bir parçaya bütçe ayıran sürücüler için mantıklı bir seçenek. Türkiye'de bulunabilirliği bayiye göre değişir."
+    ],
+    "strengths": [
+      "Düşük-orta segmentte iyi fiyat-performans",
+      "Yazlık file mont ve eldivenlerde güçlü seçenekler",
+      "Reflektif Night Vision detayları"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "Tekstil montlar",
+        "note": "X-Mesh, Bandit ve diğer tekstil montlar.",
+        "url": "https://shima.pl/kategoria-produktu/mezczyzna/kurtki-meskie/kurtki-tekstylne/"
+      },
+      {
+        "name": "Botlar",
+        "note": "Kısa ve uzun motosiklet botları.",
+        "url": "https://shima.pl/kategoria-produktu/mezczyzna/buty-meskie/"
+      },
+      {
+        "name": "STR eldivenler",
+        "note": "Sportif deri eldivenler.",
+        "url": "https://shima.pl/shop/str-2-gloves-bialy/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Shima X-Mesh 2.0 mont",
+        "url": "https://shima.pl/shop/x-mesh-2-0-men-jkt-czerwony/",
+        "reason": "Çok düşük fiyata korumalı bir yazlık file mont; sıcak şehir trafiği için ikinci mont olarak ideal."
+      },
+      {
+        "label": "Shima Edge Vented bot",
+        "url": "https://shima.pl/shop/edge-vent-men-czerwony/",
+        "reason": "Havalandırmalı, uygun fiyatlı bir kısa motosiklet botu."
+      }
+    ],
+    "alternatives": [
+      "revit",
+      "macna",
+      "spidi"
+    ],
+    "history": [
+      {
+        "year": 2009,
+        "event": "Motosiklet tutkunu iki kardeş Shima'yı Puławy'de kadın motosiklet eldivenleriyle kurdu."
+      },
+      {
+        "year": 2014,
+        "event": "Ürün yelpazesi mont, pantolon ve botları kapsayacak şekilde genişletildi."
+      },
+      {
+        "year": 2018,
+        "event": "Shima, Polonya'nın AAA sertifikalı ilk motosiklet takımını piyasaya sürdü."
+      },
+      {
+        "year": 2022,
+        "event": "Marka, Avrupa güvenlik standartlarını hazırlayan CEN WG9 çalışma grubuna katıldı."
+      },
+      {
+        "year": 2025,
+        "event": "Depo, test alanı ve showroom içeren yeni merkez binası açıldı."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı yazlık file montlar ve eldivenler (X-Mesh, STR)",
+    "sources": [
+      {
+        "url": "https://shima.pl/",
+        "type": "manufacturer",
+        "label": "Shima resmi sitesi",
+        "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://shima.pl/en/about-us/",
+        "type": "manufacturer",
+        "label": "Shima – Hakkımızda",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  },
+  {
+    "slug": "riderdenim",
+    "name": "Riderdenim",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://eu.riderdenim.com/en",
+    "about": [
+      "Riderdenim, İstanbul ve İzmir'de ofisleri bulunan, motosiklet kotu ve günlük görünümlü korumalı giyim üzerine yoğunlaşan yerli bir markadır. Ürünlerini \"Made in Turkey\" ibaresiyle satıyor.",
+      "Markanın Mistral motosiklet kotu, diz ve kalça bölgelerinde Kevlar aramid astar ve SAS-TEC koruyucularla birlikte EN 17092-3 AA sınıfı olarak sunuluyor. Bu da onu, şehir içinde normal kot görünümünden vazgeçmek istemeyen sürücüler için yerli bir seçenek yapıyor."
+    ],
+    "strengths": [
+      "Kevlar astarlı motosiklet kotu",
+      "Günlük görünümlü korumalı giyim",
+      "Yerli üretim"
+    ],
+    "categories": [
+      "pantolon"
+    ],
+    "families": [
+      {
+        "name": "Mistral",
+        "note": "Kevlar aramid astarlı, SAS-TEC koruyuculu AA sınıfı motosiklet kotu.",
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Riderdenim Mistral motosiklet kotu",
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans",
+        "reason": "Yerli üretim, EN 17092-3 AA sınıflı ve Kevlar astarlı bir kot arayanlar için markanın öne çıkan ürünü."
+      }
+    ],
+    "alternatives": [
+      "tech90"
+    ],
+    "history": [],
+    "strongestLine": "Kevlar astarlı AA sınıfı motosiklet kotu (Mistral)",
+    "sources": [
+      {
+        "url": "https://eu.riderdenim.com/en/mistral-motorcycle-jeans",
+        "type": "manufacturer",
+        "label": "Riderdenim – Mistral motosiklet kotu",
+        "checkedAt": "2026-10-06"
+      }
+    ]
+  }
+]

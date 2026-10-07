@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "buff",
+    "name": "BUFF®",
+    "country": "İspanya",
+    "founded": null,
+    "website": "https://www.buff.com/",
+    "about": [
+      "BUFF, dikişsiz tüp boyunluklarıyla tanınan bir boyun ve baş giyimi markası. Ürün yelpazesi boyunluk, balaclava, bere ve şapkalardan oluşuyor; polar, merino, Thermonet ve Windstopper gibi farklı malzeme teknolojileriyle soğuk ve rüzgarlı havaya yönelik seçenekler sunuyor.",
+      "Ürünler genel outdoor ve spor kullanımı için tasarlanıyor, motosiklete özel değil; ancak ince, dikişsiz yapıları nedeniyle kask altında boyunluk ve bone olarak motosiklet sürücüleri arasında da yaygın kullanılıyor. Sitemizdeki BUFF ürününün üretim yeri üreticinin sayfasında İspanya olarak belirtiliyor."
+    ],
+    "strengths": [
+      "Dikişsiz, kask altında baskı yapmayan boyunluk ve boneler",
+      "Windstopper, polar ve merino gibi farklı malzeme seçenekleri"
+    ],
+    "categories": [
+      "termal"
+    ],
+    "families": [
+      {
+        "name": "Windproof",
+        "note": "GORE-TEX Windstopper katmanlı, rüzgar geçirmez boyunluk ve balaclava'lar.",
+        "url": "https://www.buff.com/en_north/windproof-balaclava-buff-solid-black-black-137536999.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "BUFF Windproof Balaclava",
+        "url": "https://www.buff.com/en_north/windproof-balaclava-buff-solid-black-black-137536999.html",
+        "reason": "Windstopper katmanı ve nefes delikleriyle yüksek hızda kask altında rüzgar koruması."
+      }
+    ],
+    "alternatives": [
+      "held",
+      "dainese",
+      "alpinestars"
+    ],
+    "history": [],
+    "strongestLine": "Dikişsiz tüp boyunluk ve balaclava",
+    "sources": [
+      {
+        "url": "https://www.buff.com/en_north/windproof-balaclava-buff-solid-black-black-137536999.html",
+        "type": "manufacturer",
+        "label": "BUFF – Windproof Balaclava ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "keis",
+    "name": "KEIS Heated Apparel",
+    "country": "Birleşik Krallık",
+    "founded": 2004,
+    "website": "https://keisapparel.com/",
+    "about": [
+      "KEIS, 2004'te Birleşik Krallık'ta kurulan ve motosiklet sürücüleri için ısıtmalı giyim üreten bir marka. Ürün yelpazesinde ısıtmalı yelek, ceket, eldiven, pantolon ve çoraplar bulunuyor.",
+      "Markanın ürünlerinde mikro karbon fiber ısıtma panelleri kullanılıyor ve çoğu ürün hem motosikletin 12V sistemine bağlanabiliyor hem de isteğe bağlı bataryayla çalışabiliyor. Yelekler diğer KEIS ürünlerine güç dağıtan bir merkez olarak tasarlanıyor."
+    ],
+    "strengths": [
+      "12V motor bağlantısı ve batarya ile çift güç seçeneği",
+      "Birbirine bağlanabilen ısıtmalı ürün sistemi"
+    ],
+    "categories": [
+      "termal"
+    ],
+    "families": [
+      {
+        "name": "V501",
+        "note": "Softshell gövdeli, kolsuz ısıtmalı yelek.",
+        "url": "https://keisapparel.com/products/heated-vest-v501rp-premium"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "KEIS V501 Heated Vest",
+        "url": "https://keisapparel.com/products/heated-vest-v501rp-premium",
+        "reason": "12V bağlantıyla gün boyu ısı ve diğer KEIS ürünlerine güç dağıtımı."
+      }
+    ],
+    "alternatives": [
+      "gerbing",
+      "macna",
+      "klim"
+    ],
+    "history": [
+      {
+        "year": 2004,
+        "event": "KEIS Heated Apparel Birleşik Krallık'ta kuruldu."
+      }
+    ],
+    "strongestLine": "Motosiklet için ısıtmalı yelek ve ceketler",
+    "sources": [
+      {
+        "url": "https://keisapparel.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "KEIS – Hakkımızda sayfası",
+        "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://keisapparel.com/products/heated-vest-v501rp-premium",
+        "type": "manufacturer",
+        "label": "KEIS – V501 Heated Vest ürün sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  },
+  {
+    "slug": "gerbing",
+    "name": "Gerbing",
+    "country": "ABD",
+    "founded": 1975,
+    "website": "https://www.gerbing.com/",
+    "about": [
+      "Gerbing, 1975'te Gordon Gerbing tarafından ABD'nin Washington eyaletinde kurulan bir ısıtmalı giyim markası. Marka hikayesine göre Gerbing, motosikletle işe giden çalışanlarının soğuk ve yağışlı kışlarda üşüdüğünü görünce, doğrudan motosikletten beslenen ilk elektrikli ısıtmalı motosiklet giysilerinden birini tasarladı.",
+      "Gerbing bugün 12V motor bağlantılı ve bataryalı (7V) ısıtmalı ceket, yelek, pantolon astarı, eldiven ve çoraplar sunuyor. Patentli Microwire ısıtma elemanları markanın temel teknolojisi. Gerbing, aile şirketi olan JustBrand Limited bünyesinde."
+    ],
+    "strengths": [
+      "Uzun geçmişe sahip 12V motosiklet ısıtmalı giyim sistemi",
+      "Microwire ısıtma teknolojisi"
+    ],
+    "categories": [
+      "termal"
+    ],
+    "families": [
+      {
+        "name": "12V Heated Liners",
+        "note": "Motosiklet aküsünden beslenen ısıtmalı ceket, yelek ve pantolon astarları.",
+        "url": "https://www.gerbing.com/products/gerbing-heated-vest-liner-12v-motorcycle"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Gerbing Heated Vest Liner 12V",
+        "url": "https://www.gerbing.com/products/gerbing-heated-vest-liner-12v-motorcycle",
+        "reason": "Motor gücüyle sınırsız çalışan, beş bölgeli ısıtmalı yelek astarı."
+      }
+    ],
+    "alternatives": [
+      "keis",
+      "macna",
+      "klim"
+    ],
+    "history": [
+      {
+        "year": 1975,
+        "event": "Gordon Gerbing markayı Washington eyaletinde kurdu."
+      }
+    ],
+    "strongestLine": "12V motosiklet ısıtmalı astarları",
+    "sources": [
+      {
+        "url": "https://www.gerbing.com/pages/about-gerbing",
+        "type": "manufacturer",
+        "label": "Gerbing – About Gerbing sayfası",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+]

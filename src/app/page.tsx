@@ -1,148 +1,307 @@
+import Image from "next/image";
+import { canOptimize } from "@/lib/img";
 import Link from "next/link";
-import { PrismaClient } from '@prisma/client';
-import WizardWidget from "@/components/WizardWidget";
+import { Icon } from "@/components/Icon";
+import { ProductGrid } from "@/components/ProductCard";
+import { SearchBox } from "@/components/SearchBox";
+import { Container, SectionTitle } from "@/components/ui";
+import { Wizard } from "@/components/Wizard";
+import { CATEGORIES } from "@/data/categories";
+import { MOTO_TYPES } from "@/data/riding";
+import { comparePairs, editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
+import { displayName, getBrands, getGuide, getGuides, getMedia, getProducts, isLocal, productsIn } from "@/lib/data";
+import { getSubcategory } from "@/data/categories";
+import { meta } from "@/lib/seo";
+import { SITE } from "@/lib/site";
 
-const prisma = new PrismaClient();
+export const metadata = meta({
+  title: `${SITE.name} – Motosiklet Kask, Mont, İnterkom Rehberi ve Karşılaştırma`,
+  description: SITE.description,
+  path: "/",
+});
 
-export default async function Home() {
-  const editorPicks = await prisma.product.findMany({
-    take: 4,
-    orderBy: { rating: 'desc' },
-    include: { category: true, brand: true }
-  });
+const FEATURES = [
+  { icon: "star", label: "Editör Rehberleri", href: "/rehber" },
+  { icon: "shield", label: "Kaynaklı Teknik Bilgi", href: "/veri-politikasi" },
+  { icon: "interkom", label: "Kask + İnterkom Uyumluluğu", href: "/interkom-uyumlulugu" },
+  { icon: "compare", label: "Karşılaştırma Araçları", href: "/karsilastir" },
+  { icon: "book", label: "Yeni Başlayanlar İçin", href: "/yeni-baslayanlar" },
+] as const;
+
+function HeroArt() {
+  return (
+    <svg viewBox="0 0 600 420" className="absolute right-0 bottom-0 hidden h-full w-auto opacity-90 xl:block" aria-hidden>
+      <defs>
+        <linearGradient id="road" x1="0" x2="0" y1="0" y2="1">
+          <stop offset="0" stopColor="#d4202a" stopOpacity="0" />
+          <stop offset="1" stopColor="#d4202a" stopOpacity=".55" />
+        </linearGradient>
+        <radialGradient id="glow" cx=".6" cy=".45" r=".5">
+          <stop offset="0" stopColor="#d4202a" stopOpacity=".35" />
+          <stop offset="1" stopColor="#d4202a" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+      <rect width="600" height="420" fill="url(#glow)" />
+      <path d="M330 420 420 160h12l118 260z" fill="url(#road)" opacity=".5" />
+      <path d="M424 200v22M425 250v30M426 310v40M427 380v40" stroke="#fff" strokeWidth="4" opacity=".35" />
+    </svg>
+  );
+}
+
+/** Kategori veya alt kategorideki ilk üretici görseli (görseli olan ürün yoksa null). */
+function coverImage(cat: string, sub?: string, used?: Set<string>) {
+  for (const p of productsIn(cat, sub)) {
+    const img = getMedia(p).images[0];
+    if (img && !used?.has(img.url)) {
+      used?.add(img.url);
+      return img;
+    }
+  }
+  return null;
+}
+
+const HELMET_TILES = ["kapali-kask", "cene-acilir-kask", "racing-kask", "touring-kask"];
+
+export default function Home() {
+  const guides = getGuides();
+  const brands = getBrands();
+  const picks = editorPicks(8);
+  const localBrands = brands.filter((b) => b.country === "Türkiye");
+  // Yerli ürünler: her yerli markadan sırayla, en fazla 8 ürün.
+  const localProducts = (() => {
+    const lists = localBrands.map((b) => getProducts().filter((p) => p.brand === b.slug && isLocal(p)));
+    const out = [];
+    for (let i = 0; out.length < 8 && i < 10; i++) for (const l of lists) if (l[i] && out.length < 8) out.push(l[i]);
+    return out;
+  })();
+  const pairs = comparePairs().slice(0, 4);
+  const banner = (slug: string) => getGuide(slug);
+  const heroImg = coverImage("kask", "racing-kask");
+  const usedTile = new Set<string>();
+  const banners = [
+    { title: "Kask Karşılaştırmaları", text: "İki kaskı teknik verisiyle yan yana koy.", href: "/karsilastir", cta: "Karşılaştır" },
+    banner("yazlik-motosiklet-ekipmani") && { title: "Yazlık Ekipman Rehberi", text: "Sıcak havada serin ve korunaklı kal.", href: "/rehber/yazlik-motosiklet-ekipmani", cta: "Rehber" },
+    banner("cardo-mu-sena-mi")
+      ? { title: "Cardo mu, Sena mı?", text: "İnterkom seçiminde teknoloji farkları.", href: "/rehber/cardo-mu-sena-mi", cta: "Oku" }
+      : { title: "Kask + İnterkom", text: "Kaskına uyan interkomu bul.", href: "/interkom-uyumlulugu", cta: "Bul" },
+  ].filter(Boolean) as { title: string; text: string; href: string; cta: string }[];
 
   return (
-    <main className="bg-[#f5f5f7] min-h-screen text-gray-900 pb-24">
-      {/* HERO SECTION */}
-      <section className="relative pt-24 pb-48 overflow-hidden bg-black text-white">
-        <div className="absolute inset-0">
-          <img 
-            src="https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?auto=format&fit=crop&q=80&w=2070" 
-            alt="Motosiklet Sürücüsü" 
-            className="w-full h-full object-cover opacity-40"
-          />
-        </div>
-        
-        <div className="relative max-w-[1000px] mx-auto px-4 text-center z-10">
-          <h1 className="text-5xl md:text-6xl font-black tracking-tight mb-4 leading-tight">
-            Erkek ve Kadın <br/>
-            <span className="text-red-600">Motorcu Kıyafeti</span><br/>
-            ve Güvenli Ekipmanlar
-          </h1>
-          <p className="mt-6 text-lg text-gray-300 mb-10 font-medium">
-            Kurye motorcu kıyafetlerinden touring ekipmanlarına kadar, motosiklet dünyasının en kapsamlı bağımsız inceleme rehberi.
-          </p>
-          
-          {/* Arama Çubuğu (Hero İçinde) */}
-          <form action="/arama" method="GET" className="relative w-full max-w-3xl mx-auto mb-16 shadow-2xl">
-            <input 
-              type="text" 
-              name="q"
-              placeholder="Kask, mont, interkom, marka veya rehber ara..." 
-              className="w-full bg-white text-gray-900 rounded-lg px-6 py-5 text-lg font-medium focus:outline-none placeholder-gray-400"
-            />
-            <button type="submit" className="absolute right-2 top-2 bottom-2 bg-red-600 hover:bg-red-700 w-12 rounded-md transition-colors flex items-center justify-center">
-              <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-            </button>
-          </form>
-
-          {/* Özellik İkonları */}
-          <div className="flex flex-wrap justify-center gap-6 md:gap-12 text-xs md:text-sm font-medium text-gray-300">
-            <div className="flex flex-col items-center gap-3">
-               <div className="w-10 h-10 rounded-full flex items-center justify-center border border-gray-600 bg-black/50 text-yellow-400">⭐</div>
-               <span>Uzman İncelemeleri</span>
-            </div>
-            <div className="flex flex-col items-center gap-3">
-               <div className="w-10 h-10 rounded-full flex items-center justify-center border border-gray-600 bg-black/50 text-blue-400">📊</div>
-               <span>Gerçek Teknik Bilgiler</span>
-            </div>
-            <div className="flex flex-col items-center gap-3">
-               <div className="w-10 h-10 rounded-full flex items-center justify-center border border-gray-600 bg-black/50 text-green-400">🔄</div>
-               <span>Kask + İnterkom<br/>Uyumluluğu</span>
-            </div>
-            <div className="flex flex-col items-center gap-3">
-               <div className="w-10 h-10 rounded-full flex items-center justify-center border border-gray-600 bg-black/50 text-gray-200">⚖️</div>
-               <span>Karşılaştırma Araçları</span>
-            </div>
-            <div className="flex flex-col items-center gap-3">
-               <div className="w-10 h-10 rounded-full flex items-center justify-center border border-gray-600 bg-black/50 text-purple-400">📖</div>
-               <span>Yeni Başlayanlar için Rehberler</span>
-            </div>
+    <>
+      <section className="relative overflow-hidden bg-night text-white">
+        <div className="absolute inset-0 bg-[linear-gradient(110deg,#0f1114_35%,#1c0d0f_75%,#2a0f12)]" />
+        <HeroArt />
+        {heroImg && (
+          <div className="absolute top-[11%] right-[6%] bottom-[11%] hidden w-[36%] xl:block">
+            <Image unoptimized={!canOptimize(heroImg.url)} src={heroImg.url} alt="" fill sizes="36vw" className="object-contain drop-shadow-[0_30px_50px_rgba(212,32,42,.35)]" />
           </div>
-        </div>
+        )}
+        <Container className="relative py-10 sm:py-14">
+          <h1 className="max-w-2xl font-display text-[44px] leading-[0.95] font-bold sm:text-6xl lg:text-7xl">
+            Doğru Ekipman
+            <br />
+            <span className="text-red">Daha Güvenli</span>
+            <br />
+            Daha Keyifli Sürüşler
+          </h1>
+          <p className="mt-5 max-w-xl text-lg text-white/75">Motosiklet ekipmanı hakkında bilmen gereken her şey, kaynaklarıyla birlikte tek bir yerde.</p>
+          <div className="mt-7 max-w-xl">
+            <SearchBox size="lg" />
+          </div>
+          <ul className="mt-9 grid max-w-4xl grid-cols-2 gap-x-4 gap-y-6 sm:grid-cols-5 [&>li:last-child]:col-span-2 sm:[&>li:last-child]:col-span-1">
+            {FEATURES.map((f) => (
+              <li key={f.href}>
+                <Link href={f.href} className="group flex flex-col items-center gap-2 text-center text-sm font-semibold text-white/85 hover:text-white">
+                  <Icon name={f.icon} className="size-9 transition group-hover:text-red" />
+                  {f.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </Container>
       </section>
 
-      {/* YENİ MOTOR ALDIM WIZARD (Overlapping Hero) */}
-      <div className="max-w-[1200px] mx-auto px-4 -mt-24 relative z-20 mb-16">
-        <WizardWidget />
-      </div>
+      <section aria-label="Kask tipleri" className="bg-[#08090b]">
+        <ul className="mx-auto grid max-w-7xl grid-cols-2 lg:grid-cols-4">
+          {HELMET_TILES.map((slug) => {
+            const sub = getSubcategory("kask", slug);
+            const img = coverImage("kask", slug, usedTile);
+            if (!sub || !img) return null;
+            return (
+              <li key={slug}>
+                <Link href={`/kask/${slug}`} className="group relative flex aspect-[4/3] flex-col items-center justify-end overflow-hidden p-4 text-center">
+                  <span className="absolute inset-0 bg-[radial-gradient(circle_at_50%_40%,rgba(255,255,255,.14),transparent_60%)] transition group-hover:bg-[radial-gradient(circle_at_50%_40%,rgba(212,32,42,.35),transparent_65%)]" />
+                  <span className="absolute inset-x-6 top-4 bottom-14 transition group-hover:scale-105">
+                    <Image unoptimized={!canOptimize(img.url)} src={img.url} alt="" fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain drop-shadow-[0_12px_24px_rgba(0,0,0,.6)]" />
+                  </span>
+                  <span className="relative font-display text-2xl font-bold tracking-wide text-white uppercase sm:text-3xl">{sub.sub.name.replace(" (Modüler)", "")}lar</span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
 
-      {/* KATEGORİ KARTLARI */}
-      <section className="max-w-[1200px] mx-auto px-4 mb-20 mt-8">
-        <div className="flex flex-wrap justify-center gap-4">
-          {[
-            { name: "Kask", url: "/kask", img: "https://placehold.co/200x200/ffffff/333333.png?text=Kask" }, 
-            { name: "Mont", url: "/mont", img: "https://placehold.co/200x200/ffffff/333333.png?text=Mont" },
-            { name: "Pantolon", url: "/pantolon", img: "https://placehold.co/200x200/ffffff/333333.png?text=Pantolon" }, 
-            { name: "Eldiven", url: "/eldiven", img: "https://wsrv.nl/?url=https://www.revzilla.com/product_images/0126/6692/alpinestars_sp8_v3_gloves.jpg&w=200&h=200&fit=contain&bg=white" },
-            { name: "Bot", url: "/bot", img: "https://placehold.co/200x200/ffffff/333333.png?text=Bot" }, 
-            { name: "İnterkom", url: "/interkom", img: "https://placehold.co/200x200/ffffff/333333.png?text=Interkom" },
-            { name: "Koruma", url: "/koruma", img: "https://placehold.co/200x200/ffffff/333333.png?text=Koruma" }, 
-            { name: "Yağmurluk", url: "/yagmurluk", img: "https://placehold.co/200x200/ffffff/333333.png?text=Yagmurluk" }
-          ].map(cat => (
-            <Link href={cat.url} key={cat.name} className="w-[120px] h-[130px] bg-white rounded-2xl shadow-sm border border-gray-100 flex flex-col items-center justify-center hover:border-red-500 hover:shadow-md transition group">
-              <div className="w-16 h-16 mb-2 flex items-center justify-center overflow-hidden">
-                <img src={cat.img} alt={cat.name} className="max-w-full max-h-full object-contain mix-blend-multiply group-hover:scale-110 transition" />
-              </div>
-              <span className="text-[13px] font-bold text-gray-800">{cat.name}</span>
+      <Container className="mt-10">
+        <section className="relative overflow-hidden rounded-xl bg-night-2 p-6 sm:p-8" aria-labelledby="wiz">
+          <div className="absolute inset-y-0 right-0 w-1/2 bg-[radial-gradient(circle_at_80%_50%,rgba(212,32,42,.25),transparent_60%)]" />
+          <div className="relative">
+            <h2 id="wiz" className="font-display text-3xl leading-none font-bold text-white sm:text-4xl">
+              Yeni Motor Aldım
+              <br />
+              Hangi Ekipmanları Almalıyım?
+            </h2>
+            <p className="mt-2 mb-5 max-w-2xl text-white/70">Motorunu seç, birkaç soruyu yanıtla; ihtiyacın olan ekipmanları, nedenlerini ve bütçeni nasıl paylaştıracağını gör.</p>
+            <Wizard products={wizardProducts()} bikes={wizardBikes()} compact />
+          </div>
+        </section>
+      </Container>
+
+      <Container className="mt-12">
+        <ul className="grid grid-cols-3 gap-2 sm:grid-cols-5 lg:grid-cols-9">
+          {CATEGORIES.map((c) => {
+            const img = coverImage(c.slug);
+            return (
+              <li key={c.slug}>
+                <Link href={`/${c.slug}`} className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
+                  {img ? (
+                    <span className="relative block size-16">
+                      <Image unoptimized={!canOptimize(img.url)} src={img.url} alt="" fill sizes="64px" className="object-contain transition group-hover:scale-110" />
+                    </span>
+                  ) : (
+                    <Icon name={c.icon} className="size-16 p-2 text-ink-2 transition group-hover:text-red" />
+                  )}
+                  <span className="text-sm">{c.short}</span>
+                </Link>
+              </li>
+            );
+          })}
+          <li>
+            <Link href="/kadin" className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
+              <Icon name="user" className="size-11 text-ink-2 transition group-hover:text-red" />
+              <span className="text-sm">Kadın</span>
             </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* POPÜLER MARKALAR */}
-      <section className="max-w-[1200px] mx-auto px-4 mb-20 text-center">
-        <h3 className="text-xl font-bold mb-8 text-gray-900">Popüler Markalar</h3>
-        <div className="flex flex-wrap justify-center gap-4">
-          {[
-            { name: "SHOEI" }, { name: "AGV" }, { name: "ARAI" }, { name: "HJC" }, { name: "LS2" }, 
-            { name: "SENA" }, { name: "CARDO" }, { name: "DAINESE" }, { name: "ALPINESTARS" }, { name: "REV'IT!" }
-          ].map(brand => (
-            <Link href={`/markalar/${brand.name.toLowerCase().replace(/[^a-z0-9]/g, '')}`} key={brand.name} className="bg-white border border-gray-200 w-36 h-20 rounded-xl flex items-center justify-center hover:border-red-500 shadow-sm transition p-4">
-              <span className="font-black text-gray-800 tracking-wider text-sm">{brand.name}</span>
+          </li>
+          <li>
+            <Link href="/motosikletime-gore/kurye" className="group flex h-full flex-col items-center gap-2 rounded-lg border border-line bg-white p-3 pt-4 text-center font-semibold transition hover:border-ink hover:shadow-md">
+              <Icon name="bike" className="size-11 text-ink-2 transition group-hover:text-red" />
+              <span className="text-sm">Kurye</span>
             </Link>
-          ))}
-        </div>
-      </section>
+          </li>
+        </ul>
+      </Container>
 
-      {/* EDİTÖRÜN SEÇİMLERİ (DİNAMİK PRİSMA VERİSİ) */}
-      <section className="max-w-[1200px] mx-auto px-4">
-        <h3 className="text-xl font-bold mb-6 text-gray-900">Editörün Seçimleri</h3>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
-          {editorPicks.map((product, idx) => (
-            <Link href={`/${product.category.slug}/${product.slug}`} key={product.id} className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm relative group hover:shadow-lg transition">
-              <span className="absolute top-4 left-4 z-10 bg-red-50 text-red-600 text-[10px] font-bold px-2 py-1 rounded">
-                {idx === 0 ? 'En Popüler' : idx === 1 ? 'Yeni' : idx === 2 ? 'Fiyat/Performans' : 'Editör Seçimi'}
-              </span>
-              <button className="absolute top-4 right-4 text-gray-400 hover:text-red-500 z-10 transition">🤍</button>
-              
-              <div className="h-48 bg-transparent mb-4 flex items-center justify-center overflow-hidden">
-                <img src={product.imageUrl!} alt={product.name} className="w-full h-full object-contain mix-blend-multiply group-hover:scale-105 transition duration-500" />
-              </div>
-              
-              <div className="text-xs text-gray-500 mb-1">{product.brand.name}</div>
-              <h4 className="font-bold text-gray-900 mb-1 line-clamp-1">{product.name}</h4>
-              <p className="text-[10px] text-gray-400 mb-3">{product.category.name}</p>
-              
-              <div className="text-lg font-black text-gray-900 mb-1">{product.basePriceMin?.toLocaleString('tr-TR')} TL</div>
-              <div className="text-[11px] text-yellow-500 flex items-center gap-1">
-                ⭐⭐⭐⭐⭐ <span className="font-bold">{product.rating}</span> <span className="text-gray-400">({product.reviewCount})</span>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
+      {brands.length > 0 && (
+        <Container className="mt-14">
+          <SectionTitle title="Popüler Markalar" href="/markalar" linkLabel="Tüm markalar" />
+          <ul className="flex flex-wrap gap-2">
+            {brands.slice(0, 18).map((b) => (
+              <li key={b.slug}>
+                <Link
+                  href={`/marka/${b.slug}`}
+                  lang="en"
+                  className="block rounded-md border border-line bg-white px-4 py-2.5 font-display text-xl font-bold tracking-wide text-ink-2 uppercase transition hover:border-ink hover:text-red"
+                >
+                  {b.name}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </Container>
+      )}
 
-    </main>
+      {localBrands.length > 0 && (
+        <section className="mt-14 bg-white py-12" aria-labelledby="yerli">
+          <Container>
+            <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
+              <div>
+                <p className="text-sm font-semibold tracking-wide text-red uppercase">Türkiye&apos;de üretiliyor</p>
+                <h2 id="yerli" className="font-display text-3xl leading-none font-bold sm:text-4xl">
+                  Yerli markalar
+                </h2>
+                <p className="mt-2 max-w-2xl text-mute">Kurye montundan Kevlar kota, çene açılır kasktan Dyneema monta kadar yerli üreticilerin ürünleri; teknik verileri ve fiyatlarıyla.</p>
+              </div>
+              <Link href="/markalar#ulke-turkiye" className="flex items-center gap-1 text-sm font-semibold text-red hover:underline">
+                Tüm yerli markalar <Icon name="arrow" className="size-4" />
+              </Link>
+            </div>
+            <ul className="mb-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+              {localBrands.map((b) => (
+                <li key={b.slug}>
+                  <Link href={`/marka/${b.slug}`} className="group block h-full rounded-lg border border-line p-4 hover:border-red">
+                    <span className="block font-display text-xl font-bold group-hover:text-red">{b.name}</span>
+                    {b.strongestLine && <span className="mt-1 block text-sm text-mute">{b.strongestLine}</span>}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            {localProducts.length > 0 && <ProductGrid items={localProducts} />}
+          </Container>
+        </section>
+      )}
+
+      {picks.length > 0 && (
+        <Container className="mt-14">
+          <SectionTitle title="Editörün Seçimleri" sub="Teknik verisi üretici kaynaklarıyla en eksiksiz doğrulanmış ürünlerimiz." />
+          <ProductGrid items={picks} />
+        </Container>
+      )}
+
+      <Container className="mt-14 grid gap-4 md:grid-cols-3">
+        {banners.map((b) => (
+          <Link key={b.href} href={b.href} className="group relative overflow-hidden rounded-xl bg-night p-6 text-white">
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_90%_20%,rgba(212,32,42,.35),transparent_55%)]" />
+            <p className="relative font-display text-2xl font-bold">{b.title}</p>
+            <p className="relative mt-1 text-sm text-white/70">{b.text}</p>
+            <span className="relative mt-5 inline-flex rounded bg-white px-3 py-1.5 text-xs font-bold tracking-wide text-ink uppercase group-hover:bg-red group-hover:text-white">{b.cta}</span>
+          </Link>
+        ))}
+      </Container>
+
+      {pairs.length > 0 && (
+        <Container className="mt-14">
+          <SectionTitle title="Popüler Karşılaştırmalar" href="/karsilastir" linkLabel="Karşılaştırma aracı" />
+          <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+            {pairs.map((c) => (
+              <li key={c.slug}>
+                <Link href={`/karsilastir/${c.slug}`} className="block rounded-lg border border-line bg-white p-4 font-semibold hover:border-ink">
+                  {displayName(c.items[0])} <span className="text-red">vs</span> {displayName(c.items[1])}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </Container>
+      )}
+
+      {guides.length > 0 && (
+        <Container className="mt-14">
+          <SectionTitle title="Rehberler" sub="Seçim yaparken en çok sorulan sorulara net ve kaynaklı cevaplar." href="/rehber" linkLabel="Tüm rehberler" />
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {guides.slice(0, 8).map((g) => (
+              <li key={g.slug}>
+                <Link href={`/rehber/${g.slug}`} className="group flex h-full flex-col rounded-lg border border-line bg-white p-5 hover:border-ink hover:shadow-md">
+                  <span className="text-xs font-semibold tracking-wide text-red uppercase">{g.readingMinutes} dk okuma</span>
+                  <span className="mt-1 font-display text-xl leading-tight font-bold group-hover:text-red">{g.title}</span>
+                  <span className="mt-2 line-clamp-3 text-sm text-mute">{g.description}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </Container>
+      )}
+
+      <Container className="mt-14">
+        <SectionTitle title="Motosikletime Göre Ekipman" href="/motosikletime-gore" linkLabel="Tümü" />
+        <ul className="flex flex-wrap gap-2">
+          {MOTO_TYPES.map((m) => (
+            <li key={m.slug}>
+              <Link href={`/motosikletime-gore/${m.slug}`} className="flex items-center gap-2 rounded-full border border-line bg-white px-4 py-2 font-semibold hover:border-ink hover:text-red">
+                <Icon name="bike" className="size-4" /> {m.name}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </Container>
+    </>
   );
 }
