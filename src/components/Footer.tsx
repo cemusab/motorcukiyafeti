@@ -2,6 +2,7 @@ import Link from "next/link";
 import { CATEGORIES } from "@/data/categories";
 import { getBrands, getGuides } from "@/lib/data";
 import { legalReady } from "@/lib/legal";
+import { ConsentLink } from "./Consent";
 import { Logo } from "./Header";
 
 export function Footer() {
@@ -93,6 +94,7 @@ export function Footer() {
                 <Link href="/gizlilik-politikasi" className="hover:text-white">Gizlilik (GDPR)</Link>
                 <Link href="/cerez-politikasi" className="hover:text-white">Çerez Politikası</Link>
                 <Link href="/basvuru" className="hover:text-white">KVKK Başvuru</Link>
+                <ConsentLink />
               </>
             )}
           </p>

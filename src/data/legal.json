@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "pages": [
     {
       "slug": "kvkk-aydinlatma-metni",
@@ -53,11 +53,19 @@
           "bullets": []
         },
         {
+          "heading": "Analitik çerezler ve Google Analytics",
+          "paragraphs": [
+            "Çerez bandında açıkça onay vermeniz halinde, sitenin kullanımını ölçmek amacıyla Google LLC tarafından sağlanan Google Analytics 4 aracılığıyla kısaltılmış IP adresi, cihaz/tarayıcı bilgisi ve sayfa görüntüleme verileri işlenir. Bu işleme KVKK m. 5/1 uyarınca açık rızanıza dayanır; rıza vermemeniz siteyi kullanmanızı etkilemez.",
+            "Bu veriler Google LLC'nin yurt dışındaki sunucularına aktarılabilir. Aktarım KVKK m. 9 kapsamındaki aktarım mekanizmalarına dayanır; ayrıntılı bilgi için {{EPOSTA}} adresine başvurabilirsiniz. Rızanızı dilediğiniz zaman sayfanın altındaki \"Çerez tercihleri\" bağlantısından geri alabilirsiniz."
+          ],
+          "bullets": []
+        },
+        {
           "heading": "4. Toplama yöntemi ve hukuki sebep",
           "paragraphs": [
             "Teknik veriler, Site’yi ziyaret ettiğinizde tarayıcınızın sunucuya gönderdiği istekler aracılığıyla otomatik yollarla toplanır ve sunucu/erişim kayıtlarına (log) yazılır.",
             "Bu işleme, KVKK’nın 5. maddesinin ikinci fıkrasının (f) bendi uyarınca “ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması” hukuki sebebine dayanır. Meşru menfaatimiz, Site’nin güvenli ve kesintisiz biçimde sunulmasıdır.",
-            "Site’de açık rızaya dayalı bir işleme faaliyeti bulunmamaktadır. İleride açık rıza gerektiren bir işleme (örneğin rızaya bağlı ziyaretçi istatistikleri) eklenirse, açık rıza ayrıca ve bu metinden ayrı olarak talep edilir; bu metin de güncellenir."
+            "Açık rızaya dayalı tek işleme, çerez bandında onay vermeniz halinde çalışan Google Analytics ziyaretçi istatistikleridir. Bu rıza, bu metinden ayrı olarak çerez bandında talep edilir"
           ]
         },
         {
@@ -146,7 +154,7 @@
         {
           "heading": "3. İşlenen veriler, amaçlar ve hukuki dayanak",
           "paragraphs": [
-            "Site’de hesap, form, bülten, analiz aracı, reklam veya takip çerezi bulunmamaktadır. İşlenen tek kişisel veri kategorisi, sayfaların sunulması sırasında oluşan sunucu/erişim kayıtlarıdır."
+            "Site’de hesap, form, bülten, reklam veya takip çerezi bulunmamaktadır. Kişisel veri olarak sayfaların sunulması sırasında oluşan sunucu/erişim kayıtları, onay vermeniz halinde Google Analytics verileri ve bize e-posta gönderirseniz e-posta içerikleri işlenir."
           ],
           "bullets": [
             "Veriler: IP adresi, tarayıcı/cihaz bilgisi (user agent), talep edilen URL, tarih ve saat.",
@@ -161,6 +169,14 @@
           "paragraphs": [
             "{{EPOSTA}} adresine gönderdiğiniz e-postalar (ad/rumuz, e-posta adresi, mesaj, isteğe bağlı kullanım ve beden bilgisi) talebinizi yanıtlamak için GDPR m. 6(1)(f) (meşru menfaat) kapsamında işlenir. Ürün yorumunuz yalnızca e-postada verdiğiniz açık rızaya dayanarak (GDPR m. 6(1)(a)) ve rumuzunuzla yayınlanır; rızanızı istediğiniz zaman geri alabilirsiniz (GDPR m. 7(3)).",
             "E-postalar Google LLC'nin Gmail hizmetinde tutulur. Google LLC, AB–ABD Veri Gizliliği Çerçevesi (Data Privacy Framework) kapsamında sertifikalı olduğunu beyan etmektedir."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Google Analytics (consent-based)",
+          "paragraphs": [
+            "Yalnızca çerez bandında onay vermeniz halinde (GDPR m. 6(1)(a), ePrivacy m. 5(3)) Google Analytics 4 kullanılır. Google sinyalleri ve reklam kişiselleştirme kapalıdır, IP adresi kısaltılır. Google LLC, AB–ABD Veri Gizliliği Çerçevesi kapsamında sertifikalı olduğunu beyan etmektedir.",
+            "Onayınızı istediğiniz zaman \"Çerez tercihleri\" bağlantısından geri alabilirsiniz (GDPR m. 7(3)); geri alma, önceki işlemenin hukuka uygunluğunu etkilemez."
           ],
           "bullets": []
         },
@@ -252,6 +268,19 @@
           ]
         },
         {
+          "heading": "Analitik çerezler (yalnızca onay verirseniz)",
+          "paragraphs": [
+            "Sitenin nasıl kullanıldığını anlamak ve içeriği iyileştirmek için Google LLC'nin Google Analytics 4 hizmetini kullanırız. Bu hizmet yalnızca çerez bandında \"Kabul et\" seçeneğini işaretlemeniz halinde yüklenir; onay vermezseniz Google Analytics betiği tarayıcınıza hiç gönderilmez.",
+            "Analytics; IP adresinizin kısaltılmış hali, tarayıcı ve cihaz bilgisi, ziyaret edilen sayfalar, yönlendiren site ve sayfada geçirilen süre gibi verileri işler. Google sinyalleri ve reklam kişiselleştirme kapalıdır; reklam çerezi kullanmayız.",
+            "Onayınızı dilediğiniz zaman sayfanın altındaki \"Çerez tercihleri\" bağlantısından geri alabilirsiniz; bu durumda Analytics çerezleri tarayıcınızdan silinir."
+          ],
+          "bullets": [
+            "_ga — Google Analytics, ziyaretçileri ayırt eder, süre: 2 yıl, taraf: Google LLC (üçüncü taraf)",
+            "_ga_<kimlik> — Google Analytics oturum durumunu tutar, süre: 2 yıl, taraf: Google LLC (üçüncü taraf)",
+            "mk:consent (localStorage) — çerez tercihinizi hatırlar, süre: siz silene kadar, taraf: Motorcu Kıyafeti (birinci taraf, zorunlu)"
+          ]
+        },
+        {
           "heading": "3. Hukuki değerlendirme: neden onay istemiyoruz?",
           "paragraphs": [
             "KVKK Çerez Rehberi, internet sitesinin çalışması veya kullanıcının açıkça talep ettiği bir hizmetin sunulması için zorunlu olan çerezleri, açık rıza gerektirmeyen “zorunlu çerezler” olarak değerlendirir; analiz, reklam ve takip gibi zorunlu olmayan çerezler ise açık rızaya tabidir.",
@@ -273,7 +302,6 @@
         {
           "heading": "5. Kullanmadığımız teknolojiler",
           "bullets": [
-            "Analiz/istatistik çerezleri veya araçları",
             "Reklam ve yeniden hedefleme çerezleri",
             "Sosyal medya takip pikselleri",
             "Tarayıcı parmak izi (fingerprinting) yöntemleri",
