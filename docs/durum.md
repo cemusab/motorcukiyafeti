@@ -75,5 +75,6 @@ Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur y
     - SEO (ilk 10 rakip analizi): ana sayfa H1 "Motosiklet Kıyafetleri ve Ekipmanları"; kategori/alt kategori/kadın-erkek başlıkları ad tamlamasıyla (src/data/category-seo.ts); kategori SSS + FAQPage (src/data/category-faq.json, 43 soru)
     - İzinli mağazalara enduromarket.com eklendi.
   - Açık: BMW GS Rallye Carbon kask (ECE sürümü doğrulanamadı); Dainese/Rev'it/iXS adventure TR fiyatı; Halvarssons; beden tablosu eksik ürünler; bütçe dilimlerine koruma/yağmurluk/aksesuar eklenebilir.
+- **Mola (8 Eki 2026, site sahibiyle kararlaştırıldı):** Tur 3'ten önce Google indekslemesi beklenecek (~1–2 hafta). Devam edilince önce Search Console'a bak: Sayfalar (dizine eklenen / eklenmeyen ve nedenleri), Site haritaları durumu (sitemap.xml "Başarılı" mı), Performans > Sorgular (Tur 3 marka/model listesi buradan). Sorunlu sayfa nedenleri varsa önce onlar düzeltilir.
 - [ ] Tur 3 (+ blog: bütçeyle tam ekipman seti; ehliyet sınıfları ve ekipman): Search Console verisine göre aranan markalar/modeller
 - [ ] Sonra: haftada ~2 tur ritmi
