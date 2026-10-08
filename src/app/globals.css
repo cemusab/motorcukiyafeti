@@ -65,3 +65,11 @@ body {
     animation: none !important;
   }
 }
+
+/* Yatay kaydırılan şeritlerde kaydırma çubuğunu gizle (kaydırma çalışmaya devam eder). */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}

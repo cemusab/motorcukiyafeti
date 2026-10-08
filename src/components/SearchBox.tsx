@@ -64,7 +64,7 @@ export function SearchBox({ size = "md", autoFocus = false }: { size?: "md" | "l
           aria-expanded={open && q.length >= 2}
           aria-controls={`${id}-list`}
           aria-activedescendant={active >= 0 ? `${id}-${active}` : undefined}
-          placeholder="Kask, mont, interkom, marka veya rehber ara…"
+          placeholder="Kask, mont, marka ara…"
           onFocus={() => {
             setOpen(true);
             loadIndex().then(setDocs);

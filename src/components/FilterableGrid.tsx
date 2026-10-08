@@ -1,6 +1,6 @@
 "use client";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { Children, isValidElement, useMemo, useState } from "react";
+import { Children, isValidElement, useEffect, useMemo, useState } from "react";
 import type { FacetDef, FacetItem } from "@/lib/facets";
 import { Icon } from "./Icon";
 
@@ -16,6 +16,16 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
   const params = useSearchParams();
   const [panel, setPanel] = useState(false);
   const [limit, setLimit] = useState(24);
+  // Uzun seçenek listeleri (ör. 30+ marka) önce kısa gösterilir; mobilde ekranı boğmaz.
+  const [openLists, setOpenLists] = useState<Set<string>>(new Set());
+  const SHORT = 8;
+  useEffect(() => {
+    if (!panel) return;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [panel]);
 
   const selected = useMemo(() => {
     const m: Record<string, string[]> = {};
@@ -87,17 +97,36 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
         options[d.key]?.length ? (
           <fieldset key={d.key}>
             <legend className="mb-2 font-display text-lg font-bold">{d.label}</legend>
-            <ul className="space-y-1.5">
-              {options[d.key].map((o) => (
-                <li key={o.value}>
-                  <label className="flex cursor-pointer items-center gap-2 text-[15px]">
-                    <input type="checkbox" className="size-4 accent-red" checked={selected[d.key]?.includes(o.value) ?? false} onChange={() => toggle(d.key, o.value)} />
-                    <span className="flex-1">{o.value}</span>
-                    <span className="text-xs text-mute">{o.count}</span>
-                  </label>
-                </li>
-              ))}
+            <ul className="space-y-0.5 lg:space-y-1.5">
+              {options[d.key]
+                .filter((o, idx) => openLists.has(d.key) || options[d.key].length <= SHORT + 2 || idx < SHORT || selected[d.key]?.includes(o.value))
+                .map((o) => (
+                  <li key={o.value}>
+                    <label className="flex cursor-pointer items-center gap-3 py-1.5 text-[15px] lg:gap-2 lg:py-0">
+                      <input type="checkbox" className="size-5 accent-red lg:size-4" checked={selected[d.key]?.includes(o.value) ?? false} onChange={() => toggle(d.key, o.value)} />
+                      <span className="flex-1">{o.value}</span>
+                      <span className="text-xs text-mute">{o.count}</span>
+                    </label>
+                  </li>
+                ))}
             </ul>
+            {options[d.key].length > SHORT + 2 && (
+              <button
+                type="button"
+                aria-expanded={openLists.has(d.key)}
+                onClick={() =>
+                  setOpenLists((s) => {
+                    const n = new Set(s);
+                    if (n.has(d.key)) n.delete(d.key);
+                    else n.add(d.key);
+                    return n;
+                  })
+                }
+                className="mt-1 py-1.5 text-sm font-semibold text-red hover:underline"
+              >
+                {openLists.has(d.key) ? "Daha az göster" : `Tümünü göster (${options[d.key].length})`}
+              </button>
+            )}
           </fieldset>
         ) : null,
       )}
@@ -154,12 +183,17 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
         {filters}
       </aside>
       <div>
-        <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+        {/* Mobilde filtre/sıralama çubuğu kaydırırken başlığın altında kalır. */}
+        <div className="sticky top-28 z-30 -mx-4 mb-4 flex flex-wrap items-center justify-between gap-x-3 gap-y-2 border-b border-line bg-paper/95 px-4 py-2 backdrop-blur sm:static sm:mx-0 sm:border-0 sm:bg-transparent sm:p-0 sm:backdrop-blur-none">
           <p className="text-sm text-mute" aria-live="polite">
             <strong className="text-ink">{visible.length}</strong> ürün bulundu
           </p>
-          <div className="flex items-center gap-2">
-            <button type="button" onClick={() => setPanel(true)} className="flex h-10 items-center gap-2 rounded-md border border-line bg-white px-3 text-sm font-semibold lg:hidden">
+          <div className="flex w-full items-center gap-2 sm:w-auto">
+            <button
+              type="button"
+              onClick={() => setPanel(true)}
+              className={`flex h-11 flex-1 items-center justify-center gap-2 rounded-md border px-3 text-sm font-semibold sm:h-10 sm:flex-none lg:hidden ${activeCount > 0 ? "border-red bg-red text-white" : "border-line bg-white"}`}
+            >
               Filtrele {activeCount > 0 && `(${activeCount})`}
             </button>
             <label className="sr-only" htmlFor="sirala">
@@ -169,7 +203,7 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
               id="sirala"
               value={sort}
               onChange={(e) => update((p) => (e.target.value === "onerilen" ? p.delete("sirala") : p.set("sirala", e.target.value)))}
-              className="h-10 rounded-md border border-line bg-white px-2 text-sm"
+              className="h-11 min-w-0 flex-1 rounded-md border border-line bg-white px-2 text-sm sm:h-10 sm:flex-none"
             >
               <option value="onerilen">Önerilen</option>
               {prices.length > 0 && <option value="fiyat-artan">Fiyat: düşükten yükseğe</option>}
@@ -194,7 +228,7 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
         {visible.length ? (
           <>
             <h2 className="sr-only">Ürünler</h2>
-            <div className="grid grid-cols-1 gap-4 min-[420px]:grid-cols-2 xl:grid-cols-3">{visible.slice(0, limit).map((i) => byId.get(i.id))}</div>
+            <div className="grid grid-cols-2 gap-3 sm:gap-4 xl:grid-cols-3">{visible.slice(0, limit).map((i) => byId.get(i.id))}</div>
             {visible.length > limit && (
               <button
                 type="button"
@@ -217,17 +251,19 @@ export function FilterableGrid({ defs, items, children }: { defs: FacetDef[]; it
       {panel && (
         <div className="fixed inset-0 z-50 lg:hidden" role="dialog" aria-modal="true" aria-label="Filtreler">
           <div className="absolute inset-0 bg-black/50" onClick={() => setPanel(false)} />
-          <div className="absolute inset-x-0 bottom-0 max-h-[85vh] overflow-y-auto rounded-t-xl bg-white p-5">
-            <div className="mb-4 flex items-center justify-between">
+          <div className="absolute inset-x-0 bottom-0 flex max-h-[88dvh] flex-col rounded-t-xl bg-white">
+            <div className="flex items-center justify-between border-b border-line px-5 py-3">
               <p className="font-display text-2xl font-bold">Filtreler</p>
-              <button type="button" aria-label="Filtreleri kapat" onClick={() => setPanel(false)} className="grid size-10 place-items-center">
+              <button type="button" aria-label="Filtreleri kapat" onClick={() => setPanel(false)} className="grid size-11 place-items-center">
                 <Icon name="close" />
               </button>
             </div>
-            {filters}
-            <button type="button" onClick={() => setPanel(false)} className="mt-6 h-12 w-full rounded-md bg-red font-semibold text-white">
-              {visible.length} ürünü göster
-            </button>
+            <div className="flex-1 overflow-y-auto overscroll-contain px-5 py-4">{filters}</div>
+            <div className="border-t border-line px-5 pt-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
+              <button type="button" onClick={() => setPanel(false)} className="h-12 w-full rounded-md bg-red font-semibold text-white">
+                {visible.length} ürünü göster
+              </button>
+            </div>
           </div>
         </div>
       )}

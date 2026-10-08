@@ -140,12 +140,12 @@ export default function Home() {
             if (!sub || !img) return null;
             return (
               <li key={slug}>
-                <Link href={`/kask/${slug}`} className="group relative flex aspect-[4/3] flex-col items-center justify-end overflow-hidden p-4 text-center">
+                <Link href={`/kask/${slug}`} className="group relative flex aspect-square flex-col items-center justify-end overflow-hidden p-3 text-center sm:aspect-[4/3] sm:p-4">
                   <span className="absolute inset-0 bg-[radial-gradient(circle_at_50%_40%,rgba(255,255,255,.14),transparent_60%)] transition group-hover:bg-[radial-gradient(circle_at_50%_40%,rgba(212,32,42,.35),transparent_65%)]" />
-                  <span className="absolute inset-x-6 top-4 bottom-14 transition group-hover:scale-105">
+                  <span className="absolute inset-x-5 top-3 bottom-16 transition group-hover:scale-105 sm:inset-x-6 sm:top-4 sm:bottom-14">
                     <Image unoptimized={!canOptimize(img.url)} src={img.url} alt="" fill sizes="(min-width:1024px) 25vw, 50vw" className="object-contain drop-shadow-[0_12px_24px_rgba(0,0,0,.6)]" />
                   </span>
-                  <span className="relative font-display text-2xl font-bold tracking-wide text-white uppercase sm:text-3xl">{sub.sub.name.replace(" (Modüler)", "")}lar</span>
+                  <span className="relative font-display text-lg leading-none font-bold tracking-wide text-white uppercase sm:text-3xl sm:leading-tight">{sub.sub.name.replace(" (Modüler)", "")}lar</span>
                 </Link>
               </li>
             );

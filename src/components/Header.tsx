@@ -6,6 +6,7 @@ import { Icon } from "./Icon";
 import { SearchBox } from "./SearchBox";
 import { MobileMenu, type MobileNav } from "./MobileMenu";
 import { HeaderCounters } from "./HeaderCounters";
+import { MobileCategoryStrip } from "./MobileCategoryStrip";
 
 export function Logo({ light = true }: { light?: boolean }) {
   return (
@@ -25,14 +26,21 @@ export function Header() {
   const guideTitles = new Map(getGuides().map((g) => [g.slug, g.title]));
   const guides = new Set(guideTitles.keys());
   const mobileNav: MobileNav = {
+    quick: [
+      { label: "Kadın", href: "/kadin", icon: "user" },
+      { label: "Erkek", href: "/erkek", icon: "user" },
+      { label: "Kuryeler için", href: "/motosikletime-gore/kurye", icon: "bike" },
+      { label: "Ne almalıyım?", href: "/ne-almaliyim", icon: "star" },
+      { label: "Karşılaştır", href: "/karsilastir", icon: "compare" },
+      { label: "Kask + İnterkom", href: "/interkom-uyumlulugu", icon: "interkom" },
+    ],
     categories: CATEGORIES.map((c) => ({
       name: c.name,
+      icon: c.icon,
       href: `/${c.slug}`,
       items: c.groups.flatMap((g) => g.items.filter((i) => productsIn(c.slug, i.slug).length).map((i) => ({ name: i.name, href: `/${c.slug}/${i.slug}` }))),
     })),
     extra: [
-      { label: "Kadın", href: "/kadin" },
-      { label: "Erkek", href: "/erkek" },
       { label: "Motosikletime Göre", href: "/motosikletime-gore" },
       { label: "Motoruma Göre (model)", href: "/motor" },
       { label: "Yeni Başlayanlar", href: "/yeni-baslayanlar" },
@@ -41,6 +49,8 @@ export function Header() {
       { label: "Favoriler", href: "/favoriler" },
     ],
   };
+  // Hızlı erişim kutularında olan bağlantılar listede tekrar edilmez.
+  mobileNav.extra = mobileNav.extra.filter((e) => !mobileNav.quick.some((q) => q.href === e.href));
 
   const iconLink = "relative flex flex-col items-center gap-1 rounded px-2 py-1 text-xs font-semibold text-ink-2 hover:text-red";
   return (
@@ -48,7 +58,12 @@ export function Header() {
       {/* Duyuru şeridi ve yardımcı satır yapışkan değildir; kaydırınca yalnız ana satır + kategori çubuğu kalır. */}
       <div className="bg-red text-center text-[13px] font-semibold text-white">
         <Link href="/veri-politikasi" className="block px-4 py-1.5 hover:underline">
-          Tüm teknik bilgiler <strong>üretici kaynaklı</strong> · Fiyatlar <strong>satıcı ve kontrol tarihiyle</strong>
+          <span className="sm:hidden">
+            Teknik bilgiler <strong>üretici kaynaklı</strong>
+          </span>
+          <span className="hidden sm:inline">
+            Tüm teknik bilgiler <strong>üretici kaynaklı</strong> · Fiyatlar <strong>satıcı ve kontrol tarihiyle</strong>
+          </span>
         </Link>
       </div>
       <div className="hidden border-b border-line bg-paper text-[13px] text-mute md:block">
@@ -95,6 +110,14 @@ export function Header() {
             </Link>
           </nav>
         </div>
+
+      <MobileCategoryStrip
+        items={[
+          ...CATEGORIES.map((c) => ({ href: `/${c.slug}`, label: c.short, icon: c.icon })),
+          { href: "/kadin", label: "Kadın", icon: null },
+          { href: "/motosikletime-gore/kurye", label: "Kurye", icon: null },
+        ]}
+      />
 
       <nav aria-label="Ana menü" className="hidden bg-red lg:block">
         <ul className="mx-auto flex max-w-7xl items-stretch justify-between px-2 font-display text-[17px] font-bold tracking-wide whitespace-nowrap uppercase">

@@ -46,7 +46,7 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
       </PageHead>
       <JsonLd data={[items.length ? itemListLd(seoName, items.map((p) => ({ name: displayName(p), href: productPath(p) }))) : null, faq.length ? faqLd(faq) : null]} />
       <Container className="mt-6">
-        <nav aria-label={`${c.name} alt kategorileri`} className="flex gap-2 overflow-x-auto pb-2">
+        <nav aria-label={`${c.name} alt kategorileri`} className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 pb-2 sm:mx-0 sm:px-0">
           {c.groups.flatMap((g) => g.items).map((s) => (
             <Link key={s.slug} href={`/${c.slug}/${s.slug}`} className="shrink-0 rounded-full border border-line bg-white px-4 py-2 text-sm font-semibold whitespace-nowrap hover:border-ink hover:text-red">
               {s.name}

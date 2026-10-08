@@ -126,14 +126,14 @@ export function Wizard({ products, bikes = [], compact = false }: { products: Wi
                 onChange={(e) => chooseBike(e.target.value)}
                 placeholder="Marka veya model yaz: PCX, NMAX, 250NK, MT-07…"
                 autoComplete="off"
-                className={`${sel} min-w-0 flex-1`}
+                className={`${sel} min-w-0 basis-full sm:basis-0 sm:flex-1`}
               />
               <datalist id="w-motor-list">
                 {bikes.map((b) => (
                   <option key={b.slug} value={b.label} />
                 ))}
               </datalist>
-              <button type="button" onClick={() => setNoBike(true)} className="h-12 rounded-md border border-white/25 px-4 text-sm font-semibold text-white hover:bg-white/10">
+              <button type="button" onClick={() => setNoBike(true)} className="h-12 w-full rounded-md border border-white/25 px-4 text-sm font-semibold text-white hover:bg-white/10 sm:w-auto">
                 Listede yok / henüz almadım
               </button>
             </div>
