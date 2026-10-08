@@ -1,0 +1,56 @@
+[
+  {
+    "product": "leatt/adv-hydradri-6-5-women",
+    "images": [
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_2026_GloveADV_6.5HydraDri_WMN_Long_StealthBlackGrey_Pair_6026004400_71819a64-405f-48c3-bf45-25ba9cb848d6.png",
+        "alt": "Leatt ADV HydraDri 6.5 kadın su geçirmez eldiven, siyah/gri, çift",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/glove-adv-hydradri-6-5-women"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_2026_GloveADV_6.5HydraDri_WMN_Long_StealthBlackGrey_LeftPalm_6026004400_11dbbe45-cedb-4d44-94a7-129a408498d9.png",
+        "alt": "Leatt ADV HydraDri 6.5 kadın eldiven, avuç içi",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/glove-adv-hydradri-6-5-women"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/stella-sp-8-v3",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3518321-12-fr_stella-sp-8-v3-leather-glove_a7e98d7d-1dbd-4c49-8689-3556b372a84a.png",
+        "alt": "Alpinestars Stella SP-8 v3 kadın deri eldiven, siyah/beyaz, üstten görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-sp-8-v3-gloves"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3518321-12-ba_stella-sp-8-v3-leather-glove_c14a1b61-d18a-4171-98fa-5fe26188e0dd.png",
+        "alt": "Alpinestars Stella SP-8 v3 kadın deri eldiven, avuç içi",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-sp-8-v3-gloves"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "shima/spark-3-0-lady",
+    "images": [
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/01_SHIMA_SPARK-3_GLV_LADY_BLACK_2500x2500.avif",
+        "alt": "Shima Spark 3.0 Lady kadın yaz eldiveni, siyah",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rekawice-spark-3-0-lady-czarne/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_SPARK-3.0_GLV_LADY_BLACK_FRONT-1.avif",
+        "alt": "Shima Spark 3.0 Lady kadın eldiven, üstten görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rekawice-spark-3-0-lady-czarne/"
+      }
+    ],
+    "videos": []
+  }
+]

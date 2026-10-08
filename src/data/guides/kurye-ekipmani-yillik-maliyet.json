@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "kurye-ekipmani-yillik-maliyet",
+    "title": "Kurye Ekipmanının Yıllık Maliyeti: Tam Set Ne Kadar Tutuyor?",
+    "description": "Kask, mont, pantolon, eldiven, bot, yağmurluk, yelek ve telefon tutucudan oluşan kurye setinin 8 Ekim 2026 fiyatlarıyla ilk alım ve yıllık maliyeti.",
+    "topic": "sektor",
+    "updatedAt": "2026-10-08",
+    "readingMinutes": 8,
+    "intro": "8 Ekim 2026 itibarıyla sitemizdeki fiyatlarla, belgeli ve uygun fiyatlı ürünlerden kurulan temel bir kurye seti yaklaşık 31.800 TL, ithal markaların ağırlıkta olduğu orta segment bir set ise yaklaşık 79.500 TL tutuyor. Parçaların ne sıklıkla yenileneceğine dair aşağıda açıkça yazdığımız varsayımlarla bu, ekonomik sette yılda yaklaşık 16.100 TL'ye, orta sette yaklaşık 39.700 TL'ye denk geliyor; yılda 300 iş günüyle hesaplarsan günde kabaca 54 ile 132 TL arası. Teslimat çantası ve telefon kılıfı bu toplamlara dahil değil. Hangi ürünü neden seçtiğimizi, hangi süreleri varsaydığımızı ve hesabı kendi kullanımına göre nasıl değiştireceğini adım adım gösteriyoruz.",
+    "sections": [
+      {
+        "heading": "1. Hesabı nasıl yaptık?",
+        "paragraphs": [
+          "Fiyatlar sitemizdeki ürün kayıtlarından alındı ve 8 Ekim 2026'da satıcı ya da üretici sayfasında yeniden kontrol edildi. Her kategoride, koruma belgesini (kaskta ECE 22.06, giyimde EN 17092, eldivende EN 13594) üreticisi açıkça yazan en uygun fiyatlı ürünü ekonomik sete, bilinen ithal markalardan erişilebilir bir modeli de orta sete koyduk. Belgesi doğrulanamayan bir ürünü seçtiysek bunu yanına yazdık.",
+          "Fiyat türleri birbirinden farklı. Tex Motor kendi sitesinde satış yapmıyor; gördüğün rakam liste fiyatı ve bayide farklı olabilir. Scudo'nun fiyatları kredi kartı fiyatı, havale ile indirim uyguluyor. YDS botu indirimli fiyatıyla yazıldı. Yani tablo bir alışveriş listesi değil, bir büyüklük tahmini.",
+          "Ürünlerin ne kadar dayanacağı kullanımla çok değişir. Kask için SHOEI'nin normal kullanım, bakım ve saklama koşullarında önerdiği yaklaşık 5 yılı kullandık (ayrıntı \"Kask Kaç Yılda Değiştirilir?\" rehberinde). Diğer parçalar için üreticilerin yayımladığı bir ömür bilgisi olmadığından aşağıdaki süreler ölçülmüş değerler değil, hesabı göstermek için seçtiğimiz varsayımlardır; kendi deneyiminle değiştir."
+        ],
+        "bullets": [
+          "Kask: 5 yıl (SHOEI önerisi); düşme ya da sert darbe olursa süresi dolmadan hemen yenilenir",
+          "Mont ve pantolon: 2 yıl (varsayım)",
+          "Eldiven: 1 yıl, yazlık ve kışlık olmak üzere iki çift (varsayım)",
+          "Bot: 2 yıl (varsayım)",
+          "Yağmurluk ve reflektif yelek: 1 yıl (varsayım)",
+          "Telefon tutucu: 3 yıl (varsayım)",
+          "Çalışma: haftada 6 gün, yılda yaklaşık 300 gün"
+        ]
+      },
+      {
+        "heading": "2. Ekonomik set: belgeli en uygun seçenekler",
+        "paragraphs": [
+          "Bu sette ürünlerin çoğu yerli üreticilerden. Kaskta liste fiyatı daha düşük Sway SW 917 (4.720 TL) de var ve ECE 22.06 onaylı; ancak üretici sayfasında P/J onayı belirtilmediği için çeneyi açık sürmeyi düşünen kuryeye P/J onaylı MT Genesis SV'yi koyduk. Montta Tex Motor'un Forte GT 2001089 Assos Adventure modeli (7.175 TL, EN 17092-4) de benzer fiyatta bir alternatif; sınıf bilgisini model sayfasında doğrulayamadığımız için A sınıfı açıkça yazılan Scudo Roma'yı seçtik.",
+          "Botta ve yelekte durum daha zayıf: seçilen ucuz modellerde koruma standardı ve sınıfı üretici sayfasında yazmıyor. Bütçen elveriyorsa bu iki kalemde bir üst segmente çıkmak (ör. sertifika kodunu açıkça veren YDS Diablo 7.2 GTX bot ya da floresan sarı Forte GT 2001186 yelek) setin zayıf halkasını kapatır."
+        ],
+        "bullets": [
+          "Kask – MT Helmets Genesis SV: 6.450 TL (ECE 22.06, P/J, iç güneş vizörü) → 5 yılda yıllık 1.290 TL",
+          "Mont – Scudo Roma 4 mevsim: 7.490 TL (EN 17092-4:2020 A, çıkarılabilir içlik) → yıllık 3.745 TL",
+          "Pantolon – Vecton Ad Lite (Tech90): 4.500 TL (EN 17092-3:2020 AA, Cordura denim) → yıllık 2.250 TL",
+          "Eldiven – Forte GT 21 yazlık 1.440 TL + Scudo Parma WP Carbon 1 kışlık 2.190 TL (ikisi de EN 13594:2015) → yıllık 3.630 TL",
+          "Bot – Yaren Tekstil YRN-1492 Yazlık: 3.190 TL (koruma standardı doğrulanmadı) → yıllık 1.595 TL",
+          "Yağmurluk – Yaren Tekstil YRN-2789 Motokurye Takım: 1.710 TL (koruma sertifikası yok, montun üstüne giyilir) → yıllık 1.710 TL",
+          "Reflektif yelek – Tex Motor TEX 1182: 380 TL liste fiyatı (standardı belirtilmiyor) → yıllık 380 TL",
+          "Telefon tutucu – SP Connect Moto Mount Pro: 4.480 TL (SP Connect kılıfı ya da adaptörü ayrıca alınır) → 3 yılda yıllık yaklaşık 1.493 TL",
+          "Toplam ilk alım: 31.830 TL · Yıllık yenileme payı: yaklaşık 16.093 TL · Günlük (300 gün): yaklaşık 54 TL"
+        ]
+      },
+      {
+        "heading": "3. Orta segment set: ithal markalarla",
+        "paragraphs": [
+          "Orta sette kask, mont ve eldivende Türkiye'de yaygın satılan ithal markaları, pantolon, bot ve yağmurlukta ise belgesi güçlü yerli ürünleri seçtik. Burada ilk alım iki buçuk kat artıyor; yıllık maliyetteki en büyük fark montla eldivenden geliyor.",
+          "Ekonomik setle karşılaştırırken şunu unutma: daha pahalı ürünün daha uzun dayanacağı garanti değil. Orta setin yıllık maliyeti, ürünler ekonomik setle aynı sürede yıprandığı varsayımıyla hesaplandı. Pahalı mont dört yıl dayanırsa yıllık payı yarıya iner; hesabı kendi deneyiminle düzelt."
+        ],
+        "bullets": [
+          "Kask – HJC F100: 21.600 TL (ECE 22.06, çenesi arkaya dönen modüler, iç güneş vizörü) → yıllık 4.320 TL",
+          "Mont – Alpinestars ST-1 WP: 22.050 TL (EN 17092-4:2020 A, sabit membran, çıkarılabilir termal astar) → yıllık 11.025 TL",
+          "Pantolon – Riderdenim Karayel: 6.590 TL (EN 17092-3:2020 AA, aramid astar, SAS-TEC korumalar) → yıllık 3.295 TL",
+          "Eldiven – Held Sparrow 2 5.490 TL (EN 13594:2015 Level 1) + Scudo Parma WP Carbon 3 kışlık 2.590 TL (EN 13594:2015) → yıllık 8.080 TL",
+          "Bot – YDS Diablo 7.2 GTX: 7.590 TL indirimli fiyat, liste 10.850 TL (Gore-Tex, Level 1222 WR sertifika kodu) → yıllık 3.795 TL",
+          "Yağmurluk – Scudo Peru takımı: 5.190 TL (EN 343, EN ISO 13688) → yıllık 5.190 TL",
+          "Reflektif yelek – Forte GT 2001186 sarı: 1.760 TL liste fiyatı (siyah sürüm 1.560 TL) → yıllık 1.760 TL",
+          "Telefon tutucu – SP Connect Moto Mount Pro 4.480 TL + Anti Vibration Module 2.180 TL → 3 yılda yıllık 2.220 TL",
+          "Toplam ilk alım: 79.520 TL · Yıllık yenileme payı: yaklaşık 39.685 TL · Günlük (300 gün): yaklaşık 132 TL"
+        ]
+      },
+      {
+        "heading": "4. Hesabı en çok ne değiştirir?",
+        "paragraphs": [
+          "Kask ilk alımda en pahalı kalemlerden biri ama beş yıla yayıldığı için yıllık maliyette öne çıkmıyor. Bunun tek istisnası düşme: darbe alan kaskı yaşına bakmadan yenilemen gerekir ve o yılın hesabı kaskın tam fiyatı kadar artar. Kaskı düşürdüğünde ne yapacağını ayrı bir rehberde anlattık.",
+          "Yıllık maliyeti asıl belirleyen, her gün sürtünen ve ıslanan parçalar: mont, eldiven ve yağmurluk. Eldiveni yılda iki kez yeniliyorsan eldiven payı ikiye katlanır; yağmurluğun dikiş bantları bir sezonda açılıyorsa daha iyi bir takıma geçmek uzun vadede ucuza gelebilir.",
+          "Türkiye'nin sıcak aylarında 4 mevsim montla çalışmak zorlayıcıdır. Ayrı bir yazlık mont eklemek istersen Scudo Milano (9.390 TL, EN 17092-4:2020 A) iki yıllık varsayımla yıllık hesaba yaklaşık 4.695 TL ekler. Daha ucuz yerli yazlık montlar da var (ör. Yaren Tekstil YRN-1390, 3.950 TL), ancak bu modelde EN 17092 sınıfı üretici sayfasında yazmıyor."
+        ],
+        "bullets": [
+          "Ekonomik sette en büyük yıllık kalemler: mont (3.745 TL) ve eldiven (3.630 TL)",
+          "Orta sette en büyük yıllık kalemler: mont (11.025 TL) ve eldiven (8.080 TL)",
+          "Darbe alan kask: o yıl kaskın tam fiyatı kadar ek maliyet"
+        ]
+      },
+      {
+        "heading": "5. Hesaba girmeyenler",
+        "paragraphs": [
+          "Teslimat çantası ya da kutusu bu hesapta yok; sitemizde fiyatı doğrulanmış bir kurye teslimat çantası kaydı bulunmuyor ve çantayı kimin karşılayacağı platforma ve çalışma biçimine göre değişiyor. Telefon tutucuda SP Connect kılıfı, kaskta yedek vizör ya da Pinlock lensi, eldiven ve montun bakım ürünleri de ayrıca bütçelenmeli.",
+          "Bordrolu çalışıyorsan ekipmanın bir kısmının işveren tarafından karşılanması gündeme gelir; esnaf kurye isen bu maliyetin tamamı sana kalır. Haklarını ve son düzenlemeleri \"Moto Kuryelerin Çalışma Koşulları ve Yasal Düzenlemeler\" rehberinde topladık. Şunu da hatırlat: 4 Kasım 2025'te Resmî Gazete'de yayımlanan değişiklikle motosiklet sürücüleri için koruyucu eldiven zorunlu hale geldi; eldiven kalemi pazarlık konusu değil."
+        ],
+        "bullets": [
+          "Teslimat çantası veya kutusu",
+          "Telefon kılıfı ya da universal adaptör",
+          "Yedek vizör, Pinlock lensi, iç ped",
+          "Ayrı satılıyorsa sırt koruması (Scudo Roma'da sırt koruması montla birlikte geliyor)"
+        ]
+      },
+      {
+        "heading": "6. Kendi hesabını yap",
+        "paragraphs": [
+          "Tablodaki varsayımlar senin işine uymayabilir; günde 12 saat çalışan ve sık düşen bir kuryeyle haftada üç gün çalışan biri aynı hesabı yapmaz. En sağlıklı yöntem, aldığın her parçanın tarihini ve fiyatını bir yere not edip kaç ay dayandığını izlemek. Bir yıl sonra kendi yıllık maliyetini kesin olarak bilirsin."
+        ],
+        "bullets": [
+          "Yıllık pay = ürün fiyatı ÷ kaç yıl dayandığı",
+          "Günlük maliyet = tüm parçaların yıllık payı toplamı ÷ yıllık iş günü",
+          "Bir parça varsayımdan önce yıpranıyorsa payı orantılı artır (6 ayda biten eldiven = fiyatın iki katı)",
+          "Öncelik sırası değişmez: kask → eldiven → mont ve korumalar → pantolon → bot → yağmurluk"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kurye için en ucuz belgeli ekipman seti ne kadar tutar?",
+        "a": "8 Ekim 2026 fiyatlarıyla, P/J onaylı bir çene açılır kask, EN 17092 belgeli mont ve pantolon, EN 13594 belgeli iki çift eldiven, bot, yağmurluk, reflektif yelek ve telefon tutucudan oluşan set yaklaşık 31.800 TL. Teslimat çantası ve telefon kılıfı hariç."
+      },
+      {
+        "q": "Yıllık ekipman maliyeti neden ilk alım fiyatından düşük çıkıyor?",
+        "a": "Çünkü kask gibi bazı parçalar birkaç yıl kullanılıyor. Kaskın fiyatını beş yıla, montu iki yıla bölünce her yıl için düşen pay küçülür. Eldiven ve yağmurluk gibi her yıl yenilenen parçalar ise tam fiyatıyla hesaba girer."
+      },
+      {
+        "q": "Pahalı mont uzun vadede daha mı ekonomik?",
+        "a": "Ancak gerçekten daha uzun dayanırsa. 7.490 TL'lik bir mont iki yıl dayanırsa yılda 3.745 TL, 22.050 TL'lik bir mont dört yıl dayanırsa yılda yaklaşık 5.513 TL eder. Pahalı montu seçmenin asıl gerekçesi çoğu zaman maliyet değil, konfor, su geçirmezlik ve koruma sınıfıdır."
+      },
+      {
+        "q": "Kask kaç yılda bir yenilenmeli?",
+        "a": "SHOEI normal kullanım ve doğru saklamada yaklaşık 5 yılı öneriyor. Düşen ya da sert darbe alan kask yaşına bakılmadan hemen değiştirilir. Her gün saatlerce takılan bir kaskın iç pedleri ve vizörü daha erken yıpranabilir."
+      },
+      {
+        "q": "Bu fiyatlar neden mağazada farklı çıkabilir?",
+        "a": "Bazı rakamlar üreticinin liste fiyatı (bayide değişebilir), bazıları kredi kartı fiyatı (havale ile indirim olabilir), bazıları da kampanya fiyatı. Fiyatlar 8 Ekim 2026'da kontrol edildi; almadan önce ürün sayfasındaki güncel teklifleri karşılaştır."
+      }
+    ],
+    "relatedGuides": [
+      "kurye-motosiklet-ekipmanlari",
+      "kask-kac-yilda-degistirilir",
+      "kask-dusurulurse-degistirilir-mi",
+      "kurye-calisma-kosullari-ve-yasal-haklar",
+      "reflektorlu-yelek-ve-gorunurluk-standartlari",
+      "yagmurda-motosiklet-ekipmani",
+      "aa-ve-aaa-koruma-farki",
+      "yerli-motosiklet-ekipmani-ureticileri"
+    ],
+    "relatedCategories": [
+      "kask/cene-acilir-kask",
+      "mont/4-mevsim-mont",
+      "pantolon/kevlar-jean",
+      "eldiven",
+      "bot/sehir-botu",
+      "yagmurluk/yagmur-takimi",
+      "koruma/gorunurluk-yelegi",
+      "aksesuar/telefon-tutucu"
+    ],
+    "sources": [
+      {
+        "url": "https://shoei-europe.com/service/faq",
+        "type": "manufacturer",
+        "label": "SHOEI Europe servis SSS: kask yaklaşık 5 yılda değiştirilmeli",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.resmigazete.gov.tr/eskiler/2025/11/20251104-4.htm",
+        "type": "review",
+        "label": "Resmî Gazete – Karayolları Trafik Yönetmeliği değişikliği, eldiven zorunluluğu (4 Kasım 2025)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.vipmoto.com/mt-genesis-sv-solid-a1-mat-cene-acilir-kask-75166",
+        "type": "retailer",
+        "label": "Vipmoto – MT Genesis SV fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://texmotor.com/urun/sway-sw-917-solid-matt-siyah-flip-up-cene-acilir-kask/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Sway SW 917 liste fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-roma-4-mevsim-erkek-motosiklet-ceketi-siyah-gri-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Roma 4 mevsim mont",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001089-assos-adventure-siyah/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001089 Assos Adventure liste fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-51",
+        "type": "manufacturer",
+        "label": "Vecton (Tech90) – Ad Lite pantolon",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-21-eldiven/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 21 eldiven liste fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-1-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-2xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma WP Carbon 1 eldiven",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.yarentekstil.com/yrn-1492-yazlik-motorcu-bot-yrn-1493-yazlik-motorcu-bot",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1492 yazlık bot",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.yarentekstil.com/yrn-2789-motokurye-yagmurluk-takim-yrn-2789-motokurye-yagmurlugu",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-2789 Motokurye Yağmurluk Takım",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://texmotor.com/urun/tex-1182-cepli-reflektif-yelek/",
+        "type": "manufacturer",
+        "label": "Tex Motor – TEX 1182 reflektif yelek liste fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sp-connect-motomount-pro-8449",
+        "type": "retailer",
+        "label": "Motomax – SP Connect Moto Mount Pro",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.arsmotor.com/urun/hjc-f100-kask-metal-siyah",
+        "type": "retailer",
+        "label": "Ars Motor – HJC F100",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-1-wp-korumali-motosiklet-montu-mavi-/-gri-/-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars ST-1 WP",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://riderdenim.com/karayel-motosiklet-pantolonu",
+        "type": "manufacturer",
+        "label": "Riderdenim – Karayel motosiklet pantolonu",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-sparrow-2-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Sparrow 2",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-parma-wp-carbon-3-waterproof-uzun-parmak-kislik-motosiklet-eldiveni-ce-en-13594-2015-sertifikali-xl",
+        "type": "manufacturer",
+        "label": "Scudo – Parma WP Carbon 3 eldiven",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.ydsshop.com/diablo-7.2-gtx-siyah",
+        "type": "manufacturer",
+        "label": "YDS Shop – Diablo 7.2 GTX",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-peru-siyah-alt-ust-motosiklet-yagmurlugu-5xl",
+        "type": "manufacturer",
+        "label": "Scudo – Peru yağmurluk takımı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001186-reflektif-yelek-sari/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001186 reflektif yelek (sarı) liste fiyatı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sp-connect-c-antivibrayon-titresim-engelleyici",
+        "type": "retailer",
+        "label": "Motomax – SP Connect Anti Vibration Module",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-milano-yazlik-fileli-erkek-motosiklet-ceketi-s-10xl",
+        "type": "manufacturer",
+        "label": "Scudo – Milano yazlık mont",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.yarentekstil.com/yrn-1390-ce-belgeli-korumali-yazlik-motorcu-mont-yrn-1390",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-1390 yazlık mont",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

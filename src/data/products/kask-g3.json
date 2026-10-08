@@ -1205,9 +1205,41 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "priceRange": null,
-    "offers": [],
-    "lastCheckedAt": "2026-10-06",
+    "priceRange": {
+      "min": 15999,
+      "max": 15999,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/ls2-challenger-2-viper-kapali-kask",
+        "price": 15999,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Viper"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/ls2-challenger-2-flaman-kapali-kask",
+        "price": 15999,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Flaman"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
     "slug": "challenger-ii",
     "brand": "ls2",
     "name": "FF817 Challenger II",
@@ -1340,8 +1372,7 @@
       "specs.headShape",
       "specs.spoiler",
       "specs.warrantyYears",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "specs": {
       "helmetType": "kapali",
@@ -1379,6 +1410,18 @@
         "type": "manufacturer",
         "label": "LS2 FF817 Challenger II ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://vipmoto.com/ls2-challenger-2-viper-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – LS2 Challenger 2 Viper",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://vipmoto.com/ls2-challenger-2-flaman-kapali-kask",
+        "type": "retailer",
+        "label": "Vipmoto – LS2 Challenger 2 Flaman",
+        "checkedAt": "2026-10-08"
       }
     ]
   },

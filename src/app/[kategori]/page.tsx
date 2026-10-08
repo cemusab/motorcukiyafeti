@@ -6,8 +6,9 @@ import { ProductListing } from "@/components/ProductListing";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice, PageHead } from "@/components/ui";
 import { CATEGORIES, getCategory } from "@/data/categories";
-import { displayName, getBrands, getGuides, productPath, productsIn } from "@/lib/data";
-import { clip, itemListLd, meta } from "@/lib/seo";
+import { CATEGORY_SEO, categorySeoName } from "@/data/category-seo";
+import { categoryFaq, displayName, getBrands, getGuide, getGuides, productPath, productsIn } from "@/lib/data";
+import { clip, faqLd, itemListLd, meta } from "@/lib/seo";
 
 export const dynamicParams = false;
 export const generateStaticParams = () => CATEGORIES.map((c) => ({ kategori: c.slug }));
@@ -16,9 +17,12 @@ export async function generateMetadata({ params }: PageProps<"/[kategori]">) {
   const { kategori } = await params;
   const c = getCategory(kategori)!;
   const n = productsIn(kategori).length;
+  const name = categorySeoName(c.slug, c.name);
+  // Başlık şablonu " | Motorcu Kıyafeti" ekler; toplam ~65 karakteri geçmemesi için uzun adlarda kısa kalıp.
+  const title = `${name} Modelleri ve Seçim Rehberi`.length <= 47 ? `${name} Modelleri ve Seçim Rehberi` : `${name} Modelleri`;
   return meta({
-    title: `Motosiklet ${c.name} Rehberi, Modeller ve Karşılaştırma`,
-    description: n ? `${clip(c.intro, 120)} ${n} model kaynaklı teknik veriyle.` : clip(c.intro),
+    title,
+    description: CATEGORY_SEO[c.slug]?.description ?? clip(c.intro),
     path: `/${kategori}`,
     noindex: n === 0,
   });
@@ -31,13 +35,16 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
   const items = productsIn(c.slug);
   const brands = getBrands().filter((b) => b.categories.includes(c.slug));
   const guides = getGuides().filter((g) => g.relatedCategories.some((r) => r.split("/")[0] === c.slug)).map((g) => g.slug);
+  const seoName = categorySeoName(c.slug, c.name);
+  const faq = categoryFaq(c.slug);
+  const pillar = getGuide("motosiklet-kiyafeti-nasil-secilir");
 
   return (
     <>
-      <PageHead title={c.name} intro={c.intro}>
+      <PageHead title={seoName} intro={c.intro}>
         <Breadcrumbs items={[{ name: c.name, href: `/${c.slug}` }]} />
       </PageHead>
-      <JsonLd data={items.length ? itemListLd(`Motosiklet ${c.name}`, items.map((p) => ({ name: displayName(p), href: productPath(p) }))) : null} />
+      <JsonLd data={[items.length ? itemListLd(seoName, items.map((p) => ({ name: displayName(p), href: productPath(p) }))) : null, faq.length ? faqLd(faq) : null]} />
       <Container className="mt-6">
         <nav aria-label={`${c.name} alt kategorileri`} className="flex gap-2 overflow-x-auto pb-2">
           {c.groups.flatMap((g) => g.items).map((s) => (
@@ -86,6 +93,28 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
           )}
         </div>
       </Container>
+      {faq.length > 0 && (
+        <Container className="mt-12">
+          <section id="sss" className="max-w-3xl">
+            <h2 className="mb-4 font-display text-3xl font-bold">{seoName} hakkında sık sorulanlar</h2>
+            <div className="space-y-2">
+              {faq.map((f) => (
+                <details key={f.q} className="rounded-lg border border-line bg-white open:border-ink">
+                  <summary className="cursor-pointer p-4 font-semibold">{f.q}</summary>
+                  <p className="px-4 pb-4 text-ink-2">{f.a}</p>
+                </details>
+              ))}
+            </div>
+            {pillar && (
+              <p className="mt-4 text-sm">
+                <Link href={`/rehber/${pillar.slug}`} className="font-semibold text-red hover:underline">
+                  {pillar.title} →
+                </Link>
+              </p>
+            )}
+          </section>
+        </Container>
+      )}
     </>
   );
 }

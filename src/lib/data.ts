@@ -175,3 +175,14 @@ export function formatShortDate(iso: string) {
 export function formatDate(iso: string) {
   return new Date(iso + "T12:00:00Z").toLocaleDateString("tr-TR", { day: "numeric", month: "long", year: "numeric" });
 }
+
+const CategoryFaqSchema = z.record(z.string(), z.array(z.object({ q: z.string().min(5), a: z.string().min(20) })));
+
+/** Kategori sayfalarındaki sık sorulan sorular (src/data/category-faq.json). */
+export const getCategoryFaq = memo(() => {
+  const file = path.join(DATA, "category-faq.json");
+  if (!fs.existsSync(file)) return {} as Record<string, { q: string; a: string }[]>;
+  const p = CategoryFaqSchema.safeParse(JSON.parse(fs.readFileSync(file, "utf8")));
+  return p.success ? p.data : {};
+});
+export const categoryFaq = (slug: string) => getCategoryFaq()[slug] ?? [];

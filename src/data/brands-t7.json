@@ -1,0 +1,104 @@
+[
+ {
+  "slug": "axor",
+  "name": "Axor",
+  "country": "Hindistan",
+  "founded": 2015,
+  "website": "https://axorhelmets.com.tr/",
+  "about": [
+   "Axor, 2015'te kurulan Hindistan kökenli bir kask markası. Global sitesine göre kasklar İtalya'da tasarlanıyor ve Hindistan'ın kask üreticisi Vega tarafından üretilip pazarlanıyor; ürün sayfalarında üretici olarak Vega Auto Accessories Ltd. (Belgaum, Karnataka) ve menşe ülke olarak Hindistan yazıyor. Axor Türkiye'nin \"Hakkımızda\" sayfası, İspanyol SHIRO markasının satın alınmasıyla İspanya'da bir üretim tesisi daha edinildiğini de belirtiyor.",
+   "Türkiye'de marka axorhelmets.com.tr üzerinden resmi mağaza olarak satılıyor; sitenin KVKK metnine göre veri sorumlusu ve işletmeci Artı Grup Motorlu Araçlar Sanayi ve Ticaret Ltd. Şti. (Beyoğlu, İstanbul). Yani Axor yerli bir marka değil; Türkiye'de üretim ya da montaj yapıldığına dair resmi bir bilgi yok. Ürün yelpazesi ECE 22.06 onaylı, ABS kabuklu uygun fiyatlı kapalı, açık ve adventure kasklardan oluşuyor."
+  ],
+  "strengths": [
+   "Türkiye'de 4.500 TL altından başlayan ECE 22.06 onaylı kapalı kasklar",
+   "Fiyatına göre zengin donanım (Brutale ve X-Cross'ta güneş vizörü ve kutudan çıkan Pinlock 70)",
+   "Tüm modellerde XS (53–54 cm) beden seçeneği"
+  ],
+  "categories": [
+   "kask"
+  ],
+  "families": [
+   {
+    "name": "Hunter",
+    "note": "Giriş seviyesi, reflektör bantlı ABS kapalı kask.",
+    "url": "https://axorhelmets.com.tr/collections/axor-hunter"
+   },
+   {
+    "name": "Saber",
+    "note": "Mikrometrik tokalı, spoilerli ABS kapalı kask.",
+    "url": "https://axorhelmets.com.tr/collections/axor-saber"
+   },
+   {
+    "name": "Brutale",
+    "note": "Çift spoilerli, güneş vizörlü ve Pinlock'lu kapalı kask.",
+    "url": "https://axorhelmets.com.tr/collections/axor-brutale"
+   },
+   {
+    "name": "X-Cross",
+    "note": "Siperlikli, çift vizörlü dual-sport/adventure kask.",
+    "url": "https://axorhelmets.com.tr/collections/axor-x-cross"
+   },
+   {
+    "name": "Apex",
+    "note": "Forged karbon kabuklu kapalı kask (Türkiye'de Apex Carbon).",
+    "url": "https://axorhelmets.com.tr/collections/axor-apex"
+   },
+   {
+    "name": "Kylo ve Kioto",
+    "note": "Şehir içi ve scooter için açık (jet) kasklar.",
+    "url": "https://axorhelmets.com.tr/collections/acik-kask"
+   }
+  ],
+  "highlights": [
+   {
+    "label": "Axor Brutale",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-kapali-kask",
+    "reason": "10.000 TL altında ECE 22.06, iç güneş vizörü, double-D toka ve kutudan çıkan Pinlock 70."
+   },
+   {
+    "label": "Axor Hunter",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-kapali-kask",
+    "reason": "Markanın en uygun fiyatlı ECE 22.06 kapalı kaskı; reflektör bantlı, kurye için bütçe seçeneği."
+   }
+  ],
+  "alternatives": [
+   "ls2",
+   "mt-helmets",
+   "kyt",
+   "hjc"
+  ],
+  "history": [
+   {
+    "year": 2015,
+    "event": "Axor markası kuruldu (Axor global ve Türkiye sitelerine göre)."
+   }
+  ],
+  "strongestLine": "Uygun fiyatlı, ECE 22.06 onaylı termoplastik kapalı kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com/pages/about-us",
+    "type": "manufacturer",
+    "label": "Axor Helmets – About Us (global)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com.tr/pages/hakkimizda",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Hakkımızda",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com.tr/pages/kvkk-aydinlatma-metni",
+    "type": "distributor",
+    "label": "Axor Helmets Türkiye – KVKK aydınlatma metni (işletmeci şirket bilgisi)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/axor-kylo-solid-helmet",
+    "type": "manufacturer",
+    "label": "Axor global ürün sayfası – üretici ve menşe bilgisi (Vega Auto Accessories Ltd., Hindistan)",
+    "checkedAt": "2026-10-08"
+   }
+  ]
+ }
+]

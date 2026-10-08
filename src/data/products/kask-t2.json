@@ -1,0 +1,2404 @@
+[
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "scope-ii",
+  "brand": "ls2",
+  "name": "FF902 Scope II",
+  "subcategories": [
+   "cene-acilir-kask",
+   "termoplastik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "LS2'nin termoplastik kabuklu, P/J onaylı, güneş vizörlü giriş seviyesi çene açılır kaskı. Pinlock lensi kutudan çıkıyor; şehir içi ve kurye kullanımında fiyat/donanım dengesi güçlü.",
+  "description": [
+   "Scope II, LS2'nin FF902 kodlu çene açılır kaskı. Kabuk HPTT adlı termoplastikten üretiliyor ve üç dış kabuk boyutuyla (XS-S, M-L, XL-3XL) sunuluyor. Üretici ağırlığı 1.750 g (±50 g) olarak veriyor, bedeni belirtmiyor. ECE 22.06 ve P/J (çene açık ve kapalı) onaylı; çene bölümü 90 derece kalkıyor ve LS2 yeni bir kilit mekanizması kullandığını söylüyor.",
+   "Donanımda kutudan çıkan Pinlock 70 MaxVision lens, hızlı sökülen ve çizilmeye dayanıklı vizör, çene ve ön havalandırma girişleri, arka çıkış ve kanallı EPS var. İç güneş vizörü yedek parça listesinde yer alıyor. Coolmax iç astar çıkarılıp yıkanabiliyor, toka mikrometrik ve kask LS2 interkom ünitesine hazır. Bu fiyat sınıfında Pinlock lensin kutuda olması önemli bir artı."
+  ],
+  "forWho": [
+   "Şehir içinde sık durup kalkan ve çene açılır kask isteyen sürücüler",
+   "Bütçesi sınırlı kuryeler ve günlük işe gidip gelenler",
+   "Gözlük kullanan ve kaskı kolay takıp çıkarmak isteyenler"
+  ],
+  "notFor": [
+   "Hafiflik ve sessizlik önceliği olan uzun otoban turcuları",
+   "Pist veya sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "P/J onayı: çene açıkken de onaylı kullanım",
+   "Pinlock 70 MaxVision lens kutudan çıkıyor",
+   "Üç kabuk boyutu ve geniş beden aralığı (XS–3XL)",
+   "Türkiye'de birden fazla mağazada stoklu ve fiyatı açık"
+  ],
+  "cons": [
+   "1.750 g ile kapalı kasklara göre ağır; uzun yolda boyun yorabilir",
+   "Termoplastik kabuk fiber rakiplerine göre hacimli",
+   "Üretici ağırlığın hangi bedene ait olduğunu belirtmiyor"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı. Çene açılabildiği için durak, benzinlik ve teslimatta pratik.",
+   "uzunYol": "Orta mesafede yeterli; ağırlığı nedeniyle çok uzun etaplarda üst segment modüler kasklar kadar konforlu olmaz.",
+   "otoban": "ECE 22.06 güvencesi var; yüksek hızda rüzgâr gürültüsü fiyat sınıfının sınırlarında kalır.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi kullanımı için uygun değil.",
+   "gozluk": "Çene açılabilmesi gözlükle takıp çıkarmayı kolaylaştırır; yine de gözlük sapının yanaklara uyumunu denemek gerekir.",
+   "interkom": "LS2 interkom ünitesine hazır; evrensel interkomlar kelepçe ya da yapıştırma ile takılabilir.",
+   "kurye": "Çene açılır yapı, kutudan çıkan Pinlock, güneş vizörü ve yıkanabilir astar ile bütçeli kurye kullanımına uygun."
+  },
+  "verdict": "Scope II, uygun fiyatlı bir çene açılır kask arayan için en mantıklı giriş seçeneklerinden biri: P/J onayı, güneş vizörü ve kutudan çıkan Pinlock lens bir arada. Şehir ve kurye kullanımında çok pratik. Ağırlığı uzun yolda hissedilir; sık uzun tur yapan biri daha hafif bir modüler kask düşünmeli.",
+  "rivals": [
+   "ls2/strobe-ii",
+   "nolan/n90-3",
+   "hjc/i91"
+  ],
+  "priceRange": {
+   "min": 8499,
+   "max": 9349,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-mat-siyah-_59304.html",
+    "price": 8499,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-beyaz-_59302.html",
+    "price": 8499,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Beyaz"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-nardo-gri-_59303.html",
+    "price": 8499,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Nardo Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/ls2-scope-2-duria-ceneden-acilir-kask-mat-siyah-kirmizi-_59308.html",
+    "price": 9349,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Duria Mat Siyah-Kırmızı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/ls2-scope-2-mat-siyah-kask-7",
+    "price": 8499,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Scope II'de Pinlock var mı?",
+    "a": "Evet. LS2, Pinlock 70 MaxVision lensin kutudan çıktığını belirtiyor."
+   },
+   {
+    "q": "Çene açıkken sürülebilir mi?",
+    "a": "Kask P/J onaylı; yani çene açık (jet) ve kapalı konumda onaylı. Yine de yüksek hızda çeneyi kapalı kullanmak daha güvenli ve sessizdir."
+   },
+   {
+    "q": "Scope II ile Strobe II arasındaki fark ne?",
+    "a": "İkisi de LS2'nin termoplastik çene açılır kaskları. Scope II daha yeni kasa ve kutudan çıkan Pinlock ile geliyor; seçimi fiyat ve kafa kalıbına göre yapmak gerekir."
+   }
+  ],
+  "manufacturerUrl": "https://ls2helmets.com/helmets/modular/scope-ii",
+  "sources": [
+   {
+    "url": "https://ls2helmets.com/helmets/modular/scope-ii",
+    "type": "manufacturer",
+    "label": "LS2 FF902 Scope II ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://ls2helmets.com/sizes/541",
+    "type": "manufacturer",
+    "label": "LS2 beden tablosu (Scope II)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-mat-siyah-_59304.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – LS2 Scope II (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-beyaz-_59302.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – LS2 Scope II (Beyaz)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/ls2-scope-2-ceneden-acilir-kask-nardo-gri-_59303.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – LS2 Scope II (Nardo Gri)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/ls2-scope-2-duria-ceneden-acilir-kask-mat-siyah-kirmizi-_59308.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – LS2 Scope II (Duria Mat Siyah-Kırmızı)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/ls2-scope-2-mat-siyah-kask-7",
+    "type": "retailer",
+    "label": "Ars Motor – LS2 Scope II (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "high",
+  "unverified": [
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Black Matt",
+   "White Gloss",
+   "Nardo Grey Gloss",
+   "Titanium Matt",
+   "Oxyd",
+   "Duria"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "2XL",
+    "min": 63,
+    "max": 64
+   },
+   {
+    "size": "3XL",
+    "min": 65,
+    "max": 66
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "cene-acilir",
+   "shellMaterial": "HPTT (yüksek basınçlı termoplastik)",
+   "materialClass": "termoplastik",
+   "shellSizes": 3,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1750,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye ve UV'ye dayanıklı, hızlı sökülür, Pinlock 70 MaxVision lens kutudan çıkıyor",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": true,
+   "ventilation": "Çene ve ön girişler, arka çıkış, kanallı EPS",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "LS2 interkom ünitesine hazır.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "advant-ii",
+  "brand": "ls2",
+  "name": "FF910 Advant II",
+  "subcategories": [
+   "cene-acilir-kask",
+   "termoplastik-kask",
+   "touring-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "LS2'nin çenesi arkaya dönerek açık kask konumuna geçebilen, P/J onaylı touring kaskı. KPA kabuk, karbon havalandırma parçaları, güneş vizörü ve kutudan çıkan Pinlock 120 lensle geliyor.",
+  "description": [
+   "Advant II, LS2'nin FF910 kodlu dönüştürülebilir (convertible) kaskı: çene bölümü kabuğun arkasına dönerek kask açık kask gibi kullanılabiliyor. Kabuk KPA adlı termoplastik alaşımdan, havalandırma parçaları 6K karbondan. Üç dış kabuk boyutu (2XS-S, M-L, XL-3XL) var; üretici ağırlığı 1.800 g (±50 g) veriyor, bedeni belirtmiyor. ECE 22.06 ve P/J onaylı.",
+   "Vizörde yeni bir kilit sistemi kullanılıyor ve Pinlock 120XLT MaxVision lens kutudan çıkıyor. İç güneş vizörü yedek parça listesinde yer alıyor. Coolmax astar çıkarılıp yıkanabiliyor, toka metal mikrometrik ve kask LS2 interkom ünitesine hazır. Ağırlığı Scope II'den biraz fazla ama dönüştürülebilir çene yapısı ve tur odaklı donanımı ile bir üst sınıfta konumlanıyor."
+  ],
+  "forWho": [
+   "Hem şehirde açık kask rahatlığı hem uzun yolda kapalı kask koruması isteyenler",
+   "Yazın sıcakta çeneyi arkaya alıp sürmek isteyen tur sürücüleri",
+   "Gözlük kullanan ve kaskı sık takıp çıkaran sürücüler"
+  ],
+  "notFor": [
+   "Hafif kask arayanlar; 1.800 g bu sınıfta ağır sayılır",
+   "Pist veya sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "Çene arkaya dönerek açık kask konumuna geçebiliyor, P/J onaylı",
+   "Pinlock 120XLT MaxVision lens kutudan çıkıyor",
+   "Üç kabuk boyutu, 2XS'ten başlayan beden aralığı",
+   "Metal mikrometrik toka ve karbon havalandırma parçaları"
+  ],
+  "cons": [
+   "1.800 g ile ağır; uzun yolda boyunda hissedilir",
+   "Dönüştürülebilir mekanizma klasik çene açılır kasklara göre daha hacimli",
+   "Türkiye'de fiyat bilgisini yalnız bir mağazada doğrulayabildik"
+  ],
+  "usage": {
+   "sehir": "Çene açılabildiği ve arkaya alınabildiği için şehirde çok pratik.",
+   "uzunYol": "Tur odaklı donanımı var; ağırlığı uzun etaplarda hissedilir.",
+   "otoban": "Çene kapalıyken ECE 22.06 onaylı kapalı kask gibi kullanılır; çene açık otoban sürüşü önerilmez.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok; hafif toprak yol dışında uygun değil.",
+   "gozluk": "Çene yapısı gözlükle takıp çıkarmayı kolaylaştırır; yanak pedlerinin gözlük sapına uyumu denenmeli.",
+   "interkom": "LS2 interkom ünitesine hazır; evrensel interkomlar da takılabilir.",
+   "kurye": "Kuryelik için kullanılabilir ama fiyatı ve ağırlığı nedeniyle Scope II gibi daha basit modeller daha mantıklı."
+  },
+  "verdict": "Advant II, çeneyi tamamen arkaya alıp açık kask gibi kullanma esnekliği isteyen tur sürücüsüne uygun bir seçenek. Kutudan çıkan Pinlock, güneş vizörü ve P/J onayı güçlü. Ağırlığı ve fiyatı nedeniyle sadece şehir içi ya da kurye kullanımı için gereğinden fazla olabilir.",
+  "rivals": [
+   "ls2/advant-x",
+   "nolan/n120-1",
+   "scorpion/exo-930-evo"
+  ],
+  "priceRange": {
+   "min": 16999,
+   "max": 16999,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/ls2-advant-2-mat-siyah-kask-6",
+    "price": 16999,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Advant II ile Advant X arasındaki fark ne?",
+    "a": "İkisi de LS2'nin çenesi arkaya dönen kaskları. Advant II daha yeni nesil; KPA kabuk, karbon havalandırma parçaları ve Pinlock 120XLT ile geliyor. Ağırlık ve fiyat farkını mağazada karşılaştırmak gerekir."
+   },
+   {
+    "q": "Çene arkadayken sürmek güvenli mi?",
+    "a": "Kask P/J onaylı, yani çene açık konumda da test edilmiş. Ancak çene açıkken yüz koruması yoktur; yüksek hızda kapalı kullanmak gerekir."
+   }
+  ],
+  "manufacturerUrl": "https://ls2helmets.com/helmets/modular/advant-ii",
+  "sources": [
+   {
+    "url": "https://ls2helmets.com/helmets/modular/advant-ii",
+    "type": "manufacturer",
+    "label": "LS2 FF910 Advant II ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://ls2helmets.com/sizes/599",
+    "type": "manufacturer",
+    "label": "LS2 beden tablosu (Advant II)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/ls2-advant-2-mat-siyah-kask-6",
+    "type": "retailer",
+    "label": "Ars Motor – LS2 Advant II (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "high",
+  "unverified": [
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Black Matt",
+   "Black Gloss",
+   "White Gloss",
+   "Nardo Grey Gloss",
+   "Concrete Matt",
+   "Navy Blue Matt",
+   "Jeans",
+   "Sophia",
+   "Triple",
+   "Glide"
+  ],
+  "sizes": [
+   "2XS",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "2XS",
+    "min": 51,
+    "max": 52
+   },
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "2XL",
+    "min": 63,
+    "max": 64
+   },
+   {
+    "size": "3XL",
+    "min": 65,
+    "max": 66
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "cene-acilir",
+   "shellMaterial": "KPA (Kinetic Polymer Alloy, termoplastik), 6K karbon parçalar",
+   "materialClass": "termoplastik",
+   "shellSizes": 3,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1800,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye ve UV'ye dayanıklı, yeni vizör kilit sistemi, Pinlock 120XLT MaxVision lens kutudan çıkıyor",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": true,
+   "ventilation": "Karbon çene ve tepe girişleri, karbon arka çıkış, kanallı EPS",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "LS2 interkom ünitesine hazır.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "n90-3",
+  "brand": "nolan",
+  "name": "N90-3 06",
+  "subcategories": [
+   "cene-acilir-kask",
+   "termoplastik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Nolan'ın İtalya'da üretilen, Lexan polikarbonat kabuklu, P/J onaylı giriş seviyesi çene açılır kaskı. Güneş vizörü, Dual Action çene açma sistemi ve N-Com yuvası var; 1.630 g.",
+  "description": [
+   "N90-3 06, Nolan'ın modüler kasklara ilk adım olarak konumlandırdığı çene açılır kask. Kabuk Lexan polikarbonattan ve Nolan'ın İtalya'daki tesisinde üretiliyor. Üretici ağırlığı 1.630 g olarak veriyor, bedeni belirtmiyor. UNECE R22-06 ve P/J onaylı; çift kollu Dual Action sistemi çenenin tek elle açılmasını sağlarken sürüşte istemeden açılmayı engelleyen bir kilit içeriyor.",
+   "Donanımda geniş görüşlü uzun vizör, buğu önleyici işlemli VPS güneş vizörü, Pinlock uyumu, AirBooster tepe havalandırması ve Microlock2 mikrometrik toka var. 'Clima Comfort' iç pedler çıkarılabiliyor. N-Com iletişim sistemleri için özel yuva bulunuyor. Nolan sitede 5 yıl garanti belirtiyor. Türkiye fiyatı LS2 ve HJC'nin giriş modüler kasklarının belirgin şekilde üstünde."
+  ],
+  "forWho": [
+   "İlk çene açılır kaskını alan ve İtalyan üretimi bir model isteyenler",
+   "Şehir içi ve hafta sonu turu yapan, N-Com interkom düşünenler",
+   "Gözlük kullanan sürücüler"
+  ],
+  "notFor": [
+   "Bütçesi sınırlı kuryeler; aynı donanım Türkiye'de daha uygun fiyata bulunabiliyor",
+   "Pist veya sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "P/J onayı ve tek elle açılan Dual Action çene sistemi",
+   "İtalya'da üretim, 5 yıl garanti",
+   "Güneş vizörü ve Pinlock uyumu",
+   "N-Com için özel yuva"
+  ],
+  "cons": [
+   "Türkiye fiyatı giriş seviyesi rakiplerinin çok üstünde",
+   "Kabuk boyutu sayısı ve resmi beden tablosu ürün sayfasında net değil",
+   "Pinlock lensin kutudan çıkıp çıkmadığı belirtilmiyor"
+  ],
+  "usage": {
+   "sehir": "Çene açılabildiği için şehir içinde pratik; uzun vizör trafikte geniş görüş sağlıyor.",
+   "uzunYol": "Hafta sonu turları için yeterli; tur odaklı üst segment modüler kasklar kadar sessiz olmayabilir.",
+   "otoban": "Çene kapalıyken ECE 22.06 onaylı; yüksek hızda gürültü bilgisi üreticide yok.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "Üretici gözlüğe uyumlu olduğunu belirtiyor.",
+   "interkom": "N-Com yuvası var; diğer markaların interkomları da kelepçe ile takılabilir.",
+   "kurye": "Kuryelik için kullanılabilir ama Türkiye fiyatı bu kullanım için yüksek; daha uygun fiyatlı modüler kasklar mantıklı."
+  },
+  "verdict": "N90-3, İtalyan üretimi, P/J onaylı ve güneş vizörlü bir çene açılır kask isteyen için güvenilir bir seçenek. Dual Action çene sistemi ve 5 yıl garanti artı. Türkiye'deki fiyatı ise benzer donanımlı LS2 ve HJC modellerinin çok üstünde; fiyat farkını karşılaştırmadan karar verilmemeli.",
+  "rivals": [
+   "ls2/scope-ii",
+   "hjc/i91",
+   "scorpion/exo-930-evo"
+  ],
+  "priceRange": {
+   "min": 22620.68,
+   "max": 24275.86,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08",
+   "note": "Feyizoğlu'nda grafikli renkler; düz renk fiyatı doğrulanamadı."
+  },
+  "offers": [
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/nolan-n90-3-sincrono-ceneden-acilir-kask-350-_59667.html",
+    "price": 22620.68,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Sincrono 350"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Feyizoğlu",
+    "url": "https://www.feyizoglu.com/nolan-n90-3-verniciatura-speciale-ceneden-acilir-kask-343-_59666.html",
+    "price": 24275.86,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Verniciatura Speciale 343"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "N90-3 nerede üretiliyor?",
+    "a": "Nolan, N90-3'ün kabuğunun İtalya'daki tesisinde Lexan polikarbonattan üretildiğini belirtiyor."
+   },
+   {
+    "q": "N90-3'e hangi interkom takılır?",
+    "a": "Kaskta N-Com sistemleri için özel yuva var. Başka markaların evrensel interkomları da kelepçe ile takılabilir."
+   }
+  ],
+  "manufacturerUrl": "https://nolan-helmets.com/en/products/n90-3-06-classic-black-flat",
+  "sources": [
+   {
+    "url": "https://nolan-helmets.com/en/products/n90-3-06-classic-black-flat",
+    "type": "manufacturer",
+    "label": "Nolan N90-3 06 Classico ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/nolan-n90-3-sincrono-ceneden-acilir-kask-350-_59667.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – Nolan N90-3 (Sincrono 350)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.feyizoglu.com/nolan-n90-3-verniciatura-speciale-ceneden-acilir-kask-343-_59666.html",
+    "type": "retailer",
+    "label": "Feyizoğlu – Nolan N90-3 (Verniciatura Speciale 343)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlockIncluded",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "sizeChart"
+  ],
+  "colors": [
+   "Classico Nero Flat",
+   "Verniciatura Speciale",
+   "Blocco",
+   "Roboto",
+   "Sincrono"
+  ],
+  "sizes": [
+   "XXS",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "sizeChart": [],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "cene-acilir",
+   "shellMaterial": "Lexan polikarbonat",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1630,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Uzun vizör, iki yüzü çizilmeye karşı işlemli, Pinlock uyumlu",
+   "pinlock": true,
+   "pinlockIncluded": null,
+   "sunVisor": true,
+   "ventilation": "AirBooster tepe havalandırması",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "N-Com iletişim sistemleri için özel yuva (N-Com ready).",
+   "spoiler": null,
+   "warrantyYears": 5,
+   "madeIn": "İtalya"
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "exo-491",
+  "brand": "scorpion",
+  "name": "EXO-491",
+  "subcategories": [
+   "kapali-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Scorpion'un güneş vizörlü, ECE 22.06 onaylı uygun fiyatlı kapalı kaskı. XXS'ten başlayan beden aralığı, gözlük kanallı yanak pedleri ve yıkanabilir astarıyla şehir içi ve kurye kullanımına uygun.",
+  "description": [
+   "EXO-491, Scorpion'un popüler EXO-490'ın yerine getirdiği giriş seviyesi kapalı kask. Çok katmanlı EPS, ram-air havalandırma ve iki kademeli çene girişi kullanıyor. ECE R22.06 onaylı. Scorpion kabuk malzemesini ve ağırlığı ürün sayfasında vermiyor; bu yüzden bu alanları boş bırakıyoruz.",
+   "Donanımda SpeedView iç güneş vizörü (buğu önleyici kaplamalı), Pinlock MaxVision'a hazır 3D vizör, düşük hızda hafif aralık bırakan 'City Position' ayarı ve vizör kilidi var. Pinlock lens opsiyonel, kutudan çıkmıyor; nefes deflektörü dahil. KwikWick C astar çıkarılıp yıkanabiliyor, yanak pedlerinde gözlük kanalları bulunuyor. Beden aralığı XXS–3XL; küçük kafalı ve kadın sürücüler için bu önemli bir artı."
+  ],
+  "forWho": [
+   "Uygun fiyatlı, güneş vizörlü ve onaylı bir kapalı kask arayanlar",
+   "Küçük beden (XXS/XS) arayan kadın ve genç sürücüler",
+   "Şehir içinde her gün kullanan kuryeler"
+  ],
+  "notFor": [
+   "Hafiflik ve sessizlik önceliği olan uzun otoban turcuları",
+   "Pist veya sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "Güneş vizörü, vizör kilidi ve City Position bu fiyatta standart",
+   "XXS'ten 3XL'e geniş beden aralığı",
+   "Gözlük kanallı pedler, yıkanabilir astar, nefes deflektörü dahil",
+   "Türkiye'de distribütör mağazasında fiyatı açık"
+  ],
+  "cons": [
+   "Pinlock lens kutudan çıkmıyor",
+   "Üretici kabuk malzemesi ve ağırlığı açıklamıyor",
+   "Scorpion'un beden tablosu bu model için XS–2XL veriyor; XXS ve 3XL için mağazada denemek gerekir"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı. City Position ve güneş vizörü trafikte pratik.",
+   "uzunYol": "Kısa ve orta mesafede yeterli; çok uzun etaplarda üst segment kasklar kadar sessiz olmayabilir.",
+   "otoban": "ECE 22.06 güvencesi var; aerodinamik ve gürültü fiyat sınıfının sınırlarında.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "Yanak pedlerinde gözlük kanalları var; gözlükle kullanıma uygun.",
+   "interkom": "EPS içinde hoparlör cepleri var; evrensel interkomlar kelepçe veya yapıştırma ile takılır.",
+   "kurye": "Fiyatı, güneş vizörü ve yıkanabilir astarı ile kurye kullanımına uygun; Pinlock lensini ayrıca almak kış için mantıklı."
+  },
+  "verdict": "EXO-491, bütçeli bir kapalı kaskta beklenenin üstünde donanım sunuyor: güneş vizörü, vizör kilidi, gözlük kanalları ve geniş beden aralığı. Şehir, kısa yol ve kurye kullanımında güçlü bir seçenek. Ağırlık ve kabuk malzemesi açıklanmadığı için mağazada elde tartmak faydalı; Pinlock ayrıca alınmalı.",
+  "rivals": [
+   "hjc/c10",
+   "ls2/stream-ii",
+   "mt-helmets/braker-sv"
+  ],
+  "priceRange": {
+   "min": 7390,
+   "max": 8490,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-kapali-motosiklet-kaski-mat-siyah",
+    "price": 7390,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "XXL"
+    ],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-kapali-motosiklet-kaski-siyah",
+    "price": 7390,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-spin-kapali-motosiklet-kaski-siyah-/-beyaz",
+    "price": 8490,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Spin Siyah / Beyaz"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "EXO-491'de güneş vizörü var mı?",
+    "a": "Evet. SpeedView iç güneş vizörü buğu önleyici kaplamalı olarak standart geliyor."
+   },
+   {
+    "q": "Pinlock kutudan çıkıyor mu?",
+    "a": "Hayır. Vizör Pinlock MaxVision'a hazır ama lens opsiyonel; ayrıca alınması gerekiyor."
+   },
+   {
+    "q": "Küçük beden var mı?",
+    "a": "Scorpion, EXO-491'i XXS–3XL aralığında sunuyor. Küçük kafalı sürücülerin XXS ve XS bedenleri mağazada denemesi önerilir."
+   }
+  ],
+  "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-491-solid/",
+  "sources": [
+   {
+    "url": "https://scorpionexo.com/eu/product/exo-491-solid/",
+    "type": "manufacturer",
+    "label": "Scorpion EXO-491 Solid ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://scorpionexo.com/eu/size-guide/",
+    "type": "manufacturer",
+    "label": "Scorpion beden rehberi (Tip A)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-kapali-motosiklet-kaski-mat-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-491 (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-kapali-motosiklet-kaski-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-491 (Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-491-spin-kapali-motosiklet-kaski-siyah-/-beyaz",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-491 (Spin Siyah / Beyaz)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellMaterial",
+   "specs.materialClass",
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.chinCurtain",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn",
+   "sizeChart.XXS",
+   "sizeChart.3XL"
+  ],
+  "colors": [
+   "Black",
+   "Matt Anthracite",
+   "Matt Black",
+   "White"
+  ],
+  "sizes": [
+   "XXS",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "2XL",
+    "min": 63,
+    "max": 64
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": null,
+   "materialClass": null,
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Pinlock MaxVision'a hazır 3D vizör, sert kaplamalı (çizilmeye dayanıklı), 'City Position' aralık ayarı, vizör kilidi",
+   "pinlock": true,
+   "pinlockIncluded": false,
+   "sunVisor": true,
+   "ventilation": "Ram-air havalandırma, iki kademeli çene girişi",
+   "chinCurtain": null,
+   "breathGuard": true,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "diger",
+   "intercomReady": true,
+   "intercomNotes": "EPS içinde Bluetooth interkom hoparlör cepleri var; markaya özel ünite yuvası belirtilmiyor.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "exo-930-evo",
+  "brand": "scorpion",
+  "name": "EXO-930 EVO",
+  "subcategories": [
+   "cene-acilir-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Scorpion'un çene bölümü tamamen sökülebilen, P/J onaylı çene açılır kaskı. Çene takılıyken modüler, sökülünce açık kask olarak kullanılabiliyor; güneş vizörü ve EXO-Com yuvası var.",
+  "description": [
+   "EXO-930 EVO, Scorpion'un EXO-930'u yenilenmiş çene tasarımıyla geri getirdiği çok amaçlı kask. Çene bölümü yukarı kalkıyor ve istenirse tamamen sökülerek kask açık kask olarak kullanılabiliyor. P/J (çene açık ve kapalı) onaylı ve ECE R22.06 sertifikalı; Scorpion P/J kilidinin güçlendirildiğini belirtiyor. Kabuk malzemesi ve ağırlık ürün sayfasında verilmiyor.",
+   "Donanımda buğu önleyici kaplamalı SpeedView iç güneş vizörü, Pinlock MaxVision uyumlu 3D vizör, City Position aralık ayarı, gözlük kanallı KwikFit yanak pedleri ve çıkarılıp yıkanabilen KwikWick C astar var. EXO-Com için özel yuva ve hoparlör cepleri bulunuyor. Pinlock lensin kutuda olup olmadığı açık yazılmıyor."
+  ],
+  "forWho": [
+   "Yazın çeneyi söküp açık kask, kışın modüler kask olarak kullanmak isteyenler",
+   "Şehir içinde sık durup kalkan sürücüler ve kuryeler",
+   "Gözlük kullananlar"
+  ],
+  "notFor": [
+   "Hafiflik ve sessizlik önceliği olan uzun otoban turcuları",
+   "Sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "Çene tamamen sökülebiliyor; tek kaskla iki kullanım",
+   "P/J onaylı, güçlendirilmiş çene kilidi",
+   "Güneş vizörü ve gözlük kanallı pedler",
+   "XS'ten 3XL'e beden aralığı"
+  ],
+  "cons": [
+   "Ağırlık ve kabuk malzemesi açıklanmıyor",
+   "Sökülebilir çene mekanizması sabit çeneli kasklara göre daha fazla parça ve bakım demek",
+   "Pinlock lensin kutuda olup olmadığı belirtilmiyor"
+  ],
+  "usage": {
+   "sehir": "Çok pratik; çene kaldırılarak ya da sökülerek şehirde açık kask rahatlığı sağlanıyor.",
+   "uzunYol": "Orta mesafede yeterli; tur odaklı üst segment modüler kasklar kadar sessiz olmayabilir.",
+   "otoban": "Çene takılı ve kapalıyken ECE 22.06 onaylı; çenesiz otoban sürüşü önerilmez.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "KwikFit pedlerde gözlük kanalları var.",
+   "interkom": "EXO-Com yuvası ve hoparlör cepleri var; evrensel interkomlar da takılabilir.",
+   "kurye": "Çene açılır yapısı ve güneş vizörüyle kurye kullanımına uygun; yazın çenesiz kullanımda yüz korumasının olmadığı unutulmamalı."
+  },
+  "verdict": "EXO-930 EVO, çenesi sökülebilen nadir uygun fiyatlı kasklardan biri: yazın açık kask, kışın modüler kask isteyen için esnek bir çözüm. Güneş vizörü ve P/J onayı güçlü. Ağırlık ve kabuk bilgisi açıklanmadığı için mağazada denemek, sökülebilir çene mekanizmasının sağlamlığını elle kontrol etmek gerekir.",
+  "rivals": [
+   "nolan/n70-2-x",
+   "ls2/scope-ii",
+   "nolan/n90-3"
+  ],
+  "priceRange": {
+   "min": 9900,
+   "max": 9900,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-mat-siyah",
+    "price": 9900,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS"
+    ],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-beton-grisi",
+    "price": 9900,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M"
+    ],
+    "colors": [
+     "Beton Grisi"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-siyah",
+    "price": 9900,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "EXO-930 EVO'nun çenesi sökülüyor mu?",
+    "a": "Evet. Scorpion çene bölümünün tamamen sökülebildiğini, kaskın çenesiz açık kask olarak da kullanılabildiğini belirtiyor."
+   },
+   {
+    "q": "Çene açıkken sürmek yasal ve güvenli mi?",
+    "a": "Kask P/J onaylı; çene açık konumda da test edilmiş. Ancak çene açık ya da sökülüyken yüz koruması yoktur."
+   }
+  ],
+  "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-930-evo-solid/",
+  "sources": [
+   {
+    "url": "https://scorpionexo.com/eu/product/exo-930-evo-solid/",
+    "type": "manufacturer",
+    "label": "Scorpion EXO-930 EVO Solid ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://scorpionexo.com/eu/size-guide/",
+    "type": "manufacturer",
+    "label": "Scorpion beden rehberi (Tip B)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-mat-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-930 EVO (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-beton-grisi",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-930 EVO (Beton Grisi)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-930-evo-cene-acilabilir-motosiklet-kaski-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-930 EVO (Siyah)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellMaterial",
+   "specs.materialClass",
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlockIncluded",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Black",
+   "Cement Grey",
+   "Matt Pearl Black",
+   "Neon Red",
+   "Neon Yellow",
+   "White"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 54,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 58,
+    "max": 59
+   },
+   {
+    "size": "XL",
+    "min": 60,
+    "max": 61
+   },
+   {
+    "size": "2XL",
+    "min": 62,
+    "max": 63
+   },
+   {
+    "size": "3XL",
+    "min": 64,
+    "max": 65
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "cene-acilir",
+   "shellMaterial": null,
+   "materialClass": null,
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Pinlock MaxVision uyumlu 3D vizör, sert kaplamalı, 'City Position' aralık ayarı",
+   "pinlock": true,
+   "pinlockIncluded": null,
+   "sunVisor": true,
+   "ventilation": "Aero-tuned havalandırma, tek kademeli çene girişi",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "diger",
+   "intercomReady": true,
+   "intercomNotes": "EXO-Com için özel yuva ve EPS içinde hoparlör cepleri var.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "exo-city-ii",
+  "brand": "scorpion",
+  "name": "EXO-City II",
+  "subcategories": [
+   "acik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Scorpion'un uzun vizörlü, güneş vizörlü, ECE 22.06 onaylı açık (jet) kaskı. XXS–3XL beden aralığı ve yıkanabilir astarıyla şehir içi scooter kullanımına yönelik.",
+  "description": [
+   "EXO-City II, Scorpion'un şehir içi kullanım için tasarladığı açık (jet) kask. Rüzgârı daha iyi kesmesi için uzatılmış bir vizörü ve SpeedView iç güneş vizörü var; her iki vizör de çizilmeye karşı sert kaplamalı, güneş vizörü ayrıca buğu önleyici kaplamalı. ECE R22.06 sertifikalı. Kabuk malzemesi ve ağırlık ürün sayfasında verilmiyor.",
+   "Üç yoğunluklu köpük pedler, çıkarılıp yıkanabilen KwikWick C astar ve EPS içinde interkom hoparlör cepleri bulunuyor. Beden aralığı XXS–3XL; küçük kafalı ve kadın sürücüler için iyi bir seçenek. Açık kask olduğu için çene ve yüz koruması yok; bu, kuryelik ve hızlı yol kullanımı için önemli bir sınırlama."
+  ],
+  "forWho": [
+   "Şehir içinde scooter kullanan ve hafif, açık kask isteyenler",
+   "Küçük beden (XXS/XS) arayan kadın sürücüler",
+   "Sıcak havada kısa mesafe kullanım için ikinci kask arayanlar"
+  ],
+  "notFor": [
+   "Kurye olarak günde saatlerce trafikte olanlar; açık kask çene koruması sunmaz",
+   "Otoban ve şehirlerarası yol kullananlar"
+  ],
+  "pros": [
+   "Uzatılmış vizör ve iç güneş vizörü",
+   "XXS'ten 3XL'e geniş beden aralığı",
+   "Yıkanabilir astar ve interkom hoparlör cepleri",
+   "Türkiye'de fiyatı açık, birçok bedende stoklu"
+  ],
+  "cons": [
+   "Açık kask: çene ve yüz koruması yok",
+   "Ağırlık ve kabuk malzemesi açıklanmıyor",
+   "Pinlock uyumu üretici sayfasında belirtilmiyor"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı; scooter ve düşük hızlı şehir trafiği için tasarlanmış.",
+   "uzunYol": "Önerilmez; açık kask uzun yolda rüzgâr, gürültü ve koruma açısından zayıf.",
+   "otoban": "Önerilmez; yüksek hızda çene koruması olmaması ciddi risk.",
+   "sport": "Uygun değil.",
+   "adventure": "Uygun değil.",
+   "gozluk": "Açık kask yapısı gözlükle kullanımı kolaylaştırır.",
+   "interkom": "Hoparlör cepleri var; evrensel interkomlar kelepçe ile takılabilir.",
+   "kurye": "Kuryelik için önerilmez; günlük yoğun trafikte kapalı veya çene açılır kask tercih edilmeli."
+  },
+  "verdict": "EXO-City II, şehir içinde kısa mesafe scooter kullanımı için uzun vizörü, güneş vizörü ve geniş beden aralığıyla mantıklı bir açık kask. Küçük beden arayanlar için de iyi bir seçenek. Çene koruması olmadığı için kuryelik, şehirlerarası ve hızlı yol kullanımında kapalı ya da çene açılır bir kask seçilmeli.",
+  "rivals": [
+   "ls2/copter-ii",
+   "givi/x32",
+   "scorpion/exo-combat-ii"
+  ],
+  "priceRange": {
+   "min": 6580,
+   "max": 7400,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-acik-motosiklet-kaski-mat-siyah",
+    "price": 6580,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XXS",
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-acik-motosiklet-kaski-beyaz",
+    "price": 6580,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XXS",
+     "XS",
+     "XL",
+     "XXL",
+     "XXXL"
+    ],
+    "colors": [
+     "Beyaz"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-short-acik-motosiklet-kaski-gri-/-kirmizi",
+    "price": 7400,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS"
+    ],
+    "colors": [
+     "Short Gri / Kırmızı"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "EXO-City II'de güneş vizörü var mı?",
+    "a": "Evet. SpeedView iç güneş vizörü standart; buğu önleyici ve çizilmeye dayanıklı kaplamalı."
+   },
+   {
+    "q": "Kuryelik için uygun mu?",
+    "a": "Açık kask olduğu için çene koruması yok. Günde saatlerce trafikte olan kuryeler için kapalı ya da çene açılır kask daha güvenli."
+   }
+  ],
+  "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-city-ii/",
+  "sources": [
+   {
+    "url": "https://scorpionexo.com/eu/product/exo-city-ii/",
+    "type": "manufacturer",
+    "label": "Scorpion EXO-City II Solid ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://scorpionexo.com/eu/size-guide/",
+    "type": "manufacturer",
+    "label": "Scorpion beden rehberi (Tip B)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-acik-motosiklet-kaski-mat-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-City II (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-acik-motosiklet-kaski-beyaz",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-City II (Beyaz)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-city-2-short-acik-motosiklet-kaski-gri-/-kirmizi",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-City II (Short Gri / Kırmızı)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellMaterial",
+   "specs.materialClass",
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlock",
+   "specs.pinlockIncluded",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Black",
+   "Matt Black",
+   "White",
+   "Cement Grey",
+   "Matt Champagne Gold",
+   "Matt Mint",
+   "Metal Blue",
+   "Metal Pink",
+   "Matt Celestial Blue"
+  ],
+  "sizes": [
+   "XXS",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XXS",
+    "min": 53,
+    "max": 53
+   },
+   {
+    "size": "XS",
+    "min": 54,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 58,
+    "max": 59
+   },
+   {
+    "size": "XL",
+    "min": 60,
+    "max": 61
+   },
+   {
+    "size": "2XL",
+    "min": 62,
+    "max": 63
+   },
+   {
+    "size": "3XL",
+    "min": 64,
+    "max": 65
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "acik",
+   "shellMaterial": null,
+   "materialClass": null,
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Rüzgârı daha iyi kesmek için uzatılmış, sert kaplamalı vizör",
+   "pinlock": null,
+   "pinlockIncluded": null,
+   "sunVisor": true,
+   "ventilation": "Aero-tuned havalandırma",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "diger",
+   "intercomReady": true,
+   "intercomNotes": "EPS içinde Bluetooth interkom hoparlör cepleri var.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "exo-combat-ii",
+  "brand": "scorpion",
+  "name": "EXO-Combat II",
+  "subcategories": [
+   "acik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Scorpion'un çıkarılabilir yüz maskeli, iç güneş vizörlü açık kaskı. ECE 22.06 onaylı; agresif görünüm isteyen şehir içi naked/custom sürücülerine yönelik, vizörsüz bir tasarım.",
+  "description": [
+   "EXO-Combat II, Scorpion'un iki parçalı tasarıma sahip açık kaskı: üzerine takılan yüz maskesi toz, rüzgâr ve gürültüye karşı ek kalkan sağlıyor, maske çıkarıldığında kask açık kask gibi kullanılıyor. Klasik bir dış vizörü yok; görüşü iç güneş vizörü (SpeedView) ve sürücünün kendi gözlüğü sağlıyor. ECE R22.06 sertifikalı. Kabuk malzemesi ve ağırlık ürün sayfasında verilmiyor.",
+   "Scorpion önceki modele göre oturuşun, gürültü yalıtımının ve güneş vizörünün optik kalitesinin iyileştirildiğini belirtiyor. KwikWick C astar çıkarılıp yıkanabiliyor, yanak pedlerinde gözlük kanalları var, nefes deflektörü kutudan çıkıyor ve EPS içinde interkom hoparlör cepleri bulunuyor. Maske bir çene koruması değil; bu kaskı kapalı kask gibi düşünmemek gerekir."
+  ],
+  "forWho": [
+   "Naked, custom veya scrambler kullanan ve farklı görünüm isteyen şehir içi sürücüler",
+   "Sıcak havada açık kask kullanan ama rüzgâr ve tozdan biraz korunmak isteyenler"
+  ],
+  "notFor": [
+   "Kurye olarak günlük yoğun trafikte olanlar; maske çene koruması yerine geçmez",
+   "Otoban ve şehirlerarası yol kullananlar",
+   "Gözlüksüz sürüş ve tam vizör isteyenler"
+  ],
+  "pros": [
+   "Yüz maskesiyle ya da maskesiz iki farklı kullanım",
+   "İç güneş vizörü ve gözlük kanallı pedler",
+   "Yıkanabilir astar, nefes deflektörü dahil",
+   "Türkiye'de distribütör mağazasında fiyatı açık"
+  ],
+  "cons": [
+   "Dış vizörü yok; yağmurda ve yüksek hızda zayıf",
+   "Maske gerçek bir çene koruması değil",
+   "Ağırlık ve kabuk malzemesi açıklanmıyor",
+   "Türkiye'de stok küçük bedenlerle sınırlı görünüyor"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı; düşük ve orta hızlı şehir sürüşüne yönelik.",
+   "uzunYol": "Önerilmez; dış vizör olmaması uzun yolda yorucu.",
+   "otoban": "Önerilmez.",
+   "sport": "Uygun değil.",
+   "adventure": "Uygun değil.",
+   "gozluk": "Gözlük kanalları var; dış vizör olmadığı için gözlük ya da motosiklet gözlüğü kullanmak gerekebilir.",
+   "interkom": "Hoparlör cepleri var; evrensel interkomlar kelepçe ile takılabilir.",
+   "kurye": "Kuryelik için önerilmez; maskesi çene koruması sağlamaz."
+  },
+  "verdict": "EXO-Combat II, görünümü ön planda olan şehir içi sürücüler için ECE 22.06 onaylı, güneş vizörlü bir açık kask. Maske rüzgâr ve tozdan korur ama çene koruması değildir. Kuryelik, uzun yol ve yağmurlu kullanım için kapalı ya da çene açılır bir kask daha doğru seçim.",
+  "rivals": [
+   "scorpion/exo-city-ii",
+   "ls2/copter-ii"
+  ],
+  "priceRange": {
+   "min": 11570,
+   "max": 11570,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-combat-2-moduler-motosiklet-kaski-mat-siyah",
+    "price": 11570,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S"
+    ],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Motomax",
+    "url": "https://www.motomax.com.tr/scorpion-exo-combat-2-moduler-motosiklet-kaski-siyah",
+    "price": 11570,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS"
+    ],
+    "colors": [
+     "Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "EXO-Combat II'nin maskesi çene koruması sağlar mı?",
+    "a": "Hayır. Scorpion maskeyi toz, rüzgâr ve gürültüye karşı ek koruma olarak tanımlıyor; kask açık kask sınıfında."
+   },
+   {
+    "q": "Vizörü var mı?",
+    "a": "Dış vizörü yok, yalnızca iç güneş vizörü var. Açık havada veya gece sürüşte ayrı bir gözlük kullanmak gerekebilir."
+   }
+  ],
+  "manufacturerUrl": "https://scorpionexo.com/eu/product/exo-combat-ii/",
+  "sources": [
+   {
+    "url": "https://scorpionexo.com/eu/product/exo-combat-ii/",
+    "type": "manufacturer",
+    "label": "Scorpion EXO-Combat II Solid ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://scorpionexo.com/eu/size-guide/",
+    "type": "manufacturer",
+    "label": "Scorpion beden rehberi (Tip B)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-combat-2-moduler-motosiklet-kaski-mat-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-Combat II (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.motomax.com.tr/scorpion-exo-combat-2-moduler-motosiklet-kaski-siyah",
+    "type": "retailer",
+    "label": "Motomax – Scorpion EXO-Combat II (Siyah)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellMaterial",
+   "specs.materialClass",
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlock",
+   "specs.pinlockIncluded",
+   "specs.chinCurtain",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Matt Titan Grey",
+   "Black",
+   "Matt Black"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 54,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 58,
+    "max": 59
+   },
+   {
+    "size": "XL",
+    "min": 60,
+    "max": 61
+   },
+   {
+    "size": "2XL",
+    "min": 62,
+    "max": 63
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "acik",
+   "shellMaterial": null,
+   "materialClass": null,
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Ön siperlik yok; çıkarılabilir yüz maskesi ve iç güneş vizörü",
+   "pinlock": null,
+   "pinlockIncluded": null,
+   "sunVisor": true,
+   "ventilation": "Aero-tuned havalandırma",
+   "chinCurtain": null,
+   "breathGuard": true,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "diger",
+   "intercomReady": true,
+   "intercomNotes": "EPS içinde Bluetooth interkom hoparlör cepleri var.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "c10",
+  "brand": "hjc",
+  "name": "C10",
+  "subcategories": [
+   "kapali-kask",
+   "termoplastik-kask"
+  ],
+  "summary": "HJC'nin polikarbonat kabuklu en uygun fiyatlı kapalı kaskı. Pinlock'a hazır geniş vizör, yıkanabilir iç pedler ve 3XS'ten başlayan beden aralığıyla genç, kadın ve bütçeli sürücülere yönelik.",
+  "description": [
+   "C10, HJC'nin giriş seviyesi kapalı kaskı. Kabuk APC adlı gelişmiş polikarbonattan; HJC bilgisayar destekli tasarımla hafif ve iyi oturan bir kabuk hedeflediğini söylüyor. Havalandırma üç giriş ve iki çıkıştan oluşan ACS sistemiyle sağlanıyor. HJC Avrupa ürün sayfası homologasyon sürümünü ve ağırlığı belirtmiyor; ECE etiketini mağazada kontrol etmek gerekir.",
+   "HJ-34P vizör Pinlock'a hazır, %99 UV koruması sağlıyor ve çizilmeye dayanıklı kaplamalı; görüş alanı 10 mm genişletilmiş. Tepe ve yanak pedleri çıkarılıp yıkanabiliyor, çene perdesi yedek parça olarak sunuluyor, toka mikrometrik ve Bluetooth interkom için hoparlör cepleri var. Yetişkin bedenleri XS–2XL, ayrıca 3XS–2XS genç bedenleri bulunuyor. Üretici sayfasında iç güneş vizörü listelenmiyor."
+  ],
+  "forWho": [
+   "İlk kaskını alan ve bilinen bir markadan uygun fiyatlı kapalı kask arayanlar",
+   "Küçük kafalı kadın ve genç sürücüler (3XS'ten başlayan bedenler)",
+   "Bütçesi sınırlı kuryeler"
+  ],
+  "notFor": [
+   "Güneş vizörü isteyenler; üretici sayfasında iç güneş vizörü yok",
+   "Uzun otoban turları yapan ve sessizlik bekleyenler"
+  ],
+  "pros": [
+   "Türkiye'de en uygun fiyatlı marka kasklardan biri",
+   "3XS'ten 2XL'e çok geniş beden aralığı",
+   "Pinlock'a hazır geniş vizör, yıkanabilir pedler",
+   "Mikrometrik toka ve hoparlör cepleri"
+  ],
+  "cons": [
+   "Üretici sayfasında iç güneş vizörü listelenmiyor",
+   "Homologasyon sürümü ve ağırlık HJC Avrupa sayfasında yazmıyor",
+   "Pinlock lensin kutuda olup olmadığı belirsiz"
+  ],
+  "usage": {
+   "sehir": "Uygun; geniş vizör trafikte iyi görüş sağlar. Güneşli havada ayrı güneş gözlüğü gerekebilir.",
+   "uzunYol": "Kısa ve orta mesafe için yeterli; uzun etaplarda üst modeller kadar konforlu olmaz.",
+   "otoban": "Giriş seviyesi kask; yüksek hızda gürültü ve aerodinamik sınırlı.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "Gözlük uyumu üretici sayfasında belirtilmiyor; denemek gerekir.",
+   "interkom": "Hoparlör cepleri var; evrensel interkomlar kelepçe ile takılabilir.",
+   "kurye": "Fiyatı ve yıkanabilir pedleriyle kurye kullanımına uygun; güneş vizörü olmaması gün boyu kullanımda eksik."
+  },
+  "verdict": "C10, bilinen bir markadan en düşük bütçeyle kapalı kask almak isteyen için mantıklı bir başlangıç; özellikle 3XS'ten başlayan bedenleri küçük kafalı sürücüler için değerli. Güneş vizörü listelenmiyor; gün boyu sürüş yapan kuryeler aynı bütçede güneş vizörlü EXO-491 veya Braker SV'yi de karşılaştırmalı. ECE 22.06 etiketini satın alırken kontrol edin.",
+  "rivals": [
+   "scorpion/exo-491",
+   "ls2/stream-ii",
+   "mt-helmets/braker-sv"
+  ],
+  "priceRange": {
+   "min": 5940,
+   "max": 7020,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-mat-siyah",
+    "price": 5940,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-parlak-siyah",
+    "price": 5940,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Parlak Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-tins-mc1sf",
+    "price": 7020,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Tins MC1SF"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Vipmoto",
+    "url": "https://vipmoto.com/hjc-c10-kapali-kask",
+    "price": 5940,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Düz renk"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "HJC C10'da güneş vizörü var mı?",
+    "a": "HJC Avrupa ürün sayfasındaki teknik listede iç güneş vizörü yer almıyor."
+   },
+   {
+    "q": "C10 ECE 22.06 onaylı mı?",
+    "a": "HJC Avrupa ürün sayfası homologasyon sürümünü yazmıyor. Satın alırken kaskın çene kayışındaki ECE etiketinde 22.06 ibaresini kontrol edin."
+   },
+   {
+    "q": "Küçük beden var mı?",
+    "a": "Evet. HJC yetişkin XS–2XL'nin yanında 3XS–2XS genç bedenleri de sunuyor; 3XS 50–51 cm kafa çevresine karşılık geliyor."
+   }
+  ],
+  "manufacturerUrl": "https://hjchelmets.eu/products/c10-full-face-motorcycle-helmet",
+  "sources": [
+   {
+    "url": "https://hjchelmets.eu/products/c10-full-face-motorcycle-helmet",
+    "type": "manufacturer",
+    "label": "HJC C10 ürün sayfası (teknoloji ve beden tablosu)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-mat-siyah",
+    "type": "retailer",
+    "label": "Ars Motor – HJC C10 (Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-parlak-siyah",
+    "type": "retailer",
+    "label": "Ars Motor – HJC C10 (Parlak Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-c10-kask-tins-mc1sf",
+    "type": "retailer",
+    "label": "Ars Motor – HJC C10 (Tins MC1SF)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://vipmoto.com/hjc-c10-kapali-kask",
+    "type": "retailer",
+    "label": "Vipmoto – HJC C10 (Düz renk)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.ece2206",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlockIncluded",
+   "specs.sunVisor",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.warrantyYears",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "White",
+   "Semi Flat Black",
+   "Metal Black"
+  ],
+  "sizes": [
+   "3XS",
+   "2XS",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "3XS",
+    "min": 50,
+    "max": 51
+   },
+   {
+    "size": "2XS",
+    "min": 52,
+    "max": 53
+   },
+   {
+    "size": "XS",
+    "min": 54,
+    "max": 55
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 58,
+    "max": 59
+   },
+   {
+    "size": "XL",
+    "min": 60,
+    "max": 61
+   },
+   {
+    "size": "2XL",
+    "min": 62,
+    "max": 63
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": "APC (Advanced Polycarbonate)",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": null,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "HJ-34P, Pinlock'a hazır, %99 UV koruması, çizilmeye dayanıklı kaplama, 10 mm genişletilmiş görüş",
+   "pinlock": true,
+   "pinlockIncluded": null,
+   "sunVisor": null,
+   "ventilation": "ACS: 3 giriş, 2 çıkış, önden arkaya hava akışı",
+   "chinCurtain": true,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "Bluetooth interkom için hoparlör cepleri var.",
+   "spoiler": null,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "i91",
+  "brand": "hjc",
+  "name": "i91",
+  "subcategories": [
+   "cene-acilir-kask",
+   "termoplastik-kask",
+   "touring-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "HJC'nin polikarbonat kompozit kabuklu, P/J onaylı, çok kademeli güneş vizörlü çene açılır kaskı. Pinlock lens kutudan çıkıyor; SMART HJC entegre interkomlarına hazır.",
+  "description": [
+   "i91, HJC'nin touring ve şehir sürücülerine yönelik çene açılır kaskı. Kabuk APC adlı polikarbonat kompozitten, çene bölümü polikarbonattan. ECE 22.06 ve P/J (çene açık ve kapalı) onaylı. HJC ince ve hafif bir tasarım hedeflediğini, aerodinamiğin iyileştirildiğini söylüyor; ancak ağırlığı ürün sayfasında vermiyor.",
+   "Öne çıkan özellik birkaç kademede ayarlanabilen DMS güneş vizörü; buğu önleyici kaplamalı. HJ-33 vizör Pinlock'a hazır ve Pinlock lens kutudan çıkıyor. İç pedler tamamen çıkarılabiliyor, gözlük kanalları var, yanak pedleri tüm bedenlerde değiştirilebiliyor; nefes deflektörü ve çene perdesi yedek parça listesinde. Kask SMART HJC 11B, 21B ve 50B Bluetooth sistemlerine hazır. Toka tek dokunuşla açılan mikrometrik tip; HJC 3 yıl garanti veriyor."
+  ],
+  "forWho": [
+   "Şehir ve hafta sonu turu için güneş vizörlü, onaylı bir çene açılır kask arayanlar",
+   "SMART HJC ile kasaya entegre interkom isteyenler",
+   "Gözlük kullanan sürücüler"
+  ],
+  "notFor": [
+   "Çok uzun otoban turlarında üst segment sessizlik bekleyenler",
+   "Pist veya sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "P/J onayı ve çok kademeli güneş vizörü",
+   "Pinlock lens kutudan çıkıyor",
+   "SMART HJC entegre interkom seçeneği",
+   "Türkiye'de birden fazla mağazada fiyatı açık"
+  ],
+  "cons": [
+   "Ağırlık üretici sayfasında verilmiyor",
+   "SMART HJC üniteleri ayrı satılıyor ve ek maliyet getiriyor",
+   "Kabuk boyutu sayısı açıklanmıyor"
+  ],
+  "usage": {
+   "sehir": "Çok uygun; çene açılabildiği ve güneş vizörü ayarlanabildiği için şehirde pratik.",
+   "uzunYol": "Hafta sonu turları için iyi; çok uzun etaplarda üst segment modüler kasklar kadar sessiz olmayabilir.",
+   "otoban": "Çene kapalıyken ECE 22.06 onaylı; yüksek hızda gürültü bilgisi üreticide yok.",
+   "sport": "Sportif sürüşe göre tasarlanmamış.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "Gözlük kanalları var; HJC gözlük ve güneş gözlüğüne uyumlu olduğunu belirtiyor.",
+   "interkom": "SMART HJC 11B, 21B ve 50B için hazır; evrensel interkomlar da takılabilir.",
+   "kurye": "Çene açılır yapı ve güneş vizörüyle kurye kullanımına uygun; fiyatı Scope II gibi giriş modellerinin üstünde."
+  },
+  "verdict": "i91, P/J onayı, ayarlanabilir güneş vizörü ve kutudan çıkan Pinlock ile dengeli bir orta sınıf çene açılır kask. SMART HJC ile temiz bir interkom kurulumu isteyenler için ayrıca mantıklı. Ağırlığı açıklanmadığı için mağazada denemek ve Scope II ile N90-3'ü fiyat-donanım açısından karşılaştırmak faydalı.",
+  "rivals": [
+   "nolan/n90-3",
+   "ls2/scope-ii",
+   "ls2/strobe-ii"
+  ],
+  "priceRange": {
+   "min": 13500,
+   "max": 15660,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-metal-siyah",
+    "price": 13500,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Metal Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-semi-flat-siyah",
+    "price": 13500,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Semi Flat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Ars Motor",
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-carst-mc1sf",
+    "price": 15660,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [],
+    "colors": [
+     "Carst MC1SF"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Vipmoto",
+    "url": "https://vipmoto.com/hjc-i91-cene-acilir-kask",
+    "price": 13500,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Düz renk"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "HJC i91'de Pinlock kutudan çıkıyor mu?",
+    "a": "Evet. HJC kutu içeriğinde Pinlock lensi listeliyor."
+   },
+   {
+    "q": "i91'e hangi interkom takılır?",
+    "a": "Kask SMART HJC 11B, 21B ve 50B sistemlerine hazır; bunlar ayrı satılıyor. Evrensel interkomlar da kelepçe ile takılabilir."
+   }
+  ],
+  "manufacturerUrl": "https://hjchelmets.eu/pages/i91-modular-system-motorcycle-helmet",
+  "sources": [
+   {
+    "url": "https://hjchelmets.eu/pages/i91-modular-system-motorcycle-helmet",
+    "type": "manufacturer",
+    "label": "HJC i91 tanıtım sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://hjchelmets.eu/products/i91-modular-motorcycle-helmet",
+    "type": "manufacturer",
+    "label": "HJC i91 ürün sayfası (teknoloji, kutu içeriği, beden tablosu)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-metal-siyah",
+    "type": "retailer",
+    "label": "Ars Motor – HJC i91 (Metal Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-semi-flat-siyah",
+    "type": "retailer",
+    "label": "Ars Motor – HJC i91 (Semi Flat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://www.arsmotor.com/urun/hjc-i91-kask-carst-mc1sf",
+    "type": "retailer",
+    "label": "Ars Motor – HJC i91 (Carst MC1SF)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://vipmoto.com/hjc-i91-cene-acilir-kask",
+    "type": "retailer",
+    "label": "Vipmoto – HJC i91 (Düz renk)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "high",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.spoiler",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Pearl White",
+   "Metal Black",
+   "Semi Flat Black",
+   "Semi Flat Metallic Blue",
+   "N Grey",
+   "Fluorescent Green",
+   "Semi Flat Sand Beige",
+   "Semi Flat Titanium"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 54,
+    "max": 55
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 58,
+    "max": 59
+   },
+   {
+    "size": "XL",
+    "min": 60,
+    "max": 61
+   },
+   {
+    "size": "2XL",
+    "min": 62,
+    "max": 63
+   },
+   {
+    "size": "3XL",
+    "min": 64,
+    "max": 65
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "cene-acilir",
+   "shellMaterial": "APC (Advanced Polycarbonate Composite), polikarbonat çene",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "HJ-33, Pinlock'a hazır, %99 UV koruması, çizilmeye dayanıklı; Pinlock lens kutudan çıkıyor",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": true,
+   "ventilation": "ACS (Advanced Channeling Ventilation System): tepe, alt ve arka havalandırma",
+   "chinCurtain": true,
+   "breathGuard": true,
+   "linerRemovable": true,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "SMART HJC 11B, 21B ve 50B Bluetooth sistemlerine hazır (ayrı satılır).",
+   "spoiler": null,
+   "warrantyYears": 3,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "braker-sv",
+  "brand": "mt-helmets",
+  "name": "Braker SV",
+  "subcategories": [
+   "kapali-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "MT Helmets'in 2024'te çıkardığı, ECE 22.06 ve DOT onaylı, güneş vizörlü giriş seviyesi sport-touring kapalı kaskı. Hızlı sökülen vizör, mikrometrik toka ve UCS interkom yerleşimi var.",
+  "description": [
+   "Braker SV, İspanyol MT Helmets'in sport-touring sınıfına giriş modeli olarak 2024'te sunduğu kapalı kask. Üretici ECE 22.06 ve DOT onaylı olduğunu belirtiyor. Kabuk malzemesi ve ağırlık ürün sayfasında verilmiyor.",
+   "Vizör MT-V 28B kodlu, polikarbonattan; kauçuk contalı ve eldivenle de kullanılabilen iki düğmeli MT-QVSS hızlı söküm sistemine sahip. Pinlock DKS435 ve FogOff ile uyumlu, ancak lens kutuda listelenmiyor. İç güneş vizörü hızlı sökülebiliyor, burun deflektörü kutudan çıkıyor, toka MT-Micrometric+ mikrometrik tip. UCS interkom yerleşim alanı ve arka spoyler var; iç astar yedek parça olarak satılıyor."
+  ],
+  "forWho": [
+   "Bütçesi sınırlı, güneş vizörlü onaylı bir kapalı kask arayanlar",
+   "Şehir içi ve kısa tur yapan sürücüler",
+   "Kurye olarak çalışan ve uygun fiyatlı kask arayanlar"
+  ],
+  "notFor": [
+   "Hafiflik ve sessizlik önceliği olan uzun otoban turcuları",
+   "Pist kullanımı düşünenler"
+  ],
+  "pros": [
+   "ECE 22.06 ve DOT onayı",
+   "Güneş vizörü ve eldivenle sökülebilen vizör sistemi",
+   "Mikrometrik toka, burun deflektörü dahil",
+   "Türkiye'de giriş seviyesinde fiyat"
+  ],
+  "cons": [
+   "Kabuk malzemesi ve ağırlık açıklanmıyor",
+   "Pinlock lens kutuda yok",
+   "İncelediğimiz Türkiye mağazasında tüm bedenler stokta görünmüyordu"
+  ],
+  "usage": {
+   "sehir": "Uygun; güneş vizörü ve hızlı sökülen vizör günlük kullanımda pratik.",
+   "uzunYol": "Kısa ve orta mesafe için yeterli; uzun etaplarda üst segment kasklar kadar konforlu olmaz.",
+   "otoban": "ECE 22.06 güvencesi var; gürültü ve aerodinamik fiyat sınıfının sınırlarında.",
+   "sport": "Sport-touring olarak konumlanıyor; pist kaskı değil.",
+   "adventure": "Siperliği yok, arazi için uygun değil.",
+   "gozluk": "Gözlük uyumu üretici sayfasında belirtilmiyor; denemek gerekir.",
+   "interkom": "UCS interkom yerleşimi var; evrensel interkomlar da takılabilir.",
+   "kurye": "Fiyatı ve güneş vizörüyle kurye kullanımına uygun; kış için Pinlock lensi ayrıca alınmalı."
+  },
+  "verdict": "Braker SV, düşük bütçeyle ECE 22.06 ve DOT onaylı, güneş vizörlü bir kapalı kask isteyen için düşünülebilir bir seçenek. Vizör sistemi ve mikrometrik toka fiyatına göre iyi. Ağırlık ve kabuk bilgisi açıklanmadığı için mağazada denemek, Türkiye'de stok durumunu kontrol etmek gerekir.",
+  "rivals": [
+   "scorpion/exo-491",
+   "hjc/c10",
+   "mt-helmets/thunder-4-sv"
+  ],
+  "priceRange": {
+   "min": 6300,
+   "max": 6300,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08",
+   "note": "Vipmoto'da fiyat listeleniyor ancak kontrol tarihinde stokta görünmüyordu."
+  },
+  "offers": [
+   {
+    "seller": "Vipmoto",
+    "url": "https://vipmoto.com/mt-breaker-sv-solid-a1-mat-kapali-kask",
+    "price": 6300,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Solid A1 Mat Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Vipmoto",
+    "url": "https://vipmoto.com/mt-helmets-breaker-sv-pure-a1-kapali-kask",
+    "price": 6300,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Pure A1"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Braker SV'de Pinlock var mı?",
+    "a": "Vizör Pinlock DKS435 ve FogOff ile uyumlu; ancak lens kutu içeriğinde listelenmiyor, ayrıca alınması gerekiyor."
+   },
+   {
+    "q": "Braker SV hangi onaylara sahip?",
+    "a": "MT Helmets kaskın ECE 22.06 ve DOT onaylı olduğunu belirtiyor."
+   }
+  ],
+  "manufacturerUrl": "https://mthelmets.com/en/products/braker-sv-pure-a1-matt",
+  "sources": [
+   {
+    "url": "https://mthelmets.com/en/products/braker-sv-pure-a1-matt",
+    "type": "manufacturer",
+    "label": "MT Helmets Braker SV Pure A1 Matt ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://vipmoto.com/mt-breaker-sv-solid-a1-mat-kapali-kask",
+    "type": "retailer",
+    "label": "Vipmoto – MT Braker SV (Solid A1 Mat Siyah)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://vipmoto.com/mt-helmets-breaker-sv-pure-a1-kapali-kask",
+    "type": "retailer",
+    "label": "Vipmoto – MT Braker SV (Pure A1)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellMaterial",
+   "specs.materialClass",
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlockIncluded",
+   "specs.ventilation",
+   "specs.chinCurtain",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.warrantyYears",
+   "specs.madeIn",
+   "sizeChart"
+  ],
+  "colors": [
+   "Pure A1 Matt",
+   "Pure A0 Gloss",
+   "Pure A12 Gloss",
+   "Charm",
+   "Cockpit",
+   "Fury",
+   "Inception"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "sizeChart": [],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": null,
+   "materialClass": null,
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "MT-V 28B polikarbonat vizör, kauçuk conta, iki düğmeli hızlı söküm (MT-QVSS), Pinlock DKS435 ve FogOff uyumlu",
+   "pinlock": true,
+   "pinlockIncluded": null,
+   "sunVisor": true,
+   "ventilation": null,
+   "chinCurtain": null,
+   "breathGuard": true,
+   "linerRemovable": true,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "UCS interkom yerleşim alanı var.",
+   "spoiler": true,
+   "warrantyYears": null,
+   "madeIn": null
+  }
+ }
+]

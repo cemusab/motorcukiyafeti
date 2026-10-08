@@ -1,0 +1,166 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-gloves",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye Eldiven",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "yazlik-eldiven"
+    ],
+    "summary": "BMW Motorrad'ın yaz enduro eldiveni; tüm avuç içi kanguru derisi, keçi derisi takviyeli esnek tekstil üst, havalandırmalı 3D eklem kabuğu ve dokunmatik ekran uyumlu parmak uçları.",
+    "description": [
+      "GS Rallye Eldiven, BMW Motorrad'ın sıcak havada arazi süren GS sürücüleri için yaptığı kısa enduro eldiveni. Avuç içinin tamamı kanguru derisinden; BMW bunu en iyi kavrama için seçtiğini belirtiyor. Elin üstü keçi derisiyle güçlendirilmiş esnek tekstilden, bu da eldiveni hafif ve hareketli tutuyor. Bilekte cırtlı kapama ve giymeyi kolaylaştıran silikon pedli çekme halkası var.",
+      "Koruma tarafında altında darbe emici köpük olan, havalandırma delikli 3D eklem kabuğu ve yastıklı başparmak eklemi bulunuyor. BMW'nin Türkiye mağazasındaki açıklamaya göre sağ eldeki üç iletken parmak ucu, ConnectedRide Navigator ve telefon ekranının eldiven çıkarılmadan kullanılmasını sağlıyor. Resmi sayfalarda EN 13594 sertifika seviyesi belirtilmiyor."
+    ],
+    "forWho": [
+      "Sıcak havada arazi ve stabilize yolda süren adventure sürücüleri",
+      "Gidon hissi yüksek, ince ve hafif bir enduro eldiveni isteyenler",
+      "Navigasyon ekranını eldivenle kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta kullanacaklar (su geçirmez değil, astarı ince)",
+      "Asfaltta yüksek hızda tam bilek koruması isteyenler",
+      "Kurye kullanımı: kanguru derisi avuç ve fiyat günlük yoğun kurye aşınmasına göre pahalı bir tercih"
+    ],
+    "pros": [
+      "Tüm avuç içi kanguru derisi, iyi kavrama",
+      "Havalandırmalı 3D eklem kabuğu",
+      "Hafif, esnek, yaz için serin",
+      "Dokunmatik ekran uyumlu parmak uçları"
+    ],
+    "cons": [
+      "EN 13594 sertifika seviyesi resmi sayfada yazmıyor",
+      "Kısa bilek; asfalt kaymalarında koruma sınırlı",
+      "Su geçirmez değil",
+      "Türkiye'de bazı bedenler stokta yok"
+    ],
+    "usage": {
+      "sehir": "Yazın kullanılabilir; ince ve rahat.",
+      "uzunYol": "Sıcak havada arazi ağırlıklı turlarda uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Arazi ve enduro için; pist için değil.",
+      "kurye": "Önerilmez; sertifika seviyesi belirsiz ve pahalı."
+    },
+    "verdict": "GS Rallye Eldiven, kanguru derisi avuç ve havalandırmalı eklem kabuğuyla yaz arazisi için iyi bir gidon hissi sunuyor. Sertifika seviyesinin resmi sayfada yazmaması ve kısa bilek yapısı dikkat edilecek noktalar. BMW Motorrad Türkiye mağazasında TL fiyatıyla satışta.",
+    "rivals": [
+      "revit/cayenne-2",
+      "alpinestars/andes-v3-drystar"
+    ],
+    "priceRange": {
+      "min": 7768.92,
+      "max": 8183.25,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Renge göre küçük fiyat farkı var."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-eldiven-p-15b297c6100e4861b7e3e28acc528c5c",
+        "price": 7768.92,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "8"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-eldiven-p-e6d8b8ed2929408a82d8102f48a4561c",
+        "price": 8183.25,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "9",
+          "10",
+          "12"
+        ],
+        "colors": [
+          "Mavi/Kırmızı"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Eldiven CE sertifikalı mı?",
+        "a": "BMW'nin incelediğimiz resmi ürün sayfalarında EN 13594 seviyesi belirtilmiyor. Satın almadan önce eldivenin etiketindeki CE bilgisini kontrol etmenizi öneririz."
+      },
+      {
+        "q": "Dokunmatik ekranla kullanılabilir mi?",
+        "a": "Evet. BMW Türkiye mağazasındaki açıklamaya göre sağ eldeki üç parmak ucu iletken."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/gloves/5b5ec95-gs-rallye-gloves.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/gloves/5b5ec95-gs-rallye-gloves.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye Gloves ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-eldiven-p-15b297c6100e4861b7e3e28acc528c5c",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-eldiven-p-e6d8b8ed2929408a82d8102f48a4561c",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi/Kırmızı ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "unverified": [
+      "sizeChart",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Mavi",
+      "Mavi/Kırmızı"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Kanguru derisi avuç içi, keçi derisi takviyeler, elastik tekstil üst, polyester astar",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "3D eklem kabuğunda hava delikleri, esnek tekstil üst",
+      "closure": "Bilekte cırt",
+      "madeIn": null
+    }
+  }
+]

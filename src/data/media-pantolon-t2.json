@@ -1,0 +1,50 @@
+[
+  {
+    "product": "tex-motor/tex-1095",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1095.jpg",
+        "alt": "Tex 1095 korumalı motosiklet pantolonu önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-1095-korumali-pantolon/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1095-arka.jpg",
+        "alt": "Tex 1095 korumalı pantolon arkadan görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-1095-korumali-pantolon/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1095-YAN.jpg",
+        "alt": "Tex 1095 pantolon tam boy yan fermuar görünümü",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-1095-korumali-pantolon/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "shima/rush-2-0-men-pants",
+    "images": [
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RUSH_PANTS_FRONT_2500X2500_Motorcycle_trousers.avif",
+        "alt": "Shima Rush 2.0 motosiklet pantolonu önden görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-pnt-czarny/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RUSH_PANTS_BACK_2500X2500_Motorcycle_trousers.avif",
+        "alt": "Shima Rush 2.0 motosiklet pantolonu arkadan görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-pnt-czarny/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/121A0924_1x1_Motorcycle_trousers.avif",
+        "alt": "Shima Rush 2.0 pantolon kullanım görseli",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-pnt-czarny/"
+      }
+    ],
+    "videos": []
+  }
+]

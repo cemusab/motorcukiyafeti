@@ -1,0 +1,282 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Botu çıkarmadan giyilebilir mi?",
+        "a": "Evet. Belden bileğe uzanan tam boy yan fermuar sayesinde pantolon botu veya montu çıkarmadan giyilip çıkarılabiliyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Üretici membranlı dış katmanı 'suya dayanıklı' olarak tanımlıyor; tam su geçirmezlik iddiası yok."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-1095-korumali-pantolon/",
+        "price": 5900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 5900,
+      "max": 5900,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "unverified": [
+      "specs.protectors.level",
+      "specs.waterproof",
+      "sizes",
+      "sizeChart"
+    ],
+    "category": "pantolon",
+    "slug": "tex-1095",
+    "brand": "tex-motor",
+    "name": "Tex 1095 Korumalı Pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "EN 17092-4 A sınıfı, ripstop kumaşlı, membranlı, çıkarılabilir kapitone astarlı, belden bileğe tam boy yan fermuarlı ve reflektif hatlı yerli dört mevsim motosiklet pantolonu.",
+    "description": [
+      "Tex 1095, Tex Motor'un Forte GT çizgisinde Türkiye'de ürettiği tekstil motosiklet pantolonu. Dış kumaş yırtılmaya karşı dokunmuş ripstop; altında suya dayanıklı membranlı bir katman ve soğukta çıkarılmadan, sıcakta çıkarılarak kullanılan kapitone iç astar var. Üretici modeli şehir içi, uzun yol ve mevsim geçişleri için öneriyor.",
+      "Pantolon EN 17092-4:2020 A sınıfı sertifikalı; diz ve kalçada EN 1621-1:2012 sertifikalı pedler bulunuyor. Kurye için en pratik ayrıntı belden bileğe uzanan tam boy yan fermuar: pantolon botu çıkarmadan, günlük kıyafetin üstüne giyilip çıkarılabiliyor. Gece görünürlüğü için reflektif hatlar var. Üretici membranı 'suya dayanıklı' olarak tanımlıyor; tam su geçirmezlik iddiası yok. Tex Motor sitesinde online satış yapılmıyor."
+    ],
+    "forWho": [
+      "Kıyafetinin üstüne hızla giyip çıkarmak isteyen kuryeler",
+      "Dört mevsim tek pantolonla idare etmek isteyen şehir sürücüleri",
+      "Yerli, sertifikalı ve bayi desteği olan pantolon arayanlar"
+    ],
+    "notFor": [
+      "Yoğun yağmurda tam su geçirmezlik bekleyenler; membran 'suya dayanıklı' olarak tanımlanıyor",
+      "Sıcak yaz günleri için file pantolon arayanlar"
+    ],
+    "pros": [
+      "EN 17092-4 A sınıfı, diz ve kalça korumaları dahil",
+      "Belden bileğe tam boy yan fermuar",
+      "Çıkarılabilir kapitone astar ile dört mevsim kullanım",
+      "Ripstop dış kumaş ve reflektif hatlar",
+      "Türkiye üretimi"
+    ],
+    "cons": [
+      "Tam su geçirmezlik iddiası yok",
+      "Koruma seviyesi (Level 1/2) belirtilmemiş",
+      "Online satış yok; bayiden alınmalı",
+      "Beden tablosu yalnızca görsel, ölçüler doğrulanmadı"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir içi kullanım için tasarlanmış.",
+      "uzunYol": "Üretici uzun yol ve touring için de öneriyor.",
+      "yaz": "Astar çıkarılınca bahar ve serin yaz günlerinde kullanılabilir; çok sıcakta ısıtır.",
+      "kis": "Kapitone astarla soğuk havada yalıtım sağlar.",
+      "yagmur": "Membranlı katman suya dayanıklı; yoğun yağmurda üstüne yağmurluk önerilir.",
+      "kurye": "Tam boy yan fermuar kuryenin kıyafet üstüne hızla giyip çıkarması için çok pratik; korumalar ve reflektifler dahil."
+    },
+    "verdict": "Tex 1095, tam boy yan fermuarı ve çıkarılabilir astarıyla kurye için en kullanışlı yerli tekstil pantolonlardan biri. A sınıfı sertifika ve diz-kalça korumaları dahil; membranın yalnızca suya dayanıklı tanımlanması nedeniyle yoğun yağmurda yanında yağmurluk bulundurmak gerekir.",
+    "rivals": [
+      "tex-motor/forte-gt-1091",
+      "yaren-tekstil/yrn-1494-kislik",
+      "scudo/milano-kislik-pantolon"
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-1095-korumali-pantolon/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-1095-korumali-pantolon/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Tex 1095 Korumalı Pantolon ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Ripstop dış kumaş, membranlı katman, çıkarılabilir kapitone iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Suya dayanıklı membranlı dış katman (değer belirtilmemiş)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Belden bileğe tam boy yan fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [
+      {
+        "q": "Kalça koruması var mı?",
+        "a": "Cep var ama koruma dahil değil; üretici AirForce H11 Level 1 kalça korumasını opsiyonel olarak sunuyor."
+      },
+      {
+        "q": "Montla birleşir mi?",
+        "a": "Evet. Rush 2.0 mont ve kısa bağlantı fermuarlı diğer Shima montlarla birleşiyor."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-rush-20-men-korumali-motosiklet-pantolonu-siyah",
+        "price": 9260,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 9260,
+      "max": 9260,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Kontrol tarihinde stok dışıydı."
+    },
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "pantolon",
+    "slug": "rush-2-0-men-pants",
+    "brand": "shima",
+    "name": "Rush 2.0 Men Pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "EN 17092-4 A sınıfı, NextDry çıkarılabilir su geçirmez iç katmanlı, ayarlanabilir Level 1 diz korumalı, reflektif ve grip panelli şehir odaklı tekstil motosiklet pantolonu.",
+    "description": [
+      "Rush 2.0 pantolon, Shima'nın Rush 2.0 montuyla eşleşen şehir pantolonu. Dış kumaş 1000D ve 600D polyester; reflektif ve kaymayı azaltan grip paneller var. İçte çıkarılabilir NextDry su geçirmez katman bulunuyor; üretici değerleri 10.000 mm su sütunu ve 5.000 g/m²/24 saat nefes alma olarak veriyor. Dış yüzey DWR kaplamalı.",
+      "Pantolon EN 17092-4:2020 A sınıfı sertifikalı. Dizlerde yüksekliği ayarlanabilen AirForce EK12 Level 1 korumalar dahil; kalça koruması (AirForce H11 Level 1) ve askı ayrı satılıyor. Rush 2.0 mont ve kısa bağlantı fermuarlı Shima montlarla birleşiyor. Türkiye'de Motomax listesinde var, kontrol tarihinde stok dışıydı."
+    ],
+    "forWho": [
+      "Rush 2.0 montla uyumlu takım kurmak isteyenler",
+      "Katmanlı yapıyla farklı havalarda aynı pantolonu kullanmak isteyen şehir kuryeleri",
+      "Orta bütçede sertifikalı tekstil pantolon arayanlar"
+    ],
+    "notFor": [
+      "Kalça korumasının dahil gelmesini bekleyenler; ayrı satın alınmalı",
+      "Dış kabuğun da su geçirmez olmasını isteyenler"
+    ],
+    "pros": [
+      "EN 17092-4 A sınıfı",
+      "Ayarlanabilir Level 1 diz korumaları dahil",
+      "Çıkarılabilir NextDry su geçirmez katman",
+      "Reflektif ve grip paneller",
+      "Montla fermuar bağlantısı"
+    ],
+    "cons": [
+      "Kalça koruması dahil değil",
+      "Su geçirmez katman içte; dış kumaş ıslanır",
+      "Kontrol tarihinde Türkiye'de stok dışıydı"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi şehir içi kullanım.",
+      "uzunYol": "Kısa turlar için yeterli.",
+      "yaz": "İç katman çıkarılınca serin günlerde kullanılabilir; sıcakta file pantolon kadar ferah değil.",
+      "kis": "Su geçirmez katmanla rüzgar kesilir; çok soğukta termal alt giyim gerekir.",
+      "yagmur": "İç katman suyu durdurur ama dış kabuk ıslanır.",
+      "kurye": "Katmanlı yapı ve reflektifler kuryeye uygun; sık in-bin için üstte tam boy fermuar yok."
+    },
+    "verdict": "Rush 2.0 pantolon, A sınıfı sertifika ve çıkarılabilir su geçirmez katmanı orta bütçede sunan dengeli bir şehir pantolonu. Kurye için eksik yanları kalça korumasının ayrı satılması ve tam boy yan fermuar olmaması.",
+    "rivals": [
+      "tex-motor/tex-1095",
+      "yaren-tekstil/yrn-1494-kislik",
+      "lbc/star"
+    ],
+    "manufacturerUrl": "https://shima.pl/shop/rush-2-0-men-pnt-czarny/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/rush-2-0-men-pnt-czarny/",
+        "type": "manufacturer",
+        "label": "SHIMA – Spodnie Rush 2.0 resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-rush-20-men-korumali-motosiklet-pantolonu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Shima Rush 2.0 Men Korumalı Motosiklet Pantolonu",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "1000D ve 600D polyester, reflektif ve grip paneller, DWR kaplama",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "NextDry çıkarılabilir iç su geçirmez katman (10.000 mm su sütunu, 5.000 g/m²/24 sa nefes alma)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Mont bağlantı fermuarı (kısa)",
+      "madeIn": null
+    }
+  }
+]

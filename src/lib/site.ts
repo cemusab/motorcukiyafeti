@@ -4,7 +4,7 @@ export const SITE = {
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://motorcukiyafeti.com").replace(/\/$/, ""),
   tagline: "Doğru ekipman, daha güvenli sürüş",
   description:
-    "Motosiklet kaskı, mont, eldiven, bot, koruma ve interkom için kaynaklı teknik bilgiler, karşılaştırmalar ve satın alma rehberleri.",
+    "Motosiklet kıyafeti ve ekipmanı seçmek için kaynaklı rehber: kask, mont, pantolon, eldiven, bot ve koruma modellerini teknik veriyle karşılaştır.",
   locale: "tr_TR",
   /** Şikâyet, öneri, hata bildirimi ve kullanıcı yorumları bu adrese gelir; yorumlar onaydan sonra yayınlanır. */
   email: "motorcukiyafeti@gmail.com",

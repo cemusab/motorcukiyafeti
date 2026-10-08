@@ -1076,7 +1076,7 @@
     "status": "active",
     "successor": null,
     "category": "eldiven",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "buyerInsights": null,
     "colors": [
       "Gray",
@@ -1092,8 +1092,40 @@
     ],
     "sizeChart": [],
     "sizeChartMeasure": null,
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-adventure-gtx-kisa-korumali-kadin-motosiklet-eldiveni-gri",
+        "price": 13700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Gri"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-adventure-gtx-kisa-korumali-kadin-motosiklet-eldiveni-siyah",
+        "price": 13700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 13700,
+      "max": 13700,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
     "unverified": [
       "specs.madeIn",
       "sizeChart"
@@ -1163,6 +1195,18 @@
         "type": "manufacturer",
         "label": "KLIM – Women's Adventure GTX Short Glove ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-adventure-gtx-kisa-korumali-kadin-motosiklet-eldiveni-gri",
+        "type": "retailer",
+        "label": "Motomax – Klim Adventure GTX Kısa Kadın Gri",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-adventure-gtx-kisa-korumali-kadin-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Klim Adventure GTX Kısa Kadın Siyah",
+        "checkedAt": "2026-10-08"
       }
     ],
     "dataConfidence": "high",

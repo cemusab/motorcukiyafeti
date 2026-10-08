@@ -42,10 +42,11 @@ Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur y
 1. Önce bu dosyadaki "Tur kayıtları"na bak, sıradaki turu seç.
 2. Turda **toplam 20–30 ürün** (kategori başına 10 değil). Öncelik sırası:
    a. Türkiye'de satılan ve fiyatı doğrulanabilen modeller
-   b. Yerli markalar (Yaren, Tex Motor/Forte GT/Sway, Scudo, Tech90/Vecton, Riderdenim, YDS, LBC, Metanic)
+   b. Yerli markalar (Yaren, Tex Motor/Forte GT/Sway, Scudo, Tech90/Vecton, Riderdenim, YDS, LBC, Metanic, Venom — site sahibi özellikle istedi)
    c. Kurye ürünleri
    d. Mevsim (Ekim–Şubat: kışlık mont/eldiven, termal, yağmurluk, ısıtmalı)
    e. Search Console'da aranan marka/ürünler (veri gelince)
+   **Kalıcı öncelik (8 Eki 2026, site sahibi):** her turda kadın ürünlerine ağırlık ver; öncelik KORUMA (sertifikalı kadın pantolon/mont AA-AAA, eldiven EN 13594, bot EN 13634, kadın göğüs/sırt koruyucu). Kadın sayısı (8 Eki): mont 25, pantolon 5, eldiven 9, bot 8, koruma 0 → pantolon, koruma, eldiven, bot öncelikli.
 3. Kurallar: `docs/agent-urun-talimati.md`; uydurma veri yok; yeni ürün dosyaları `src/data/products/{kategori}-{tur}.json`.
    **Her turda ayrıca 2–3 blog yazısı** (`src/data/guides/`): turun ürünleriyle bağlantılı rehber + güncel/sezonluk konu. İlk iki cümle soruyu doğrudan cevaplar (GEO), her rakam kaynaklı, özgün Türkçe. Konu havuzu:
    - Reflektörlü yelek ve görünürlük (EN 17353 vs EN ISO 20471), kışın motosiklet sürüşü, buzlu/ıslak zeminde sürüş
@@ -62,7 +63,17 @@ Kullanıcı "devam" dediğinde sıradaki turu yap. Otomatik zamanlama YOK; tur y
 **Tur kayıtları / plan:**
 - [x] Tur 1 (+ blog: reflektörlü yelek ve görünürlük standartları; kışın motosiklet sürüşü): YENİ kategori "Görünürlük / reflektörlü yelek" (koruma altında `gorunurluk-yelegi` alt kategorisi veya ayrı kategori; EN 17353 / EN ISO 20471) 10–15 ürün + kışlık ürünler (kışlık mont, kışlık eldiven, termal, yağmurluk) 10–15 ürün
   - 7 Eki 2026 tamamlandı: 25 ürün (12 görünürlük yeleği koruma-t1: Tex Motor Forte GT ×5, Rev'it, Oxford ×2, Richa ×3, Bering; 13 kışlık: Scudo Alaska, Tex Motor Forte GT mont ×4 ve yağmurluk ×2, Scudo/Knox/Dainese ×2 eldiven, Held ve Odlo termal) + 2 blog (reflektorlu-yelek-ve-gorunurluk-standartlari, kisin-motosiklet-surusu). 16 ürün TR fiyatlı. Atlananlar: Halvarssons (site kapalı), Yaren YRN-6035/6037 (fiyat yok). Açık not: Yaren kışlık ürünleri fiyat çıkınca; EN 17353 model bazında teyit edilecek (Tex Motor).
-- [ ] Tur 2 (+ blog: kurye ekipmanı yıllık maliyet; yerli üretici profili): Kurye ürünleri (yerli kurye mont/pantolon/yağmurluk, kurye çantası, telefon tutucu) + eksik TR fiyatları
-  - 8 Eki 2026 BAŞLADI (yarım kalırsa buradan devam): 4 ekip → kask-t2 (10–12 kask), kurye ürünleri mont/pantolon/yagmurluk/aksesuar-t2 (+ media-*-t2, brands-t3/t4), mevcut ürünlere TR fiyatı (en az 20; kask→mont→eldiven→interkom), 2 blog (kurye-ekipmani-yillik-maliyet, yerli-motosiklet-ekipmani-ureticileri). Devam ederken: `git status` ile diske yazılanları gör, eksik kalan kısmı tamamla, `npm run validate` + `npm run qa` → tek commit → push v2 + main ff.
+- [x] Tur 2 (+ blog: kurye ekipmanı yıllık maliyet; yerli üretici profili): Kurye ürünleri + eksik TR fiyatları
+  - 8 Eki 2026 tamamlandı (kullanıcı istekleriyle genişledi): ~84 yeni ürün + 20 mevcut ürüne TR fiyatı + 4 rehber + SEO.
+    - kask-t2 (10: LS2, Nolan, Scorpion ×4, HJC ×2, MT), kask-t2a Axor (7; marka Hindistan, yerli DEĞİL, TR resmi mağaza Artı Grup)
+    - kurye *-t2 (13: Yaren, Tex Motor, Shima, Givi, SP Connect, Quad Lock)
+    - kadın koruma *-t2k (14: Knox, Riderdenim, Dainese, Leatt, Alpinestars, Shima) — yeni marka leatt
+    - Venom *-t2v (10; resmi site yok → Motoplus kaynaklı, dataConfidence low, görselsiz; istisna docs/agent-urun-talimati.md'de)
+    - TNSPRO mont-t2n (4; resmi sitede yalnız mont var)
+    - BMW Motorrad + premium adventure *-t2b (13; BMW verisi bmwmotorcycles.com, fiyat shop.bmw-motorrad.com.tr)
+    - Rehberler: kurye-ekipmani-yillik-maliyet, yerli-motosiklet-ekipmani-ureticileri, motosiklet-kiyafeti-nasil-secilir, kadin-motosiklet-kiyafeti-rehberi
+    - SEO (ilk 10 rakip analizi): ana sayfa H1 "Motosiklet Kıyafetleri ve Ekipmanları"; kategori/alt kategori/kadın-erkek başlıkları ad tamlamasıyla (src/data/category-seo.ts); kategori SSS + FAQPage (src/data/category-faq.json, 43 soru)
+    - İzinli mağazalara enduromarket.com eklendi.
+  - Açık: BMW GS Rallye Carbon kask (ECE sürümü doğrulanamadı); Dainese/Rev'it/iXS adventure TR fiyatı; Halvarssons; beden tablosu eksik ürünler; bütçe dilimlerine koruma/yağmurluk/aksesuar eklenebilir.
 - [ ] Tur 3 (+ blog: bütçeyle tam ekipman seti; ehliyet sınıfları ve ekipman): Search Console verisine göre aranan markalar/modeller
 - [ ] Sonra: haftada ~2 tur ritmi

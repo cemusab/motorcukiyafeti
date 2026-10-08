@@ -1,0 +1,414 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah",
+      "Bakır/Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 83,
+        "max": 83
+      },
+      {
+        "size": "S",
+        "min": 87,
+        "max": 87
+      },
+      {
+        "size": "M",
+        "min": 92,
+        "max": 92
+      },
+      {
+        "size": "L",
+        "min": 97,
+        "max": 97
+      },
+      {
+        "size": "XL",
+        "min": 102,
+        "max": 102
+      },
+      {
+        "size": "2XL",
+        "min": 107,
+        "max": 107
+      },
+      {
+        "size": "3XL",
+        "min": 112,
+        "max": 112
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Urbane Pro MK3 mont yerine geçer mi?",
+        "a": "Knox ürünü tek başına EN 17092 AA sınıfı giysi olarak onaylı listeliyor; sıcak havada tek başına giyilebilir. Yağmur ve rüzgar koruması olmadığı için serin havada üstüne bir kabuk gerekir."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Knox kadın tablosunda göğüs çevresine bakın (ör. S 87 cm, M 92 cm). Knox bu modelde müşteri geri bildirimine göre bir beden büyük alınmasını öneriyor."
+      }
+    ],
+    "rivals": [
+      "leatt/body-protector-3df-airfit-evo-women",
+      "leatt/chest-protector-4-5-hybrid-women"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "slug": "womens-urbane-pro-mk3",
+    "brand": "knox",
+    "name": "Women's Urbane Pro MK3",
+    "category": "koruma",
+    "subcategories": [
+      "koruyucu-icgiyim",
+      "sirt-koruma"
+    ],
+    "summary": "Knox'un kadın kalıplı korumalı gömleği (armoured shirt); tek başına EN 17092 AA sınıfı, sırt, omuz ve dirsekte Micro-Lock Compact Level 2 koruyucu, göğüs koruyucu cebi.",
+    "description": [
+      "Women's Urbane Pro MK3, Knox'un vücuda oturan, file ağırlıklı korumalı gömleği. Sıcak havada tek başına giyilebiliyor; Knox ürünü tek başına EN 17092 AA sınıfı giysi olarak onaylı listeliyor. Serin veya yağmurlu havada ise üstüne bir kabuk mont giyilerek koruma katmanı olarak kullanılıyor; vücuda yakın oturduğu için koruyucular düşmede yerinden kaymıyor.",
+      "Sırtta EN 1621-2 Level 2, omuz ve dirseklerde EN 1621-2 Level 2 olarak listelenen ince ve esnek Micro-Lock Compact koruyucular standart. Önde Micro-Lock göğüs koruyucusu için cırtlı bağlantı var; koruyucu ayrıca satılıyor. Gövde yüksek mukavemetli streç naylon ve arrownet file; YKK fermuarlar, iki dış fermuarlı cep, dört iç cep, pantolona bağlanan emniyet kemer halkası ve başparmak halkaları var. Knox bu modelde bir beden büyük alınmasını öneriyor."
+    ],
+    "forWho": [
+      "Yazın mont yerine korumalı gömlek giymek isteyen kadın sürücüler",
+      "Kendi kabuk montunun altına Level 2 koruma katmanı ekleyenler",
+      "Sıcakta kurye olarak çalışan kadın sürücüler"
+    ],
+    "notFor": [
+      "Yağmur ve soğukta tek başına koruma bekleyenler",
+      "Bol kesim sevenler: vücuda oturacak şekilde tasarlanmış"
+    ],
+    "pros": [
+      "Tek başına EN 17092 AA sınıfı",
+      "Sırt, omuz, dirsek Level 2 standart",
+      "File gövde, sıcak havada serin",
+      "Göğüs koruyucu bağlantısı, pantolon bağlantı halkası"
+    ],
+    "cons": [
+      "Göğüs koruyucusu ayrıca alınıyor",
+      "Su ve rüzgar koruması yok",
+      "Dar kalıp; Knox bir beden büyük öneriyor",
+      "Türkiye'de kadın sürümü için doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Yazın tek başına giyilebilir; günlük kullanıma uygun.",
+      "uzunYol": "Kabuk montun altında koruma katmanı olarak uygun.",
+      "yaz": "En güçlü olduğu alan; file gövde.",
+      "kis": "Tek başına uygun değil; kabuk ve termal katman altında kullanılır.",
+      "yagmur": "Su geçirmez değil; üstüne yağmurluk gerekir.",
+      "kurye": "Sıcak havada şehir içi teslimat için uygun; AA sınıfı ve Level 2 koruyucular güçlü."
+    },
+    "verdict": "Women's Urbane Pro MK3, yazın mont giymek istemeyen ya da kendi kabuğunun altına sağlam bir koruma katmanı arayan kadın sürücüler için AA sınıfı ve Level 2 koruyucularıyla güçlü bir seçenek. Göğüs koruyucusunun ayrı satılması ve hava koşullarına karşı korumasızlık sınırları.",
+    "manufacturerUrl": "https://www.planet-knox.com/product/womens-urbane-pro-mk3/",
+    "sources": [
+      {
+        "url": "https://www.planet-knox.com/product/womens-urbane-pro-mk3/",
+        "type": "manufacturer",
+        "label": "Knox – Women's Urbane Pro MK3 Armoured Shirt ürün sayfası (beden tablosu dahil)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Yüksek mukavemetli streç naylon, arrownet file, streç file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File gövde",
+      "closure": "Ön YKK fermuar, başparmak halkaları, pantolon bağlantı kemer halkası",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XXS/XS",
+      "S/M",
+      "L"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Mont altına giyilebilir mi?",
+        "a": "Evet, bol kesimli adventure veya enduro montların altına giyilebilir. Sert ön kabuk dar kesimli yol montlarının altında hacim yapabilir."
+      },
+      {
+        "q": "Hangi standartlara sahip?",
+        "a": "Leatt göğüs bölümünü EN 1621-3 Level 2, sırt bölümünü EN 1621-2 Level 2 olarak listeliyor."
+      }
+    ],
+    "rivals": [
+      "leatt/body-protector-3df-airfit-evo-women",
+      "knox/womens-urbane-pro-mk3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "slug": "chest-protector-4-5-hybrid-women",
+    "brand": "leatt",
+    "name": "Chest Protector 4.5 Hybrid Women",
+    "category": "koruma",
+    "subcategories": [
+      "gogus-koruma",
+      "sirt-koruma"
+    ],
+    "summary": "Leatt'in kadın göğsüne göre şekillendirilmiş göğüs-sırt koruyucusu; önde sert kabuk FlexMesh Pro EN 1621-3 Level 2, arkada yumuşak 3DF EN 1621-2 Level 2.",
+    "description": [
+      "Chest Protector 4.5 Hybrid Women, Leatt'in motokros ve enduro için geliştirdiği, mont altına ya da forma üstüne giyilen göğüs ve sırt koruyucusu. Önde taş ve çamur sıçramasına karşı sert kabuk ve havalandırmalı FlexMesh Pro darbe koruması, arkada vücuda şekil alan yumuşak 3DF AirFit köpük var. Leatt koruyucuyu göğüste EN 1621-3 Level 2, sırtta EN 1621-2 Level 2 olarak sertifikalı listeliyor.",
+      "Koruyucu kadın göğsü ve gövdesine göre 3D ön kavisli tasarlanmış; TPU esnek eklemler hareketle birlikte bükülmeyi sağlıyor, elastik kayış koruyucuyu yerinde tutuyor. BraceOn sistemiyle Leatt boyunluk (neck brace) uyumu var. XXS/XS, S/M ve L olmak üzere üç beden aralığında sunuluyor. Yol motosikletinde göğüs koruyucusu olmayan bir montun altında ek katman olarak da kullanılabilir, ancak sert ön kabuk dar montların altında hacim yapabilir."
+    ],
+    "forWho": [
+      "Enduro, motokros ve adventure sürüşü yapan kadın sürücüler",
+      "Göğüs ve sırtta Level 2 koruma isteyenler",
+      "Leatt boyunluk kullananlar"
+    ],
+    "notFor": [
+      "Dar kesimli yol montunun altına ince koruyucu arayanlar: sert ön kabuk hacim yapar",
+      "Kurye kullanımı: arazi odaklı ve mont altında hacimli"
+    ],
+    "pros": [
+      "Göğüste EN 1621-3, sırtta EN 1621-2, ikisi de Level 2",
+      "Kadın gövdesine özel 3D kalıp",
+      "Önde havalandırmalı sert kabuk, arkada yumuşak köpük",
+      "Boyunluk uyumu (BraceOn)"
+    ],
+    "cons": [
+      "Omuz ve dirsek koruması yok",
+      "Sert ön kabuk yol montu altında hacim yapar",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sport": "Enduro ve motokros için tasarlanmış.",
+      "uzunYol": "Adventure turda mont altında ek koruma olarak kullanılabilir.",
+      "yaz": "Havalandırmalı yapı sıcakta yardımcı olur.",
+      "sehir": "Şehir içi yol sürüşü için fazla hacimli.",
+      "kurye": "Uygun değil; arazi odaklı ve mont altında hacimli."
+    },
+    "verdict": "Chest Protector 4.5 Hybrid Women, arazide sürüş yapan kadınlar için göğüs ve sırtta Level 2 koruma sunan, kadın gövdesine göre kalıplanmış az sayıdaki koruyucudan. Yol kullanımında sert ön kabuğun hacmi ve omuz-dirsek korumasının olmaması sınırları.",
+    "manufacturerUrl": "https://int.leatt.com/products/chest-protector-4-5-hybrid-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/chest-protector-4-5-hybrid-women",
+        "type": "manufacturer",
+        "label": "Leatt – Chest Protector 4.5 Hybrid Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Önde sert kabuk ve FlexMesh Pro, arkada 3DF AirFit köpük, TPU esnek eklemler",
+      "materialClass": null,
+      "ceStandard": "EN 1621-3, EN 1621-2",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı FlexMesh Pro ve 3DF AirFit",
+      "closure": "Elastik kayış",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XXS/XS",
+      "S/M",
+      "L"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Bu zırh mont yerine geçer mi?",
+        "a": "Hayır. EN 1621 darbe koruyucu sertifikaları var ama EN 17092 aşınma sınıfı yok; üstüne motosiklet montu veya enduro forması-montu giyilmeli."
+      },
+      {
+        "q": "Hangi bölgeler korunuyor?",
+        "a": "Göğüs (EN 1621-3 Level 2), sırt (EN 1621-2 Level 2), omuz ve dirsek (EN 1621-1 Level 1); yanlarda ek dolgu var."
+      }
+    ],
+    "rivals": [
+      "leatt/chest-protector-4-5-hybrid-women",
+      "knox/womens-urbane-pro-mk3"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "slug": "body-protector-3df-airfit-evo-women",
+    "brand": "leatt",
+    "name": "Body Protector 3DF AirFit Evo Women",
+    "category": "koruma",
+    "subcategories": [
+      "koruyucu-icgiyim",
+      "gogus-koruma",
+      "sirt-koruma"
+    ],
+    "summary": "Leatt'in kadın kalıplı yumuşak gövde zırhı; göğüste EN 1621-3 Level 2, sırtta EN 1621-2 Level 2, omuz ve dirsekte EN 1621-1 Level 1 3DF AirFit köpük koruyucu.",
+    "description": [
+      "Body Protector 3DF AirFit Evo Women, Leatt'in tamamı yumuşak köpükten oluşan, göğüs, sırt, omuz ve dirseği birlikte koruyan kadın gövde zırhı. 3DF AirFit, çok darbeye dayanıklı, enerji emen ve havalandırmalı bir köpük. Leatt göğsü EN 1621-3 Level 2, sırtı EN 1621-2 Level 2, omuz ve dirseği EN 1621-1 Level 1 olarak sertifikalı listeliyor.",
+      "Kadın gövdesine göre 3D ön kavisli tasarım, genişletilmiş göğüs darbe alanı ve yanlarda dolgulu koruma var; elastik göğüs kayışı koruyucuları yerinde tutuyor. BraceOn sistemiyle Leatt boyunluk uyumlu. Yumuşak yapısı sayesinde sert kabuklu koruyuculara göre daha rahat ve mont altında daha az hacim yapıyor; bu yüzden enduro yanında adventure turda mont altı koruma katmanı olarak da düşünülebilir."
+    ],
+    "forWho": [
+      "Enduro ve adventure sürüşünde gövdeyi tek parçada korumak isteyen kadın sürücüler",
+      "Göğüs ve sırtta Level 2, sert kabuk yerine yumuşak koruma isteyenler",
+      "Mont altına koruma katmanı arayanlar"
+    ],
+    "notFor": [
+      "Omuz ve dirsekte Level 2 isteyenler (bu bölgeler Level 1)",
+      "Sıcak havada tek başına giyilecek AA sınıfı giysi arayanlar: bu bir giysi değil, koruyucu zırh"
+    ],
+    "pros": [
+      "Göğüs ve sırt Level 2",
+      "Omuz ve dirsek dahil tek parça koruma",
+      "Yumuşak, havalandırmalı 3DF AirFit köpük",
+      "Kadın gövdesine özel kalıp, boyunluk uyumu"
+    ],
+    "cons": [
+      "Omuz ve dirsek Level 1",
+      "EN 17092 aşınma sınıfı yok; tek başına motosiklet giysisi yerine geçmez",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sport": "Enduro ve motokros için tasarlanmış.",
+      "uzunYol": "Adventure turda bol kesimli montun altında koruma katmanı olarak kullanılabilir.",
+      "yaz": "Havalandırmalı köpük sıcakta yardımcı olur ama yine de ek katman.",
+      "sehir": "Mont altında kullanılabilir; günlük için fazla.",
+      "kurye": "Uzun vardiyada mont altında ek katman sıcak ve hacimli gelebilir; kurye için öncelikli değil."
+    },
+    "verdict": "Body Protector 3DF AirFit Evo Women, kadın sürücülere göğüs ve sırtta Level 2, omuz ve dirsekte Level 1 korumayı tek parça yumuşak zırhta sunuyor. Aşınma sınıfı olmadığı için mont yerine geçmiyor; omuz-dirsek seviyesi ve Türkiye fiyatının bulunmaması eksi.",
+    "manufacturerUrl": "https://int.leatt.com/products/body-protector-3df-airfit-evo-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/body-protector-3df-airfit-evo-women",
+        "type": "manufacturer",
+        "label": "Leatt – Body Protector 3DF AirFit Evo Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "3DF AirFit çok darbeye dayanıklı köpük, file gövde",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1621-3, EN 1621-2, EN 1621-1",
+      "ceClass": "Level 2 (göğüs, sırt) / Level 1 (omuz, dirsek)",
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı 3DF AirFit köpük",
+      "closure": "Elastik göğüs kayışı",
+      "madeIn": null
+    }
+  }
+]

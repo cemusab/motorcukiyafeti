@@ -1,0 +1,44 @@
+[
+  {
+    "product": "tex-motor/tex-1134",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/Y2A2768-scaled.jpg",
+        "alt": "Tex 1134 cepli PVC yağmurluk takım önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-1134-yagmurluk-cepli-takim/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/Y2A2773-scaled.jpg",
+        "alt": "Tex 1134 yağmurluk takım reflektif detay",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-1134-yagmurluk-cepli-takim/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "yaren-tekstil/yrn-6100-motokurye",
+    "images": [
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a1393238a1393_23.03.2022_303a348.jpg",
+        "alt": "Yaren YRN-6100 motokurye yağmurluk önden görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6100-motokurye-yagmurluk--yrn-6100-motokurye-yagmurlugu"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a1394238a1394_23.03.2022_ef58c70.jpg",
+        "alt": "Yaren YRN-6100 motokurye yağmurluk yandan görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6100-motokurye-yagmurluk--yrn-6100-motokurye-yagmurlugu"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a1396238a1396_23.03.2022_e7e2c68.jpg",
+        "alt": "Yaren YRN-6100 motokurye yağmurluk arkadan reflektif baskı",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6100-motokurye-yagmurluk--yrn-6100-motokurye-yagmurlugu"
+      }
+    ],
+    "videos": []
+  }
+]

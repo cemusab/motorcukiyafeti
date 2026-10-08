@@ -1,0 +1,215 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Dikişli mi?",
+        "a": "Hayır. Üretici parçaların dikişsiz frekans baskı teknolojisiyle birleştirildiğini belirtiyor."
+      },
+      {
+        "q": "Nefes alır mı?",
+        "a": "PVC kumaş nefes almaz; uzun kullanımda içeride terleme olur."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-1134-yagmurluk-cepli-takim/",
+        "price": 1680,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 1680,
+      "max": 1680,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "unverified": [
+      "sizes",
+      "colors",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "yagmurluk",
+    "slug": "tex-1134",
+    "brand": "tex-motor",
+    "name": "Tex 1134 Cepli Yağmurluk Takım",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "0,40 mm PVC kumaştan, dikişsiz frekans baskıyla üretilmiş, reflektif hatlı, bilek-bel-boyunda lastikli, alt-üst takım halinde ve uygun fiyatlı yerli kurye yağmurluğu.",
+    "description": [
+      "Tex 1134, Forte GT yağmurluk ailesinin cepli alt-üst takım modeli. Kumaş 0,40 mm kalınlığında PVC; parçalar dikiş yerine frekans baskıyla birleştirildiği için iğne deliğinden su sızma riski azalıyor. Bilek, bel ve boyunda esneyen lastikli bölümler rüzgar ve suyun içeri girmesini sınırlıyor; belde çekme ipi var.",
+      "Üretici modeli kurye firmalarından bireysel sürücülere geniş bir kitle için öneriyor ve reflektif hatlarla uzaktan görünürlük vurguluyor. PVC yapı nefes almadığı için uzun sürüşte içeride terleme olur; bu, PVC yağmurlukların bilinen sınırlaması. Ürün sayfasında beden ve renk bilgisi yok, sitede online satış yapılmıyor."
+    ],
+    "forWho": [
+      "Mont ve pantolonunun üstüne ucuz ve sağlam bir yağmur katmanı isteyen kuryeler",
+      "Ekibine toplu yağmurluk almak isteyen işletmeler",
+      "Yağmuru nadiren yaşayıp çantada yedek yağmurluk taşımak isteyenler"
+    ],
+    "notFor": [
+      "Uzun yolda saatlerce yağmurlukla sürenler; PVC nefes almaz, terletir",
+      "Hafif ve küçük katlanan yağmurluk arayanlar"
+    ],
+    "pros": [
+      "Dikişsiz frekans baskı ile su sızma noktası azaltılmış",
+      "Reflektif hatlar",
+      "Bilek, bel ve boyunda lastik, belde çekme ipi",
+      "Uygun liste fiyatı"
+    ],
+    "cons": [
+      "PVC nefes almaz, içte terleme olur",
+      "Beden ve renk bilgisi ürün sayfasında yok",
+      "Online satış yok; bayiden alınmalı"
+    ],
+    "usage": {
+      "yagmur": "Asıl kullanım alanı; PVC ve dikişsiz yapı suyu dışarıda tutar.",
+      "sehir": "Şehir içi duraklı kullanımda mont üstüne hızla giyilir.",
+      "kis": "Rüzgarı keser, ısı yalıtımı yoktur; altına kışlık mont gerekir.",
+      "yaz": "Yaz yağmurunda kısa süreli kullanılabilir; nefes almadığı için uzun kullanımda terletir.",
+      "kurye": "Üretici kurye firmalarını hedef kitle olarak gösteriyor; ucuz, sağlam ve reflektörlü bir ek katman."
+    },
+    "verdict": "Tex 1134, kuryenin montu ve pantolonu üstüne geçireceği ucuz, dikişsiz ve reflektörlü bir PVC yağmurluk. Su tutma konusunda iddialı; nefes almadığı için uzun sürüşlerde terletmesi ve beden bilgisinin olmaması eksi yanı.",
+    "rivals": [
+      "tex-motor/forte-gt-2001160",
+      "yaren-tekstil/yrn-2789",
+      "scudo/peru"
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-1134-yagmurluk-cepli-takim/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-1134-yagmurluk-cepli-takim/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Tex 1134 Yağmurluk ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "0,40 mm PVC kumaş, dikişsiz frekans baskı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bilek, bel ve boyunda lastik; belde çekme ipi",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "YRN-6100 nereden alınır?",
+        "a": "Ürün Yaren Tekstil'in resmi sitesinde fiyat yerine teklif formuyla listeleniyor; fiyat ve stok için firmayla iletişime geçmek gerekiyor."
+      },
+      {
+        "q": "Dikişli mi?",
+        "a": "Hayır. Üretici parçaların dikişsiz yapıştırma yöntemiyle birleştirildiğini belirtiyor."
+      }
+    ],
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "sizes",
+      "colors",
+      "priceRange",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "yagmurluk",
+    "slug": "yrn-6100-motokurye",
+    "brand": "yaren-tekstil",
+    "name": "YRN-6100 Motokurye Yağmurluk",
+    "subcategories": [
+      "yagmur-takimi"
+    ],
+    "summary": "Poliüretan kaplamalı kumaştan, dikişsiz yapıştırma ile üretilen, EN 20471 reflektif baskılı ve ter atan yapıda tanımlanan mont-pantolon takım halinde yerli kurye yağmurluğu.",
+    "description": [
+      "YRN-6100, Yaren Tekstil'in motokuryeler için ürettiği mont-pantolon yağmurluk takımı. Kumaş poliüretan kaplamalı; parçalar dikiş yerine yapıştırılarak birleştirildiği için üretici ürünü %100 su geçirmez, mukavemetli ve ter atan olarak tanımlıyor. Poliüretan kaplama, PVC'ye göre genellikle daha esnek ve hafif bir his verir.",
+      "Yüksek görünürlük için DM marka, TS EN 20471 standardında reflektif baskı kullanılıyor. Ürün sayfasında fiyat yerine teklif formu var; yani bireysel alımda fiyat ve stok için firmayla iletişime geçmek gerekiyor. Beden ve nefes alma değeri belirtilmemiş."
+    ],
+    "forWho": [
+      "Ekibine logolu kurye yağmurluğu yaptırmak isteyen işletmeler",
+      "Dikişsiz ve reflektörlü takım yağmurluk arayan kuryeler"
+    ],
+    "notFor": [
+      "Fiyatı görüp hemen sipariş vermek isteyenler; ürün teklif formuyla satılıyor",
+      "Nefes alma değeri belirtilmiş teknik yağmurluk arayanlar"
+    ],
+    "pros": [
+      "Dikişsiz yapıştırma ile su sızma noktası azaltılmış",
+      "EN 20471 reflektif baskı",
+      "Mont ve pantolon takım halinde",
+      "Poliüretan kaplama PVC'ye göre daha esnek"
+    ],
+    "cons": [
+      "Fiyat açık değil, teklif ile satılıyor",
+      "Beden ve nefes alma değeri belirtilmemiş",
+      "'Ter atar' ifadesi sayısal değerle desteklenmiyor"
+    ],
+    "usage": {
+      "yagmur": "Asıl kullanım alanı; kaplamalı kumaş ve dikişsiz yapı suyu dışarıda tutar.",
+      "sehir": "Şehir içi teslimatta mont üstüne giyilir.",
+      "kis": "Rüzgarı keser; ısı yalıtımı yoktur.",
+      "kurye": "Doğrudan motokurye için üretilmiş; reflektif baskı ve takım yapısı ekip kullanımına uygun."
+    },
+    "verdict": "YRN-6100, dikişsiz yapısı ve EN 20471 reflektif baskısıyla kurye ekipleri için tasarlanmış bir yağmurluk takımı. Fiyatın ve beden bilgisinin açık olmaması bireysel alıcı için dezavantaj; kurumsal alımlarda daha anlamlı.",
+    "rivals": [
+      "yaren-tekstil/yrn-2789",
+      "tex-motor/tex-1134",
+      "scudo/peru"
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-6100-motokurye-yagmurluk--yrn-6100-motokurye-yagmurlugu",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-6100-motokurye-yagmurluk--yrn-6100-motokurye-yagmurlugu",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-6100 Motokurye Yağmurluk ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Poliüretan kaplamalı kumaş, dikişsiz yapıştırma",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  }
+]

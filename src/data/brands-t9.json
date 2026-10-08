@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "bmw-motorrad",
+    "name": "BMW Motorrad",
+    "country": "Almanya",
+    "founded": 1923,
+    "website": "https://www.bmw-motorrad.com.tr/",
+    "about": [
+      "BMW Motorrad, BMW Group'un motosiklet markası. BMW Motorrad Türkiye'nin 100. yıl sayfasına göre ilk BMW motosikleti R 32, Baş Tasarımcı Max Friz tarafından tasarlanıp 28 Eylül 1923'te Almanya Otomobil Fuarı'nda sergilendi. Marka bugün GS adventure ailesi, tur, spor ve roadster modelleri üretiyor.",
+      "Sürücü ekipmanı tarafında BMW Motorrad kendi adıyla mont, pantolon, eldiven, bot ve kask satıyor. Adventure ve arazi için GS Rallye serisi öne çıkıyor; bu seride su geçirmezlik çoğunlukla ana giysinin üzerine giyilen ayrı GORE-TEX dış katmanla sağlanıyor. Türkiye'de ürünler Borusan Otomotiv'in BMW Motorrad Türkiye online mağazası ve yetkili satıcılar üzerinden TL fiyatıyla satılıyor."
+    ],
+    "strengths": [
+      "GS motosikletlerle uyumlu adventure ve arazi ekipmanı",
+      "AA sınıfı GS Rallye mont ve pantolon takımı",
+      "Türkiye'de resmi online mağaza ve yetkili satıcı ağı"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "bot"
+    ],
+    "families": [
+      {
+        "name": "GS Rallye",
+        "note": "Arazi ağırlıklı adventure mont, pantolon ve eldiven serisi; GORE-TEX versiyonlarında ayrı dış katman.",
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edd3-gs-rallye-gore-tex-jacket.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "BMW Motorrad GS Rallye GORE-TEX Mont",
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edd3-gs-rallye-gore-tex-jacket.html",
+        "reason": "EN 17092 AA sınıfı, Level 2 omuz-dirsek koruyuculu, ayrı GORE-TEX dış ceketli arazi montu."
+      }
+    ],
+    "alternatives": [
+      "klim",
+      "revit",
+      "leatt"
+    ],
+    "history": [
+      {
+        "year": 1923,
+        "event": "Max Friz'in tasarladığı ilk BMW motosikleti R 32, 28 Eylül'de Almanya Otomobil Fuarı'nda sergilendi."
+      },
+      {
+        "year": 1937,
+        "event": "Ernst Jakob Henne, panellerle kaplı BMW 500 Kompressor ile 279,503 km/sa hızla kara hız rekoru kırdı."
+      },
+      {
+        "year": 1939,
+        "event": "Georg \"Schorsch\" Meier bir BMW Kompressor ile Man Adası Senior TT'yi kazanan İngiliz olmayan ilk sürücü oldu."
+      },
+      {
+        "year": 2023,
+        "event": "BMW Motorrad 100. yılını kutladı."
+      }
+    ],
+    "strongestLine": "GS adventure motosikletleri ve GS Rallye arazi ekipmanı",
+    "sources": [
+      {
+        "url": "https://www.bmw-motorrad.com.tr/tr/experience/100years.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad Türkiye – BMW Motorrad'ın 100 yılı",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.bmw-motorrad.com.tr/tr/wear/new-products/riders-gear.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad Türkiye – Sürüş Ekipmanı sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye online mağazası (Borusan Otomotiv)",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

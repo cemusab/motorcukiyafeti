@@ -1,0 +1,181 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Iron (gri)",
+      "Stealth (siyah)"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Göğüs koruyucusu dahil mi?",
+        "a": "Hayır. Montta EN 1621-3 Level 2 göğüs koruyucusu için yer var ama koruyucu ayrıca satılıyor. Sırt, omuz ve dirsek Level 2 koruyucular standart."
+      },
+      {
+        "q": "Montu pantolona bağlayabilir miyim?",
+        "a": "Evet. Leatt montta pantolonla birleşme için uzun bir bağlantı fermuarı olduğunu belirtiyor; ADV MultiTour 5.5 Women pantolonla takım olarak tasarlanmış."
+      }
+    ],
+    "rivals": [
+      "revit/sand-5-h2o-ladies",
+      "ixs/tourster-stx-1-0-damen",
+      "alpinestars/stella-bogota-pro-drystar"
+    ],
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-siyah-kadin-motosiklet-montu-17393",
+        "price": 36659.44,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah (Stealth)"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-gri-kadin-motosiklet-montu-17394",
+        "price": 31160.43,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri (Iron)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 31160.43,
+      "max": 36659.44,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "adv-multitour-5-5-women",
+    "brand": "leatt",
+    "name": "ADV MultiTour 5.5 Women Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Leatt'in üç katmanlı kadın adventure montu; EN 17092-3:2020 AA sınıfı, sırt, omuz ve dirsekte Level 2 koruyucu standart, çıkarılabilir su geçirmez ve termal astar.",
+    "description": [
+      "ADV MultiTour 5.5 Women, Leatt'in her mevsim adventure turu için tasarladığı kadın kalıplı mont. Üç katmandan oluşuyor: RipStop dış kabuk, fermuarla takılan ve tek başına da giyilebilen HydraDri EVO su geçirmez iç ceket ve çıkarılabilir termal astar. Leatt bu katmanların beş farklı kombinasyonla kullanılabildiğini belirtiyor; montu EN 17092-3:2020 AA sınıfında test edilmiş ve sertifikalı olarak listeliyor.",
+      "Koruma paketi kadın montlarda sık görülmeyecek kadar dolu: sırtta EN 1621-2 Level 2, omuz ve dirsekte EN 1621-1 Level 2 koruyucu standart geliyor; EN 1621-3 Level 2 göğüs koruyucusu için yer var ama ayrıca alınıyor. Göğüs ve sırtta geniş havalandırma panelleri, kollarda havalandırma fermuarları, su geçirmez ön ve arka cepler, 1,5 litrelik su torbası cebi ve boyunluk (neck brace) uyumu diğer öne çıkan özellikler. 5 yıl garantili."
+    ],
+    "forWho": [
+      "Adventure motosikletle her mevsim tur yapan kadın sürücüler",
+      "Sırt, omuz ve dirsekte Level 2 koruma isteyenler",
+      "Tek montla yaz, yağmur ve serin havayı karşılamak isteyenler"
+    ],
+    "notFor": [
+      "Şehirde hafif ve kısa mont arayanlar",
+      "Kurye kullanımı: üç katmanlı yapı sık in-bin ve sıcak şehir trafiğinde hantal"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Sırt, omuz, dirsek Level 2 standart",
+      "Çıkarılabilir su geçirmez ve termal astar, 5 farklı kullanım",
+      "Su torbası cebi, bol su geçirmez cep, 5 yıl garanti"
+    ],
+    "cons": [
+      "Göğüs koruyucusu ayrıca alınıyor",
+      "Su geçirmez katman içte; dış kabuk yağmurda ıslanıp ağırlaşır",
+      "Resmi kadın beden tablosu sayfada metin olarak doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli; şehir için fazla mont.",
+      "uzunYol": "En güçlü olduğu alan; katmanlar ve cepler uzun tur için.",
+      "yaz": "Astarlar çıkarılıp göğüs-sırt panelleri ve kol fermuarları açıldığında kullanılabilir.",
+      "kis": "Termal astar takılıyken serin havada yeterli; çok soğukta ek katman gerekir.",
+      "yagmur": "HydraDri EVO iç ceket takılıyken su geçirmez.",
+      "kurye": "Uzun vardiyada sık in-bin için hantal; önerilmez."
+    },
+    "verdict": "ADV MultiTour 5.5 Women, adventure turu yapan kadın sürücüler için AA sınıfı ve Level 2 sırt-omuz-dirsek korumasını bir arada sunan nadir montlardan. İçten membranlı yapı ve ayrı satılan göğüs koruyucusu dikkat edilecek noktalar. Enduromarket'te TL fiyatıyla satışta.",
+    "manufacturerUrl": "https://int.leatt.com/products/jacket-adv-multitour-5-5-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/jacket-adv-multitour-5-5-women",
+        "type": "manufacturer",
+        "label": "Leatt – Jacket ADV MultiTour 5.5 Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-siyah-kadin-motosiklet-montu-17393",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV 5.5 Multi-Tour siyah kadın mont",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-gri-kadin-motosiklet-montu-17394",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV 5.5 Multi-Tour gri kadın mont",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Leatt RipStop dış kabuk, kritik bölgelerde takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 2,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri EVO (çıkarılabilir iç ceket)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs ve sırtta geniş havalandırma panelleri, kollarda fermuarlı havalandırma",
+      "closure": "YKK ana fermuar, çıtçıtlı bel ayarı, cırtlı yaka ve manşet, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  }
+]

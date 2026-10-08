@@ -6,6 +6,7 @@ import { ProductListing } from "@/components/ProductListing";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice, PageHead } from "@/components/ui";
 import { allSubcategories, getSubcategory } from "@/data/categories";
+import { subSeoName } from "@/data/category-seo";
 import { displayName, getGuides, productPath, productsIn } from "@/lib/data";
 import { clip, itemListLd, meta } from "@/lib/seo";
 
@@ -17,7 +18,7 @@ export async function generateMetadata({ params }: PageProps<"/[kategori]/[alt]"
   const s = getSubcategory(kategori, alt)!;
   const n = productsIn(kategori, alt).length;
   return meta({
-    title: `${s.sub.name} Modelleri ve Seçim Rehberi`,
+    title: ((t) => (t.length <= 47 ? t : `${subSeoName(kategori, alt, s.sub.name)} Modelleri`))(`${subSeoName(kategori, alt, s.sub.name)} Modelleri ve Seçim Rehberi`),
     description: clip(`${s.sub.intro} ${n ? `${n} model teknik özellikleriyle.` : "Seçim kriterleri ve rehberler."}`),
     path: `/${kategori}/${alt}`,
     noindex: n === 0,
@@ -37,7 +38,7 @@ export default async function SubcategoryPage({ params }: PageProps<"/[kategori]
 
   return (
     <>
-      <PageHead title={sub.name} intro={sub.intro}>
+      <PageHead title={subSeoName(c.slug, sub.slug, sub.name)} intro={sub.intro}>
         <Breadcrumbs items={[{ name: c.name, href: `/${c.slug}` }, { name: sub.name, href: `/${c.slug}/${sub.slug}` }]} />
       </PageHead>
       <JsonLd data={items.length ? itemListLd(sub.name, items.map((p) => ({ name: displayName(p), href: productPath(p) }))) : null} />

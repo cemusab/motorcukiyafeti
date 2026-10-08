@@ -1,0 +1,107 @@
+[
+  {
+    "product": "yaren-tekstil/yrn-6027-yazlik-kurye",
+    "images": [
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a0706238a0706_22.03.2022_a304bd1.jpg",
+        "alt": "Yaren YRN-6027 yazlık moto kurye mont önden görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a0709238a0709_22.03.2022_77982c0.jpg",
+        "alt": "Yaren YRN-6027 yazlık kurye mont yandan görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/238a0712238a0712_22.03.2022_ec7752f.jpg",
+        "alt": "Yaren YRN-6027 yazlık kurye mont arkadan görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "yaren-tekstil/yrn-6081-kislik-kurye-takim",
+    "images": [
+      {
+        "url": "https://www.yarentekstil.com/img/products/watermarkedimg17358819406006655863-af5c888.webp",
+        "alt": "Yaren YRN-6081 kışlık motokurye mont pantolon takım",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/2-b4e8b49.webp",
+        "alt": "Yaren YRN-6081 kışlık kurye takımı detay görünüm",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti"
+      },
+      {
+        "url": "https://www.yarentekstil.com/img/products/3kopya-4827507.webp",
+        "alt": "Yaren YRN-6081 kışlık kurye takımı farklı açı",
+        "credit": "Yaren Tekstil",
+        "sourcePage": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tex-motor/forte-gt-metropolis",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/1-METROPOLIS-1065.jpg",
+        "alt": "Forte GT Metropolis uzun kesim mont önden görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001065-metropolis/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/2-METROPOLIS-1065.jpg",
+        "alt": "Forte GT Metropolis mont arkadan görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001065-metropolis/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/3-METROPOLIS-1065.jpg",
+        "alt": "Forte GT Metropolis mont detay görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/forte-gt-2001065-metropolis/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "shima/rush-2-0-men",
+    "images": [
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RUSH-2.0_JKT_MEN_FLUO_FRONT.avif",
+        "alt": "Shima Rush 2.0 Men fluo mont önden görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-jkt-fluo/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RUSH-2.0_JKT_MEN_FLUO_BACK.avif",
+        "alt": "Shima Rush 2.0 Men fluo mont arkadan görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-jkt-fluo/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/01_SHIMA_RUSH-2-0_JKT_MEN_FLUO-1.avif",
+        "alt": "Shima Rush 2.0 Men fluo mont kullanım görseli",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rush-2-0-men-jkt-fluo/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Flq2pIX-o0Y",
+        "title": "SHIMA Rush 2.0 - Motorcycle Jacket",
+        "channel": "SHIMA_MOTORSTYLE",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

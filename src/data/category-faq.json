@@ -1,0 +1,194 @@
+{
+  "kask": [
+    {
+      "q": "Kapalı, çene açılır ve açık kask arasındaki fark nedir?",
+      "a": "En yüksek korumayı kapalı (full-face) kask verir; çoğu sürücü için doğru başlangıç budur. Çene açılır (modüler) kask sık durup konuşan, gözlük takan ya da uzun yol yapanlar için pratiktir ama genellikle daha ağırdır. Açık (jet) kask hafif ve serindir fakat çeneyi korumaz; düşük hızlı şehir içi scooter kullanımı dışında önerilmez."
+    },
+    {
+      "q": "ECE 22.06 ile ECE 22.05 arasındaki fark nedir?",
+      "a": "ECE 22.06 onaylı bir motor kaskı, 22.05'e göre daha fazla noktadan, üç farklı hızda ve dönme etkisi yaratan açılı darbeyle test edilir. Vizöre parçacık testi, çene açılır kasklarda açık ve kapalı konumda test ve aksesuar kuralları da 22.06 ile geldi. Elindeki iyi durumdaki 22.05 kaskı takmak yasak değildir, ama yeni alacaksan 22.06 etiketi ara."
+    },
+    {
+      "q": "Kask bedeni nasıl ölçülür?",
+      "a": "Esnemeyen bir mezurayla kafa çevreni kaşlarının yaklaşık 2 cm üstünden, kulakların hemen üstünden ve kafanın arkasındaki en çıkıntılı noktadan geçirerek ölç. Çıkan santimetreyi o markanın ve modelin beden tablosuyla eşleştir; aynı ölçü farklı markalarda farklı bedene denk gelebilir. Ardından kaskı 10-15 dakika takılı tutarak baskı noktası olup olmadığını kontrol et."
+    },
+    {
+      "q": "Motosiklet kaskı kaç yılda değiştirilir?",
+      "a": "Normal kullanım ve doğru saklama koşullarında yaklaşık 5 yılda bir; SHOEI bu süreyi açıkça öneriyor, diğer üreticiler çoğunlukla 5-7 yıl belirtiyor. Kaza geçirmiş ya da kafa içindeyken sert darbe almış kask yaşına bakılmadan hemen değiştirilir. Kabukta çatlak, iç köpükte ezilme veya kaskın bol gelmeye başlaması da değişim işaretidir."
+    },
+    {
+      "q": "Kaskıma interkom takılabilir mi?",
+      "a": "Çoğu kaska evrensel kelepçeli ya da yapışkanlı aparatla interkom takılabilir; ses kalitesi için hoparlörlerin kulak hizasına denk gelmesi gerekir. Kaskta hoparlör cebi olup olmadığına ve üreticinin kaska özel bir interkom sunup sunmadığına bak. ECE 22.06 aksesuarlar için kurallar getirdiğinden kabuğu delmek veya kesmek gibi değişikliklerden kaçın."
+    }
+  ],
+  "mont": [
+    {
+      "q": "Korumalı motosiklet montu nedir?",
+      "a": "Korumalı motosiklet montu, etiketinde EN 17092 sınıfı (AAA, AA veya A) bulunan ve omuz ile dirsekte EN 1621-1 sertifikalı koruyucu taşıyan monttur. Kumaş asfaltta kaymaya ve yırtılmaya karşı test edilmiştir, koruyucular ise darbeyi sönümler. Etiketinde sınıf yazmayan bir motorcu montu, görünüşü ne olursa olsun koruyucu ekipman sayılmaz."
+    },
+    {
+      "q": "EN 17092'de AAA, AA ve A sınıfları ne anlama gelir?",
+      "a": "AAA en yüksek, A en düşük korumalı sınıftır; üçünde de sürtünme dayanımı ve darbe koruyucu bulunur. AAA ve AA'da omuz, dirsek, kalça ve diz koruyucusu zorunludur, A'da kalça koruyucusu isteğe bağlıdır. Şehir içi için A makul bir alt sınırdır; otoyol ve uzun yolda AA, sportif sürüşte AAA daha uygun güvenlik payı bırakır."
+    },
+    {
+      "q": "4 mevsim mont mu almalıyım, yazlık ve kışlık ayrı mı?",
+      "a": "Tek montla yıl boyu idare etmek istiyorsan çıkarılabilir termal ve su geçirmez astarlı 4 mevsim mont mantıklı bir orta yoldur. Ancak sıcak yaz günlerinde ayrı bir file mont kadar serin tutmaz. Her gün süren biri için 4 mevsim mont yanına ucuz bir yazlık file mont eklemek, yazın ağır montla terleyip dikkat kaybetmekten iyidir."
+    },
+    {
+      "q": "Deri mont mu tekstil mont mu?",
+      "a": "Deri aynı kalınlıkta çoğu tekstile göre sürtünmeye daha dayanıklıdır ve vücuda sıkı oturduğu için koruyucuları yerinde tutar, ama ağırdır ve sıcakta bunaltır. Tekstil daha hafiftir, daha çok havalandırma ve su geçirmez membran seçeneği sunar. Seçimde malzemeden çok sınıfa güven: AA sınıfı bir tekstil mont, sınıfsız bir deri ceketten daha güvenilirdir."
+    },
+    {
+      "q": "Montun içindeki koruyucular Level 1 mi Level 2 mi, sırt koruyucu dahil mi?",
+      "a": "Bu montdan monta değişir; ürün açıklamasında ve koruyucunun üzerindeki etikette EN 1621-1 (omuz, dirsek) ve EN 1621-2 (sırt) ile seviye yazmalıdır. Level 2 darbede vücuda daha az kuvvet iletir. Birçok montta sırt cebi boş gelir ya da içinde yalnız ince bir köpük ped bulunur; bu ped sertifikalı koruyucu değildir ve ayrıca Level 2 sırt koruyucu almak en ucuz yükseltmelerden biridir."
+    }
+  ],
+  "pantolon": [
+    {
+      "q": "Kevlar jean gerçekten korur mu?",
+      "a": "Etiketinde EN 17092 sınıfı (A, AA veya AAA) olan kevlar jean korur; yalnızca 'kevlar' yazması yeterli değildir. Aramid astarın diz, kalça ve oturak bölgesini kapsaması, dikişlerin dayanması ve diz koruyucusunun EN 1621-1 belgeli olması gerekir. Sınıf bilgisi olmayan bir kot, koruyucu giysi değil takviyeli bir günlük pantolon olarak düşünülmelidir."
+    },
+    {
+      "q": "Pantolonu monta fermuarla birleştirmek gerekir mi?",
+      "a": "Zorunlu değil ama faydalıdır: bağlantı fermuarı düşmede montun yukarı sıyrılıp beli açıkta bırakmasını engeller. Kışın da belden giren soğuk havayı keser. Fermuarlar markaya göre farklı olduğundan mont ve pantolonun aynı markada uyumlu olup olmadığını kontrol et."
+    },
+    {
+      "q": "Pantolonda diz ve kalça koruyucusu olmalı mı?",
+      "a": "Diz koruyucusu olmalı; EN 17092 A, AA ve AAA sınıflarında zorunludur. Kalça koruyucusu AA ve AAA'da zorunlu, A sınıfında isteğe bağlıdır, ama düşmede kalça sık temas eden bölge olduğu için tercih edilmelidir. Diz koruyucusu oturma pozisyonunda diz kapağının önünde durmalı; cep yüksekliği ayarlanabiliyorsa kendi bacak boyuna göre ayarla."
+    },
+    {
+      "q": "Tek katman motosiklet kotu nedir?",
+      "a": "Tek katman kot, yüksek dayanımlı liflerin (UHMWPE veya aramid) ayrı bir astar yerine doğrudan denimin dokusuna katıldığı pantolondur. Çift katmanlı astarlı kotlara göre daha serin ve hafiftir; AAA sınıfına ulaşan örnekler de vardır. Yine de belirleyici olan kumaşın tipi değil, etiketteki EN 17092 sınıfıdır."
+    }
+  ],
+  "eldiven": [
+    {
+      "q": "EN 13594 ve KP işareti ne anlama gelir?",
+      "a": "EN 13594:2015 motosiklet eldiveni standardıdır; Level 1 temel, Level 2 daha yüksek koruma demektir. KP işareti, parmak eklemi koruyucusunun darbe testinden geçtiğini gösterir; Level 2'de bu test zorunlu, Level 1'de isteğe bağlıdır. Sert kabuğu olup KP ibaresi taşımayan eldivende kabuk test edilmemiştir."
+    },
+    {
+      "q": "Motosiklette eldiven takmak zorunlu mu?",
+      "a": "Evet. 4 Kasım 2025'te Resmî Gazete'de yayımlanan Karayolları Trafik Yönetmeliği değişikliğiyle motosiklet sürücüleri ve taşınıyorsa yolcuları için koruyucu eldiven zorunlu hale geldi. Düşen sürücü refleksle elini öne uzattığı için eldiven, kasktan sonra en öncelikli parçadır."
+    },
+    {
+      "q": "Yazlık eldiven mi kışlık eldiven mi?",
+      "a": "İkisi farklı ihtiyaca cevap verir: yazlık eldivende delikli deri veya file ve kısa manşet, kışlıkta yalıtım, su geçirmez membran ve uzun manşet bulunur. Kalın kışlık eldiven fren ve debriyaj hissini azaltır; çok soğukta ısıtmalı eldiven veya elcik ısıtıcısı daha ince bir eldivenle sürmeye izin verir. Yıl boyu sürüyorsan iki ayrı eldiven en sağlıklı çözümdür."
+    },
+    {
+      "q": "Dokunmatik uçlu eldiven işe yarar mı?",
+      "a": "Molada ve dururken yapılan kısa işlemler için işe yarar: parmak ucundaki iletken malzeme sayesinde ekran eldiveni çıkarmadan dokunuşu algılar. Kalın kışlık eldivende ve ıslak ekranda hassasiyet düşer, uç da zamanla aşınır. Sürüş sırasında telefona dokunmak için değildir; asıl ölçüt yine EN 13594 seviyesidir."
+    }
+  ],
+  "bot": [
+    {
+      "q": "EN 13634 etiketindeki dört rakam ne anlama gelir?",
+      "a": "Rakamlar sırasıyla konç yüksekliğini, darbeli sürtünme dayanımını, darbeli kesilme dayanımını ve enine sertliği (yanal ezilmeye direnç) gösterir; her biri 1 veya 2 olur ve 2 daha iyidir. Yükseklik hanesinde 1 bileği kapatan kısa botu, 2 kaval kemiğine uzanan uzun botu ifade eder. IPA ayak bileği, IPS kaval kemiği darbe korumasının, WR ise botun bütününün su geçirmezlik testinden geçtiğini gösterir."
+    },
+    {
+      "q": "Şehir içinde normal ayakkabı ya da spor ayakkabı yeterli mi?",
+      "a": "Hayır; spor ayakkabı vites pedalında ve düşmede ayak bileğinin burkulmasını ve ezilmesini engelleyemez. Şehir içi için ayakkabı görünümlü, bileği kapatan ve EN 13634 sertifikalı bir şehir botu iyi bir orta yoldur. Gün içinde çok yürüyorsan sport botu yerine şehir veya touring botu seç."
+    },
+    {
+      "q": "Su geçirmez motosiklet botu alırken neye bakmalıyım?",
+      "a": "Etikette WR ibaresine bak; bu, botun bütününün su geçirmezlik testinden geçtiğini gösterir. Yalnızca 'su geçirmez astar' ifadesi bu testin yapıldığını garanti etmez. Yağmurda pantolon paçasının botun üstüne binmesi de suyun konca dolmasını engeller."
+    },
+    {
+      "q": "Motosiklet botu nasıl denenir?",
+      "a": "Botu akşamüstü, ayakların hafif şiştiği bir saatte ve sürüşte giyeceğin çorapla dene. Yürürken topuk kalkmamalı, parmaklar öne değmemeli; motosiklette ayak ucunu vites pedalının altına sokabildiğinden emin ol. Kışın çok kalın çorap botu sıkıştırıp ayağı daha çabuk üşütür."
+    }
+  ],
+  "interkom": [
+    {
+      "q": "Mesh interkom ile Bluetooth interkom arasındaki fark nedir?",
+      "a": "Bluetooth interkom cihazları zincir gibi bağlar ve ikili ya da küçük grup kullanımında rahattır; zincirdeki bir halka koparsa bağlantı da kopabilir. Mesh interkomda her cihaz ağın bir düğümüdür ve biri menzilden çıkınca ağ kendini yeniden düzenler. Üç ve daha fazla motosikletle düzenli grup sürüşü yapıyorsan Mesh, tek başına navigasyon ve müzik için Bluetooth yeterlidir."
+    },
+    {
+      "q": "İnterkom kaskıma uyar mı?",
+      "a": "Çoğu kaska evrensel kelepçeli veya yapışkanlı aparatla takılır; asıl mesele hoparlörlerin kulak hizasına oturmasıdır. Kaskta hoparlör cebi olup olmadığına, çene açılır kasksa mikrofonun çene bölümüne sabitlenip sabitlenmeyeceğine bak. Kaskın üreticisi kaska özel bir sistem sunuyorsa genellikle en temiz çözüm odur, ama yalnız o modelle çalışır."
+    },
+    {
+      "q": "Cardo mu Sena mı?",
+      "a": "Net bir kazanan yok; ikisi de üst modellerde Mesh, marka iş birliğiyle geliştirilmiş ses (Cardo'da JBL, Sena'da Harman Kardon), uygulama ve kablosuz güncelleme sunuyor. Belirleyici olan, birlikte sürdüğün kişilerin hangi markayı kullandığıdır. Kaskına özel bir sistem varsa tercih çoğu zaman kendiliğinden belirlenir."
+    },
+    {
+      "q": "Farklı marka interkomlar birbiriyle konuşur mu?",
+      "a": "Mesh üzerinden konuşmaz; Cardo'nun DMC ağı ile Sena'nın Mesh ağı farklı teknolojilerdir. Farklı markalar Bluetooth tabanlı 'universal intercom' bağlantısıyla konuşabilir, ama bu durumda Mesh'in kendini onaran grup yapısından yararlanamazsın."
+    }
+  ],
+  "koruma": [
+    {
+      "q": "EN 1621-1, EN 1621-2 ve EN 1621-3 ne demek?",
+      "a": "Bunlar motosiklet darbe koruyucularının vücut bölgesine göre standartlarıdır: EN 1621-1 omuz, dirsek, kalça ve diz; EN 1621-2 sırt; EN 1621-3 göğüs koruyucularını kapsar. EN 1621-4 ise airbag gibi şişirilebilir koruyucular içindir. Etikette bölüm numarası koruyucunun hangi bölge için, seviye (1 veya 2) ne kadar iyi sonuç verdiğini gösterir."
+    },
+    {
+      "q": "Level 1 ve Level 2 koruyucu arasındaki fark nedir?",
+      "a": "Level 2 koruyucu darbede vücuda daha az kuvvet iletir, yani daha iyi korur. Örneğin EN 1621-1 eklem koruyucularında ortalama iletilen kuvvet Level 1'de 35 kN'u, Level 2'de 20 kN'u aşmamalıdır; sırt koruyucularında bu sınırlar 18 kN ve 9 kN'dur. Yine de cebe tam oturmayan ya da kayan bir Level 2 koruyucu kâğıt üzerindeki avantajını kaybeder."
+    },
+    {
+      "q": "Airbag yelek almaya değer mi?",
+      "a": "Uzun yol ve yüksek hızda sürüyorsan değerlendirmeye değer; airbag göğüs ve sırt bölgesinde sabit koruyuculardan daha geniş bir alanı kaplayabilir. Şişirilebilir koruyucular EN 1621-4 ile test edilir ve iki seviye tanımlanır. Sistemin doğru takılması, şarj veya kartuş durumunun takip edilmesi ve montunun airbag yeleğe uygun kesimde olması gerekir."
+    },
+    {
+      "q": "Türkiye'de motosiklette reflektörlü yelek zorunlu mu?",
+      "a": "Gece seyahatlerinde evet: 16 Ağustos 2022'de Resmî Gazete'de yayımlanan Karayolları Trafik Yönetmeliği değişikliğiyle motosiklet sürücüsü ve taşınıyorsa yolcusunun görünürlüğünü sağlayacak şekilde reflektif yelek veya benzeri kıyafet giymesi istendi. Yönetmelik belirli bir standart belirtmiyor. Görünürlük için floresan ve retroreflektif malzemeyi birlikte taşıyan EN 17353 tip AB ya da EN ISO 20471 sınıf 2-3 bir yelek en güçlü seçimdir."
+    },
+    {
+      "q": "Montun sırtındaki köpük ped sırt koruyucu sayılır mı?",
+      "a": "Hayır; üzerinde EN 1621-2 ibaresi olmayan köpük ped sertifikalı sırt koruyucu değildir, çoğu zaman yalnızca şekil veren bir konfor parçasıdır. Sırt cebi boş ya da pedli bir montta ilk yapılacak yükseltme, tercihen Level 2 bir EN 1621-2 sırt koruyucu eklemektir. Koruyucunun boyunu omurga uzunluğuna göre seç."
+    }
+  ],
+  "yagmurluk": [
+    {
+      "q": "Tek parça yağmurluk mu, alt-üst takım mı?",
+      "a": "Tek parça yağmurlukta belde açıklık olmadığı için su girecek bir birleşim noktası kalmaz, ama giyip çıkarması daha zahmetlidir. Alt-üst takımda üst parçayı tek başına da kullanabilirsin ve molada çıkarması kolaydır. Gün boyu yağmurda çalışan biri için bantlı dikişli, bilek ve paçası ayarlanabilen bir takım pratik ve güvenilir bir çözümdür."
+    },
+    {
+      "q": "Yağmurluk bedeni nasıl seçilir?",
+      "a": "Yağmurluğu üstüne giyeceğin mont ve pantolonla, koruyucuları takılıyken dene. Sürüş pozisyonunda kolların ve sırtın gerilmemeli, paçalar botun üstüne binebilmeli. Çok bol yağmurluk ise yüksek hızda rüzgârda dalgalanır."
+    },
+    {
+      "q": "Bantlı dikiş neden önemli?",
+      "a": "Dikiş delikleri su geçirmez kumaştaki en zayıf noktadır; iç taraftan bant ile kapatılmış (termo kaynaklı) dikişler bu deliklerden su sızmasını engeller. Bantsız dikişli bir yağmurluk kısa yağmurda idare eder ama uzun sürede omuz ve dizlerden su alabilir."
+    },
+    {
+      "q": "Su geçirmez membranlı montum varsa yağmurluk gerekir mi?",
+      "a": "Laminasyonlu membranlı bir montta çoğu zaman gerekmez, çünkü dış kumaş ıslanıp ağırlaşmaz. İçten astarlı membranda ise dış kumaş suyu emer; uzun yağmurda ayrı bir yağmurluk daha kuru tutar. Yazın file mont kullanıyorsan çantada taşınan bir yağmurluk takımı en mantıklı tamamlayıcıdır; yağmurluk koruma sağlamaz, korumalı giysinin yerine geçmez."
+    }
+  ],
+  "termal": [
+    {
+      "q": "Termal içlik olarak pamuklu giysi neden önerilmez?",
+      "a": "Pamuk teri emer ve geç kurur; ıslak kumaş tenine yapışıp vücut ısısını hızla çeker. Motosiklette rüzgâr bu soğumayı daha da artırır. İç katmanda nemi tenden uzaklaştıran sentetik veya merinos yünü içlik tercih edilir."
+    },
+    {
+      "q": "Kışın motosiklette katmanlama nasıl yapılır?",
+      "a": "Kalın tek katman yerine üç ince katman daha iyi çalışır: en içte nemi uzaklaştıran içlik, ortada ince polar veya termal yelek, dışta rüzgâr ve suyu kesen mont ve pantolon. Katmanlar arasında hapsolan hava yalıtım sağlar. Montun bedenini kış katmanlarıyla birlikte seç; çok sıkı mont katmanları ezer ve koruyucuları yerinden oynatır."
+    },
+    {
+      "q": "Isıtmalı eldiven ve ısıtmalı giyim işe yarar mı?",
+      "a": "Uzun kış sürüşlerinde etkilidir ve daha ince bir eldivenle sürmeye izin verdiği için fren ve debriyaj hissini korur. Bataryalı modeller ve motosikletin elektriğine bağlanan modeller vardır. Eldiven seçerken ısıtmanın parmak uçlarına kadar uzanıp uzanmadığına bak."
+    },
+    {
+      "q": "Boyunluk ve balaklava kask bedenini etkiler mi?",
+      "a": "İnce bir boyunluk veya balaklava boyundan ve kask içinden ısı kaybını azaltır, kask astarını da temiz tutar. Ancak kaskın oturuşunu bozacak kadar kalın balaklava kullanma. Kışın düzenli balaklava takıyorsan kask bedenini de onunla ölç ve dene."
+    }
+  ],
+  "aksesuar": [
+    {
+      "q": "Motosiklet telefon tutucusu telefonun kamerasına zarar verir mi?",
+      "a": "Verebilir: Apple, yüksek güçlü motosiklet motorlarının gidona ve şasiye ilettiği yüksek genlikli titreşimin, optik görüntü sabitleme ve kapalı döngü otomatik odaklama olan iPhone kameralarının performansını düşürebileceğini belirtiyor. Apple bu tür motosikletlere iPhone takılmasını önermiyor; küçük hacimli veya elektrikli motorlarda titreşim sönümleyici aparat kullanmayı ve uzun süreli düzenli kullanımdan kaçınmayı tavsiye ediyor. Başka marka telefonlarda da sabitlemeli kamera varsa benzer bir risk düşünülmeli."
+    },
+    {
+      "q": "Telefon tutucu seçerken nelere bakmalıyım?",
+      "a": "Telefonu tek elle takıp çıkarabileceğin ama sarsıntıda yerinden oynamayan sağlam bir kilit mekanizmasına ve titreşim sönümleyici seçeneğine bak. Navigasyonu yola çıkmadan ayarla; sürüş sırasında telefona elle dokunmak hem dikkat dağıtır hem de bir eli gidondan ayırır."
+    },
+    {
+      "q": "Motosiklet kilidi için hangi güvenlik sertifikasına bakılır?",
+      "a": "Yaygın başvurulan bağımsız belgelerden biri, İngiltere merkezli test ve sertifika kuruluşu Sold Secure'dur. Sold Secure motosiklet (powered cycle) kategorisinde Gold ve Diamond seviyeleri verir; Diamond en üst seviyedir ve açı taşlamasına karşı uzun süre direnç ister. Kilitte bu tür bağımsız bir sertifika yoksa satış sayfasındaki 'kırılmaz' ifadesi tek başına bir şey kanıtlamaz."
+    },
+    {
+      "q": "Kaska sonradan aksesuar takmak güvenli mi?",
+      "a": "Üreticinin uyumlu ilan ettiği aksesuarlar, örneğin Pinlock iç ekranı veya kaskın hoparlör ceplerine yerleşen interkom, sorun çıkarmaz. ECE 22.06 kaskla sunulan ve sonradan takılan aksesuarlar için kurallar getirdi. Kabuğu delen, kesen ya da yapıştırıcıyla kalıcı değişiklik gerektiren eklemelerden kaçın."
+    }
+  ]
+}

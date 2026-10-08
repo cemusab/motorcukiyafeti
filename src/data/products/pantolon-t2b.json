@@ -1,0 +1,376 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-gore-tex-pants",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye GORE-TEX Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "GS Rallye GORE-TEX montun takım pantolonu; EN 17092 AA sınıfı, diz ve kalçada Level 2 NP3 EVO koruyucu, dizlerde depo tutuşu için deri ve üzerine giyilen ayrı GORE-TEX dış pantolon.",
+    "description": [
+      "GS Rallye GORE-TEX Pantolon, BMW Motorrad'ın arazi ağırlıklı adventure takımının alt parçası. Ana pantolon uyluk bölgesinde havalandırma açıklıkları, esnek ekler ve çabuk kuruyan kumaşla sıcak havaya göre yapılmış. Yağmur için üzerine giyilen ayrı GORE-TEX dış pantolon geliyor; dış pantolonda bacak boyunca uzanan fermuarlar giyip çıkarmayı kolaylaştırıyor.",
+      "BMW pantolonu EN 17092 AA sınıfıyla listeliyor. Dizde yüksekliği ayarlanabilen ve kalçada NP3 EVO Level 2 koruyucular standart; kuyruk sokumu koruyucusu sonradan eklenebiliyor. Dizlerin iç tarafındaki uzun deri parçalar ayakta sürüşte depoyu kavramayı kolaylaştırıyor. Paçada cırt ve çıtçıtlı genişlik ayarı, iki fermuarlı ve iki yan cep, montla birleşme için tam çevre ve kısa bağlantı fermuarı var."
+    ],
+    "forWho": [
+      "GS Rallye montla takım kurmak isteyen adventure sürücüleri",
+      "Arazide ayakta sürüşte depo tutuşu ve diz-kalça koruması isteyenler",
+      "Sıcakta havalandırma, yağmurda ayrı su geçirmez katman isteyenler"
+    ],
+    "notFor": [
+      "Günlük şehir kullanımı için pratik pantolon arayanlar",
+      "Kurye kullanımı: dış pantolonu takıp çıkarmak ve fiyatı günlük kurye işine uygun değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Diz ve kalçada Level 2 koruyucu",
+      "Ayrı GORE-TEX dış pantolon, boydan fermuarlı",
+      "Dizlerde depo tutuşu için deri"
+    ],
+    "cons": [
+      "Yağmurda dış pantolonu ayrıca giymek gerekiyor",
+      "Kuyruk sokumu koruyucusu ayrıca alınıyor",
+      "Fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli.",
+      "uzunYol": "Asıl amacı; montla birlikte uzun etaplar.",
+      "yaz": "Dış pantolon çıkarıldığında uyluk havalandırmasıyla kullanılabilir.",
+      "kis": "Isı astarı yok; altına termal katman gerekir.",
+      "yagmur": "GORE-TEX dış pantolon giyildiğinde su geçirmez.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "GS Rallye GORE-TEX Pantolon, AA sınıfı ve Level 2 diz-kalça korumasıyla montunun eksiksiz eşi. Su geçirmez katmanın dışta olması yağmurda ana pantolonu kuru tutuyor ama katman değiştirmeyi gerektiriyor. BMW Motorrad Türkiye mağazasında üç renkte TL fiyatıyla satışta.",
+    "rivals": [
+      "revit/sand-5-h2o-pants",
+      "klim/carlsbad-pant",
+      "revit/offtrack-3-h2o-pants"
+    ],
+    "priceRange": {
+      "min": 47576.2,
+      "max": 47588.39,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Renge göre küçük fiyat farkı var."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-15aeae28c62f44529cbefdc82042b06d",
+        "price": 47588.39,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-726cd2abd9ac4f6c976e29a06284b289",
+        "price": 47588.39,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-d0b9896fec604771862bb684513c1925",
+        "price": 47576.2,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "colors": [
+          "Mavi/Kırmızı"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kalça koruyucusu dahil mi?",
+        "a": "Evet. BMW'nin sayfasına göre dizde ve kalçada NP3 EVO Level 2 koruyucular standart. Kuyruk sokumu koruyucusu sonradan eklenebiliyor."
+      },
+      {
+        "q": "Yağmurda nasıl kullanılıyor?",
+        "a": "Ana pantolonun üzerine ayrı GORE-TEX dış pantolon giyiliyor; bacak boyunca uzanan fermuarları giyip çıkarmayı kolaylaştırıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/pants-jeans/5b5ee54-gs-rallye-gore-tex-pants.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/pants-jeans/5b5ee54-gs-rallye-gore-tex-pants.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye GORE-TEX Pants (erkek) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-15aeae28c62f44529cbefdc82042b06d",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-726cd2abd9ac4f6c976e29a06284b289",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Siyah ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-d0b9896fec604771862bb684513c1925",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi/Kırmızı ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Mavi",
+      "Siyah",
+      "Mavi/Kırmızı"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Poliamid-pamuk karışımı dış kumaş, poliamid ve elastan esnek bölgeler, dizlerde dana derisi; dış pantolon: poliamid (Nylon) / GORE-TEX PTFE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (ayrı dış pantolon / outsert)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluk bölgesinde havalandırma açıklıkları",
+      "closure": "Paçada cırt ve çıtçıtlı ayar, tam çevre ve kısa bağlantı fermuarı, dış pantolonda boydan fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-gore-tex-pants-women",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye GORE-TEX Kadın Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "GS Rallye GORE-TEX pantolonun kadın kalıbı; EN 17092 AA sınıfı, diz ve kalçada Level 2 koruyucu, üzerine giyilen ayrı GORE-TEX dış pantolon.",
+    "description": [
+      "GS Rallye GORE-TEX Kadın Pantolon, BMW Motorrad'ın arazi takımının kadın bedenlerine (34–48) göre kesilmiş alt parçası. Uylukta havalandırma açıklıkları, esnek ekler ve dizlerin iç tarafında depo tutuşu için uzun deri parçalar erkek modelle aynı. Yağmur için üzerine giyilen, boydan fermuarlı ayrı GORE-TEX dış pantolon geliyor.",
+      "BMW kadın modeli de EN 17092 AA sınıfıyla listeliyor. Dizde ayarlanabilir ve kalçada NP3 EVO Level 2 koruyucular standart, kuyruk sokumu koruyucusu sonradan eklenebiliyor. İki fermuarlı ve iki yan cep, paçada genişlik ayarı ve montla birleşme için bağlantı fermuarları var."
+    ],
+    "forWho": [
+      "Adventure motosikletle arazi ve tur yapan kadın sürücüler",
+      "GS Rallye GORE-TEX kadın montla takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Şehirde günlük kullanım için pratik pantolon arayanlar",
+      "Kurye kullanımı: katman değiştirme zahmeti ve fiyat nedeniyle uygun değil"
+    ],
+    "pros": [
+      "Kadın kalıbında EN 17092 AA sınıfı",
+      "Diz ve kalçada Level 2 koruyucu",
+      "Ayrı GORE-TEX dış pantolon",
+      "Dizlerde depo tutuşu için deri"
+    ],
+    "cons": [
+      "Türkiye'de beden ve stok az",
+      "Yağmurda dış pantolonu ayrıca giymek gerekiyor",
+      "Fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli.",
+      "uzunYol": "Asıl amacı.",
+      "yaz": "Dış pantolon çıkarıldığında havalandırmayla kullanılabilir.",
+      "kis": "Altına termal katman gerekir.",
+      "yagmur": "GORE-TEX dış pantolon giyildiğinde su geçirmez.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "GS Rallye GORE-TEX Kadın Pantolon, kadın sürücüye AA sınıfı ve Level 2 diz-kalça korumasını erkek modelle aynı yapıda veriyor. Yağmur koruması ayrı dış pantolonla. BMW Motorrad Türkiye mağazasında iki renkte sınırlı stokla satışta.",
+    "rivals": [
+      "leatt/adv-multitour-5-5-women-pants",
+      "bmw-motorrad/gs-rallye-gore-tex-pants",
+      "revit/sand-5-h2o-pants"
+    ],
+    "priceRange": {
+      "min": 47588.39,
+      "max": 47588.39,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "İki renkte aynı fiyat."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-066a8f66cb46416892268b0600ccf250",
+        "price": 47588.39,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-fff44b7632d744308eb2377495bc265e",
+        "price": 47588.39,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek modelden farkı ne?",
+        "a": "Kesim ve beden aralığı (34–48). Koruma ve sertifika BMW'nin sayfasına göre aynı."
+      },
+      {
+        "q": "Kalça koruyucusu dahil mi?",
+        "a": "Evet, dizde ve kalçada NP3 EVO Level 2 koruyucu standart."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/pants-jeans/5b5ee76-gs-rallye-gore-tex-pants.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/pants-jeans/5b5ee76-gs-rallye-gore-tex-pants.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye GORE-TEX Pants (kadın) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-066a8f66cb46416892268b0600ccf250",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-pantolon-p-fff44b7632d744308eb2377495bc265e",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Siyah ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Mavi",
+      "Siyah"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Poliamid-pamuk karışımı dış kumaş, poliamid ve elastan esnek bölgeler, dizlerde dana derisi; dış pantolon: poliamid (Nylon) / GORE-TEX PTFE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (ayrı dış pantolon / outsert)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluk bölgesinde havalandırma açıklıkları",
+      "closure": "Paçada cırt ve çıtçıtlı ayar, tam çevre ve kısa bağlantı fermuarı, dış pantolonda boydan fermuar",
+      "madeIn": null
+    }
+  }
+]

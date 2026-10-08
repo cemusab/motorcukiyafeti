@@ -1,0 +1,127 @@
+[
+  {
+    "product": "tex-motor/tex-304-kurye-cantasi",
+    "images": [
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/WhatsApp-Image-2023-12-14-at-13.14.46-1.jpg",
+        "alt": "Tex 304 kurye çantası görünüm",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-304-kurye-cantasi-40x40x50/"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/05/WhatsApp-Image-2023-12-14-at-13.14.33.jpg",
+        "alt": "Tex 304 kurye çantası farklı açı",
+        "credit": "Tex Motor",
+        "sourcePage": "https://texmotor.com/urun/tex-304-kurye-cantasi-40x40x50/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "givi/b47-blade",
+    "images": [
+      {
+        "url": "https://media.givi.it/XN-Prodotti/foto/B47.jpg",
+        "alt": "GIVI B47 Blade 47 litre Monolock arka kutu",
+        "credit": "GIVI",
+        "sourcePage": "https://www.givi.it/prodotti-givi/bauletti-moto-e-scooter/bauletti-in-plastica/b47-blade"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Rji2TIuryKo",
+        "title": "GIVI - B47 BLADE and B33 TOPCASES",
+        "channel": "GIVIchannel",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "product": "sp-connect/mirror-mount",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1741/0217/files/mirror-mount-53136-view01.webp?v=1778592564",
+        "alt": "SP Connect Mirror Mount ayna bağlantısı",
+        "credit": "SP Connect",
+        "sourcePage": "https://sp-connect.com/products/mirror-mount"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1741/0217/files/mirror-mount-53136-view02.webp?v=1779200121",
+        "alt": "SP Connect Mirror Mount farklı açı",
+        "credit": "SP Connect",
+        "sourcePage": "https://sp-connect.com/products/mirror-mount"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1741/0217/files/mirror-mount-img01-53136.webp?v=1783587673",
+        "alt": "SP Connect Mirror Mount scooter aynasında kullanım",
+        "credit": "SP Connect",
+        "sourcePage": "https://sp-connect.com/products/mirror-mount"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "FlBQY_naCTs",
+        "title": "Mount Your Phone in Seconds | SP Connect Scooter Mirror Mount",
+        "channel": "SP Connect",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "product": "quad-lock/poncho-iphone",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0108/1062/products/PONCHO_iPhone_QL-WEB-0018_2N1A9642-EDIT.jpg?v=1760401343",
+        "alt": "Quad Lock Poncho iPhone yağmur kılıfı",
+        "credit": "Quad Lock",
+        "sourcePage": "https://www.quadlockcase.com/products/poncho-all-iphone-devices"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0108/1062/products/PONCHO_iPhone_QL-WEB-0018_2N1A9643.jpg?v=1760401343",
+        "alt": "Quad Lock Poncho takılı iPhone",
+        "credit": "Quad Lock",
+        "sourcePage": "https://www.quadlockcase.com/products/poncho-all-iphone-devices"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Es9SyycyIms",
+        "title": "Quad Lock - How To - Poncho",
+        "channel": "QUAD LOCK",
+        "kind": "kurulum",
+        "lang": "en",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "youtubeId": "fSreRzkAJxA",
+        "title": "Case and rain Poncho Quad Lock FULL REVIEW!",
+        "channel": "Jezza Bikes",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "product": "quad-lock/universal-adaptor",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0108/1062/products/UNI_QL-WEB-0048_3K6A7076.jpg?v=1697491448",
+        "alt": "Quad Lock Universal Adaptor",
+        "credit": "Quad Lock",
+        "sourcePage": "https://www.quadlockcase.com/products/universal-adapter"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0108/1062/products/UNI_QL-WEB-0048_3K6A7022.jpg?v=1697491448",
+        "alt": "Quad Lock Universal Adaptor telefona yapıştırılmış",
+        "credit": "Quad Lock",
+        "sourcePage": "https://www.quadlockcase.com/products/universal-adapter"
+      }
+    ],
+    "videos": []
+  }
+]

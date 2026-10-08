@@ -2038,7 +2038,7 @@
     "status": "active",
     "successor": null,
     "category": "mont",
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-08",
     "sizeChart": [],
     "sizeChartMeasure": null,
     "buyerInsights": null,
@@ -2090,7 +2090,34 @@
       "rukka/trave-r",
       "modeka/atlaz"
     ],
-    "offers": [],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-carlsbad-korumali-motosikletci-montu-siyah",
+        "price": 57450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-carlsbad-korumali-motosiklet-montu-mavi-/-oranj",
+        "price": 57450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Mavi/Oranj"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Carlsbad'ın içinde termal astar var mı?",
@@ -2108,6 +2135,18 @@
         "type": "manufacturer",
         "label": "KLIM – Carlsbad Jacket ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-carlsbad-korumali-motosikletci-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Klim Carlsbad Siyah",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-carlsbad-korumali-motosiklet-montu-mavi-/-oranj",
+        "type": "retailer",
+        "label": "Motomax – Klim Carlsbad Mavi/Oranj",
+        "checkedAt": "2026-10-08"
       }
     ],
     "dataConfidence": "high",
@@ -2115,7 +2154,6 @@
       "specs.season",
       "specs.protectors.standard",
       "specs.madeIn",
-      "priceRange",
       "sizeChart"
     ],
     "colors": [
@@ -2167,7 +2205,12 @@
       "closure": null,
       "madeIn": null
     },
-    "priceRange": null
+    "priceRange": {
+      "min": 57450,
+      "max": 57450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    }
   },
   {
     "status": "active",

@@ -1,0 +1,38 @@
+[
+  {
+    "product": "alpinestars/stella-smx-1-r-v2",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2224621-10-r3_stella-smx-1-r-v2-boot.png",
+        "alt": "Alpinestars Stella SMX-1 R v2 kadın sürüş ayakkabısı, siyah, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-smx-1-r-v2-boots"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2224621-10-fr_stella-smx-1-r-v2-boot_0dca8edf-cd0e-4401-8dad-ef70b73af0ee.png",
+        "alt": "Alpinestars Stella SMX-1 R v2 kadın sürüş ayakkabısı, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-smx-1-r-v2-boots"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "shima/rx-3-lady",
+    "images": [
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RX3_LADY_BLACK_WHITE_SIDE_A_2500x2500-1.avif",
+        "alt": "Shima RX-3 Lady kadın sport-touring bot, siyah/beyaz, dış yan",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rx-3-lady-czarny-bialy/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/SHIMA_RX3_LADY_BLACK_WHITE_SIDE_B_2500x2500-1.avif",
+        "alt": "Shima RX-3 Lady kadın bot, iç yan görünüm",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/rx-3-lady-czarny-bialy/"
+      }
+    ],
+    "videos": []
+  }
+]

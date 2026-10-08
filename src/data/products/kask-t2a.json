@@ -1,0 +1,1774 @@
+[
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "hunter",
+  "brand": "axor",
+  "name": "Hunter",
+  "subcategories": [
+   "kapali-kask",
+   "termoplastik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Axor'un Türkiye'deki en uygun fiyatlı kapalı kaskı. ABS kabuk, ECE 22.06 ve DOT onayı, yan ve arkada reflektör bantlar ve Pinlock 30 hazırlığı var; şehir içi ve bütçeli kurye kullanımı için düşünülmüş.",
+  "description": [
+   "Hunter, Hindistan merkezli Axor'un giriş seviyesi kapalı kaskı. Kabuk ABS'den, iç yapıda çift yoğunluklu EPS kullanılıyor. Axor Türkiye ve global sayfalar ECE 22.06, DOT (FMVSS 218) ve Hindistan'ın ISI onayını listeliyor; üreticinin verdiği ağırlık 1.500 g (±50 g), ancak hangi bedene ait olduğu yazmıyor. Arkada küçük bir \"ducktail\" spoiler, yan ve arka kısımda reflektör bantlar bulunuyor.",
+   "Vizör çizilmeye ve UV ışığa dayanıklı, aletsiz sökülüyor ve ayrıca bir kilit düğmesi var. Vizör Pinlock 30'a hazır, fakat lens kutudan çıkmıyor; ayrı alınması gerekiyor. İç güneş vizörü yok. Ağız, ön ve yan havalandırma girişleri var; iç astar çıkarılıp yıkanabiliyor ve interkom için hoparlör yuvaları ayrılmış. Bedenler XS–XL; XS'in 53–54 cm kafa çevresine denk gelmesi küçük kafalı ve kadın sürücüler için seçenek sunuyor."
+  ],
+  "forWho": [
+   "Sınırlı bütçeyle ECE 22.06 onaylı ilk kapalı kaskını arayanlar",
+   "Şehir içinde çalışan, gece de yolda olan kuryeler (reflektör bantlar)",
+   "53–54 cm kafa çevresiyle XS bedene ihtiyaç duyan küçük kafalı veya kadın sürücüler"
+  ],
+  "notFor": [
+   "İç güneş vizörü isteyenler",
+   "Uzun otoban turlarında sessizlik ve hafiflik bekleyenler"
+  ],
+  "pros": [
+   "ECE 22.06 ve DOT onayı, Türkiye'de 4.317 TL'den başlayan fiyat",
+   "Yan ve arkada reflektör bantlar gece görünürlüğüne katkı sağlıyor",
+   "Çıkarılıp yıkanabilen astar ve interkom hoparlör yuvaları",
+   "Vizör kilit düğmesi ve aletsiz vizör değişimi"
+  ],
+  "cons": [
+   "İç güneş vizörü yok",
+   "Pinlock lens kutudan çıkmıyor, ayrıca alınmalı",
+   "Kabuk sayısı ve ağırlığın ölçüldüğü beden açıklanmıyor",
+   "Çene kayışı D-ring olarak tanımlanıyor; çift D halka olup olmadığı açık yazılmıyor"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı. Hafif sayılabilecek 1.500 g ağırlığı ve geniş vizörüyle trafikte rahat.",
+   "uzunYol": "Kısa ve orta mesafede yeterli. Uzun etaplarda güneş vizörünün olmaması ve fiyat sınıfına özgü rüzgâr gürültüsü hissedilir.",
+   "otoban": "ECE 22.06 onaylı; ancak yüksek hızda gürültü yalıtımı üst segment kasklar kadar iyi olmaz.",
+   "sport": "Spoileri olsa da sportif ya da pist kullanımına yönelik değil.",
+   "adventure": "Siperliği yok; toprak yol için uygun değil.",
+   "gozluk": "Gözlük kanalı hakkında üretici bilgi vermiyor; satın almadan önce gözlükle denemek gerekir.",
+   "interkom": "Hoparlör yuvaları hazır; evrensel bir interkom kelepçe veya yapıştırma aparatıyla takılabilir.",
+   "kurye": "Fiyatı, ECE 22.06 onayı, reflektörleri ve yıkanabilir astarıyla bütçeli kurye için mantıklı. Güneş vizörü olmadığından gündüz için füme vizör ya da güneş gözlüğü düşünülmeli."
+  },
+  "verdict": "Hunter, Türkiye'de 4.500 TL altında ECE 22.06 onaylı kapalı kask arayan biri için güçlü bir seçenek. Reflektör bantları ve yıkanabilir astarı kurye kullanımına uygun. İç güneş vizörü ve kutudan çıkan Pinlock lens yok; bunları isteyen kişi Saber ya da Brutale'ye bakmalı.",
+  "faq": [
+   {
+    "q": "Axor Hunter ECE 22.06 onaylı mı?",
+    "a": "Evet. Axor Türkiye ve global ürün sayfaları ECE R22.06, DOT FMVSS 218 ve ISI onaylarını listeliyor."
+   },
+   {
+    "q": "Hunter'da Pinlock var mı?",
+    "a": "Vizör Pinlock 30'a hazır, ancak lens kutudan çıkmıyor; ayrıca alınması gerekiyor."
+   },
+   {
+    "q": "Hunter Türk malı mı?",
+    "a": "Hayır. Axor Hindistan kökenli bir marka; Türkiye sitesini Artı Grup Motorlu Araçlar Ltd. Şti. işletiyor. Global sitede bu modelin menşei Hindistan olarak geçiyor."
+   }
+  ],
+  "rivals": [
+   "mt-helmets/stinger-2",
+   "ls2/stream-ii",
+   "hjc/c10"
+  ],
+  "priceRange": {
+   "min": 4317.3,
+   "max": 4857.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-kapali-kask",
+    "price": 4317.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Mat Siyah",
+     "Siyah",
+     "Royal Blue",
+     "Mat Desert Storm",
+     "Nardo Grey",
+     "Mat Nardo Grey"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-kapali-kask-inci",
+    "price": 4317.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "inci Beyazı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-turbo-kapali-kask",
+    "price": 4857.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Beyaz Kırmızı",
+     "Mat Beyaz Kırmızı",
+     "Mat Siyah Gri",
+     "Siyah Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-spear-kapali-kask",
+    "price": 4857.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Kırmızı Siyah",
+     "Mavi Beyaz"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-cornet-kapali-kask",
+    "price": 4857.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Koyu Mavi",
+     "Mat Koyu Mavi",
+     "Mat Siyah Neon Sarı",
+     "Siyah Neon Sarı"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-hunter-kapali-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-hunter-kapali-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Hunter ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/hunter-solid-colors-helmet",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor Hunter ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.sunVisor",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.retention",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Beyaz Kırmızı",
+   "Koyu Mavi",
+   "Kırmızı Siyah",
+   "Mat Beyaz Kırmızı",
+   "Mat Desert Storm",
+   "Mat Koyu Mavi",
+   "Mat Nardo Grey",
+   "Mat Siyah",
+   "Mat Siyah Gri",
+   "Mat Siyah Neon Sarı",
+   "Mavi Beyaz",
+   "Nardo Grey",
+   "Royal Blue",
+   "Siyah",
+   "Siyah Gri",
+   "Siyah Neon Sarı",
+   "inci Beyazı"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": "ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1500,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye ve UV'ye dayanıklı, aletsiz sökülen vizör; ek vizör kilit düğmesi",
+   "pinlock": true,
+   "pinlockIncluded": false,
+   "sunVisor": null,
+   "ventilation": "Ağız, ön ve yan havalandırma",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": null,
+   "intercomReady": true,
+   "intercomNotes": "Üretici interkom montajı için hazır yuvalar olduğunu belirtiyor; marka ya da model uyumluluğu yazmıyor.",
+   "spoiler": true,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "saber",
+  "brand": "axor",
+  "name": "Saber",
+  "subcategories": [
+   "kapali-kask",
+   "termoplastik-kask",
+   "interkomlu-kask"
+  ],
+  "summary": "Hunter'ın bir üstündeki Axor kapalı kask: ABS kabuk, ECE 22.06 ve DOT onayı, mikrometrik toka, entegre arka spoiler ve Pinlock 30 hazırlığı. Türkiye'de 5.343 TL'den başlıyor.",
+  "description": [
+   "Saber, Axor'un fiyat/donanım ortasındaki kapalı kaskı. Kabuk ABS, iç yapı çift yoğunluklu EPS. Axor Türkiye ve global sayfalar ECE 22.06, DOT ve ISI onaylarını listeliyor; ağırlık 1.650 g (±50 g) olarak verilmiş, beden belirtilmemiş. Hunter'dan farkı daha keskin çizgili kasa, entegre arka spoiler ve D-ring yerine mikrometrik çene tokası.",
+   "Vizör çizilmeye dayanıklı ve aletsiz sökülüyor; Pinlock 30'a hazır, lens ayrıca satılıyor. Ağız ve ön havalandırma girişleri ile arka çıkışlar var. İç astar çıkarılıp yıkanabiliyor ve interkom için yuvalar ayrılmış. İç güneş vizörü yok. Beden aralığı XS–XL; XS bedenin olması küçük kafalı sürücüler için artı."
+  ],
+  "forWho": [
+   "Hunter'dan biraz daha fazla stil ve mikrometrik toka pratikliği isteyenler",
+   "Şehir içinde günlük kullanım ve kurye işi için uygun fiyatlı ECE 22.06 kask arayanlar",
+   "XS beden ihtiyacı olan küçük kafalı veya kadın sürücüler"
+  ],
+  "notFor": [
+   "İç güneş vizörü ve kutudan çıkan Pinlock lens bekleyenler",
+   "Pist ve sportif sürüş yapanlar"
+  ],
+  "pros": [
+   "ECE 22.06 ve DOT onayı",
+   "Eldivenle kolay kullanılan mikrometrik toka",
+   "Yıkanabilir astar ve interkom yuvaları",
+   "Geniş renk ve grafik seçeneği, XS–XL beden"
+  ],
+  "cons": [
+   "İç güneş vizörü yok",
+   "Pinlock lens ayrıca alınmalı",
+   "1.650 g ile Hunter'dan 150 g daha ağır; ağırlığın hangi bedene ait olduğu yazmıyor"
+  ],
+  "usage": {
+   "sehir": "Mikrometrik toka sık takıp çıkarmada pratik; şehir içi kullanım için uygun.",
+   "uzunYol": "Orta mesafede yeterli; güneş vizörü olmaması uzun günlük turlarda eksiklik.",
+   "otoban": "ECE 22.06 onaylı ve spoilerli; gürültü yalıtımı fiyat sınıfının sınırlarında.",
+   "sport": "Sportif görünüşlü ama pist kaskı değil.",
+   "adventure": "Siperliği yok; arazi için uygun değil.",
+   "gozluk": "Gözlük kanalıyla ilgili üretici bilgisi yok; denemek gerekir.",
+   "interkom": "İnterkom yuvaları hazır; evrensel interkomlar takılabilir.",
+   "kurye": "Mikrometrik toka, yıkanabilir astar ve uygun fiyatıyla kurye kullanımına uygun; gündüz için füme vizör eklemek mantıklı."
+  },
+  "verdict": "Saber, Hunter'ın üstüne mikrometrik toka ve daha sportif bir kasa ekliyor; fiyat farkı küçük. Bütçeli kurye ve şehir sürücüsü için mantıklı bir ECE 22.06 kapalı kask. Güneş vizörü ve kutudan çıkan Pinlock istiyorsanız Brutale'ye bakın.",
+  "faq": [
+   {
+    "q": "Saber ile Hunter arasındaki fark ne?",
+    "a": "İkisi de ABS kabuklu, ECE 22.06 onaylı. Saber'de mikrometrik toka ve entegre spoiler var, ağırlığı 1.650 g; Hunter D-ring kayışlı, 1.500 g ve reflektör bantlı."
+   },
+   {
+    "q": "Saber'de güneş vizörü var mı?",
+    "a": "Hayır, üretici sayfalarında iç güneş vizöründen söz edilmiyor."
+   }
+  ],
+  "rivals": [
+   "axor/hunter",
+   "ls2/ff800-storm-ii",
+   "mt-helmets/targo-s"
+  ],
+  "priceRange": {
+   "min": 5343.3,
+   "max": 5883.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-saber-kapali-kask",
+    "price": 5343.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Nardo Gri",
+     "Mat Siyah",
+     "Siyah",
+     "Mat Nardo Gri",
+     "Mat Battle Green",
+     "Battle Green"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-saber-x-sports-kapali-kask",
+    "price": 5883.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Mat Siyah Turuncu",
+     "Mat Siyah Mavi",
+     "Siyah Neon Sarı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-saber-spark-kapali-kask",
+    "price": 5883.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "M",
+     "L"
+    ],
+    "colors": [
+     "Gri Kırmızı",
+     "Mat Gri Kırmızı",
+     "Siyah Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-saber-shadow-kapali-kask",
+    "price": 5883.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Siyah Koyu Mavi"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-saber-savage-kapali-kask",
+    "price": 5883.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "M",
+     "L"
+    ],
+    "colors": [
+     "Gri",
+     "Metalik Mavi"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-saber-kapali-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-saber-kapali-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Saber ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/saber-shadow-helmet",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor Saber ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.sunVisor",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.emergencyCheekPads",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Battle Green",
+   "Gri",
+   "Gri Kırmızı",
+   "Mat Battle Green",
+   "Mat Gri Kırmızı",
+   "Mat Nardo Gri",
+   "Mat Siyah",
+   "Mat Siyah Mavi",
+   "Mat Siyah Turuncu",
+   "Metalik Mavi",
+   "Nardo Gri",
+   "Siyah",
+   "Siyah Gri",
+   "Siyah Koyu Mavi",
+   "Siyah Neon Sarı"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": "ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1650,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye dayanıklı, aletsiz sökülen panoramik vizör",
+   "pinlock": true,
+   "pinlockIncluded": false,
+   "sunVisor": null,
+   "ventilation": "Ağız ve ön girişler, arka çıkışlar",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": true,
+   "intercomNotes": "Üretici interkom montajı için hazır yuvalar olduğunu belirtiyor.",
+   "spoiler": true,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "brutale",
+  "brand": "axor",
+  "name": "Brutale",
+  "subcategories": [
+   "kapali-kask",
+   "termoplastik-kask",
+   "interkomlu-kask",
+   "touring-kask"
+  ],
+  "summary": "Axor'un çift spoilerli kapalı kaskı. ECE 22.06 ve DOT onayı, iç güneş vizörü, double-D toka ve Türkiye'de kutudan çıkan Pinlock 70 lensiyle uygun fiyat sınıfında donanımı en dolu Axor.",
+  "description": [
+   "Brutale, Axor'un tanınan modeli; arkadaki çift spoiler kasaya karakterini veriyor. Kabuk ABS (global sayfa polikarbonat spoiler parçalarından söz ediyor), iç yapı çift yoğunluklu EPS. ECE 22.06, DOT ve ISI onaylı; ağırlık 1.600 g (±50 g), beden belirtilmemiş. Global beden tablosu iki dış kabuk boyutundan söz ediyor. Toka double-D.",
+   "Donanım fiyatına göre zengin: iç güneş vizörü, nefes yönlendirici ve çene perdesi standart. Axor Türkiye, Pinlock 70 lensin kutudan çıktığını yazıyor (global sayfa yalnızca \"Pinlock 70'e hazır\" diyor, yani lens pazara göre değişebilir). İç astar nem emici, esnek spandeks kumaştan. XS'ten 2XL'e kadar beden var; düz renkler 8.907 TL, grafikli modeller ve Türkiye özel serisi 9.717 TL."
+  ],
+  "forWho": [
+   "10.000 TL altında güneş vizörlü ve Pinlock'lu kapalı kask arayanlar",
+   "Şehir ve kısa tur arasında karışık kullanım yapanlar",
+   "Kurye işinde gündüz-gece geçişlerini güneş vizörüyle çözmek isteyenler"
+  ],
+  "notFor": [
+   "Fiber veya karbon kabuk hafifliği bekleyen uzun yol turcuları",
+   "Pist kullanımı için kask arayanlar"
+  ],
+  "pros": [
+   "İç güneş vizörü ve Türkiye'de kutudan çıkan Pinlock 70 lens",
+   "Double-D toka, çene perdesi ve nefes yönlendirici",
+   "XS–2XL geniş beden aralığı, iki kabuk boyutu",
+   "ECE 22.06 ve DOT onayı"
+  ],
+  "cons": [
+   "Çift spoiler bazı sürücülere gösterişli gelebilir; yan rüzgârdaki etkisi bağımsız testle doğrulanmış değil",
+   "Termoplastik kabuk fiber rakiplerden hacimli",
+   "Çıkarılabilir/yıkanabilir astar Brutale için açıkça belirtilmiyor"
+  ],
+  "usage": {
+   "sehir": "Güneş vizörü sayesinde tünel ve gölge geçişlerinde pratik.",
+   "uzunYol": "Pinlock ve güneş vizörüyle orta mesafede rahat; gürültü yalıtımı hakkında üretici verisi yok.",
+   "otoban": "ECE 22.06 onaylı, double-D tokalı; yüksek hızda spoiler etkisi kişisel deneyimle değerlendirilmeli.",
+   "sport": "Sportif görünüşlü, ancak pist kaskı değil.",
+   "adventure": "Siperliği yok; arazi için X-Cross daha uygun.",
+   "gozluk": "Gözlük kanalına dair üretici bilgisi yok.",
+   "interkom": "Axor interkom sistemleriyle uyumlu olduğunu söylüyor; evrensel interkomlar takılabilir.",
+   "kurye": "Güneş vizörü, Pinlock lens ve double-D toka ile kurye için iyi bir paket; çene açılır olmaması sık teslimatta tek eksi."
+  },
+  "verdict": "Brutale, uygun fiyatlı kapalı kasklarda sık eksik kalan güneş vizörü ve Pinlock lensi bir arada sunuyor. Kurye ve günlük kullanıcı için Axor'un en dengeli modeli. Çift spoiler tasarımı herkese hitap etmeyebilir; hafiflik isteyen biri fiber kabuklu bir kask düşünmeli.",
+  "faq": [
+   {
+    "q": "Brutale'de Pinlock lens kutudan çıkıyor mu?",
+    "a": "Axor Türkiye ürün sayfası Pinlock 70 lensin kutu içeriğinde olduğunu belirtiyor. Global sayfa yalnızca Pinlock 70'e hazır olduğunu yazdığı için satın alırken kutu içeriğini kontrol etmek iyi olur."
+   },
+   {
+    "q": "Brutale'de güneş vizörü var mı?",
+    "a": "Evet, entegre iç güneş vizörü var."
+   },
+   {
+    "q": "Çift spoiler ne işe yarıyor?",
+    "a": "Üretici spoilerlerin yüksek hızda stabilite ve arka havalandırma çıkışına katkı sağladığını söylüyor; bağımsız bir aerodinamik test verisi yayınlanmış değil."
+   }
+  ],
+  "rivals": [
+   "ls2/ff800-storm-ii",
+   "mt-helmets/thunder-4-sv",
+   "kyt/tt-revo"
+  ],
+  "priceRange": {
+   "min": 8907.3,
+   "max": 9717.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08",
+   "note": "Düz renkler 8.907,30 TL; grafikli modeller ve Türkiye özel koleksiyonu 9.717,30 TL."
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-kapali-kask",
+    "price": 8907.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL",
+     "2XL"
+    ],
+    "colors": [
+     "Bej",
+     "Beyaz",
+     "Derin Mavi",
+     "Haki",
+     "Mat Kırmızı",
+     "Mat Nardo Gri",
+     "Mat Siyah",
+     "Nikel",
+     "Siyah",
+     "Nardo Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-surges-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "M",
+     "L",
+     "2XL"
+    ],
+    "colors": [
+     "Kırmızı Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-kryptic-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "L",
+     "XL",
+     "2XL"
+    ],
+    "colors": [
+     "Siyah Sarı",
+     "Siyah Yeşil",
+     "Siyah Mavi"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-corsa-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "2XL"
+    ],
+    "colors": [
+     "Beyaz Kırmızı",
+     "Siyah Turuncu"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutal-ryden-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Beyaz Kırmızı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-surges-kapali-kask-racing",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Siyah Gold"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-turkiye-ozel-kolekssiyon-kaski",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "S",
+     "M",
+     "XL",
+     "2XL"
+    ],
+    "colors": [
+     "Parlak Siyah Gri",
+     "Mat Siyah Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-brutale-kapali-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-brutale-kapali-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Brutale ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/brutale-solid-colors-dual-spoiler-helmet",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor Brutale ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.linerRemovable",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Bej",
+   "Beyaz",
+   "Beyaz Kırmızı",
+   "Derin Mavi",
+   "Haki",
+   "Kırmızı Siyah",
+   "Mat Kırmızı",
+   "Mat Nardo Gri",
+   "Mat Siyah",
+   "Mat Siyah Gri",
+   "Nardo Gri",
+   "Nikel",
+   "Parlak Siyah Gri",
+   "Siyah",
+   "Siyah Gold",
+   "Siyah Mavi",
+   "Siyah Sarı",
+   "Siyah Turuncu",
+   "Siyah Yeşil"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "2XL",
+    "min": 63,
+    "max": 64
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": "ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": 2,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1600,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye dayanıklı, UV korumalı, aletsiz sökülen vizör; vizör kilit düğmesi",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": true,
+   "ventilation": "Üst hava girişi, çift spoilerle birleşik arka çıkışlar",
+   "chinCurtain": true,
+   "breathGuard": true,
+   "linerRemovable": null,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "double-d",
+   "intercomReady": true,
+   "intercomNotes": "Axor Türkiye interkom sistemleriyle uyumlu tasarım olduğunu belirtiyor; model uyumluluğu yazmıyor.",
+   "spoiler": true,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "x-cross",
+  "brand": "axor",
+  "name": "X-Cross",
+  "subcategories": [
+   "adventure-kask",
+   "termoplastik-kask"
+  ],
+  "summary": "Axor'un siperlikli, çift vizörlü dual-sport kaskı. ECE 22.06 ve DOT onayı, kutudan çıkan Pinlock 70, iç güneş vizörü ve double-D toka; asfalt ağırlıklı adventure ve toprak yol için bütçe seçeneği.",
+  "description": [
+   "X-Cross, Axor'un adventure (dual-sport) kaskı: cross kaskı görünümünü vizör ve güneş vizörüyle birleştiriyor. Kabuk yüksek darbe dayanımlı termoplastik ABS, iç yapı çift yoğunluklu EPS. ECE 22.06, DOT ve ISI onaylı; ağırlık 1.600 g (±50 g), beden belirtilmemiş. Siperlik ayarlanabiliyor ve sökülebiliyor; toka double-D.",
+   "Vizör optik olarak düzgün ve çizilmeye dayanıklı; Pinlock 70 film kutudan çıkıyor, iç füme güneş vizörü de standart. Burun koruyucu (rüzgâr deflektörü) dahil, iç astar çıkarılıp yıkanabiliyor. Türkiye'de düz renkler 9.177 TL, grafikli versiyonlar 9.717 TL. Türkiye mağazası XS–2XL listelese de XS ve 2XL o tarihte stokta görünmüyordu."
+  ],
+  "forWho": [
+   "Asfalt ağırlıklı adventure ve ara sıra toprak yol yapan bütçe odaklı sürücüler",
+   "Siperlikli kask görünümünü seven, güneş vizörü de isteyen şehir sürücüleri",
+   "Adventure kaskı arayan ama fiber modellerin fiyatına girmek istemeyenler"
+  ],
+  "notFor": [
+   "Ağır enduro ve motokros yapanlar (gözlüklü cross kaskı daha uygun)",
+   "Otobanda siperlik kaynaklı rüzgâr çekişini istemeyenler"
+  ],
+  "pros": [
+   "Kutudan çıkan Pinlock 70 ve iç güneş vizörü",
+   "Ayarlanabilen ve sökülebilen siperlik",
+   "Double-D toka, yıkanabilir astar, burun koruyucu",
+   "Fiber adventure kasklarının yarı fiyatından az"
+  ],
+  "cons": [
+   "Termoplastik kabuk; fiber rakiplere göre hacimli",
+   "Siperlik yüksek hızda rüzgâr yükü yaratabilir",
+   "İnterkom yuvası bu model için ayrıca belirtilmiyor"
+  ],
+  "usage": {
+   "sehir": "Güneş vizörü ve geniş havalandırmayla şehirde rahat; siperlik dar park yerlerinde dikkat ister.",
+   "uzunYol": "Pinlock ve güneş vizörü uzun günlerde işe yarar; siperlik sökülerek rüzgâr yükü azaltılabilir.",
+   "otoban": "ECE 22.06 onaylı; siperlikli yapı yüksek hızda kafayı çekebilir, siperliği sökmek bir seçenek.",
+   "sport": "Sportif sürüş için tasarlanmadı.",
+   "adventure": "Asıl alanı: siperlik ve vizör kombinasyonu stabilize toprak yolda iş görür.",
+   "gozluk": "Gözlük kanalı hakkında üretici bilgisi yok.",
+   "interkom": "Üretici bu model için interkom yuvasından açıkça söz etmiyor; evrensel interkomlar kelepçe ile takılabilir.",
+   "kurye": "Güneş vizörü ve Pinlock iyi, ancak siperlik ve ağırlık sık in-bin yapan kurye için Hunter/Brutale kadar pratik değil."
+  },
+  "verdict": "X-Cross, 10.000 TL altında ECE 22.06 onaylı, Pinlock'lu ve güneş vizörlü bir adventure kask arayan için mantıklı. Asfalt ağırlıklı adventure kullanımında rahat; ağır arazi için değil. Hafiflik ve sessizlik isteyen biri fiber kabuklu adventure kasklara bakmalı.",
+  "faq": [
+   {
+    "q": "X-Cross'un siperliği sökülüyor mu?",
+    "a": "Evet, üretici siperliğin ayarlanabilir ve kolayca sökülebilir olduğunu belirtiyor."
+   },
+   {
+    "q": "Kutudan Pinlock çıkıyor mu?",
+    "a": "Evet, Axor Türkiye ve global sayfa Pinlock 70 filmin vizörle birlikte geldiğini yazıyor."
+   }
+  ],
+  "rivals": [
+   "nolan/n70-2-x",
+   "scorpion/adf-9000-air",
+   "ls2/explorer-evo"
+  ],
+  "priceRange": {
+   "min": 9177.3,
+   "max": 9717.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08",
+   "note": "Düz renkler 9.177,30 TL; grafikli modeller (X1, Speedometer, Orbit, Gambling) 9.717,30 TL."
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-kapali-kask",
+    "price": 9177.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Nikel",
+     "Siyah Turuncu"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-x1-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Beyaz Kırmızı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-speedometer-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Beyaz Gri",
+     "Beyaz Kırmızı"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-orbit-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Haki Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-gambling-kapali-kask",
+    "price": 9717.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "colors": [
+     "Mavi Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-x-cross-kapali-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-x-cross-kapali-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor X-Cross ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/axor-x-cross-dual-visor",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor X-Cross ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.chinCurtain",
+   "specs.emergencyCheekPads",
+   "specs.intercomReady",
+   "specs.intercomNotes",
+   "specs.spoiler",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Beyaz Gri",
+   "Beyaz Kırmızı",
+   "Haki Gri",
+   "Mavi Siyah",
+   "Nikel",
+   "Siyah Turuncu"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "adventure",
+   "shellMaterial": "Yüksek darbe dayanımlı termoplastik ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": 1600,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Optik olarak düzgün, çizilmeye dayanıklı, aletsiz sökülen şeffaf vizör + iç füme güneş vizörü",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": true,
+   "ventilation": "Ağız ve üst girişler, arka çıkış",
+   "chinCurtain": null,
+   "breathGuard": true,
+   "linerRemovable": true,
+   "linerWashable": true,
+   "emergencyCheekPads": null,
+   "retention": "double-d",
+   "intercomReady": null,
+   "intercomNotes": null,
+   "spoiler": null,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "kylo",
+  "brand": "axor",
+  "name": "Kylo",
+  "subcategories": [
+   "acik-kask",
+   "termoplastik-kask"
+  ],
+  "summary": "Axor'un ECE 22.06 ve DOT onaylı açık (jet) kaskı. Mikrometrik toka, polikarbonat vizör ve küçük spoilerle scooter ve şehir içi kullanım için; Türkiye'de 3.723 TL, kontrol tarihinde stokta yoktu.",
+  "description": [
+   "Kylo, Axor'un açık (jet) kaskı. Axor'un global sayfası ECE 22.06, DOT ve ISI onaylarını listeliyor; Türkiye sayfası ABS dış kabuk ve ECE 22.06'dan söz ediyor. Vizör polikarbonat, çizilmeye ve UV ışığa dayanıklı, hızlı sökme mekanizmalı. Toka mikrometrik; havalandırma iki üst giriş ve bir arka çıkıştan oluşuyor. Arkada küçük bir spoiler var.",
+   "Axor Türkiye'nin Kylo sayfasındaki teknik bölüm X-Cross'un metniyle karışmış görünüyor (açık kask için siperlik ve 1.600 g ağırlık yazıyor). Bu yüzden ağırlığı ve güneş vizörünü doğrulanamadı olarak bıraktık. Türkiye fiyatı 3.723 TL; kontrol tarihinde tüm bedenler tükenmişti. Bedenler XS–XL."
+  ],
+  "forWho": [
+   "Scooter ile şehir içinde kısa mesafe kullananlar",
+   "Sıcak havada açık kask rahatlığı isteyen ve ECE 22.06 onayından vazgeçmeyenler"
+  ],
+  "notFor": [
+   "Çene koruması olmadığı için kurye işi ve yoğun trafikte uzun saatler geçirenler",
+   "Otoban ve uzun yol sürücüleri"
+  ],
+  "pros": [
+   "ECE 22.06 ve DOT onayı",
+   "Mikrometrik toka",
+   "XS bedenle küçük kafalara uygun"
+  ],
+  "cons": [
+   "Açık kask: çene ve yüzün alt kısmı korumasız",
+   "Kontrol tarihinde Türkiye'de stokta yok",
+   "Ağırlık ve güneş vizörü bilgisi resmi kaynaklarda tutarlı değil"
+  ],
+  "usage": {
+   "sehir": "Asıl kullanım alanı: kısa mesafe, düşük hız, scooter.",
+   "uzunYol": "Açık yapı rüzgâr ve gürültüye açık; uzun yol için uygun değil.",
+   "otoban": "Önerilmez; çene koruması yok.",
+   "gozluk": "Açık kask olduğu için gözlükle kullanımı kolay.",
+   "kurye": "Çene koruması olmadığı için kurye kullanımında kapalı bir model (Hunter, Saber) daha güvenli."
+  },
+  "verdict": "Kylo, scooter ile şehir içinde kısa mesafe kullanan biri için ECE 22.06 onaylı, uygun fiyatlı bir jet kask. Çene koruması olmadığı için kurye ve uzun yol için önermiyoruz. Kontrol tarihinde Türkiye'de stokta yoktu.",
+  "faq": [
+   {
+    "q": "Kylo ECE 22.06 onaylı mı?",
+    "a": "Evet, Axor'un global ve Türkiye sayfaları ECE 22.06'yı belirtiyor."
+   },
+   {
+    "q": "Kylo kurye için uygun mu?",
+    "a": "Açık kask olduğu için çeneyi korumuyor; kurye kullanımında kapalı bir kask daha güvenli."
+   }
+  ],
+  "rivals": [
+   "ls2/copter-ii",
+   "scorpion/exo-city-ii",
+   "axor/kioto"
+  ],
+  "priceRange": {
+   "min": 3723.3,
+   "max": 3723.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-kylo-acik-kask",
+    "price": 3723.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-kylo-acik-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-kylo-acik-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Kylo ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/axor-kylo-solid-helmet",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor Kylo ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlock",
+   "specs.pinlockIncluded",
+   "specs.sunVisor",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.linerRemovable",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.intercomReady",
+   "specs.intercomNotes",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Siyah"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "acik",
+   "shellMaterial": "ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye ve UV'ye dayanıklı polikarbonat vizör, hızlı sökme mekanizması",
+   "pinlock": null,
+   "pinlockIncluded": null,
+   "sunVisor": null,
+   "ventilation": "2 üst giriş, 1 arka çıkış",
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": null,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "mikrometrik",
+   "intercomReady": null,
+   "intercomNotes": null,
+   "spoiler": true,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "kioto",
+  "brand": "axor",
+  "name": "Kioto",
+  "subcategories": [
+   "acik-kask",
+   "termoplastik-kask"
+  ],
+  "summary": "Axor'un Türkiye'deki en ucuz kaskı: ABS kabuklu, vizörlü açık (jet) kask, 2.550 TL'den. Türkiye sayfasında homologasyon bilgisi tutarsız olduğu için ECE onayını doğrulanıyor olarak bırakıyoruz.",
+  "description": [
+   "Kioto, Axor Türkiye mağazasında satılan basit bir açık (jet) kask. Üretici ABS kabuk, çizilmeye dayanıklı vizör ve havalandırma kanallarından söz ediyor. Model Axor'un global sitesinde yer almıyor; Türkiye sayfasının teknik bölümü ise siperlik ve çift D halka gibi bu kaska uymayan maddeler içeriyor, X-Cross'un metniyle karışmış görünüyor.",
+   "Bu nedenle ECE 22.06 onayı, ağırlık ve toka tipi gibi bilgileri doğrulanamadı olarak bıraktık. Satın almadan önce kaskın içindeki ECE etiketini (22.06 ve onay numarası) kontrol etmenizi öneriyoruz. Düz renkler 2.550 TL, Sea Dragon grafikli versiyon 2.859 TL; bedenler XS–XL."
+  ],
+  "forWho": [
+   "Scooter ile çok kısa mesafe kullanan ve en düşük bütçeyle kask arayanlar",
+   "Kasktaki homologasyon etiketini kendisi kontrol edebilecek, yedek ikinci kask arayanlar"
+  ],
+  "notFor": [
+   "Kurye işi, otoban ve uzun yol kullanımı",
+   "ECE 22.06 onayını belgeyle görmeden almak istemeyenler"
+  ],
+  "pros": [
+   "Türkiye'de 2.550 TL'den başlayan fiyat",
+   "Vizörlü açık kask, XS bedenli"
+  ],
+  "cons": [
+   "Homologasyon bilgisi resmi sayfada tutarsız; ECE 22.06 doğrulanamadı",
+   "Açık kask: çene koruması yok",
+   "Global Axor sitesinde yer almıyor, teknik verisi sınırlı"
+  ],
+  "usage": {
+   "sehir": "Kısa mesafe scooter kullanımı için.",
+   "uzunYol": "Uygun değil.",
+   "otoban": "Önerilmez.",
+   "gozluk": "Açık kask olduğu için gözlükle kullanımı kolay.",
+   "kurye": "Kurye kullanımı için önermiyoruz: açık kask ve homologasyonu doğrulanamadı."
+  },
+  "verdict": "Kioto, Axor'un en ucuz kaskı. Ancak resmi sayfadaki teknik bilgiler tutarsız ve ECE 22.06 onayını doğrulayamadık. Az bir fark ödeyerek ECE 22.06 onaylı Kylo ya da kapalı Hunter almak daha güvenli bir tercih.",
+  "faq": [
+   {
+    "q": "Kioto ECE 22.06 onaylı mı?",
+    "a": "Axor Türkiye sayfasındaki teknik bölüm bu modele ait görünmüyor; ECE 22.06 onayını doğrulayamadık. Kaskın içindeki homologasyon etiketini kontrol edin."
+   }
+  ],
+  "rivals": [
+   "axor/kylo",
+   "ls2/copter-ii",
+   "tex-motor/sw-737"
+  ],
+  "priceRange": {
+   "min": 2550.0,
+   "max": 2859.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08",
+   "note": "Düz renkler 2.550 TL; Sea Dragon grafikli 2.859,30 TL."
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-kioto-acik-kask",
+    "price": 2550.0,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "M",
+     "L"
+    ],
+    "colors": [
+     "Beyaz",
+     "Siyah",
+     "Mat Siyah",
+     "Nardo Gri"
+    ],
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-kioto-acik-kask-kopya",
+    "price": 2859.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": true,
+    "sizes": [
+     "XS",
+     "L"
+    ],
+    "colors": [
+     "Renkli"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-kioto-acik-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-kioto-acik-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Kioto ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "low",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.ece2206",
+   "specs.dot",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.pinlock",
+   "specs.pinlockIncluded",
+   "specs.sunVisor",
+   "specs.ventilation",
+   "specs.chinCurtain",
+   "specs.breathGuard",
+   "specs.linerRemovable",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.retention",
+   "specs.intercomReady",
+   "specs.intercomNotes",
+   "specs.spoiler",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Beyaz",
+   "Mat Siyah",
+   "Nardo Gri",
+   "Renkli",
+   "Siyah"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "acik",
+   "shellMaterial": "ABS",
+   "materialClass": "termoplastik",
+   "shellSizes": null,
+   "ece2206": null,
+   "dot": null,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye dayanıklı vizör",
+   "pinlock": null,
+   "pinlockIncluded": null,
+   "sunVisor": null,
+   "ventilation": null,
+   "chinCurtain": null,
+   "breathGuard": null,
+   "linerRemovable": null,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": null,
+   "intercomReady": null,
+   "intercomNotes": null,
+   "spoiler": null,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ },
+ {
+  "category": "kask",
+  "status": "active",
+  "successor": null,
+  "slug": "apex-carbon",
+  "brand": "axor",
+  "name": "Apex Forged Carbon",
+  "subcategories": [
+   "kapali-kask",
+   "karbon-kask"
+  ],
+  "summary": "Axor'un forged karbon kabuklu kapalı kaskı. ECE 22.06 ve DOT onayı, double-D toka ve kutudan çıkan buğu önleyici lens; Türkiye'de 18.897 TL, kontrol tarihinde stokta yoktu.",
+  "description": [
+   "Apex Forged Carbon, Axor'un Apex kasasının dövme (forged) karbon kabuklu versiyonu. ECE 22.06 ve DOT onaylı, toka double-D. Ağırlık iki resmi kaynakta farklı: Axor Türkiye 1.525 g (±50 g), global sayfa 1.550 g (±50 g) yazıyor. Bu yüzden kesin ağırlığı doğrulanamadı olarak bıraktık; iki değer de beden belirtmiyor.",
+   "Vizör çizilmeye dayanıklı ve aletsiz sökülüyor; yaylı mekanizma vizörün kasaya oturmasına yardım ediyor. Buğu önleyici lens (Türkiye sayfasında Pinlock) kutudan çıkıyor, nefes yönlendirici ve çene perdesi dahil. İç güneş vizöründen söz edilmiyor. Türkiye fiyatı 18.897 TL; kontrol tarihinde tüm bedenler tükenmişti."
+  ],
+  "forWho": [
+   "Karbon kabuk isteyen ama premium Avrupa/Japon markalarının fiyatına girmek istemeyenler",
+   "Sportif görünüşlü, hafif kabuklu bir kapalı kask arayanlar"
+  ],
+  "notFor": [
+   "İç güneş vizörü isteyenler",
+   "Fiyat/performans arayan kuryeler (aynı korumayı çok daha ucuza Brutale veriyor)"
+  ],
+  "pros": [
+   "Forged karbon kabuk, karbon kasklar arasında düşük fiyat",
+   "ECE 22.06 ve DOT onayı, double-D toka",
+   "Buğu önleyici lens, nefes yönlendirici ve çene perdesi kutuda"
+  ],
+  "cons": [
+   "Kontrol tarihinde Türkiye'de stokta yok",
+   "Ağırlık iki resmi kaynakta farklı veriliyor",
+   "İç güneş vizörü yok; interkom yuvası belirtilmemiş"
+  ],
+  "usage": {
+   "sehir": "Kullanılabilir, ancak güneş vizörü olmadığından gündüz için füme vizör gerekir.",
+   "uzunYol": "Karbon kabuk boyuna daha az yük bindirir; gürültü verisi yok.",
+   "otoban": "ECE 22.06 onaylı, double-D tokalı ve spoilerli.",
+   "sport": "Sportif kullanım için uygun görünüşte; FIM onayı yok.",
+   "kurye": "Kurye için fazla pahalı ve güneş vizörü yok; Brutale daha mantıklı."
+  },
+  "verdict": "Apex Forged Carbon, karbon kabuğu uygun fiyata isteyen için ilginç bir seçenek. Ancak güneş vizörü yok, ağırlık verisi tutarsız ve kontrol tarihinde Türkiye'de stokta değildi. Aynı fiyata fiber kabuklu, daha donanımlı Avrupa kasklarıyla karşılaştırmak gerekir.",
+  "faq": [
+   {
+    "q": "Apex Forged Carbon ne kadar ağır?",
+    "a": "Axor Türkiye 1.525 g, global site 1.550 g (her ikisi ±50 g) yazıyor; beden belirtilmiyor."
+   },
+   {
+    "q": "FIM onayı var mı?",
+    "a": "Üretici sayfalarında FIM onayından söz edilmiyor; ECE 22.06 ve DOT onayları listeleniyor."
+   }
+  ],
+  "rivals": [
+   "hjc/rpha-12",
+   "agv/k6-s",
+   "nolan/x-804-rs-ultra-carbon"
+  ],
+  "priceRange": {
+   "min": 18897.3,
+   "max": 18897.3,
+   "currency": "TRY",
+   "checkedAt": "2026-10-08"
+  },
+  "offers": [
+   {
+    "seller": "Axor Helmets Türkiye (resmi mağaza)",
+    "url": "https://axorhelmets.com.tr/products/axor-apex-carbon-kapali-kask",
+    "price": 18897.3,
+    "salePrice": null,
+    "currency": "TRY",
+    "inStock": false,
+    "sizes": [],
+    "colors": [
+     "Siyah"
+    ],
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "manufacturerUrl": "https://axorhelmets.com.tr/products/axor-apex-carbon-kapali-kask",
+  "sources": [
+   {
+    "url": "https://axorhelmets.com.tr/products/axor-apex-carbon-kapali-kask",
+    "type": "manufacturer",
+    "label": "Axor Helmets Türkiye – Axor Apex Forged Carbon ürün sayfası (resmi TR mağazası)",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://axorhelmets.com/products/apex-forged-carbon-helmet",
+    "type": "manufacturer",
+    "label": "Axor Helmets global – Axor Apex Forged Carbon ürün sayfası",
+    "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0668/1175/6643/files/Size-Chart.jpg?v=1775679137",
+    "type": "manufacturer",
+    "label": "Axor Türkiye kask beden tablosu (görsel)",
+    "checkedAt": "2026-10-08"
+   }
+  ],
+  "lastCheckedAt": "2026-10-08",
+  "dataConfidence": "medium",
+  "unverified": [
+   "specs.shellSizes",
+   "specs.snell",
+   "specs.fim",
+   "specs.weightGrams",
+   "specs.weightSize",
+   "specs.headShape",
+   "specs.sunVisor",
+   "specs.linerRemovable",
+   "specs.linerWashable",
+   "specs.emergencyCheekPads",
+   "specs.intercomReady",
+   "specs.intercomNotes",
+   "specs.madeIn"
+  ],
+  "colors": [
+   "Siyah"
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "2XL",
+    "min": 63,
+    "max": 64
+   }
+  ],
+  "sizeChartMeasure": "Kafa çevresi (cm)",
+  "specs": {
+   "helmetType": "kapali",
+   "shellMaterial": "Forged (dövme) karbon fiber",
+   "materialClass": "karbon",
+   "shellSizes": null,
+   "ece2206": true,
+   "dot": true,
+   "snell": null,
+   "fim": null,
+   "weightGrams": null,
+   "weightSize": null,
+   "headShape": null,
+   "visor": "Çizilmeye dayanıklı, optik olarak düzgün, aletsiz sökülen vizör; yaylı vizör mekanizması",
+   "pinlock": true,
+   "pinlockIncluded": true,
+   "sunVisor": null,
+   "ventilation": "Üst girişler, spoilerle birleşik arka çıkış",
+   "chinCurtain": true,
+   "breathGuard": true,
+   "linerRemovable": null,
+   "linerWashable": null,
+   "emergencyCheekPads": null,
+   "retention": "double-d",
+   "intercomReady": null,
+   "intercomNotes": null,
+   "spoiler": true,
+   "warrantyYears": 2,
+   "madeIn": null
+  }
+ }
+]

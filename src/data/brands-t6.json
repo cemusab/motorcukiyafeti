@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "venom",
+    "name": "Venom",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.instagram.com/venomturkey/",
+    "about": [
+      "Venom, motosiklet montu, pantolonu, eldiveni ve dizlik gibi koruyucu ürünler satan yerli bir ekipman markası. Markanın resmi web sitesi bulunmuyor; resmi Instagram hesabı kendini motosiklet ekipmanları ve aksesuarları markası olarak tanıtıyor ve konumunu Türkiye olarak gösteriyor. Ürünler Motoplus ve Feyizoğlu gibi motosiklet ekipmanı mağazalarında satılıyor.",
+      "Ürün yelpazesi ağırlıklı olarak uygun fiyatlı tekstil montlardan oluşuyor: yazlık fileli ceketler, çıkarılabilir içlikli dört mevsim montlar, kadın kalıplı modeller ve bir deri mont. Bunlara Cordura denim motosiklet pantolonu, deri ve softshell eldivenler ile dış dizlikler ekleniyor. Kuruluş yılı ve tarihçesi doğrulanabilir bir kaynakta yer almadığı için burada verilmiyor."
+    ],
+    "strengths": [
+      "Uygun fiyatlı dört mevsim ve yazlık tekstil montlar",
+      "Kadın kalıplı mont seçenekleri",
+      "Geniş beden aralığı (bazı modellerde 6XL'e kadar)"
+    ],
+    "categories": [
+      "mont",
+      "pantolon",
+      "eldiven",
+      "koruma"
+    ],
+    "families": [],
+    "highlights": [],
+    "alternatives": [
+      "tex-motor",
+      "scudo",
+      "yaren-tekstil"
+    ],
+    "history": [],
+    "strongestLine": "Uygun fiyatlı tekstil motosiklet montları",
+    "sources": [
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı (profil ve konum bilgisi)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motoplus.com.tr/marka/venom",
+        "type": "retailer",
+        "label": "Motoplus Venom marka sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-dynamic-4-mevsim-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası (menşei Türkiye beyanı)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/Venom_br_493",
+        "type": "retailer",
+        "label": "Feyizoğlu Venom marka sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

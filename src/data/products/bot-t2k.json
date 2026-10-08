@@ -1,0 +1,288 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Stella SMX-1 R v2 su geçirmez mi?",
+        "a": "Hayır. Alpinestars bu modelde su geçirmez membran belirtmiyor; yağmurlu günler için bot kılıfı gerekir."
+      },
+      {
+        "q": "Hangi numaralar var?",
+        "a": "Alpinestars sayfasında 36–44 arası numaralar listeleniyor."
+      }
+    ],
+    "rivals": [
+      "shima/rx-3-lady",
+      "alpinestars/stella-faster-3-rideknit",
+      "buse/d20-damen"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-1-r-v2-korumali-kadin-motosiklet-botu-siyah",
+        "price": 17580,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 17580,
+      "max": 17580,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "stella-smx-1-r-v2",
+    "brand": "alpinestars",
+    "name": "Stella SMX-1 R v2",
+    "category": "bot",
+    "subcategories": [
+      "sehir-botu",
+      "sport-botu"
+    ],
+    "summary": "Alpinestars'ın kadın kalıplı, bilek boyu sport sürüş ayakkabısı; EN 13634:2017 sertifikalı, TPU topuk, yan bilek ve vites pedi koruması.",
+    "description": [
+      "Stella SMX-1 R v2, Alpinestars'ın kısa konçlu (bilek boyu) sport sürüş ayakkabısının kadın ayağına göre kalıplanmış sürümü. Üst kısım hafif ve aşınmaya dayanıklı mikrofiberden; kritik bölgelerde TPU koruyucular var. Alpinestars ürünü CE EN 13634:2017'ye göre sertifikalı olarak listeliyor, ancak dört haneli performans kodunu sayfada vermiyor.",
+      "Yüksek modüllü dış TPU topuk sabitleyici, yan bilek koruması ve TPU vites pedi darbe ve aşınmaya karşı koruma sağlıyor. Topuk destek sistemi kayışlı kapanışla birlikte çalışarak oturmayı iyileştiriyor; arka esneme körüğü ve hava girişi havalandırmaya yardım ediyor. Kauçuk taban motorda ve yürürken tutuş için desenlendirilmiş. Uzun konçlu bir pist botu kadar bilek ve kaval koruması sunmadığını bilerek seçilmeli."
+    ],
+    "forWho": [
+      "Şehirde ve sportif yol sürüşünde günlük giyilebilir koruma ayakkabısı isteyen kadın sürücüler",
+      "Uzun konçlu bot giymek istemeyenler"
+    ],
+    "notFor": [
+      "Pist günü için tam boy sport bot arayanlar",
+      "Yağmurda su geçirmezlik bekleyenler"
+    ],
+    "pros": [
+      "EN 13634:2017 sertifikalı",
+      "TPU topuk, yan bilek ve vites pedi koruması",
+      "Kadın ayağına özel kalıp",
+      "Motomax'ta TL fiyatıyla satışta"
+    ],
+    "cons": [
+      "EN 13634 performans kodu sayfada yok",
+      "Kısa konç: kaval ve üst bilek koruması sınırlı",
+      "Su geçirmez değil"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; yürümesi rahat, günlük giyilebilir.",
+      "sport": "Sportif yol sürüşü için uygun; pist için tam boy bot gerekir.",
+      "yaz": "Arka hava girişi ve esneme bölgesi havalandırmaya yardım ediyor.",
+      "yagmur": "Su geçirmez değil.",
+      "uzunYol": "Kuru havada kullanılabilir.",
+      "kurye": "Yürüme rahatlığı açısından uygun; yağmurlu günlerde su geçirmez değil."
+    },
+    "verdict": "Stella SMX-1 R v2, uzun bot giymek istemeyen kadın sürücüler için EN 13634 sertifikalı, sport çizgili ve günlük giyilebilir bir ayakkabı. Performans kodunun yazmaması, su geçirmezlik olmaması ve kısa konç sınırları.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-smx-1-r-v2-boots",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-smx-1-r-v2-boots",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella SMX-1 R V2 Boots ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-smx-1-r-v2-korumali-kadin-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Stella SMX-1 R v2 kadın bot ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Mikrofiber üst yüzey, TPU koruyucular, kauçuk taban",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Arka esneme körüğünde hava girişi",
+      "closure": "Anatomik açılı kayışlı kapama",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah/Beyaz"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "2222 kodu ne anlama geliyor?",
+        "a": "EN 13634:2017'de dört rakam sırasıyla bot yüksekliği, aşınma direnci, darbe-kesilme direnci ve enine sıkışma direncini gösterir. 2 her kriterde en yüksek seviyedir."
+      },
+      {
+        "q": "RX-3 Lady su geçirmez mi?",
+        "a": "Hayır. Perforasyonlu yüzey ve file iç astar havalandırma için tasarlanmış; sertifika kodunda WR ibaresi yok."
+      }
+    ],
+    "rivals": [
+      "alpinestars/stella-smx-1-r-v2",
+      "alpinestars/stella-smx-6-v3",
+      "revit/arrow-2-h2o-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-rx-3-korumali-kadin-motosiklet-botu-siyah",
+        "price": 12190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah/Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 12190,
+      "max": 12190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "rx-3-lady",
+    "brand": "shima",
+    "name": "RX-3 Lady",
+    "category": "bot",
+    "subcategories": [
+      "sport-botu",
+      "touring-botu"
+    ],
+    "summary": "Shima'nın kadın kalıplı sport-touring botu; EN 13634:2017 en yüksek seviye 2222, değiştirilebilir metal slider, TPU kaval-topuk ve SAP bilek koruması.",
+    "description": [
+      "RX-3 Lady, Polonyalı Shima'nın sport-touring botunun kadın sürümü. Shima modeli EN 13634:2017'ye göre 2222 kodla, yani yükseklik, aşınma, kesilme ve enine sıkışma direncinin dördünde de en yüksek seviyede sertifikalı olarak listeliyor. Koruma; değiştirilebilir metal slider, kaval ve topukta TPU, parmak ve bilekte TPR koruyucular ile SAP bilek koruyucularından oluşuyor.",
+      "APS (Ankle Pro Support) sistemi bileği destekleyip topuğu sabitliyor; kaymaz, yağa ve benzine dayanıklı ESG tabanı enine güçlendirilmiş. Dış yüzeydeki yoğun perforasyon ve file iç astar havalandırmayı ön plana çıkarıyor; bu yüzden yağmurda su geçirmez değil. Uzun fermuar ve cırt kapanış, G-FLEXX darbe emici iç taban ve ön-arka-yanlardaki yansıtıcılar diğer detaylar. 36–41 numara aralığında, siyah/beyaz renkte sunuluyor."
+    ],
+    "forWho": [
+      "Sportif yol ve tur sürüşünde tam boy bot isteyen kadın sürücüler",
+      "En yüksek EN 13634 seviyesini uygun fiyata arayanlar",
+      "Sıcak havada havalandırmalı sport bot isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda su geçirmezlik bekleyenler",
+      "42 ve üzeri numara giyenler",
+      "Günlük yürümeye uygun kısa ayakkabı arayanlar"
+    ],
+    "pros": [
+      "EN 13634:2017 2222, dört kriterde en yüksek seviye",
+      "Değiştirilebilir metal slider, TPU kaval-topuk koruması",
+      "Bol perforasyon, yazın serin",
+      "Motomax'ta TL fiyatıyla satışta"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Numara aralığı 36–41 ile sınırlı",
+      "Tam boy yapı yürürken kısa ayakkabı kadar rahat değil"
+    ],
+    "usage": {
+      "sport": "En güçlü olduğu alan; slider ve 2222 sertifika sportif sürüş için.",
+      "uzunYol": "Kuru havada turda kullanılabilir; G-FLEXX iç taban konfora yardım ediyor.",
+      "yaz": "Yoğun perforasyon sayesinde sıcakta serin.",
+      "yagmur": "Su geçirmez değil.",
+      "sehir": "Kullanılabilir ama yürümesi kısa bir ayakkabı kadar rahat değil.",
+      "kurye": "Koruma iyi ama sık inip yürümek için tam boy bot yorucu; kurye için kısa korumalı ayakkabı daha pratik."
+    },
+    "verdict": "RX-3 Lady, kadın sürücüler için EN 13634 2222 sertifikalı, slider'lı ve iyi havalandırılan, fiyatına göre güçlü bir sport-touring bot. Su geçirmezlik olmaması ve 41 numarada biten aralık sınırları.",
+    "manufacturerUrl": "https://shima.pl/shop/rx-3-lady-czarny-bialy/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/rx-3-lady-czarny-bialy/",
+        "type": "manufacturer",
+        "label": "Shima – RX-3 Lady bot ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-rx-3-korumali-kadin-motosiklet-botu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Shima RX-3 kadın bot ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "File kumaş, sentetik deri, PU deri, yansıtıcı detaylar",
+      "materialClass": "karma",
+      "ceStandard": "EN 13634:2017",
+      "ceClass": "2222",
+      "protectors": [
+        {
+          "area": "ayak-bilegi",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Dış yüzey ve koruyucularda perforasyon, file iç astar",
+      "closure": "Uzun fermuar ve cırt kapama",
+      "madeIn": null
+    }
+  }
+]

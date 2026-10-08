@@ -1,0 +1,167 @@
+[
+  {
+    "category": "koruma",
+    "slug": "vn-09-dizlik",
+    "brand": "venom",
+    "name": "VN-09 Dizlik",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Pantolonun üstüne takılan, çift mafsallı, darbe emici pedli ve reflektör çerçeveli Venom diz-kaval dizliği; özellikle kuryelerin kışın rüzgârdan korunmak için tercih ettiği tipte.",
+    "description": [
+      "VN-09, pantolonun üstüne bağlanarak kullanılan bir diz ve kaval koruyucusu. Satıcıya göre çift mafsallı yapısı dizin bükülmesini kısıtlamıyor; içteki darbe emici elastik pedler hem darbeyi yumuşatmaya hem de soğuk havada diz ve kaval kemiğini rüzgârdan korumaya yönelik. Kenarlarını çevreleyen reflektörler gece görünürlüğe katkı sağlıyor.",
+      "Bu tip dış dizlikler Türkiye'de özellikle kuryeler arasında, korumasız iş pantolonunun üstüne takılarak kullanılıyor. Satıcı sayfasında EN 1621-1 sertifikası ya da seviye bilgisi yok; ürün şehir içi kullanım ve başlangıç seviyesi için konumlandırılıyor. S/M ve L/XL olmak üzere iki beden var. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Korumasız pantolonla motor kullanan ve dize hızlı bir koruma eklemek isteyen kuryeler",
+      "Kışın dizlerine rüzgâr çarpmasından rahatsız olan şehir içi sürücüler",
+      "Çok düşük bütçeyle diz koruması arayanlar"
+    ],
+    "notFor": [
+      "Sertifikalı (EN 1621-1) diz koruması arayanlar",
+      "Uzun yol ya da yüksek hızda kullanacaklar; sertifikalı korumalı pantolon daha doğru seçim",
+      "Sıcak yaz günlerinde kullanacaklar; pedler terletir"
+    ],
+    "pros": [
+      "Çok uygun fiyatlı",
+      "Çift mafsal hareketi kısıtlamıyor",
+      "Kaval kemiğini de örtüyor",
+      "Reflektör çerçeve gece görünürlüğe katkı sağlıyor"
+    ],
+    "cons": [
+      "Sertifika bilgisi yok",
+      "Pantolonun üstünde durduğu için düşmede kayabilir",
+      "Yalnızca iki beden",
+      "Yazın sıcak tutar"
+    ],
+    "usage": {
+      "sehir": "Şehir içi düşük hızlı sürüşte temel bir ek koruma.",
+      "kis": "Diz ve kavalı rüzgârdan koruduğu için kışın rahatlatır.",
+      "yaz": "Pedler sıcakta terletebilir.",
+      "kurye": "Korumasız pantolonla çalışan kuryeler için hızlı ve ucuz bir ek koruma; ama sertifikalı korumalı pantolonun yerini tutmaz."
+    },
+    "verdict": "VN-09, korumasız pantolonla motor kullananların dizine hızlıca koruma ekleyebileceği, çok uygun fiyatlı bir dış dizlik. Kışın rüzgâr kesmesi kuryeler için pratik bir artı. Ancak sertifika bilgisi yok; gerçek düşme koruması için EN 1621-1 korumalı bir motosiklet pantolonu daha güvenilir seçim.",
+    "rivals": [
+      "tech90/impactec-tp-02"
+    ],
+    "priceRange": {
+      "min": 840,
+      "max": 850,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus ve Feyizoğlu fiyatları."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-motosiklet-dizlik-vn-09",
+        "price": 840,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S/M",
+          "L/XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/venom-vn09-cift-mafsalli-dizlik-takim_54422.html",
+        "price": 850,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "S/M",
+          "L/XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "VN-09 CE sertifikalı mı?",
+        "a": "Satıcı sayfalarında EN 1621-1 sertifikası ya da seviye bilgisi verilmiyor. Sertifikalı diz koruması isteyenler korumalı bir motosiklet pantolonu ya da sertifikalı diz koruyucusu seçmeli."
+      },
+      {
+        "q": "Nasıl takılıyor?",
+        "a": "Pantolonun üstüne, dize ve kaval kemiğine denk gelecek şekilde bantlarla bağlanıyor. S/M ve L/XL olmak üzere iki beden var."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-motosiklet-dizlik-vn-09",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/venom-vn09-cift-mafsalli-dizlik-takim_54422.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.material",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.closure",
+      "specs.madeIn",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": null,
+      "materialClass": null,
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kaval",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": false,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  }
+]

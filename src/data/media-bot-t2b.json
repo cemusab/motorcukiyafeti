@@ -1,0 +1,74 @@
+[
+  {
+    "product": "bmw-motorrad/venturegrip-pro-gore-tex",
+    "images": [
+      {
+        "url": "https://www.bmwmotorcycles.com/imagesrs?COSY-EU-100-3522fK3Po25Dswad%25Ys7mcG%25bVjgqicnjouBmjppf1ltQKqKNoxx1qlpzRf6RaZ6Et4%25w607il1kSzWLMO4AdTYcN8KjI2Ja3NNeo1rpx0Ufcp1wo9y63Os91%25veKqe7ABv0MIoD",
+        "alt": "BMW Motorrad VentureGrip Pro GORE-TEX adventure botu, kahverengi, önden görünüm",
+        "credit": "BMW Motorrad",
+        "sourcePage": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/boots-sneakers/5b5ea49-venturegrip-pro-gore-tex-boots.html"
+      },
+      {
+        "url": "https://www.bmwmotorcycles.com/imagesrs?COSY-EU-100-4568YUKr9qmIsEYyusoH1qAmmGKBVRrI3KJDR59fBLNkHRfttip7wL5Z38Fx48oWdzm6ydtm7vikADAyTCzgU9o2pa8uSISjDVF3BSW0knJ2aLgvi7IvdDiPNArvjZRuGEFR1V98",
+        "alt": "BMW Motorrad VentureGrip Pro GORE-TEX adventure botu, kahverengi, ikinci görünüm",
+        "credit": "BMW Motorrad",
+        "sourcePage": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/boots-sneakers/5b5ea49-venturegrip-pro-gore-tex-boots.html"
+      },
+      {
+        "url": "https://www.bmwmotorcycles.com/imagesrs?COSY-EU-100-2229NvSKvk7sg1cVoPY84pwTGuxdnzpviiLZBQVTNd3ifEnm8uB5%25UDrGjNHnXSObAGVJDVh5GIPkZ8D5SH6KQ%25RSkEQtJdcSSy0AIvtBrxDCrIXuqJGwS9dRVbPAU086H6nbnv5",
+        "alt": "BMW Motorrad VentureGrip Pro GORE-TEX adventure botu, kahverengi, üçüncü görünüm",
+        "credit": "BMW Motorrad",
+        "sourcePage": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/boots-sneakers/5b5ea49-venturegrip-pro-gore-tex-boots.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/tech-7-enduro",
+    "images": [
+      {
+        "url": "https://gb.alpinestars.com/cdn/shop/files/2012114-10-tech7_enduro_black.png",
+        "alt": "Alpinestars Tech 7 Enduro arazi botu, siyah",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-7-enduro-boots-black"
+      },
+      {
+        "url": "https://gb.alpinestars.com/cdn/shop/files/2012114-10-tech7enduro_rot1.png",
+        "alt": "Alpinestars Tech 7 Enduro bot, siyah, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-7-enduro-boots-black"
+      },
+      {
+        "url": "https://gb.alpinestars.com/cdn/shop/files/2012114-10-tech7enduro_rot3.png",
+        "alt": "Alpinestars Tech 7 Enduro bot, siyah, farklı açı",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-7-enduro-boots-black"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "leatt/adv-hydradri-7-5-short",
+    "images": [
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_BootADV_7.5HydraDriShort_Stealth_Pair_3025050100_000bc4d4-f5c1-42ac-a9d0-2f6adcd28b47.png",
+        "alt": "Leatt ADV HydraDri 7.5 Short kısa adventure botu, siyah (Stealth), çift",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/boot-adv-hydradri-7-5-short"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_BootADV_7.5HydraDriShort_Stealth_IsoRight_3025050100_c497fa4d-197e-4f01-b6fe-3cdd067c4148.png",
+        "alt": "Leatt ADV HydraDri 7.5 Short bot, siyah, açılı görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/boot-adv-hydradri-7-5-short"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_BootADV_7.5HydraDriShort_Stealth_Right_3025050100_48308781-055e-4829-a817-8f71b8e6a2bb.png",
+        "alt": "Leatt ADV HydraDri 7.5 Short bot, siyah, yandan görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/boot-adv-hydradri-7-5-short"
+      }
+    ],
+    "videos": []
+  }
+]

@@ -150,8 +150,8 @@ export const activeLists = memo(() => LIST_DEFS.filter((l) => l.pick().length >=
 /* ---------- Cinsiyet sayfaları ---------- */
 
 export const GENDERS = [
-  { slug: "kadin", name: "Kadın", long: "Kadın Motosiklet Ekipmanları" },
-  { slug: "erkek", name: "Erkek", long: "Erkek Motosiklet Ekipmanları" },
+  { slug: "kadin", name: "Kadın", long: "Kadın Motosiklet Kıyafetleri ve Ekipmanları" },
+  { slug: "erkek", name: "Erkek", long: "Erkek Motosiklet Kıyafetleri ve Ekipmanları" },
 ] as const;
 export type GenderSlug = (typeof GENDERS)[number]["slug"];
 

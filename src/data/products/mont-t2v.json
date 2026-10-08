@@ -1,0 +1,1266 @@
+[
+  {
+    "category": "mont",
+    "slug": "dynamic",
+    "brand": "venom",
+    "name": "Dynamic",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Air Mesh panelli 600D polyester gövdesi, su geçirmez lamineli iç astarı ve çıkarılabilir içliğiyle dört mevsim kullanılabilen, omuz ve dirsekte CE korumalı yerli tekstil mont.",
+    "description": [
+      "Dynamic, Venom'un uzun süredir satılan ve fiyatıyla öne çıkan dört mevsim tekstil montu. Dış kabukta 600D polyester (satıcı Duratex olarak adlandırıyor) ile Air Mesh file paneller bir arada kullanılıyor. İçte su ve rüzgâr geçirmez olarak tanımlanan silikon lamineli bir astar, onun altında da çıkarılabilir polyester bir ısı içliği var; içlik çıkarıldığında mont bahar ve serin yaz günlerine, takıldığında soğuk havaya uyuyor.",
+      "Satıcı sayfasına göre omuz ve dirsekte CE onaylı korumalar takılı geliyor, sırtta ise sertifikalı koruyucu yerine takviyeli (yumuşak) bir ped bulunuyor. Korumaların EN 1621 seviyesi, montun kendisinin EN 17092 sınıfı belirtilmiyor. Bel, kol ve bilekte ayar, pantolon bağlantı fermuarı, iki dış ve iki iç cep var; menşei Türkiye olarak yazılı. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Bütçesi sınırlı olup tek montla dört mevsim sürmek isteyen yeni motorcular",
+      "Şehir içinde her gün süren ve korumalı, uygun fiyatlı bir mont arayan kuryeler",
+      "XS'ten 6XL'e kadar geniş beden aralığına ihtiyaç duyanlar"
+    ],
+    "notFor": [
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar; satıcı sınıf belirtmiyor",
+      "Sırtta sertifikalı koruyucu isteyenler; ayrıca Level 2 sırt koruması alınmalı",
+      "Yoğun yağmurda uzun yol yapacaklar; su geçirmezlik iç astara dayanıyor, dış kumaş ıslanır"
+    ],
+    "pros": [
+      "Fiyatı dört mevsim montlara göre düşük",
+      "Çıkarılabilir ısı içliği ve file panellerle geniş mevsim aralığı",
+      "Omuz ve dirsek korumaları dahil",
+      "Çok geniş beden ve renk seçeneği"
+    ],
+    "cons": [
+      "EN 17092 sınıfı ve koruyucuların EN 1621 seviyesi belirtilmemiş",
+      "Sırtta sertifikalı koruyucu yok, yalnızca takviyeli ped",
+      "Su geçirmez katman içte olduğu için dış kumaş yağmurda ıslanıp ağırlaşır",
+      "Satıcı yorumlarında kalıbın küçük olduğu ve bir beden büyük alınması önerildiği belirtiliyor"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir sürüşü için pratik; ceplerin ve ayarların yeterli olduğu dengeli bir mont.",
+      "yaz": "İçlik çıkarıldığında file paneller sayesinde serin yaz sabahlarına uyar; çok sıcak öğle saatleri için tam yazlık mont kadar havadar değil.",
+      "kis": "Isı içliği takılı haliyle hafif kışa uygun; sert soğukta altına termal katman gerekir.",
+      "yagmur": "Lamineli iç astar kısa yağmurda içi kuru tutmaya yardımcı olur; uzun yağmurda üstüne yağmurluk önerilir.",
+      "kurye": "Uygun fiyatı, dört mevsim yapısı ve omuz-dirsek korumalarıyla kurye için mantıklı bir başlangıç montu; sırta ayrıca sertifikalı koruma eklenmeli."
+    },
+    "verdict": "Dynamic, Türkiye'de üretilen, fiyatına göre donanımı geniş bir dört mevsim mont. Çıkarılabilir içlik ve lamineli astar onu yıl boyu kullanılabilir kılıyor. Ancak sertifika bilgileri çok sınırlı ve sırtta gerçek bir koruyucu yok; alırken bir Level 2 sırt koruması eklemek ve etiketi kontrol etmek gerekir.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "scudo/roma",
+      "lbc/911-couger"
+    ],
+    "priceRange": {
+      "min": 5795,
+      "max": 6099,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat; Feyizoğlu'nda kart fiyatı (havale ile daha düşük)."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-dynamic-4-mevsim-motosiklet-montu-siyah",
+        "price": 6100,
+        "salePrice": 5795,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL",
+          "6XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/venom-dynamic-motosiklet-montu-mevsim-siyah-gri-_55817.html",
+        "price": 6099,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL",
+          "6XL"
+        ],
+        "colors": [
+          "Siyah/Gri"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Venom Dynamic su geçirmez mi?",
+        "a": "Satıcıya göre iç tarafta su ve rüzgâr geçirmez silikon lamineli bir astar var. Dış kumaş ise ıslanır; uzun yağmurda üstüne yağmurluk giymek daha iyi sonuç verir."
+      },
+      {
+        "q": "Sırt koruması var mı?",
+        "a": "Sırtta yumuşak, takviyeli bir ped bulunuyor; sertifikalı bir sırt koruyucusu olarak tanımlanmıyor. Güvenlik için ayrıca EN 1621-2 Level 2 bir sırt koruması alınması önerilir."
+      },
+      {
+        "q": "Beden seçerken nelere dikkat edilmeli?",
+        "a": "Satıcı sayfasındaki alıcı yorumunda kalıbın küçük olduğu, bir beden büyük alınması gerektiği belirtiliyor. Mümkünse mağazada denemek en doğrusu."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-dynamic-4-mevsim-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/venom-dynamic-motosiklet-montu-mevsim-siyah-gri-_55817.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah/Gri",
+      "Siyah/Kırmızı",
+      "Siyah/Turuncu",
+      "Açık Gri/Kırmızı",
+      "Açık Gri/Mavi"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D polyester (Duratex) dış kumaş, Air Mesh file paneller, silikon lamineli iç astar, çıkarılabilir polyester ısı içliği",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Silikon lamineli su ve rüzgâr geçirmez iç astar (satıcı beyanı)",
+      "airbagCompatible": null,
+      "ventilation": "Air Mesh file paneller",
+      "closure": "Fermuar; bel, kol ve bilek ayarı; pantolon bağlantı fermuarı",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "dynamic-kadin",
+    "brand": "venom",
+    "name": "Dynamic Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Dynamic'in kadın kalıplı sürümü: 600D polyester ve Air Mesh gövde, su geçirmez lamineli iç astar, çıkarılabilir içlik ve omuz-dirsekte CE korumalarla uygun fiyatlı yerli dört mevsim mont.",
+    "description": [
+      "Dynamic Kadın, Venom'un dört mevsim tekstil montunun kadın vücuduna göre kesilmiş sürümü. Malzeme ve katman yapısı erkek modelle aynı: dışta 600D polyester ile Air Mesh file paneller, içte su ve rüzgâr geçirmez olarak tanımlanan silikon lamineli astar ve çıkarılabilir polyester ısı içliği. Bu sayede içlik takılıp çıkarılarak bahar, sonbahar ve hafif kış koşullarına uyarlanabiliyor.",
+      "Satıcı sayfasında omuz ve dirsekte CE onaylı korumalar, sırtta takviyeli bir ped olduğu yazıyor; koruyucuların seviyesi ve montun EN 17092 sınıfı belirtilmiyor. Bedenler XS–XL aralığında; pantolon bağlantı fermuarı, bel-kol-bilek ayarları ve dört cep mevcut, menşei Türkiye. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Uygun fiyatlı, kadın kalıplı dört mevsim mont arayan sürücüler",
+      "Şehir içi işe gidiş ve hafta sonu turları için tek mont isteyenler",
+      "Kurye olarak çalışan ve bütçesi sınırlı kadın sürücüler"
+    ],
+    "notFor": [
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar",
+      "Sırtta sertifikalı koruyucu isteyenler; ayrıca alınmalı",
+      "XL üstü bedene ihtiyaç duyanlar; kadın sürümü XS–XL ile sınırlı"
+    ],
+    "pros": [
+      "Kadın kalıbı ve uygun fiyat",
+      "Çıkarılabilir içlikle geniş mevsim aralığı",
+      "Omuz ve dirsek korumaları dahil",
+      "Birden çok renk seçeneği (pembe ve kırmızı detaylı sürümler dahil)"
+    ],
+    "cons": [
+      "Sertifika ve koruma seviyesi bilgisi yok",
+      "Sırtta sertifikalı koruyucu yok",
+      "Dış kumaş yağmurda ıslanır",
+      "Beden aralığı dar (XS–XL)"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir kullanımı için rahat ve pratik.",
+      "yaz": "İçlik çıkarıldığında serin yaz günlerine uyar; tam yazlık mont kadar havadar değil.",
+      "kis": "İçlikle hafif kışa uygun; soğukta termal katman ekleyin.",
+      "yagmur": "Lamineli iç astar kısa yağmurda yardımcı olur; uzun yağmurda yağmurluk gerekir.",
+      "kurye": "Kadın kuryeler için ekonomik bir dört mevsim seçenek; sırta ayrıca sertifikalı koruma eklenmeli."
+    },
+    "verdict": "Dynamic Kadın, kadın kalıplı dört mevsim montlar içinde fiyatı en erişilebilir yerli seçeneklerden biri. Katman yapısı yıl boyu kullanım sağlıyor, ama sertifika bilgisi eksik ve sırt koruması zayıf. Alırken bir Level 2 sırt koruması eklemek mantıklı.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno-kadin",
+      "scudo/lisbon-kadin",
+      "venom/alice-kadin"
+    ],
+    "priceRange": {
+      "min": 5795,
+      "max": 6099,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat; Feyizoğlu'nda kart fiyatı (havale ile daha düşük)."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-dynamic-4-mevsim-kadin-motosiklet-montu-siyah",
+        "price": 6100,
+        "salePrice": 5795,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/venom-dynamic-bayan-motosiklet-montu-3-mevsim-siyah-gri-_57794.html",
+        "price": 6099,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah/Gri"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek Dynamic ile farkı ne?",
+        "a": "Satıcı sayfalarındaki malzeme ve özellik listesi aynı; fark kadın vücuduna göre kesim ve XS–XL beden aralığı."
+      },
+      {
+        "q": "Korumalar takılı mı geliyor?",
+        "a": "Omuz ve dirsek korumaları takılı geliyor. Sırtta yalnızca takviyeli bir ped var; sertifikalı bir sırt koruması ayrıca alınmalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-dynamic-4-mevsim-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/venom-dynamic-bayan-motosiklet-montu-3-mevsim-siyah-gri-_57794.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah/Gri",
+      "Siyah/Kırmızı",
+      "Siyah/Pembe",
+      "Açık Gri/Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "600D polyester (Duratex) dış kumaş, Air Mesh file paneller, silikon lamineli iç astar, çıkarılabilir polyester ısı içliği",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Silikon lamineli su ve rüzgâr geçirmez iç astar (satıcı beyanı)",
+      "airbagCompatible": null,
+      "ventilation": "Air Mesh file paneller",
+      "closure": "Fermuar; bel, kol ve bilek ayarı; pantolon bağlantı fermuarı",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "touring-pro",
+    "brand": "venom",
+    "name": "Touring Pro",
+    "subcategories": [
+      "4-mevsim-mont",
+      "kislik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Oxford dış kabuk, çıkarılabilir suya dayanıklı membran ve ısı yalıtımlı kışlık astardan oluşan üç katmanlı yapı; omuzda EN 1621-1 Level 2, dirsek ve sırtta Level 1 Impactec korumalarla Venom'un en donanımlı tekstil montu.",
+    "description": [
+      "Touring Pro, Venom'un tur ve uzun yol odaklı üç katmanlı montu. Dışta sürtünmeye dayanıklı Oxford kumaş, altında suya dayanıklı esnek bir membran, en içte de ısı yalıtımlı kışlık astar var. İç katmanlar fermuarla çıkarılabildiği için mont soğuk kış sabahlarından ılık bahar günlerine kadar farklı koşullara uyarlanabiliyor.",
+      "Markanın diğer montlarından farklı olarak satıcı sayfası koruyucuların sertifikasını açıkça veriyor: omuzda EN 1621-1:2012 Level 2, dirsekte EN 1621-1:2012 Level 1, sırtta EN 1621-2:2014 Level 1 Impactec korumalar montla birlikte geliyor. Montun kendisi için EN 17092 sınıfı ise belirtilmiyor. Bel ve kol ayar kayışları var. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Uzun yol ve tur yapan, fiyatı makul üç katmanlı bir mont arayanlar",
+      "Kışın da motor kullanan ve sıcak tutan bir mont isteyenler",
+      "Sertifika seviyesi belli koruyucuları montla birlikte almak isteyenler"
+    ],
+    "notFor": [
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar",
+      "Sıcak yaz günleri için mont arayanlar; file panelli bir yapı değil",
+      "Su geçirmezlikte tam güvence isteyenler; membran 'suya dayanıklı' olarak tanımlanıyor"
+    ],
+    "pros": [
+      "Koruyucuların EN 1621 standardı ve seviyesi açıkça belirtilmiş",
+      "Omuzda Level 2 koruma",
+      "Üç katmanlı yapı geniş mevsim aralığı sağlıyor",
+      "Sırt koruması dahil"
+    ],
+    "cons": [
+      "Montun EN 17092 sınıfı belirtilmemiş",
+      "Membran için su geçirmezlik değeri verilmemiş",
+      "Venom modelleri içinde fiyatı yüksek",
+      "Kontrol tarihinde bazı bedenler stokta değildi"
+    ],
+    "usage": {
+      "sehir": "Şehirde de kullanılabilir, ancak üç katmanla sıcak günlerde ağır gelebilir.",
+      "uzunYol": "Asıl kullanım alanı; katmanlar sayesinde gün içindeki sıcaklık farklarına uyum sağlar.",
+      "kis": "Isı yalıtımlı astarla kış sürüşüne uygun.",
+      "yagmur": "Suya dayanıklı membran hafif ve orta yağmurda yardımcı olur; uzun sağanakta ek yağmurluk düşünülmeli.",
+      "kurye": "Kışın uzun saatler süren kuryeler için korumaları sertifikalı, sıcak tutan bir seçenek; yazın ise ağır kalır."
+    },
+    "verdict": "Touring Pro, Venom'un koruyucu sertifikaları en açık belgelenmiş montu ve üç katmanlı yapısıyla kışa da hazır. Fiyatı markanın diğer montlarından yüksek ama hâlâ ithal tur montlarının çok altında. EN 17092 sınıfının belirtilmemesi ve membranın yalnızca suya dayanıklı olması bilinmesi gereken sınırlar.",
+    "rivals": [
+      "tech90/vecton-4-mevsim-kevlar",
+      "tex-motor/forte-gt-assos-adventure",
+      "tex-motor/forte-gt-simurg"
+    ],
+    "priceRange": {
+      "min": 10070,
+      "max": 10600,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat; Feyizoğlu'nda kart fiyatı (havale fiyatı 10.070 TL)."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-touring-pro-4-mevsim-motosiklet-montu-siyah",
+        "price": 10600,
+        "salePrice": 10070,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/venom-touring-pro-kislik-motosiklet-montu_55496.html",
+        "price": 10600,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Touring Pro'daki korumalar hangi seviyede?",
+        "a": "Satıcı bilgisine göre omuz EN 1621-1:2012 Level 2, dirsek EN 1621-1:2012 Level 1, sırt EN 1621-2:2014 Level 1."
+      },
+      {
+        "q": "Yazın kullanılabilir mi?",
+        "a": "İç katmanlar çıkarıldığında ılık havada kullanılabilir, ancak file panelli bir yazlık mont değil; çok sıcak günlerde terletir."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "Membran 'suya dayanıklı' olarak tanımlanıyor; su sütunu değeri verilmiyor. Uzun yağmurda üstüne yağmurluk önerilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-touring-pro-4-mevsim-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/venom-touring-pro-kislik-motosiklet-montu_55496.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah/Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Oxford dış kumaş, çıkarılabilir suya dayanıklı esnek membran, çıkarılabilir ısı yalıtımlı kışlık astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Suya dayanıklı esnek membran (marka adı belirtilmemiş)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar; bel ve kol ayar kayışları",
+      "madeIn": null
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "kopenhag",
+    "brand": "venom",
+    "name": "Kopenhag",
+    "subcategories": [
+      "kislik-mont",
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Uzun kesimli, çıkarılabilir üç katmanlı iç yapıya sahip, sık örgülü sürtünmeye dayanıklı kumaştan ve sertifikalı sırt korumasıyla satılan Venom kışlık/dört mevsim mont.",
+    "description": [
+      "Kopenhag, Venom'un kış ağırlıklı kullanım için tasarlanmış uzun kesimli montu. Satıcı sayfası sık örülmüş, sürtünmeye dayanıklı bir dış kumaştan ve çıkarılabilir üç katmanlı bir iç yapıdan söz ediyor; uzun kesim beli ve kalçanın üstünü örterek soğuk havada rüzgâr girişini azaltıyor. İç katmanlar çıkarılınca mevsim geçişlerinde de kullanılabiliyor.",
+      "Koruma tarafında satıcı yalnızca sırt korumasının EN 1621-1 sertifikalı olduğunu yazıyor. Sırt koruyucuları normalde EN 1621-2 ile test edildiği için bu bilginin etiketten kontrol edilmesi gerekir; omuz ve dirsek korumaları hakkında bilgi verilmemiş, kumaşın türü ve montun EN 17092 sınıfı da belirtilmiyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Kışın da motosiklet kullanan ve uzun kesimli sıcak bir mont isteyenler",
+      "Büyük beden (6XL'e kadar) arayan sürücüler",
+      "Orta bütçeyle yerli bir kışlık mont arayanlar"
+    ],
+    "notFor": [
+      "Omuz ve dirsek koruma bilgisi net olmayan bir ürünle yetinmek istemeyenler",
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar",
+      "Yaz kullanımı için mont arayanlar"
+    ],
+    "pros": [
+      "Uzun kesim belde ve kalçada rüzgâr koruması sağlıyor",
+      "Çıkarılabilir üç katmanlı iç yapı",
+      "Sertifikalı olarak belirtilen sırt koruması",
+      "XS–6XL geniş beden aralığı"
+    ],
+    "cons": [
+      "Omuz ve dirsek korumaları hakkında bilgi yok",
+      "Sırt korumasının standardı (EN 1621-1) alışılmadık; etiketten doğrulanmalı",
+      "Dış kumaş türü ve su geçirmezlik bilgisi verilmemiş",
+      "EN 17092 sınıfı belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Uzun kesimi nedeniyle şehirde kışın rahat; sıcak havada ağır kalır.",
+      "uzunYol": "Kış turlarında rüzgâr korumasıyla rahat bir seçenek.",
+      "kis": "Asıl kullanım alanı; katmanlar takılı haliyle soğuk havaya uygun.",
+      "yagmur": "Satıcı su geçirmezlik bilgisi vermiyor; yağmurda yağmurluk kullanın.",
+      "kurye": "Kışın uzun saat süren kuryelikte sıcak tutar, ama omuz-dirsek koruma bilgisinin eksikliği nedeniyle alırken korumalar kontrol edilmeli."
+    },
+    "verdict": "Kopenhag, uzun kesimi ve katmanlı iç yapısıyla kış sürüşü için sıcak bir yerli mont. Ne var ki satıcı bilgileri koruma tarafında çok eksik: omuz ve dirsek korumalarından söz edilmiyor, sırt için verilen standart da alışılmadık. Bu nedenle alırken korumaları ve etiketi mutlaka yerinde görmek gerekir.",
+    "rivals": [
+      "tex-motor/forte-gt-simurg",
+      "scudo/alaska",
+      "yaren-tekstil/yrn-1493-kislik-kurye"
+    ],
+    "priceRange": {
+      "min": 7885,
+      "max": 7885,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-kopenhag-4-mevsim-motosiklet-montu-mavi",
+        "price": 8300,
+        "salePrice": 7885,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL",
+          "6XL"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kopenhag'da omuz ve dirsek koruması var mı?",
+        "a": "Satıcı sayfası yalnızca sırt korumasından söz ediyor; omuz ve dirsek korumaları hakkında bilgi yok. Satın almadan önce satıcıya sorup ürün üzerinde kontrol edin."
+      },
+      {
+        "q": "Dört mevsim kullanılabilir mi?",
+        "a": "Satıcı dört mevsim kullanıma uygun olduğunu ve iç katmanların çıkarılabildiğini belirtiyor, ancak montun ağırlık noktası kış kullanımı."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-kopenhag-4-mevsim-motosiklet-montu-mavi",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.material",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.airbagCompatible",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Mavi",
+      "Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "kis",
+      "material": "Sürtünmeye dayanıklı sık örgülü tekstil kumaş (tür belirtilmemiş), çıkarılabilir 3 katmanlı iç yapı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-1 (satıcı beyanı)",
+          "level": null,
+          "included": null
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "city-cordura-short-kadin",
+    "brand": "venom",
+    "name": "City Cordura Short Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Cordura dış kumaş, koruma bölgelerinde Kevlar iç astar, çıkarılabilir softshell katman ve takılı Level 2 sırt korumasıyla gelen, yerli üretim kadın mevsimlik mont.",
+    "description": [
+      "City Cordura Short, Venom'un şehir ve hafif arazi kullanımı için hazırladığı iki katmanlı mevsimlik ceketinin kadın sürümü. Dış kumaş Cordura; satıcı, omuz ve dirsek gibi koruma bölgelerinde Cordura'nın altına ayrıca Kevlar astar eklendiğini belirtiyor. Çıkarılabilir softshell iç astar suya dayanıklı ve rüzgâr kesici olarak tanımlanıyor; göğüs ve sırtta nefes alan file paneller, reflektif şeritler ve boyun-kol-bilekte cırtlı ayar var.",
+      "Koruyucular montla birlikte geliyor: omuz ve dirsekte Level 1, sırtta Level 2 CE onaylı Impactec korumalar. Koruyucuların hangi EN 1621 bölümüyle test edildiği ve montun EN 17092 sınıfı sayfada yazmıyor. Ürün %100 yerli üretim olarak tanıtılıyor; satıcı kalıbın dar olduğunu ve bir beden büyük alınmasını öneriyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Şehirde ve hafif arazide sürüş yapan, Cordura ve Kevlar takviyeli bir mont arayan kadın sürücüler",
+      "Sırt korumasının ayrıca alınmasıyla uğraşmak istemeyenler; Level 2 sırt koruması dahil",
+      "İlkbahar, yaz ve sonbaharda kurye olarak çalışan kadın sürücüler"
+    ],
+    "notFor": [
+      "Kışın tek başına sıcak tutacak bir mont arayanlar; ısı astarı yok",
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar",
+      "Geniş kesim seven sürücüler; kalıp dar"
+    ],
+    "pros": [
+      "Level 2 sırt koruması takılı geliyor",
+      "Koruma bölgelerinde Kevlar iç astar takviyesi",
+      "Cordura dış kumaş ve reflektif şeritler",
+      "Yerli üretim"
+    ],
+    "cons": [
+      "EN 17092 sınıfı ve koruyucu standart numarası belirtilmemiş",
+      "Isı astarı yok; kışın ek katman gerekir",
+      "Kalıp dar, bir beden büyük alınmalı",
+      "Venom kadın montları içinde fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Asıl tasarım amacı; kısa kesim ve reflektörlerle şehir için pratik.",
+      "yaz": "Softshell astar çıkarıldığında file paneller sayesinde ılık yaz günlerine uyar.",
+      "kis": "Isı astarı olmadığı için soğukta altına termal katman gerekir.",
+      "yagmur": "Softshell astar suya dayanıklı; yoğun yağmurda yağmurluk gerekir.",
+      "kurye": "Takılı Level 2 sırt koruması ve reflektörlerle bahar-yaz-sonbahar kuryeliği için iyi bir seçenek."
+    },
+    "verdict": "City Cordura Short Kadın, Venom'un kadın ürünleri içinde koruma donanımı en güçlü olanı: Level 2 sırt koruması dahil ve koruma bölgeleri Kevlar ile takviyeli. Isı astarı olmadığından üç mevsimlik bir mont olarak düşünülmeli; dar kalıp ve eksik sertifika bilgisi satın almadan önce dikkat edilecek noktalar.",
+    "rivals": [
+      "scudo/lyon-kadin",
+      "tex-motor/forte-gt-inferno-kadin",
+      "venom/alice-kadin"
+    ],
+    "priceRange": {
+      "min": 8455,
+      "max": 8455,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-city-cordura-short-mevsimlik-motosiklet-montu-kadin",
+        "price": 8900,
+        "salePrice": 8455,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "34",
+          "36",
+          "40",
+          "42",
+          "44"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi korumalar dahil?",
+        "a": "Satıcıya göre omuz ve dirsekte Level 1, sırtta Level 2 CE onaylı Impactec korumalar takılı geliyor."
+      },
+      {
+        "q": "Kışın kullanılabilir mi?",
+        "a": "Isı yalıtım astarı olmadığı için satıcı onu ilkbahar, yaz ve sonbahar için öneriyor. Kışın altına kalın bir termal katman gerekir."
+      },
+      {
+        "q": "Beden nasıl seçilmeli?",
+        "a": "Satıcı kalıbın dar olduğunu ve normal bedenden bir büyük alınmasını öneriyor. Bedenler 34–46 arası rakamla veriliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-city-cordura-short-mevsimlik-motosiklet-montu-kadin",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "colors",
+      "sizeChart"
+    ],
+    "colors": [],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Cordura dış kumaş, koruma bölgelerinde Kevlar iç astar, çıkarılabilir softshell iç astar, göğüs ve sırtta file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": "Çıkarılabilir suya dayanıklı, rüzgâr kesici softshell astar",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs ve sırtta file paneller",
+      "closure": "Fermuar; boyun, kol ve bilekte cırt ayar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "alice-kadin",
+    "brand": "venom",
+    "name": "Alice Kadın",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Dar kadın kalıbı, suya dayanıklı dış kumaşı, sabit astarı ve omuz-dirsek-sırtta CE Level 1 korumalarıyla gelen Venom mevsimlik kadın ceketi.",
+    "description": [
+      "Alice, Venom'un kadın sürücüler için hazırladığı mevsimlik tekstil ceketi. Kesim vücuda oturan dar bir kalıp; satıcı ilkbahar ve sonbahar ağırlıklı kullanım öneriyor. Dış kumaş suya dayanıklı olarak tanımlanıyor, iç tarafta ise sabit (çıkarılamayan) bir astar var; yani içlik çıkarılarak yaza ya da ek katmanla kışa uyarlanan bir yapı değil.",
+      "Satıcı sayfasına göre omuz, dirsek ve sırtta CE sertifikalı Level 1 korumalar takılı geliyor. Korumaların EN 1621 bölümü, kumaşın türü ve ceketin EN 17092 sınıfı belirtilmemiş. Kalıp dar olduğu için bir beden büyük alınması öneriliyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "İlkbahar ve sonbaharda şehir içinde süren, vücuda oturan bir ceket isteyen kadın sürücüler",
+      "Omuz, dirsek ve sırt korumalarının hepsi takılı gelen uygun fiyatlı bir model arayanlar",
+      "İlk ekipmanını alan yeni kadın motorcular"
+    ],
+    "notFor": [
+      "Yazın sıcakta ya da kışın soğukta kullanacaklar; astar çıkarılamıyor",
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar",
+      "Level 2 koruma isteyenler"
+    ],
+    "pros": [
+      "Omuz, dirsek ve sırtta CE Level 1 korumalar dahil",
+      "Kadın kalıbı",
+      "Suya dayanıklı dış kumaş",
+      "Fiyatı uygun"
+    ],
+    "cons": [
+      "Astar sabit; mevsim aralığı dar",
+      "Kumaş türü ve EN 17092 sınıfı belirtilmemiş",
+      "Kalıp dar, bir beden büyük alınmalı",
+      "Havalandırma bilgisi yok"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir sürüşü için şık ve pratik.",
+      "yaz": "Sabit astarı nedeniyle sıcak yaz günlerinde terletir.",
+      "kis": "Isı astarı bilgisi yok; soğukta altına termal katman gerekir.",
+      "yagmur": "Suya dayanıklı kumaş hafif yağmurda yardımcı olur; uzun yağmurda yağmurluk gerekir.",
+      "kurye": "Bahar ve sonbaharda kısa mesafeli kuryelik için yeterli; gün boyu ve tüm mevsimler için katmanlı bir mont daha uygun."
+    },
+    "verdict": "Alice, üç bölgede de koruması takılı gelen, uygun fiyatlı ve vücuda oturan bir kadın ceketi. Sabit astarı onu bahar ve sonbahara sınırlıyor; sertifika bilgisinin de sınırlı olduğu unutulmamalı. Şehir içinde ara mevsimlerde süren kadın sürücüler için mantıklı bir başlangıç.",
+    "rivals": [
+      "scudo/lisbon-kadin",
+      "venom/dynamic-kadin",
+      "tex-motor/forte-gt-inferno-kadin"
+    ],
+    "priceRange": {
+      "min": 5130,
+      "max": 5130,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-alice-mevsimlik-kadin-motosiklet-ceketi-siyah",
+        "price": 5400,
+        "salePrice": 5130,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Alice'in astarı çıkarılıyor mu?",
+        "a": "Hayır. Satıcı astarın sabit olduğunu açıkça belirtiyor; bu yüzden ceket ağırlıklı olarak ilkbahar ve sonbahar için uygun."
+      },
+      {
+        "q": "Korumalar dahil mi?",
+        "a": "Evet; omuz, dirsek ve sırtta CE sertifikalı Level 1 korumalar takılı geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-alice-mevsimlik-kadin-motosiklet-ceketi-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.material",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn",
+      "sizes",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Gri",
+      "Kırmızı"
+    ],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Suya dayanıklı tekstil dış kumaş (tür belirtilmemiş), sabit iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "category": "mont",
+    "slug": "mustang",
+    "brand": "venom",
+    "name": "Mustang",
+    "subcategories": [
+      "deri-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Hakiki deri dış yüzeyi, omuz ve dirsekte EN 1621-1:2012 korumaları, sırt koruma cebi ve havalandırma fermuarlarıyla klasik görünümlü Venom deri mont.",
+    "description": [
+      "Mustang, Venom'un klasik çizgili deri motosiklet montu. Satıcı dış yüzeyin %100 hakiki deri olduğunu belirtiyor; derinin türü ve kalınlığı verilmemiş. İçte nefes alan bir astar, ön ve arkada havalandırma fermuarları, bel-kol-bilekte cırtlı ayarlar ve reflektif detaylar bulunuyor. Tasarım naked, cruiser ve şehir motosikletleriyle uyumlu sade bir görünüme sahip.",
+      "Omuz ve dirsek korumaları EN 1621-1:2012 sertifikalı olarak tanımlanıyor; seviyeleri yazmıyor. Sırtta koruyucu yok, yalnızca isteğe bağlı koruma için bir cep var. Satıcı modeli ilkbahar, sonbahar ve serin yaz günleri için öneriyor; montun EN 17092 sınıfı belirtilmiyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Klasik deri görünüm isteyen naked, cruiser ve şehir motosikleti sürücüleri",
+      "Tekstile göre daha yüksek aşınma direnci için deri tercih edenler",
+      "Uygun fiyatlı yerli deri mont arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda kullanım; su geçirmezlik bilgisi yok ve deri ıslanınca ağırlaşır",
+      "Kışın tek başına sıcak tutacak bir mont arayanlar",
+      "Gün boyu yük taşıyan kuryeler; deri ağır ve bakım ister"
+    ],
+    "pros": [
+      "Hakiki deri dış yüzey",
+      "Omuz ve dirsekte EN 1621-1:2012 korumalar",
+      "Ön ve arka havalandırma fermuarları",
+      "Sırt koruması eklenebilen cep"
+    ],
+    "cons": [
+      "Sırt koruması dahil değil",
+      "Derinin türü ve kalınlığı belirtilmemiş",
+      "EN 17092 sınıfı ve koruma seviyesi yazmıyor",
+      "Kontrol tarihinde Feyizoğlu'nda stokta değildi"
+    ],
+    "usage": {
+      "sehir": "Şehirde ve kısa turlarda klasik görünümüyle rahat.",
+      "uzunYol": "Serin havada tur için uygun; uzun yolda sırt koruması eklenmeli.",
+      "yaz": "Havalandırma fermuarlarıyla serin yaz günlerine uyar; sıcakta deri terletir.",
+      "kis": "Isı astarı bilgisi yok; kışa uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "kurye": "Kurye için pratik değil: deri ağır, yağmurda bakım ister ve sırt koruması ayrıca alınmalı."
+    },
+    "verdict": "Mustang, deri görünüm ve dokunuş isteyen şehir ve cruiser sürücüleri için uygun fiyatlı yerli bir seçenek. Omuz ve dirsek korumaları standardıyla belirtilmiş, ama sırt koruması yok ve deri hakkında ayrıntı verilmemiş. Alırken bir sırt koruması eklemek gerekiyor.",
+    "rivals": [
+      "alpinestars/dyno",
+      "ixs/ace-1-0"
+    ],
+    "priceRange": {
+      "min": 10450,
+      "max": 10990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat; Feyizoğlu'nda kontrol tarihinde stokta yoktu."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-mustang-deri-motosiklet-ceketi-siyah",
+        "price": 11000,
+        "salePrice": 10450,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/venom-mustang-deri-mont-siyah-_59246.html",
+        "price": 10990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mustang'da sırt koruması var mı?",
+        "a": "Hayır, yalnızca isteğe bağlı koruma takılabilecek bir sırt cebi var. EN 1621-2 sertifikalı bir sırt koruması ayrıca alınmalı."
+      },
+      {
+        "q": "Hangi mevsimde kullanılır?",
+        "a": "Satıcı ilkbahar, sonbahar ve serin yaz günleri için öneriyor; havalandırma fermuarları sıcakta biraz rahatlatır."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-mustang-deri-motosiklet-ceketi-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/venom-mustang-deri-mont-siyah-_59246.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah/Turuncu",
+      "Siyah/Kırmızı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Hakiki deri dış yüzey (tür ve kalınlık belirtilmemiş), nefes alabilir iç astar",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Ön ve arka havalandırma fermuarları",
+      "closure": "Fermuar; bel, kol ve bilekte cırt ayar",
+      "madeIn": null
+    }
+  }
+]

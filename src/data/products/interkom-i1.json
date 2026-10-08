@@ -608,7 +608,19 @@
       "cardo/packtalk-neo",
       "interphone/u-com-8r"
     ],
-    "offers": [],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sena-50r-motosiklet-interkomu",
+        "price": 22270,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "50R ile 50S arasındaki fark ne?",
@@ -630,6 +642,12 @@
         "type": "manufacturer",
         "label": "Sena – 50R ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sena-50r-motosiklet-interkomu",
+        "type": "retailer",
+        "label": "Motomax – Sena 50R (tekli)",
+        "checkedAt": "2026-10-08"
       }
     ],
     "dataConfidence": "high",
@@ -664,7 +682,7 @@
     "sizes": [],
     "sizeChart": [],
     "sizeChartMeasure": null,
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "unverified": [
       "specs.usbC",
       "specs.waterproof",
@@ -673,7 +691,12 @@
       "specs.crossBrand",
       "specs.otaUpdate"
     ],
-    "priceRange": null
+    "priceRange": {
+      "min": 22270,
+      "max": 22270,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    }
   },
   {
     "slug": "spider-st1",
@@ -722,7 +745,19 @@
       "sena/50s",
       "ejeas/q8"
     ],
-    "offers": [],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sena-spider-st1-interkom",
+        "price": 15060,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Spider ST1 başka marka interkomla konuşabilir mi?",
@@ -740,6 +775,12 @@
         "type": "manufacturer",
         "label": "Sena – Spider ST1 ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sena-spider-st1-interkom",
+        "type": "retailer",
+        "label": "Motomax – Sena Spider ST1 (tekli)",
+        "checkedAt": "2026-10-08"
       }
     ],
     "dataConfidence": "high",
@@ -774,7 +815,7 @@
     "sizes": [],
     "sizeChart": [],
     "sizeChartMeasure": null,
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "unverified": [
       "specs.bluetoothMaxRiders",
       "specs.usbC",
@@ -786,7 +827,12 @@
       "specs.googleAssistant",
       "specs.otaUpdate"
     ],
-    "priceRange": null
+    "priceRange": {
+      "min": 15060,
+      "max": 15060,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    }
   },
   {
     "slug": "spider-rt1",
@@ -1207,7 +1253,19 @@
       "cardo/freecom-2x",
       "ejeas/q7"
     ],
-    "offers": [],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sena-5r-motosiklet-interkomu",
+        "price": 9880,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "5R ile 5R Lite arasındaki fark ne?",
@@ -1225,6 +1283,12 @@
         "type": "manufacturer",
         "label": "Sena – 5R ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sena-5r-motosiklet-interkomu",
+        "type": "retailer",
+        "label": "Motomax – Sena 5R (tekli)",
+        "checkedAt": "2026-10-08"
       }
     ],
     "dataConfidence": "high",
@@ -1259,7 +1323,7 @@
     "sizes": [],
     "sizeChart": [],
     "sizeChartMeasure": null,
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "unverified": [
       "specs.meshTech",
       "specs.meshMaxRiders",
@@ -1275,7 +1339,12 @@
       "specs.crossBrand",
       "specs.otaUpdate"
     ],
-    "priceRange": null
+    "priceRange": {
+      "min": 9880,
+      "max": 9880,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    }
   },
   {
     "slug": "btx2-pro-s-lr",

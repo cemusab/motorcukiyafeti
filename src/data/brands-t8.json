@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "tnspro",
+    "name": "TNS PRO",
+    "country": "Türkiye",
+    "founded": 2022,
+    "website": "https://tnspro.com.tr/",
+    "about": [
+      "TNS PRO, 2022'de kurulan, İstanbul Küçükçekmece merkezli bir motosiklet ekipmanı markası. Satıcı şirket TNS PRO Deri Ürünleri ve Tekstil Aksesuarları İthalat İhracat Sanayi Ticaret Ltd. Şti.; marka kendini yerli üretimle güvenlik ihtiyacını karşılamayı ve dışa bağımlılığı azaltmayı hedefleyen bir üretici olarak tanımlıyor. İletişim sayfasındaki adres üretim birimine ait; mağaza satışı yok, satış resmi internet sitesinden yapılıyor.",
+      "Ürün yelpazesi şimdilik dar ve monta odaklı: 1,2 mm dana derisinden Nova Specter (sport), Super Collection (günlük) ve kadın kesimli Valora Fluxa deri montları ile softshell Forti Flex 3 mevsim mont. Deri montların ürün sayfalarında 'EN 17092' sertifikası ve omuz-dirsekte seviye 2 Flexist Protect koruyucular belirtiliyor; CE sınıfı (AAA/AA/A) ise sayfalarda yazmıyor."
+    ],
+    "strengths": [
+      "Uygun fiyatlı yerli deri motosiklet montları",
+      "Kadın kesimli deri mont ve göğüs-bel-basen ölçülü beden tablosu",
+      "Omuz ve dirsekte seviye 2 koruyucunun standart gelmesi"
+    ],
+    "categories": [
+      "mont"
+    ],
+    "families": [
+      {
+        "name": "Super Collection (2nd Generation)",
+        "note": "Günlük kullanıma yönelik 1,2 mm dana derisi mont; siyah, beyaz ve beyaz-siyah.",
+        "url": "https://tnspro.com.tr/2nd-generation-deri-motosiklet-montu"
+      },
+      {
+        "name": "Nova Specter",
+        "note": "Hava kanallı, sport kesimli deri mont; beş renk.",
+        "url": "https://tnspro.com.tr/nova-specter"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "TNS PRO Valora Fluxa Kadın",
+        "url": "https://tnspro.com.tr/valora-fluxa-kadin-motorcu-montu",
+        "reason": "Kadın vücut hatlarına göre kesilmiş, göğüs-bel-basen ölçülü beden tablosu olan yerli deri mont."
+      }
+    ],
+    "alternatives": [
+      "venom",
+      "tex-motor",
+      "tech90"
+    ],
+    "history": [
+      {
+        "year": 2022,
+        "event": "TNS PRO markası kuruldu."
+      }
+    ],
+    "strongestLine": "Uygun fiyatlı yerli deri motosiklet montu",
+    "sources": [
+      {
+        "url": "https://tnspro.com.tr/pages/hakkimizda",
+        "type": "manufacturer",
+        "label": "TNS PRO – Hakkımızda (kuruluş yılı ve yerli üretim beyanı)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/iletisim",
+        "type": "manufacturer",
+        "label": "TNS PRO – İletişim (İstanbul Küçükçekmece üretim birimi adresi)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/mesefeli-satis-sozlesmesi",
+        "type": "manufacturer",
+        "label": "TNS PRO – Mesafeli satış sözleşmesi (şirket unvanı ve MERSİS)",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

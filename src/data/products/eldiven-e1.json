@@ -49,8 +49,40 @@
       "dainese/carbon-4-long",
       "five-gloves/rfx3-evo"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 21240,
+      "max": 21240,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-gp-pro-r4-korumali-motosiklet-eldiveni-siyah-/-beyaz-siyah-/-beyaz",
+        "price": 21240,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah/Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-gp-pro-r4-korumali-motosiklet-eldiveni-siyah-/-kirmizi-/-beyaz-siyah-/-kirmizi-/-beyaz",
+        "price": 21240,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah/Kırmızı/Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "GP Pro R4 pist eldiveni mi?",
@@ -68,14 +100,25 @@
         "type": "manufacturer",
         "label": "Alpinestars – GP Pro R4 Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-gp-pro-r4-korumali-motosiklet-eldiveni-siyah-/-beyaz-siyah-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars GP Pro R4 Siyah/Beyaz",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-gp-pro-r4-korumali-motosiklet-eldiveni-siyah-/-kirmizi-/-beyaz-siyah-/-kirmizi-/-beyaz",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars GP Pro R4 Siyah/Kırmızı/Beyaz",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
       "sizeChart",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black",
@@ -323,8 +366,27 @@
       "revit/kodiak-2-gtx",
       "five-gloves/wfx-prime-evo-gtx"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 23460,
+      "max": 23460,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-ht-5-heat-tech-ds-isitmali-korumali-motosiklet-eldiveni-siyah",
+        "price": 23460,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Kaç ısı kademesi var?",
@@ -342,15 +404,20 @@
         "type": "manufacturer",
         "label": "Alpinestars – HT-5 Heat Tech Drystar Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-ht-5-heat-tech-ds-isitmali-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars HT-5 Heat Tech Drystar Siyah",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "medium",
     "unverified": [
       "specs.ceStandard",
       "sizeChart",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black"
@@ -586,8 +653,40 @@
       "five-gloves/rfx3-evo",
       "held/evo-thrux-3"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 14490,
+      "max": 14490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-carbon-4-long-uzun-eldiven_57187.html",
+        "price": 14490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-carbon-4-long-uzun-eldiven-siyah-fluo-kirmizi-beyaz-_57636.html",
+        "price": 14490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah/Fluo Kırmızı/Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "DCP sistemi ne işe yarar?",
@@ -605,13 +704,24 @@
         "type": "manufacturer",
         "label": "Dainese – Carbon 4 Men's Motorcycle Long Leather Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-carbon-4-long-uzun-eldiven_57187.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Carbon 4 Long Siyah",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-carbon-4-long-uzun-eldiven-siyah-fluo-kirmizi-beyaz-_57636.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Carbon 4 Long Siyah/Fluo Kırmızı/Beyaz",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "medium",
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.season"
     ],
     "colors": [
@@ -744,8 +854,27 @@
       "dainese/carbon-4-long",
       "five-gloves/rfx3-evo"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 38790,
+      "max": 38790,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-full-metal-7-eldiven-siyah-_58750.html",
+        "price": 38790,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Full Metal 7'nin sertifika seviyesi nedir?",
@@ -763,13 +892,18 @@
         "type": "manufacturer",
         "label": "Dainese – Full Metal 7 Men's Motorcycle Racing Leather Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-full-metal-7-eldiven-siyah-_58750.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Full Metal 7 Siyah",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.season"
     ],
     "colors": [
@@ -904,8 +1038,25 @@
       "five-gloves/wfx-prime-evo-gtx",
       "alpinestars/andes-v3-drystar"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 9690,
+      "max": 9690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-tempest-2-d-dry-long-uzun-eldiven_58207.html",
+        "price": 9690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Tempest 2 D-Dry su geçirmez mi?",
@@ -923,13 +1074,18 @@
         "type": "manufacturer",
         "label": "Dainese – Tempest 2 D-Dry Men's Waterproof Motorcycle Gloves (Long) ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-tempest-2-d-dry-long-uzun-eldiven_58207.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Tempest 2 D-Dry Long",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black"
@@ -1055,8 +1211,40 @@
       "held/sparrow-2",
       "revit/cayenne-2"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 3690,
+      "max": 3690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-metrax-air-yazlik-eldiven-siyah-antrasit-_59893.html",
+        "price": 3690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah/Antrasit"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-metrax-air-yazlik-eldiven-siyah-krem-_59950.html",
+        "price": 3690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah/Krem"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Metrax Air sertifikalı mı?",
@@ -1074,13 +1262,24 @@
         "type": "manufacturer",
         "label": "Dainese – Metrax Air Men's Summer Textile Motorcycle Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-metrax-air-yazlik-eldiven-siyah-antrasit-_59893.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Metrax Air Siyah/Antrasit",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-metrax-air-yazlik-eldiven-siyah-krem-_59950.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Metrax Air Siyah/Krem",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black"
@@ -1207,8 +1406,25 @@
       "revit/kodiak-2-gtx",
       "five-gloves/wfx-prime-evo-gtx"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 9690,
+      "max": 9690,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/dainese-tempest-2-d-dry-kadin-eldiven_59609.html",
+        "price": 9690,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Erkek Tempest 2 D-Dry'dan farkı nedir?",
@@ -1226,13 +1442,18 @@
         "type": "manufacturer",
         "label": "Dainese – Tempest 2 D-Dry Women's Waterproof Motorcycle Gloves ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/dainese-tempest-2-d-dry-kadin-eldiven_59609.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – Dainese Tempest 2 D-Dry Kadın",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black"
@@ -2203,8 +2424,38 @@
       "held/air-n-dry-2",
       "revit/sand-5-ladies"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 11072,
+      "max": 11072,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/revit-cayenne-2-yazlik-eldiven_57206.html",
+        "price": 11072,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/revit-cayenne-2-motosiklet-eldiveni",
+        "price": 11072,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "Cayenne 2 su geçirmez mi?",
@@ -2222,14 +2473,25 @@
         "type": "manufacturer",
         "label": "REV'IT! – Gloves Cayenne 2 ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/revit-cayenne-2-yazlik-eldiven_57206.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – REV'IT Cayenne 2 Siyah",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://vipmoto.com/revit-cayenne-2-motosiklet-eldiveni",
+        "type": "retailer",
+        "label": "Vipmoto – REV'IT Cayenne 2",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
       "sizeChart",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "colors": [
       "Black",

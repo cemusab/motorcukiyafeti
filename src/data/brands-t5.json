@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "leatt",
+    "name": "Leatt",
+    "country": null,
+    "founded": 2001,
+    "website": "https://int.leatt.com/",
+    "about": [
+      "Leatt, Dr. Chris Leatt'in kişisel bir kayıptan sonra daha güvenli koruyucu ekipman üretmek amacıyla 2001'de kurduğu bir koruyucu ekipman markası. Marka adını taşıyan Leatt-Brace boyunluk ile tanındı; bugün motokros, enduro, adventure ve dağ bisikleti için kask, gövde koruyucu, giysi, eldiven ve bot üretiyor.",
+      "Motosiklet tarafında özellikle arazi ve adventure sürücülerine yönelik; kadın kalıplı göğüs ve gövde koruyucuları ile ADV MultiTour, FlowTour ve DriTour adventure giysi serileri bulunuyor. Türkiye'de enduro ve adventure ekipmanı satan mağazalarda bulunabiliyor."
+    ],
+    "strengths": [
+      "Boyunluk (neck brace) ve gövde koruyucularında uzmanlık",
+      "Kadın kalıplı göğüs ve gövde koruyucuları",
+      "Level 2 koruyuculu adventure giysi serileri"
+    ],
+    "categories": [
+      "koruma",
+      "mont",
+      "pantolon",
+      "eldiven"
+    ],
+    "families": [
+      {
+        "name": "ADV MultiTour",
+        "note": "Çok katmanlı, su geçirmez astarlı adventure-touring mont ve pantolon serisi.",
+        "url": "https://int.leatt.com/collections/adv-multitour-collection"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Leatt Body Protector 3DF AirFit Evo Women",
+        "url": "https://int.leatt.com/products/body-protector-3df-airfit-evo-women",
+        "reason": "Kadın gövdesine göre kalıplanmış, göğüs ve sırtta Level 2 yumuşak gövde zırhı."
+      }
+    ],
+    "alternatives": [
+      "alpinestars",
+      "knox",
+      "klim"
+    ],
+    "history": [
+      {
+        "year": 2001,
+        "event": "Dr. Chris Leatt şirketi kurdu."
+      },
+      {
+        "year": 2007,
+        "event": "Leatt-Brace GPX boyunluk bir sektör dergisinden 5/5 yıldız ürün puanı aldı."
+      }
+    ],
+    "strongestLine": "Boyunluk ve gövde koruyucuları",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "Leatt – About Us sayfası (kuruluş ve dönüm noktaları)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://int.leatt.com/collections/adv-multitour-collection",
+        "type": "manufacturer",
+        "label": "Leatt – ADV MultiTour koleksiyon sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ]
+  }
+]

@@ -48,13 +48,14 @@ test("arama autocomplete gruplu sonuç verir ve yazım hatasını tolere eder", 
 test("kategori filtreleri ürün listesini daraltır", async ({ page, isMobile }) => {
   await page.goto("/kask");
   const count = page.getByText(/ürün bulundu/);
-  await expect(count).toContainText("10");
+  await expect(count).toContainText(/\d+ ürün bulundu/);
+  const before = (await count.textContent())!.match(/\d+/)![0];
   if (isMobile) await page.getByRole("button", { name: /^Filtrele/ }).click();
   const scope = isMobile ? page.getByRole("dialog", { name: "Filtreler" }) : page.getByRole("complementary", { name: "Filtreler" });
   await scope.getByLabel("Çene açılır kask").click();
   await expect(page).toHaveURL(/tip=/);
   if (isMobile) await scope.getByRole("button", { name: /ürünü göster/ }).click();
-  await expect(count).not.toContainText("10");
+  await expect(count).not.toHaveText(`${before} ürün bulundu`);
   await expect(page).toHaveURL(/tip=/);
 });
 

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCategory } from "@/data/categories";
+import { categorySeoName } from "@/data/category-seo";
 import { GENDERS, genderCategories, productsForGender, type GenderSlug } from "@/lib/catalog";
 import { getGuide } from "@/lib/data";
 import { clip, meta } from "@/lib/seo";
@@ -19,7 +20,7 @@ export function genderMeta(g: GenderSlug, cat?: string) {
   const gd = GENDERS.find((x) => x.slug === g)!;
   const c = cat ? getCategory(cat) : undefined;
   return meta({
-    title: c ? `${gd.name} Motosiklet ${c.name} Modelleri` : gd.long,
+    title: c ? `${gd.name} ${categorySeoName(c.slug, c.name)} Modelleri` : gd.long,
     description: clip((c ? `${gd.name} sürücüler için ${c.name.toLocaleLowerCase("tr")} modelleri: teknik özellikler, koruma sınıfları ve Türkiye fiyatları.` : INTRO[g])),
     // Kask ve interkom listeleri cinsiyetten bağımsız olduğu için canonical ana kategoriyi gösterir (yinelenen içerik önlemi).
     path: c ? (c.slug === "kask" || c.slug === "interkom" ? `/${c.slug}` : `/${g}/${c.slug}`) : `/${g}`,
@@ -82,7 +83,7 @@ export function GenderCategory({ g, cat }: { g: GenderSlug; cat: string }) {
   return (
     <>
       <PageHead
-        title={`${gd.name} ${c.name.toLocaleLowerCase("tr")}`}
+        title={`${gd.name} ${categorySeoName(c.slug, c.name)}`}
         intro={unisex ? `${c.name} modelleri cinsiyete göre ayrılmaz; aynı modeller ${gd.name.toLocaleLowerCase("tr")} ve erkek sürücüler için geçerlidir. Belirleyici olan beden ve kafa şeklidir.` : c.intro}
       >
         <Breadcrumbs items={[{ name: gd.name, href: `/${g}` }, { name: c.name, href: `/${g}/${c.slug}` }]} />

@@ -1,0 +1,417 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Stealth Black/Grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "specs.ceClass",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Eldiven su geçirmez mi?",
+        "a": "Evet. Leatt laminasyonlu HydraDri EVO membran kullanıyor ve 20.000 mm su sütunu değeri veriyor."
+      },
+      {
+        "q": "Hangi koruma seviyesinde?",
+        "a": "Leatt yalnızca EN 13594:2015 sertifikasını belirtiyor; Level 1/2 veya KP bilgisi sayfada yok."
+      }
+    ],
+    "rivals": [
+      "klim/womens-adventure-gtx-short",
+      "dainese/tempest-2-d-dry-lady",
+      "alpinestars/stella-sp-8-v3"
+    ],
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-hydra-dri-6.5-bayan-siyah-motosiklet-eldiveni-16177",
+        "price": 6486,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah/Gri"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 6486,
+      "max": 6486,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "adv-hydradri-6-5-women",
+    "brand": "leatt",
+    "name": "ADV HydraDri 6.5 Women Eldiven",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "adventure-eldiven",
+      "kislik-eldiven"
+    ],
+    "summary": "Leatt'in su geçirmez, laminasyonlu HydraDri EVO membranlı kadın adventure eldiveni; EN 13594:2015 sertifikalı, Reaflex jel eklem ve TPR parmak koruması.",
+    "description": [
+      "ADV HydraDri 6.5 Women, Leatt'in yağmurlu ve serin havada adventure-touring sürüşü için geliştirdiği kadın eldiveni. Membran laminasyonlu yapıda; yani HydraDri EVO katmanı dış kumaşa yapıştırılmış, bu sayede katmanlar arasında kayma olmuyor ve tutuş hissi daha doğrudan. Leatt 20.000 mm su sütunu ve 20.000 g/m² nefes alma değeri veriyor.",
+      "Eklemde Reaflex jel, parmaklarda esnek TPR koruma ve kritik darbe bölgelerinde çift mikrofiber kat var; avuçta kaydırıcı bulunuyor. Leatt eldiveni EN 13594:2015'e göre sertifikalı olarak listeliyor ancak seviye (Level 1/2, KP) belirtmiyor. Sol işaret parmağında vizör sileceği, dokunmatik ekran uyumu ve yansıtıcı detaylar var; XS–L arası kadın bedenleri ve uzun-kısa manşet seçenekleri sunuluyor."
+    ],
+    "forWho": [
+      "Yağmurda ve serin havada tur yapan kadın sürücüler",
+      "Adventure motosiklette su geçirmez ama ince his isteyenler"
+    ],
+    "notFor": [
+      "Yaz sıcağında kullanılacak eldiven arayanlar",
+      "Sertifika seviyesini (Level 1/2, KP) mutlaka görmek isteyenler",
+      "Kurye için ana eldiven arayanlar: sık çıkar-tak için manşet yapısı pratik değil"
+    ],
+    "pros": [
+      "Laminasyonlu HydraDri EVO membran, su geçirmez",
+      "Reaflex jel eklem ve TPR parmak koruması",
+      "Vizör sileceği ve dokunmatik ekran uyumu",
+      "Enduromarket'te TL fiyatıyla satışta"
+    ],
+    "cons": [
+      "EN 13594 seviyesi belirtilmiyor",
+      "Termal dolgu bilgisi yok; çok soğukta yetersiz kalabilir",
+      "Beden aralığı XS–L ile sınırlı"
+    ],
+    "usage": {
+      "uzunYol": "Değişken havada tur için tasarlanmış.",
+      "yaz": "Membranlı yapı sıcakta terletir.",
+      "kis": "Serin havada uygun; dondurucu soğuk için kışlık yalıtımlı eldiven daha doğru.",
+      "yagmur": "En güçlü olduğu alan; laminasyonlu membran.",
+      "sehir": "Kullanılabilir; dokunmatik uç pratik.",
+      "kurye": "Yağmurlu günler için yedek eldiven olarak olur; ana eldiven olarak sık çıkar-tak zahmetli."
+    },
+    "verdict": "ADV HydraDri 6.5 Women, yağmurda tur yapan kadın sürücüler için laminasyonlu membranı ve eklem korumasıyla mantıklı bir seçim. EN 13594 sertifikası var ama seviyenin yazmaması koruma karşılaştırmasını zorlaştırıyor.",
+    "manufacturerUrl": "https://int.leatt.com/products/glove-adv-hydradri-6-5-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/glove-adv-hydradri-6-5-women",
+        "type": "manufacturer",
+        "label": "Leatt – Glove ADV HydraDri 6.5 Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-hydra-dri-6.5-bayan-siyah-motosiklet-eldiveni-16177",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV Hydra-Dri 6.5 bayan eldiven ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Leatt Stretch RipStop, MicronGrip avuç, çift mikrofiber takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri EVO (laminasyonlu)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırtlı manşet, giyme halkası",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah/Beyaz",
+      "Siyah/Siyah",
+      "Siyah/Beyaz/Diva Pembe"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Stella SP-8 v3 pist için uygun mu?",
+        "a": "Kısa manşetli bir sport-yol eldiveni. Pist günlerinde bileği de saran uzun manşetli (gauntlet) eldiven daha doğru seçim."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Alpinestars eldiveni EN 13594:2015 Level 1 KP olarak listeliyor; KP, eklem korumasının da test edildiğini gösterir."
+      }
+    ],
+    "rivals": [
+      "alpinestars/stella-copper",
+      "shima/spark-3-0-lady",
+      "revit/sand-5-ladies"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "slug": "stella-sp-8-v3",
+    "brand": "alpinestars",
+    "name": "Stella SP-8 v3",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven",
+      "yazlik-eldiven"
+    ],
+    "summary": "Alpinestars'ın kadın kalıplı, keçi derisi kısa sport eldiveni; EN 13594:2015 Level 1 KP, kalıplı sert eklem koruması ve 3.-4. parmak köprüsü.",
+    "description": [
+      "Stella SP-8 v3, Alpinestars'ın SP-8 v3 eldiveninin kadın eline göre kalıplanmış sürümü. Üst kısım tam tahıllı keçi derisi ve sentetik deri; avuçta süet ve Arshield aşınma takviyesi var. Kalıplı sert eklem koruması tekrarlı darbelerde iyi performans için tasarlanmış. Alpinestars eldiveni EN 13594:2015 Level 1 KP olarak sertifikalı listeliyor.",
+      "Alpinestars'ın patentli 3. ve 4. parmak köprüsü, kayma anında parmakların ayrılmasını ve dikiş açılmasını önlemeye yönelik. Perfore manşet ve parmak yanları havalandırma sağlıyor; cırtlı manşet ve elastik bilek kapanışı oturmayı ayarlıyor. İşaret parmağı ve başparmakta dokunmatik ekran uyumu var. Kısa manşetli bir sport-yol eldiveni; pist için uzun manşetli eldiven daha uygun."
+    ],
+    "forWho": [
+      "Sportif yol sürüşü ve günlük kullanım için deri eldiven isteyen kadın sürücüler",
+      "Sert eklem koruması ve parmak köprüsü arayanlar"
+    ],
+    "notFor": [
+      "Pist günü için uzun manşetli eldiven arayanlar",
+      "Yağmur ve soğuk için eldiven arayanlar"
+    ],
+    "pros": [
+      "EN 13594:2015 Level 1 KP",
+      "Kalıplı sert eklem koruması",
+      "3.-4. parmak köprüsü",
+      "Perfore deri, dokunmatik uç"
+    ],
+    "cons": [
+      "Kısa manşet, bilek koruması sınırlı",
+      "Su geçirmez değil",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun, dokunmatik uç pratik.",
+      "uzunYol": "Kuru havada turda kullanılabilir.",
+      "yaz": "Perfore manşet ve parmak yanları sayesinde ılık-sıcak havada rahat.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Sportif yol sürüşü için iyi; pist için uzun manşet daha doğru.",
+      "kurye": "Deri yapı dayanıklı; ancak yağmur koruması olmadığı için tek eldiven olarak yetmez."
+    },
+    "verdict": "Stella SP-8 v3, kadın sürücüler için Level 1 KP sertifikalı, sert eklem korumalı ve parmak köprülü dengeli bir kısa sport eldiveni. Kısa manşet ve hava koşullarına karşı korumasızlık sınırları; Türkiye'de satış fiyatı doğrulanamadı.",
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-sp-8-v3-gloves",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-sp-8-v3-gloves",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella SP-8 V3 Gloves ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Tam tahıllı keçi derisi ve sentetik deri; süet avuç, Arshield avuç takviyesi",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Perfore manşet ve parmak yanları",
+      "closure": "Cırtlı manşet, elastik bilek",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah",
+      "Siyah/Beyaz",
+      "Pembe"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Spark 3.0 Lady'nin sertifikası nedir?",
+        "a": "Shima eldiveni EN 13594:2015 kapsamında Kategori 2 ve KP1 seviyesi eklem korumasıyla sertifikalı olarak listeliyor."
+      },
+      {
+        "q": "Kurye için uygun mu?",
+        "a": "Yazın şehir içi teslimat için uygun: hafif, havalandırmalı ve dokunmatik uçlu. Yağmurlu günlerde su geçirmez bir eldiven ya da eldiven kılıfı gerekir."
+      }
+    ],
+    "rivals": [
+      "alpinestars/stella-sp-8-v3",
+      "alpinestars/stella-copper",
+      "revit/sand-5-ladies"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-spark-30-korumali-kadin-motosiklet-eldiveni-siyah",
+        "price": 4900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 4900,
+      "max": 4900,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "spark-3-0-lady",
+    "brand": "shima",
+    "name": "Spark 3.0 Lady",
+    "category": "eldiven",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "summary": "Shima'nın havalandırmalı, kısa manşetli kadın yaz eldiveni; EN 13594:2015 Kategori 2, KP1 eklem koruması, TPR eklem koruyucu ve G-FLEXX darbe süngeri.",
+    "description": [
+      "Spark 3.0 Lady, Polonyalı Shima'nın şehir içi ve sıcak günler için tasarladığı kısa kadın eldiveni. Keçi derisi, sentetik süet, dört yönlü esneyen kumaş ve kalın file karışımından üretiliyor; çok sayıda perforasyon ve havalandırma bölgesiyle hava akışı ön planda. Shima eldiveni EN 13594:2015'e göre Kategori 2 gerekliliklerini KP1 seviyesinde eklem korumasıyla karşılayan model olarak listeliyor.",
+      "Eklemde TPR koruyucu, darbe bölgelerinde G-FLEXX darbe emici sünger, avuçta TPR kaydırıcılar ve elin dış kenarında ek mikrofiber kat var. TouchTip dokunmatik ekran uyumu ve giyme halkası pratik detaylar. Motomax'ta TL fiyatıyla satışta; fiyatına göre sertifika seviyesi iyi bir yaz eldiveni."
+    ],
+    "forWho": [
+      "Şehir içinde sıcak havada sürüş yapan kadın sürücüler",
+      "Uygun fiyata KP1 eklem korumalı yaz eldiveni arayanlar",
+      "Yazın kurye olarak çalışan kadın sürücüler"
+    ],
+    "notFor": [
+      "Yağmur ve soğuk için eldiven arayanlar",
+      "Sportif pist sürüşü için uzun manşetli deri eldiven arayanlar"
+    ],
+    "pros": [
+      "EN 13594:2015 Kategori 2, KP1 eklem koruması",
+      "Bol havalandırma, hafif yapı",
+      "Avuçta TPR kaydırıcı ve ek mikrofiber",
+      "Uygun fiyat, Motomax'ta satışta"
+    ],
+    "cons": [
+      "Kısa manşet, bilek koruması sınırlı",
+      "Su geçirmez değil",
+      "Resmi beden tablosu doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; hafif ve dokunmatik uçlu.",
+      "yaz": "Sıcak havada serin tutmak için tasarlanmış.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "uzunYol": "Kuru ve sıcak havada kısa turlar için olur.",
+      "kurye": "Yazın şehir içi teslimat için uygun; dokunmatik uç ve hafiflik avantaj."
+    },
+    "verdict": "Spark 3.0 Lady, şehirde sıcak havada sürüş yapan kadınlar için uygun fiyatlı, KP1 eklem korumalı ve iyi havalandırılan bir yaz eldiveni. Kısa manşet ve yağmur koruması olmaması sınırları.",
+    "manufacturerUrl": "https://shima.pl/shop/rekawice-spark-3-0-lady-czarne/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/rekawice-spark-3-0-lady-czarne/",
+        "type": "manufacturer",
+        "label": "Shima – Spark 3.0 Lady eldiven ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-spark-30-korumali-kadin-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Shima Spark 3.0 kadın eldiven ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Keçi derisi, sentetik süet, dört yönlü esneyen kumaş, kalın file, PU deri",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Perforasyonlu ve fileli üst yüzey",
+      "closure": "Cırtlı manşet, giyme halkası",
+      "madeIn": null
+    }
+  }
+]

@@ -1547,8 +1547,25 @@
       "nolan/n-com-bluetooth-plus",
       "hjc/smart-hjc-21b"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 13463,
+      "max": 13463,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Vipmoto",
+        "url": "https://vipmoto.com/nexx-x-com-3-bluetooth-ve-interkom",
+        "price": 13463,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
     "faq": [
       {
         "q": "X-COM3 hangi kasklara takılır?",
@@ -1572,9 +1589,15 @@
         "type": "manufacturer",
         "label": "Nexx – X.WED3 ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://vipmoto.com/nexx-x-com-3-bluetooth-ve-interkom",
+        "type": "retailer",
+        "label": "Vipmoto – Nexx X-Com 3",
+        "checkedAt": "2026-10-08"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "unverified": [
       "specs.meshTech",

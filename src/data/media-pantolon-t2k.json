@@ -1,0 +1,86 @@
+[
+  {
+    "product": "knox/womens-cartmel-kick-flare",
+    "images": [
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/KNXCartmelWomenBlack_001.jpg",
+        "alt": "Knox Cartmel kadın motosiklet kotu, aged black rust, önden görünüm",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/womens-cartmel-kick-flare-jeans-black/"
+      },
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/Womens-Cartmel-Jeans-Aged-Black-Rust-1.jpg",
+        "alt": "Knox Cartmel kadın motosiklet kotu, kick-flare paça detayı",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/womens-cartmel-kick-flare-jeans-black/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "knox/womens-colton-skinny-fit",
+    "images": [
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/KNXColtonWomenBlue_001.jpg",
+        "alt": "Knox Colton skinny-fit kadın motosiklet kotu, indigo, önden görünüm",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/womens-colton-skinny-fit-jeans/"
+      },
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/jeans_KNXColtonWomenCharcoal_15.jpg",
+        "alt": "Knox Colton skinny-fit kadın motosiklet kotu, füme renk",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/womens-colton-skinny-fit-jeans/"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "riderdenim/kasirga-kadin",
+    "images": [
+      {
+        "url": "https://riderdenim.com/storage/product/kasirga-kadin-motosiklet-pantolonu/1.webp",
+        "alt": "Riderdenim Kasırga kışlık kadın motosiklet kotu, lacivert",
+        "credit": "Riderdenim",
+        "sourcePage": "https://riderdenim.com/kasirga-kadin-motosiklet-pantolonu"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "dainese/delta-4-lady",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/5f2e2ebb-e5aa-4102-ac3a-4e8654f0d946/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Delta 4 kadın deri motosiklet pantolonu, siyah, önden görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/delta-4-leather-pants-wmn-2015500006631.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/f9436ac1-f0d1-448e-9fea-3d3cbf8dccfe/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Delta 4 kadın deri motosiklet pantolonu, arkadan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/delta-4-leather-pants-wmn-2015500006631.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "leatt/adv-multitour-5-5-women-pants",
+    "images": [
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_ADV_Pants_5.5_MultiTour_Wmn_FrontRight_5025102160_06e092c0-0da1-485c-a049-7ae75f6702b3.png",
+        "alt": "Leatt ADV MultiTour 5.5 kadın adventure pantolon, siyah, önden görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/pants-adv-multitour-5-5-women"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/Leatt_ADV_Pants_5.5_MultiTour_Wmn_BackRight_5025102160_80a850e7-1490-478b-8c12-5edfa21cb1a7.png",
+        "alt": "Leatt ADV MultiTour 5.5 kadın adventure pantolon, arkadan görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/pants-adv-multitour-5-5-women"
+      }
+    ],
+    "videos": []
+  }
+]

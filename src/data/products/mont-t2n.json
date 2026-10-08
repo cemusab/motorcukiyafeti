@@ -1,0 +1,874 @@
+[
+  {
+    "slug": "nova-specter",
+    "brand": "tnspro",
+    "name": "Nova Specter",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sport-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "1,2 mm dana derisinden, omuz ve dirseklerde Level 2 Flexist Protect koruyuculu, kol altı ve sırtta hava kanalları olan, İstanbul merkezli TNS PRO'nun sportif kesimli deri montu.",
+    "description": [
+      "Nova Specter, TNS PRO'nun sport kullanım için konumlandırdığı deri montu. Gövde 1,2 mm kalınlığında dana derisinden; fermuarlar YKK T-10. Kesim aktif sürüşe göre ergonomik tutulmuş, sırt ve dirseklerde esneme bölgeleri var. Sırtta hörgüç (aerodinamik çıkıntı) bulunuyor; bu da montun öne eğik sürüş pozisyonuna göre düşünüldüğünü gösteriyor. Kol altı ve sırtta hava kanalları, belde açılıp kapanan bir havalandırma cebi yer alıyor.",
+      "Koruma tarafında omuz ve dirseklerde markanın 'Flexist Protect' adını verdiği, seviyesi 2 olarak belirtilen viskoelastik koruyucular standart geliyor. Sırt koruyucu için cep var ancak ped opsiyonel; yani kutudan çıktığı haliyle sırt koruması yok. Üretici ürün sayfasında 'EN 17092' sertifikası yazıyor fakat sınıf (AAA/AA/A) ve koruyucuların hangi EN 1621 bölümüne göre test edildiği belirtilmiyor. Bu bilgileri satın almadan önce etiket veya kullanım kılavuzundan teyit etmek gerekir. İç astar sabit; termal katman ya da su geçirmez membran yok."
+    ],
+    "forWho": [
+      "Naked veya sport motosikletle hafta sonu sürüşü yapan, uygun fiyatlı yerli bir deri mont arayanlar",
+      "Montunu sonradan sırt koruyucuyla tamamlamayı göze alan sürücüler",
+      "Renkli (turuncu, yeşil, kırmızı) deri mont seçeneği isteyenler"
+    ],
+    "notFor": [
+      "Gün boyu inip binen kuryeler: sport kesim ve deri yapı uzun vardiyada yorucu, yağmur koruması da yok",
+      "Yağmurda ve soğukta tek mont ile idare etmek isteyenler",
+      "CE sınıfını (AA/AAA) etiketten değil ürün sayfasından görmek isteyenler"
+    ],
+    "pros": [
+      "1,2 mm dana derisi ve YKK fermuar, bu fiyat aralığı için tatmin edici malzeme",
+      "Omuz ve dirsekte Level 2 olarak belirtilen koruyucular standart",
+      "Kol altı, sırt ve belde havalandırma; deri mont için sıcak havada daha rahat",
+      "Üreticinin kendi sitesinde göğüs ve bel ölçülü beden tablosu var"
+    ],
+    "cons": [
+      "Sırt koruyucu pedi standart değil, ayrıca alınması gerekiyor",
+      "EN 17092 sınıfı ve koruyucu standardı ürün sayfasında belirtilmiyor",
+      "Su geçirmezlik ya da termal astar yok",
+      "Renkli seçeneklerde beden stoğu sınırlı"
+    ],
+    "usage": {
+      "sehir": "Kısa şehir içi kullanımda giyilebilir; dur-kalk trafikte deri ve sport kesim zamanla yorar.",
+      "uzunYol": "Hafta sonu turu için uygun; hava ve yağmur koruması olmadığından uzun ve değişken havalı yolculukta kısıtlı kalır.",
+      "yaz": "Hava kanalları sayesinde deri montlar arasında görece serin; trafikte dururken yine de sıcak tutar.",
+      "kis": "Sabit astar ince; soğukta içine katman gerekir, kış montu değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Hörgüç ve esneme bölgeleriyle asıl hedefi bu kullanım; sırt koruyucu eklenmeden tam bir sport takım sayılmaz.",
+      "kurye": "Önerilmez: deri yapı, sport kesim ve yağmur korumasızlığı günlük kurye temposuna uymuyor."
+    },
+    "verdict": "Nova Specter, sportif sürüş için uygun fiyatlı yerli bir deri mont arayana makul bir seçenek. 1,2 mm deri, YKK fermuar ve Level 2 omuz-dirsek koruması iyi bir temel sunuyor. Ancak sırt koruyucuyu ayrıca almak ve EN 17092 sınıfını etiketten teyit etmek gerekiyor.",
+    "rivals": [
+      "venom/mustang",
+      "macna/blitz",
+      "ixs/ace-1-0"
+    ],
+    "priceRange": {
+      "min": 19550,
+      "max": 19550,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "TNS PRO resmi mağazasında 23.000 TL liste fiyatı üzerinden indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/nova-specter-deri-motorcu-montu",
+        "price": 23000,
+        "salePrice": 19550,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58"
+        ],
+        "colors": [
+          "Siyah",
+          "Siyah Beyaz",
+          "Kırmızı",
+          "Turuncu",
+          "Yeşil"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Nova Specter'da sırt koruması var mı?",
+        "a": "Sırtta koruyucu cebi var ama ped standart değil, opsiyonel olarak sunuluyor. Güvenlik için EN 1621-2 Level 2 bir sırt koruyucu eklemek gerekir."
+      },
+      {
+        "q": "Hangi CE sınıfında?",
+        "a": "Üretici ürün sayfasında yalnızca 'EN 17092' sertifikası yazıyor; AAA, AA veya A sınıfı belirtilmiyor. Sınıfı montun içindeki CE etiketinden kontrol edin."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Üreticinin tablosunda 46 beden 94–98 cm, 50 beden 102–106 cm göğüs çevresine karşılık geliyor. Göğüs ve bel ölçünüzü alıp tablodan seçin; iki beden arasında kalırsanız içine giyeceğiniz katmanı hesaba katın."
+      }
+    ],
+    "manufacturerUrl": "https://tnspro.com.tr/nova-specter-deri-motorcu-montu",
+    "sources": [
+      {
+        "url": "https://tnspro.com.tr/nova-specter-deri-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Nova Specter ürün sayfası (özellikler, fiyat, beden tablosu)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/hakkimizda",
+        "type": "manufacturer",
+        "label": "TNS PRO – Hakkımızda (kuruluş yılı ve yerli üretim beyanı)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.membrane"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah Beyaz",
+      "Kırmızı",
+      "Turuncu",
+      "Yeşil"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "sizeChart": [
+      {
+        "size": "46",
+        "min": 94,
+        "max": 98
+      },
+      {
+        "size": "48",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "50",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "52",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "54",
+        "min": 110,
+        "max": 114
+      },
+      {
+        "size": "56",
+        "min": 114,
+        "max": 118
+      },
+      {
+        "size": "58",
+        "min": 118,
+        "max": 122
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "1,2 mm dana derisi, YKK T-10 fermuar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Kol altı ve sırtta hava kanalı, belde açılır kapanır havalandırma cebi",
+      "closure": "YKK T-10 fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "slug": "super-collection",
+    "brand": "tnspro",
+    "name": "Super Collection",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "1,2 mm dana derisi, omuz ve dirseklerde Level 2 koruyucu, ayarlanabilir bel ve omuzda esneme bölgesiyle günlük kullanıma yönelik, yerli üretici TNS PRO'nun en çok bilinen deri montu.",
+    "description": [
+      "Super Collection, TNS PRO'nun günlük kullanım için tasarladığı deri mont serisi; sitede siyah, beyaz ve beyaz-siyah olmak üzere üç ayrı renk sayfasında satılıyor (adreslerde '2nd Generation' adıyla geçiyor). Gövde 1,2 mm doğal dana derisinden, iç astar sabit. Omuzda ekstra esneme bölgesi ve hassas bel ayarı var; sırtta hörgüç bulunuyor. İçte ruhsat boyutuna uygun iki cep, dışta iki cep yer alıyor.",
+      "Omuz ve dirseklerde Flexist Protect markalı, seviyesi 2 olarak belirtilen viskoelastik koruyucular standart. Sırt koruyucu cebi var ama ped opsiyonel. Üretici 'EN 17092' sertifikası yazıyor; sınıf ve koruyucuların test standardı ürün sayfasında belirtilmiyor. Havalandırma, su geçirmez membran ya da termal astar tanımlanmadığı için en verimli kullanım ılık ve kuru havalarda. Renkler arasında fiyat farkı var; beyaz versiyon kontrol tarihinde stokta görünmüyordu."
+    ],
+    "forWho": [
+      "Şehir içi ve kısa tur için klasik görünümlü, uygun fiyatlı deri mont arayanlar",
+      "Yerli üretim ve doğrudan üreticiden alışverişi tercih eden sürücüler",
+      "Tekstil montun yerine sürtünme dayanımı yüksek deriyi seçmek isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda da çalışan kuryeler: su geçirmez değil, deri ıslanınca ağırlaşır ve kuruması uzun sürer",
+      "Sıcak yaz öğlenleri için mont arayanlar: ürün sayfasında havalandırma tanımlanmıyor",
+      "Kutudan çıktığı gibi sırt koruması isteyenler"
+    ],
+    "pros": [
+      "1,2 mm dana derisi; tekstil montlara göre sürtünme dayanımı yüksek malzeme",
+      "Omuz ve dirsekte Level 2 olarak belirtilen koruyucular standart",
+      "Ayarlanabilir bel ve omuzda esneme bölgesi ile günlük giyimde rahat",
+      "Göğüs ve bel ölçülü resmi beden tablosu"
+    ],
+    "cons": [
+      "Sırt koruyucu ped ayrıca alınmalı",
+      "EN 17092 sınıfı ürün sayfasında yazmıyor",
+      "Havalandırma, su geçirmezlik ve termal astar yok",
+      "Renge göre fiyat değişiyor; beyaz renk kontrol tarihinde tükenmişti"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi bu. Günlük kesim, bel ayarı ve ruhsat cebi şehir içi kullanıma uygun.",
+      "uzunYol": "Kuru ve ılık havada kısa-orta mesafe tur için yeterli; hava değişirse yağmurluk ve ara katman gerekir.",
+      "yaz": "Havalandırma tanımlanmadığından sıcak havada bunaltabilir; serin yaz sabahları için daha uygun.",
+      "kis": "Sabit astar ince; soğukta içine polar veya termal katman gerekir.",
+      "yagmur": "Su geçirmez değil; yağmurluk şart.",
+      "kurye": "Sınırlı uygun: koruma ve deri dayanımı iyi, ancak yağmur ve yaz sıcağında tek başına yetmez; günlük kuryede tekstil 4 mevsim mont daha pratik."
+    },
+    "verdict": "Super Collection, şehir içinde deri mont giymek isteyen ve uygun fiyatlı yerli bir model arayan sürücü için mantıklı bir başlangıç. Omuz-dirsek koruması standart, deri kalınlığı yeterli. Sırt koruyucuyu ayrıca almanız, CE sınıfını etiketten kontrol etmeniz ve yağmur için ayrı bir çözüm düşünmeniz gerekiyor.",
+    "rivals": [
+      "venom/mustang",
+      "alpinestars/dyno",
+      "tnspro/nova-specter"
+    ],
+    "priceRange": {
+      "min": 13275,
+      "max": 16950,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Renge göre fiyat değişiyor: siyah 13.275 TL (indirimli), beyaz-siyah 14.625 TL (indirimli), beyaz 16.950 TL (stokta yok)."
+    },
+    "offers": [
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/tnspro-2nd-generation-black-deri-motorcu-montu",
+        "price": 14750,
+        "salePrice": 13275,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/tnspro-2nd-gen-white-black-deri-motorcu-montu",
+        "price": 16250,
+        "salePrice": 14625,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58"
+        ],
+        "colors": [
+          "Beyaz Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/tnspro-2nd-generation-white-deri-motorcu-montu",
+        "price": 16950,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Super Collection ile 2nd Generation aynı mont mu?",
+        "a": "Evet. Üreticinin sitesinde ürün adı Super Collection, sayfa adreslerinde ise 2nd Generation olarak geçiyor; siyah, beyaz ve beyaz-siyah renkleri ayrı sayfalarda satılıyor."
+      },
+      {
+        "q": "Sırt koruması dahil mi?",
+        "a": "Hayır. Sırtta koruyucu cebi var, ped opsiyonel. Bir EN 1621-2 Level 2 sırt koruyucu eklemeniz önerilir."
+      },
+      {
+        "q": "Beden tablosu Nova Specter ile aynı mı?",
+        "a": "Hayır. Super Collection'da 46 beden 98–102 cm göğüs çevresinden başlıyor; Nova Specter'da aynı beden 94–98 cm. Kendi ölçünüzü her modelin tablosuna ayrı bakarak seçin."
+      }
+    ],
+    "manufacturerUrl": "https://tnspro.com.tr/tnspro-2nd-generation-black-deri-motorcu-montu",
+    "sources": [
+      {
+        "url": "https://tnspro.com.tr/tnspro-2nd-generation-black-deri-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Super Collection Black ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/tnspro-2nd-gen-white-black-deri-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Super Collection White Black ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/tnspro-2nd-generation-white-deri-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Super Collection White ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/hakkimizda",
+        "type": "manufacturer",
+        "label": "TNS PRO – Hakkımızda (kuruluş yılı ve yerli üretim beyanı)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.membrane",
+      "specs.ventilation"
+    ],
+    "colors": [
+      "Siyah",
+      "Beyaz Siyah",
+      "Beyaz"
+    ],
+    "sizes": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "sizeChart": [
+      {
+        "size": "46",
+        "min": 98,
+        "max": 102
+      },
+      {
+        "size": "48",
+        "min": 102,
+        "max": 106
+      },
+      {
+        "size": "50",
+        "min": 106,
+        "max": 110
+      },
+      {
+        "size": "52",
+        "min": 110,
+        "max": 114
+      },
+      {
+        "size": "54",
+        "min": 114,
+        "max": 118
+      },
+      {
+        "size": "56",
+        "min": 118,
+        "max": 122
+      },
+      {
+        "size": "58",
+        "min": 122,
+        "max": 126
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "1,2 mm doğal dana derisi",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar, hassas bel ayarı",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "slug": "valora-fluxa-kadin",
+    "brand": "tnspro",
+    "name": "Valora Fluxa Kadın",
+    "category": "mont",
+    "subcategories": [
+      "deri-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Kadın vücut hatlarına göre kesilmiş, 1,2 mm dana derisinden, omuz ve dirseklerde Level 2 koruyuculu, neon renk seçenekli yerli deri motosiklet montu.",
+    "description": [
+      "Valora Fluxa, TNS PRO'nun kadın sürücülere özel geliştirdiği deri mont. 1,2 mm dana derisinden yapılıyor; kesim kadın vücut hatlarına göre ergonomik, dikişler sürüş pozisyonuna göre yerleştirilmiş. Belde iki kademeli ayar, içte ruhsat boyutunda iki cep ve dışta iki cep bulunuyor. Siyah, siyah-beyaz, turuncu ve yeşil renk seçenekleri var; neon tonlar trafikte görünürlüğe katkı sağlıyor.",
+      "Omuz ve dirseklerde Flexist Protect markalı, seviyesi 2 olarak belirtilen koruyucular standart; sırt koruyucu cebi var ama ped opsiyonel. Ürün sayfasında 'EN 17092' sertifikası yazıyor, sınıf belirtilmiyor. Beden tablosu kadın bedeni (36–48) ile göğüs, bel ve basen ölçülerini veriyor; bu, Türkiye pazarında kadın deri mont için az bulunan bir ayrıntı. İç astar sabit, su geçirmezlik ve havalandırma tanımlanmamış."
+    ],
+    "forWho": [
+      "Unisex kalıpta bol kalan, kadın kesimi deri mont arayan sürücüler",
+      "Şehir içi ve hafta sonu sürüşünde görünür (neon) renk isteyenler",
+      "İthal kadın deri montların fiyatını yüksek bulan, yerli seçenek arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda da çalışan kadın kuryeler: su geçirmez değil",
+      "Kutudan çıktığı gibi sırt koruması isteyenler",
+      "Sıcak yaz öğlenleri için havalandırmalı mont arayanlar"
+    ],
+    "pros": [
+      "Gerçek kadın kesimi ve göğüs-bel-basen ölçülü beden tablosu",
+      "Omuz ve dirsekte Level 2 olarak belirtilen koruyucular standart",
+      "Neon renk seçenekleri görünürlüğü artırıyor",
+      "İthal kadın deri montlara göre belirgin şekilde uygun fiyat"
+    ],
+    "cons": [
+      "Sırt koruyucu ped ayrıca alınmalı",
+      "EN 17092 sınıfı ürün sayfasında yazmıyor",
+      "Havalandırma ve su geçirmezlik yok",
+      "Turuncu ve yeşil renklerde beden stoğu az"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi bu; bel ayarı ve kadın kesimiyle günlük kullanımda rahat oturur.",
+      "uzunYol": "Kuru ve ılık havada hafta sonu turuna uygun; yağmur ve soğuk için ek katman gerekir.",
+      "yaz": "Havalandırma tanımlanmadığından sıcak öğle saatlerinde bunaltabilir.",
+      "kis": "Sabit astar ince; soğukta içine termal katman giyilmeli.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "kurye": "Sınırlı uygun: koruma ve görünürlük iyi, ancak yağmur ve sıcakta tek başına yetmez; günlük kuryelik için tekstil 4 mevsim mont daha pratik."
+    },
+    "verdict": "Valora Fluxa, kadın kesimli deri mont arayan ve ithal modellerin fiyatından kaçınmak isteyen sürücü için öne çıkan yerli bir seçenek. Göğüs, bel ve basen ölçülü beden tablosu doğru bedeni bulmayı kolaylaştırıyor. Sırt koruyucuyu ayrıca almak ve CE sınıfını etiketten kontrol etmek gerekiyor.",
+    "rivals": [
+      "alpinestars/stella-gp-plus-v4",
+      "dainese/racing-5-lady",
+      "tex-motor/forte-gt-inferno-kadin"
+    ],
+    "priceRange": {
+      "min": 12620,
+      "max": 13365,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "14.850 TL liste fiyatı; turuncu ve yeşil 12.620 TL, siyah ve siyah-beyaz 13.365 TL indirimli."
+    },
+    "offers": [
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/valora-fluxa-kadin-motorcu-montu",
+        "price": 14850,
+        "salePrice": 13365,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        "colors": [
+          "Siyah",
+          "Siyah Beyaz"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/valora-fluxa-kadin-motorcu-montu",
+        "price": 14850,
+        "salePrice": 12620,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "36",
+          "38",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        "colors": [
+          "Turuncu",
+          "Yeşil"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Valora Fluxa gerçekten kadın kalıbı mı?",
+        "a": "Evet. Üretici modeli kadın sürücülere özel geliştirdiğini belirtiyor ve beden tablosunu 36–48 kadın bedenleriyle, göğüs, bel ve basen ölçüsüne göre veriyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Tabloya göre 38 beden 92–96 cm göğüs, 79–83 cm bel ve 98–102 cm basene karşılık geliyor. Üç ölçünüzü alın; farklı bedenlere düşerse genellikle büyük olanı seçmek hareket rahatlığı sağlar."
+      },
+      {
+        "q": "Sırt koruması var mı?",
+        "a": "Cebi var, ped opsiyonel. Kadın gövdesine uygun boyda bir EN 1621-2 Level 2 sırt koruyucu eklenmesi önerilir."
+      }
+    ],
+    "manufacturerUrl": "https://tnspro.com.tr/valora-fluxa-kadin-motorcu-montu",
+    "sources": [
+      {
+        "url": "https://tnspro.com.tr/valora-fluxa-kadin-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Valora Fluxa kadın deri mont ürün sayfası (özellikler, fiyat, beden tablosu)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/hakkimizda",
+        "type": "manufacturer",
+        "label": "TNS PRO – Hakkımızda (kuruluş yılı ve yerli üretim beyanı)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.membrane",
+      "specs.ventilation"
+    ],
+    "colors": [
+      "Siyah",
+      "Siyah Beyaz",
+      "Turuncu",
+      "Yeşil"
+    ],
+    "sizes": [
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "sizeChart": [
+      {
+        "size": "36",
+        "min": 88,
+        "max": 92
+      },
+      {
+        "size": "38",
+        "min": 92,
+        "max": 96
+      },
+      {
+        "size": "40",
+        "min": 96,
+        "max": 100
+      },
+      {
+        "size": "42",
+        "min": 100,
+        "max": 104
+      },
+      {
+        "size": "44",
+        "min": 104,
+        "max": 108
+      },
+      {
+        "size": "46",
+        "min": 108,
+        "max": 112
+      },
+      {
+        "size": "48",
+        "min": 112,
+        "max": 116
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "1,2 mm dana derisi",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar, 2 kademeli bel ayarı",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "slug": "forti-flex",
+    "brand": "tnspro",
+    "name": "Forti Flex",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Softshell kumaştan, rüzgâr geçirmez ve suya dayanıklı, çıkarılabilir iç yelek ve kapüşonlu, omuz-dirsekte Level 2 koruyuculu uygun fiyatlı 3 mevsim motorcu montu.",
+    "description": [
+      "Forti Flex, TNS PRO'nun deri dışındaki tek montu: softshell kumaştan, üretici tarafından '3 mevsim' olarak tanımlanan, günlük kullanıma yönelik korumalı bir mont. Kumaş rüzgâr geçirmez ve ısı yalıtımlı; üretici suya 90 dakikaya kadar dayandığını belirtiyor. Bu bir su geçirmezlik iddiası değil, sağanakta ya da uzun yağmurda içeri su alabileceğini hesaba katmak gerekir. İç yelek ve kapüşon çıkarılabiliyor; iki yönlü fermuar, ayarlanabilir bilek ve yan cırtlar, yansıtıcı baskı ve suya dayanıklı bir göğüs cebi var.",
+      "Omuz ve dirseklerde, deri modellerdeki gibi seviyesi 2 olarak belirtilen Flexist Protect koruyucular standart geliyor; sırt koruyucu tanımlanmamış. Deri modellerin aksine ürün sayfasında herhangi bir EN 17092 sertifikası yazmıyor. Softshell kumaşın sürtünme dayanımı motosiklete özel Cordura veya deri ile kıyaslanacak düzeyde belgelenmiş değil. Bu yüzden Forti Flex, düşük hızlı şehir kullanımı için hafif ve uygun fiyatlı bir seçenek olarak görülmeli; yüksek hız ve yol sürüşü için sertifikalı bir mont daha doğru olur."
+    ],
+    "forWho": [
+      "Şehir içinde düşük hızda kullanan, motorcu montuna ilk kez geçen bütçesi kısıtlı sürücüler",
+      "Gündelik ceket görünümünde, kapüşonlu ve rüzgâr kesen bir mont arayanlar",
+      "Serin bahar ve sonbahar günlerinde ince bir korumalı katman isteyenler"
+    ],
+    "notFor": [
+      "Yağmurda tam gün çalışan kuryeler: kumaş su geçirmez değil, suya dayanıklı",
+      "CE sertifikalı (EN 17092) mont arayanlar: ürün sayfasında sertifika belirtilmiyor",
+      "Otoyol ve yüksek hızda uzun yol yapanlar"
+    ],
+    "pros": [
+      "TNS PRO'nun en uygun fiyatlı montu; omuz-dirsek koruması standart",
+      "Çıkarılabilir iç yelek ve kapüşon ile mevsime göre ayarlanabiliyor",
+      "Rüzgâr geçirmez kumaş ve yansıtıcı baskı",
+      "Suya dayanıklı göğüs cebi dahil bol cep"
+    ],
+    "cons": [
+      "Ürün sayfasında CE (EN 17092) sertifikası yok",
+      "Su geçirmez değil; üretici 90 dakikaya kadar suya dayanıklılık belirtiyor",
+      "Sırt koruyucu tanımlanmamış",
+      "Beden tablosu vücut değil ürün ölçüsü veriyor; doğru bedeni seçmek zorlaşıyor"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi bu; kısa ve düşük hızlı şehir sürüşlerinde pratik.",
+      "yaz": "Softshell ve iç yelek yazın sıcak gelir; yazlık file mont değil.",
+      "kis": "İç yelekle serin havada yeterli; sert kışta altına termal katman ve üstüne yağmurluk gerekir.",
+      "yagmur": "Kısa yağmurda idare eder; uzun yağmurda yağmurluk gerekir.",
+      "kurye": "Sınırlı uygun: fiyatı ve omuz-dirsek koruması cazip, ancak CE sertifikası belirtilmemesi ve su geçirmez olmaması tam gün kuryelik için zayıf noktalar."
+    },
+    "verdict": "Forti Flex, şehir içinde düşük hızda kullanan ve hiç korumasız ceketle sürmektense uygun fiyatlı bir korumalı mont isteyen sürücü için bir başlangıç. Ürün sayfasında CE sertifikası yazmıyor ve kumaş yalnızca suya dayanıklı. Yol sürüşü ve kurye temposu için EN 17092 sertifikalı bir tekstil mont tercih edilmeli.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "venom/dynamic",
+      "tech90/vecton-4-mevsim-kevlar"
+    ],
+    "priceRange": {
+      "min": 7200,
+      "max": 7200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "TNS PRO resmi mağazasında 8.000 TL liste fiyatı üzerinden indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "TNSPRO resmi mağaza",
+        "url": "https://tnspro.com.tr/tnspro-forti-flex-3-mevsim-korumali-motorcu-montu",
+        "price": 8000,
+        "salePrice": 7200,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Siyah",
+          "Kırmızı"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Forti Flex su geçirmez mi?",
+        "a": "Hayır. Üretici softshell kumaşın 90 dakikaya kadar suya dayanıklı olduğunu belirtiyor; bu, kısa yağmurda içi kuru tutmaya yardımcı olur ama uzun yağmurda yağmurluk gerekir."
+      },
+      {
+        "q": "CE sertifikalı mı?",
+        "a": "Ürün sayfasında EN 17092 sertifikası yazmıyor; yalnızca omuz ve dirsekteki koruyucuların seviye 2 olduğu belirtiliyor. Sertifikalı mont arıyorsanız TNS PRO'nun deri modellerine ya da sertifikalı tekstil montlara bakın."
+      },
+      {
+        "q": "Beden tablosu nasıl okunur?",
+        "a": "Üreticinin tablosu S'den XXL'e montun kendi ölçülerini veriyor (ör. M bedende ürün göğüs ölçüsü 120 cm). Bunlar vücut ölçüsü değil; kendi göğüs ölçünüzün üzerine iç katman payı bırakarak karşılaştırın."
+      }
+    ],
+    "manufacturerUrl": "https://tnspro.com.tr/tnspro-forti-flex-3-mevsim-korumali-motorcu-montu",
+    "sources": [
+      {
+        "url": "https://tnspro.com.tr/tnspro-forti-flex-3-mevsim-korumali-motorcu-montu",
+        "type": "manufacturer",
+        "label": "TNS PRO – Forti Flex 3 mevsim mont ürün sayfası (özellikler, fiyat, ürün ölçü tablosu)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://tnspro.com.tr/pages/hakkimizda",
+        "type": "manufacturer",
+        "label": "TNS PRO – Hakkımızda (kuruluş yılı ve yerli üretim beyanı)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.gender",
+      "specs.season",
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.airbagCompatible",
+      "specs.ventilation",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Kırmızı",
+      "Yeşil Beyaz"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": null,
+      "season": null,
+      "material": "Softshell kumaş, ısı yalıtımlı; çıkarılabilir iç yelek ve kapüşon",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İki yönlü (kombi) fermuar, ayarlanabilir bilek ve yan cırtlar",
+      "madeIn": "Türkiye"
+    }
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "faq": [
+      {
+        "q": "YRN-6027 CE sertifikalı mı?",
+        "a": "Üretici, omuz, dirsek ve sırt korumalarının TS EN 1621 standardında olduğunu ve reflektiflerin TS EN 20471 uyumlu olduğunu belirtiyor. Montun kendisi için EN 17092 sınıf bilgisi sayfada yok."
+      },
+      {
+        "q": "Yağmurda kullanılabilir mi?",
+        "a": "Membranı olmadığı için hayır; yağmurlu günlerde üstüne ayrı bir yağmurluk giyilmesi gerekir."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi mağaza)",
+        "url": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-",
+        "price": 1710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 1710,
+      "max": 1710,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Resmi mağaza fiyatı, ücretsiz kargo."
+    },
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "mont",
+    "slug": "yrn-6027-yazlik-kurye",
+    "brand": "yaren-tekstil",
+    "name": "YRN-6027 Yazlık Moto Kurye Mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "600D Oxford polyester ve raşel file kumaştan, EN 1621 omuz-dirsek-sırt korumalı ve EN 20471 reflektif bantlı, yaz için hafif ve uygun fiyatlı yerli kurye montu.",
+    "description": [
+      "YRN-6027, Yaren Tekstil'in yaz ayları için hazırladığı moto kurye montu. Gövdede aşınmaya dayanıklı 600D polyester Oxford kumaş, hava alması gereken bölgelerde ise Mimoza raşel örgü file kumaş kullanılıyor. İç tarafta yine raşel örgü 5/1 file astar var; yapı ısınmayı azaltmaya odaklanıyor.",
+      "Omuz, dirsek ve sırtta İMPACTED marka, TS EN 1621 standardına uygun korumalar takılı geliyor. Reflektif bantlar TS EN 20471 standardında, fermuarlar YKK. Üretici sayfasında montun kendisi için EN 17092 sınıf bilgisi verilmiyor; bu nedenle montun kumaş koruma sınıfı belirsiz. Ürün resmi mağazada fiyatıyla ve ücretsiz kargoyla bireysel olarak satılıyor."
+    ],
+    "forWho": [
+      "Yazın gün boyu teslimat yapan ve terlemekten şikâyet eden moto kuryeler",
+      "Düşük bütçeyle korumalı ve reflektörlü yazlık mont arayan yeni sürücüler",
+      "Ekibine toplu yazlık kurye montu almak isteyen küçük işletmeler"
+    ],
+    "notFor": [
+      "Yağmurda kullanım: membranı yok, üstüne yağmurluk gerekir",
+      "Montun kendisi için CE (EN 17092) sınıfı arayanlar; üretici sınıf belirtmiyor",
+      "Serin bahar akşamları veya kış: ısı yalıtımı yok"
+    ],
+    "pros": [
+      "Fiyatı çok erişilebilir",
+      "File paneller ve file astar sıcakta hava akışı sağlıyor",
+      "Omuz, dirsek ve sırt korumaları dahil",
+      "EN 20471 reflektif bant ve YKK fermuar"
+    ],
+    "cons": [
+      "Montun EN 17092 sertifikası ve sınıfı belirtilmemiş",
+      "Su geçirmez değil",
+      "Kontrol tarihinde M beden listede görünmüyordu",
+      "Beden tablosu ürün sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Şehir içi kısa ve sık duraklı sürüşler için hafif bir seçenek.",
+      "yaz": "Asıl kullanım alanı; file paneller ve file astar sıcakta rahatlatır.",
+      "kis": "Uygun değil; ısı yalıtımı ve rüzgar bariyeri yok.",
+      "yagmur": "Su geçirmez değil; üstüne kurye yağmurluğu giyilmeli.",
+      "kurye": "Doğrudan yazlık kurye montu olarak tasarlanmış; reflektif bant ve korumalar dahil, fiyatı ekip alımına uygun."
+    },
+    "verdict": "YRN-6027, yazın teslimat yapan kurye için en ucuz korumalı ve reflektörlü yerli seçeneklerden biri. Korumalar dahil ve file yapı serin tutuyor; ancak montun kendisi için CE sınıfı belirtilmediğinden, aşınma dayanımı konusunda sertifikalı bir yazlık monttan daha az güvence veriyor.",
+    "rivals": [
+      "yaren-tekstil/yrn-1390-yazlik",
+      "scudo/milano",
+      "tex-motor/forte-gt-ocean"
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-6027-yaren-yazlik-moto-kurye-mont--yrn-6027-yaren-yazlik-moto-kurye-mont-",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-6027 Yazlık Moto Kurye Mont ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "600D polyester Oxford dış kumaş, Mimoza raşel örgü file paneller, 5/1 raşel file astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "TS EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "TS EN 1621",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "TS EN 1621",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File kumaş paneller ve file astar",
+      "closure": "YKK fermuar ve cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "faq": [
+      {
+        "q": "Fiyata pantolon dahil mi?",
+        "a": "Evet. YRN-6081 mont ve pantolondan oluşan bir takım olarak satılıyor; listelenen fiyat takım fiyatı."
+      },
+      {
+        "q": "İçlik çıkarılabiliyor mu?",
+        "a": "Evet. Üretici kapitone ısı yalıtım içliğinin fermuarla ayrılabildiğini belirtiyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "10.000 mm su sütunlu membran ve bantlı dikişlerle üretiliyor; ancak üretici su geçirmezlik garantisi olmadığını yazıyor."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Yaren Tekstil (resmi mağaza)",
+        "url": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti",
+        "price": 9700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 9700,
+      "max": 9700,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Mont ve pantolon birlikte; resmi mağaza fiyatı, ücretsiz kargo."
+    },
+    "unverified": [
+      "specs.protectors.level",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "mont",
+    "slug": "yrn-6081-kislik-kurye-takim",
+    "brand": "yaren-tekstil",
+    "name": "YRN-6081 Kışlık Motokurye Mont Pantolon Takım",
+    "subcategories": [
+      "kislik-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "EN 17092-4 A sınıfı, 10.000 mm su sütunlu membranlı, bantlı dikişli ve fermuarla ayrılan kapitone içlikli; mont ve pantolonu birlikte satılan yerli kışlık kurye takımı.",
+    "description": [
+      "YRN-6081, Yaren Tekstil'in kışlık mont ve pantolonu tek pakette sunduğu motokurye takımı. Takım EN 17092-4:2020 A sınıfı sertifikalı. Dış kumaş 600D polyester; altında su geçirmez ve nefes alabilen membranla lamine iki katlı bariyer kumaş, delikli 5/1 raşel file astar ve fermuarla ayrılabilen kapitone ısı yalıtım içliği var. Üretici bariyer kumaşın 10.000 mm su sütunu basıncına dayandığını, dikişlerin kaynak bandıyla izole edildiğini yazıyor; buna karşın su geçirmezlik garantisi vermediğini de açıkça belirtiyor.",
+      "Montta omuz ve dirsekte EN 1621-1:2012, sırtta EN 1621-2:2014 IMPACTEC/IMPACTED korumalar, pantolonda diz ve yan bölgede EN 1621-1 korumalar var. Ön kapamada su patı, cırt ve fermuar, iki körüklü cep, ayarlanabilir bel kemeri, kol ayar patları ve göğüs ile sırtta firma logosu için cırt alanları bulunuyor. Pantolonda çift cep, su itici fermuarlar, ayarlanabilir paça ve bel var. Reflektifler EN 20471 standardında DM 6101. Kullanılmış ürün iadesi alınmıyor, sorunlu ürünlerde tadilat yapılıyor."
+    ],
+    "forWho": [
+      "Kışın her gün yağmur ve soğukta çalışan moto kuryeler",
+      "Mont ve pantolonu tek seferde, uyumlu almak isteyenler",
+      "Ekibine logolu ve sertifikalı kışlık takım almak isteyen işletmeler"
+    ],
+    "notFor": [
+      "Yaz kullanımı: içlik çıkarılsa da membranlı yapı sıcakta terletir",
+      "Tek parça alıp diğerini ayrı seçmek isteyenler",
+      "Kullandıktan sonra iade hakkı bekleyenler; üretici kullanılmış ürünü iade almıyor"
+    ],
+    "pros": [
+      "Mont ve pantolon birlikte, EN 17092-4 A sınıfı",
+      "10.000 mm su sütunlu membran ve bantlı dikişler",
+      "Fermuarla ayrılan kapitone içlik ile kış ve geçiş mevsimi",
+      "Diz, kalça yanı, omuz, dirsek ve sırt korumaları dahil",
+      "Logo cırtları ve nakış/baskı seçeneğiyle kurumsal kullanıma uygun"
+    ],
+    "cons": [
+      "Üretici su geçirmezlik garantisi vermiyor",
+      "Kullanılmış ürün iadesi yok",
+      "Koruma seviyeleri (Level 1/2) belirtilmemiş",
+      "A sınıfı, AA kadar aşınma dayanımı sunmaz"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde tüm gün sürüş için tasarlanmış; cepler ve ayarlar pratik.",
+      "uzunYol": "Kışın kısa şehirlerarası yolculuklarda iş görür.",
+      "yaz": "Uygun değil; membranlı yapı sıcakta ısıtır.",
+      "kis": "Asıl kullanım alanı; içlik ve membran soğuğa karşı korur.",
+      "yagmur": "Bantlı dikiş ve membran iyi bariyer sağlar; garanti yok.",
+      "kurye": "Doğrudan motokurye takımı olarak üretilmiş; logo alanları, reflektifler ve korumalarıyla ekip alımına uygun."
+    },
+    "verdict": "YRN-6081, kışın çalışan kurye için mont ve pantolonu sertifikalı ve uyumlu tek pakette çözen en derli toplu yerli seçeneklerden biri. Membran, bantlı dikiş ve ayrılabilir içlik güçlü yanı; su geçirmezlik garantisi olmaması ve iade koşulları satın almadan önce bilinmeli.",
+    "rivals": [
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "tex-motor/forte-gt-scorpion",
+      "scudo/alaska"
+    ],
+    "manufacturerUrl": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti",
+    "sources": [
+      {
+        "url": "https://www.yarentekstil.com/yrn-6081-mont-pantolon-motokurye-takim-yrn-6081-kislik-mont-pantolon-motorcu-kiyafeti",
+        "type": "manufacturer",
+        "label": "Yaren Tekstil – YRN-6081 Mont Pantolon Motokurye Takım ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "600D polyester dış kumaş, membranla lamine iki katlı bariyer kumaş, 5/1 raşel file astar, ayrılabilir kapitone içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Su geçirmez ve nefes alabilen laminasyon membran (10.000 mm su sütunu), kaynak bantlı dikişler",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Su patlı ön fermuar ve cırt",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Metropolis su geçirmez mi?",
+        "a": "Üretici sayfası zorlu hava şartlarına uygun olduğunu söylüyor ama membran veya su geçirmezlik değeri vermiyor. Yoğun yağmurda ek yağmurluk önerilir."
+      },
+      {
+        "q": "Firma logosu eklenebilir mi?",
+        "a": "Evet. Sırt ve göğüste çıkarılabilir cırtlı logo alanları var; firmalar kendi logolarını bu alanlara uygulayabiliyor."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/forte-gt-2001065-metropolis/",
+        "price": 6850,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 6850,
+      "max": 6850,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.madeIn",
+      "sizes",
+      "sizeChart"
+    ],
+    "category": "mont",
+    "slug": "forte-gt-metropolis",
+    "brand": "tex-motor",
+    "name": "Forte GT 2001065 Metropolis",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "EN 17092-4 sertifikalı, uzun kesimli, çıkarılabilir kapitone astarlı, omuz havalandırmalı ve sırt-göğüste sökülebilir logo cırtları olan; kurye ve filo ekipleri için tasarlanmış yerli mont.",
+    "description": [
+      "Metropolis, Forte GT'nin şehir içi ve kurumsal kullanım için geliştirdiği uzun kesimli motosiklet montu. Uzun gövde, sürüş pozisyonunda bel ve kalça üstünü daha iyi örtüyor; bu, soğukta saatlerce motorda kalan kurye için önemli bir ayrıntı. Çıkarılabilir kapitone iç astar kışın yalıtım sağlıyor, omuzlardaki havalandırma kanalları ve astarsız kullanım ise üreticiye göre montu yaz aylarında da kullanılabilir hale getiriyor.",
+      "Mont EN 17092-4:2020 standardına göre sertifikalı; omuz, dirsek ve sırtta CE sertifikalı darbe pedleri var. Ayarlanabilir bel kemeri ve dört geniş dış cep bulunuyor. Sırt ve göğüsteki çıkarılabilir cırtlı logolar, firmaların kendi logolarını uygulamasına imkân veriyor; üretici modeli açıkça moto kurye, teslimat, güvenlik ve filo ekipleri için öneriyor. Ürün sayfasında sınıf (A/AA), membran ve koruma seviyesi bilgisi verilmiyor; Tex Motor sitesinde online satış yok, ürün bayilerde satılıyor."
+    ],
+    "forWho": [
+      "Uzun kesimli, beli ve kalça üstünü örten mont isteyen kuryeler",
+      "Ekibine logolu mont almak isteyen teslimat ve güvenlik firmaları",
+      "Yerli üretici ve bayi desteği arayan şehir sürücüleri"
+    ],
+    "notFor": [
+      "Su geçirmezlik garantisi arayanlar; üretici membran bilgisi vermiyor",
+      "Kısa ve sportif kalıp isteyenler",
+      "CE sınıfını (A/AA) önceden bilmek isteyenler; sayfada belirtilmemiş"
+    ],
+    "pros": [
+      "Uzun kesim, sürüşte bel ve kalça üstünü örtüyor",
+      "EN 17092-4 sertifikalı, omuz-dirsek-sırt korumaları dahil",
+      "Çıkarılabilir kapitone astar ve omuz havalandırmaları",
+      "Dört geniş dış cep ve ayarlanabilir bel kemeri",
+      "Logo cırtları kurumsal kullanım için pratik"
+    ],
+    "cons": [
+      "CE sınıfı ve koruma seviyeleri sayfada yok",
+      "Su geçirmezlik ve membran bilgisi belirtilmemiş",
+      "Online satış yok; bayiden alınmalı",
+      "Beden tablosu yalnızca görsel olarak, ölçüler doğrulanmadı"
+    ],
+    "usage": {
+      "sehir": "Şehir içi gün boyu kullanım için tasarlanmış; cepler ve uzun kesim pratik.",
+      "kis": "Kapitone astarla kış için öneriliyor.",
+      "yaz": "Astar çıkarılıp omuz havalandırmaları açıldığında kullanılabilir; file mont kadar serin değildir.",
+      "yagmur": "Su geçirmezlik bilgisi verilmediği için yoğun yağmurda üstüne yağmurluk önerilir.",
+      "kurye": "Üretici doğrudan moto kurye ve filo ekipleri için tasarladığını belirtiyor; logo cırtları ve uzun kesim bu kullanım için."
+    },
+    "verdict": "Metropolis, uzun kesimi, logo cırtları ve çıkarılabilir astarıyla kurye ekipleri düşünülerek çizilmiş, sertifikalı bir yerli mont. Su geçirmezlik ve CE sınıfı bilgisinin sayfada olmaması eksi; yağmurda ek yağmurluk gerekebileceği hesaba katılmalı.",
+    "rivals": [
+      "tex-motor/forte-gt-inferno",
+      "yaren-tekstil/yrn-1493-kislik-kurye",
+      "scudo/roma"
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/forte-gt-2001065-metropolis/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/forte-gt-2001065-metropolis/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Forte GT 2001065 Metropolis ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Tekstil dış kumaş, çıkarılabilir kapitone iç astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Omuzlarda havalandırma kanalları",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [
+      "Siyah",
+      "Kırmızı",
+      "Fluo sarı"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "faq": [
+      {
+        "q": "Rush 2.0 su geçirmez mi?",
+        "a": "İçte çıkarılabilir NextDry su geçirmez katman var (üreticiye göre 10.000 mm su sütunu). Dış kumaş su itici kaplamalı ama su geçirmez değil; uzun yağmurda dış kabuk ıslanır."
+      },
+      {
+        "q": "Hangi korumalar dahil?",
+        "a": "Sırtta AirForce FB21 Level 2, omuzda AirForce S11 Level 1 ve dirsekte ayarlanabilir AirForce EK11 Level 1 korumalar dahil."
+      },
+      {
+        "q": "Pantolonla birleşir mi?",
+        "a": "Evet. Kısa bağlantı fermuarıyla Rush 2.0 pantolona ve kısa fermuarlı diğer Shima pantolonlarına bağlanabiliyor."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-rush-2-korumali-motosiklet-montu-sari",
+        "price": 10430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Sarı"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-rush-2-korumali-motosiklet-montu-kirmizi",
+        "price": 10430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Kırmızı"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 10430,
+      "max": 10430,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "unverified": [
+      "specs.protectors.standard",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "category": "mont",
+    "slug": "rush-2-0-men",
+    "brand": "shima",
+    "name": "Rush 2.0 Men",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "summary": "EN 17092-4 A sınıfı, NextDry çıkarılabilir su geçirmez katmanlı, 75 g/m² çıkarılabilir ısı içlikli, Level 2 sırt korumalı ve fluo renk seçeneği olan şehir ve kurye odaklı tekstil mont.",
+    "description": [
+      "Rush 2.0, Polonyalı Shima'nın şehir içi ve kısa tur kullanımı için tasarladığı tekstil mont. Dış kabukta 1000D ve 600D polyester ile reflektif paneller kullanılıyor. İçeride çıkarılabilir NextDry su geçirmez katman (üreticiye göre 10.000 mm su sütunu, 5.000 g/m²/24 saat nefes alma) ve 75 g/m² polyester dolgulu, esnek, çıkarılabilir ısı içliği var. Dış yüzeyde DWR su itici kaplama bulunuyor.",
+      "Mont EN 17092-4:2020 A sınıfı sertifikalı. Sırtta AirForce FB21 Level 2, omuzda AirForce S11 Level 1 ve dirsekte ayarlanabilir AirForce EK11 Level 1 korumalar dahil geliyor; sırt korumasının Level 2 olması bu fiyat sınıfında öne çıkan bir ayrıntı. Kısa bağlantı fermuarıyla Rush 2.0 pantolona ve diğer Shima pantolonlarına bağlanabiliyor. Türkiye'de sarı (fluo) ve kırmızı renkleri satışta; fluo renk kurye için görünürlük avantajı sağlıyor."
+    ],
+    "forWho": [
+      "Yağmur, soğuk ve sıcak arasında gidip gelen şehir koşullarında çalışan kuryeler",
+      "Sertifikalı ve Level 2 sırt korumalı ama orta bütçeli mont arayanlar",
+      "Fluo renkle trafikte daha görünür olmak isteyen sürücüler"
+    ],
+    "notFor": [
+      "Membranın dış katmanda olmasını isteyenler; su geçirmez katman içte ve çıkarılabilir, dış kabuk ıslanır",
+      "Uzun kesim isteyen kuryeler; kalıp standart ceket boyunda",
+      "Çok sıcak yaz günleri; file mont kadar serin değildir"
+    ],
+    "pros": [
+      "EN 17092-4 A sınıfı",
+      "Sırtta Level 2, omuz ve dirsekte Level 1 korumalar dahil",
+      "Çıkarılabilir NextDry su geçirmez katman ve ısı içliği",
+      "Fluo renk seçeneği ve reflektif paneller",
+      "Türkiye'de yetkili mağazada stokta"
+    ],
+    "cons": [
+      "Su geçirmez katman içte; dış kumaş yağmurda su alır ve geç kurur",
+      "Göğüs koruması dahil değil",
+      "A sınıfı, AA kadar aşınma dayanımı sunmaz"
+    ],
+    "usage": {
+      "sehir": "Asıl hedefi şehir içi; cep, ayar ve görünürlük detayları buna göre.",
+      "uzunYol": "Kısa turlar için yeterli; uzun yolda dış kumaşın ıslanması rahatsız edebilir.",
+      "yaz": "Katmanlar çıkarılınca bahar ve serin yaz günleri için uygun; çok sıcakta file mont kadar serin değildir.",
+      "kis": "Isı içliği ve su geçirmez katmanla birlikte soğuk günlerde kullanılabilir; çok soğukta ek ara katman gerekir.",
+      "yagmur": "İç NextDry katman suyu durdurur ama dış kabuk ıslanır; sürekli yağmurda kurye için üstüne yağmurluk daha pratiktir.",
+      "kurye": "Fluo renk, Level 2 sırt koruma ve katmanlı yapı kuryeye uygun; dış kumaşın ıslanması günlük çok duraklı işte dezavantaj."
+    },
+    "verdict": "Rush 2.0 Men, orta bütçede A sınıfı sertifika, Level 2 sırt koruma ve fluo görünürlüğü bir arada sunan dengeli bir şehir montu. Kurye için tek zayıf yanı su geçirmez katmanın içte olması; yağmurlu günlerde dış kumaş ıslandığı için yanında bir kurye yağmurluğu bulundurmak mantıklı.",
+    "rivals": [
+      "scudo/roma",
+      "ixon/odin",
+      "tex-motor/forte-gt-inferno"
+    ],
+    "manufacturerUrl": "https://shima.pl/shop/rush-2-0-men-jkt-fluo/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/rush-2-0-men-jkt-fluo/",
+        "type": "manufacturer",
+        "label": "SHIMA – Kurtka Rush 2.0 (fluo) resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-rush-2-korumali-motosiklet-montu-sari",
+        "type": "retailer",
+        "label": "Motomax – Shima Rush 2.0 Korumalı Motosiklet Montu Sarı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "1000D ve 600D polyester, reflektif paneller, DWR kaplama; 75 g/m² polyester çıkarılabilir ısı içliği",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "NextDry çıkarılabilir iç su geçirmez katman (10.000 mm su sütunu, 5.000 g/m²/24 sa nefes alma)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Fermuar; pantolon bağlantı fermuarı (kısa)",
+      "madeIn": null
+    }
+  }
+]

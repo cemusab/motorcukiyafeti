@@ -1,0 +1,160 @@
+[
+  {
+    "category": "eldiven",
+    "slug": "d1",
+    "brand": "venom",
+    "name": "D1",
+    "subcategories": [
+      "yazlik-eldiven",
+      "sport-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Dana derisinden, eklemde sert plastik kabuk, parmaklarda yumuşak koruma, avuçta Kevlar takviye ve havalandırma delikleriyle kısa bilekli Venom deri eldiven.",
+    "description": [
+      "D1, Venom'un kısa bilekli korumalı deri eldiveni. Satıcıya göre gövde %100 dana derisinden; parmak eklemlerinde sert plastik kabuk, parmakların üstünde yumuşak pedler, avuç içinde Kevlar takviye var. Serçe parmağın dış kenarı ve bilek bölgesinde çift kat yapı kullanılmış, üst yüzdeki havalandırma delikleri sıcak havada eli serin tutmaya yardımcı oluyor.",
+      "İşaret parmağında vizördeki suyu silmek için bir sileceğe benzeyen plastik alan, cırtlı bilek bandı ve reflektif detaylar bulunuyor. Eldivenin EN 13594 sertifikası ve seviyesi sayfada belirtilmiyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Yazın ve ara mevsimde şehir içinde süren, deri eldiven tercih edenler",
+      "Uygun fiyatlı, eklem korumalı kısa bir eldiven arayanlar",
+      "Naked ve sport motosiklet kullanan, kısa bilekli eldiveni sevenler"
+    ],
+    "notFor": [
+      "CE (EN 13594) sertifikalı eldiven arayanlar; sertifika belirtilmemiş",
+      "Kışın ya da yağmurda kullanacaklar",
+      "Pist ya da yüksek hızda kullanım için uzun bilekli eldiven isteyenler"
+    ],
+    "pros": [
+      "Dana derisi gövde",
+      "Sert eklem kabuğu ve avuçta Kevlar takviye",
+      "Havalandırma delikleri",
+      "Fiyatı uygun"
+    ],
+    "cons": [
+      "EN 13594 sertifikası belirtilmemiş",
+      "Kısa bilek, bilek kemiğini tam örtmeyebilir",
+      "Su geçirmez değil",
+      "Kontrol tarihinde L beden stokta değildi"
+    ],
+    "usage": {
+      "sehir": "Şehir içinde kısa ve orta mesafeler için uygun.",
+      "yaz": "Havalandırma delikleri sayesinde yazın kullanılabilir.",
+      "kis": "Isı astarı yok; kışa uygun değil.",
+      "yagmur": "Su geçirmez değil; ıslanınca deri sertleşebilir.",
+      "sport": "Kısa bilekli yapısıyla günlük sportif sürüşe uyar; pist için uzun bilekli eldiven gerekir.",
+      "kurye": "Yaz kuryeliğinde iyi kavrama sağlar ama sık yağmur ve sürekli kullanımda deri bakım ister; kuryeler için tekstil bir yedek eldiven de mantıklı."
+    },
+    "verdict": "D1, fiyatına göre koruma donanımı iyi bir kısa deri eldiven: sert eklem kabuğu ve Kevlar takviyeli avuç içi temel ihtiyaçları karşılıyor. Sertifika bilgisinin olmaması en büyük eksi; satın almadan önce eldiven etiketinde EN 13594 işaretini kontrol etmek gerekir.",
+    "rivals": [
+      "scudo/parma-3",
+      "held/sparrow-2",
+      "tex-motor/forte-gt-21"
+    ],
+    "priceRange": {
+      "min": 2394,
+      "max": 2394,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus'ta %5 indirimli fiyat."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-d1-deri-eldiven",
+        "price": 2520,
+        "salePrice": 2394,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "XL",
+          "2XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Venom D1 CE sertifikalı mı?",
+        "a": "Satıcı sayfasında EN 13594 sertifikası ve seviyesi belirtilmiyor. Satın almadan önce eldivenin etiketini kontrol edin."
+      },
+      {
+        "q": "Yazın kullanılabilir mi?",
+        "a": "Evet; üst yüzdeki havalandırma delikleri sıcak havada eli serinletmeye yardımcı oluyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-d1-deri-eldiven",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.protectors.standard",
+      "specs.airbagCompatible",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "%100 dana derisi, avuç içinde Kevlar takviye",
+      "materialClass": "deri",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Üst yüzde havalandırma delikleri",
+      "closure": "Cırtlı bilek bandı",
+      "madeIn": null
+    }
+  }
+]

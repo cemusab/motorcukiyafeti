@@ -1,0 +1,1300 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-gore-tex-jacket",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye GORE-TEX Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "BMW Motorrad'ın arazi ağırlıklı adventure montu; EN 17092 AA sınıfı, omuz ve dirsekte Level 2 NP3 EVO koruyucu, uzun sırt koruyucusu ve üzerine giyilen ayrı GORE-TEX dış ceket.",
+    "description": [
+      "GS Rallye GORE-TEX, BMW Motorrad'ın GS modelleriyle arazi ve uzun yol yapan sürücüler için hazırladığı mont. Temel ceket havalandırma odaklı: göğüs, ön kollar, omuzlar ve sırtta AirVent açıklıkları, çabuk kuruyan poliamid-pamuk karışımı dış kumaş ve düşmede risk taşıyan bölgelerde çift kat malzeme var. Su geçirmezlik içte bir membranla değil, montun üzerine giyilen ayrı GORE-TEX dış ceketle (outsert) sağlanıyor; bu dış ceketin entegre bir başlığı da bulunuyor.",
+      "BMW resmi sayfasında montu EN 17092 AA sınıfı olarak sertifikalı gösteriyor. Omuz ve dirseklerde yüksekliği ayarlanabilen NP3 EVO Level 2 koruyucular, ek olarak çıkarılabilir SC-1 Level 2 omuz koruyucuları ve uzun NP3 sırt koruyucusu standart geliyor; sırt koruyucusunun seviyesi sayfada belirtilmemiş. Sırtta dışarıdan erişilen su torbası cebi ve taşıma sistemi, ikisi su geçirmez dört dış cep, büyük arka bölme ve pantolonla birleşme için tam çevre ile kısa bağlantı fermuarı adventure kullanımına yönelik ayrıntılar."
+    ],
+    "forWho": [
+      "GS veya benzeri adventure motosikletle arazi ve stabilize yol yapan sürücüler",
+      "Sıcak havada havalandırma, yağmurda ayrı su geçirmez katman isteyenler",
+      "Su torbası taşıyarak uzun etap süren adventure sürücüleri"
+    ],
+    "notFor": [
+      "Tek parça, içten membranlı ve pratik bir şehir montu arayanlar",
+      "Kurye kullanımı: dış GORE-TEX ceketi takıp çıkarmak ve fiyat, günlük kurye temposu için uygun değil",
+      "Sıkı bütçeyle ilk montunu alacak yeni sürücüler"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu, ek SC-1 omuz koruyucuları",
+      "Ayrı GORE-TEX dış ceket: dış kabuk ıslanmadan yağmur koruması",
+      "Su torbası taşıma sistemi ve bol cep"
+    ],
+    "cons": [
+      "Sırt koruyucusunun koruma seviyesi resmi sayfada yazmıyor",
+      "Yağmurda dış ceketi ayrıca giymek gerekiyor; ani sağanakta durmak şart",
+      "Türkiye fiyatı segmentin en üstünde",
+      "Resmi beden tablosu ölçü olarak doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli ve pahalı; şehir için fazla mont.",
+      "uzunYol": "Asıl amacı; cepler, su torbası ve pantolon bağlantısıyla uzun etaplara uygun.",
+      "yaz": "Havalandırma açıklıkları ve dış ceket çıkarıldığında sıcakta rahat; ama tam file bir mont kadar serin değil.",
+      "kis": "İçinde ısı astarı yok; soğukta ek ara katman gerekir.",
+      "yagmur": "GORE-TEX dış ceket giyildiğinde su geçirmez; dış ceket olmadan yağmura dayanıklı değil.",
+      "kurye": "Önerilmez; ağır, pahalı ve katman değiştirmek zahmetli."
+    },
+    "verdict": "GS Rallye GORE-TEX, AA sınıfı ve Level 2 omuz-dirsek korumasıyla BMW'nin en kapsamlı arazi montlarından. Su geçirmezliği dışa giyilen ayrı GORE-TEX ceketten geliyor; bu, yağmurda iç kabuğun kuru kalması demek ama katman değiştirmeyi gerektiriyor. BMW Motorrad Türkiye mağazasında TL fiyatıyla satışta, fiyatı yüksek.",
+    "rivals": [
+      "klim/carlsbad",
+      "revit/sand-5-h2o",
+      "leatt/adv-flowtour-7-5"
+    ],
+    "priceRange": {
+      "min": 55419.44,
+      "max": 69274.3,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Fiyat bedene ve renge göre değişiyor; bazı bedenlerde mağaza indirimi var."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-aadd97af474441c1a16f414751762c72",
+        "price": 55419.44,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54",
+          "56"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-4b31572a24364bd7a9258ceb452bad19",
+        "price": 69274.3,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54",
+          "56"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-9e305fc4a7474138b6048677b21d61b8",
+        "price": 69274.3,
+        "salePrice": 62346.87,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54",
+          "56"
+        ],
+        "colors": [
+          "Mavi/Kırmızı"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Su geçirmez membran montun içinde mi?",
+        "a": "Hayır. Su geçirmezlik, ana montun üzerine giyilen ayrı GORE-TEX dış ceketle sağlanıyor. Kuru havada dış ceket çıkarılıp ana mont havalandırmalı olarak kullanılıyor."
+      },
+      {
+        "q": "Hangi koruyucular standart geliyor?",
+        "a": "BMW'nin sayfasına göre omuz ve dirsekte yüksekliği ayarlanabilir NP3 EVO Level 2, ek olarak çıkarılabilir SC-1 Level 2 omuz koruyucuları ve uzun NP3 sırt koruyucusu standart. Sırt koruyucusunun seviyesi yazmıyor."
+      },
+      {
+        "q": "Pantolona bağlanabilir mi?",
+        "a": "Evet. Tam çevre ve kısa bağlantı fermuarları var; GS Rallye GORE-TEX pantolonla takım olarak tasarlanmış."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edd3-gs-rallye-gore-tex-jacket.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edd3-gs-rallye-gore-tex-jacket.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye GORE-TEX Jacket (erkek) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-aadd97af474441c1a16f414751762c72",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-4b31572a24364bd7a9258ceb452bad19",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Siyah ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-9e305fc4a7474138b6048677b21d61b8",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi/Kırmızı ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.protectors.sirt.level"
+    ],
+    "colors": [
+      "Mavi",
+      "Siyah",
+      "Mavi/Kırmızı"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Poliamid-pamuk karışımı dış kumaş, poliamid ve elastan esnek bölgeler, dana derisi takviyeler; dış ceket: poliamid (Nylon) / GORE-TEX PTFE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (ayrı dış ceket / outsert)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, ön kollar, omuzlar ve sırtta AirVent açıklıkları; sırt koruyucusunun altında hava kanallı 3D file",
+      "closure": "Ön fermuar, etekte cırt ve çıtçıtlı genişlik ayarı, tam çevre ve kısa bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-gore-tex-jacket-women",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye GORE-TEX Kadın Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "GS Rallye GORE-TEX montun kadın kalıbı; EN 17092 AA sınıfı, omuz ve dirsekte Level 2 koruyucu, uzun sırt koruyucusu ve üzerine giyilen ayrı GORE-TEX dış ceket.",
+    "description": [
+      "GS Rallye GORE-TEX Kadın, BMW Motorrad'ın arazi ağırlıklı adventure montunun kadın bedenlerine (34–48) göre kesilmiş versiyonu. Erkek modeldeki yapı korunuyor: havalandırma odaklı ana mont, düşme riskli bölgelerde çift kat kumaş, dana derisi takviyeler ve yağmur için ana montun üzerine giyilen, başlıklı ayrı GORE-TEX dış ceket.",
+      "BMW resmi sayfasında kadın modeli de EN 17092 AA sınıfıyla listeliyor. Omuz ve dirseklerde yüksekliği ayarlanabilir NP3 EVO Level 2 koruyucu, çıkarılabilir SC-1 Level 2 omuz koruyucuları ve uzun NP3 sırt koruyucusu standart. Sırtta su torbası cebi, ikisi su geçirmez dört dış cep ve pantolon bağlantı fermuarları adventure turu için düşünülmüş."
+    ],
+    "forWho": [
+      "Adventure motosikletle arazi ve uzun tur yapan kadın sürücüler",
+      "Kadın kalıbında AA sınıfı ve Level 2 omuz-dirsek koruması arayanlar",
+      "GS Rallye GORE-TEX kadın pantolonla takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Şehir içi kısa kullanım için hafif mont arayanlar",
+      "Kurye kullanımı: ağırlık, fiyat ve katman değiştirme zahmeti nedeniyle uygun değil"
+    ],
+    "pros": [
+      "Kadın kalıbında EN 17092 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Ayrı GORE-TEX dış ceketle güvenilir yağmur koruması",
+      "Su torbası cebi ve pantolon bağlantısı"
+    ],
+    "cons": [
+      "Türkiye'de beden ve stok seçeneği az (34–38 arası)",
+      "Sırt koruyucusunun seviyesi resmi sayfada belirtilmemiş",
+      "Fiyatı segmentin en üstünde"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama şehir için ağır ve pahalı.",
+      "uzunYol": "Asıl amacı; uzun tur ve arazi etapları.",
+      "yaz": "Dış ceket çıkarıldığında havalandırma açıklıklarıyla sıcakta kullanılabilir.",
+      "kis": "Isı astarı yok; soğukta ara katman gerekir.",
+      "yagmur": "GORE-TEX dış ceket giyildiğinde su geçirmez.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "GS Rallye GORE-TEX Kadın, kadın sürücüye erkek modelle aynı AA sınıfını ve Level 2 omuz-dirsek korumasını veriyor; Türkiye'de bu seviyede kadın adventure montu az. Yağmur koruması ayrı dış ceketle sağlanıyor ve fiyat yüksek. BMW Motorrad Türkiye mağazasında sınırlı bedenle stokta.",
+    "rivals": [
+      "leatt/adv-multitour-5-5-women",
+      "revit/sand-5-h2o-ladies",
+      "leatt/adv-flowtour-5-5-women"
+    ],
+    "priceRange": {
+      "min": 55419.44,
+      "max": 69274.3,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Fiyat bedene göre değişiyor."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-80345ac219404cb4ae03bb005fb194df",
+        "price": 55419.44,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "34",
+          "36",
+          "38"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-2e31a6a9a7264ad7baebbd92c1ba236e",
+        "price": 69274.3,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "34",
+          "36",
+          "38"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek modelden farkı ne?",
+        "a": "Kesim ve beden aralığı (34–48). Koruma, sertifika ve özellikler BMW'nin sayfasına göre erkek modelle aynı."
+      },
+      {
+        "q": "Yağmurda nasıl kullanılıyor?",
+        "a": "Ana montun üzerine ayrı GORE-TEX dış ceket giyiliyor. Bu ceket montla birlikte geliyor; kuru havada çıkarılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edf0-gs-rallye-gore-tex-jacket.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5edf0-gs-rallye-gore-tex-jacket.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye GORE-TEX Jacket (kadın) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-80345ac219404cb4ae03bb005fb194df",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-gore-tex-ceket-p-2e31a6a9a7264ad7baebbd92c1ba236e",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Siyah ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.protectors.sirt.level"
+    ],
+    "colors": [
+      "Mavi",
+      "Siyah"
+    ],
+    "sizes": [
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Poliamid-pamuk karışımı dış kumaş, poliamid ve elastan esnek bölgeler, dana derisi takviyeler; dış ceket: poliamid (Nylon) / GORE-TEX PTFE membran",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX (ayrı dış ceket / outsert)",
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, ön kollar, omuzlar ve sırtta AirVent açıklıkları",
+      "closure": "Ön fermuar, etekte cırt ve çıtçıtlı genişlik ayarı, tam çevre ve kısa bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "gs-rallye-jacket",
+    "brand": "bmw-motorrad",
+    "name": "GS Rallye Mont",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "GS Rallye'nin GORE-TEX dış ceketsiz versiyonu; sıcak havada arazi için havalandırmalı, EN 17092 AA sınıfı, omuz ve dirsekte Level 2 NP3 EVO koruyucu.",
+    "description": [
+      "GS Rallye Mont, BMW Motorrad'ın arazi montunun su geçirmez dış ceketsiz satılan hali. Ana gövde GORE-TEX versiyonla aynı: çabuk kuruyan poliamid-pamuk karışımı kumaş, göğüs, sırt, omuz ve kollarda havalandırma, önde ek AirVent parçası, düşme riskli bölgelerde çift kat malzeme. BMW, isteğe bağlı GORE-TEX dış ceketin ayrıca alınabildiğini belirtiyor.",
+      "Resmi sayfaya göre mont EN 17092 AA sınıfında; omuz ve dirseklerde yüksekliği ayarlanabilir NP3 EVO Level 2, sırtta uzun NP3 koruyucu standart. Sırtta dışarıdan erişilen su torbası cebi, ikisi su geçirmez dört dış cep, iki iç cep, büyük arka bölme ve 40 cm kısa ile tam çevre bağlantı fermuarı bulunuyor."
+    ],
+    "forWho": [
+      "Sıcak ve ılık havada arazi, stabilize yol yapan adventure sürücüleri",
+      "AA sınıfı korumayı GORE-TEX'li versiyondan daha düşük fiyata isteyenler",
+      "Yağmur için ayrı yağmurluk kullanmayı sorun etmeyenler"
+    ],
+    "notFor": [
+      "Tek montla yağmuru da karşılamak isteyenler (dış ceket ayrıca alınır)",
+      "Kurye kullanımı: arazi odaklı kesim ve fiyatı günlük kurye işine uygun değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "Sıcak hava için iyi havalandırma",
+      "GORE-TEX versiyondan belirgin şekilde ucuz"
+    ],
+    "cons": [
+      "Su geçirmez değil; GORE-TEX dış ceket ayrı satılıyor",
+      "Sırt koruyucusunun seviyesi resmi sayfada yazmıyor",
+      "Isı astarı yok, serin havada ara katman gerekir"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama arazi kesimi şehirde hantal durabilir.",
+      "uzunYol": "Yaz turlarında cepler ve su torbasıyla rahat.",
+      "yaz": "Asıl kullanım alanı; havalandırma açıklıkları sıcakta işe yarıyor.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk veya ayrı GORE-TEX dış ceket gerekir.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "GS Rallye Mont, GORE-TEX versiyonun koruma ve sertifikasını yaz arazisi için daha düşük fiyata sunuyor. Yağmurda ayrı katman gerekiyor; sıcak iklimde arazi yapan GS sürücüsü için mantıklı bir tercih. BMW Motorrad Türkiye mağazasında TL fiyatıyla satışta.",
+    "rivals": [
+      "klim/marrakesh",
+      "leatt/adv-flowtour-7-5",
+      "revit/offtrack-3-h2o"
+    ],
+    "priceRange": {
+      "min": 36145.24,
+      "max": 45181.54,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Fiyat bedene ve renge göre değişiyor."
+    },
+    "offers": [
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-ceket-p-47efad488cda4e259729b8ddb6a746ae",
+        "price": 36145.24,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54",
+          "56"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "BMW Motorrad Türkiye Online Mağaza",
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-ceket-p-39e5d6042ec2467aa63e7e1fc2ed9000",
+        "price": 45181.54,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "GORE-TEX versiyondan farkı ne?",
+        "a": "Ana mont aynı; bu modelde ayrı GORE-TEX dış ceket kutudan çıkmıyor. BMW dış ceketin isteğe bağlı olarak ayrıca alınabildiğini belirtiyor."
+      },
+      {
+        "q": "Koruma sınıfı nedir?",
+        "a": "BMW'nin sayfasına göre EN 17092 AA. Omuz ve dirsekte Level 2 NP3 EVO, sırtta uzun NP3 koruyucu standart."
+      }
+    ],
+    "manufacturerUrl": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5ed98-gs-rallye-jacket.html",
+    "sources": [
+      {
+        "url": "https://www.bmwmotorcycles.com/en/wearproductdetails/riders-gear/jackets/5b5ed98-gs-rallye-jacket.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad USA – GS Rallye Jacket ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-ceket-p-47efad488cda4e259729b8ddb6a746ae",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Siyah ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://shop.bmw-motorrad.com.tr/urun/gs-rallye-ceket-p-39e5d6042ec2467aa63e7e1fc2ed9000",
+        "type": "distributor",
+        "label": "BMW Motorrad Türkiye Online Mağaza – Mavi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.protectors.sirt.level"
+    ],
+    "colors": [
+      "Siyah",
+      "Mavi"
+    ],
+    "sizes": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "Poliamid-pamuk karışımı dış kumaş, poliamid ve elastan esnek bölgeler, dana derisi takviyeler",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Göğüs, sırt, omuz ve kollarda havalandırma, önde AirVent parçası, sırt koruyucusu altında 3D file",
+      "closure": "Ön fermuar, etekte cırt ve çıtçıtlı genişlik ayarı, 40 cm kısa ve tam çevre bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "marrakesh",
+    "brand": "klim",
+    "name": "Marrakesh Mont",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Klim'in sıcak hava adventure montu; tamamı nefes alan Karbonite Micromesh Cordura gövde, EN 17092-3 AA sınıfı, omuz-dirsekte D3O Level 1 ve D3O Viper Level 1 sırt koruyucu.",
+    "description": [
+      "Marrakesh, Klim'in sıcak iklimde adventure ve tur sürüşü için yaptığı, ikinci nesline yenilenmiş mont. Gövdenin tamamı 1000D Karbonite Micromesh Cordura'dan; kumaş esnek dokunmuş ve gözenekli olduğu için düşük hızda bile hava geçiriyor. Klim kumaşın dört yöne esnediğini, DWR kaplamanın su damlalarını ittiğini ve cep ile etek kenarlarında 500D Cordura takviye kullanıldığını belirtiyor.",
+      "Resmi sayfaya göre mont EN 17092-3 AA sınıfında sertifikalı. Omuz ve ayarlanabilir dirsekte D3O IP Ghost Level 1, sırtta D3O Viper Level 1 koruyucu standart; Klim bunların Level 1 ve 2 seçenekleriyle yükseltilebildiğini yazıyor. İki bilek havalandırma fermuarı, göğüs ve iç göğüs cebi, iki el cebi ve ön kolda acil durum kartı cebi var. Su geçirmez değil; yağmurda ayrı yağmurluk gerekir."
+    ],
+    "forWho": [
+      "Sıcak havada adventure ve uzun yol yapan sürücüler",
+      "File montun hava geçirgenliğini AA sınıfı aşınma direnciyle isteyenler",
+      "Hafif, esnek ve katmansız bir yaz montu arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda tek montla kuru kalmak isteyenler",
+      "Serin ve soğuk havada kullanacaklar",
+      "Kurye kullanımı: su geçirmez olmaması ve fiyatı nedeniyle tüm yıl kurye işine uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Gövdenin tamamı nefes alıyor, düşük hızda bile hava akışı",
+      "Dört yöne esneyen hafif kumaş",
+      "Koruyucular Level 2'ye yükseltilebiliyor"
+    ],
+    "cons": [
+      "Standart koruyucular Level 1",
+      "Su geçirmez değil, yalnız DWR kaplama",
+      "Göğüs koruyucusu yok",
+      "Türkiye'de bazı renkler stokta değil"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde rahat; ince ve esnek.",
+      "uzunYol": "Sıcak havada uzun turlar için uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "sport": "Arazide esneklik avantaj; pist için değil.",
+      "kurye": "Yaz aylarında kullanılabilir ama yağmur koruması olmadığı için tek mont olarak önerilmez."
+    },
+    "verdict": "Marrakesh, AA sınıfı aşınma direncini tam file hissi veren bir kumaşla birleştiren, sıcak iklim için iyi düşünülmüş bir adventure montu. Koruyucuların Level 1 gelmesi ve yağmur korumasının olmaması bilinçli tercihler. Motomax'ta TL fiyatıyla listeleniyor.",
+    "rivals": [
+      "bmw-motorrad/gs-rallye-jacket",
+      "revit/airwave-4",
+      "alpinestars/andes-air-drystar"
+    ],
+    "priceRange": {
+      "min": 33710,
+      "max": 33710,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-motosiklet-montu-acik-gri",
+        "price": 33710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Açık Gri (Cool Gray)"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-motosiklet-montu-hayalet-siyah",
+        "price": 33710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah (Stealth Black)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Marrakesh su geçirmez mi?",
+        "a": "Hayır. Kumaşta su damlalarını iten DWR kaplama var ama mont su geçirmez değil. Yağmur için ayrı yağmurluk gerekir."
+      },
+      {
+        "q": "Koruyucular hangi seviyede?",
+        "a": "Klim'e göre omuz ve dirsekte D3O IP Ghost Level 1, sırtta D3O Viper Level 1 standart. Klim bunların Level 1 ve 2 seçeneklerle yükseltilebildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/marrakesh-jacket-3341-002",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/marrakesh-jacket-3341-002",
+        "type": "manufacturer",
+        "label": "Klim – Marrakesh Jacket ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-motosiklet-montu-acik-gri",
+        "type": "retailer",
+        "label": "Motomax – Klim Marrakesh açık gri",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-motosiklet-montu-hayalet-siyah",
+        "type": "retailer",
+        "label": "Motomax – Klim Marrakesh siyah",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Teak",
+      "Cool Gray",
+      "Stealth Black",
+      "Petrol - Potter's Clay",
+      "Winter Moss",
+      "Teak - Petrol"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "yaz",
+      "material": "1000D Karbonite Micromesh Cordura, 500D Cordura cep ve etek takviyesi",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Tamamı gözenekli gövde kumaşı, iki bilek havalandırma fermuarı",
+      "closure": "YKK fermuarlar, cep içinden etek ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "womens-marrakesh",
+    "brand": "klim",
+    "name": "Women's Marrakesh Kadın Mont",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Klim'in kadınlar için ayrı kalıpla yaptığı sıcak hava adventure montu; Karbonite Micromesh Cordura gövde, EN 17092-3 AA sınıfı, D3O Level 1 omuz, dirsek ve sırt koruyucu.",
+    "description": [
+      "Women's Marrakesh, Klim'in sıcak hava montunun kadın bedenine göre ayrı tasarlanmış hali. Gövde dört yöne esneyen 1000D Karbonite Micromesh Cordura'dan; kumaş gözenekli dokunduğu için her hızda hava geçiriyor. Kalçada fermuarlı genişleme panelleri, bilek fermuarları ve yumuşak yaka-manşet astarı kadın sürücünün hareket rahatlığı için eklenmiş.",
+      "Klim montu EN 17092-3 AA sınıfıyla listeliyor. Omuz ve dirsekte D3O IP Ghost Level 1, sırtta D3O Viper Level 1 koruyucu standart, tümü çıkarılabiliyor ve Level 2'ye yükseltilebiliyor. İki fermuarlı el cebi ve bir iç göğüs cebi var. Klim, montun erkek Marrakesh pantolonunun bir küçük bedeniyle eşleştirilebildiğini belirtiyor. Su geçirmez değil."
+    ],
+    "forWho": [
+      "Sıcak havada adventure ve tur yapan kadın sürücüler",
+      "Kadın kalıbında AA sınıfı ama hafif bir yaz montu arayanlar"
+    ],
+    "notFor": [
+      "Yağmurda tek montla kuru kalmak isteyenler",
+      "Kurye kullanımı: su geçirmez olmadığı için tüm yıl kurye işine uygun değil"
+    ],
+    "pros": [
+      "Kadın kalıbında EN 17092-3 AA sınıfı",
+      "Tamamen nefes alan, esnek gövde",
+      "Kalça genişleme panelleri, rahat kesim",
+      "Koruyucular Level 2'ye yükseltilebiliyor"
+    ],
+    "cons": [
+      "Standart koruyucular Level 1",
+      "Su geçirmez değil",
+      "Cep sayısı erkek modele göre az",
+      "Türkiye'de bazı renkler stokta değil"
+    ],
+    "usage": {
+      "sehir": "Yazın şehirde rahat.",
+      "uzunYol": "Sıcak havada uzun turlar için uygun.",
+      "yaz": "Asıl kullanım alanı.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil; yağmurluk gerekir.",
+      "kurye": "Yaz aylarında kullanılabilir ama tek mont olarak önerilmez."
+    },
+    "verdict": "Women's Marrakesh, kadın sürücüler için ayrı kalıplanmış, AA sınıfı ve gerçekten nefes alan bir yaz adventure montu. Level 1 koruyucular ve yağmur korumasının olmaması sınırları. Motomax'ta erkek modelle aynı TL fiyatıyla listeleniyor.",
+    "rivals": [
+      "leatt/adv-flowtour-5-5-women",
+      "ixs/tourster-bigair-1-0-damen",
+      "revit/sand-5-h2o-ladies"
+    ],
+    "priceRange": {
+      "min": 33710,
+      "max": 33710,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-kadin-motosiklet-montu-redrock-yesil",
+        "price": 33710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Zeytin Yeşili"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-kadin-motosiklet-montu-siyah",
+        "price": 33710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-kadin-motosiklet-montu-mavi",
+        "price": 33710,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [
+          "Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi pantolonla eşleşir?",
+        "a": "Klim, kadın Marrakesh montun erkek Marrakesh pantolonunun bir küçük bedeniyle eşleştirilebildiğini belirtiyor; ayrı bir kadın Marrakesh pantolon listelenmiyor."
+      },
+      {
+        "q": "Koruyucular çıkarılabiliyor mu?",
+        "a": "Evet. Klim tüm koruyucuların çıkarılabildiğini ve dirsek koruyucusunun ayarlanabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/womens-marrakesh-jacket-3343-000",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/womens-marrakesh-jacket-3343-000",
+        "type": "manufacturer",
+        "label": "Klim – Women's Marrakesh Jacket ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-kadin-motosiklet-montu-redrock-yesil",
+        "type": "retailer",
+        "label": "Motomax – Klim Marrakesh kadın zeytin yeşili",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-marrakesh-yazlik-korumali-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Klim Marrakesh kadın siyah",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "colors": [
+      "Burnt Olive",
+      "Black",
+      "Petrol",
+      "Cool Gray"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "1000D Karbonite Micromesh dört yöne esneyen Cordura",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Tamamı gözenekli gövde kumaşı, bilek fermuarları",
+      "closure": "YKK fermuarlar, iki fermuarlı kalça genişleme paneli",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "adv-flowtour-7-5",
+    "brand": "leatt",
+    "name": "ADV FlowTour 7.5 Mont",
+    "category": "mont",
+    "subcategories": [
+      "4-mevsim-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Leatt'in dört şekilde giyilebilen adventure montu; EN 17092-3 AA sınıfı, sırt, göğüs, omuz ve dirsekte Level 2 koruyucu standart, çıkarılabilir HydraDri MAX su geçirmez katman.",
+    "description": [
+      "ADV FlowTour 7.5, Leatt'in havalandırmalı adventure montu. RipStop dış kabuk ve geniş X-Flow file panellerle sürekli hava akışı sağlıyor; yağmur için çıkarılabilir HydraDri MAX su geçirmez katman var. Leatt bu katmanın iç astar olarak, dış kabuğun üzerine ya da tek başına günlük yağmurluk olarak giyilebildiğini, böylece montun dört şekilde kullanılabildiğini belirtiyor; membran için 30.000 mm su sütunu ve 30.000 g/m² nefes alma değeri veriyor.",
+      "Mont EN 17092-3:2020 AA sınıfında test edilip sertifikalandırılmış. Koruma paketi dolu: sırtta EN 1621-2, göğüste EN 1621-3, omuz ve dirsekte EN 1621-1 Level 2 Leatt 3DF koruyucular standart. Sırtta 1,5 litrelik su torbası bölmesi ve koldan geçen hortum kanalı, büyük su geçirmez ön cepler, boyunluk (neck brace) uyumu için BraceOn omuz kayışları ve 5 yıl garanti var."
+    ],
+    "forWho": [
+      "Her mevsim adventure turu yapan ve tam Level 2 koruma isteyen sürücüler",
+      "Göğüs koruyucusu dahil bir mont arayanlar",
+      "Sıcakta file, yağmurda membran kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Şehir için sade, hafif bir mont arayanlar",
+      "Kurye kullanımı: katmanlı yapı ve hacim günlük sık in-bin için uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "Sırt, göğüs, omuz, dirsek Level 2 standart",
+      "Dört farklı kullanım: içte, dışta veya tek başına su geçirmez katman",
+      "Su torbası bölmesi, boyunluk uyumu, 5 yıl garanti"
+    ],
+    "cons": [
+      "Su geçirmez katman içte takıldığında dış kabuk ıslanır",
+      "Isı astarı yok; soğukta ara katman gerekir",
+      "Türkiye'de yalnız tek renk fiyatlı bulundu"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli.",
+      "uzunYol": "Asıl amacı; cepler ve su torbasıyla uzun tur.",
+      "yaz": "Su geçirmez katman çıkarıldığında X-Flow panellerle serin.",
+      "kis": "Isı astarı yok; ara katmanla serin havaya kadar.",
+      "yagmur": "HydraDri MAX katman takılıyken su geçirmez; dışa giyilirse dış kabuk da kuru kalır.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "ADV FlowTour 7.5, göğüs dahil dört bölgede Level 2 koruyucuyu standart veren nadir adventure montlarından ve su geçirmez katmanı esnek kullanılabiliyor. Isı astarı olmaması kış için sınır. Enduromarket'te kahverengi (Desert) renkte TL fiyatıyla stokta.",
+    "rivals": [
+      "bmw-motorrad/gs-rallye-gore-tex-jacket",
+      "revit/sand-5-h2o",
+      "klim/carlsbad"
+    ],
+    "priceRange": {
+      "min": 29722.8,
+      "max": 29722.8,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-7.5-kahverengi-motosiklet-montu-16106",
+        "price": 29722.8,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Kahverengi (Desert)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Göğüs koruyucusu dahil mi?",
+        "a": "Evet. Leatt'e göre göğüste EN 1621-3 Level 2, sırtta EN 1621-2 Level 2, omuz ve dirsekte EN 1621-1 Level 2 koruyucular standart."
+      },
+      {
+        "q": "Su geçirmez katman nasıl kullanılıyor?",
+        "a": "Çıkarılabilir HydraDri MAX katman iç astar olarak, dış kabuğun üzerine veya tek başına yağmurluk olarak giyilebiliyor."
+      },
+      {
+        "q": "Boyunluk (neck brace) ile uyumlu mu?",
+        "a": "Evet. Leatt tüm ADV montlarında boyunluğu sabitlemek için BraceOn omuz kayışları olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://int.leatt.com/products/jacket-adv-flowtour-7-5",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/jacket-adv-flowtour-7-5",
+        "type": "manufacturer",
+        "label": "Leatt – Jacket ADV FlowTour 7.5 ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-7.5-kahverengi-motosiklet-montu-16106",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV Flow-Tour 7.5 kahverengi",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Stealth (siyah)",
+      "Desert (kahverengi)",
+      "Steel (gri)"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Leatt RipStop dış kabuk, geniş X-Flow file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri MAX (çıkarılabilir katman, 30.000 mm / 30.000 g/m²)",
+      "airbagCompatible": null,
+      "ventilation": "Geniş X-Flow file paneller, havalandırma fermuarları",
+      "closure": "Ön fermuar, boyunluk için BraceOn omuz kayışları",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "slug": "adv-flowtour-5-5-women",
+    "brand": "leatt",
+    "name": "ADV FlowTour 5.5 Women Mont",
+    "category": "mont",
+    "subcategories": [
+      "yazlik-mont",
+      "tekstil-mont",
+      "touring-mont"
+    ],
+    "summary": "Leatt'in havalandırmalı kadın adventure montu; EN 17092-3 AA sınıfı, sırt, omuz ve dirsekte Level 2 koruyucu standart, üzerine giyilen paketlenebilir HydraDri EVO yağmur ceketi.",
+    "description": [
+      "ADV FlowTour 5.5 Women, Leatt'in sıcak ve değişken havada adventure turu için yaptığı kadın montu. RipStop dış kabuk ve geniş X-Flow file panellerle havalandırma ön planda. Yağmur için ana montun üzerine giyilen ya da tek başına kullanılabilen HydraDri EVO su geçirmez ceket geliyor; Leatt bu katman için 20.000 mm su sütunu ve 20.000 g/m² nefes alma değeri veriyor ve ceketin arka kargo cebine katlanıp sığdığını belirtiyor.",
+      "Mont EN 17092-3:2020 AA sınıfında sertifikalı. Sırtta EN 1621-2, omuz ve dirsekte EN 1621-1 Level 2 3DF koruyucular standart; EN 1621-3 Level 2 göğüs koruyucusu için yer var ama ayrıca alınıyor. Su geçirmez ön ve arka cepler, telefon cebi, su torbası cebi, uzun pantolon bağlantı fermuarı, yansıtıcı detaylar ve 5 yıl garanti diğer özellikler."
+    ],
+    "forWho": [
+      "Sıcak ve değişken havada adventure turu yapan kadın sürücüler",
+      "Kadın kalıbında AA sınıfı ve Level 2 sırt-omuz-dirsek koruması isteyenler",
+      "Yağmur katmanını dışa giyip ana montu kuru tutmak isteyenler"
+    ],
+    "notFor": [
+      "Kış kullanımı için ısı astarlı mont arayanlar",
+      "Kurye kullanımı: adventure odaklı hacim ve katman yapısı günlük kurye işi için uygun değil"
+    ],
+    "pros": [
+      "Kadın kalıbında EN 17092-3 AA sınıfı",
+      "Sırt, omuz, dirsek Level 2 standart",
+      "Dışa giyilen su geçirmez ceket: ana mont ıslanmıyor",
+      "Bol su geçirmez cep, 5 yıl garanti"
+    ],
+    "cons": [
+      "Göğüs koruyucusu ayrıca alınıyor",
+      "Isı astarı yok",
+      "Yağmur ceketini giymek için durmak gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama adventure hacminde.",
+      "uzunYol": "Asıl amacı; cepler ve pantolon bağlantısıyla uzun tur.",
+      "yaz": "X-Flow panellerle sıcakta rahat.",
+      "kis": "Uygun değil; ısı astarı yok.",
+      "yagmur": "HydraDri EVO dış ceket giyildiğinde su geçirmez.",
+      "kurye": "Önerilmez."
+    },
+    "verdict": "ADV FlowTour 5.5 Women, sıcak havada adventure yapan kadın sürücüye AA sınıfı ve Level 2 sırt-omuz-dirsek korumasını havalandırmalı bir gövdeyle veriyor; yağmur ceketi dışa giyildiği için ana mont kuru kalıyor. Göğüs koruyucusu ayrı. Enduromarket'te iki renkte TL fiyatıyla stokta.",
+    "rivals": [
+      "leatt/adv-multitour-5-5-women",
+      "bmw-motorrad/gs-rallye-gore-tex-jacket-women",
+      "klim/womens-marrakesh"
+    ],
+    "priceRange": {
+      "min": 30174,
+      "max": 30174,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-5.5-gri-kadin-motosiklet-montu-17396",
+        "price": 30174,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri (Iron)"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-5.5-siyah-kadin-motosiklet-montu-17397",
+        "price": 30174,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah (Stealth)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "MultiTour 5.5 Women'dan farkı ne?",
+        "a": "FlowTour 5.5'te su geçirmez katman montun üzerine giyilen ayrı bir ceket ve gövde daha çok file; MultiTour 5.5'te su geçirmez katman içte ve ayrıca termal astar var. FlowTour daha sıcak hava odaklı."
+      },
+      {
+        "q": "Göğüs koruyucusu dahil mi?",
+        "a": "Hayır. EN 1621-3 Level 2 göğüs koruyucusu için yer var ama ayrıca satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://int.leatt.com/products/jacket-adv-flowtour-5-5-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/jacket-adv-flowtour-5-5-women",
+        "type": "manufacturer",
+        "label": "Leatt – Jacket ADV FlowTour 5.5 Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-5.5-gri-kadin-motosiklet-montu-17396",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV Flow-Tour 5.5 gri kadın mont",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-flow-tour-5.5-siyah-kadin-motosiklet-montu-17397",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV Flow-Tour 5.5 siyah kadın mont",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Iron (gri)",
+      "Stealth (siyah)"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Leatt RipStop dış kabuk, geniş X-Flow file paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 2,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri EVO (dışa giyilen ayrı ceket, 20.000 mm / 20.000 g/m²)",
+      "airbagCompatible": null,
+      "ventilation": "Geniş X-Flow file paneller",
+      "closure": "Ön fermuar, uzun pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  }
+]

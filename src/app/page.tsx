@@ -16,7 +16,7 @@ import { meta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
 export const metadata = meta({
-  title: `${SITE.name} – Motosiklet Kask, Mont, İnterkom Rehberi ve Karşılaştırma`,
+  title: `Motosiklet Kıyafetleri ve Ekipmanları Rehberi – ${SITE.name}`,
   description: SITE.description,
   path: "/",
 });
@@ -107,14 +107,15 @@ export default function Home() {
           </div>
         )}
         <Container className="relative py-10 sm:py-14">
-          <h1 className="max-w-2xl font-display text-[44px] leading-[0.95] font-bold sm:text-6xl lg:text-7xl">
+          <h1 className="mb-3 text-sm font-semibold tracking-wide text-white/70 uppercase sm:text-base">Motosiklet Kıyafetleri ve Ekipmanları</h1>
+          <p className="max-w-2xl font-display text-[44px] leading-[0.95] font-bold sm:text-6xl lg:text-7xl">
             Doğru Ekipman
             <br />
             <span className="text-red">Daha Güvenli</span>
             <br />
             Daha Keyifli Sürüşler
-          </h1>
-          <p className="mt-5 max-w-xl text-lg text-white/75">Motosiklet ekipmanı hakkında bilmen gereken her şey, kaynaklarıyla birlikte tek bir yerde.</p>
+          </p>
+          <p className="mt-5 max-w-xl text-lg text-white/75">Motosiklet kıyafeti ve ekipmanı hakkında bilmen gereken her şey: kask, mont, pantolon, eldiven, bot ve koruma, kaynaklarıyla birlikte tek bir yerde.</p>
           <div className="mt-7 max-w-xl">
             <SearchBox size="lg" />
           </div>

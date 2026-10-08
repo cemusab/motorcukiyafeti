@@ -1,0 +1,916 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Aged Black Rust (siyah)"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 66,
+        "max": 66
+      },
+      {
+        "size": "S",
+        "min": 71,
+        "max": 71
+      },
+      {
+        "size": "M",
+        "min": 76,
+        "max": 76
+      },
+      {
+        "size": "L",
+        "min": 81,
+        "max": 81
+      },
+      {
+        "size": "XL",
+        "min": 86,
+        "max": 86
+      },
+      {
+        "size": "2XL",
+        "min": 91,
+        "max": 91
+      },
+      {
+        "size": "3XL",
+        "min": 96,
+        "max": 96
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "faq": [
+      {
+        "q": "Cartmel'de kalça koruyucusu var mı?",
+        "a": "Evet. Knox, diz ve kalçada Micro-Lock Compact koruyucuların standart geldiğini belirtiyor; koruyucular EN 1621 Level 1."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Knox kadın alt beden tablosunda bel çevresine bakın: XS 66 cm, S 71 cm, M 76 cm, L 81 cm. Knox iki beden arasında kalırsanız küçük bedeni öneriyor."
+      }
+    ],
+    "rivals": [
+      "knox/womens-colton-skinny-fit",
+      "buse/kira-damen-jeggings",
+      "riderdenim/karayel-kadin"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/knox-cartmel-korumali-denim-kadin-motosiklet-pantolonu-siyah",
+        "price": 14970,
+        "salePrice": 8982,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/knox-cartmel-korumali-denim-kadin-motosiklet-pantolonu-kisa-bacak-siyah",
+        "price": 14970,
+        "salePrice": 8982,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah (kısa bacak)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 8982,
+      "max": 8982,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "womens-cartmel-kick-flare",
+    "brand": "knox",
+    "name": "Women's Cartmel Kick-Flare Jeans",
+    "category": "pantolon",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "summary": "Knox'un yüksek bel, hafif İspanyol paça kesimli tek katlı kadın motosiklet kotu; EN 17092 AA sınıfı, diz ve kalçada Micro-Lock Compact Level 1 koruyucu standart.",
+    "description": [
+      "Cartmel, Knox'un kadın sürücüler için geliştirdiği, yüksek belli ve dizden aşağısı hafifçe genişleyen (kick-flare) kesimli bir motosiklet kotu. Tek katlı yapıda; ayrı bir aramid astar yerine aşınmaya dayanıklı, elastan katkılı iki yönlü esneyen özel bir denim kullanılıyor. Knox bu tek kat kumaşla pantolonun EN 17092 standardına göre AA sınıfında onaylandığını belirtiyor.",
+      "Diz ve kalçada Knox Micro-Lock Compact koruyucular standart geliyor; üretici bunları EN 1621 Level 1 olarak listeliyor. Dizlikler, dizin iç tarafındaki gizli fermuardan dışarıdan çıkarılabiliyor. Normal (30 inç) ve kısa (28 inç) olmak üzere iki bacak boyu var; geniş paçası uzun konçlu botların üstüne oturacak şekilde tasarlanmış. Su geçirmezlik veya termal astar yok, bu yüzden bir şehir ve kuru hava pantolonu olarak düşünülmeli."
+    ],
+    "forWho": [
+      "Günlük kıyafet görünümünde ama AA sınıfı koruma isteyen kadın sürücüler",
+      "Dar skinny kesim yerine hafif geniş paçalı kesimi sevenler",
+      "Kısa bacak boyu seçeneğine ihtiyaç duyanlar"
+    ],
+    "notFor": [
+      "Yağmurda ve soğukta tek başına pantolon arayanlar",
+      "Level 2 diz koruyucu isteyenler (standart koruyucular Level 1)"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı, tek katlı kot yapısıyla",
+      "Diz ve kalça koruyucusu kutudan çıkıyor",
+      "Normal ve kısa bacak boyu seçeneği",
+      "Gizli fermuarla dışarıdan çıkarılabilen dizlikler"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Su geçirmez değil, termal astar yok",
+      "Knox'un resmi beden tablosu yalnızca tek bel değeri veriyor; aradaki bedenler için tahmin gerekiyor"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; motordan inince sıradan bir kot gibi giyiliyor.",
+      "uzunYol": "Kuru havada tur için uygun; yağmurda üstüne yağmurluk pantolon gerekir.",
+      "yaz": "Tek katlı yapı, astarlı kevlar jeanlere göre daha serin.",
+      "kis": "Termal astar yok; soğukta altına termal tayt giyilmeli.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Pist ve agresif sportif sürüş için deri pantolon daha doğru seçim.",
+      "kurye": "AA sınıfı ve günlük görünüm açısından uygun; dar kesim uzun vardiyada herkese rahat gelmeyebilir."
+    },
+    "verdict": "Cartmel, kot görünümünden ödün vermeden AA sınıfı koruma isteyen kadın sürücüler için iyi bir şehir pantolonu. Kalça koruyucusunun standart gelmesi artı; Level 1 koruyucular ve hava koşullarına karşı korumasızlık sınırları. Motomax'ta indirimli fiyatla satışta.",
+    "manufacturerUrl": "https://www.planet-knox.com/product/womens-cartmel-kick-flare-jeans-black/",
+    "sources": [
+      {
+        "url": "https://www.planet-knox.com/product/womens-cartmel-kick-flare-jeans-black/",
+        "type": "manufacturer",
+        "label": "Knox – Women's Cartmel Kick-flare Jeans ürün sayfası (beden tablosu dahil)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/knox-cartmel-korumali-denim-kadin-motosiklet-pantolonu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Knox Cartmel kadın kot ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/knox-cartmel-korumali-denim-kadin-motosiklet-pantolonu-kisa-bacak-siyah",
+        "type": "retailer",
+        "label": "Motomax – Knox Cartmel kadın kot (kısa bacak) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tek katlı, iki yönlü esneyen aşınmaya dayanıklı denim (elastan katkılı)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yüksek bel, düğme ve YKK fermuar; ön ve arka cepler",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Washed Charcoal (füme)",
+      "Washed Indigo"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 66,
+        "max": 66
+      },
+      {
+        "size": "S",
+        "min": 71,
+        "max": 71
+      },
+      {
+        "size": "M",
+        "min": 76,
+        "max": 76
+      },
+      {
+        "size": "L",
+        "min": 81,
+        "max": 81
+      },
+      {
+        "size": "XL",
+        "min": 86,
+        "max": 86
+      },
+      {
+        "size": "2XL",
+        "min": 91,
+        "max": 91
+      },
+      {
+        "size": "3XL",
+        "min": 96,
+        "max": 96
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "specs.protectors.standard"
+    ],
+    "faq": [
+      {
+        "q": "Colton ile Cartmel arasındaki fark ne?",
+        "a": "İkisi de EN 17092 AA sınıfında ve aynı Micro-Lock Compact diz-kalça koruyucularıyla geliyor. Colton dar paçalı skinny kesim ve dört yönlü esneyen kumaşa, Cartmel ise hafif geniş paçalı (kick-flare) kesime sahip."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Knox kadın alt beden tablosuna göre XS 66 cm, S 71 cm, M 76 cm, L 81 cm, XL 86 cm bel çevresine karşılık geliyor."
+      }
+    ],
+    "rivals": [
+      "knox/womens-cartmel-kick-flare",
+      "buse/kira-damen-jeggings",
+      "riderdenim/karayel-kadin"
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/knox-colton-skini-korumali-denim-kadin-motosiklet-pantolonu-koyu-gri",
+        "price": 16860,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Koyu gri"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/knox-colton-skini-korumali-denim-kadin-motosiklet-pantolonu-kisa-bacak-koyu-gri",
+        "price": 16860,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Koyu gri (kısa bacak)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 16860,
+      "max": 16860,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "womens-colton-skinny-fit",
+    "brand": "knox",
+    "name": "Women's Colton Skinny-Fit Jeans",
+    "category": "pantolon",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "summary": "Knox'un yüksek bel, dar kesim, dört yönlü esneyen tek katlı kadın motosiklet kotu; EN 17092 AA sınıfı, diz ve kalçada Micro-Lock Compact Level 1 koruyucu standart.",
+    "description": [
+      "Colton, Knox'un kadın skinny-fit motosiklet kotu. Yüksek bel ve dar paça kesimli; tek kat, aşınmaya dayanıklı kanvas denim dört yönlü esneyen elastan katkısıyla üretiliyor. Knox pantolonun EN 17092 standardına göre AA sınıfında onaylı olduğunu belirtiyor; yani ayrı bir aramid astar olmadan, kumaşın kendisi koruma sağlıyor.",
+      "Diz ve kalçada Knox Micro-Lock Compact koruyucular standart; üretici bunları EN 1621 Level 1 olarak listeliyor. Dizlikler iç taraftaki gizli fermuardan çıkarılabiliyor. Yıkanmış füme (charcoal) ve indigo renkleri, normal ve kısa bacak boyu seçenekleri var. Cartmel ile aynı koruma paketine sahip; fark, Colton'un dar paçalı skinny kesimi ve dört yönlü esneyen kumaşı."
+    ],
+    "forWho": [
+      "Dar kesim kot sevip AA sınıfı koruma isteyen kadın sürücüler",
+      "Şehir içinde motorla işe gidip gün boyu aynı pantolonu giyenler",
+      "Kısa bacak boyu seçeneğine ihtiyaç duyanlar"
+    ],
+    "notFor": [
+      "Bol kesim veya uzun konçlu botun üstüne giyilecek pantolon arayanlar",
+      "Yağmur ve soğukta koruma bekleyenler"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Dört yönlü esneyen kumaş, hareket rahatlığı",
+      "Diz ve kalça koruyucusu standart",
+      "Normal ve kısa bacak boyu"
+    ],
+    "cons": [
+      "Koruyucular Level 1",
+      "Su geçirmez değil",
+      "Dar kesim, kalın termal içlikle zor giyilir"
+    ],
+    "usage": {
+      "sehir": "En güçlü olduğu alan; motordan inince sıradan bir kot gibi giyiliyor.",
+      "uzunYol": "Kuru havada tur için uygun; yağmurda üstüne yağmurluk pantolon gerekir.",
+      "yaz": "Tek katlı yapı, astarlı kevlar jeanlere göre daha serin.",
+      "kis": "Termal astar yok; soğukta altına termal tayt giyilmeli.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "Pist ve agresif sportif sürüş için deri pantolon daha doğru seçim.",
+      "kurye": "AA sınıfı ve günlük görünüm açısından uygun; dar kesim uzun vardiyada herkese rahat gelmeyebilir."
+    },
+    "verdict": "Colton, skinny kot görünümü isteyen kadın sürücüler için AA sınıfına ulaşan nadir tek katlı seçeneklerden. Koruma paketi Cartmel ile aynı; tercih kesime göre yapılmalı. Level 1 koruyucular ve hava koşullarına karşı korumasızlık sınırları. Motomax'ta satışta.",
+    "manufacturerUrl": "https://www.planet-knox.com/product/womens-colton-skinny-fit-jeans/",
+    "sources": [
+      {
+        "url": "https://www.planet-knox.com/product/womens-colton-skinny-fit-jeans/",
+        "type": "manufacturer",
+        "label": "Knox – Women's Colton Skinny-Fit Jeans ürün sayfası (beden tablosu dahil)",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/knox-colton-skini-korumali-denim-kadin-motosiklet-pantolonu-koyu-gri",
+        "type": "retailer",
+        "label": "Motomax – Knox Colton kadın kot ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/knox-colton-skini-korumali-denim-kadin-motosiklet-pantolonu-kisa-bacak-koyu-gri",
+        "type": "retailer",
+        "label": "Motomax – Knox Colton kadın kot (kısa bacak) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tek katlı, dört yönlü esneyen aşınmaya dayanıklı kanvas denim (elastan katkılı)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Yüksek bel, düğme ve YKK fermuar; ön ve arka cepler",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Lacivert",
+      "Siyah"
+    ],
+    "sizes": [
+      "24-30",
+      "24-32",
+      "26-30",
+      "26-32",
+      "28-30",
+      "28-32",
+      "30-30",
+      "30-32",
+      "30-34",
+      "32-30",
+      "32-32",
+      "32-34",
+      "33-32",
+      "33-34",
+      "34-32",
+      "34-34",
+      "36-32",
+      "36-34",
+      "38-32",
+      "38-34",
+      "40-32",
+      "40-34"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.protectors.level"
+    ],
+    "faq": [
+      {
+        "q": "Kasırga yazın giyilir mi?",
+        "a": "Önerilmez. İçi komple polar kaplı; Riderdenim modeli soğuk hava için konumlandırıyor. Yaz için markanın astarsız modellerine bakmak daha doğru."
+      },
+      {
+        "q": "Dizlikler çıkarılabiliyor mu?",
+        "a": "Evet. Diz koruyucuları yandaki gizli fermuardan, pantolon giyiliyken çıkarılabiliyor."
+      }
+    ],
+    "rivals": [
+      "riderdenim/karayel-kadin",
+      "knox/womens-cartmel-kick-flare",
+      "buse/kira-damen-jeggings"
+    ],
+    "offers": [
+      {
+        "seller": "Riderdenim (resmi mağaza)",
+        "url": "https://riderdenim.com/kasirga-kadin-motosiklet-pantolonu",
+        "price": 6990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "24-30",
+          "24-32",
+          "26-30",
+          "26-32",
+          "28-30",
+          "28-32",
+          "30-30",
+          "30-32",
+          "30-34",
+          "32-30",
+          "32-32",
+          "32-34"
+        ],
+        "colors": [
+          "Lacivert"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Riderdenim (resmi mağaza)",
+        "url": "https://riderdenim.com/kasirga-siyah-kadin-motosiklet-pantolonu",
+        "price": 6990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "26-30",
+          "26-32",
+          "28-30",
+          "28-32",
+          "30-30",
+          "30-32",
+          "30-34",
+          "32-30",
+          "32-32",
+          "32-34"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 6990,
+      "max": 6990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "kasirga-kadin",
+    "brand": "riderdenim",
+    "name": "Kasırga Kadın",
+    "category": "pantolon",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "summary": "Riderdenim'in içi komple polar kaplı, kışlık kadın motosiklet kotu; EN 17092-3:2020 AA sınıfı, diz ve kalçada SAS-TEC koruyucu, sürtünme bölgelerinde Hakanit aramid.",
+    "description": [
+      "Kasırga, yerli marka Riderdenim'in soğuk hava için geliştirdiği kadın motosiklet kotu. Dışarıdan klasik bir jean görünümünde; içi ise baştan sona polar kumaşla kaplı. Riderdenim, diz ve kalça bölgelerinin Hakanit aramid kumaşla desteklendiğini ve pantolonun EN 17092-3:2020 AA sınıfında olduğunu belirtiyor. Dış kumaş %98 pamuk, %2 likra, 12,5 ons denim.",
+      "Diz ve yan kalçada EN 1621-1:2012 sertifikalı SAS-TEC koruyucular fiyata dahil; seviyesi sayfada yazmıyor. Riderdenim'in kendi tasarımı olan yan gizli fermuar sayesinde dizlikler pantolon giyiliyken çıkarılabiliyor. Ürün Türkiye'de üretiliyor ve markanın kendi sitesinde lacivert ve siyah renklerde, bel-boy kombinasyonlu bedenlerle satılıyor."
+    ],
+    "forWho": [
+      "Kışın her gün motorla işe giden kadın sürücüler",
+      "Yerli üretim, AA sınıfı ve uygun fiyat arayanlar",
+      "Kot görünümünde ama sıcak tutan bir pantolon isteyenler"
+    ],
+    "notFor": [
+      "Yaz kullanımı için pantolon arayanlar: polar astar sıcak havada fazla gelir",
+      "Yağmurda su geçirmezlik bekleyenler"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "İçi komple polar, kışa uygun",
+      "Diz ve kalça koruyucusu fiyata dahil, dizlik giyiliyken çıkarılabiliyor",
+      "Yerli üretim, uygun fiyat"
+    ],
+    "cons": [
+      "Koruyucu seviyesi (Level 1/2) belirtilmiyor",
+      "Su geçirmez değil",
+      "Polar astar yaz aylarında kullanımı sınırlıyor"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanıma uygun, motordan inince sıradan kot gibi görünüyor.",
+      "uzunYol": "Soğuk ve kuru havada turda kullanılabilir; yağmurda üstüne yağmurluk gerekir.",
+      "yaz": "Polar astar nedeniyle uygun değil.",
+      "kis": "En güçlü olduğu alan; polar astar soğukta belirgin fark yaratıyor.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Kışın şehir içi teslimat için uygun; AA sınıfı ve çıkarılabilir dizlik pratik."
+    },
+    "verdict": "Kasırga Kadın, kışın kot görünümünü bırakmak istemeyen kadın sürücüler için AA sınıfında ve uygun fiyatlı yerli bir seçenek. Polar astar kışta avantaj, yazın dezavantaj; koruyucu seviyesinin belirtilmemesi ve su geçirmezlik olmaması sınırları.",
+    "manufacturerUrl": "https://riderdenim.com/kasirga-kadin-motosiklet-pantolonu",
+    "sources": [
+      {
+        "url": "https://riderdenim.com/kasirga-kadin-motosiklet-pantolonu",
+        "type": "manufacturer",
+        "label": "Riderdenim – Kasırga kadın motosiklet pantolonu (lacivert) ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://riderdenim.com/kasirga-siyah-kadin-motosiklet-pantolonu",
+        "type": "manufacturer",
+        "label": "Riderdenim – Kasırga siyah kadın motosiklet pantolonu ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "%98 pamuk, %2 likra, 12,5 ons denim; diz ve kalçada Hakanit aramid takviye; iç kısım komple polar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Klasik kot kesim, ön düğme ve fermuar",
+      "madeIn": "Türkiye"
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Siyah/Siyah"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "sizeChart": [
+      {
+        "size": "38",
+        "min": 56,
+        "max": 60
+      },
+      {
+        "size": "40",
+        "min": 60,
+        "max": 64
+      },
+      {
+        "size": "42",
+        "min": 64,
+        "max": 68
+      },
+      {
+        "size": "44",
+        "min": 68,
+        "max": 72
+      },
+      {
+        "size": "46",
+        "min": 72,
+        "max": 76
+      },
+      {
+        "size": "48",
+        "min": 76,
+        "max": 80
+      },
+      {
+        "size": "50",
+        "min": 80,
+        "max": 84
+      },
+      {
+        "size": "52",
+        "min": 84,
+        "max": 88
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "unverified": [
+      "specs.protectors.level",
+      "specs.madeIn",
+      "specs.season"
+    ],
+    "faq": [
+      {
+        "q": "Delta 4 Lady'yi montla birleştirebilir miyim?",
+        "a": "Evet. Dainese pantolonda montla birleşme fermuarı olduğunu belirtiyor."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Dainese kadın pantolon tablosunda bel çevresine bakın: 42 beden 64–68 cm, 44 beden 68–72 cm, 46 beden 72–76 cm."
+      }
+    ],
+    "rivals": [
+      "leatt/adv-multitour-5-5-women-pants",
+      "buse/open-road-3-damen-hose"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "slug": "delta-4-lady",
+    "brand": "dainese",
+    "name": "Delta 4 Lady",
+    "category": "pantolon",
+    "subcategories": [
+      "deri-pantolon"
+    ],
+    "summary": "Dainese'nin Tutu inek derisinden kadın sport deri pantolonu; EN 17092 AA sınıfı, dizde kompozit, kalçada Pro-Shape 2.0 EN 1621-1 koruyucu ve değiştirilebilir diz slider'ı.",
+    "description": [
+      "Delta 4 Lady, Dainese'nin kadın kalıplı sport deri pantolonu. Ana malzeme markanın aşınma, yırtılma ve kesilmeye karşı geliştirdiği Tutu inek derisi; esneme gereken bölgelerde S1 bi-elastik kumaş ve file astar kullanılıyor. Dainese ürünü EN 17092 AA sınıfında sertifikalı olarak sunuyor.",
+      "Dizlerde kompozit, kalçada Pro-Shape 2.0 yumuşak koruyucular var; ikisi de EN 1621-1 sertifikalı, ancak seviyeleri sayfada belirtilmiyor. Değiştirilebilir diz slider sistemi (RSS), fermuarla montla birleşme, kalça ayarı ve baldırda tek fermuar diğer önemli detaylar. Dainese'nin kadın pantolon tablosu 38–52 bedenleri bel, kalça, boy ve iç bacak ölçüsüyle veriyor."
+    ],
+    "forWho": [
+      "Sport motosiklette pist günü veya virajlı yolda deri pantolon isteyen kadın sürücüler",
+      "Dainese deri montuyla fermuarla birleşen takım kurmak isteyenler"
+    ],
+    "notFor": [
+      "Günlük şehir kullanımında rahat pantolon arayanlar",
+      "Yağmurda kullanılacak pantolon arayanlar",
+      "Kurye kullanımı: deri yapı uzun vardiyada ve yürürken rahat değil"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı, Tutu inek derisi",
+      "Diz ve kalça koruyucusu standart",
+      "Değiştirilebilir diz slider'ı (RSS)",
+      "Montla fermuar bağlantısı"
+    ],
+    "cons": [
+      "Koruyucu seviyesi sayfada belirtilmiyor",
+      "Su geçirmez değil, sıcak havada deri yorucu",
+      "Türkiye'de doğrulanmış satış fiyatı yok"
+    ],
+    "usage": {
+      "sehir": "Kısa sürüşler için olur ama günlük giyim rahatlığı yok.",
+      "uzunYol": "Kuru havada sport-tur için kullanılabilir.",
+      "yaz": "File astar ve esnek paneller var ama deri yapı sıcakta yorucu.",
+      "yagmur": "Su geçirmez değil.",
+      "sport": "En güçlü olduğu alan; diz slider'ı ve montla birleşme pist için tasarlanmış.",
+      "kurye": "Uygun değil."
+    },
+    "verdict": "Delta 4 Lady, sport sürüş yapan kadın sürücüler için AA sınıfında, koruyucuları ve diz slider'ı tam bir deri pantolon. Günlük kullanım ve yağmur için değil. Koruyucu seviyesinin yazmaması ve Türkiye'de satış noktasının doğrulanamaması eksi.",
+    "manufacturerUrl": "https://www.dainese.com/us/en/delta-4-leather-pants-wmn-2015500006631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/delta-4-leather-pants-wmn-2015500006631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Delta 4 Women's Leather Pants ürün sayfası (beden tablosu dahil)",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tutu inek derisi; S1 bi-elastik kumaş ekler, file astar",
+      "materialClass": "deri",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan file astar",
+      "closure": "Montla birleşme fermuarı, kalça ayarı, baldırda fermuar",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "buyerInsights": null,
+    "colors": [
+      "Stealth (siyah)"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "XL-Short",
+      "XXL-Short",
+      "3XL-Short"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "unverified": [
+      "sizeChart",
+      "specs.protectors.kalca.level",
+      "specs.madeIn"
+    ],
+    "faq": [
+      {
+        "q": "Pantolon su geçirmez mi?",
+        "a": "Evet, fermuarla takılan HydraDri EVO astar takılıyken. Astar çıkarılabiliyor; bu durumda pantolon havalandırmalı bir tekstil pantolon olarak kullanılıyor."
+      },
+      {
+        "q": "Kalça koruyucusu hangi seviyede?",
+        "a": "Leatt'in ürün sayfası bu konuda çelişkili: özellik listesinde EN 1621-1 Level 1, açıklama metninde Level 2 yazıyor. Diz koruyucusu ise açıkça Level 2."
+      }
+    ],
+    "rivals": [
+      "buse/open-road-3-damen-hose",
+      "ixs/clarkson-ar-damen",
+      "dainese/delta-4-lady"
+    ],
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-siyah-kadin-motosiklet-pantolonu-17395",
+        "price": 24534,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah (Stealth)"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 24534,
+      "max": 24534,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "slug": "adv-multitour-5-5-women-pants",
+    "brand": "leatt",
+    "name": "ADV MultiTour 5.5 Women Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "summary": "Leatt'in kadın kalıplı adventure-touring pantolonu; EN 17092-3:2020 AA sınıfı, dizde EN 1621-1 Level 2 koruyucu, çıkarılabilir HydraDri EVO su geçirmez astar.",
+    "description": [
+      "ADV MultiTour 5.5 Women, Leatt'in değişken hava koşullarında uzun sürüş için tasarladığı kadın adventure pantolonu. Dış kabuk Leatt RipStop kumaştan; darbe ve aşınma bölgelerinde takviye, alt bacak içinde ısıya dayanıklı paneller ve diz içlerinde tutuşu artıran deri parçalar var. Leatt pantolonu EN 17092-3:2020 AA sınıfında test edilmiş ve sertifikalı olarak listeliyor.",
+      "Fermuarla takılan HydraDri EVO astar (üretici 20.000 mm su sütunu ve 20.000 g/m² nefes alma değeri veriyor) çıkarılabiliyor; bacağın önünde ve arkasında havalandırma fermuarları var. Dizde yüksekliği ayarlanabilen EN 1621-1 Level 2 koruyucu standart. Kalça koruyucusunun seviyesi için ürün sayfası çelişkili bilgi veriyor (özellik listesinde Level 1, açıklamada Level 2). XS–3XL arası, XL–3XL'de kısa bacak seçeneğiyle sunuluyor ve 5 yıl garantili."
+    ],
+    "forWho": [
+      "Adventure motosikletle uzun tur yapan kadın sürücüler",
+      "Tek pantolonla yaz ve yağmuru karşılamak isteyenler",
+      "Level 2 diz koruyucusu ve AA sınıfı arayanlar"
+    ],
+    "notFor": [
+      "Şehirde günlük kıyafet görünümü isteyenler",
+      "Kurye kullanımı: çok katmanlı adventure pantolonu sık in-bin için hantal gelir"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Diz koruyucusu Level 2, yüksekliği ayarlanabilir",
+      "Çıkarılabilir su geçirmez astar ve havalandırma fermuarları",
+      "Kısa bacak seçeneği, 5 yıl garanti"
+    ],
+    "cons": [
+      "Kalça koruyucu seviyesi üretici sayfasında çelişkili",
+      "Su geçirmez katman içte; dış kabuk yağmurda ıslanıp ağırlaşır",
+      "Resmi kadın beden tablosu sayfada metin olarak doğrulanamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılır ama hacimli; günlük şehir için ağır kaçar.",
+      "uzunYol": "En güçlü olduğu alan; çok katmanlı yapı ve cepler tur için tasarlanmış.",
+      "yaz": "Astar çıkarılıp havalandırma fermuarları açıldığında kullanılabilir.",
+      "kis": "Termal astar yok; altına termal içlik gerekir.",
+      "yagmur": "Takılı HydraDri EVO astarla su geçirmez.",
+      "kurye": "Uzun vardiyada sık in-bin için hantal; kurye kullanımı için önerilmez."
+    },
+    "verdict": "ADV MultiTour 5.5 Women, adventure turu yapan kadın sürücüler için AA sınıfı, Level 2 diz koruyucusu ve su geçirmez astarı bir arada sunan güçlü bir pantolon. Kalça koruyucu seviyesindeki çelişki ve içten membran yapısı dikkat edilmesi gereken noktalar. Enduromarket'te TL fiyatıyla satışta.",
+    "manufacturerUrl": "https://int.leatt.com/products/pants-adv-multitour-5-5-women",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/pants-adv-multitour-5-5-women",
+        "type": "manufacturer",
+        "label": "Leatt – Pant ADV MultiTour 5.5 Women ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-5.5-multi-tour-siyah-kadin-motosiklet-pantolonu-17395",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt ADV 5.5 Multi-Tour kadın pantolon ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Leatt RipStop dış kabuk, kritik bölgelerde takviye, diz içinde deri, alt bacak içinde ısıya dayanıklı panel",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri EVO (çıkarılabilir astar)",
+      "airbagCompatible": null,
+      "ventilation": "Bacak önü ve arkasında havalandırma fermuarları",
+      "closure": "Cırcırlı (ratchet) entegre kemer, çıtçıt; montla birleşme fermuarı; YKK fermuarlar",
+      "madeIn": null
+    }
+  }
+]

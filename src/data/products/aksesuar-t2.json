@@ -1,0 +1,538 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Ölçüleri nedir?",
+        "a": "Tex Motor'a göre en 40 cm, boy 40 cm ve derinlik 48 cm."
+      },
+      {
+        "q": "Tex 306'dan farkı ne?",
+        "a": "Tex 306 43×43×52 cm ile daha büyük; Tex 304 40×40×48 cm ile daha kompakt ve önde ekstra cep var."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Tex Motor (resmi site, liste fiyatı)",
+        "url": "https://texmotor.com/urun/tex-304-kurye-cantasi-40x40x50/",
+        "price": 2865,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 2865,
+      "max": 2865,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Resmi sitede listelenen fiyat; sitede online satış yok, bayilerde fiyat değişebilir. Sayfa KDV durumunu açıkça belirtmiyor."
+    },
+    "unverified": [
+      "specs.capacityLiters",
+      "specs.compatibility",
+      "specs.madeIn"
+    ],
+    "category": "aksesuar",
+    "slug": "tex-304-kurye-cantasi",
+    "brand": "tex-motor",
+    "name": "Tex 304 Kurye Çantası",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "40×40×48 cm, ısı yalıtım kaplamalı, impertex kumaşlı, güçlendirilmiş iskeletli ve ön cepli; yemek ve paket teslimatı için yerli kurye çantası.",
+    "description": [
+      "Tex 304, Tex Motor'un yemek ve paket teslimatı yapan kuryeler için ürettiği kutu formlu servis çantası. İç yüzeyde ısı yalıtım kaplaması var; üretici yiyecek ve içecekleri sıcak ya da soğuk tutmaya yönelik olduğunu belirtiyor. Dış kumaş uzun ömürlü impertex ve toza, kire ve suya dayanıklı olarak tanımlanıyor.",
+      "Ölçüler en 40 cm, boy 40 cm, derinlik 48 cm; yani aynı üreticinin Tex 306 modelinden bir boy küçük. Güçlendirilmiş iskelet darbeye karşı formunu koruyor, kapak kolay açılıp kapanıyor ve önde küçük eşyalar için ekstra cep var. Motosiklete bağlantı şekli ve hacmin litre karşılığı üretici sayfasında belirtilmiyor. Tex Motor sitesinde online satış yok; ürün mağaza ve bayilerde satılıyor."
+    ],
+    "forWho": [
+      "Yemek ve paket teslimatı yapan motosikletli kuryeler",
+      "Tex 306'dan daha kompakt bir servis çantası isteyenler",
+      "Isı yalıtımlı ve formunu koruyan uygun fiyatlı çanta arayan işletmeler"
+    ],
+    "notFor": [
+      "Kilitli sert kutu (top case) arayanlar",
+      "Kişisel eşya taşıyan tur sürücüleri; çanta teslimat odaklı"
+    ],
+    "pros": [
+      "Isı yalıtım kaplama",
+      "Güçlendirilmiş iskelet ile kutu formu korunuyor",
+      "Ön ekstra cep",
+      "Uygun liste fiyatı"
+    ],
+    "cons": [
+      "Hacim litre olarak belirtilmemiş",
+      "Motosiklete bağlantı şekli açıklanmıyor",
+      "Reflektif detay ürün sayfasında belirtilmemiş",
+      "Online satış yok; bayiden alınmalı"
+    ],
+    "usage": {
+      "kurye": "Asıl kullanım alanı; ısı yalıtımı ve kutu formuyla yemek ve paket teslimatı için.",
+      "sehir": "Şehir içi teslimat turlarında kolay açılan kapak hızlı erişim sağlar.",
+      "yagmur": "Kumaş suya dayanıklı olarak tanımlanıyor; tam su geçirmezlik iddiası yok."
+    },
+    "verdict": "Tex 304, yerli üretici desteğiyle gelen, ısı yalıtımlı ve formunu koruyan kompakt bir kurye çantası. Fiyatı makul; ancak hacim, bağlantı şekli ve reflektif bilgisi sınırlı olduğundan satın almadan önce bayiden montaj şekli sorulmalı.",
+    "rivals": [
+      "tex-motor/tex-306-kurye-servis-cantasi",
+      "givi/b47-blade"
+    ],
+    "manufacturerUrl": "https://texmotor.com/urun/tex-304-kurye-cantasi-40x40x50/",
+    "sources": [
+      {
+        "url": "https://texmotor.com/urun/tex-304-kurye-cantasi-40x40x50/",
+        "type": "manufacturer",
+        "label": "Tex Motor – Tex 304 Kurye Çanta ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "accessoryType": "Kurye servis çantası",
+      "material": "Impertex kumaş, ısı yalıtım kaplama, güçlendirilmiş iskelet",
+      "compatibility": null,
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Ölçü 40×40×48 cm",
+        "Isı yalıtım kaplama",
+        "Güçlendirilmiş iskelet",
+        "Kolay açılır kapak",
+        "Ön ekstra cep"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Motosiklete nasıl bağlanıyor?",
+        "a": "Kutu universal montaj plakası ve kitiyle geliyor; plaka arka taşıyıcıya sabitleniyor, kutu Monolock sistemiyle plakaya takılıp anahtarla çıkarılabiliyor."
+      },
+      {
+        "q": "Su geçirmez mi?",
+        "a": "GIVI normal yağmura karşı su tutma garantisi veriyor ve kutuları dakikada 20 litreden fazla su püskürten düzenekte test ediyor; tam su geçirmez değil."
+      }
+    ],
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "category": "aksesuar",
+    "slug": "b47-blade",
+    "brand": "givi",
+    "name": "B47 Blade",
+    "subcategories": [
+      "motosiklet-cantasi"
+    ],
+    "summary": "47 litrelik, Monolock bağlantılı, kabartma dokulu siyah gövdeli ve kırmızı reflektörlü; universal plaka ve montaj kitiyle gelen arka kutu (top case).",
+    "description": [
+      "B47 Blade, GIVI'nin Monolock ailesinden 47 litrelik plastik arka kutusu. Gövde kabartma dokulu siyah plastik, arka yüzde kırmızı reflektörler var. Kutu universal montaj plakası ve kitiyle birlikte satılıyor; bu sayede çoğu motosiklet ve scooter'ın arka taşıyıcısına ek adaptör olmadan bağlanabiliyor. Monolock sistemi, kutunun anahtarla plakadan çıkarılıp takılmasını sağlıyor.",
+      "GIVI su geçirmezlik iddiası yerine 'normal yağmur' seviyesinde su tutma garantisi veriyor: kutular dakikada 20 litreden fazla su püskürten bir düzenekte test ediliyor. Opsiyonel olarak sırt dayama (E131/E131S), iç çanta (T502B), iç aydınlatma ve farklı renk kapak sunuluyor. Kurye için kilitli, sert ve paket ile kişisel eşyayı ayrı tutan bir çözüm; ancak ısı yalıtımı yok. Kontrol tarihinde Türkiye'de yetkili bir motor ekipmanı mağazasında birebir model ve fiyat bulunamadı."
+    ],
+    "forWho": [
+      "Yemek değil paket, evrak veya kişisel eşya taşıyan kuryeler",
+      "Kilitli sert kutu isteyen scooter ve şehir motosikleti sürücüleri",
+      "Kasklarını motorda kilitli bırakmak isteyenler"
+    ],
+    "notFor": [
+      "Yemek teslimatı için ısı yalıtımı arayanlar",
+      "Ağır yük taşıyanlar; taşıma kapasitesi bilgisi sayfada yok"
+    ],
+    "pros": [
+      "47 litre hacim",
+      "Universal plaka ve montaj kiti dahil",
+      "Monolock ile anahtarla çıkarılıp takılabiliyor",
+      "Kırmızı reflektörler",
+      "Normal yağmura karşı test edilmiş su tutma"
+    ],
+    "cons": [
+      "Isı yalıtımı yok",
+      "Tam su geçirmez değil; üretici normal yağmur seviyesinde garanti veriyor",
+      "Türkiye'de yetkili mağazada birebir fiyat bulunamadı",
+      "Azami yük bilgisi sayfada belirtilmemiş"
+    ],
+    "usage": {
+      "kurye": "Paket ve kişisel eşya için kilitli sert kutu; yemek teslimatında ısı yalıtımı olmadığı için tek başına yeterli değil.",
+      "sehir": "Kask ve çantayı motorda kilitli bırakmak için pratik.",
+      "yagmur": "Normal yağmurda içeriyi kuru tutacak şekilde test ediliyor; sağanakta değerli eşya için iç torba önerilir.",
+      "uzunYol": "Kısa turlarda bagaj ihtiyacını karşılar."
+    },
+    "verdict": "B47 Blade, universal plakasıyla neredeyse her motora takılabilen, 47 litrelik kilitli ve reflektörlü bir arka kutu. Paket ve eşya taşıyan kurye için pratik; yemek teslimatında ısı yalıtımı olmadığı ve Türkiye fiyatı doğrulanamadığı unutulmamalı.",
+    "rivals": [
+      "tex-motor/tex-304-kurye-cantasi",
+      "tex-motor/tex-306-kurye-servis-cantasi",
+      "oxford/aqua-t30"
+    ],
+    "manufacturerUrl": "https://www.givi.it/prodotti-givi/bauletti-moto-e-scooter/bauletti-in-plastica/b47-blade",
+    "sources": [
+      {
+        "url": "https://www.givi.it/prodotti-givi/bauletti-moto-e-scooter/bauletti-in-plastica/b47-blade",
+        "type": "manufacturer",
+        "label": "GIVI – B47 Blade resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "accessoryType": "Arka kutu (top case)",
+      "material": "Kabartma dokulu siyah plastik",
+      "compatibility": "Universal plaka ve montaj kiti dahil (Monolock)",
+      "waterproof": null,
+      "capacityLiters": 47,
+      "certification": null,
+      "features": [
+        "Monolock bağlantı",
+        "Kırmızı reflektörler",
+        "Universal plaka ve kit dahil",
+        "Opsiyonel sırt dayama E131/E131S",
+        "Opsiyonel iç çanta T502B"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Hangi aynalara takılır?",
+        "a": "Türkiye'deki yetkili satıcıya göre 10–16 mm çaplı ayna demirine veya çapraz bara takılabiliyor."
+      },
+      {
+        "q": "Her telefonla çalışır mı?",
+        "a": "SP Connect telefon kılıfı veya SP Connect universal adaptör gerekiyor; bunlar ayrı satılıyor."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/sp-connect-ayna-baglantisi-8450",
+        "price": 1960,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 1960,
+      "max": 1960,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "unverified": [
+      "specs.material",
+      "specs.madeIn"
+    ],
+    "category": "aksesuar",
+    "slug": "mirror-mount",
+    "brand": "sp-connect",
+    "name": "Mirror Mount",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "Scooter ve motosikletin ayna demirine takılan, 360° ayarlanabilen, SP Connect telefon kılıfını tek hareketle kilitleyen kompakt telefon tutucu bağlantısı.",
+    "description": [
+      "Mirror Mount, SP Connect'in scooter, moped ve motosikletler için ayna demirine takılan telefon bağlantısı. Gidonunda yer olmayan scooter'larda, özellikle kuryelerin sık kullandığı 125 cc modellerde telefonu görüş alanına getirmenin pratik yollarından biri. Üretici 360° ayar imkânı ve sağlam bir sabitleme vurguluyor; telefon, SP Connect kılıfı ile saniyeler içinde takılıp çıkarılıyor.",
+      "Türkiye'deki yetkili satıcı Motomax, bağlantının 10–16 mm çaplı ayna demirine veya çapraz bara takılabildiğini ve yatay ya da dikey kullanılabildiğini belirtiyor. Bağlantı için SP Connect telefon kılıfı veya universal adaptör gerekiyor. Mekanik görüntü sabitleyicili kameralı telefonlarda üretici ek titreşim sönümleme modülü öneriyor; kurye gibi her gün saatlerce titreşime maruz kalan kullanıcı için bu modül ciddi şekilde düşünülmeli."
+    ],
+    "forWho": [
+      "Gidonunda telefon tutucu için yer olmayan scooter kullanan kuryeler",
+      "Zaten SP Connect kılıfı kullananlar",
+      "Kompakt ve göze batmayan bir bağlantı isteyenler"
+    ],
+    "notFor": [
+      "SP Connect kılıfı veya adaptörü olmayanlar; ayrı satın alınmalı",
+      "Kalın gövdeli adventure aynası kullananlar; çap uyumu kontrol edilmeli"
+    ],
+    "pros": [
+      "Ayna demirine takıldığı için gidonda yer kaplamıyor",
+      "360° ayar",
+      "Telefon tek hareketle takılıp çıkıyor",
+      "Türkiye'de yetkili satıcıda stokta"
+    ],
+    "cons": [
+      "SP Connect kılıf veya adaptör ayrıca gerekli",
+      "Su geçirmezlik telefonun kendisine ve kılıfa bağlı; bağlantı yağmur koruması sağlamaz",
+      "Mekanik OIS kameralı telefonlarda ek titreşim modülü önerilir"
+    ],
+    "usage": {
+      "kurye": "Scooter ile teslimat yapan kurye için navigasyonu görüş alanına getiren pratik bir bağlantı; titreşim modülüyle birlikte düşünülmeli.",
+      "sehir": "Şehir içi navigasyon için kompakt çözüm.",
+      "yagmur": "Bağlantı yağmurdan etkilenmez; telefonun suya dayanımı kılıfa bağlıdır."
+    },
+    "verdict": "Mirror Mount, gidonunda yer olmayan scooter kullanan kurye için telefonu ayna demirine sağlamca bağlayan uygun fiyatlı bir çözüm. SP Connect kılıf veya adaptör ayrıca alınmalı; yoğun günlük kullanımda kamerayı korumak için titreşim sönümleme modülü eklemek mantıklı.",
+    "rivals": [
+      "sp-connect/moto-mount-pro",
+      "quad-lock/handlebar-mount-pro",
+      "givi/s920l-smart-clip"
+    ],
+    "manufacturerUrl": "https://sp-connect.com/products/mirror-mount",
+    "sources": [
+      {
+        "url": "https://sp-connect.com/products/mirror-mount",
+        "type": "manufacturer",
+        "label": "SP Connect – Mirror Mount resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/sp-connect-ayna-baglantisi-8450",
+        "type": "retailer",
+        "label": "Motomax – Sp Connect Motosiklet Ayna Bağlantısı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "accessoryType": "Telefon tutucu (ayna bağlantısı)",
+      "material": null,
+      "compatibility": "10–16 mm ayna demiri veya çapraz bar; SP Connect kılıf/universal adaptör gerekli",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "360° ayar",
+        "Yatay ve dikey kullanım",
+        "Tek hareketle kilitleme"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Telefon su geçirmez hale gelir mi?",
+        "a": "Üretici Poncho'nun ekranı ve girişleri yağmur, çamur ve tozdan korumak için tasarlandığını belirtiyor; IP sınıfı gibi bir su geçirmezlik değeri vermiyor."
+      },
+      {
+        "q": "Ekran koruyucuyla kullanılabilir mi?",
+        "a": "Kullanılabilir ancak üretici bu durumda dokunmatik ekran kullanımının etkilenebileceğini not ediyor."
+      }
+    ],
+    "offers": [],
+    "priceRange": null,
+    "unverified": [
+      "priceRange",
+      "specs.madeIn"
+    ],
+    "category": "aksesuar",
+    "slug": "poncho-iphone",
+    "brand": "quad-lock",
+    "name": "Poncho (iPhone)",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "Quad Lock kılıflı iPhone'un üzerine geçirilen, şeffaf TPU'dan yapılmış, ekranı ve girişleri yağmur, çamur ve tozdan koruyan, dokunmatik kullanımı sürdüren yağmur kılıfı.",
+    "description": [
+      "Quad Lock Poncho, Quad Lock telefon kılıfı takılı iPhone'un üzerine geçirilen şeffaf bir koruma kılıfı. Dayanıklı TPU'dan yapılıyor; ekranı ve şarj girişini yağmur, çamur ve tozdan korumayı amaçlıyor. Gerektiğinde takılıp gerekmediğinde cebe veya çantaya konabiliyor.",
+      "Şeffaf malzeme sayesinde dokunmatik ekran ve tuşlar kullanılmaya devam ediyor; üretici ekran koruyucuyla birlikte kullanımda dokunmatik hassasiyetinin etkilenebileceğini not ediyor. Her iPhone modeli için ayrı boyutlu sürümü var. Gün boyu yağmurda navigasyon ve sipariş uygulamasıyla çalışan kurye için telefonu koruyan ucuz bir sigorta. Kontrol tarihinde Türkiye'de yetkili bir motor ekipmanı mağazasında birebir model ve fiyat bulunamadı."
+    ],
+    "forWho": [
+      "Yağmurda telefonla navigasyon ve sipariş takibi yapan kuryeler",
+      "Quad Lock kılıf kullanan iPhone sahipleri"
+    ],
+    "notFor": [
+      "Quad Lock kılıfı olmayanlar",
+      "Android kullanıcılar için bu sürüm uygun değil; ayrı Galaxy ve Pixel sürümleri var"
+    ],
+    "pros": [
+      "Ekran ve girişleri yağmur, çamur ve tozdan korur",
+      "Dokunmatik ve tuşlar kullanılmaya devam eder",
+      "Katlanıp cepte taşınabilir",
+      "Her iPhone modeli için ayrı boyut"
+    ],
+    "cons": [
+      "Ekran koruyucuyla dokunmatik hassasiyeti düşebilir",
+      "Türkiye'de yetkili mağazada fiyat bulunamadı",
+      "Yalnızca Quad Lock kılıfla çalışır"
+    ],
+    "usage": {
+      "kurye": "Yağmurlu günlerde telefonu korurken uygulamayı kullanmaya devam etmeyi sağlar.",
+      "yagmur": "Asıl kullanım alanı; ekran ve girişleri sudan korur.",
+      "sehir": "Şehir içi navigasyonda tozdan ve çamurdan korur."
+    },
+    "verdict": "Quad Lock Poncho, yağmurda çalışan ve iPhone'unu Quad Lock ile motora bağlayan kurye için telefonu koruyan basit ve etkili bir aksesuar. Ekran koruyucuyla dokunmatik hassasiyetinin düşebileceği ve Türkiye fiyatının doğrulanamadığı hesaba katılmalı.",
+    "rivals": [
+      "quad-lock/handlebar-mount-pro",
+      "quad-lock/vibration-dampener",
+      "givi/s920l-smart-clip"
+    ],
+    "manufacturerUrl": "https://www.quadlockcase.com/products/poncho-all-iphone-devices",
+    "sources": [
+      {
+        "url": "https://www.quadlockcase.com/products/poncho-all-iphone-devices",
+        "type": "manufacturer",
+        "label": "Quad Lock – Poncho (iPhone) resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "accessoryType": "Telefon yağmur kılıfı",
+      "material": "TPU (termoplastik poliüretan)",
+      "compatibility": "Quad Lock kılıflı iPhone modelleri (model başına ayrı boyut)",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "Şeffaf, dokunmatik kullanılabilir",
+        "Ekran ve girişleri yağmur, çamur ve tozdan korur",
+        "Katlanıp taşınabilir"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "lastCheckedAt": "2026-10-08",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "colors": [],
+    "sizes": [],
+    "faq": [
+      {
+        "q": "Hangi yüzeylere yapışır?",
+        "a": "Satıcının aktardığı üretici bilgisine göre PC, ABS, PVC, naylon ve akrilik gibi plastiklere, boyasız metale ve kaplamasız cama yapışır; silikon, TPU, deri ve parmak izi önleyici kaplamalı cama yapışmaz."
+      },
+      {
+        "q": "Hangi bağlantılarla çalışır?",
+        "a": "Tüm Quad Lock bükerek kilitleme bağlantılarıyla; MAG sürümü ayrıca Quad Lock MAG başlıkla uyumlu."
+      }
+    ],
+    "offers": [
+      {
+        "seller": "Motodium",
+        "url": "https://www.motodium.com.tr/urun/quad-lock-evrensel-adaptor",
+        "price": 1762.87,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 1762.87,
+      "max": 1762.87,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "category": "aksesuar",
+    "slug": "universal-adaptor",
+    "brand": "quad-lock",
+    "name": "Universal Adaptor",
+    "subcategories": [
+      "telefon-tutucu"
+    ],
+    "summary": "Telefonun veya kılıfın arkasına 3M VHB bantla yapıştırılan, 5 mm inceliğinde, her Quad Lock bağlantısına uyan ve özel kılıfı olmayan telefonlar için evrensel adaptör.",
+    "description": [
+      "Universal Adaptor, Quad Lock kılıfı üretilmeyen telefonları veya kullanıcının kendi kılıfını Quad Lock bağlantılarına uyumlu hale getiren yapıştırmalı adaptör. Yalnızca 5 mm kalınlığında; telefonun ya da kılıfın arkasına yapıştırıldıktan sonra tüm Quad Lock bükerek kilitleme bağlantılarıyla çalışıyor. MAG sürümü ise Quad Lock MAG başlıkla manyetik hizalama sunuyor.",
+      "Türkiye'deki satıcı Motodium'un aktardığı bilgilere göre adaptör 3M VHB 4952 yapıştırıcı kullanıyor, 48 mm genişliğinde ve 60 mm yüksekliğinde. Bu yapıştırıcı sert plastik, boyasız metal ve kaplamasız cam gibi pürüzsüz yüzeylere tutunuyor; silikon, TPU, deri ve çoğu modern telefonun parmak izi önleyici cam arka yüzüne tutunmuyor. Kurye için anlamı şu: sık telefon değiştiren veya Quad Lock kılıfı bulunmayan bir Android kullanan sürücü, uygun bir sert kılıfa bu adaptörü yapıştırarak mevcut Quad Lock bağlantısını kullanmaya devam edebilir."
+    ],
+    "forWho": [
+      "Quad Lock kılıfı üretilmeyen telefon kullanan kuryeler",
+      "Kendi sert kılıfını kullanmak isteyen Quad Lock sahipleri",
+      "Sık telefon değiştirip bağlantıyı korumak isteyenler"
+    ],
+    "notFor": [
+      "Silikon, TPU veya deri kılıf kullananlar; yapıştırıcı tutmaz",
+      "Arka camı parmak izi önleyici kaplamalı telefona doğrudan yapıştırmak isteyenler"
+    ],
+    "pros": [
+      "Herhangi bir sert kılıfı Quad Lock uyumlu yapar",
+      "5 mm ince profil",
+      "3M VHB yapıştırıcı",
+      "Türkiye'de satıcıda stokta"
+    ],
+    "cons": [
+      "Silikon, TPU, deri ve kaplamalı cama yapışmaz",
+      "Yapıştırıldıktan sonra başka kılıfa taşınamaz",
+      "Ayrıca Quad Lock bağlantı gerekir"
+    ],
+    "usage": {
+      "kurye": "Quad Lock kılıfı olmayan telefonu motora bağlamanın en ucuz yolu; yoğun titreşimde titreşim sönümleyiciyle birlikte düşünülmeli.",
+      "sehir": "Günlük kullanımda kılıf değiştirmeden motora bağlama sağlar."
+    },
+    "verdict": "Universal Adaptor, Quad Lock kılıfı bulunmayan telefonlarla çalışan kurye için mevcut bağlantıyı kullanmaya devam etmenin ucuz ve ince bir yolu. Yapıştırıcının yalnızca sert ve pürüzsüz yüzeylere tutunduğu bilinmeli; silikon ve TPU kılıflarla kullanılmamalı.",
+    "rivals": [
+      "quad-lock/handlebar-mount-pro",
+      "sp-connect/mirror-mount",
+      "givi/s920l-smart-clip"
+    ],
+    "manufacturerUrl": "https://www.quadlockcase.com/products/universal-adapter",
+    "sources": [
+      {
+        "url": "https://www.quadlockcase.com/products/universal-adapter",
+        "type": "manufacturer",
+        "label": "Quad Lock – Universal Adaptor resmi ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motodium.com.tr/urun/quad-lock-evrensel-adaptor",
+        "type": "retailer",
+        "label": "Motodium – Quad Lock Evrensel Adaptör",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "accessoryType": "Telefon tutucu adaptörü",
+      "material": "Kompozit gövde, 3M VHB 4952 yapıştırıcı",
+      "compatibility": "Tüm Quad Lock bağlantıları; sert ve pürüzsüz telefon/kılıf yüzeyleri",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": null,
+      "features": [
+        "5 mm kalınlık",
+        "48×60 mm",
+        "Original ve MAG sürümleri"
+      ],
+      "madeIn": null
+    }
+  }
+]

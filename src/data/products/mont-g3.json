@@ -760,7 +760,7 @@
     "category": "mont",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "subcategories": [
       "yazlik-mont",
@@ -816,12 +816,23 @@
         "type": "manufacturer",
         "label": "REV'IT! – Jacket Airwave 4 ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.feyizoglu.com/revit-airwave-4-yazlik-mont-siyah-_59029.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – REV'IT Airwave 4 Siyah",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.feyizoglu.com/revit-airwave-4-yazlik-mont-gri-antrasit-_59030.html",
+        "type": "retailer",
+        "label": "Feyizoğlu – REV'IT Airwave 4 Gri/Antrasit",
+        "checkedAt": "2026-10-08"
       }
     ],
     "unverified": [
       "specs.madeIn",
-      "specs.protectors.standard",
-      "priceRange"
+      "specs.protectors.standard"
     ],
     "colors": [
       "Light Grey-Blue",
@@ -928,8 +939,40 @@
       "held/sonic-2",
       "revit/tornado-4-h2o"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/revit-airwave-4-yazlik-mont-siyah-_59029.html",
+        "price": 19152,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/revit-airwave-4-yazlik-mont-gri-antrasit-_59030.html",
+        "price": 19152,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Gri/Antrasit"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 19152,
+      "max": 19152,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
     "sizeChartMeasure": "Göğüs çevresi (cm)"
   },
   {
@@ -2179,7 +2222,7 @@
     "category": "mont",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "subcategories": [
       "touring-mont",
@@ -2234,11 +2277,22 @@
         "type": "manufacturer",
         "label": "Held – Hakuna Matata 3 Top adventure jacket ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-hakuna-matata-3-adventure-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Hakuna Matata 3 Siyah",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-hakuna-matata-3-adventure-korumali-motosiklet-montu-gri-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Held Hakuna Matata 3 Gri/Mavi",
+        "checkedAt": "2026-10-08"
       }
     ],
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.season",
       "specs.ceStandard"
     ],
@@ -2345,8 +2399,40 @@
       "revit/offtrack-3-h2o",
       "revit/sand-5-h2o"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-hakuna-matata-3-adventure-korumali-motosiklet-montu-siyah",
+        "price": 35800,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-hakuna-matata-3-adventure-korumali-motosiklet-montu-gri-/-mavi",
+        "price": 35800,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Gri/Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 35800,
+      "max": 35800,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
     "sizeChartMeasure": "Göğüs çevresi (cm)"
   },
   {
@@ -2945,7 +3031,7 @@
     "category": "mont",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "subcategories": [
       "touring-mont",
@@ -3000,11 +3086,16 @@
         "type": "manufacturer",
         "label": "Held – Pentland Top adventure jacket ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-pentland-adventure-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Pentland Siyah",
+        "checkedAt": "2026-10-08"
       }
     ],
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.season"
     ],
     "colors": [
@@ -3115,8 +3206,27 @@
       "held/4-touring-2",
       "held/hakuna-matata-3"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-pentland-adventure-korumali-motosiklet-montu-siyah",
+        "price": 27250,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 27250,
+      "max": 27250,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
     "sizeChartMeasure": "Göğüs çevresi (cm)"
   },
   {
@@ -3126,7 +3236,7 @@
     "category": "mont",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-08",
     "dataConfidence": "high",
     "subcategories": [
       "touring-mont",
@@ -3180,11 +3290,16 @@
         "type": "manufacturer",
         "label": "Held – Carese 3 Top adventure touring jacket ürün sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-carese-3-adventure-korumali-motosiklet-montu-gri-/-mavi",
+        "type": "retailer",
+        "label": "Motomax – Held Carese 3 Gri/Mavi",
+        "checkedAt": "2026-10-08"
       }
     ],
     "unverified": [
       "specs.madeIn",
-      "priceRange",
       "specs.season",
       "specs.ceStandard"
     ],
@@ -3291,8 +3406,27 @@
       "held/hakuna-matata-3",
       "revit/sand-5-h2o"
     ],
-    "offers": [],
-    "priceRange": null,
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-carese-3-adventure-korumali-motosiklet-montu-gri-/-mavi",
+        "price": 54450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Gri/Mavi"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "priceRange": {
+      "min": 54450,
+      "max": 54450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08"
+    },
     "sizeChartMeasure": "Göğüs çevresi (cm)"
   }
 ]

@@ -1,0 +1,169 @@
+[
+  {
+    "category": "pantolon",
+    "slug": "nova-cordura-denim",
+    "brand": "venom",
+    "name": "Nova Cordura Denim",
+    "subcategories": [
+      "kevlar-jean"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Su itici Cordura denimden, kritik bölgelerde Kevlar takviyeli, EN 17092-3:2020 AA sınıflı ve diz-kalçada EN 1621-1 Level 1 Impactec korumaları takılı gelen uygun fiyatlı motosiklet jeani.",
+    "description": [
+      "Nova, günlük jean görünümünde ama motosiklet ekipmanı olarak sertifikalandırılmış bir Venom pantolonu. Ana kumaş su itici Cordura denim; düşmede sürtünmenin yoğunlaştığı bölgelerde Kevlar, Coolmax ve Cordura karışımı bir panel kullanılıyor. Satıcı sayfası pantolonun EN 17092-3:2020 standardına göre AA sınıfında olduğunu açıkça belirtiyor; bu, jean görünümlü pantolonlarda sık rastlanan A sınıfının bir üstü.",
+      "Dizde ImpacTec ETP-02, kalçada ETP-03 korumalar takılı geliyor; ikisi de EN 1621-1:2012 Level 1. Korumalar dışarıdan fermuarla çıkarılabiliyor, diz koruma cebinin yüksekliği ayarlanabiliyor ve cepler standart ölçüde olduğu için Level 2 koruyucuyla değiştirme imkânı var. Bedenler bel-boy (ör. 32-32) şeklinde veriliyor. Venom'un resmi ürün sayfası olmadığı için teknik bilgiler yetkili satıcı sayfasından alınmıştır; satın almadan önce etiket ve sertifikayı kontrol edin."
+    ],
+    "forWho": [
+      "Motordan inince üstünü değiştirmeden işe ya da okula gitmek isteyenler",
+      "Uygun fiyata AA sınıflı bir motosiklet jeani arayanlar",
+      "Şehir içinde çalışan ve kot görünümlü korumalı pantolon isteyen kuryeler"
+    ],
+    "notFor": [
+      "Yağmurda uzun süre sürecekler; su itici kumaş su geçirmez değildir",
+      "Kışın soğukta tek başına sıcak tutacak pantolon arayanlar; altına termal gerekir",
+      "Level 2 diz koruması isteyenler; ayrıca alınmalı"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı açıkça belirtilmiş",
+      "Diz ve kalça korumaları takılı geliyor",
+      "Diz koruma yüksekliği ayarlanabilir",
+      "Fiyatı benzer sertifikalı jeanlere göre düşük"
+    ],
+    "cons": [
+      "Korumalar Level 1",
+      "Su geçirmez değil, yalnızca su itici",
+      "Beden tablosu sayfada yok",
+      "Kevlar panelin kapsadığı bölgeler ayrıntılı gösterilmemiş"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; jean görünümüyle motordan indikten sonra da giyilebilir.",
+      "uzunYol": "AA sınıfı şehir dışı sürüşlerde de iyi güvence verir; uzun yolda Level 2 diz koruması düşünülebilir.",
+      "yaz": "Coolmax panel nefes almayı destekler, ama denim sıcakta file pantolon kadar serin değildir.",
+      "kis": "Altına termal içlikle kullanılabilir.",
+      "yagmur": "Su itici kumaş kısa yağmuru idare eder; uzun yağmurda yağmur pantolonu gerekir.",
+      "kurye": "Şehir içi kuryelik için uygun: AA sınıfı, takılı korumalar ve günlük görünüm bir arada."
+    },
+    "verdict": "Nova Cordura Denim, Venom ürünleri içinde sertifika bilgisi en açık olan model: EN 17092-3 AA sınıfı ve EN 1621-1 diz-kalça korumaları satıcı sayfasında tek tek yazılı. Fiyatına göre güçlü bir koruma seviyesi sunuyor. Su geçirmez olmaması ve korumaların Level 1 olması bilinmesi gereken sınırlar.",
+    "rivals": [
+      "tech90/vecton-ad-lite",
+      "riderdenim/karayel",
+      "tex-motor/forte-gt-spirit"
+    ],
+    "priceRange": {
+      "min": 4500,
+      "max": 4500,
+      "currency": "TRY",
+      "checkedAt": "2026-10-08",
+      "note": "Motoplus fiyatı (indirim yok)."
+    },
+    "offers": [
+      {
+        "seller": "Motoplus",
+        "url": "https://www.motoplus.com.tr/urun/venom-motosiklet-pantolonu-nova-cordura-denim-siyah",
+        "price": 4500,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "28-30",
+          "29-30",
+          "30-32",
+          "32-32",
+          "33-32",
+          "34-32",
+          "36-32",
+          "38-32",
+          "40-32"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Nova Cordura Denim hangi sınıfta?",
+        "a": "Satıcı sayfasına göre EN 17092-3:2020 standardında AA sınıfında; bu, motosiklet jeanlerinde sık görülen A sınıfının üstü."
+      },
+      {
+        "q": "Korumalar dahil mi?",
+        "a": "Evet. Dizde ImpacTec ETP-02, kalçada ETP-03 korumalar takılı geliyor; ikisi de EN 1621-1:2012 Level 1. Dışarıdan fermuarla çıkarılabiliyorlar."
+      },
+      {
+        "q": "Beden nasıl okunuyor?",
+        "a": "Bedenler bel ve boy ölçüsüyle (ör. 32-32) veriliyor; ilk sayı bel, ikinci sayı boy ölçüsünü inç cinsinden gösterir."
+      }
+    ],
+    "manufacturerUrl": "https://www.instagram.com/venomturkey/",
+    "sources": [
+      {
+        "url": "https://www.motoplus.com.tr/urun/venom-motosiklet-pantolonu-nova-cordura-denim-siyah",
+        "type": "retailer",
+        "label": "Motoplus ürün sayfası",
+        "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://www.instagram.com/venomturkey/",
+        "type": "manufacturer",
+        "label": "Venom Türkiye resmi Instagram hesabı",
+        "checkedAt": "2026-10-08"
+      }
+    ],
+    "lastCheckedAt": "2026-10-08",
+    "dataConfidence": "low",
+    "unverified": [
+      "specs.airbagCompatible",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Mavi",
+      "Füme"
+    ],
+    "sizes": [
+      "28-30",
+      "29-30",
+      "30-32",
+      "32-32",
+      "33-32",
+      "34-32",
+      "36-32",
+      "38-32",
+      "40-32"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Su itici Cordura denim, kritik bölgelerde Kevlar Coolmax Cordura panel",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Coolmax içeren takviye paneli",
+      "closure": null,
+      "madeIn": null
+    }
+  }
+]
