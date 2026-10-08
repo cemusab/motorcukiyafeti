@@ -94,3 +94,33 @@ export const SUB_SEO: Record<string, string> = {
 
 export const categorySeoName = (slug: string, fallback: string) => CATEGORY_SEO[slug]?.name ?? `Motosiklet ${fallback}`;
 export const subSeoName = (cat: string, sub: string, fallback: string) => SUB_SEO[`${cat}/${sub}`] ?? fallback;
+
+/**
+ * Kategori sayfasındaki "türler" karşılaştırma tablosu: genel, ölçüsüz bilgi (rakam yok). Diğer adlar sütunu
+ * aramalarda kullanılan eş anlamlıları (full face, jet, modüler…) doğal biçimde sayfaya taşır.
+ */
+export type TypeRow = { sub: string; name: string; aka: string; bestFor: string; plus: string; minus: string };
+
+export const TYPE_TABLES: Record<string, { title: string; rows: TypeRow[] }> = {
+  kask: {
+    title: "Kask türleri karşılaştırması",
+    rows: [
+      { sub: "kapali-kask", name: "Kapalı kask", aka: "Full face, entegre kask", bestFor: "Şehir, uzun yol, otoban, kurye", plus: "Çene dahil tam koruma, genelde daha sessiz", minus: "Sıcakta ve dururken daha kapalı hissettirir" },
+      { sub: "cene-acilir-kask", name: "Çene açılır kask", aka: "Modüler, flip-up kask", bestFor: "Touring, şehir, gözlük kullananlar", plus: "Kaskı çıkarmadan konuşma, su içme; gözlükle kolay takılır", minus: "Mekanizma nedeniyle genelde daha ağır; açık konumda çene koruması yoktur" },
+      { sub: "acik-kask", name: "Açık kask", aka: "Jet kask, 3/4 kask", bestFor: "Scooter, kısa şehir içi sürüş", plus: "Hafif ve geniş görüş", minus: "Çene ve yüz koruması yok; rüzgâr ve böcek doğrudan yüze gelir" },
+      { sub: "adventure-kask", name: "Adventure kask", aka: "ADV, dual sport kask", bestFor: "Asfalt + toprak karma kullanım", plus: "Güneşlik siperliği, geniş görüş; vizörle veya gözlükle kullanılır", minus: "Siperlik yüksek hızda rüzgâr yapar, genelde daha gürültülü" },
+      { sub: "cross-kask", name: "Cross / enduro kask", aka: "MX, motokros kaskı", bestFor: "Arazi, enduro", plus: "Bol hava akışı, gözlükle geniş görüş", minus: "Vizör yok; asfaltta uzun yolda gürültülü ve rüzgâra açık" },
+      { sub: "racing-kask", name: "Racing kask", aka: "Pist, yarış kaskı", bestFor: "Pist, sportif sürüş", plus: "Eğik sürüş pozisyonuna göre görüş, aerodinamik", minus: "Dik oturuşta görüş ve konfor sınırlı, iç güneş vizörü çoğunlukla yok" },
+    ],
+  },
+  mont: {
+    title: "Mont türleri karşılaştırması",
+    rows: [
+      { sub: "yazlik-mont", name: "Yazlık (file) mont", aka: "Mesh, fileli mont", bestFor: "Sıcak hava, şehir içi", plus: "Hava akışı yüksek, terletmez", minus: "Serin havada ve yağmurda yetersiz; file bölgelerde aşınma direnci daha düşük olabilir" },
+      { sub: "kislik-mont", name: "Kışlık mont", aka: "Termal astarlı mont", bestFor: "Soğuk hava, kış kuryeliği", plus: "Isı yalıtımı, çoğunlukla su geçirmez katman", minus: "Bahar ve yazda çok sıcak" },
+      { sub: "4-mevsim-mont", name: "4 mevsim mont", aka: "Dört mevsim, çok katmanlı mont", bestFor: "Tek montla tüm yıl", plus: "Çıkarılabilir termal ve su geçirmez astarlar", minus: "Her mevsimde uzman montlar kadar iyi değil; yazın file kadar serin olmaz" },
+      { sub: "deri-mont", name: "Deri mont", aka: "Deri motosiklet ceketi", bestFor: "Sportif sürüş, pist, şehir", plus: "Yüksek aşınma direnci, vücuda oturur", minus: "Yağmurda bakım ister, sıcakta ağır" },
+      { sub: "touring-mont", name: "Touring / adventure mont", aka: "Uzun yol, ADV mont", bestFor: "Uzun yol, karma zemin", plus: "Bol cep, havalandırma, membran; uzun kesim", minus: "Daha ağır ve hacimli, fiyatı genelde yüksek" },
+    ],
+  },
+};

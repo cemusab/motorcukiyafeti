@@ -16,7 +16,7 @@ import { meta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
 export const metadata = meta({
-  title: `Motosiklet Kıyafetleri ve Ekipmanları Rehberi – ${SITE.name}`,
+  title: `Motosiklet Ekipmanları ve Kıyafetleri Rehberi – ${SITE.name}`,
   description: SITE.description,
   path: "/",
 });
@@ -107,7 +107,7 @@ export default function Home() {
           </div>
         )}
         <Container className="relative py-10 sm:py-14">
-          <h1 className="mb-3 text-sm font-semibold tracking-wide text-white/70 uppercase sm:text-base">Motosiklet Kıyafetleri ve Ekipmanları</h1>
+          <h1 className="mb-3 text-sm font-semibold tracking-wide text-white/70 uppercase sm:text-base">Motosiklet Ekipmanları ve Kıyafetleri Rehberi</h1>
           <p className="max-w-2xl font-display text-[44px] leading-[0.95] font-bold sm:text-6xl lg:text-7xl">
             Doğru Ekipman
             <br />

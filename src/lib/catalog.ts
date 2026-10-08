@@ -3,6 +3,7 @@
  * ve merkezi route manifest'i. Sitemap, arama indeksi ve testler hep bu dosyadaki listeleri kullanır.
  */
 import "server-only";
+import { pairIndexable } from "./compare";
 import { memo } from "./memo";
 import { budgetGroups } from "./budget";
 import { LEGAL_SLUGS, legalReady } from "./legal";
@@ -230,7 +231,7 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const b of getBrands()) add(`/marka/${b.slug}`, "marka");
   for (const g of getGuides()) add(`/rehber/${g.slug}`, "rehber");
   for (const l of activeLists()) add(`/ne-almaliyim/${l.slug}`, "rehber");
-  for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma");
+  for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma", pairIndexable(c.items));
   for (const g of budgetGroups()) add(`/karsilastir/butce/${g.slug}`, "karsilastirma");
   for (const h of helmetsWithCompat()) add(`/interkom-uyumlulugu/${compatSlug(h)}`, "karsilastirma", hasVerifiedCompat(productId(h)));
   return r;

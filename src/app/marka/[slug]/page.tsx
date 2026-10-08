@@ -15,11 +15,34 @@ import { abs } from "@/lib/site";
 export const dynamicParams = false;
 export const generateStaticParams = () => getBrands().map((b) => ({ slug: b.slug }));
 
+/** Aramalarla eşleşen marka başlığı: ürünlerin çoğu tek kategorideyse "Shoei Kask", değilse "Alpinestars Motosiklet Ekipmanları". */
+const BRAND_CAT_LABEL: Record<string, string> = {
+  kask: "Kask",
+  mont: "Motosiklet Montu",
+  pantolon: "Motosiklet Pantolonu",
+  eldiven: "Motosiklet Eldiveni",
+  bot: "Motosiklet Botu",
+  interkom: "İnterkom",
+  koruma: "Koruma Ekipmanları",
+  yagmurluk: "Yağmurluk",
+  termal: "Termal Giyim",
+  aksesuar: "Motosiklet Aksesuarları",
+};
+function brandHeading(slug: string, name: string) {
+  const ps = getProducts().filter((p) => p.brand === slug);
+  const counts = new Map<string, number>();
+  ps.forEach((p) => counts.set(p.category, (counts.get(p.category) ?? 0) + 1));
+  const [top, n] = [...counts.entries()].sort((a, b) => b[1] - a[1])[0] ?? [null, 0];
+  return top && n / ps.length >= 0.7 ? `${name} ${BRAND_CAT_LABEL[top] ?? ""}`.trim() : `${name} Motosiklet Ekipmanları`;
+}
+
 export async function generateMetadata({ params }: PageProps<"/marka/[slug]">) {
   const { slug } = await params;
   const b = getBrand(slug)!;
+  const h = brandHeading(b.slug, b.name);
+  const long = `${h} Modelleri ve Marka Rehberi`;
   return meta({
-    title: `${b.name} – Marka Rehberi, Öne Çıkan Ürünler${b.country ? `, ${b.country}` : ""}`,
+    title: long.length <= 47 ? long : h.endsWith("Ekipmanları") ? (`${h} Rehberi`.length <= 47 ? `${h} Rehberi` : h) : `${h} Modelleri`,
     description: clip(`${b.name}${b.country ? ` (${b.country})` : ""} hakkında: güçlü olduğu ürünler, ürün aileleri, Türkiye'deki modeller ve alternatif markalar.`),
     path: `/marka/${slug}`,
   });
@@ -42,7 +65,10 @@ export default async function BrandPage({ params }: PageProps<"/marka/[slug]">) 
           <div className="[&_a]:text-white/70 [&_span]:text-white">
             <Breadcrumbs items={[{ name: "Markalar", href: "/markalar" }, { name: b.name, href: `/marka/${b.slug}` }]} />
           </div>
-          <h1 lang={b.country === "Türkiye" ? "tr" : "en"} className="mt-4 font-display text-5xl font-bold tracking-wide uppercase sm:text-6xl">{b.name}</h1>
+          <h1 lang={b.country === "Türkiye" ? "tr" : "en"} className="mt-4 font-display text-5xl font-bold tracking-wide uppercase sm:text-6xl">
+            {b.name}
+            <span className="mt-1 block font-sans text-lg font-semibold tracking-normal text-white/70 normal-case sm:text-xl">{((rest) => (rest === "Motosiklet Ekipmanları" ? "Motosiklet ekipmanları ve marka rehberi" : `${rest} modelleri ve marka rehberi`))(brandHeading(b.slug, b.name).slice(b.name.length).trim())}</span>
+          </h1>
           <p className="mt-2 text-lg text-white/70">
             {[b.country, b.founded ? `${b.founded}'den beri` : null, b.categories.map((c) => CATEGORIES.find((x) => x.slug === c)?.short ?? c).join(", ")]
               .filter(Boolean)

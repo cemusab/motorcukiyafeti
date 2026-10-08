@@ -5,7 +5,7 @@ import { CompareView } from "@/components/CompareView";
 import { JsonLd } from "@/components/JsonLd";
 import { Container } from "@/components/ui";
 import { comparePairs } from "@/lib/catalog";
-import { compareEntry } from "@/lib/compare";
+import { compareEntry, pairIndexable } from "@/lib/compare";
 import { verdicts } from "@/lib/compare-core";
 import { displayName, formatDate } from "@/lib/data";
 import { faqLd, clip, meta } from "@/lib/seo";
@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: PageProps<"/karsilastir/[slug
     title: `${displayName(a)} vs ${displayName(b)}`.length > 48 ? `${displayName(a)} vs ${displayName(b)}` : `${displayName(a)} vs ${displayName(b)}: Hangisi Daha İyi?`,
     description: clip(`${displayName(a)} ile ${displayName(b)} karşılaştırması: ağırlık, güvenlik standartları, özellikler, Türkiye fiyatı ve hangi sürücüye hangisinin uygun olduğu.`),
     path: `/karsilastir/${slug}`,
+    noindex: !pairIndexable([a, b]),
   });
 }
 

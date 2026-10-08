@@ -6,7 +6,7 @@ import { ProductListing } from "@/components/ProductListing";
 import { RelatedLinks } from "@/components/Related";
 import { Container, Notice, PageHead } from "@/components/ui";
 import { CATEGORIES, getCategory } from "@/data/categories";
-import { CATEGORY_SEO, categorySeoName } from "@/data/category-seo";
+import { CATEGORY_SEO, TYPE_TABLES, categorySeoName } from "@/data/category-seo";
 import { categoryFaq, displayName, getBrands, getGuide, getGuides, productPath, productsIn } from "@/lib/data";
 import { clip, faqLd, itemListLd, meta } from "@/lib/seo";
 
@@ -38,6 +38,8 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
   const seoName = categorySeoName(c.slug, c.name);
   const faq = categoryFaq(c.slug);
   const pillar = getGuide("motosiklet-kiyafeti-nasil-secilir");
+  const subs = new Set(c.groups.flatMap((g) => g.items).map((s) => s.slug));
+  const typeTable = TYPE_TABLES[c.slug];
 
   return (
     <>
@@ -93,6 +95,47 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
           )}
         </div>
       </Container>
+      {typeTable && (
+        <Container className="mt-12">
+          <section aria-labelledby="turler-tablo">
+            <h2 id="turler-tablo" className="mb-4 font-display text-3xl font-bold">
+              {typeTable.title}
+            </h2>
+            <div className="-mx-4 overflow-x-auto px-4 sm:mx-0 sm:px-0">
+              <table className="w-full min-w-[640px] border-collapse overflow-hidden rounded-lg border border-line bg-white text-left text-sm">
+                <thead className="bg-paper">
+                  <tr>
+                    <th scope="col" className="p-3 font-semibold">Tür</th>
+                    <th scope="col" className="p-3 font-semibold">Diğer adları</th>
+                    <th scope="col" className="p-3 font-semibold">En uygun kullanım</th>
+                    <th scope="col" className="p-3 font-semibold">Güçlü yanı</th>
+                    <th scope="col" className="p-3 font-semibold">Sınırlaması</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {typeTable.rows.map((r) => (
+                    <tr key={r.sub} className="border-t border-line align-top">
+                      <th scope="row" className="p-3 font-semibold">
+                        {subs.has(r.sub) && productsIn(c.slug, r.sub).length ? (
+                          <Link href={`/${c.slug}/${r.sub}`} className="text-red hover:underline">
+                            {r.name}
+                          </Link>
+                        ) : (
+                          r.name
+                        )}
+                      </th>
+                      <td className="p-3 text-ink-2">{r.aka}</td>
+                      <td className="p-3 text-ink-2">{r.bestFor}</td>
+                      <td className="p-3 text-ink-2">{r.plus}</td>
+                      <td className="p-3 text-ink-2">{r.minus}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        </Container>
+      )}
       {faq.length > 0 && (
         <Container className="mt-12">
           <section id="sss" className="max-w-3xl">
