@@ -4,7 +4,7 @@ import Link from "next/link";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
 import { brandName, formatShortDate, getMedia, isLocal, priceLabel, productId, productPath } from "@/lib/data";
-import { productTypeLabel, keyChips } from "@/lib/labels";
+import { CERT_PENDING, productTypeLabel, keyChips } from "@/lib/labels";
 import { Icon } from "./Icon";
 import { CompareButton, FavoriteButton } from "./ProductActions";
 
@@ -81,7 +81,7 @@ export function ProductCard({ p }: { p: Product }) {
         <p className="line-clamp-2 text-xs text-mute sm:text-sm">{productTypeLabel(p)}</p>
         <ul className="mt-2 flex flex-wrap gap-1 sm:mt-3 sm:gap-1.5 [&>li:nth-child(n+3)]:hidden sm:[&>li:nth-child(n+3)]:block">
           {keyChips(p).map((c) => (
-            <li key={c} className="max-w-full truncate rounded bg-paper px-1.5 py-0.5 text-[11px] font-medium text-ink-2 sm:px-2 sm:text-xs">
+            <li key={c} className={`max-w-full truncate rounded px-1.5 py-0.5 text-[11px] font-medium sm:px-2 sm:text-xs ${c === CERT_PENDING ? "bg-warn/10 text-[#7a3d06]" : c === "ECE 22.06" ? "bg-ok/10 text-ok" : "bg-paper text-ink-2"}`}>
               {c}
             </li>
           ))}

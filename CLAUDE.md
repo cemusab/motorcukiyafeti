@@ -35,6 +35,8 @@ Kullanıcı "devam" dediğinde `docs/durum.md` > "devam protokolü" bölümünde
 - `npm run dev` – geliştirme sunucusu (arka planda çalıştır, bekleme)
 - `npm run validate` – veri kalitesi kontrolü (şema, yinelenen kayıt, kırık referans, kaynaksız fiyat)
 - `npm run qa` – validate + build + tüm Playwright testleri (iç link tarayıcı dahil)
+- `npm run links` – üretici ve satıcı bağlantılarını kontrol eder (ayda bir; KIRIK = 404/alan adı yok, KONTROL = bot engeli/hız sınırı, elle bak)
+- `npm run images` – üretici görsellerini kontrol eder (ayda bir)
 
 ## Veri ekleme
 Yeni ürün: ilgili `src/data/products/{kategori}.json` dosyasına şemaya uygun kayıt ekle → `npm run validate` → `npm run qa`. Marka: `brands.json` veya `brands-2.json`. Rehber: `src/data/guides/{slug}.json` (tek elemanlı dizi). Kategori ağacı: `src/data/categories.ts`.

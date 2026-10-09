@@ -1,0 +1,645 @@
+[
+  {
+    "slug": "gullfoss-d-dry-pants-lady",
+    "brand": "dainese",
+    "name": "Gullfoss D-Dry Kadın Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "İçe veya dışa takılabilen çıkarılabilir D-Dry membranlı, termal astarlı, EN 17092 AA sınıfı ve Level 2 diz koruyuculu kadın adventure pantolonu.",
+    "description": [
+      "Gullfoss D-Dry Kadın Pantolon, Dainese'nin asfalt ve stabilize yolda adventure seyahati için tasarladığı modüler pantolon. Üretici 10.000 mm su sütununa dayanıklı olarak tanımladığı D-Dry membranın pantolonun içine ya da üstüne takılabildiğini belirtiyor. Çıkarılabilir termal astar soğuk günler, uyluklardaki havalandırmalar sıcak günler için.",
+      "Pantolon EN 17092 AA sınıfında. Dizlerde yüksekliği ayarlanabilen Pro-Armor EN 1621-1 Level 2 koruyucular, kalçada çıkarılabilir Pro-Shape 2.0 koruyucular standart. Kalçada ayar, montla fermuarlı bağlantı ve iki dış cep var; paçalar touring ve adventure botlarının üstüne giyilecek şekilde kesilmiş. Gullfoss D-Dry kadın montuyla takım oluşturuyor."
+    ],
+    "forWho": [
+      "Gullfoss D-Dry kadın montuyla takım kurmak isteyenler",
+      "Dört mevsim adventure ve uzun yol yapan kadın sürücüler",
+      "Diz ve kalça koruyucusu dahil AA sınıfı pantolon arayanlar"
+    ],
+    "notFor": [
+      "Günlük kıyafet görünümü isteyenler: touring pantolon görünümünde",
+      "Katman takıp çıkarmakla uğraşmak istemeyenler"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Ayarlanabilir Level 2 diz ve dahil kalça koruyucu",
+      "İçe veya dışa takılabilen D-Dry membran",
+      "Termal astar ve uyluk havalandırmaları"
+    ],
+    "cons": [
+      "Yağmur başlayınca membranı takmak için durmak gerekir",
+      "Kalça koruyucunun seviyesi belirtilmiyor",
+      "Beden tablosu ürün sayfasından okunamadı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; touring yapısı kısa şehir sürüşleri için hacimli.",
+      "uzunYol": "Asıl kullanım alanı; montla bağlanan modüler yapı uzun tur için.",
+      "yaz": "Uyluk havalandırmalarıyla ılık ve sıcak havada idare eder.",
+      "kis": "Termal astar ve membranla soğuk günlerde kullanılabilir.",
+      "yagmur": "D-Dry membran takıldığında yağmur koruması sağlar.",
+      "kurye": "Dayanıklı ama ayrı katman membran sık yağmurda pratik değil; kurye için tek katmanlı pantolon daha kolay."
+    },
+    "verdict": "Gullfoss D-Dry Kadın Pantolon, değişken havada tur yapan kadın sürücü için çok yönlü bir parça. AA sınıfı ve dahil diz/kalça koruyucuları güçlü; membranı yağmurda ayrıca takma zorunluluğu eksi.",
+    "rivals": [
+      "dainese/carve-master-4-gore-tex-pants-lady",
+      "buse/open-road-3-damen-hose",
+      "alpinestars/stella-andes-v3-drystar-pants"
+    ],
+    "priceRange": {
+      "min": 24990,
+      "max": 24990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-pant.gullfoss-d-dry-pants-black-black-38-41927",
+        "price": 24990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran pantolonun üstüne takılabilir mi?",
+        "a": "Evet. Dainese D-Dry membranın pantolonun içine veya üstüne giyilebildiğini belirtiyor."
+      },
+      {
+        "q": "Koruyucular dahil mi?",
+        "a": "Evet. Dizlerde ayarlanabilir Pro-Armor Level 2, kalçada çıkarılabilir Pro-Shape 2.0 koruyucular standart."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/gullfoss%C2%A0d-dry---womens-all-seasons-motorcycle-pants-2016700014631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/gullfoss%C2%A0d-dry---womens-all-seasons-motorcycle-pants-2016700014631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Gullfoss D-Dry Women's Pants ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-pant.gullfoss-d-dry-pants-black-black-38-41927",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Gullfoss D-Dry kadın pantolon",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Black"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tekstil dış kumaş, çıkarılabilir D-Dry membran, çıkarılabilir termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (çıkarılabilir, içe veya dışa takılır; 10.000 mm)",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda havalandırma",
+      "closure": "Bel ve baldır ayarı, montla bağlantı fermuarı, iki dış cep",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "carve-master-4-gore-tex-pants-lady",
+    "brand": "dainese",
+    "name": "Carve Master 4 GORE-TEX Kadın Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX ePE membranlı, çıkarılabilir termal dolgu astarlı, EN 17092 AA sınıfı ve Level 2 diz koruyuculu kadın kışlık sport touring pantolonu.",
+    "description": [
+      "Carve Master 4 GORE-TEX Kadın Pantolon, Dainese'nin düşük sıcaklıklarda yolculuk için tasarladığı sport touring pantolonu. Yeni nesil GORE-TEX ePE membran su geçirmezlik ve nefes alabilirlik sağlıyor; çıkarılabilir termal dolgu astar en soğuk günler için. Geniş alanlarda esnek ve dayanıklı Mugello kumaşı, bazı bölgelerde Duratex kullanılıyor.",
+      "Pantolon EN 17092 AA sınıfında. Dizlerde yüksekliği ayarlanabilen Pro-Armor EN 1621-1 Level 2, kalçada Pro-Shape 2.0 koruyucular standart. Uyluklarda havalandırma, kalçada ayar, montla fermuarlı bağlantı ve iki dış cep var; paçalar touring botların üstüne giyilecek şekilde. Carve Master 4 GORE-TEX kadın montuyla takım oluşturuyor."
+    ],
+    "forWho": [
+      "Kışın da motosiklet kullanan kadın sürücüler",
+      "Carve Master 4 GORE-TEX kadın montuyla takım kurmak isteyenler",
+      "Membranı ayrı katman olmayan, GORE-TEX garantili bir pantolon arayanlar"
+    ],
+    "notFor": [
+      "Yaz kullanımı: kışlık pantolon",
+      "Kurye için ekonomik pantolon arayanlar: fiyatı yüksek"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "GORE-TEX ePE membran",
+      "Ayarlanabilir Level 2 diz ve dahil kalça koruyucu",
+      "Çıkarılabilir termal dolgu astar"
+    ],
+    "cons": [
+      "Türkiye fiyatı yüksek",
+      "Yaz için uygun değil",
+      "Kalça koruyucunun seviyesi belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kışın işe gidişte rahat; uyluk havalandırmaları ılık günlerde işe yarar.",
+      "uzunYol": "Soğuk ve yağmurlu yolculuklar için tasarlanmış.",
+      "yaz": "Kışlık yapısı nedeniyle sıcak havada uygun değil.",
+      "kis": "Asıl kullanım alanı; termal astar ve GORE-TEX membranla soğukta sıcak tutar.",
+      "yagmur": "GORE-TEX ePE membranla yağmurda koruma sağlar.",
+      "kurye": "Kışlık ve su geçirmez ama fiyatı kurye kullanımı için yüksek."
+    },
+    "verdict": "Carve Master 4 GORE-TEX Kadın Pantolon, kışın da yola çıkan kadın sürücü için en donanımlı seçeneklerden. AA sınıfı, GORE-TEX ve Level 2 diz koruyucu güçlü; fiyat ve yalnız serin-soğuk havaya uygun olması dezavantaj.",
+    "rivals": [
+      "dainese/gullfoss-d-dry-pants-lady",
+      "dainese/delta-4-lady",
+      "buse/open-road-3-damen-hose"
+    ],
+    "priceRange": {
+      "min": 31490,
+      "max": 31490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-pantcarve-master-4-g.tex-pants-wmn-blk-50-41929",
+        "price": 31490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Carve Master 4 kadın pantolon su geçirmez mi?",
+        "a": "Evet. Dainese GORE-TEX ePE membran kullanıldığını ve su geçirmez, nefes alabilir olduğunu belirtiyor."
+      },
+      {
+        "q": "Koruyucular dahil mi?",
+        "a": "Evet. Dizlerde ayarlanabilir Pro-Armor Level 2, kalçada Pro-Shape 2.0 koruyucular standart."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/carve-master-4-gore-tex---womens-winter-motorcycle-pants-2016100003001.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/carve-master-4-gore-tex---womens-winter-motorcycle-pants-2016100003001.html",
+        "type": "manufacturer",
+        "label": "Dainese – Carve Master 4 GORE-TEX Women's Winter Pants ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-pantcarve-master-4-g.tex-pants-wmn-blk-50-41929",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Carve Master 4 Gore-Tex kadın pantolon",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Mugello esnek kumaş ve Duratex, GORE-TEX ePE membran, çıkarılabilir termal dolgu astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": "EN 1621-1",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX ePE",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda havalandırma",
+      "closure": "Bel ve baldır ayarı, montla bağlantı fermuarı, iki dış cep",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "stella-andes-v3-drystar-pants",
+    "brand": "alpinestars",
+    "name": "Stella Andes V3 Drystar Pantolon",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Drystar su geçirmez membranlı, uzun termal astarlı, EN 17092 A sınıfı ve Level 1 diz koruyuculu kadın touring pantolonu.",
+    "description": [
+      "Stella Andes V3 Drystar, Alpinestars'ın kadın vücuduna göre kalıplanmış touring pantolonu. Takviyeli polyester dış kumaş ve Alpinestars'ın Drystar membranı su geçirmezlik sağlıyor; çıkarılabilir uzun termal astar soğuk günler için. Uyluklarda doğrudan havalandırma girişleri, dizlerde esnek paneller ve aşınmaya karşı polimer baskılı takviye var.",
+      "Üretici pantolonu prEN 17092 A sınıfı olarak listeliyor. Dizlerde yeri ayarlanabilen Nucleon Flex Plus EN 1621-1 Level 1 koruyucular standart; kalça cepleri boş geliyor, Bio-Flex kalça koruyucu ayrıca alınıyor. Tokalı ve esnek bel ayarı, kargo cepleri, çıkarılabilir askılar ve yansıtıcı detaylar bulunuyor. Stella Andes V3 Drystar montla uyumlu."
+    ],
+    "forWho": [
+      "Yıl boyu şehir ve tur sürüşü yapan kadın sürücüler",
+      "Su geçirmez ve termal astarlı, uygun fiyatlı bir pantolon arayanlar",
+      "Kurye veya işe gidiş için dört mevsim pantolon isteyen kadınlar"
+    ],
+    "notFor": [
+      "En yüksek aşınma sınıfını (AA/AAA) arayanlar",
+      "Kalça koruyucusunun dahil olmasını isteyenler"
+    ],
+    "pros": [
+      "Drystar membran ve uzun termal astar",
+      "Uyluk havalandırmaları",
+      "Kadın kalıbı ve çıkarılabilir askılar",
+      "Motomax'ta indirimli fiyat"
+    ],
+    "cons": [
+      "Sertifika prEN 17092 A sınıfı",
+      "Kalça koruyucu dahil değil",
+      "Diz koruyucular Level 1"
+    ],
+    "usage": {
+      "sehir": "Günlük kullanımda pratik; kargo cepleri işe yarar.",
+      "uzunYol": "Orta ve uzun turlar için uygun.",
+      "yaz": "Uyluk havalandırmalarıyla ılık havada idare eder; çok sıcakta file pantolon daha serin.",
+      "kis": "Uzun termal astarla soğuk günlerde kullanılabilir.",
+      "yagmur": "Drystar membran yağmurda koruma sağlar; dış kumaş ıslanabilir.",
+      "kurye": "Su geçirmez yapısı ve termal astarıyla dört mevsim kurye kullanımına uygun; kalça koruyucu eklenmeli."
+    },
+    "verdict": "Stella Andes V3 Drystar, yıl boyu süren kadın sürücü için uygun fiyatlı ve pratik bir su geçirmez pantolon. Termal astar ve havalandırma dengesi iyi; A sınıfı sertifika ve ayrıca alınacak kalça koruyucu hesaba katılmalı.",
+    "rivals": [
+      "dainese/gullfoss-d-dry-pants-lady",
+      "buse/open-road-3-damen-hose",
+      "leatt/adv-multitour-5-5-women-pants"
+    ],
+    "priceRange": {
+      "min": 12504,
+      "max": 20840,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Motomax Garajj indirimi: liste 20.840 TL, indirimli 12.504 TL"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-stella-andes-korumali-kadin-motosiklet-pantolonu-siyah",
+        "price": 20840,
+        "salePrice": 12504,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Stella Andes V3 pantolon su geçirmez mi?",
+        "a": "Evet. Alpinestars Drystar membranla %100 su geçirmezlik sağlandığını belirtiyor."
+      },
+      {
+        "q": "Kalça koruyucu dahil mi?",
+        "a": "Hayır. Kalça cepleri var; Bio-Flex kalça koruyucu aksesuar olarak ayrıca alınıyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Alpinestars kadın tekstil pantolon tablosuna göre bel çevresine bakılır; örneğin S 64–70 cm, M 70–74 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/stella-andes-v3-drystar-sup-reg-sup-pants",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/stella-andes-v3-drystar-sup-reg-sup-pants",
+        "type": "manufacturer",
+        "label": "Alpinestars – Women Stella Andes V3 Drystar Pants ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/SIZE_CHART_TEXTILE_WOMENS_MOTO_PANT.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars – kadın tekstil pantolon resmi beden tablosu",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-stella-andes-korumali-kadin-motosiklet-pantolonu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Stella Andes kadın pantolon (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible"
+    ],
+    "colors": [
+      "Black",
+      "Ice Gray/Dark Gray"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 64,
+        "max": 70
+      },
+      {
+        "size": "M",
+        "min": 70,
+        "max": 74
+      },
+      {
+        "size": "L",
+        "min": 74,
+        "max": 78.5
+      },
+      {
+        "size": "XL",
+        "min": 78.5,
+        "max": 83
+      },
+      {
+        "size": "2XL",
+        "min": 83,
+        "max": 88
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Takviyeli polyester dış kumaş, dizlerde polimer baskılı takviye ve esnek panel, Drystar membran, çıkarılabilir uzun termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "prEN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar",
+      "airbagCompatible": null,
+      "ventilation": "Uyluklarda doğrudan havalandırma girişleri",
+      "closure": "Tokalı ve esnek bel ayarı, çıkarılabilir askılar, kargo cepleri",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "zenith-lady",
+    "brand": "shima",
+    "name": "Zenith Lady Jean",
+    "category": "pantolon",
+    "subcategories": [
+      "tekstil-pantolon"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tek katmanlı Monolayer+ takviyeli denim yapılı, EN 17092-3:2020 AA sınıfı, Level 2 diz ve Level 1 kalça koruyucusu dahil kadın motosiklet kotu.",
+    "description": [
+      "Zenith Lady, Shima'nın günlük kot görünümündeki kadın motosiklet pantolonu. Ayrı bir aramid astar yerine tek katmanlı Monolayer+ takviyeli denim kullanılıyor; bu yapı pantolonu ince ve esnek tutuyor. Esnek paneller hareket serbestliği sağlıyor. Üretici sayfasında kumaşın lif içeriği ayrıntılı verilmiyor.",
+      "Shima pantolonu EN 17092-3:2020 standardına göre AA sınıfında sertifikalı olarak listeliyor. Koruyucu seti dahil: dizlerde yüksekliği ayarlanabilen G-FLEXX EK22 CE Level 2, kalçada AirForce H11 CE Level 1. Kısa bağlantı fermuarlı Shima montlarıyla birleştirilebiliyor. Bedenler bel/boy (ör. 28/30, 28/32) şeklinde."
+    ],
+    "forWho": [
+      "Motosiklet pantolonu gibi görünmeyen, günlük kot isteyen kadın sürücüler",
+      "Diz ve kalça koruyucusu dahil, AA sınıfı uygun fiyatlı kot arayanlar",
+      "Şehir içi ve kısa tur kullanımı"
+    ],
+    "notFor": [
+      "Yağmurda sürenler: su geçirmez değil",
+      "Kışın tek başına kullanmak isteyenler",
+      "Kurye: yağmur ve soğuk koruması olmadığı için yıl boyu kurye kullanımına uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Diz (Level 2) ve kalça koruyucu dahil",
+      "Tek katman yapı: ince ve esnek",
+      "Uygun fiyat ve günlük görünüm"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Kalça koruyucu Level 1",
+      "Kumaşın lif içeriği üretici sayfasında ayrıntılı değil"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; normal kot gibi görünür.",
+      "uzunYol": "Kısa ve orta turlarda rahat; yağmura karşı yağmurluk gerekir.",
+      "yaz": "Tek katman yapı sayesinde yazın çok katmanlı pantolonlardan serin.",
+      "kis": "Soğukta altına termal içlik gerekir.",
+      "yagmur": "Su geçirmez değil; yağmur pantolonu gerekir.",
+      "kurye": "Yağmur ve soğuk koruması olmadığı için yıl boyu kurye kullanımına uygun değil."
+    },
+    "verdict": "Zenith Lady, günlük kot görünümünden vazgeçmeden gerçek koruma isteyen kadın sürücü için uygun fiyatlı bir seçim. AA sınıfı ve dahil diz/kalça koruyucuları güçlü; su geçirmez olmaması ve kış için ek katman gerektirmesi sınırları.",
+    "rivals": [
+      "knox/womens-colton-skinny-fit",
+      "riderdenim/karayel-kadin",
+      "riderdenim/kasirga-kadin"
+    ],
+    "priceRange": {
+      "min": 12720,
+      "max": 12720,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-zenith-korumali-kadin-motosiklet-pantolonu-siyah-13227",
+        "price": 12720,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "26/30",
+          "28/30",
+          "30/30",
+          "30/32",
+          "32/30",
+          "34/30"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Zenith Lady hangi sertifikaya sahip?",
+        "a": "Shima pantolonu EN 17092-3:2020 standardında AA sınıfı olarak listeliyor."
+      },
+      {
+        "q": "Koruyucular dahil mi?",
+        "a": "Evet. Dizlerde ayarlanabilir G-FLEXX EK22 Level 2, kalçada AirForce H11 Level 1 koruyucular geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shima.pl/shop/zenith-lady-pnt-czarny/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/zenith-lady-pnt-czarny/",
+        "type": "manufacturer",
+        "label": "Shima – Jeansy Zenith Lady ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-zenith-korumali-kadin-motosiklet-pantolonu-siyah-13227",
+        "type": "retailer",
+        "label": "Motomax – Shima Zenith kadın pantolon (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.closure",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah",
+      "Mavi",
+      "Gri"
+    ],
+    "sizes": [
+      "24/30",
+      "24/32",
+      "26/30",
+      "26/32",
+      "28/30",
+      "28/32",
+      "30/30",
+      "30/32",
+      "32/30",
+      "34/30"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Tek katmanlı Monolayer+ takviyeli denim, esnek paneller",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "kalca",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  }
+]

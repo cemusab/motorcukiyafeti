@@ -1,0 +1,1443 @@
+[
+  {
+    "slug": "altitude",
+    "brand": "klim",
+    "name": "Altitude Kadın",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "GORE-TEX Performance Shell dış kabuklu, EN 17092-3 AA sınıfı, KLIM Rogue Level 1 omuz, dirsek ve sırt koruyuculu, kadınlara özel tasarlanmış uzun yol montu.",
+    "description": [
+      "Altitude, Klim'in kadın touring montu ve beşinci nesliyle yenilendi. Su geçirmezlik ayrı bir iç membranla değil, doğrudan GORE-TEX Performance Shell dış kabukla sağlanıyor; yani yağmurda dış kumaş su emip ağırlaşmıyor. Omuzlarda 600D Cordura, dirseklerde perfore keçi derisi takviye, karanlıkta görünürlük için 3M Scotchlite yansıtıcılar var.",
+      "Üretici montu EN 17092-3 AA sınıfında sertifikalı olarak listeliyor. Omuz, dirsek ve sırtta havalandırmalı KLIM Rogue CE Level 1 koruyucular standart geliyor, Level 2 Rogue koruyuculara yükseltilebiliyor. Havalandırma kadın vücuduna göre yerleştirilmiş: iki büyük bilek girişi, iki gövde girişi ve iki sırt çıkışı. Bel, pazu ve ön kolda ayar kayışları, kalçada fermuarlı genişleme panelleri ve pantolon bağlantı fermuarı bulunuyor. Üretici sayfasında termal astar listelenmediği için soğukta altına katman giymek gerekiyor."
+    ],
+    "forWho": [
+      "Yağmurda da yola devam eden kadın uzun yol ve adventure sürücüleri",
+      "Dış kabuğu ıslanmayan, GORE-TEX garantili bir mont arayanlar",
+      "AA sınıfı ve sırt koruyucusu dahil bir mont isteyenler"
+    ],
+    "notFor": [
+      "Bütçesi sınırlı olanlar: segmentinin en pahalı kadın montlarından",
+      "Kurye kullanımı: fiyatı ve touring odaklı yapısı günlük yoğun teslimat için mantıklı değil",
+      "Termal astarlı tek parça kışlık mont isteyenler"
+    ],
+    "pros": [
+      "EN 17092-3 AA sınıfı",
+      "GORE-TEX dış kabuk: dış kumaş su emmez",
+      "Omuz, dirsek ve sırt koruyucu standart",
+      "Kadın vücuduna göre havalandırma ve kalıp"
+    ],
+    "cons": [
+      "Koruyucular standart olarak Level 1",
+      "Termal astar listelenmiyor; kışın ara katman gerekir",
+      "Türkiye fiyatı yüksek",
+      "Beden aralığı XS–2X ile sınırlı"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama touring kalıbı ve fiyatı şehir içi için fazla.",
+      "uzunYol": "Asıl kullanım alanı; günlerce süren turlar için tasarlanmış.",
+      "yaz": "Bilek, gövde ve sırt havalandırmaları açıkken ılık havada idare eder; sıcak yazda file mont daha serin.",
+      "kis": "Termal astar olmadığı için soğukta altına polar veya ısıtmalı katman gerekir.",
+      "yagmur": "Güçlü yanı; GORE-TEX dış kabuk yağmuru en dış katmanda durdurur.",
+      "kurye": "Dayanıklı ama pahalı; kurye için daha ekonomik su geçirmez montlar daha mantıklı."
+    },
+    "verdict": "Altitude, yağmurdan çekinmeden uzun yol yapan kadın sürücü için Türkiye'de bulunabilen en donanımlı seçeneklerden biri. AA sınıfı, GORE-TEX dış kabuk ve dahil sırt koruyucu güçlü yanları; yüksek fiyat ve termal astar olmaması hesaba katılmalı.",
+    "rivals": [
+      "klim/womens-marrakesh",
+      "dainese/carve-master-4-gore-tex-lady",
+      "dainese/gullfoss-d-dry-lady"
+    ],
+    "priceRange": {
+      "min": 56900,
+      "max": 56900,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/klim-altitude-korumali-kadin-motosiklet-montu-siyah",
+        "price": 56900,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Altitude su geçirmez mi?",
+        "a": "Evet. Klim montun GORE-TEX Performance Shell dış kabukla üretildiğini belirtiyor; su geçirmezlik dış katmanda sağlanıyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Evet, KLIM Rogue CE Level 1 sırt pedi standart geliyor ve Level 2'ye yükseltilebiliyor."
+      },
+      {
+        "q": "Kışın tek başına yeterli mi?",
+        "a": "Üretici sayfasında termal astar listelenmiyor; soğuk havada altına ara katman giymek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.klim.com/products/altitude-jacket-5093-004",
+    "sources": [
+      {
+        "url": "https://www.klim.com/products/altitude-jacket-5093-004",
+        "type": "manufacturer",
+        "label": "Klim – Altitude Jacket (5093-004) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/klim-altitude-korumali-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Klim Altitude kadın mont (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Dress Blues - Golden Brown",
+      "High-rise - Hi-Vis",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "SM",
+      "MD",
+      "LG",
+      "XL",
+      "2X"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "GORE-TEX Performance Shell dış kabuk, omuzlarda 600D Cordura, dirseklerde perfore keçi derisi takviye, nem emici antimikrobiyal file astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX Performance Shell (dış kabuk)",
+      "airbagCompatible": null,
+      "ventilation": "2 bilek girişi (çift fermuarlı), 2 gövde girişi, 2 sırt çıkışı, yaka açma",
+      "closure": "Çift başlı ön fermuar ve fırtına kapağı, bel/pazu/ön kol ayarı, kalça genişleme fermuarları, pantolon bağlantı fermuarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "gullfoss-d-dry-lady",
+    "brand": "dainese",
+    "name": "Gullfoss D-Dry Kadın",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Montun içine veya üstüne takılabilen çıkarılabilir D-Dry membranlı, ayrı giyilebilen termal astarlı, EN 17092 AA sınıfı ve Level 2 koruyuculu kadın adventure montu.",
+    "description": [
+      "Gullfoss D-Dry Kadın, Dainese'nin dört mevsim adventure seyahati için hazırladığı modüler ralli tarzı montun kadın versiyonu. D-Dry membran ayrı bir katman: üretici 10.000 mm su sütununa dayandığını belirtiyor ve cırtlı bağlantılarla montun içine ya da üstüne takılabiliyor. Kullanılmadığında sırttaki kargo cebine konuyor. Termal astar da çıkarılabiliyor ve tek başına giyilebiliyor.",
+      "Göğüsteki büyük hava girişleri havayı omuzların çevresinden sırttaki çıkışa yönlendiriyor; kollarda ayakta sürüşe göre çift sürgülü havalandırma fermuarları var. Mont EN 17092 AA sınıfında; omuz ve dirseklerde havalandırmalı Pro-Armor Level 2 koruyucular standart. Sırt koruyucusu için G1/G2 cebi var ve Smart Air airbag yeleğinin altına giyilmeye uygun. Kalça, kol, bilek ve boyunda ayar, üç dış ve bir su geçirmez iç cep bulunuyor."
+    ],
+    "forWho": [
+      "Tek montla sıcak yazdan yağmurlu sonbahara kadar tur yapan kadın adventure sürücüleri",
+      "Membranı montun üstüne takarak dış kumaşın ıslanmasını önlemek isteyenler",
+      "AA sınıfı, Level 2 koruyucu ve airbag uyumunu orta-üst fiyatta arayanlar"
+    ],
+    "notFor": [
+      "Katman takıp çıkarmakla uğraşmak istemeyenler",
+      "Sport ve pist sürüşü yapanlar"
+    ],
+    "pros": [
+      "EN 17092 AA sınıfı",
+      "Omuz ve dirsekte Level 2 koruyucu",
+      "İçe veya dışa takılabilen D-Dry membran",
+      "Ayrı giyilebilen termal astar ve güçlü havalandırma",
+      "Smart Air uyumu"
+    ],
+    "cons": [
+      "Sırt koruyucu dahil değil",
+      "Yağmur başlayınca membranı takmak için durmak gerekir",
+      "Modüler yapı bazı kullanıcılar için karmaşık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; ralli görünümü ve hacmi şehir için iri kaçabilir.",
+      "uzunYol": "Asıl hedefi; farklı iklimlerden geçen turlar için katmanlı yapı.",
+      "yaz": "Göğüs girişleri ve sırt çıkışıyla sıcakta iyi havalanır.",
+      "kis": "Termal astar ve membranla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "D-Dry membran içte ya da dışta takılarak yağmur koruması sağlar.",
+      "kurye": "Dört mevsim yapısı uygun ama membranın ayrı katman olması sık yağmurda pratik değil."
+    },
+    "verdict": "Gullfoss D-Dry Kadın, değişken iklimde tek montla tur yapmak isteyen kadın sürücü için çok yönlü bir seçim. AA sınıfı, Level 2 koruyucular ve dışa takılabilen membran öne çıkıyor; sırt koruyucunun ayrıca alınması ve katman yönetimi eksi.",
+    "rivals": [
+      "dainese/tempest-4-d-dry-lady",
+      "alpinestars/stella-bogota-pro-drystar",
+      "klim/altitude"
+    ],
+    "priceRange": {
+      "min": 30390,
+      "max": 30390,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-black-black-48-41926",
+        "price": 30390,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran montun üstüne takılabilir mi?",
+        "a": "Evet. Dainese D-Dry membranın cırtlı bağlantılarla montun içine veya üstüne giyilebildiğini belirtiyor."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. G1/G2 sırt koruyucu cebi var; Pro-Armor G1 2.0 veya Wave G1 ayrıca alınır."
+      },
+      {
+        "q": "Erkek modelinden farkı ne?",
+        "a": "Kalıp kadın vücuduna göre ve beden aralığı 38–54. Membran, astar ve koruma donanımı aynı yaklaşımda."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/gullfoss-d-dry---motorcycle-jacket-waterproof-women-2016500020631.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/gullfoss-d-dry---motorcycle-jacket-waterproof-women-2016500020631.html",
+        "type": "manufacturer",
+        "label": "Dainese – Gullfoss D-Dry Women ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-ceketgullfoss-d-dry-jacket-black-black-48-41926",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Gullfoss D-Dry kadın mont",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Black"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Tekstil dış kumaş, dayanıklı kauçuklu kumaş takviyeler, çıkarılabilir ve katlanabilir D-Dry membran, çıkarılabilir termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (çıkarılabilir, içe veya dışa takılır; 10.000 mm)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste 2 büyük giriş, sırtta çıkış kanalı, kollarda çift sürgülü havalandırma",
+      "closure": "Ön fermuar, çift düğme ve kancalı yaka, kalça/kol/bilek ayarı, pantolon bağlantı sistemi",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "super-sprint-d-dry-lady",
+    "brand": "dainese",
+    "name": "Super Sprint D-Dry Kadın",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sabit D-Dry membranlı, çıkarılabilir termal astarlı, EN 17092 A sınıfı, omuz plakalı ve airbag uyumlu kadın sport tekstil montu.",
+    "description": [
+      "Super Sprint D-Dry Kadın, görünümünü yarış tulumlarından alan, kadın vücuduna göre kesilmiş sportif bir tekstil mont. Polyester dış kumaşta esnek paneller var; D-Dry membran sabit olduğu için yağmur başladığında ek katman takmak gerekmiyor. Termal astar çıkarılabiliyor, böylece serin sabahlardan ılık öğlenlere kadar kullanılabiliyor.",
+      "Üretici montu EN 17092 A sınıfında listeliyor. Omuz ve dirseklerde çıkarılabilir Pro-Armor Level 1 koruyucular ve omuzlarda polipropilen plakalar var; sırt koruyucu cebi boş geliyor. Smart Air airbag yeleğinin altına giyilmeye uygun. Göğüste ve sırtta düğmeyle açık tutulabilen doğrudan havalandırma, kalça, kol, bilek ve boyunda ayar, iki dış ve bir iç cep bulunuyor."
+    ],
+    "forWho": [
+      "Sport veya naked motosiklet kullanan, yıl boyu süren kadın sürücüler",
+      "Sabit membranla yağmurda durmadan devam etmek isteyenler",
+      "Dainese kalitesini orta fiyatta arayanlar"
+    ],
+    "notFor": [
+      "En yüksek aşınma sınıfını (AA/AAA) arayanlar",
+      "Uzun tur ve dik oturuşlu adventure kullanımı"
+    ],
+    "pros": [
+      "Sabit D-Dry membran: yağmurda katman takmak gerekmez",
+      "Çıkarılabilir termal astar",
+      "Omuz plakaları ve Smart Air uyumu",
+      "Sport kalıp ve esnek paneller"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Koruyucular Level 1, sırt koruyucu dahil değil",
+      "Sabit membran sıcakta terletebilir"
+    ],
+    "usage": {
+      "sehir": "Sport görünümlü ama günlük kullanıma uygun; cep sayısı sınırlı.",
+      "uzunYol": "Kısa ve orta mesafede rahat; uzun turda cep ve havalandırma sınırlı kalır.",
+      "yaz": "Doğrudan havalandırmalar ılık havada yeterli; sıcak yazda file mont daha uygun.",
+      "kis": "Termal astarla serin günlerde kullanılır; sert kışta ara katman gerekir.",
+      "yagmur": "Sabit D-Dry membran yağmurda koruma sağlar; dış kumaş ıslanabilir.",
+      "sport": "Sport sürüş pozisyonuna göre kalıplanmış.",
+      "kurye": "Su geçirmez yapısı işe yarar ama A sınıfı ve sport kalıbı yoğun kurye kullanımı için ideal değil."
+    },
+    "verdict": "Super Sprint D-Dry Kadın, sport motosiklette yıl boyu sürmek isteyen kadın sürücü için pratik bir su geçirmez mont. Sabit membran ve airbag uyumu artı; A sınıfı sertifika ve Level 1 koruyucular eksi.",
+    "rivals": [
+      "dainese/tempest-4-d-dry-lady",
+      "alpinestars/stella-st-1-wp",
+      "dainese/gullfoss-d-dry-lady"
+    ],
+    "priceRange": {
+      "min": 22790,
+      "max": 22790,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-cek-super-sprint-d-dry-jacket-wmn-blackblackredlava-38--41942",
+        "price": 22790,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Black/Black/Red Lava"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Membran çıkarılabilir mi?",
+        "a": "Hayır. D-Dry membran sabit; yalnız termal astar çıkarılabiliyor."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Dainese montu EN 17092 A sınıfında listeliyor; omuz ve dirsek koruyucuları EN 1621-1 sertifikalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/super-sprint-d-dry---womens-waterproof-motorcycle-jacket-2016500024U70.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/super-sprint-d-dry---womens-waterproof-motorcycle-jacket-2016500024U70.html",
+        "type": "manufacturer",
+        "label": "Dainese – Super Sprint D-Dry Women ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-cek-super-sprint-d-dry-jacket-wmn-blackblackredlava-38--41942",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Super Sprint D-Dry kadın mont",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Black/Red Lava"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Polyester dış kumaş, esnek paneller, yansıtıcı detaylar, sabit D-Dry membran, çıkarılabilir termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "D-Dry (sabit)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs ve sırtta düğmeyle açık tutulabilen doğrudan havalandırma",
+      "closure": "Ön fermuar, boyun/bel/bilek ayarı, pantolon bağlantı sistemi",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "giro-lady",
+    "brand": "shima",
+    "name": "Giro Lady",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Twill kumaşlı, EN 17092-3:2020 AA sınıfı, sırtta Level 2 ve omuz/dirsekte Level 1 koruyucusu dahil, şehir görünümlü kadın motosiklet montu.",
+    "description": [
+      "Giro Lady, Polonyalı Shima'nın günlük giyime yakın görünümlü kadın şehir montu. Dış kumaş twill, üzerinde yansıtıcı detaylar var; esnek malzeme hareket serbestliği sağlıyor. Üretici H3 Heat Free adını verdiği havalandırma sistemini öne çıkarıyor. Ürün sayfasında su geçirmez membran veya termal astar belirtilmiyor.",
+      "Üretici montu EN 17092-3:2020 standardına göre AA sınıfında sertifikalı olarak listeliyor. Koruyucu seti tam geliyor: sırtta AirForce FB21 CE Level 2, omuzlarda AirForce S11 CE Level 1, dirseklerde yüksekliği ayarlanabilir AirForce EK11 CE Level 1. Shima'nın Giro 3.0 pantolonu ve kısa bağlantı fermuarlı diğer Shima pantolonlarıyla birleştirilebiliyor."
+    ],
+    "forWho": [
+      "Şehir içinde günlük kıyafete yakın görünen korumalı mont isteyen kadınlar",
+      "Sırt koruyucusu dahil, AA sınıfı uygun fiyatlı bir mont arayanlar",
+      "İlk montunu alan yeni kadın sürücüler"
+    ],
+    "notFor": [
+      "Yağmurda sürenler: su geçirmez membran belirtilmiyor",
+      "Kışın tek mont olarak kullanmak isteyenler",
+      "Kurye: yağmur ve soğuk koruması olmadığı için yıl boyu kurye kullanımına uygun değil"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Sırt koruyucu (Level 2) dahil tam koruyucu seti",
+      "Günlük giyime yakın görünüm",
+      "Türkiye'de erişilebilir fiyat"
+    ],
+    "cons": [
+      "Su geçirmezlik ve termal astar belirtilmiyor",
+      "Omuz ve dirsek koruyucuları Level 1",
+      "Beden aralığı XS–XL"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; sade görünümü iş ve günlük kıyafetle uyumlu.",
+      "uzunYol": "Kısa turlarda olur; cep ve hava koruması uzun yol için sınırlı.",
+      "yaz": "Havalandırmalı yapısıyla ılık ve sıcak havaya uygun.",
+      "kis": "Soğuk havada yetersiz; altına sıcak katman gerekir.",
+      "yagmur": "Su geçirmezlik belirtilmiyor; yağmurda üstüne yağmurluk giyilmeli.",
+      "kurye": "Yağmur ve soğuk koruması olmadığı için yıl boyu kurye kullanımına uygun değil."
+    },
+    "verdict": "Giro Lady, şehirde sade görünümlü ama gerçekten korumalı bir mont isteyen kadın sürücü için uygun fiyatlı bir seçim. AA sınıfı ve dahil sırt koruyucu güçlü yanları; yağmur ve soğuk için ek katman gerektiğini bilmek gerekiyor.",
+    "rivals": [
+      "alpinestars/stella-t-dyno-air",
+      "scudo/paris-kadin",
+      "dainese/super-sprint-d-dry-lady"
+    ],
+    "priceRange": {
+      "min": 14400,
+      "max": 14400,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/shima-giro-lady-korumali-kadin-motosiklet-montu-siyah",
+        "price": 14400,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Giro Lady su geçirmez mi?",
+        "a": "Shima'nın ürün sayfasında su geçirmez membran belirtilmiyor; yağmurda üstüne yağmurluk giymek gerekir."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Evet. AirForce FB21 CE Level 2 sırt koruyucu montla birlikte geliyor."
+      }
+    ],
+    "manufacturerUrl": "https://shima.pl/shop/giro-lady-jkt-czarny/",
+    "sources": [
+      {
+        "url": "https://shima.pl/shop/giro-lady-jkt-czarny/",
+        "type": "manufacturer",
+        "label": "Shima – Kurtka Giro Lady ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/shima-giro-lady-korumali-kadin-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Shima Giro Lady kadın mont (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.season",
+      "specs.waterproof",
+      "specs.membrane",
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "specs.closure",
+      "sizeChart"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Twill dış kumaş, yansıtıcı kumaş detaylar, esnek malzeme",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "H3 Heat Free havalandırma sistemi",
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "t-jaws-v4-wp",
+    "brand": "alpinestars",
+    "name": "T-Jaws V4 WP",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sport-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "600D/450D polyester gövdeli, sabit su geçirmez membranlı, çıkarılabilir polar termal astarlı, EN 17092 A sınıfı sportif tekstil mont.",
+    "description": [
+      "T-Jaws V4 WP, Alpinestars'ın sport ve naked sürücülere yönelik su geçirmez tekstil montu. Gövde 600D ve 450D takviyeli polyester karışımından, kürek kemiklerinde esnek softshell paneller var. Membran sabit; çıkarılabilir polar destekli termal astar gövdede 100 g, kollarda 80 g dolgu içeriyor. Gövdenin iki yanındaki fermuarlı doğrudan havalandırmalar tüm katmanlardan hava geçiriyor.",
+      "Üretici montu EN 17092 A sınıfı olarak sertifikalandırıyor; omuz ve dirseklerde Nucleon Flex Plus EN 1621-1 Level 1 koruyucular ve omuzlarda GP Lite takviyeler standart. Göğüs ve sırt koruyucu cepleri var, koruyucular ayrıca alınıyor. Bel ve bilekte hacim ayarı, su geçirmez iç cep ve yumuşak astarlı yaka bulunuyor."
+    ],
+    "forWho": [
+      "Sport veya naked motosikletle yıl boyu şehir ve işe gidiş yapanlar",
+      "Yağmurda katman takmadan sürmek isteyenler",
+      "Kurye ve yoğun günlük kullanım için ekonomik, su geçirmez bir mont arayanlar"
+    ],
+    "notFor": [
+      "En yüksek aşınma sınıfını (AA/AAA) arayanlar",
+      "Uzun tur için çok cepli touring montu isteyenler"
+    ],
+    "pros": [
+      "Sabit membran: yağmurda ek katman gerekmez",
+      "Çıkarılabilir termal astar ile geniş mevsim aralığı",
+      "Omuzlarda GP Lite takviye",
+      "Türkiye'de yaygın ve görece uygun fiyatlı"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Koruyucular Level 1; sırt ve göğüs koruyucu dahil değil",
+      "Sabit membran sıcak havada terletebilir"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir kullanımı için pratik ve dayanıklı.",
+      "uzunYol": "Orta mesafede rahat; cep ve havalandırma uzun tur için sınırlı.",
+      "yaz": "Yan havalandırmalar ılık havada yeterli; çok sıcakta file mont daha serin.",
+      "kis": "Termal astarla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "Sabit su geçirmez membranla yağmurda koruma sağlar; dış kumaş ıslanabilir.",
+      "sport": "Sport kalıp ve 3D kesim sürüş pozisyonuna uygun.",
+      "kurye": "Su geçirmez yapısı, çıkarılabilir astarı ve fiyatıyla kurye için mantıklı; sırt koruyucu eklenmeli."
+    },
+    "verdict": "T-Jaws V4 WP, sport motosiklette veya kurye olarak yıl boyu sürenler için dengeli fiyatlı, yağmura hazır bir mont. Sabit membran ve termal astar pratik; A sınıfı ve Level 1 koruyucular nedeniyle sırt koruyucu eklemek iyi olur.",
+    "rivals": [
+      "alpinestars/t-sps-v2-wp",
+      "alpinestars/st-1-wp",
+      "yaren-tekstil/yrn-1493-kislik-kurye"
+    ],
+    "priceRange": {
+      "min": 20700,
+      "max": 20700,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-t-jaws-v4-wp-korumali-motosiklet-montu-siyah-/-siyah",
+        "price": 20700,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL"
+        ],
+        "colors": [
+          "Siyah/Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "T-Jaws V4 WP kurye için uygun mu?",
+        "a": "Su geçirmez sabit membranı ve çıkarılabilir termal astarıyla yıl boyu kullanıma uygun; yoğun kullanımda ayrıca sırt koruyucu takmak önerilir."
+      },
+      {
+        "q": "Sırt koruyucu dahil mi?",
+        "a": "Hayır. Montta sırt ve bölünmüş göğüs koruyucu cepleri var; koruyucular ayrı satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/t-jaws-v4-waterproof-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/t-jaws-v4-waterproof-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – T-Jaws V4 Waterproof Jacket ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-t-jaws-v4-wp-korumali-motosiklet-montu-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars T-Jaws V4 WP mont (siyah/siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible",
+      "sizeChart"
+    ],
+    "colors": [
+      "Black/Red Fluo",
+      "Black/White",
+      "Black/Black",
+      "Black/Ice Gray/Dark Gray",
+      "Black/Dark Blue/Blithe Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "600D ve 450D takviyeli polyester, kürek kemiklerinde esnek softshell, sabit su geçirmez membran, çıkarılabilir polar termal astar (gövde 100 g, kol 80 g)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit su geçirmez membran",
+      "airbagCompatible": null,
+      "ventilation": "Gövdenin iki yanında fermuarlı doğrudan havalandırma",
+      "closure": "Ön fermuar, bel ve bilekte hacim ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "st-7-2l-gore-tex",
+    "brand": "alpinestars",
+    "name": "ST-7 2L GORE-TEX",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "2 katmanlı lamine GORE-TEX dış kabuklu, EN 17092-3:2020 AA sınıfı, Level 2 Nucleon Flex Pro koruyuculu, çıkarılabilir termal astarlı ve Tech-Air uyumlu touring montu.",
+    "description": [
+      "ST-7 2L GORE-TEX, Alpinestars'ın lamine GORE-TEX yapıyı hafif bir pakette sunan yol odaklı touring montu. Üretici ağır arazi yerine daha hafif adventure ve yol kullanımını hedeflediğini belirtiyor. Su geçirmez ve nefes alabilen GORE-TEX doğrudan dış kabuğa lamine; dış kumaş yağmurda su emip ağırlaşmıyor. Göğüs, sırt ve koltuk altlarındaki geniş esnek paneller hareket serbestliği sağlıyor.",
+      "Mont EN 17092-3:2020 AA sınıfında sertifikalı; omuz ve dirseklerde Nucleon Flex Pro EN 1621-1 Level 2 koruyucular standart. Tech-Air airbag sistemine hazır. Çıkarılabilir termal astar gövdede 100 g, kollarda 60 g dolgu içeriyor. Göğüste doğrudan havalandırma panelleri, kollarda fermuarlı açıklıklar ve su geçirmez kargo cepleri bulunuyor."
+    ],
+    "forWho": [
+      "Yıl boyu uzun yol yapan ve yağmurda dış kumaşı ıslanmayan bir mont isteyenler",
+      "AA sınıfı ve Level 2 koruyucuyu tek pakette arayanlar",
+      "Tech-Air airbag kullanan veya kullanmayı düşünenler"
+    ],
+    "notFor": [
+      "Ağır arazi ve enduro kullanımı: üretici daha hafif kullanımı hedefliyor",
+      "Kurye kullanımı: fiyatı günlük yoğun kullanım için yüksek",
+      "Bütçe odaklı alıcılar"
+    ],
+    "pros": [
+      "EN 17092-3:2020 AA sınıfı",
+      "Lamine GORE-TEX: dış kumaş su emmez",
+      "Level 2 omuz ve dirsek koruyucu",
+      "Tech-Air uyumu ve çıkarılabilir termal astar"
+    ],
+    "cons": [
+      "Türkiye fiyatı yüksek",
+      "Sırt koruyucu dahil değil",
+      "Motomax'ta beden seçeneği sınırlı (M, L)"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; touring kesim ve fiyat şehir için fazla.",
+      "uzunYol": "Asıl kullanım alanı; yağmurda ve rüzgârda uzun etaplar için tasarlanmış.",
+      "yaz": "Göğüs panelleri ve kol açıklıkları ılık havada yeterli; sıcak yazda lamine yapı sıcak gelebilir.",
+      "kis": "Termal astarla serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "Güçlü yanı; lamine GORE-TEX yağmuru dış katmanda durdurur.",
+      "kurye": "Dayanıklı ama pahalı; kurye için daha ekonomik su geçirmez montlar mantıklı."
+    },
+    "verdict": "ST-7 2L GORE-TEX, yağmurdan çekinmeden yıl boyu tur yapan sürücü için üst segment bir touring montu. Lamine GORE-TEX, AA sınıfı ve Level 2 koruyucular güçlü; yüksek fiyat ve ayrıca alınacak sırt koruyucu eksi.",
+    "rivals": [
+      "alpinestars/bogota-pro-drystar",
+      "dainese/carve-master-4-gore-tex",
+      "klim/carlsbad"
+    ],
+    "priceRange": {
+      "min": 58210,
+      "max": 58210,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-st-7-2l-gore-tex-korumali-motosiklet-montu-siyah-/-kahve",
+        "price": 58210,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "M",
+          "L"
+        ],
+        "colors": [
+          "Siyah/Kahve"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "ST-7 2L GORE-TEX hangi sertifikaya sahip?",
+        "a": "Alpinestars montu EN 17092-3:2020 AA sınıfında; omuz ve dirsek koruyucularını EN 1621-1 Level 2 olarak listeliyor."
+      },
+      {
+        "q": "Airbag ile kullanılabilir mi?",
+        "a": "Evet, üretici montun Tech-Air hazır olduğunu belirtiyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Alpinestars erkek tekstil mont tablosuna göre göğüs çevresine bakılır; örneğin M 94,5–100 cm, L 100–105,5 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/st-7-2l-gore-tex-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/st-7-2l-gore-tex-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – ST-7 2L GORE-TEX Jacket ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/SIZE_CHART_TEXTILE_MENS_MOTO_JACKET.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars – erkek tekstil mont resmi beden tablosu",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-st-7-2l-gore-tex-korumali-motosiklet-montu-siyah-/-kahve",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars ST-7 2L Gore-Tex mont (siyah/kahve)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Ice Gray/Dark Blue/Black",
+      "Gobi Brown/Black",
+      "Black/Dark Gray",
+      "Deep Gray/Black/Diva Khaki"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 89,
+        "max": 94.5
+      },
+      {
+        "size": "M",
+        "min": 94.5,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 105.5
+      },
+      {
+        "size": "XL",
+        "min": 105.5,
+        "max": 111
+      },
+      {
+        "size": "2XL",
+        "min": 111,
+        "max": 116.5
+      },
+      {
+        "size": "3XL",
+        "min": 116.5,
+        "max": 122
+      },
+      {
+        "size": "4XL",
+        "min": 122,
+        "max": 127.5
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "2 katmanlı lamine GORE-TEX dış kabuk, göğüs/sırt/koltuk altında esnek paneller, çıkarılabilir termal astar (gövde 100 g, kol 60 g)",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-3:2020",
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "GORE-TEX 2L lamine",
+      "airbagCompatible": true,
+      "ventilation": "Göğüste doğrudan havalandırma panelleri, kollarda fermuarlı açıklıklar",
+      "closure": "Ön fermuar, şok kordonlu dik yaka",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "cusco-drystar",
+    "brand": "alpinestars",
+    "name": "Cusco Drystar",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "touring-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Geri dönüştürülmüş ripstop ve softshell gövdeli, içe veya dışa giyilebilen çıkarılabilir Drystar membranlı, AA sınıfı, Level 2 koruyuculu ve Tech-Air uyumlu yol adventure montu.",
+    "description": [
+      "Cusco Drystar, Alpinestars'ın yol odaklı adventure touring montu. Dış kabuk geri dönüştürülmüş ripstop ve 600D polyesterden, koltuk altlarında esnek softshell paneller var. Su ve rüzgâr geçirmez Drystar katmanı çıkarılabiliyor; montun içine ya da üstüne giyilebiliyor ve kendi entegre çantasında saklanıyor. Üretici bu katman için 15.000 g/m²/24 saat nefes alabilirlik ve 7.000/6.000 mm su sütunu değerleri veriyor.",
+      "Alpinestars montu AA sınıfı olarak tanımlıyor; omuz ve dirseklerde Nucleon Flex Pro CE Level 2 koruyucular standart, Tech-Air 5 ve Tech-Air 3 airbag sistemleriyle uyumlu. Göğüs, sırt ve kollarda geniş fermuarlı havalandırma panelleri sıcak havada da kullanım sağlıyor. Kol ve belde ayar, şok kordonlu yaka ve bel arkasında saklama cebi bulunuyor."
+    ],
+    "forWho": [
+      "Yazın sıcağında da kullanmak isteyen yol adventure ve touring sürücüleri",
+      "Membranı yağmurda montun üstüne takmak isteyenler",
+      "Level 2 koruyucu ve airbag uyumunu orta-üst fiyatta arayanlar"
+    ],
+    "notFor": [
+      "Sert kış koşulları: termal astar listelenmiyor",
+      "Yağmurda katman takmakla uğraşmak istemeyenler"
+    ],
+    "pros": [
+      "AA sınıfı ve Level 2 omuz/dirsek koruyucu",
+      "Çok bölgeli geniş havalandırma",
+      "İçe veya dışa takılabilen Drystar katmanı",
+      "Tech-Air 5 ve 3 uyumu"
+    ],
+    "cons": [
+      "Termal astar listelenmiyor; kışın ara katman gerekir",
+      "Sırt koruyucu dahil değil",
+      "Üretici sayfasında EN 17092 bölüm numarası belirtilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; adventure kesim şehirde iri durabilir.",
+      "uzunYol": "Asıl kullanım alanı; geniş havalandırma ve katmanlı yapı tur için uygun.",
+      "yaz": "Göğüs, sırt ve kol panelleri açıldığında sıcak havada iyi havalanır.",
+      "kis": "Termal astar olmadığı için soğukta altına sıcak katman gerekir.",
+      "yagmur": "Drystar katmanı takıldığında yağmur ve rüzgâr koruması sağlar; takmak için durmak gerekir.",
+      "kurye": "Dayanıklı ve havadar ama membranın ayrı katman olması sık yağmurda pratik değil."
+    },
+    "verdict": "Cusco Drystar, sıcak ve ılıman havada adventure turu yapan sürücü için havadar ve iyi korumalı bir mont. AA sınıfı, Level 2 koruyucular ve Tech-Air uyumu artı; termal astar olmaması ve membranın ayrı katman olması eksi.",
+    "rivals": [
+      "alpinestars/bogota-pro-drystar",
+      "alpinestars/halo-drystar",
+      "dainese/gullfoss-d-dry"
+    ],
+    "priceRange": {
+      "min": 28770,
+      "max": 28770,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-cusco-ds-wp-korumali-motosiklet-montu-siyah",
+        "price": 28770,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Drystar katmanı montun üstüne giyilebilir mi?",
+        "a": "Evet. Alpinestars çıkarılabilir Drystar katmanının montun içine ya da üstüne giyilebildiğini ve entegre çantasında saklandığını belirtiyor."
+      },
+      {
+        "q": "Airbag uyumlu mu?",
+        "a": "Evet, üretici Tech-Air 5 ve Tech-Air 3 airbag sistemleriyle uyumlu olduğunu belirtiyor."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Alpinestars erkek tekstil mont tablosuna göre göğüs çevresine bakılır; örneğin L 100–105,5 cm, XL 105,5–111 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/cusco-drystar-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/cusco-drystar-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Cusco Drystar Jacket ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/SIZE_CHART_TEXTILE_MENS_MOTO_JACKET.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars – erkek tekstil mont resmi beden tablosu",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-cusco-ds-wp-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Cusco DS WP mont (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Black",
+      "Ice Gray/Mid Gray/Deep Gray",
+      "Walnut/Aluminum/Black",
+      "Black/Deep Gray"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 89,
+        "max": 94.5
+      },
+      {
+        "size": "M",
+        "min": 94.5,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 105.5
+      },
+      {
+        "size": "XL",
+        "min": 105.5,
+        "max": 111
+      },
+      {
+        "size": "2XL",
+        "min": 111,
+        "max": 116.5
+      },
+      {
+        "size": "3XL",
+        "min": 116.5,
+        "max": 122
+      },
+      {
+        "size": "4XL",
+        "min": 122,
+        "max": 127.5
+      },
+      {
+        "size": "5XL",
+        "min": 127.5,
+        "max": 133
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Geri dönüştürülmüş ripstop ve 600D polyester dış kabuk, koltuk altında esnek softshell, çıkarılabilir Drystar katmanı",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": "AA",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar (çıkarılabilir, içe veya dışa giyilir)",
+      "airbagCompatible": true,
+      "ventilation": "Göğüs, sırt ve kollarda fermuarlı havalandırma panelleri",
+      "closure": "Ön fermuar, kol ve bel ayarı, şok kordonlu yaka",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "mospher-wp",
+    "brand": "alpinestars",
+    "name": "Mospher WP",
+    "category": "mont",
+    "subcategories": [
+      "tekstil-mont",
+      "sehir-mont",
+      "4-mevsim-mont"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Sabit su geçirmez membranlı, çıkarılabilir termal yelekli, kapüşonlu, EN 17092-4:2020 A sınıfı şehir parka montu.",
+    "description": [
+      "Mospher WP, Alpinestars'ın işe gidiş yapan şehir sürücüleri için hazırladığı dört mevsim parka. Taktik giyimden esinlenen kesimde yelek görünümlü ön panel ve çok sayıda büyük cep var. Kaplamalı ripstop dış kumaş dirsek, kol, kapüşon ve bel arkasında 300D ripstop ile güçlendirilmiş. Bantlanmış dikişli sabit membran su geçirmezlik sağlıyor; önde su tahliye kanalı ve metal havalandırma delikleri bulunuyor.",
+      "Üretici montu EN 17092-4:2020 A sınıfı olarak sertifikalandırıyor; omuz ve dirseklerde esnek, havalandırmalı Nucleon Flex Plus EN 1621-1 Level 1 koruyucular standart. Çıkarılabilir termal yelek soğuk günlerde ek yalıtım sağlıyor. Kollarda ve sırtta fermuarlı doğrudan havalandırma, sürüşte savrulmaması için çıtçıtla sabitlenen kapüşon, su geçirmez ön ve iç cepler mevcut."
+    ],
+    "forWho": [
+      "Yıl boyu motosikletle işe gidip gelen şehir sürücüleri",
+      "Motosiklet montu gibi görünmeyen, kapüşonlu bir parka isteyenler",
+      "Kurye olarak yağmurda ve soğukta çalışan, cep ihtiyacı yüksek sürücüler"
+    ],
+    "notFor": [
+      "Sport sürüş ve yüksek hız: parka kesimi rüzgârda dalgalanabilir",
+      "En yüksek aşınma sınıfını arayanlar"
+    ],
+    "pros": [
+      "Sabit membran ve bantlı dikişler",
+      "Çıkarılabilir termal yelek",
+      "Çok sayıda büyük ve su geçirmez cep",
+      "Sabitlenebilen kapüşon ve yansıtıcı logolar"
+    ],
+    "cons": [
+      "EN 17092 sınıfı A",
+      "Koruyucular Level 1; sırt koruyucu dahil değil",
+      "Kollarda termal katman yok, yalnız yelek"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı; günlük kıyafet görünümü ve bol cep.",
+      "uzunYol": "Kısa turlarda olur; parka kesimi otoban hızında rahatsız edebilir.",
+      "yaz": "Kol ve sırt havalandırmaları ılık havada işe yarar; sıcak yazda ağır gelir.",
+      "kis": "Termal yelekle serin ve soğuk günlerde kullanılabilir.",
+      "yagmur": "Sabit membran, bantlı dikişler ve kapüşonla yağmura hazır.",
+      "kurye": "Su geçirmez yapısı, cepleri ve termal yeleğiyle kurye için uygun; sırt koruyucu eklenmeli."
+    },
+    "verdict": "Mospher WP, şehirde yıl boyu motosiklet kullanan ve parka görünümü isteyen sürücü için pratik, yağmura hazır bir seçim. Cepler ve sabit membran güçlü; A sınıfı ve Level 1 koruyucular nedeniyle koruma tarafı orta seviyede.",
+    "rivals": [
+      "alpinestars/st-1-wp",
+      "alpinestars/t-jaws-v4-wp",
+      "scudo/roma"
+    ],
+    "priceRange": {
+      "min": 29050,
+      "max": 29050,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-mospher-wp-korumali-motosiklet-montu-siyah",
+        "price": 29050,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mospher WP su geçirmez mi?",
+        "a": "Evet. Alpinestars dikişleri bantlanmış, sabit ve %100 su geçirmez membran kullanıldığını belirtiyor."
+      },
+      {
+        "q": "Kurye için uygun mu?",
+        "a": "Sabit membranı, termal yeleği ve su geçirmez cepleriyle yağmurlu ve serin günlerde kurye kullanımına uygun; sırt koruyucu ayrıca takılmalı."
+      },
+      {
+        "q": "Beden nasıl seçilir?",
+        "a": "Alpinestars erkek tekstil mont tablosuna göre göğüs çevresine bakılır; örneğin M 94,5–100 cm, L 100–105,5 cm."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/mospher-wp-jacket",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/mospher-wp-jacket",
+        "type": "manufacturer",
+        "label": "Alpinestars – Mospher WP Jacket ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/SIZE_CHART_TEXTILE_MENS_MOTO_JACKET.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars – erkek tekstil mont resmi beden tablosu",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-mospher-wp-korumali-motosiklet-montu-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Mospher WP mont (siyah)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn",
+      "specs.airbagCompatible"
+    ],
+    "colors": [
+      "Black",
+      "Fur Gray/Black/Ice",
+      "Black/Dark Petrol"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 89,
+        "max": 94.5
+      },
+      {
+        "size": "M",
+        "min": 94.5,
+        "max": 100
+      },
+      {
+        "size": "L",
+        "min": 100,
+        "max": 105.5
+      },
+      {
+        "size": "XL",
+        "min": 105.5,
+        "max": 111
+      },
+      {
+        "size": "2XL",
+        "min": 111,
+        "max": 116.5
+      },
+      {
+        "size": "3XL",
+        "min": 116.5,
+        "max": 122
+      },
+      {
+        "size": "4XL",
+        "min": 122,
+        "max": 127.5
+      }
+    ],
+    "sizeChartMeasure": "Göğüs çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Kaplamalı ripstop dış kumaş, dirsek/kol/kapüşon/bel arkasında 300D ripstop takviye, sabit su geçirmez membran, çıkarılabilir termal yelek",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-4:2020",
+      "ceClass": "A",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": false
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Sabit su geçirmez membran (bantlı dikiş)",
+      "airbagCompatible": null,
+      "ventilation": "Kollarda ve sırtta fermuarlı doğrudan havalandırma",
+      "closure": "Ön fermuar, ayarlanabilir kol/kapüşon/bilek/etek, çıtçıtla sabitlenen kapüşon",
+      "madeIn": null
+    }
+  }
+]

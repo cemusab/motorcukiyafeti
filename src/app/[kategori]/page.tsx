@@ -56,6 +56,21 @@ export default async function CategoryPage({ params }: PageProps<"/[kategori]">)
           ))}
         </nav>
       </Container>
+      {c.slug === "kask" && (
+        <Container className="mt-6">
+          <Notice>
+            <strong>Güvenlik onayı:</strong> ECE 22.06 onayı üreticinin resmi kaynağıyla doğrulanan kasklarda yeşil <strong>ECE 22.06</strong>, doğrulanamayanlarda turuncu <strong>ECE doğrulanıyor</strong> etiketi bulunur. Filtrelerden yalnız ECE 22.06 onaylıları seçebilirsin. Çene kayışında güvenlik onayı etiketi olmayan kask alma.
+            {getGuide("kask-sertifikalari-ne-anlama-gelir") && (
+              <>
+                {" "}
+                <Link href="/rehber/kask-sertifikalari-ne-anlama-gelir" className="font-semibold underline">
+                  Sertifikalar ne anlama gelir?
+                </Link>
+              </>
+            )}
+          </Notice>
+        </Container>
+      )}
       <Container className="mt-6">
         {items.length ? (
           <ProductListing items={items} category={c.slug} />

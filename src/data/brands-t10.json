@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "acerbis",
+    "name": "Acerbis",
+    "country": "İtalya",
+    "founded": 1973,
+    "website": "https://www.acerbis.com/",
+    "about": [
+      "Acerbis, 1973'ten beri motosiklet dünyasında olan İtalyan bir marka. Kurucu Franco Acerbis'in ABD yarış pistlerinde arazi motosikletleri için plastik parça üreticileriyle tanışmasıyla başlayan şirket, bugün arazi motosikletleri için plastik kitler, depolar, el korumaları ve fenerlerle tanınıyor.",
+      "Marka, sürücü ekipmanında da kros/enduro ve dual-road kaskları, gözlükler, koruyucular, mont ve botlar üretiyor. Kask tarafında termoplastik giriş modellerinden cam elyafı ve karbon kabuklu modellere uzanan bir arazi serisi bulunuyor."
+    ],
+    "strengths": [
+      "Arazi motosikleti plastikleri ve koruma parçaları",
+      "Uygun fiyatlı ECE 22.06 kros/enduro kaskları",
+      "Kask yedek parçalarının (siperlik, iç astar) ayrı satılması"
+    ],
+    "categories": [
+      "kask",
+      "koruma"
+    ],
+    "families": [
+      {
+        "name": "X-Track 22-06",
+        "note": "Cam elyafı kabuklu, iki dış kabuk boyutlu kros/enduro kaskı.",
+        "url": "https://www.acerbis.com/eu/motorsport/helmets/offroad/0025032"
+      },
+      {
+        "name": "Linear 22-06",
+        "note": "Termoplastik kabuklu giriş seviyesi kros/enduro kaskı.",
+        "url": "https://www.acerbis.com/eu/motorsport/helmets/offroad/0025316"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Acerbis kask serisi",
+        "url": "https://www.acerbis.com/eu/motorsport/helmets",
+        "reason": "Arazi, jet, modüler ve kapalı kasklar tek sayfada."
+      }
+    ],
+    "alternatives": [
+      "airoh",
+      "leatt"
+    ],
+    "history": [
+      {
+        "year": 1973,
+        "event": "Acerbis motosiklet dünyasına adım attı."
+      }
+    ],
+    "strongestLine": "Arazi motosikleti plastikleri ve kros/enduro ekipmanı",
+    "sources": [
+      {
+        "url": "https://www.acerbis.com/eu/history",
+        "type": "manufacturer",
+        "label": "Acerbis tarihçe sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.acerbis.com/eu/motorsport/helmets/offroad",
+        "type": "manufacturer",
+        "label": "Acerbis arazi kaskları",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "slug": "just1",
+    "name": "Just1",
+    "country": "İtalya",
+    "founded": null,
+    "website": "https://just1racing.com/",
+    "about": [
+      "Just1, İtalya'nın Massa e Cozzile kentindeki H&H Sports Protection srl çatısı altında satılan bir kask ve ekipman markası. Ürün yelpazesi kros/enduro, yol ve bisiklet kasklarından gözlük ve sürüş giysilerine uzanıyor.",
+      "Yol kasklarında J-STR gibi ABS kabuklu, ECE 22.06 onaylı ve uygun fiyatlı modellerle öne çıkıyor; arazi tarafında ise J22, J39, J40 gibi kros kaskları sunuyor."
+    ],
+    "strengths": [
+      "Uygun fiyatlı ECE 22.06 kasklar",
+      "Kros/enduro kask seçenekleri",
+      "Acil durum yanak pedi çıkarma sistemi (J.1.E.R.)"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "J-STR",
+        "note": "ABS kabuklu, ECE 22.06 onaylı giriş seviyesi kapalı kask.",
+        "url": "https://just1racing.com/products/j-str"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Just1 J-STR",
+        "url": "https://just1racing.com/products/j-str",
+        "reason": "Türkiye'de en uygun fiyatlı ECE 22.06 kapalı kasklardan."
+      }
+    ],
+    "alternatives": [
+      "airoh",
+      "ls2"
+    ],
+    "history": [],
+    "strongestLine": "Uygun fiyatlı kros ve yol kaskları",
+    "sources": [
+      {
+        "url": "https://just1racing.com/",
+        "type": "manufacturer",
+        "label": "Just1 resmi sitesi",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "slug": "torc",
+    "name": "Torc",
+    "country": "ABD",
+    "founded": null,
+    "website": "https://www.torchelmets.com/",
+    "about": [
+      "Torc, Kaliforniya kökenli bir motosiklet kaskı markası. Marka kendini Kaliforniya'nın farklı arazilerine ve sürüş özgürlüğüne duyulan sevgiden doğmuş olarak tanımlıyor; ürün yelpazesi kapalı, çene açılır, açık ve yarım kasklar ile Bluetooth'lu modellerden oluşuyor.",
+      "Kasklarının çoğu hem ABD DOT hem Avrupa ECE onayıyla satılıyor; güncel modellerde (T-15, Malibu) ECE 22.06 onayı üretici sayfasında belirtiliyor. Türkiye'de Motomax üzerinden uygun fiyatlı kapalı ve çene açılır modelleri satılıyor."
+    ],
+    "strengths": [
+      "Çok uygun fiyatlı güneş vizörlü kapalı ve çene açılır kasklar",
+      "DOT ve ECE çift onaylı modeller",
+      "Ağırlığı beden grubuyla veren şeffaf ürün sayfaları"
+    ],
+    "categories": [
+      "kask"
+    ],
+    "families": [
+      {
+        "name": "T-15",
+        "note": "Güneş vizörlü, termoplastik kabuklu giriş seviyesi kapalı kask.",
+        "url": "https://www.torchelmets.com/products/t-15-shock-fluo-red"
+      },
+      {
+        "name": "T-28",
+        "note": "Tek tuşla açılan, güneş vizörlü çene açılır kask.",
+        "url": "https://www.torchelmets.com/products/t-28-matte-black"
+      },
+      {
+        "name": "Malibu",
+        "note": "Cam elyafı kabuklu, 1.250 g kapalı kask.",
+        "url": "https://www.torchelmets.com/products/malibu-matte-black"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Torc T-15",
+        "url": "https://www.torchelmets.com/products/t-15-shock-fluo-red",
+        "reason": "DOT & ECE 22.06, güneş vizörü ve Pinlock hazırlığı çok düşük fiyatta."
+      }
+    ],
+    "alternatives": [
+      "ls2",
+      "mt-helmets",
+      "just1"
+    ],
+    "history": [],
+    "strongestLine": "Bütçe dostu güneş vizörlü kapalı ve çene açılır kasklar",
+    "sources": [
+      {
+        "url": "https://www.torchelmets.com/",
+        "type": "manufacturer",
+        "label": "Torc resmi sitesi",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

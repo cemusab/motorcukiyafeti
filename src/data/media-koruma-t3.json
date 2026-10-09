@@ -1,0 +1,92 @@
+[
+  {
+    "product": "leatt/body-protector-3df-airfit-lite-evo",
+    "images": [
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/leatt_bp_3dfairfitliteevo_fr_5024060600_2b286c87-0827-4f7a-a9d9-b34a0de381b5.png",
+        "alt": "Leatt Body Protector 3DF AirFit Lite Evo gövde koruyucu, önden görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/body-protector-3df-airfit-lite-evo"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/leatt_bp_3dfairfitliteevo_br_5024060600_2690ab46-8e17-49d6-96c4-88d5d3a4c1d7.png",
+        "alt": "Leatt 3DF AirFit Lite Evo, sırt bölümü",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/body-protector-3df-airfit-lite-evo"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/leatt_bp_3dfairfitliteevo_fl_5024060600_3b56d121-dfa1-481e-84e0-69cf2001ff32.png",
+        "alt": "Leatt 3DF AirFit Lite Evo, yan önden görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/body-protector-3df-airfit-lite-evo"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "esKA1IJ-DPo",
+        "title": "Leatt 3DF AirFit Lite EVO Body Protector",
+        "channel": "Rocky Mountain ATV MC",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "alpinestars/nucleon-kr-2",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/CF2835AE-6448-4992-9FFD-9CAF2B4976CA_843c9305-5135-4bf1-879f-ec55fc3ea907.png",
+        "alt": "Alpinestars Nucleon KR-2 sırt koruyucu, siyah/kırmızı",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/nucleon-kr-2-back-protector-black-red"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "nEVParfN2nk",
+        "title": "Alpinestars Nucleon KR-2 Adventure Touring Back Protector Review at RevZilla.com",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "alpinestars/bionic-flex-knee",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/6505121-13-fr_bionic-flex-knee-protector_b001956b-285e-49e4-a94a-23b3bb3af382.png",
+        "alt": "Alpinestars Bionic Flex dizlik, siyah/kırmızı, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/bionic-flex-knee-protector-black-red"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/6505121-13-ba_bionic-flex-knee-protector_5eae3721-1b3d-423d-9754-af7ecac387ac.png",
+        "alt": "Alpinestars Bionic Flex dizlik, arkadan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/bionic-flex-knee-protector-black-red"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/bionic-flex-elbow",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/6505221-13-fr_bionic-flex-elbow-protector_fca88d26-e045-4d04-ba8a-977247ca188c.png",
+        "alt": "Alpinestars Bionic Flex dirseklik, siyah/kırmızı, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/bionic-flex-elbow-protector-black-red"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/6505221-13-ba_bionic-flex-elbow-protector_31214407-ce1c-4a15-b1ea-ba9d12e5f973.png",
+        "alt": "Alpinestars Bionic Flex dirseklik, arkadan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/bionic-flex-elbow-protector-black-red"
+      }
+    ],
+    "videos": []
+  }
+]

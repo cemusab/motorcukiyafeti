@@ -1900,22 +1900,51 @@
       "sas-tec/sc-1-fb2-l"
     ],
     "priceRange": {
-      "min": 999,
-      "max": 999,
+      "min": 990,
+      "max": 1200,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09",
+      "note": "Fiyat ölçüye göre değişiyor (S 990, M 1.140, L 1.200 TL); X-Large ölçü kontrol tarihinde fiyatsız ve stoksuz."
     },
     "offers": [
       {
         "seller": "Vecton (Tech90)",
-        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-132",
-        "price": 999,
+        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-222",
+        "price": 990,
         "salePrice": null,
         "currency": "TRY",
         "inStock": true,
-        "sizes": [],
+        "sizes": [
+          "S"
+        ],
         "colors": [],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "seller": "Vecton (Tech90)",
+        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-222",
+        "price": 1140,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "M"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "seller": "Vecton (Tech90)",
+        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-222",
+        "price": 1200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "L"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
       }
     ],
     "faq": [
@@ -1928,16 +1957,16 @@
         "a": "Tech90, ImpacTec koruyucuların Türkiye'de üretildiğini ve Avrupa'da da satıldığını belirtiyor."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-132",
+    "manufacturerUrl": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-222",
     "sources": [
       {
-        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-132",
+        "url": "https://vecton.com.tr/motosiklet-sirt-koruma-impactec-tp-06-level-2-222",
         "type": "manufacturer",
         "label": "Vecton (Tech90 resmi mağazası) – ImpacTec TP-06 Level 2 sırt koruma ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "medium",
     "unverified": [
       "specs.material",
@@ -2030,19 +2059,20 @@
       "min": 780,
       "max": 780,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09",
+      "note": "Resmi mağazada 980 TL liste fiyatı üzerinden indirimli fiyat (KDV dahil)."
     },
     "offers": [
       {
         "seller": "Vecton (Tech90)",
-        "url": "https://vecton.com.tr/impactec-level-2-diz-dirsek-koruma-tp-02",
-        "price": 780,
-        "salePrice": null,
+        "url": "https://vecton.com.tr/impactec-tp-02-level-2-diz-dirsek-koruma-seti-221",
+        "price": 980,
+        "salePrice": 780,
         "currency": "TRY",
         "inStock": true,
         "sizes": [],
         "colors": [],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "faq": [
@@ -2055,16 +2085,16 @@
         "a": "Evet, üretici koruyucunun diz ve dirsekte, sağ ve sol tarafta kullanılabildiğini belirtiyor."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/impactec-level-2-diz-dirsek-koruma-tp-02",
+    "manufacturerUrl": "https://vecton.com.tr/impactec-tp-02-level-2-diz-dirsek-koruma-seti-221",
     "sources": [
       {
-        "url": "https://vecton.com.tr/impactec-level-2-diz-dirsek-koruma-tp-02",
+        "url": "https://vecton.com.tr/impactec-tp-02-level-2-diz-dirsek-koruma-seti-221",
         "type": "manufacturer",
         "label": "Vecton (Tech90 resmi mağazası) – ImpacTec TP-02 Level 2 diz & dirsek koruma ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "medium",
     "unverified": [
       "specs.material",

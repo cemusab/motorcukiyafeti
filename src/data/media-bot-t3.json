@@ -1,0 +1,157 @@
+[
+  {
+    "product": "dainese/metractive-d-wp-womens",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/0031891d-d043-4400-8098-c26076980402/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Metractive D-WP kadın motosiklet ayakkabısı, siyah/beyaz",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/metractive-d-wp---womens-waterproof-motorcycle-shoes-202775234622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/6a282136-93b0-4a23-89cb-4210ebe750ac/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Metractive D-WP kadın ayakkabı, yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/metractive-d-wp---womens-waterproof-motorcycle-shoes-202775234622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/54fe53c2-0eea-4a39-9f04-5a1c2a46c7c6/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Metractive D-WP kadın ayakkabı, taban ve iç yan",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/metractive-d-wp---womens-waterproof-motorcycle-shoes-202775234622.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/stella-chrome-drystar",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2543223-1832-r3_stella-chrome-drystar-shoe_f695d420-4a18-4bb3-bc13-e173311eceb2_1.png",
+        "alt": "Alpinestars Stella Chrome Drystar kadın ayakkabı, siyah/beyaz/pembe",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/chrome-womens-drystar-sup-reg-sup-shoes-black-white-diva-pink"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2543223-1832-fr_stella-chrome-waterproof-shoe_3a80e7cb-1e3a-4a06-8211-cfcae8754f21_1.png",
+        "alt": "Alpinestars Stella Chrome Drystar, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/chrome-womens-drystar-sup-reg-sup-shoes-black-white-diva-pink"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2543223-1832-r1_stella-chrome-drystar-shoe_d2e83f35-8990-4ea0-9d07-0d40967ce3d6_1.png",
+        "alt": "Alpinestars Stella Chrome Drystar, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/chrome-womens-drystar-sup-reg-sup-shoes-black-white-diva-pink"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/xt-8-gore-tex",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037524-1100-r3_xt-8-gore-tex-boot_1198494e-df99-48e4-aefc-3779d9749497.png",
+        "alt": "Alpinestars XT-8 Gore-Tex adventure botu, siyah",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/xt-8-gore-tex-boots-black-black"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037524-1100-fr_xt-8-gore-tex-boot_5babd405-8ba6-4149-9dc8-4061e9adb92c.png",
+        "alt": "Alpinestars XT-8 Gore-Tex, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/xt-8-gore-tex-boots-black-black"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2037524-1100-r1_xt-8-gore-tex-boot_0c5b9f24-40f2-4711-9d18-973c78a1060a.png",
+        "alt": "Alpinestars XT-8 Gore-Tex, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/xt-8-gore-tex-boots-black-black"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "HTbGPmss4WQ",
+        "title": "Alpinestars XT-8 Gore-Tex ADV Boots",
+        "channel": "Rocky Mountain ATV MC",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "alpinestars/tech-3-enduro-waterproof",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2013324-12-r3_tech-3-enduro-waterproof-boot.png",
+        "alt": "Alpinestars Tech 3 Enduro Waterproof bot, siyah/beyaz",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-3-enduro-waterproof-boots-black-white"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2013324-12-fr_tech-3-enduro-waterproof-boot.png",
+        "alt": "Alpinestars Tech 3 Enduro Waterproof, önden görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-3-enduro-waterproof-boots-black-white"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/2013324-12-r1_tech-3-enduro-waterproof-boot.png",
+        "alt": "Alpinestars Tech 3 Enduro Waterproof, yandan görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/tech-3-enduro-waterproof-boots-black-white"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "zChm3QPxQis",
+        "title": "Bota Alpinestars Tech 3 Enduro Wp Impermeável",
+        "channel": "RS1 Moto",
+        "kind": "inceleme",
+        "lang": "pt",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "sidi/mid-adventure-2-gore",
+    "images": [
+      {
+        "url": "https://sidi.com/cdn/shop/files/TOUR_MADV2G_BK_01_f24ee288-a979-49f8-9327-531fb966d469.png",
+        "alt": "Sidi Mid Adventure 2 Gore adventure botu, siyah",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/mid-adventure-2-gore-nene-28"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/TOUR_MADV2G_BK_02_HD_2019ebea-468e-4301-a7df-3ba627aba4c5.jpg",
+        "alt": "Sidi Mid Adventure 2 Gore, yandan görünüm",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/mid-adventure-2-gore-nene-28"
+      },
+      {
+        "url": "https://sidi.com/cdn/shop/files/TOUR_MADV2G_BK_03_HD_b789667b-1b8a-4da3-839e-89f5950782a3.jpg",
+        "alt": "Sidi Mid Adventure 2 Gore, detay görünümü",
+        "credit": "Sidi",
+        "sourcePage": "https://sidi.com/en/products/mid-adventure-2-gore-nene-28"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "UmgUQaitLb8",
+        "title": "Sidi Mid Adventure 2 Boots Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "youtubeId": "TbYRgL9ndhg",
+        "title": "SIDI Adventure 2 Gore-Tex Mid Boots Review",
+        "channel": "RevZilla",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

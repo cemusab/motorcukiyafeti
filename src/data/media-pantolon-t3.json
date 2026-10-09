@@ -1,0 +1,86 @@
+[
+  {
+    "product": "dainese/gullfoss-d-dry-pants-lady",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/0f236970-4671-496e-8664-192f32b44f4e/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Gullfoss D-Dry Kadın Pantolon motosiklet pantolonu, resmi ürün görseli 1",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/gullfoss%C2%A0d-dry---womens-all-seasons-motorcycle-pants-2016700014631.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/4adc5856-1b9f-4caa-9968-e9c0571597d0/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Gullfoss D-Dry Kadın Pantolon motosiklet pantolonu, resmi ürün görseli 2",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/gullfoss%C2%A0d-dry---womens-all-seasons-motorcycle-pants-2016700014631.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/56e045dd-ca29-4e08-b91c-c37d0df293e3/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Gullfoss D-Dry Kadın Pantolon motosiklet pantolonu, resmi ürün görseli 3",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/gullfoss%C2%A0d-dry---womens-all-seasons-motorcycle-pants-2016700014631.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "dainese/carve-master-4-gore-tex-pants-lady",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/bcc0454c-0589-4285-9671-3466a98a871e/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Carve Master 4 GORE-TEX Kadın Pantolon motosiklet pantolonu, resmi ürün görseli 1",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/carve-master-4-gore-tex---womens-winter-motorcycle-pants-2016100003001.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/b2491571-0f4e-4456-a6c3-9275dea93da9/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Carve Master 4 GORE-TEX Kadın Pantolon motosiklet pantolonu, resmi ürün görseli 2",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/carve-master-4-gore-tex---womens-winter-motorcycle-pants-2016100003001.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/stella-andes-v3-drystar-pants",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/3237521-10-fr_stella-andes-v3-drystar-pants_dc6306a3-e000-4f0b-aa0d-c8aad847a44f.png?v=1783760146",
+        "alt": "Alpinestars Stella Andes V3 Drystar Pantolon motosiklet pantolonu, resmi ürün görseli 1",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-andes-v3-drystar-sup-reg-sup-pants"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/3237521-10-ba_stella-andes-v3-drystar-pants_c8d4632d-3efe-40bf-9b5a-4d77a8447ad5.png?v=1783760150",
+        "alt": "Alpinestars Stella Andes V3 Drystar Pantolon motosiklet pantolonu, resmi ürün görseli 2",
+        "credit": "Alpinestars",
+        "sourcePage": "https://www.alpinestars.com/products/stella-andes-v3-drystar-sup-reg-sup-pants"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "shima/zenith-lady",
+    "images": [
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/01_SHIMA_ZENITH_BLACK_LADY_FRONT_2500x2500.avif",
+        "alt": "Shima Zenith Lady Jean motosiklet pantolonu, resmi ürün görseli 1",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/zenith-lady-pnt-czarny/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/03_SHIMA_ZENITH_BLACK_LADY_BACK_2500x2500.avif",
+        "alt": "Shima Zenith Lady Jean motosiklet pantolonu, resmi ürün görseli 2",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/zenith-lady-pnt-czarny/"
+      },
+      {
+        "url": "https://shima.pl/wp-content/uploads/2025/04/02_SHIMA_ZENITH_BLACK_LADY_SIDE_2500x2500.avif",
+        "alt": "Shima Zenith Lady Jean motosiklet pantolonu, resmi ürün görseli 3",
+        "credit": "Shima",
+        "sourcePage": "https://shima.pl/shop/zenith-lady-pnt-czarny/"
+      }
+    ],
+    "videos": []
+  }
+]

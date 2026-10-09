@@ -10,7 +10,8 @@
     "validate": "tsx scripts/validate-data.ts",
     "test": "playwright test",
     "qa": "npm run validate && next build && playwright test",
-    "images": "tsx scripts/check-images.ts"
+    "images": "tsx scripts/check-images.ts",
+    "links": "tsx scripts/check-links.ts"
   },
   "dependencies": {
     "next": "16.3.8",

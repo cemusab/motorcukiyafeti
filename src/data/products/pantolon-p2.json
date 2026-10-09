@@ -3,7 +3,7 @@
     "status": "active",
     "successor": null,
     "category": "pantolon",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "colors": [
       "Siyah",
       "Mavi"
@@ -15,16 +15,16 @@
     "offers": [
       {
         "seller": "Vecton (Tech90 resmi mağaza)",
-        "url": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-52",
-        "price": 5299,
-        "salePrice": null,
+        "url": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-163",
+        "price": 6400,
+        "salePrice": 5299,
         "currency": "TRY",
-        "inStock": false,
+        "inStock": true,
         "sizes": [],
         "colors": [
           "Siyah"
         ],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -60,7 +60,7 @@
       "Yerli üretim, resmi mağazada TL fiyatı açık"
     ],
     "cons": [
-      "Kontrol tarihinde resmi mağazada stokta görünmüyordu",
+      "Beden-boy kombinasyonlarının bir kısmı resmi mağazada tükenmiş",
       "Koruyucu seviyesi (Level 1/2) ürün sayfasında yazmıyor",
       "Beden tablosu ve lif oranları sayfada verilmemiş"
     ],
@@ -72,7 +72,7 @@
       "yagmur": "Su itici yüzey hafif yağmuru bir süre tutar, su geçirmez değil.",
       "kurye": "Gün boyu giyilebilir ve AA sınıfı; yoğun yağmurlu vardiyalarda yağmurluk şart."
     },
-    "verdict": "Ad Pro, yerli üretim bir motosiklet kotunda AA sınıfı, Kevlar takviyesi ve dışarıdan çıkarılabilen korumaları birlikte sunan nadir modellerden. Kontrol tarihinde stokta görünmemesi ve koruyucu seviyesinin belirtilmemesi zayıf noktaları. Stok geldiğinde şehir içi için güçlü bir aday.",
+    "verdict": "Ad Pro, yerli üretim bir motosiklet kotunda AA sınıfı, Kevlar takviyesi ve dışarıdan çıkarılabilen korumaları birlikte sunan nadir modellerden. Bazı beden-boy kombinasyonlarının tükenmiş olması ve koruyucu seviyesinin belirtilmemesi zayıf noktaları. Şehir içi için güçlü bir aday.",
     "rivals": [
       "riderdenim/karayel",
       "tex-motor/forte-gt-spirit",
@@ -88,13 +88,13 @@
         "a": "Evet, üretici CE onaylı ImpacTec korumalarla geldiğini belirtiyor; diz koruyucunun yüksekliği ayarlanabiliyor."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-52",
+    "manufacturerUrl": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-163",
     "sources": [
       {
-        "url": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-52",
+        "url": "https://vecton.com.tr/vecton-ad-pro-black-kevlar-cordura-motosiklet-pantolonu-163",
         "type": "manufacturer",
         "label": "Vecton (Tech90) – Ad Pro Black ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -130,14 +130,15 @@
       "min": 5299,
       "max": 5299,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09",
+      "note": "Resmi mağazada 6.400 TL liste fiyatı üzerinden indirimli fiyat (KDV dahil)."
     }
   },
   {
     "status": "active",
     "successor": null,
     "category": "pantolon",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "colors": [
       "Siyah"
     ],
@@ -148,16 +149,16 @@
     "offers": [
       {
         "seller": "Vecton (Tech90 resmi mağaza)",
-        "url": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-51",
-        "price": 4500,
-        "salePrice": null,
+        "url": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-141",
+        "price": 5300,
+        "salePrice": 4500,
         "currency": "TRY",
         "inStock": null,
         "sizes": [],
         "colors": [
           "Siyah"
         ],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -221,13 +222,13 @@
         "a": "Ad Lite'ta ImpacTec korumalar pantolonun içinden takılıp çıkarılıyor; diz koruyucunun yüksekliği ayarlanabiliyor."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-51",
+    "manufacturerUrl": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-141",
     "sources": [
       {
-        "url": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-51",
+        "url": "https://vecton.com.tr/vecton-ad-lite-black-cordura-motosiklet-pantolonu-141",
         "type": "manufacturer",
         "label": "Vecton (Tech90) – Ad Lite Black ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -263,14 +264,15 @@
       "min": 4500,
       "max": 4500,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09",
+      "note": "Resmi mağazada 5.300 TL liste fiyatı üzerinden indirimli fiyat (KDV dahil)."
     }
   },
   {
     "status": "active",
     "successor": null,
     "category": "pantolon",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "colors": [],
     "sizes": [],
     "sizeChart": [],
@@ -279,14 +281,14 @@
     "offers": [
       {
         "seller": "Vecton (Tech90 resmi mağaza)",
-        "url": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-44",
+        "url": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-146",
         "price": 5999,
         "salePrice": null,
         "currency": "TRY",
-        "inStock": null,
+        "inStock": true,
         "sizes": [],
         "colors": [],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -295,7 +297,6 @@
       "sizes",
       "colors",
       "specs.protectors.level",
-      "offers.inStock",
       "specs.season"
     ],
     "slug": "defender-4001",
@@ -354,13 +355,13 @@
         "a": "EN 17092 serisinde en yüksek sınıftır (EN 17092-2). Sürtünme ve dikiş dayanımı testlerinde AA ve A sınıfından daha zorlu değerleri karşılar."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-44",
+    "manufacturerUrl": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-146",
     "sources": [
       {
-        "url": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-44",
+        "url": "https://vecton.com.tr/kevlar-motosiklet-pantolonu-tech90-defender-4001-146",
         "type": "manufacturer",
         "label": "Vecton (Tech90) – Defender 4001 ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -396,7 +397,7 @@
       "min": 5999,
       "max": 5999,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09"
     }
   },
   {

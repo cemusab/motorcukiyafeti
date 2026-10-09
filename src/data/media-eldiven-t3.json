@@ -1,0 +1,151 @@
+[
+  {
+    "product": "alpinestars/stella-s-max-drystar",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3537620-104-fr_stella-s-max-drystar-glove_6ef8d930-d351-4ec3-a06b-c554f986e6ff.png",
+        "alt": "Alpinestars Stella S-Max Drystar kadın eldiven, siyah/antrasit, üstten görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/s-max-womens-gloves-black-anthracite"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3537620-104-ba_stella-s-max-drystar-glove_e9b62a3b-afad-4ada-aca6-04ff1caba5c3.png",
+        "alt": "Alpinestars Stella S-Max Drystar kadın eldiven, avuç içi",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/s-max-womens-gloves-black-anthracite"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "dainese/ermex-womens",
+    "images": [
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/a786fa17-9edf-41d2-954b-ffbd5eb82e26/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Ermex kadın yazlık eldiven, siyah/beyaz",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/ermex---womens-summer-motorcycle-gloves-2018100027622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/513bac2c-1b5c-45fe-8c21-4160f22ed3f8/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Ermex kadın eldiven, avuç içi",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/ermex---womens-summer-motorcycle-gloves-2018100027622.html"
+      },
+      {
+        "url": "https://dainese-cdn.thron.com/api/v1/content-delivery/shares/lxnwxt/contents/343ac319-8027-4a24-add4-e9270932e9bc/image/image?format=webp&q_auto=high&w=960&h=960",
+        "alt": "Dainese Ermex kadın eldiven, yandan görünüm",
+        "credit": "Dainese",
+        "sourcePage": "https://www.dainese.com/us/en/ermex---womens-summer-motorcycle-gloves-2018100027622.html"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "alpinestars/hyde-xt-drystar-xf",
+    "images": [
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3522523-1100-fr_hyde-xt-drystarxf-glove_05c7b85e-3619-4a8b-bc21-b344c5c9865e_1.png",
+        "alt": "Alpinestars Hyde XT Drystar XF adventure eldiven, siyah, üstten görünüm",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/hyde-xt-drystar-sup-reg-sup-xf-gloves-black-black"
+      },
+      {
+        "url": "https://www.alpinestars.com/cdn/shop/files/3522523-1100-ba_hyde-xt-drystarxf-glove_e7c80d13-2fa1-448b-89a4-2fd60bbf86fa_2.png",
+        "alt": "Alpinestars Hyde XT Drystar XF eldiven, avuç içi",
+        "credit": "Alpinestars",
+        "sourcePage": "https://gb.alpinestars.com/products/hyde-xt-drystar-sup-reg-sup-xf-gloves-black-black"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "z9flMdH4WjY",
+        "title": "Alpinestars Hyde XT Drystar XF Gloves - Review at SpeedAddicts.com",
+        "channel": "Speed Addicts",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "leatt/adv-hydradri-7-5",
+    "images": [
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/leatt_gloves_adv_hydradri_7.5_desert_pair_6024040580_0968c5bc-f39f-4ceb-b5e3-cfa718e7915b.png",
+        "alt": "Leatt ADV HydraDri 7.5 eldiven, Desert renk, çift görünüm",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/gloves-adv-hydradri-7-5"
+      },
+      {
+        "url": "https://int.leatt.com/cdn/shop/files/leatt_gloves_adv_hydradri_7.5_stealth_pair_6024040560_2154936c-8608-4c5d-af55-a5e9671659fd.png",
+        "alt": "Leatt ADV HydraDri 7.5 eldiven, Stealth siyah renk",
+        "credit": "Leatt",
+        "sourcePage": "https://int.leatt.com/products/gloves-adv-hydradri-7-5"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "d0IlyxaXzpY",
+        "title": "Leatt Adventure HydraDri 7.5 Gloves",
+        "channel": "Rocky Mountain ATV MC",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "knox/coniston",
+    "images": [
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/gloves_KNXConiston_1-scaled.jpg",
+        "alt": "Knox Coniston su geçirmez deri eldiven, siyah",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/coniston/"
+      },
+      {
+        "url": "https://www.planet-knox.com/wp-content/uploads/2026/03/KNXConiston_012.jpg",
+        "alt": "Knox Coniston eldiven detay görünümü",
+        "credit": "Knox",
+        "sourcePage": "https://www.planet-knox.com/product/coniston/"
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "tAmCp-d8mpk",
+        "title": "Knox Coniston Glove - All-weather, 3 season perfection!",
+        "channel": "Knox",
+        "kind": "resmi",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "youtubeId": "o9YVgumdv88",
+        "title": "KNOX Coniston WP Motorcycle Glove Review",
+        "channel": "Urban Rider",
+        "kind": "inceleme",
+        "lang": "en",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "product": "held/taskala",
+    "images": [
+      {
+        "url": "https://shop.held.de/media/9b/43/64/1716463688/022461-00-001-01.jpg",
+        "alt": "Held Taskala yazlık adventure eldiven, siyah, el sırtı",
+        "credit": "Held",
+        "sourcePage": "https://shop.held.de/en/Taskala-Adventure-glove/022461-00-001-0-7"
+      },
+      {
+        "url": "https://shop.held.de/media/35/94/48/1716463688/022461-00-001-02.jpg",
+        "alt": "Held Taskala eldiven, avuç içi",
+        "credit": "Held",
+        "sourcePage": "https://shop.held.de/en/Taskala-Adventure-glove/022461-00-001-0-7"
+      }
+    ],
+    "videos": []
+  }
+]

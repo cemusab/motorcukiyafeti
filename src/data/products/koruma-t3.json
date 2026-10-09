@@ -1,0 +1,567 @@
+[
+  {
+    "slug": "body-protector-3df-airfit-lite-evo",
+    "brand": "leatt",
+    "name": "Body Protector 3DF AirFit Lite Evo",
+    "category": "koruma",
+    "subcategories": [
+      "koruyucu-icgiyim",
+      "sirt-koruma",
+      "gogus-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Leatt'in yumuşak 3DF AirFit köpüklü, fermuarlı kompresyon içlik tipi gövde koruyucusu; göğüs EN 1621-3, sırt EN 1621-2, omuz ve dirsek EN 1621-1, hepsi Level 1.",
+    "description": [
+      "Body Protector 3DF AirFit Lite Evo, Leatt'in enduro, motokros ve adventure sürüşü için hazırladığı, forma ya da mont altına giyilen yumuşak kabuklu gövde koruyucusu. Göğüs, sırt, omuz ve dirsekte çok darbeli, enerji emen 3DF AirFit köpük kullanılıyor; köpük havalandırmalı ve vücuda şekil alıyor. Leatt yeni sürümde göğüs bölgesinin büyütüldüğünü ve yan girişli fermuarlı sağlam bir göğüs plakası eklendiğini belirtiyor.",
+      "Leatt koruyucuları göğüste EN 1621-3 Level 1, sırtta EN 1621-2 Level 1, omuz ve dirsekte EN 1621-1 Level 1 olarak sertifikalı listeliyor; sırt koruyucusu tam boy. Fermuarlı kompresyon çorap yapısı giyip çıkarmayı kolaylaştırıyor, yanlarda dolgu var, BraceOn sistemiyle Leatt boyunluk uyumu sağlanıyor. Ağırlık S bedenden itibaren 1,35 kg, boy aralığı 160–196 cm. Level 2 değil; sırtta daha yüksek enerji emilimi isteyen için ayrı bir Level 2 sırt koruyucu daha uygun."
+    ],
+    "forWho": [
+      "Enduro ve adventure sürüşünde forma veya mont altına tam gövde koruma isteyenler",
+      "Sert kabuk yerine yumuşak, vücuda oturan koruma arayanlar",
+      "Leatt boyunluk kullananlar"
+    ],
+    "notFor": [
+      "Sırt ve göğüste Level 2 koruma arayanlar",
+      "Dar kesimli yol montu altına ince koruma isteyenler: tam gövde içlik hacim yapabilir",
+      "Kurye kullanımı: arazi odaklı, gün boyu giyip çıkarmaya göre değil"
+    ],
+    "pros": [
+      "Göğüs, sırt, omuz ve dirsek tek parçada",
+      "Tüm bölgeler EN 1621 sertifikalı",
+      "Havalandırmalı yumuşak 3DF köpük",
+      "Boyunluk uyumu (BraceOn)"
+    ],
+    "cons": [
+      "Tüm bölgeler Level 1; Level 2 değil",
+      "Yol montu altında hacim yapabilir",
+      "Diz ve kalça koruması yok"
+    ],
+    "usage": {
+      "sport": "Enduro ve motokros için tasarlanmış.",
+      "uzunYol": "Adventure turda mont altında tam gövde koruma sağlar.",
+      "yaz": "Havalandırmalı köpük ve file paneller sıcakta yardımcı olur.",
+      "sehir": "Şehir içi yol kullanımında mont altında hacimli olabilir.",
+      "kurye": "Uygun değil; arazi odaklı ve tam gövde içlik."
+    },
+    "verdict": "Body Protector 3DF AirFit Lite Evo, arazi ve adventure sürücülerine tek parçada göğüs, sırt, omuz ve dirsek koruması sunan rahat bir içlik. Tüm bölgelerin Level 1 olması, sırtta en yüksek korumayı isteyenler için sınır.",
+    "rivals": [
+      "leatt/body-protector-3df-airfit-evo-women",
+      "alpinestars/nucleon-flex-pro-yelek",
+      "dainese/pro-armor-safety-jacket-2-0"
+    ],
+    "priceRange": {
+      "min": 13028.4,
+      "max": 13028.4,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "İndirimli fiyat; liste fiyatı 21.714 TL. Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-3df-airfir-lite-evo-vucut-koruma-13381",
+        "price": 21714,
+        "salePrice": 13028.4,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Gri"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi bölgeler sertifikalı?",
+        "a": "Leatt göğsü EN 1621-3, sırtı EN 1621-2, omuz ve dirseği EN 1621-1 olarak listeliyor; hepsi Level 1."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Leatt kadın gövdesi için ayrı 3DF AirFit Evo Women modeli üretiyor; Lite Evo tek kalıp ve 160–196 cm boy aralığında sunuluyor."
+      }
+    ],
+    "manufacturerUrl": "https://int.leatt.com/products/body-protector-3df-airfit-lite-evo",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/body-protector-3df-airfit-lite-evo",
+        "type": "manufacturer",
+        "label": "Leatt – Body Protector 3DF AirFit Lite Evo ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-3df-airfir-lite-evo-vucut-koruma-13381",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt 3DF AirFit Lite Evo Vücut Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Gri"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "3DF AirFit yumuşak darbe köpüğü, MoistureCool ve AirMesh kumaş, kompresyon içlik",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1621-1, EN 1621-2, EN 1621-3",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı köpük ve kritik bölgelerde file",
+      "closure": "Fermuarlı kompresyon içlik",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "nucleon-kr-2",
+    "brand": "alpinestars",
+    "name": "Nucleon KR-2",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın adventure touring için geliştirdiği bel kemerli sırt koruyucusu; viskoelastik hafızalı köpük ve eklemli omur plakaları, EN 1621-2:2014 Level 2 sertifikası.",
+    "description": [
+      "Nucleon KR-2, Alpinestars'ın uzun yolculuklarda konfor öncelikli, ayrı giyilen sırt koruyucusu. Enerji emen viskoelastik hafızalı köpük, eklemli omur korumasıyla birleştirilmiş; bu yapı koruyucunun sırtın kavisine uyup hareketle esnemesini sağlıyor. Alpinestars koruyucuyu EN 1621-2:2014'e göre Level 2 sertifikalı olarak listeliyor.",
+      "Bel ayarı ve ince, havalandırmalı bir böbrek kemeri var; kemer koruyucuyu yerinde tutarken bel bölgesine destek sağlıyor. Üretici yapıyı çok hafif ve yüksek nefes alan olarak tanımlıyor. Mont içine takılan cep koruyucularından farklı olarak ayrı giyildiği için kapladığı alan daha geniş; buna karşın mont altına ekstra bir katman eklendiğinden dar kesimli montlarda sıkabilir. XS'den XL'e beş bedende sunuluyor."
+    ],
+    "forWho": [
+      "Adventure ve touring sürüşünde Level 2 ayrı sırt koruyucu isteyenler",
+      "Mont içindeki ince sırt pedini yetersiz bulanlar",
+      "Uzun yolda bel desteği arayanlar"
+    ],
+    "notFor": [
+      "Dar kesimli montun altına ince koruma arayanlar",
+      "Göğüs koruması da isteyenler: yalnızca sırt korur",
+      "Kurye kullanımında sık giyip çıkarma: ayrı kemerli yapı pratik değil"
+    ],
+    "pros": [
+      "EN 1621-2:2014 Level 2",
+      "Eklemli omur plakaları ile esnek yapı",
+      "Havalandırmalı böbrek kemeri ve bel ayarı",
+      "Hafif ve nefes alan yapı"
+    ],
+    "cons": [
+      "Yalnızca sırt koruması",
+      "Mont altında ek hacim",
+      "Ağırlık bilgisi üretici sayfasında yok"
+    ],
+    "usage": {
+      "uzunYol": "Asıl kullanım alanı: adventure ve touring turları.",
+      "sehir": "Şehirde de kullanılabilir ama her inişte çıkarmak pratik değil.",
+      "yaz": "Havalandırmalı yapı yardımcı olur, yine de ek katman sıcakta hissedilir.",
+      "kis": "Mont altında sorun çıkarmaz.",
+      "sport": "Sport sürüşte de kullanılabilir.",
+      "kurye": "Uygun değil; ayrı kemerli koruyucu gün içinde sık giyip çıkarmaya göre değil."
+    },
+    "verdict": "Nucleon KR-2, mont içindeki pedin yerine geniş alanlı Level 2 sırt koruması isteyen touring ve adventure sürücüleri için dengeli bir seçim. Yalnız sırtı koruması ve mont altında hacim yapması dikkate alınmalı.",
+    "rivals": [
+      "alpinestars/nucleon-kr-1-cell",
+      "alpinestars/nucleon-kr-3",
+      "knox/micro-lock-air-mk2"
+    ],
+    "priceRange": {
+      "min": 11460,
+      "max": 11460,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-nucleon-kr-2-sirt-koruma",
+        "price": 11460,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Nucleon KR-2 Level 2 mi?",
+        "a": "Evet, Alpinestars koruyucuyu EN 1621-2:2014'e göre Level 2 sertifikalı listeliyor."
+      },
+      {
+        "q": "Mont içine takılabilir mi?",
+        "a": "Hayır, KR-2 bel kemerli ve ayrı giyilen bir koruyucu; mont cebine takılan iç ped tipi sırt koruyucuları ayrı modellerdir."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/nucleon-kr-2-back-protector-black-red",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/nucleon-kr-2-back-protector-black-red",
+        "type": "manufacturer",
+        "label": "Alpinestars – Nucleon KR-2 Back Protector ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-nucleon-kr-2-sirt-koruma",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Nucleon KR-2 Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Viskoelastik hafızalı köpük, eklemli omur plakaları, havalandırmalı bel kemeri",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2:2014",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı yapı ve böbrek kemeri",
+      "closure": "Bel kemeri ve omuz askıları, bel ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "bionic-flex-knee",
+    "brand": "alpinestars",
+    "name": "Bionic Flex Knee",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın geçmeli, delikli Nucleon Flex koruyuculu dizliği; EN 1621-1:2012 Level 1 sertifikalı, elastik üst kayış ve silikon kenarlarla pantolon altına giyiliyor.",
+    "description": [
+      "Bionic Flex Knee, Alpinestars'ın arazi sürücüleri için ürettiği, esnek ve havalandırmalı diz koruyucusu. Nefes alan esnek file kolluğun dışına yerleştirilmiş, yoğun delikli Nucleon Flex koruyucular hava akışını artırıyor. Alpinestars dizliği EN 1621-1:2012 Level 1 olarak sertifikalı listeliyor.",
+      "Geçmeli tasarım, elastik kenarlar ve silikon baskıyla yerinde duruyor; üstte ayarlanabilir elastik kayış var. Yanlarda ek köpük dolgu, önde sürtünmeye dayanıklı kumaş panel bulunuyor. Sert kabuklu, menteşeli dizlikler kadar burulma desteği vermez; amaç darbe koruması ve rahatlık. Yol sürüşünde korumasız bir kot veya enduro pantolonunun altına da giyilebilir, ancak diz koruyucu cebi olan bir pantolonda zaten bulunan koruyucunun yerine geçmesi gerekmez."
+    ],
+    "forWho": [
+      "Enduro, motokros ve adventure sürüşünde hafif dizlik arayanlar",
+      "Korumasız pantolonun altına ek diz koruması isteyenler",
+      "Sert kabuklu dizliği rahatsız bulanlar"
+    ],
+    "notFor": [
+      "Menteşeli diz desteği (brace) arayanlar",
+      "Kaval koruması da isteyenler: kaval plakası yok",
+      "Kurye kullanımı: pantolon altına giyilen geçmeli dizlik gün içinde sık çıkarmaya uygun değil"
+    ],
+    "pros": [
+      "EN 1621-1:2012 Level 1",
+      "Delikli koruyucu ile iyi havalandırma",
+      "Hafif, esnek, geçmeli tasarım",
+      "Yan köpük dolgu"
+    ],
+    "cons": [
+      "Level 2 değil",
+      "Kaval koruması yok",
+      "Yalnızca iki beden (S/M, L/XL)"
+    ],
+    "usage": {
+      "sport": "Enduro ve motokros için tasarlanmış.",
+      "uzunYol": "Adventure turda korumasız pantolon altında kullanılabilir.",
+      "yaz": "Delikli yapı sıcakta rahat.",
+      "sehir": "Korumasız kot altında kullanılabilir ama giyip çıkarmak pantolonu çıkarmayı gerektirir.",
+      "kurye": "Uygun değil; geçmeli dizlik sık giyip çıkarmaya göre değil."
+    },
+    "verdict": "Bionic Flex Knee, arazide hafif ve havadar diz koruması isteyenler için sade, sertifikalı bir seçenek. Burulma desteği ve kaval koruması gerekiyorsa daha kapsamlı modellere bakılmalı.",
+    "rivals": [
+      "alpinestars/nucleon-flex-pro-diz",
+      "venom/vn-09-dizlik",
+      "knox/action-pro-shorts-mk2"
+    ],
+    "priceRange": {
+      "min": 6880,
+      "max": 6880,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bionic-flex-diz-koruma-siyah-/-kirmizi",
+        "price": 6880,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bionic Flex Knee hangi standarda sahip?",
+        "a": "Alpinestars dizliği EN 1621-1:2012 Level 1 olarak sertifikalı listeliyor."
+      },
+      {
+        "q": "Kaval koruması var mı?",
+        "a": "Hayır, yalnızca diz bölgesini kapatıyor; yanlarda ek köpük dolgu var."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/bionic-flex-knee-protector-black-red",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/bionic-flex-knee-protector-black-red",
+        "type": "manufacturer",
+        "label": "Alpinestars – Bionic Flex Knee Protectors ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bionic-flex-diz-koruma-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Bionic Flex Diz Koruma Siyah/Kırmızı",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Kırmızı"
+    ],
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Nucleon Flex delikli koruyucu, esnek file kolluk, sürtünmeye dayanıklı ön panel",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Yoğun delikli koruyucu ve file kolluk",
+      "closure": "Geçmeli, elastik üst kayış ve silikon kenarlar",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "bionic-flex-elbow",
+    "brand": "alpinestars",
+    "name": "Bionic Flex Elbow",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın geçmeli, delikli Nucleon Flex koruyuculu dirsekliği; EN 1621-1:2012 Level 1 sertifikalı, asimetrik hafif tasarım ve nefes alan esnek file.",
+    "description": [
+      "Bionic Flex Elbow, Bionic Flex dizliğin dirsek için olan eşi. Ergonomik şekilli Nucleon Flex koruyucu, esnek file kolluğun dışına yerleştirilmiş ve yoğun delikli; bu sayede hava akışı yüksek. Alpinestars dirsekliği EN 1621-1:2012 Level 1 olarak sertifikalı listeliyor.",
+      "Geçmeli yapı elastik kenarlar ve silikon baskıyla kayması önleniyor, üstte elastik kayış var. İç tarafta konfor dolgusu, yanlarda ek köpük ve önde sürtünmeye dayanıklı kumaş panel bulunuyor. Asimetrik ve hafif tasarım, arazi sürüşünde kol hareketini kısıtlamamak için düşünülmüş. Forma altında ya da koruyucusu olmayan bir ceketin altında kullanılabilir; dirsek koruyucusu zaten olan bir montta ek katman gereksiz olabilir."
+    ],
+    "forWho": [
+      "Enduro ve motokros formasının altına dirsek koruması isteyenler",
+      "Koruyucusu olmayan yazlık ceket altında ek koruma arayanlar",
+      "Hafif ve havadar dirseklik isteyenler"
+    ],
+    "notFor": [
+      "Ön kol koruması da isteyenler: kısa kolluk",
+      "Level 2 dirsek koruması arayanlar",
+      "Kurye kullanımı: forma altı geçmeli dirseklik günlük kullanıma göre değil"
+    ],
+    "pros": [
+      "EN 1621-1:2012 Level 1",
+      "Delikli koruyucu ile iyi havalandırma",
+      "Asimetrik, hafif yapı",
+      "Silikon kenarlarla kaymayan oturuş"
+    ],
+    "cons": [
+      "Level 2 değil",
+      "Ön kol koruması sınırlı",
+      "Yalnızca iki beden (S/M, L/XL)"
+    ],
+    "usage": {
+      "sport": "Enduro ve motokros için tasarlanmış.",
+      "uzunYol": "Adventure turda koruyucusu olmayan ceket altında kullanılabilir.",
+      "yaz": "Delikli yapı sıcakta rahat.",
+      "sehir": "Koruyucusuz yazlık ceket altında kullanılabilir.",
+      "kurye": "Uygun değil; forma altı arazi koruyucusu."
+    },
+    "verdict": "Bionic Flex Elbow, arazi sürüşünde hafif ve havalandırmalı dirsek koruması isteyenler için sade ve sertifikalı bir çözüm. Ön kol ve yüksek seviye koruma gerekiyorsa daha uzun, Level 2 koruyucular tercih edilmeli.",
+    "rivals": [
+      "alpinestars/bionic-flex-knee",
+      "alpinestars/nucleon-flex-pro-yelek",
+      "knox/urbane-pro-mk3"
+    ],
+    "priceRange": {
+      "min": 5650,
+      "max": 5650,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-bionic-flex-dirsek-koruma-siyah-/-kirmizi",
+        "price": 5650,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah / Kırmızı"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bionic Flex Elbow hangi standarda sahip?",
+        "a": "Alpinestars dirsekliği EN 1621-1:2012 Level 1 olarak sertifikalı listeliyor."
+      },
+      {
+        "q": "Yol sürüşünde kullanılır mı?",
+        "a": "Koruyucusu olmayan bir ceketin altında kullanılabilir; ancak ürün arazi sürüşü için tasarlanmış ve forma altına giyilmek üzere kalıplanmış."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/bionic-flex-elbow-protector-black-red",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/bionic-flex-elbow-protector-black-red",
+        "type": "manufacturer",
+        "label": "Alpinestars – Bionic Flex Elbow Protectors ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-bionic-flex-dirsek-koruma-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Bionic Flex Dirsek Koruma Siyah/Kırmızı",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Kırmızı"
+    ],
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Nucleon Flex delikli koruyucu, esnek file kolluk, konfor dolgusu",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Yoğun delikli koruyucu ve file kolluk",
+      "closure": "Geçmeli, elastik üst kayış ve silikon kenarlar",
+      "madeIn": null
+    }
+  }
+]

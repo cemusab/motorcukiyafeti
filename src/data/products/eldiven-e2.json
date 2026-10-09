@@ -957,7 +957,7 @@
     "status": "active",
     "successor": null,
     "category": "eldiven",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "buyerInsights": null,
     "colors": [],
     "sizes": [],
@@ -966,21 +966,27 @@
     "offers": [
       {
         "seller": "Vecton (Tech90 resmi mağaza)",
-        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
-        "price": 1999,
+        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-244",
+        "price": 1299,
         "salePrice": null,
         "currency": "TRY",
         "inStock": true,
-        "sizes": [],
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
         "colors": [],
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "priceRange": {
-      "min": 1999,
-      "max": 1999,
+      "min": 1299,
+      "max": 1299,
       "currency": "TRY",
-      "checkedAt": "2026-10-07"
+      "checkedAt": "2026-10-09"
     },
     "unverified": [
       "specs.ceStandard",
@@ -1005,7 +1011,7 @@
     "summary": "Keçi derisi ve iki yönlü esnek Taslan kumaştan, su dirençli, uzun manşetli ve deri avuç takviyeli, Türkiye'de üretilen Vecton kışlık eldiven.",
     "description": [
       "Guanti Winter Pro, Tech90'ın üretip Vecton markasıyla resmi online mağazasında sattığı kışlık eldiven. Gövdede gerçek keçi derisi ve iki yönlü esnek Taslan kumaş kullanılıyor; üretici malzemeyi 'su dirençli' olarak tanımlıyor. Avuç içinde gerçek deri takviye, aşınma bölgesinde köpük takviye, cırt cırtlı bilek bağlama ve uzun manşet var.",
-      "Mağaza sayfasında menşei Türkiye ve cinsiyet unisex olarak verilmiş. Ancak eldiven için EN 13594 sertifikası, membran, yalıtım dolgusu ya da sert eklem koruması bilgisi yer almıyor. 'Su dirençli' ifadesi su geçirmez anlamına gelmediği için uzun yağmurda ıslanma ihtimali var. Sayfada stok durumu 'kritik stok' olarak görünüyor."
+      "Mağaza sayfasında menşei Türkiye ve cinsiyet unisex olarak verilmiş. Ancak eldiven için EN 13594 sertifikası, membran, yalıtım dolgusu ya da sert eklem koruması bilgisi yer almıyor. 'Su dirençli' ifadesi su geçirmez anlamına gelmediği için uzun yağmurda ıslanma ihtimali var. 9 Ekim 2026 kontrolünde S–2XL bedenler stokta görünüyordu."
     ],
     "forWho": [
       "Kışın yerli üretim, deri ağırlıklı ve uzun manşetli eldiven arayanlar",
@@ -1046,13 +1052,13 @@
         "a": "Vecton, Tech90 tarafından üretilen ürünlerin resmi online satış mağazası olarak kendini tanıtıyor."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
+    "manufacturerUrl": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-244",
     "sources": [
       {
-        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-12",
+        "url": "https://vecton.com.tr/vecton-motosiklet-eldiveni-guanti-winter-pro-244",
         "type": "manufacturer",
         "label": "Vecton – Guanti Winter Pro ürün sayfası",
-        "checkedAt": "2026-10-07"
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "low",

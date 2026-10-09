@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "kask-sertifikalari-ne-anlama-gelir",
+    "title": "Kask Sertifikaları Ne Anlama Gelir? ECE, DOT, Snell, FIM ve SHARP",
+    "description": "ECE 22.06, DOT, Snell, FIM ve SHARP'ı kim veriyor, nerede geçerli, neyi test ediyor? Etiketin kaskta nerede durduğunu ve Türkiye'de neye bakılacağını anlattık.",
+    "topic": "kask",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 9,
+    "intro": "Kask sertifikası, kaskın belirli bir kuruluşun ya da bir devletin tanımladığı darbe, delinme ve bağlantı testlerinden geçtiğini gösteren işarettir. Türkiye'de alıcı için temel işaret ECE 22.06'dır; DOT ABD'nin zorunlu standardı, Snell ve FIM gönüllü ve daha seçici programlar, SHARP ise bir onay değil, İngiltere hükümetinin yıldızlı test derecelendirmesidir. Bu yazıda her birini kimin verdiğini, nerede geçerli olduğunu, genel hatlarıyla neyi ölçtüğünü ve kaskın üzerinde nasıl göründüğünü sırayla anlatıyoruz.",
+    "sections": [
+      {
+        "heading": "Kısa tablo: hangisi ne?",
+        "paragraphs": [
+          "Bu beş işaret aynı şeyi söylemez. Bir kısmı yasal satış şartıdır, bir kısmı gönüllü bir kuruluşun ek testidir, biri de yalnızca tüketiciye bilgi veren bir puanlamadır. Aşağıdaki özet, etiketi gördüğünde neyle karşı karşıya olduğunu anlamana yardım eder."
+        ],
+        "bullets": [
+          "ECE 22.06: Birleşmiş Milletler 22 numaralı regülasyonu. Bu regülasyonu uygulayan ülkelerde (Türkiye ve AB dahil) resmi tip onayı.",
+          "DOT FMVSS 218: ABD federal güvenlik standardı. Üretici kendi beyanıyla sertifikalandırır, ABD trafik güvenliği kurumu NHTSA denetler.",
+          "Snell M2025: ABD'deki kâr amacı gütmeyen Snell Foundation'ın gönüllü standardı.",
+          "FIM FRHPhe-02: Uluslararası Motosiklet Federasyonu'nun yarış kaskı homologasyonu. FIM şampiyonaları için.",
+          "SHARP: İngiltere Ulaştırma Bakanlığı'nın tüketici bilgilendirme programı. Sertifika değil, 1–5 yıldız derecelendirme."
+        ]
+      },
+      {
+        "heading": "ECE 22.06: Türkiye'de bakılması gereken onay",
+        "paragraphs": [
+          "ECE onayı, BM'nin 1958 Anlaşması'na bağlı 22 numaralı regülasyona dayanır. Regülasyonun resmi adı motosiklet ve moped sürücü ile yolcularının koruyucu kasklarının, vizörlerinin ve aksesuarlarının onayına ilişkin tek tip hükümlerdir. BM Antlaşmalar Kayıtları'na göre bu regülasyonu 46 taraf uygular; Avrupa Birliği ve Birleşik Krallık bunlar arasındadır. Türkiye'nin R22'yi uygulama bildirimi 8 Mayıs 2000'de BM'ye ulaşmıştır.",
+          "Onayı tek bir merkez vermez. Regülasyonu uygulayan ülkelerden birinin onay makamı, yetkili test laboratuvarının sonuçlarına dayanarak tip onayı verir ve bu onay diğer uygulayıcı ülkelerde de tanınır. Güncel sürüm 06 serisidir (22.06); kaskı farklı hızlarda doğrusal darbe, açılı darbe ile dönme ivmesi ve vizör testlerine tabi tutar. Ayrıntıları ECE 22.06 Nedir? rehberinde, önceki sürümle farkları ECE 22.05 ile 22.06 Arasındaki Fark yazısında bulabilirsin.",
+          "Etiket kaskın içinde, çene kayışına dikili kumaş bir etikettir. Daire içindeki E harfi ve yanındaki sayı onayı veren ülkeyi gösterir; onay numarası 06 ile başlıyorsa kask 22.06'ya göre onaylanmıştır. SHARP'ın etiket açıklamasına göre P çene korumalı, J çene korumasız (açık) kaskı, P/J ise hem kapalı hem üreticinin onayladığı açık konumda onaylı çene açılır kaskı gösterir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "DOT FMVSS 218: ABD'nin zorunlu standardı",
+        "paragraphs": [
+          "FMVSS 218, ABD federal motorlu araç güvenlik standartlarının motosiklet kaskı bölümüdür (49 CFR 571.218). Standardın kendi ifadesiyle amacı, baş darbelerinden kaynaklanan ölüm ve yaralanmaları azaltmaktır; motosikletçiler ve diğer motorlu araç kullanıcıları için tasarlanan tüm kasklara uygulanır.",
+          "Önemli fark sertifikalandırma yöntemindedir. ABD'de devlet kaskı satıştan önce onaylamaz; NHTSA'nın 2011 tarihli kural metninde de belirtildiği gibi sistem üreticinin öz-sertifikasyonuna dayanır. Üretici kaskın standarda uyduğunu kendisi beyan eder, NHTSA ise piyasadaki kaskları uygunluk testleriyle denetler ve uymayan ürünler için yaptırım uygular.",
+          "Standart genel hatlarıyla darbe sönümleme (düz ve yarım küre örsler üzerinde ölçülen ivme sınırları), delinme, çene kayışı sisteminin dayanımı, en az 105 derecelik yan görüş açısı ve kabuk dışındaki çıkıntıların sınırlandırılması gibi şartlar içerir. Testlerden önce kasklar ortam sıcaklığı, düşük sıcaklık, yüksek sıcaklık ve suya daldırma koşullarından biriyle şartlandırılır.",
+          "DOT etiketi ECE'den farklı olarak kaskın dış yüzeyinde, arka alt kenara yakın durur. Yönetmeliğe göre etikette üretici adı ya da markası, model adı, büyük harflerle DOT, altında FMVSS No. 218 ve CERTIFIED ibaresi bulunmalı; bunların dışında bilgi olmamalıdır. Üretim ayı ve yılı, beden ve malzeme bilgisi ayrı etiketlerde yer alır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Snell: gönüllü, özel bir vakfın standardı",
+        "paragraphs": [
+          "Snell Foundation, ABD'de 1957'de kurulmuş, kâr amacı gütmeyen bir kask güvenliği kuruluşudur. Kendi açıklamasına göre yönetim kurulunda kask üreticisi temsilcisi bulunmaz. Snell bir devlet onayı değildir; üretici kaskını gönüllü olarak Snell'e test ettirir.",
+          "Güncel motosiklet standardı M2025'tir ve iki ayrı sürümü vardır. Snell'in açıklama notuna göre M2025D esas olarak DOT ve Japonya'nın JIS şartlarını da karşılaması gereken kasklar içindir; M2025R ise bunlara ek olarak ECE 22.06'yı da karşılaması gereken kasklar için hazırlanmıştır. İki ayrı program gerekmesinin nedenini Snell, ECE 22.06'nın önceki Snell standartlarıyla uyumsuz görünmesi olarak açıklıyor. M2025 ile önceki M2020 şartlarına açılı darbe testleri eklendi; M2025 1 Ağustos 2024'te yürürlüğe girdi.",
+          "Snell'e göre sertifika öncesinde her model ve beden test edilir, sertifika sonrasında da piyasadan alınan rastgele örnekler test edilmeye devam eder. Sertifikalı her kaskın içinde seri numaralı Snell etiketi bulunmalıdır ve sertifikalı modellerin listesi smf.org'da yayımlanır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "FIM homologasyonu: pist ve yarış için",
+        "paragraphs": [
+          "FIM (Uluslararası Motosiklet Federasyonu) Racing Homologation Programme (FRHP), FIM şampiyonalarında kullanılacak kaskları onaylar. 2016'da başlayan programın ilk aşaması FRHPhe-01 yalnızca pist yarışlarını kapsıyordu. Kasım 2022'de duyurulan ikinci aşama FRHPhe-02 motokros, enduro, speedway ve cross-country gibi arazi disiplinlerini de kapsama aldı.",
+          "FIM'e göre FRHPhe-02, ECE 22.06, Snell M2020 ve JIS T8133 gibi uluslararası standartların ötesine geçer. Önceden tanımlı 22 noktadan 9–13'ünde darbe, açılı örslere ve yarım küre örslere darbe ile dönme etkisinin ölçümü, yanak pedlerinin hızlı çıkarılması testi ve kafatası kırığı kriteri gibi ek şartlar içerir. Testleri FIM onaylı Zaragoza Üniversitesi Impact Laboratory yapar. FIM, FRHPhe-02'nin 2026'da FIM şampiyonalarında zorunlu olduğunu duyurmuştur.",
+          "Homologasyonlu kaskın çene kayışında FIM homologasyon etiketi dikili olur ve onaylı modeller FRHP listelerinde yayımlanır. Sokak sürücüsü için FIM etiketi bir zorunluluk değildir; daha çok pist günü ve yarış için anlam taşır."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "SHARP: sertifika değil, yıldızlı derecelendirme",
+        "paragraphs": [
+          "SHARP, İngiltere Ulaştırma Bakanlığı'nın (DfT) 2007'de başlattığı bir tüketici bilgilendirme programıdır. Kendi tanımına göre, İngiltere'de satılan kasklar arasında güvenlik performansı açısından gerçek farklar bulunduğunu gösteren araştırmaların ardından kuruldu. SHARP kaskı satışa uygun hale getirmez; İngiltere'de satılan her kaskın zaten en az bir yasal standardı karşılaması gerekir, SHARP bunun üzerine karşılaştırmalı bilgi ekler.",
+          "Her model için en az 7 kask örneği farklı bedenlerde 30 doğrusal ve 2 açılı darbe testine girer. Doğrusal darbeler 6, 7,5 ve 8,5 m/s hızda ön, yan, tepe ve arka bölgelere, düz ve kaldırım taşı biçimli örslere yapılır. Sonuçlar kaza verilerine göre ağırlıklandırılır ve 1 ile 5 yıldız arasında bir puana çevrilir. Çene açılır kasklarda ayrıca çene kısmının darbelerde kapalı kalma yüzdesi verilir.",
+          "SHARP yalnızca test ettiği modelleri puanlar. Bir kaskın SHARP puanının olmaması kötü olduğu anlamına gelmez, sadece test edilmediğini gösterir. Program şu anda SHARP 2025 projesi kapsamında test ve puanlama protokollerini gözden geçiriyor; dönme kuvvetleri bu çalışmanın odak noktalarından biri."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Birden çok sertifika daha güvenli demek mi?",
+        "paragraphs": [
+          "Kesin bir evet demek doğru olmaz. Her standart farklı test yöntemleri, hızlar, örsler ve sınır değerler kullanır; bir kaskın iki standardı aynı anda geçmesi, iki farklı sınavı geçtiğini gösterir ama tek bir güvenlik puanına dönüşmez. Snell'in ECE 22.06 için ayrı bir M2025R programı açmak zorunda kalması da standartların her zaman aynı yöne çekmediğini gösteriyor.",
+          "Öte yandan Snell ve FIM gibi ek programlar, yasal minimumun üzerinde ek testler uygular ve FIM, ECE 22.06 gibi temel bir onayı zaten ön şart olarak arar. SHARP'ın kuruluş gerekçesi de aynı noktaya işaret eder: yasal onaylı kasklar arasında da performans farkı olabilir. Pratik sonuç şu: önce kullandığın ülkede geçerli onaya bak, sonra ihtiyacına göre ek sertifika veya SHARP sonucu varsa bunu artı bilgi olarak değerlendir. Kaskın kafana doğru oturması, hangi etiketin üzerinde olduğu kadar önemlidir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sahte etiket riski ve kontrol yöntemi",
+        "paragraphs": [
+          "Etiket taklit edilebilir. NHTSA'nın 2011 tarihli kural metni, ABD'de standarda uymayan ve testlerde güvenlik şartlarının tamamına ya da neredeyse tamamına uymadığı görülen novelty kaskların DOT etiketine benzeyen çıkartmalarla uyumlu gösterilmeye çalışıldığını anlatır; etiket kuralları bu yüzden sıkılaştırıldı. Snell de 2026'da eBay üzerinden sahte Snell sertifika etiketleri satıldığı uyarısını yayımladı.",
+          "Etiketi şöyle kontrol edebilirsin: ECE etiketi çene kayışına dikili olmalı, onay numarası 06 ile başlamalı ve P, J veya P/J işaretini taşımalı. DOT etiketi dışta, arkada olmalı ve marka ile model adını içermeli; yalnızca DOT yazan, ayrı satılan çıkartmalar güvence değildir. Snell için kaskın içindeki seri numaralı etiket smf.org'daki sertifikalı kask listesiyle karşılaştırılabilir, Snell etiket doğrulama talebi de kabul ediyor. FIM için model FRHP listesinde aranabilir.",
+          "Etiketlerdeki marka ve modelin, kaskın kutusundaki ve üreticinin resmi sitesindeki bilgilerle aynı olmasına da dikkat et. Çok düşük fiyatlı, markasız veya etiketi yapıştırma çıkartmadan ibaret kasklara şüpheyle yaklaşmak gerekir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Türkiye'de kask alırken neye bakmalı?",
+        "paragraphs": [
+          "Türkiye BM 22 numaralı regülasyonu uyguladığı için yurt içinde satılan kasklarda bakılacak temel işaret çene kayışındaki ECE etiketidir. Yeni kask alırken onay numarasının 06 ile başlamasına, yani 22.06 onaylı olmasına dikkat etmeni öneririz. Yalnızca DOT etiketi taşıyan, yurt dışından getirilmiş bir kask ABD standardına göre beyan edilmiştir; ECE testlerinden geçtiği anlamına gelmez.",
+          "Sitemizdeki kask kayıtlarında ECE 22.06, DOT, Snell ve FIM bilgisi ayrı alanlar olarak tutulur ve ürün sayfasındaki teknik özellik tablosunda gösterilir. Kask kategorisinde ECE 22.06 ve FIM onaylı kaskları filtreyle ayırabilirsin. Üreticiden veya resmi kaynaktan doğrulanamayan bir sertifikayı var gibi göstermeyiz; bu alanlar doğrulanana kadar boş kalır."
+        ],
+        "bullets": [
+          "Çene kayışında ECE etiketi var mı?",
+          "Onay numarası 06 ile mi başlıyor?",
+          "Çene açılır kaskta P/J işareti var mı?",
+          "Pist kullanacaksan model FIM listesinde mi?",
+          "SHARP puanı varsa kaç yıldız; yoksa bu bir eksi sayılmaz."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Türkiye'de DOT etiketli kask kullanılır mı?",
+        "a": "Türkiye BM 22 numaralı regülasyonu uygular, bu yüzden yurt içinde geçerli tip onayı ECE'dir. Yalnızca DOT etiketi olan bir kask ABD standardına göre üreticinin beyanıyla sertifikalandırılmıştır; ECE testlerinden geçmiş sayılmaz. Güncel yasal yükümlülükler için ilgili resmi düzenlemeleri kontrol etmek gerekir."
+      },
+      {
+        "q": "Snell, ECE 22.06'dan daha mı güvenli?",
+        "a": "Doğrudan karşılaştırma yapılamaz. İki standart farklı test yöntemleri ve sınırlar kullanır. Snell M2025R özellikle ECE 22.06'yı da karşılayacak kasklar için hazırlanmıştır; yani ikisi bir arada olabilir."
+      },
+      {
+        "q": "SHARP puanı olmayan kask kötü mü?",
+        "a": "Hayır. SHARP yalnızca test ettiği modelleri puanlar. Puanın olmaması, kaskın test edilmediğini gösterir; kaskın yasal onayı ayrıca kontrol edilmelidir."
+      },
+      {
+        "q": "Sokakta FIM onaylı kask kullanmak gerekli mi?",
+        "a": "Gerekli değil. FIM homologasyonu FIM şampiyonaları için hazırlanmış bir programdır. FIM, ECE 22.06 gibi temel bir onayı ön şart olarak arar; sokak kullanımı için belirleyici olan bu temel onaydır."
+      },
+      {
+        "q": "Kaskın etiketi kopmuşsa ne yapmalı?",
+        "a": "Etiketsiz bir kaskın hangi onaya sahip olduğunu kanıtlayamazsın. Kask eskiyse yenilemeyi düşün; yeni kask alırken etiketin yerinde ve okunur olduğundan emin ol."
+      }
+    ],
+    "relatedGuides": ["ece-22-06-nedir", "ece-22-05-ve-22-06-farki", "kask-nasil-secilir", "kask-kac-yilda-degistirilir", "kask-dusurulurse-degistirilir-mi", "karbon-mu-fiber-mi-kask"],
+    "relatedCategories": ["kask", "kask/racing-kask"],
+    "sources": [
+      { "url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20I/Chapter%20XI/XI-B-16-22.en.xml", "type": "homologation", "label": "BM Antlaşmalar Kayıtları: UN Regulation No. 22 ve uygulayan taraflar (Türkiye dahil)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.218", "type": "homologation", "label": "eCFR: 49 CFR 571.218, FMVSS No. 218 Motorcycle helmets", "checkedAt": "2026-10-09" },
+      { "url": "https://www.govinfo.gov/content/pkg/FR-2011-05-13/html/2011-11367.htm", "type": "homologation", "label": "NHTSA, Federal Register 13 Mayıs 2011: FMVSS 218 etiket kuralı, öz-sertifikasyon ve novelty kasklar", "checkedAt": "2026-10-09" },
+      { "url": "https://smf.org/standards/m/2025/M2025-Final-Cover-04-25-2024.pdf", "type": "homologation", "label": "Snell Foundation: M2025D ve M2025R açıklama notu (25 Nisan 2024)", "checkedAt": "2026-10-09" },
+      { "url": "https://smf.org/about", "type": "homologation", "label": "Snell Foundation: kuruluş, bağımsızlık ve rastgele örnek testleri", "checkedAt": "2026-10-09" },
+      { "url": "https://smf.org/cert", "type": "homologation", "label": "Snell Foundation: sertifikalı kask listesi, etiket doğrulama ve sahte etiket uyarısı", "checkedAt": "2026-10-09" },
+      { "url": "https://www.fim-moto.com/en/news/news-detail/article/fim-launches-the-phase-2-of-the-fim-racing-homologation-programme-for-helmets-frhphe-02", "type": "homologation", "label": "FIM: FRHPhe-02 kask homologasyon programının ikinci aşaması", "checkedAt": "2026-10-09" },
+      { "url": "https://www.fim-moto.com/en/news/news-detail/article/circuit-racing-helmets-come-into-force-fim-homologated-under-frhphe-02", "type": "homologation", "label": "FIM: FRHPhe-02 homologasyonlu pist kaskları ve çene kayışı etiketi", "checkedAt": "2026-10-09" },
+      { "url": "https://sharp.dft.gov.uk/sharp-testing/", "type": "review", "label": "SHARP (UK DfT): test yöntemi ve yıldız derecelendirmesi", "checkedAt": "2026-10-09" },
+      { "url": "https://sharp.dft.gov.uk/2026/09/23/the-anatomy-of-a-label-what-do-the-j-p-or-p-j-markings-on-the-label-mean/", "type": "review", "label": "SHARP: ECE etiketindeki J, P ve P/J işaretleri", "checkedAt": "2026-10-09" },
+      { "url": "https://sharp.dft.gov.uk/sharp-2025/", "type": "review", "label": "SHARP 2025: protokol güncelleme projesi", "checkedAt": "2026-10-09" }
+    ]
+  }
+]

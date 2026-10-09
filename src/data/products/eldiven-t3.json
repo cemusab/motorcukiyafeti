@@ -1,0 +1,985 @@
+[
+  {
+    "slug": "stella-s-max-drystar",
+    "brand": "alpinestars",
+    "name": "Stella S-Max Drystar",
+    "category": "eldiven",
+    "subcategories": [
+      "sport-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın kadın eli için kalıplanmış, Drystar membranlı kısa bilekli eldiveni; EN 13594:2015 Level 1 KP sertifikalı, sert eklem korumalı ve dokunmatik ekran uyumlu.",
+    "description": [
+      "Stella S-Max Drystar, Alpinestars'ın kadın sürücüler için ayrı kalıpla ürettiği kısa bilekli bir sokak/sport eldiveni. Gövde deri ve esnek file karışımından, iç tarafta su geçirmez ve nefes alan Drystar astar var. Üretici eldiveni EN 13594:2015 Level 1 KP olarak listeliyor; KP, eklem koruyucusunun darbe testinden geçtiğini gösteriyor.",
+      "Koruma tarafında üstü kaplı sert eklem koruyucu, dolgulu parmaklar, parmak kaydırıcıları ve yan takviyeler bulunuyor; avuçta tutuş için takviye ve esnek bir panel var. Kapanış tek cırtlı bilek kapağıyla yapılıyor, işaret parmağı dokunmatik ekranla çalışıyor. Kısa bilekli olduğu için mont kolunun içine giriyor; bu da yağmurda suyun bilekten girmemesi için kolun eldivenin üstüne binmesini gerektiriyor."
+    ],
+    "forWho": [
+      "Kadın eline uygun kalıpta su geçirmez günlük eldiven arayan sürücüler",
+      "Şehir içi ve kısa yolculukta yağmura yakalanan kadın motorcular",
+      "Kısa bilekli eldiveni mont kolunun içine takmayı sevenler"
+    ],
+    "notFor": [
+      "Soğuk kış sabahları için yalıtımlı eldiven arayanlar: yalıtım bilgisi yok",
+      "Pist ve tempolu sport sürüşte uzun bilekli eldiven isteyenler",
+      "Kurye kullanımında gün boyu takıp çıkarma: membranlı yapı içeride terletebilir"
+    ],
+    "pros": [
+      "EN 13594:2015 Level 1 KP sertifikalı",
+      "Kadın eline özel kalıp",
+      "Drystar su geçirmez astar",
+      "Dokunmatik ekran uyumlu parmak ucu"
+    ],
+    "cons": [
+      "Kısa bilek; yağmurda kolun üstten kapatması gerekir",
+      "Yalıtım değeri ve mevsim aralığı üretici sayfasında belirtilmemiş",
+      "Membran sıcak havada eli terletebilir"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: değişken havada şehir içi ve işe gidiş.",
+      "uzunYol": "Kısa turlarda yeterli; uzun yolda uzun bilekli touring eldiveni daha iyi korur.",
+      "yaz": "Membranlı olduğu için sıcakta yazlık file eldiven kadar serin değil.",
+      "kis": "Yalıtım bilgisi yok; sert soğukta yetersiz kalabilir.",
+      "yagmur": "Drystar astar yağmura karşı tasarlanmış; bilek kısa olduğu için kol eldivenin üstüne binmeli.",
+      "sport": "Sokak sport kullanımına uygun, pist için değil.",
+      "kurye": "Ara sıra kullanılabilir; gün boyu kullanımda membran nedeniyle terletebilir."
+    },
+    "verdict": "Stella S-Max Drystar, kadın eline göre kalıplanmış, sertifikalı ve su geçirmez bir günlük eldiven arayanlar için dengeli bir seçim. Kısa bileği ve belirsiz yalıtımı nedeniyle sert kış ya da uzun yol eldiveninin yerini tutmaz.",
+    "rivals": [
+      "alpinestars/stella-copper",
+      "dainese/tempest-2-d-dry-lady",
+      "scudo/parma-lady-wp1"
+    ],
+    "priceRange": {
+      "min": 6760,
+      "max": 6760,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-s-max-korumali-kadin-motosiklet-eldiveni-siyah-/-gri",
+        "price": 6760,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah / Gri"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Stella S-Max Drystar su geçirmez mi?",
+        "a": "Evet, Alpinestars eldivende su geçirmez ve nefes alan Drystar astar kullanıldığını belirtiyor. Bilek kısa olduğu için yağmurda mont kolunun eldivenin üstüne gelmesi gerekir."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Üretici eldiveni EN 13594:2015 Level 1 KP olarak listeliyor."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/s-max-womens-gloves-black-anthracite",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/s-max-womens-gloves-black-anthracite",
+        "type": "manufacturer",
+        "label": "Alpinestars – S-Max Gloves (kadın, Drystar) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-s-max-korumali-kadin-motosiklet-eldiveni-siyah-/-gri",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars S-Max Drystar Kadın Eldiven Siyah/Gri",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Antrasit"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": null,
+      "material": "Deri ve esnek file karışımı, avuçta takviye",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırtlı bilek kapağı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "ermex-womens",
+    "brand": "dainese",
+    "name": "Ermex Women",
+    "category": "eldiven",
+    "subcategories": [
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Dainese'nin kadın sürücüler için ürettiği file kumaşlı yazlık eldiveni; EN 13594:2015 Level 1 sertifikalı, termoform sert eklem korumalı, ayarlı bilekli.",
+    "description": [
+      "Ermex Women, Dainese'nin sıcak havada şehir içi sürüş için hazırladığı hafif, havalandırmalı kadın eldiveni. Gövde nefes alan file kumaştan, avuç sentetik süetten; serçe parmak ve avuç dış kenarında (ulna bölgesi) deri takviye var. Parmaklardaki file paneller hava akışını artırıyor.",
+      "Eklemde iç tarafı dolgulu termoform sert koruyucu, avuçta dolgu bulunuyor. Dainese eldiveni EN 13594:2015, Kategori II, Level 1 olarak sertifikalı listeliyor. Ön kıvrımlı parmaklar, elastik paneller, ayarlanabilir bilek kayışı, el sırtında reflektör ve işaret parmağında dokunmatik ekran ucu var. Su geçirmez değil; yağmurda ıslanır ve tekstil yapısı nedeniyle deri eldiven kadar sürtünme direnci beklenmemeli."
+    ],
+    "forWho": [
+      "Yazın şehir içinde serin ve sertifikalı eldiven arayan kadın sürücüler",
+      "Scooter ve naked motorla kısa mesafe kullanım",
+      "İlk eldivenini alan, bütçesini korumak isteyen kadın motorcular"
+    ],
+    "notFor": [
+      "Yağmurlu ve soğuk havada kullanım: su geçirmez değil, yalıtımı yok",
+      "Pist ve tempolu sport sürüş",
+      "Gün boyu kurye kullanımı: tekstil gövde yoğun kullanımda çabuk yıpranabilir"
+    ],
+    "pros": [
+      "EN 13594:2015 Level 1 sertifikalı",
+      "Kadın eline özel kalıp",
+      "File gövde ile iyi havalandırma",
+      "Reflektör ve dokunmatik ekran ucu"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Tekstil gövde deri kadar sürtünmeye dayanıklı değil",
+      "Kısa bilek, bilek koruması sınırlı"
+    ],
+    "usage": {
+      "sehir": "Asıl kullanım alanı: sıcak havada şehir içi sürüş.",
+      "uzunYol": "Yazın kısa turlarda kullanılabilir; uzun etapta touring eldiveni daha iyi.",
+      "yaz": "File gövde sıcak havada serin tutar.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yazın kısa süreli kullanılabilir; yoğun günlük kurye kullanımında tekstil gövde çabuk aşınabilir."
+    },
+    "verdict": "Ermex Women, sıcak havada şehirde sertifikalı ve hafif bir eldiven isteyen kadın sürücüler için mantıklı bir seçim. Yağmur, soğuk ve yüksek hızlı kullanım için ikinci bir eldiven gerekir.",
+    "rivals": [
+      "alpinestars/stella-copper",
+      "revit/sand-5-ladies",
+      "held/sparrow-2"
+    ],
+    "priceRange": {
+      "min": 4242,
+      "max": 4242,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "İndirimli fiyat; liste fiyatı 4.990 TL. Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Mototaş",
+        "url": "https://www.mototas.com.tr/dainese-eld-ermex-gloves-wmn-blackwhite-l-46634",
+        "price": 4990,
+        "salePrice": 4242,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah / Beyaz"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ermex Women yağmurda kullanılır mı?",
+        "a": "Hayır, membranı yok ve file gövdesi su alır. Yağmurlu günler için membranlı bir eldiven gerekir."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Dainese eldiveni EN 13594:2015, Kategori II, Level 1 olarak sertifikalı listeliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.dainese.com/us/en/ermex---womens-summer-motorcycle-gloves-2018100027622.html",
+    "sources": [
+      {
+        "url": "https://www.dainese.com/us/en/ermex---womens-summer-motorcycle-gloves-2018100027622.html",
+        "type": "manufacturer",
+        "label": "Dainese – Ermex Women's Summer Motorcycle Gloves ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mototas.com.tr/dainese-eld-ermex-gloves-wmn-blackwhite-l-46634",
+        "type": "retailer",
+        "label": "Mototaş – Dainese Ermex Kadın Eldiven Siyah/Beyaz",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Beyaz"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "yaz",
+      "material": "Nefes alan file kumaş, sentetik süet avuç, deri takviye",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Parmaklarda ve gövdede file paneller",
+      "closure": "Ayarlanabilir bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "hyde-xt-drystar-xf",
+    "brand": "alpinestars",
+    "name": "Hyde XT Drystar XF",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Alpinestars'ın laminasyonlu Drystar XF membranlı, orta boy bilekli adventure eldiveni; viskoelastik eklem koruması, parmak köprüsü ve CE Level 1 KP sertifikası.",
+    "description": [
+      "Hyde XT Drystar XF, Alpinestars'ın arazi ağırlıklı adventure ve dual sport sürüşü için geliştirdiği su geçirmez eldiven. Drystar XF membran dış kumaşa laminasyonlu; Alpinestars membranın 15.000 mm su sütunu ve 15.000 g/m² nefes alma değerine sahip olduğunu, kolay katlanıp çabuk kuruduğunu belirtiyor. Laminasyon, astarlı membranlara göre ıslanınca ağırlaşma ve içe dönme sorununu azaltır.",
+      "Parmaklarda keçi derisi, avuçta takviyeli sentetik süet, gövdede esnek kumaş kullanılmış. Uzatılmış, üstü kaplı viskoelastik eklem koruyucu ve düşmede serçe parmağın ayrılmasını önleyen parmak köprüsü var. Üretici eldiveni CE Level 1 KP olarak listeliyor. İnce bilek kapağı ve bilek kayışı ile kapanıyor; başparmak ve işaret parmağı dokunmatik ekran uyumlu. Yalıtım bilgisi verilmemiş, bu yüzden kışın soğuk sabahlarında ince bir iç eldiven gerekebilir."
+    ],
+    "forWho": [
+      "Yağmurda da kullanılacak adventure ve dual sport eldiveni arayanlar",
+      "Kumandaları hissederek sürmek isteyen, kalın kışlık eldiven sevmeyenler",
+      "Arazi ve asfalt karışık tur yapan sürücüler"
+    ],
+    "notFor": [
+      "Sert kış soğuğu için yalıtımlı eldiven arayanlar",
+      "Pist kullanımı",
+      "Kurye kullanımında gün boyu takıp çıkarma: membran sıcakta terletebilir"
+    ],
+    "pros": [
+      "Laminasyonlu Drystar XF membran: 15.000 mm / 15.000 g/m²",
+      "CE Level 1 KP, viskoelastik geniş eklem koruması",
+      "Parmak köprüsü",
+      "Dokunmatik ekran uyumlu iki parmak"
+    ],
+    "cons": [
+      "Yalıtım bilgisi yok",
+      "Tam EN 13594 standart kodu üretici sayfasında yazılmamış",
+      "Orta boy bilek, uzun bilekli touring eldiveni kadar kolu kapatmaz"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu günlerde şehir içinde de kullanılabilir.",
+      "uzunYol": "Değişken havada adventure turları için uygun.",
+      "yaz": "Membranlı olduğundan çok sıcak havada file eldiven kadar serin değil.",
+      "kis": "Yalıtım bilgisi yok; serin havada yeterli, sert soğukta iç eldiven gerekebilir.",
+      "yagmur": "Laminasyonlu Drystar XF membran yağmura karşı tasarlanmış.",
+      "sport": "Sport ve pist kullanımı için değil.",
+      "kurye": "Yağmurlu günlerde kullanılabilir; gün boyu kullanımda membran terletebilir."
+    },
+    "verdict": "Hyde XT Drystar XF, hissi kaybetmeden su geçirmezlik isteyen adventure sürücüleri için güçlü bir aday; laminasyonlu membran ıslandıktan sonra da rahat kullanım sağlıyor. Yalıtımı belirtilmediği için kış eldiveni olarak görülmemeli.",
+    "rivals": [
+      "leatt/adv-hydradri-7-5",
+      "alpinestars/andes-v3-drystar",
+      "bmw-motorrad/gs-rallye-gloves"
+    ],
+    "priceRange": {
+      "min": 8190,
+      "max": 8190,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-hyde-xt-ds-wp-korumali-motosiklet-eldiveni-siyah-/-siyah",
+        "price": 8190,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah / Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hyde XT Drystar XF kışlık mı?",
+        "a": "Üretici yalıtım bilgisi vermiyor ve eldiveni dört mevsim adventure ürünü olarak etiketliyor. Serin havada yeterli olur, sert soğukta iç eldiven gerekebilir."
+      },
+      {
+        "q": "Drystar XF ile normal Drystar farkı nedir?",
+        "a": "XF membran dış kumaşa laminasyonlu ve Alpinestars'a göre daha yüksek nefes alma sunuyor; ıslandığında ağırlaşma ve içe dönme sorunu daha az olur."
+      }
+    ],
+    "manufacturerUrl": "https://gb.alpinestars.com/products/hyde-xt-drystar-sup-reg-sup-xf-gloves-black-black",
+    "sources": [
+      {
+        "url": "https://gb.alpinestars.com/products/hyde-xt-drystar-sup-reg-sup-xf-gloves-black-black",
+        "type": "manufacturer",
+        "label": "Alpinestars – Hyde XT Drystar XF Gloves ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-hyde-xt-ds-wp-korumali-motosiklet-eldiveni-siyah-/-siyah",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Hyde XT DS WP Eldiven Siyah/Siyah",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceStandard",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah / Siyah",
+      "Siyah / Parlak Kırmızı",
+      "Ateş Kırmızısı / Siyah"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": "4-mevsim",
+      "material": "Keçi derisi parmaklar, sentetik süet avuç, esnek kumaş gövde",
+      "materialClass": "karma",
+      "ceStandard": null,
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "Drystar XF (laminasyonlu)",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "İnce bilek kapağı ve bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "adv-hydradri-7-5",
+    "brand": "leatt",
+    "name": "ADV HydraDri 7.5",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "touring-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Leatt'in HydraDri EVO membranlı uzun bilekli adventure eldiveni; 3DF yumuşak darbe köpüğü, avuç kaydırıcıları, EN 13594:2015 sertifikası ve başparmakta vizör sileceği.",
+    "description": [
+      "ADV HydraDri 7.5, Leatt'in kötü havada adventure sürüşü için hazırladığı su geçirmez eldiven. Leatt HydraDri EVO membranın 20.000 mm su sütunu ve 20.000 g/m² nefes alma değerine sahip olduğunu belirtiyor. Bu, değişken havada uzun etaplarda eli kuru tutmaya yönelik yüksek bir değer.",
+      "Koruma tarafında el sırtında 3DF yumuşak darbe köpüğü, parmaklarda TPR koruma, avuçta kaydırıcılar ve kritik bölgelerde çift katman malzeme var; eldiven EN 13594:2015'e göre sertifikalı. Avuç dikişsiz deri, gövde Leatt Stretch RipStop kumaş. Bilek üstüne çıkan standart boyda, cırtlı manşet ve bilek hareketini serbest bırakan FreeFlex kayışla kapanıyor. Sol başparmakta yağmur/vizör sileceği, dokunmatik ekran ucu ve reflektör detaylar bulunuyor. Leatt koruma seviyesini (Level 1/2) sayfada belirtmiyor."
+    ],
+    "forWho": [
+      "Yağmurlu ve çamurlu adventure turları yapan sürücüler",
+      "Uzun bilekli, monta binen su geçirmez eldiven arayanlar",
+      "Sert kabuk yerine yumuşak eklem koruması tercih edenler"
+    ],
+    "notFor": [
+      "Sıcak yaz günleri: membranlı yapı terletir",
+      "Pist ve sport kullanım",
+      "Kurye kullanımında sık takıp çıkarma: uzun manşet ve membran pratik değil"
+    ],
+    "pros": [
+      "HydraDri EVO membran: 20.000 mm / 20.000 g/m²",
+      "EN 13594:2015 sertifikalı",
+      "Dikişsiz deri avuç ve avuç kaydırıcıları",
+      "Başparmakta vizör sileceği, dokunmatik ekran ucu"
+    ],
+    "cons": [
+      "Koruma seviyesi (Level 1/2) belirtilmemiş",
+      "Yalıtım bilgisi yok",
+      "Türkiye'de görülen renk Desert; diğer renkler sınırlı olabilir"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu günlerde şehirde kullanılabilir ama uzun manşet günlük kullanımda hantal kalabilir.",
+      "uzunYol": "Asıl kullanım alanı: değişken havada adventure turları.",
+      "yaz": "Sıcakta membran nedeniyle terletebilir.",
+      "kis": "Yalıtım bilgisi yok; serin havada yeterli, sert soğukta iç eldiven gerekebilir.",
+      "yagmur": "HydraDri EVO membran ve vizör sileceği yağmurlu sürüş için tasarlanmış.",
+      "sport": "Sport kullanım için değil.",
+      "kurye": "Uygun değil; uzun manşet ve membranlı yapı sık takıp çıkarmada pratik değil."
+    },
+    "verdict": "ADV HydraDri 7.5, kötü havada uzun tur yapan adventure sürücüleri için yüksek membran değerleri ve sertifikalı korumayla güçlü bir seçenek. Koruma seviyesinin belirtilmemesi ve yalıtım bilgisinin olmaması eksik taraf.",
+    "rivals": [
+      "alpinestars/hyde-xt-drystar-xf",
+      "leatt/adv-hydradri-6-5-women",
+      "bmw-motorrad/gs-rallye-gloves"
+    ],
+    "priceRange": {
+      "min": 5211.36,
+      "max": 5211.36,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "İndirimli fiyat; liste fiyatı 8.685.6 TL. Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/leatt-adv-7.5-hydradri-eldiven-desert-8262",
+        "price": 8685.6,
+        "salePrice": 5211.36,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Desert"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "ADV HydraDri 7.5 su geçirmez mi?",
+        "a": "Evet. Leatt HydraDri EVO membranın 20.000 mm su sütunu ve 20.000 g/m² nefes alma değerinde olduğunu belirtiyor."
+      },
+      {
+        "q": "Kısa versiyonu var mı?",
+        "a": "Evet, Leatt aynı eldivenin kısa manşetli bir sürümünü de üretiyor; FreeFlex bilek kayışı yalnızca uzun sürümde var."
+      }
+    ],
+    "manufacturerUrl": "https://int.leatt.com/products/gloves-adv-hydradri-7-5",
+    "sources": [
+      {
+        "url": "https://int.leatt.com/products/gloves-adv-hydradri-7-5",
+        "type": "manufacturer",
+        "label": "Leatt – Gloves ADV HydraDri 7.5 ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://enduromarket.com/leatt-adv-7.5-hydradri-eldiven-desert-8262",
+        "type": "retailer",
+        "label": "Enduromarket – Leatt Adv 7.5 HydraDri Eldiven Desert",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.season",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Stealth",
+      "Desert",
+      "Steel"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": null,
+      "material": "Dikişsiz deri avuç, Leatt Stretch RipStop gövde, 3DF darbe köpüğü, TPR parmak koruması",
+      "materialClass": "karma",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "HydraDri EVO",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Cırtlı manşet ve FreeFlex bilek kayışı",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "coniston",
+    "brand": "knox",
+    "name": "Coniston",
+    "category": "eldiven",
+    "subcategories": [
+      "touring-eldiven",
+      "kislik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Knox'un eVent membranlı, uzun manşetli üç mevsim deri eldiveni; skafoid koruma sistemi (SPS), Micro-Lock eklem, BOA bilek ayarı ve EN 13594:2015 sertifikası.",
+    "description": [
+      "Coniston, Knox'un ilkbahar, sonbahar ve yağmurlu yaz günleri için tasarladığı tamamen su geçirmez deri eldiveni. İçte hava geçiren eVent membran var; Knox eldivenin kalın yalıtım içermediğini, bu sayede hacim yapmadan geniş bir sıcaklık aralığında kullanılabildiğini belirtiyor. Gövde yüzde yüz sığır derisi, manşet yağmura karşı uzun.",
+      "Avuçta Knox'un skafoid koruma sistemi (SPS) bulunuyor; deri avucun yere değdiğinde tutup bileği bükmesini azaltmak için tasarlanmış alçak profilli bir kaydırıcı. El sırtında yeni yumuşak Micro-Lock eklem koruyucu, parmaklarda TPR kaydırıcılar, avuçta silikon tutuş yaması var. Bilek BOA döner düğmeyle milimetrik ayarlanıyor. Sol başparmakta vizör sileceği, dokunmatik ekran uyumu mevcut. Knox eldiveni EN 13594:2015'e göre CE onaylı listeliyor, seviye bilgisi vermiyor."
+    ],
+    "forWho": [
+      "İlkbahar-sonbahar ve yağmurlu günlerde deri eldiven isteyen touring sürücüleri",
+      "Kalın kış eldiveninin hantallığını sevmeyenler",
+      "Avuç ve bilek koruması önemseyen sürücüler"
+    ],
+    "notFor": [
+      "Sıfır derece civarı kış sürüşü: yalıtımı yok",
+      "Bütçe odaklı alıcılar: fiyatı segmentinin üstünde",
+      "Kurye kullanımı: uzun manşet ve fiyat sık takıp çıkarmaya uygun değil"
+    ],
+    "pros": [
+      "eVent su geçirmez ve hava geçiren membran",
+      "Skafoid koruma sistemi (SPS)",
+      "BOA ile hassas bilek ayarı",
+      "Uzun manşet, vizör sileceği"
+    ],
+    "cons": [
+      "Yalıtımsız; soğuk kışta yetersiz",
+      "Koruma seviyesi belirtilmemiş",
+      "Türkiye fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Yağmurlu günlerde şehirde kullanılabilir; BOA sayesinde takıp çıkarmak kolay.",
+      "uzunYol": "Asıl kullanım alanı: değişken havada touring.",
+      "yaz": "Yağmurlu yaz günleri için uygun, sıcak ve kuru havada fazla.",
+      "kis": "Yalıtımsız; serin günlerde yeterli, sert kışta değil.",
+      "yagmur": "eVent membran ve uzun manşet yağmur için tasarlanmış.",
+      "kurye": "Uygun değil; uzun manşet ve fiyatı yoğun günlük kullanıma göre değil."
+    },
+    "verdict": "Coniston, ara mevsimde ve yağmurda deri eldiven kullanmak isteyen touring sürücüleri için skafoid koruma ve BOA ayarıyla öne çıkan bir eldiven. Yalıtımı olmadığı için gerçek kış eldiveni değil, fiyatı da yüksek.",
+    "rivals": [
+      "knox/zero-mk4",
+      "held/air-n-dry-2",
+      "dainese/tempest-2-d-dry-long"
+    ],
+    "priceRange": {
+      "min": 15370,
+      "max": 15370,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/knox-coniston-wp-korumali-motosiklet-eldiveni-siyah",
+        "price": 15370,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Coniston kış eldiveni mi?",
+        "a": "Hayır. Knox onu üç mevsim eldiveni olarak tanımlıyor ve kalın yalıtım içermediğini belirtiyor; sert soğuk için Zero MK4 gibi yalıtımlı bir model daha uygun."
+      },
+      {
+        "q": "SPS nedir?",
+        "a": "Knox'un avuçtaki skafoid koruma sistemi; düşmede deri avucun yere yapışıp bileği bükmesini azaltmak için tasarlanmış alçak profilli kaydırıcı."
+      }
+    ],
+    "manufacturerUrl": "https://www.planet-knox.com/product/coniston/",
+    "sources": [
+      {
+        "url": "https://www.planet-knox.com/product/coniston/",
+        "type": "manufacturer",
+        "label": "Knox – Coniston ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/knox-coniston-wp-korumali-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Knox Coniston WP Eldiven Siyah",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 20.0,
+        "max": 20.0
+      },
+      {
+        "size": "S",
+        "min": 21.5,
+        "max": 21.5
+      },
+      {
+        "size": "M",
+        "min": 23.0,
+        "max": 23.0
+      },
+      {
+        "size": "L",
+        "min": 24.5,
+        "max": 24.5
+      },
+      {
+        "size": "XL",
+        "min": 26.0,
+        "max": 26.0
+      },
+      {
+        "size": "2XL",
+        "min": 27.5,
+        "max": 27.5
+      },
+      {
+        "size": "3XL",
+        "min": 29.0,
+        "max": 29.0
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "erkek",
+      "season": null,
+      "material": "Yüzde yüz sığır derisi, TPR parmak kaydırıcıları, silikon avuç yaması",
+      "materialClass": "deri",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": true,
+      "membrane": "eVent",
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "BOA döner düğmeli bilek ayarı, uzun manşet",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "taskala",
+    "brand": "held",
+    "name": "Taskala",
+    "category": "eldiven",
+    "subcategories": [
+      "adventure-eldiven",
+      "yazlik-eldiven"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Held'in uygun fiyatlı, file sırtlı yazlık adventure eldiveni; erkek ve kadın bedenleriyle, sert plastik eklem koruması ve EN 13594:2015 Level 1 KP sertifikası.",
+    "description": [
+      "Taskala, Held'in sıcak havada adventure ve touring kullanımı için ürettiği hafif tekstil eldiven. El sırtı elastan ve file kumaştan, avuç terlemeye ve solmaya dayanıklı Chamude sentetik deriden yapılmış; avuç astarsız, el sırtı hafif astarlı. Held modeli erkek bedenlerinin (6–12) yanında ayrı kadın bedenleriyle (D-5–D-8) de sunuyor.",
+      "Eklemde Held Armaprotec sert plastik koruyucu var, başparmak kökü alttan takviyeli. Held eldiveni EN 13594:2015 Level 1 KP olarak sertifikalı gösteriyor. Bilekte cırtlı ayar, avuçta silikon baskı ve dokunmatik ekran kullanımı için parmak ve başparmakta özel deri bulunuyor. Membranı yok, su geçirmez değil; kısa yapısı nedeniyle bilek koruması da sınırlı."
+    ],
+    "forWho": [
+      "Yazın adventure veya touring sürüşünde hafif, sertifikalı eldiven arayanlar",
+      "Kadın bedeni bulunan uygun fiyatlı eldiven arayan sürücüler",
+      "İlk adventure eldivenini alanlar"
+    ],
+    "notFor": [
+      "Yağmur ve soğuk hava: membranı ve yalıtımı yok",
+      "Yüksek hızlı sport sürüş",
+      "Kurye kullanımı: tekstil gövde yoğun günlük kullanımda çabuk yıpranabilir"
+    ],
+    "pros": [
+      "EN 13594:2015 Level 1 KP sertifikalı",
+      "Kadın bedenleri ayrı sunuluyor",
+      "File sırt ile iyi havalandırma",
+      "Fiyatı segmentine göre düşük"
+    ],
+    "cons": [
+      "Su geçirmez değil",
+      "Kısa bilek, bilek koruması sınırlı",
+      "Sentetik avuç, deri kadar sürtünmeye dayanıklı değil"
+    ],
+    "usage": {
+      "sehir": "Yazın şehir içinde rahat kullanılır.",
+      "uzunYol": "Sıcak havada touring ve adventure turlarında uygun.",
+      "yaz": "Asıl kullanım alanı: file sırt hava alır.",
+      "kis": "Uygun değil.",
+      "yagmur": "Su geçirmez değil.",
+      "kurye": "Yazın ara sıra kullanılabilir; yoğun kurye kullanımında tekstil gövde çabuk aşınabilir."
+    },
+    "verdict": "Taskala, sıcak havada sertifikalı ve hafif bir adventure eldiveni isteyenler için fiyat/performans tarafında öne çıkıyor; kadın bedenlerinin olması da artı. Yağmurda ve soğukta ikinci bir eldiven şart.",
+    "rivals": [
+      "held/sparrow-2",
+      "held/desert-2",
+      "alpinestars/stella-copper"
+    ],
+    "priceRange": {
+      "min": 4200,
+      "max": 4200,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "Stok durumu doğrulanmadı."
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/held-taskala-korumali-kadin-motosiklet-eldiveni-siyah",
+        "price": 4200,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Taskala'nın kadın bedeni var mı?",
+        "a": "Evet. Held siyah renkte kadın bedenlerini D-5, D-6, D-7 ve D-8 olarak listeliyor; erkek bedenleri 6–12 arası."
+      },
+      {
+        "q": "Hangi sertifikaya sahip?",
+        "a": "Held eldiveni EN 13594:2015 Level 1 KP olarak gösteriyor; eklem koruması darbe testinden geçmiş."
+      }
+    ],
+    "manufacturerUrl": "https://shop.held.de/en/Taskala-Adventure-glove/022461-00-001-0-7",
+    "sources": [
+      {
+        "url": "https://shop.held.de/en/Taskala-Adventure-glove/022461-00-001-0-7",
+        "type": "manufacturer",
+        "label": "Held – Taskala Adventure glove ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.motomax.com.tr/held-taskala-korumali-kadin-motosiklet-eldiveni-siyah",
+        "type": "retailer",
+        "label": "Motomax – Held Taskala Kadın Eldiven Siyah",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah",
+      "Gri-Siyah"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "D-5",
+      "D-6",
+      "D-7",
+      "D-8"
+    ],
+    "sizeChart": [
+      {
+        "size": "6",
+        "min": 15.2,
+        "max": 15.2
+      },
+      {
+        "size": "7",
+        "min": 17.8,
+        "max": 17.8
+      },
+      {
+        "size": "8",
+        "min": 20.3,
+        "max": 20.3
+      },
+      {
+        "size": "9",
+        "min": 22.9,
+        "max": 22.9
+      },
+      {
+        "size": "10",
+        "min": 25.4,
+        "max": 25.4
+      },
+      {
+        "size": "11",
+        "min": 27.9,
+        "max": 27.9
+      },
+      {
+        "size": "12",
+        "min": 30.4,
+        "max": 30.4
+      },
+      {
+        "size": "D-6",
+        "min": 14.5,
+        "max": 14.5
+      },
+      {
+        "size": "D-7",
+        "min": 16.2,
+        "max": 16.2
+      },
+      {
+        "size": "D-8",
+        "min": 17.8,
+        "max": 17.8
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "yaz",
+      "material": "Elastan ve file kumaş sırt, Chamude sentetik deri avuç",
+      "materialClass": "tekstil",
+      "ceStandard": "EN 13594:2015",
+      "ceClass": "Level 1 KP",
+      "protectors": [
+        {
+          "area": "parmak",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "avuc",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "File kumaş el sırtı",
+      "closure": "Cırtlı bilek ayarı",
+      "madeIn": null
+    }
+  }
+]

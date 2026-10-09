@@ -1471,7 +1471,7 @@
     "status": "active",
     "successor": null,
     "category": "mont",
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizeChart": [],
     "sizeChartMeasure": null,
     "buyerInsights": null,
@@ -1526,9 +1526,9 @@
     "offers": [
       {
         "seller": "Vecton (Tech90 resmi mağaza)",
-        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
-        "price": 8599,
-        "salePrice": null,
+        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-150",
+        "price": 12000,
+        "salePrice": 8599,
         "currency": "TRY",
         "inStock": true,
         "sizes": [
@@ -1536,11 +1536,10 @@
           "M",
           "L",
           "XL",
-          "2XL",
-          "3XL"
+          "2XL"
         ],
         "colors": [],
-        "checkedAt": "2026-10-06"
+        "checkedAt": "2026-10-09"
       }
     ],
     "faq": [
@@ -1553,13 +1552,13 @@
         "a": "Vecton tüm ceket ürünlerinde ImpacTec korumaları hediye olarak verdiğini belirtiyor; korumalar EN 1621-1:2012 ve EN 1621-2:2014 onaylı."
       }
     ],
-    "manufacturerUrl": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
+    "manufacturerUrl": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-150",
     "sources": [
       {
-        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-43",
+        "url": "https://vecton.com.tr/vecton-4-mevsim-korumali-kevlar-motosiklet-montu-150",
         "type": "manufacturer",
         "label": "Vecton – 4 Mevsim Korumalı Kevlar Motosiklet Montu ürün sayfası",
-        "checkedAt": "2026-10-06"
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -1615,7 +1614,8 @@
       "min": 8599,
       "max": 8599,
       "currency": "TRY",
-      "checkedAt": "2026-10-06"
+      "checkedAt": "2026-10-09",
+      "note": "Resmi mağazada 12.000 TL liste fiyatı üzerinden indirimli fiyat (KDV dahil)."
     }
   },
   {

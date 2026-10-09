@@ -24,11 +24,14 @@ export function productTypeLabel(p: Product) {
     .replace(/^./, (c) => c.toLocaleUpperCase("tr"));
 }
 
+/** Kaskta ECE 22.06 onayı üretici kaynağında doğrulanamadıysa kartta ve sayfada uyarı rengiyle gösterilen etiket. */
+export const CERT_PENDING = "ECE doğrulanıyor";
+
 export function keyChips(p: Product): string[] {
   if (p.category === "kask") {
     const s = p.specs;
     return [
-      s.ece2206 ? "ECE 22.06" : null,
+      s.ece2206 === true ? "ECE 22.06" : CERT_PENDING,
       s.shellMaterial && s.shellMaterial.length <= 22 ? s.shellMaterial : s.materialClass ? s.materialClass[0].toLocaleUpperCase("tr") + s.materialClass.slice(1) : null,
       s.weightGrams ? `${s.weightGrams} g` : null,
       s.sunVisor ? "Güneş vizörü" : null,

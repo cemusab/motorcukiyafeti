@@ -23,6 +23,7 @@ import {
   getBrand,
   getMedia,
   localFirst,
+  getGuide,
   getGuides,
   getProductById,
   getProducts,
@@ -30,7 +31,7 @@ import {
   productId,
   productPath,
 } from "@/lib/data";
-import { keyChips, productTypeLabel, specRows } from "@/lib/labels";
+import { keyChips, productTypeLabel, specRows, CERT_PENDING } from "@/lib/labels";
 import { clip, faqLd, meta } from "@/lib/seo";
 import { abs } from "@/lib/site";
 
@@ -184,12 +185,13 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
           <p className="mt-2 text-lg text-mute">{productTypeLabel(p)}</p>
           <ul className="mt-4 flex flex-wrap gap-1.5">
             {keyChips(p).map((k) => (
-              <li key={k} className="rounded border border-line bg-white px-2.5 py-1 text-sm font-medium">
+              <li key={k} className={`rounded border px-2.5 py-1 text-sm font-medium ${k === CERT_PENDING ? "border-warn/40 bg-warn/5 text-[#7a3d06]" : k === "ECE 22.06" ? "border-ok/30 bg-ok/5 text-ok" : "border-line bg-white"}`}>
                 {k}
               </li>
             ))}
           </ul>
           <p className="mt-5 text-[17px] leading-relaxed">{p.summary}</p>
+          {p.category === "kask" && <HelmetCertBox ok={p.specs.ece2206 === true} dot={p.specs.dot === true} />}
 
           <div className="mt-6 rounded-lg border border-line bg-white p-4">
             {price ? (
@@ -600,5 +602,28 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
         </Container>
       )}
     </>
+  );
+}
+
+/** Kask güvenlik onayı kutusu: ECE 22.06 üretici kaynağıyla doğrulandı mı? Kullanıcıyı etiket kontrolüne yönlendirir. */
+function HelmetCertBox({ ok, dot }: { ok: boolean; dot: boolean }) {
+  const guide = getGuide("kask-sertifikalari-ne-anlama-gelir");
+  return (
+    <div className={`mt-4 rounded-lg border p-4 text-sm ${ok ? "border-ok/30 bg-ok/5" : "border-warn/40 bg-warn/5 text-[#7a3d06]"}`}>
+      <p className="font-semibold">{ok ? "Güvenlik onayı: ECE 22.06 (üreticinin resmi kaynağına göre)" : "ECE 22.06 onayı doğrulanıyor"}</p>
+      <p className="mt-1">
+        {ok
+          ? "Satın alırken çene kayışındaki ECE etiketini kontrol et: onay numarası 06 ile başlamalı."
+          : `Bu kaskın ECE 22.06 onayını üreticinin resmi sayfasında doğrulayamadık${dot ? " (üretici DOT onayı belirtiyor)" : ""}. Satın almadan önce çene kayışındaki ECE etiketini kontrol et; etiketinde güvenlik onayı olmayan kask alma, çünkü darbe testinden geçtiği kanıtlanmamıştır.`}
+        {guide && (
+          <>
+            {" "}
+            <Link href={`/rehber/${guide.slug}`} className="font-semibold underline">
+              Kask sertifikaları ne anlama gelir?
+            </Link>
+          </>
+        )}
+      </p>
+    </div>
   );
 }
