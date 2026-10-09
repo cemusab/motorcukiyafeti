@@ -112,12 +112,17 @@
         "type": "retailer",
         "label": "Motomax – Alpinestars GP Pro R4 Siyah/Kırmızı/Beyaz",
         "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/size-intl_adult-road-glove.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars yol eldiveni beden tablosu (erkek)",
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-08",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "high",
     "unverified": [
-      "sizeChart",
       "specs.madeIn"
     ],
     "colors": [
@@ -133,8 +138,39 @@
       "2XL",
       "3XL"
     ],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 17.8,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 20.3,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 21.6,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 22.9,
+        "max": 24.1
+      },
+      {
+        "size": "2XL",
+        "min": 24.1,
+        "max": 25.4
+      },
+      {
+        "size": "3XL",
+        "min": 25.4,
+        "max": 27.9
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
     "buyerInsights": null,
     "specs": {
       "gender": "erkek",
@@ -410,13 +446,18 @@
         "type": "retailer",
         "label": "Motomax – Alpinestars HT-5 Heat Tech Drystar Siyah",
         "checkedAt": "2026-10-08"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/size-intl_adult-road-glove.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars yol eldiveni beden tablosu (erkek)",
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-08",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "medium",
     "unverified": [
       "specs.ceStandard",
-      "sizeChart",
       "specs.madeIn"
     ],
     "colors": [
@@ -430,8 +471,39 @@
       "2XL",
       "3XL"
     ],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 17.8,
+        "max": 20.3
+      },
+      {
+        "size": "M",
+        "min": 20.3,
+        "max": 21.6
+      },
+      {
+        "size": "L",
+        "min": 21.6,
+        "max": 22.9
+      },
+      {
+        "size": "XL",
+        "min": 22.9,
+        "max": 24.1
+      },
+      {
+        "size": "2XL",
+        "min": 24.1,
+        "max": 25.4
+      },
+      {
+        "size": "3XL",
+        "min": 25.4,
+        "max": 27.9
+      }
+    ],
+    "sizeChartMeasure": "El çevresi (cm)",
     "buyerInsights": null,
     "specs": {
       "gender": "unisex",

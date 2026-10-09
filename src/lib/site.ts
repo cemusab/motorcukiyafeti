@@ -8,6 +8,11 @@ export const SITE = {
   locale: "tr_TR",
   /** Şikâyet, öneri, hata bildirimi ve kullanıcı yorumları bu adrese gelir; yorumlar onaydan sonra yayınlanır. */
   email: "motorcukiyafeti@gmail.com",
+  /** Resmi sosyal medya hesapları (site sahibi açtı, 2026-10-08). Footer ve Organization schema sameAs bunu kullanır. */
+  social: [
+    { name: "Instagram", url: "https://www.instagram.com/motorcukiyafeticom/" },
+    { name: "X", url: "https://x.com/motorcukiyafeti" },
+  ],
 };
 
 /** Konu ve gövdesi hazır mailto bağlantısı. */

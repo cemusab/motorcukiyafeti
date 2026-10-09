@@ -1619,7 +1619,7 @@
         "checkedAt": "2026-10-06"
       }
     ],
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "slug": "atom-2-sv",
     "brand": "mt-helmets",
     "name": "Atom 2 SV",
@@ -1725,8 +1725,39 @@
       "warrantyYears": null,
       "madeIn": null
     },
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "sources": [
       {
         "url": "https://mthelmets.com/en/products/atom-2-sv-pure-a1-matt",
@@ -1739,6 +1770,12 @@
         "type": "retailer",
         "label": "Vipmoto – MT Helmets Atom 2 SV (Solid A1 Parlak Siyah)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0836/6827/1431/files/MT_Size_EN_transparente.jpg",
+        "type": "manufacturer",
+        "label": "MT Helmets beden tablosu",
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -1756,8 +1793,7 @@
       "specs.emergencyCheekPads",
       "specs.intercomReady",
       "specs.warrantyYears",
-      "specs.madeIn",
-      "sizeChart"
+      "specs.madeIn"
     ]
   },
   {
@@ -1785,7 +1821,7 @@
         "checkedAt": "2026-10-06"
       }
     ],
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "slug": "thunder-4-sv",
     "brand": "mt-helmets",
     "name": "Thunder 4 SV",
@@ -1894,8 +1930,44 @@
       "warrantyYears": null,
       "madeIn": null
     },
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      },
+      {
+        "size": "3XL",
+        "min": 65,
+        "max": 66
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "sources": [
       {
         "url": "https://mthelmets.com/en/products/thunder-4-sv-pure-a1-matt",
@@ -1908,6 +1980,12 @@
         "type": "retailer",
         "label": "Vipmoto – MT Helmets Thunder 4 SV (Rainforest C2)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0836/6827/1431/files/MT_Size_EN_transparente.jpg",
+        "type": "manufacturer",
+        "label": "MT Helmets beden tablosu",
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -1928,8 +2006,7 @@
       "specs.intercomReady",
       "specs.spoiler",
       "specs.warrantyYears",
-      "specs.madeIn",
-      "sizeChart"
+      "specs.madeIn"
     ]
   },
   {
@@ -2141,7 +2218,7 @@
         "checkedAt": "2026-10-06"
       }
     ],
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "slug": "genesis-sv",
     "brand": "mt-helmets",
     "name": "Genesis SV",
@@ -2242,8 +2319,39 @@
       "warrantyYears": null,
       "madeIn": null
     },
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "sources": [
       {
         "url": "https://mthelmets.com/en/products/genesis-sv-raccoon-b5-matt",
@@ -2262,6 +2370,12 @@
         "type": "retailer",
         "label": "Vipmoto – MT Helmets Genesis SV (Solid A6)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0836/6827/1431/files/MT_Size_EN_transparente.jpg",
+        "type": "manufacturer",
+        "label": "MT Helmets beden tablosu",
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -2282,8 +2396,7 @@
       "specs.intercomReady",
       "specs.spoiler",
       "specs.warrantyYears",
-      "specs.madeIn",
-      "sizeChart"
+      "specs.madeIn"
     ]
   },
   {
@@ -3687,7 +3800,7 @@
         "checkedAt": "2026-10-06"
       }
     ],
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "slug": "r2r",
     "brand": "kyt",
     "name": "R2R",
@@ -3790,8 +3903,39 @@
       "warrantyYears": null,
       "madeIn": null
     },
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "XS",
+        "min": 53,
+        "max": 54
+      },
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 63
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "sources": [
       {
         "url": "https://www.kyteurope.com/en/r2r/",
@@ -3810,6 +3954,12 @@
         "type": "retailer",
         "label": "Vipmoto – KYT R2R (Led Mat)",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://www.kyteurope.com/wp-content/uploads/2023/11/taglie-r2r.png",
+        "type": "manufacturer",
+        "label": "KYT R2R beden tablosu",
+        "checkedAt": "2026-10-09"
       }
     ],
     "unverified": [
@@ -3822,8 +3972,7 @@
       "specs.breathGuard",
       "specs.emergencyCheekPads",
       "specs.warrantyYears",
-      "specs.madeIn",
-      "sizeChart"
+      "specs.madeIn"
     ]
   }
 ]

@@ -2330,9 +2330,15 @@
     "type": "retailer",
     "label": "Vipmoto – MT Braker SV (Pure A1)",
     "checkedAt": "2026-10-08"
+   },
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0836/6827/1431/files/MT_Size_EN_transparente.jpg",
+    "type": "manufacturer",
+    "label": "MT Helmets beden tablosu",
+    "checkedAt": "2026-10-09"
    }
   ],
-  "lastCheckedAt": "2026-10-08",
+  "lastCheckedAt": "2026-10-09",
   "dataConfidence": "medium",
   "unverified": [
    "specs.shellMaterial",
@@ -2349,8 +2355,7 @@
    "specs.linerWashable",
    "specs.emergencyCheekPads",
    "specs.warrantyYears",
-   "specs.madeIn",
-   "sizeChart"
+   "specs.madeIn"
   ],
   "colors": [
    "Pure A1 Matt",
@@ -2369,7 +2374,38 @@
    "XL",
    "XXL"
   ],
-  "sizeChart": [],
+  "sizeChart": [
+   {
+    "size": "XS",
+    "min": 53,
+    "max": 54
+   },
+   {
+    "size": "S",
+    "min": 55,
+    "max": 56
+   },
+   {
+    "size": "M",
+    "min": 57,
+    "max": 58
+   },
+   {
+    "size": "L",
+    "min": 59,
+    "max": 60
+   },
+   {
+    "size": "XL",
+    "min": 61,
+    "max": 62
+   },
+   {
+    "size": "XXL",
+    "min": 63,
+    "max": 64
+   }
+  ],
   "sizeChartMeasure": "Kafa çevresi (cm)",
   "specs": {
    "helmetType": "kapali",

@@ -94,6 +94,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2025/06/SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -135,13 +141,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -255,6 +286,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2025/06/SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -301,13 +338,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -420,6 +482,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/06/1-1-OPEN-FACE-SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -464,13 +532,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 60
+      },
+      {
+        "size": "XXL",
+        "min": 61,
+        "max": 61
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -585,6 +678,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/06/1-1-OPEN-FACE-SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -630,13 +729,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 60
+      },
+      {
+        "size": "XXL",
+        "min": 61,
+        "max": 61
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -749,6 +873,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2025/06/SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -792,13 +922,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -907,6 +1062,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2025/06/SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -959,13 +1120,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 60
+      },
+      {
+        "size": "XL",
+        "min": 61,
+        "max": 62
+      },
+      {
+        "size": "XXL",
+        "min": 63,
+        "max": 64
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",
@@ -1076,6 +1262,12 @@
         "type": "manufacturer",
         "label": "Tex Motor – Sway kask marka sayfası",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://texmotor.com/wp-content/uploads/2024/06/1-1-OPEN-FACE-SIZE-500x100.png",
+        "type": "manufacturer",
+        "label": "Tex Motor Sway beden tablosu (ürün sayfası)",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "medium",
@@ -1120,13 +1312,38 @@
     "category": "kask",
     "status": "active",
     "successor": null,
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "sizes": [],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 55,
+        "max": 56
+      },
+      {
+        "size": "M",
+        "min": 57,
+        "max": 58
+      },
+      {
+        "size": "L",
+        "min": 59,
+        "max": 59
+      },
+      {
+        "size": "XL",
+        "min": 60,
+        "max": 60
+      },
+      {
+        "size": "XXL",
+        "min": 61,
+        "max": 61
+      }
+    ],
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "unverified": [
-      "sizeChart",
       "sizes",
       "specs.breathGuard",
       "specs.chinCurtain",

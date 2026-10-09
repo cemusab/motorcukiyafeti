@@ -103,9 +103,15 @@
         "type": "retailer",
         "label": "Motomax – Scorpion EXO R1 Evo II Air Mat Siyah",
         "checkedAt": "2026-10-06"
+      },
+      {
+        "url": "https://scorpionexo.com/eu/size-guide/",
+        "type": "manufacturer",
+        "label": "ScorpionEXO beden rehberi (A tipi)",
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-06",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "high",
     "unverified": [
       "specs.shellSizes",
@@ -136,7 +142,7 @@
       "XL"
     ],
     "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChartMeasure": "Kafa çevresi (cm)",
     "buyerInsights": null,
     "specs": {
       "helmetType": "kapali",

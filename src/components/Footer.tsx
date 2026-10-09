@@ -4,6 +4,22 @@ import { getBrands, getGuides } from "@/lib/data";
 import { legalReady } from "@/lib/legal";
 import { ConsentLink } from "./Consent";
 import { Logo } from "./Header";
+import { SITE } from "@/lib/site";
+
+const SOCIAL_ICON: Record<string, React.ReactNode> = {
+  Instagram: (
+    <svg viewBox="0 0 24 24" className="size-5" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden>
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4" />
+      <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+    </svg>
+  ),
+  X: (
+    <svg viewBox="0 0 24 24" className="size-5" fill="currentColor" aria-hidden>
+      <path d="M17.8 3h3.1l-6.8 7.8 8 10.2h-6.3l-4.9-6.4L5.3 21H2.2l7.3-8.3L1.8 3h6.4l4.4 5.8zm-1.1 16.2h1.7L7.4 4.7H5.6z" />
+    </svg>
+  ),
+};
 
 export function Footer() {
   const guides = getGuides().slice(0, 6);
@@ -17,6 +33,15 @@ export function Footer() {
           <p className="mt-4 text-sm leading-relaxed text-white/60">
             Motosiklet ekipmanı için kaynaklı teknik bilgi, karşılaştırma ve satın alma rehberi. Ürün verilerini üretici kaynaklarıyla doğrular, doğrulayamadığımız bilgiyi açıkça belirtiriz.
           </p>
+          <ul className="mt-5 flex gap-2" aria-label="Sosyal medya">
+            {SITE.social.map((s) => (
+              <li key={s.url}>
+                <a href={s.url} target="_blank" rel="noopener me" aria-label={`${SITE.name} ${s.name} hesabı`} className="grid size-11 place-items-center rounded-full border border-white/20 text-white/80 hover:border-white hover:text-white">
+                  {SOCIAL_ICON[s.name]}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
         <div>
           <p className="mb-3 font-display text-lg font-bold">Kategoriler</p>

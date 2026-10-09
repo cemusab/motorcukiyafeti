@@ -43,6 +43,12 @@ const TIERS: Record<string, Tier[]> = {
     { min: 10000, max: 20000 },
     { min: 20000, max: null },
   ],
+  // Yağmurluk türleri birbirine yakın olduğu için anlamlı karşılaştırılır; koruma ve aksesuarda türler
+  // (yelek, dizlik, airbag / kilit, çanta, telefon tutucu) karıştığından bütçe karşılaştırması yapılmaz.
+  yagmurluk: [
+    { min: 0, max: 3000 },
+    { min: 3000, max: null },
+  ],
 };
 
 const tl = (n: number) => (n % 1000 === 0 ? `${n / 1000} bin` : n.toLocaleString("tr-TR"));

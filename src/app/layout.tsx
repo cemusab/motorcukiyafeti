@@ -29,7 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="flex min-h-full flex-col font-sans">
         <JsonLd
           data={[
-            { "@context": "https://schema.org", "@type": "Organization", name: SITE.name, url: SITE.url, logo: abs("/icon.svg") },
+            { "@context": "https://schema.org", "@type": "Organization", name: SITE.name, url: SITE.url, logo: abs("/icon.svg"), sameAs: SITE.social.map((s) => s.url) },
             {
               "@context": "https://schema.org",
               "@type": "WebSite",

@@ -13,7 +13,7 @@ import { RelatedLinks } from "@/components/Related";
 import { Container, Notice } from "@/components/ui";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { compatForHelmet, compatForIntercom, compatSlug, pairsFor } from "@/lib/catalog";
+import { compatForHelmet, compatForIntercom, compatSlug, pairsFor, priceAlternatives } from "@/lib/catalog";
 import {
   brandHasPage,
   brandName,
@@ -113,6 +113,7 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
   const brand = getBrand(p.brand);
   const rivals = p.rivals.map(getProductById).filter((x): x is Product => !!x);
   const pairs = pairsFor(p);
+  const alt = priceAlternatives(p);
   const successor = p.successor ? getProductById(p.successor) : undefined;
   const compat = p.category === "kask" ? compatForHelmet(id) : p.category === "interkom" ? compatForIntercom(id) : [];
   const rows = specRows(p).filter((r) => r.value !== "—" || r.unverified);
@@ -567,10 +568,31 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
         <PrevNext label="Ürünler arasında gezin" prev={nav(siblings[pos - 1])} next={nav(siblings[pos + 1])} />
       </Container>
 
+      {(alt.cheaper || alt.upper) && (
+        <Container className="mt-14">
+          <h2 className="mb-1 font-display text-3xl font-bold">Fiyata göre alternatifler</h2>
+          <p className="mb-4 text-sm text-mute">Aynı türde, Türkiye fiyatı doğrulanmış ürünlerden fiyatça en yakın olanlar. Fiyatlar kontrol tarihindeki satıcı fiyatlarıdır.</p>
+          <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
+            {alt.cheaper && (
+              <div>
+                <p className="mb-2 text-sm font-semibold text-ok">Daha uygun fiyatlı alternatif</p>
+                <ProductCard p={alt.cheaper} />
+              </div>
+            )}
+            {alt.upper && (
+              <div>
+                <p className="mb-2 text-sm font-semibold text-red">Bir üst segment</p>
+                <ProductCard p={alt.upper} />
+              </div>
+            )}
+          </div>
+        </Container>
+      )}
+
       {rivals.length > 0 && (
         <Container className="mt-14">
           <h2 className="mb-4 font-display text-3xl font-bold">Rakipleri</h2>
-          <div className="grid grid-cols-1 gap-4 min-[420px]:grid-cols-2 lg:grid-cols-4">
+          <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
             {rivals.slice(0, 4).map((r) => (
               <ProductCard key={productId(r)} p={r} />
             ))}

@@ -3,7 +3,7 @@
     "status": "active",
     "successor": null,
     "category": "pantolon",
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "priceRange": {
       "min": 20050,
       "max": 20050,
@@ -31,8 +31,44 @@
       "dainese/drake-2-super-air-pants",
       "revit/airwave-4-pants"
     ],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
+    "sizeChart": [
+      {
+        "size": "S",
+        "min": 75,
+        "max": 81
+      },
+      {
+        "size": "M",
+        "min": 81,
+        "max": 87
+      },
+      {
+        "size": "L",
+        "min": 87,
+        "max": 92
+      },
+      {
+        "size": "XL",
+        "min": 92,
+        "max": 97
+      },
+      {
+        "size": "2XL",
+        "min": 97,
+        "max": 102
+      },
+      {
+        "size": "3XL",
+        "min": 102,
+        "max": 107
+      },
+      {
+        "size": "4XL",
+        "min": 107,
+        "max": 112
+      }
+    ],
+    "sizeChartMeasure": "Bel çevresi (cm)",
     "colors": [
       "Siyah",
       "Buz grisi / Koyu gri / Siyah"
@@ -57,7 +93,6 @@
       }
     ],
     "unverified": [
-      "sizeChart",
       "specs.madeIn",
       "specs.material"
     ],
@@ -115,6 +150,12 @@
         "type": "retailer",
         "label": "Motomax – Andes Air Drystar pantolon (siyah)",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0258/9160/2490/files/SIZE_CHART_TEXTILE_MENS_MOTO_PANT.jpg",
+        "type": "manufacturer",
+        "label": "Alpinestars erkek tekstil pantolon beden tablosu",
+        "checkedAt": "2026-10-09"
       }
     ],
     "dataConfidence": "high",

@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "sessiz-motosiklet-kaski",
+    "title": "Sessiz Motosiklet Kaskı: Gürültü Nereden Gelir, Nasıl Azalır?",
+    "description": "Kaskta rüzgâr gürültüsü nereden gelir: boyun ve çene boşluğu, vizör, ön cam türbülansı. Beden, çene perdesi, kulak tıkacı ve üretici dB beyanları.",
+    "topic": "kask",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 8,
+    "intro": "Kaskın içindeki gürültünün büyük kısmı motordan değil rüzgârdan gelir ve hız arttıkça hızla yükselir; çoğu zaman işitme sağlığı için riskli seviyelere çıkar. Gürültüyü en çok azaltan şeyler doğru oturan bir kask, boyun ve çene altındaki boşluğun kapatılması, ön camın türbülansı nereye yönlendirdiği ve kask altında kulak tıkacı kullanmaktır. Tek başına 'sessiz' etiketi taşıyan bir kask her motorda aynı sonucu vermez; araştırmalar aynı kaskın bir motorda en sessiz, başka bir motorda en gürültülü çıkabildiğini gösteriyor. Bu rehberde gürültünün kaynaklarını, kask tipinin ve oturuşun etkisini ve üretici desibel beyanlarını nasıl okuman gerektiğini anlatıyoruz.",
+    "sections": [
+      {
+        "heading": "Kaskta ne kadar gürültü var?",
+        "paragraphs": [
+          "Southampton Üniversitesi ISVR ekibinin İngiltere İçişleri Bakanlığı için yaptığı ve 1996'da Inter-Noise kongresinde yayımlanan çalışmada, saatte yaklaşık 60–70 km'nin üzerinde rüzgâr gürültüsünün motor sesini geçip baskın kaynak hâline geldiği bildirildi. Rüzgâr tünelinde, sürücünün kulağına yerleştirilen minyatür mikrofonlarla saatte yaklaşık 80–113 km hava hızında 90 ile 109 dB(A) arasında ölçüm alındı. Açık yolda ölçülen seviyeler saatte 48 km'de 78–90 dB(A), saatte 193 km'de ise 114–116 dB(A) aralığındaydı.",
+          "Aynı çalışmada saatte yaklaşık 90 km'nin üzerinde, hız iki katına çıktığında gürültünün ortalama 15,5 dB arttığı bulundu. Desibel logaritmik bir ölçek olduğu için bu, hızla birlikte maruz kaldığın ses enerjisinin çok hızlı büyüdüğü anlamına gelir. ABD Ulusal Sağırlık ve Diğer İletişim Bozuklukları Enstitüsü (NIDCD) de motosikletleri 80–110 dBA aralığındaki ses kaynakları arasında sayıyor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Gürültü nereden gelir?",
+        "paragraphs": [
+          "Southampton çalışmasının ana bulgusu, gürültünün en büyük kaynağının ön camın üst kenarından kopan türbülanslı hava akışı olduğuydu. Ön cam alçaksa türbülans kaskın alt kısmına, boyna ve omuzlara çarpıyor; bu durumda boyun ile kask arasındaki sızdırmazlığı iyileştirmek kulaktaki sesi 6 dB'e kadar azalttı. Ön cam yüksekse türbülans vizöre ve vizörün hemen üstündeki kabuğa çarpıyor; o zaman vizörün çevresinden, contasından ve menteşelerinden geçen ses sınırlayıcı etken oluyor ve vizör çevresini kapatan basit önlemlerle 5–8 dB azalma sağlandı.",
+          "Bath Üniversitesi ile Bath Spa Üniversitesi'nden araştırmacıların 2011'de Journal of the Acoustical Society of America'da yayımlanan rüzgâr tüneli çalışması, kaskın altında ve çene bölümüne yakın bölgenin kulak zarına ulaşan gürültünün önemli bir kaynağı olduğunu gösterdi. Yani gürültü çoğu zaman kaskın dış yüzeyinden değil, çene altındaki açıklık ve boyun çevresinden içeri giriyor.",
+          "Southampton çalışmasında kaskın dış yüzeyindeki hava akışı ve akış ayrılması, ön cam türbülansına kıyasla büyük bir gürültü kaynağı çıkmadı. Kask üreticisi Shark ise kabuktaki pürüzlerin, havalandırma girişlerinin, keskin kenarların ve yüzey kırılmalarının hava akışını bozduğunu ve boyun bölgesindeki sızdırmazlığın omuzlarla kask tabanı arasındaki türbülansa karşı temel önemde olduğunu belirtiyor. Açık havalandırma kanalları, siperlik ve aksesuarlar bu nedenle sesi artırabilecek ek ayrıntılar olarak düşünülmeli; etkileri kaska ve motora göre değişir."
+        ],
+        "bullets": [
+          "Ön cam türbülansı: incelenen çalışmada baskın kaynak",
+          "Boyun ve çene altı boşluğu: alçak camda ve çene altında önemli giriş yolu",
+          "Vizör contası ve menteşeleri: yüksek camda sınırlayıcı etken",
+          "Havalandırma, siperlik, keskin kenarlar: akışı bozan ek ayrıntılar"
+        ]
+      },
+      {
+        "heading": "Kask tipi gürültüyü nasıl etkiler?",
+        "paragraphs": [
+          "Kapalı kask, çene bölümü kabukla bütün olduğu için yüzü ve kulak çevresini rüzgârdan en iyi ayıran tiptir; buna rağmen Bath çalışmasının gösterdiği gibi çene altındaki boşluk önemli bir ses kaynağı olmaya devam eder. Çene açılır (modüler) kasklarda çene bölümü ile kabuk arasında ek bir birleşim yeri ve mekanizma bulunur; bunun sesi ne kadar etkilediği tasarıma bağlıdır. Açık (jet) kaskta çene ve yüzün alt kısmı doğrudan rüzgâra açıktır.",
+          "Adventure kasklardaki siperlik ve geniş vizör açıklığı da hava akışını etkileyen yüzeylerdir. Ancak kask tipleri arasında, aynı motor ve aynı koşullarda yapılmış bağımsız ve sayısal bir karşılaştırma bulamadık. Southampton çalışmasının uyarısı burada da geçerli: kaskların gürültü sıralaması motordan motora ve ön camdan ön cama değişiyor. Bu yüzden tip seçimi bir başlangıç noktasıdır; kesin sonucu kendi motorunda denemek verir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Doğru beden, oturuş ve çene perdesi",
+        "paragraphs": [
+          "Boyun ile kask arasındaki boşluk gürültünün ana giriş yollarından biri olduğu için doğru beden sessizliğin de temelidir. Büyük gelen kask yanaklarda ve ensede boşluk bırakır; hava bu boşluklardan içeri dolar. Kafa çevresini doğru ölçüp yanak pedlerinin yüze tam oturduğu bedeni seçmek, sonradan eklenen her aksesuardan daha çok işe yarar. Ölçüm için kask bedeni rehberimize bakabilirsin.",
+          "Çene perdesi (chin curtain) ve boyun yastığı (neck roll), tam olarak Southampton ve Bath çalışmalarının işaret ettiği bölgeyi, yani çene altını ve kask tabanını kapatmaya yönelik parçalardır. Kaskında çene perdesi yoksa ya da kutudan çıkmıyorsa üreticinin bu kask için ayrıca satıp satmadığını kontrol et. Boyunluk veya kapalı yakalı bir mont da kask tabanına çarpan havayı azaltabilir."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Ön cam ve sürüş pozisyonu",
+        "paragraphs": [
+          "Southampton çalışmasında aynı sürücü ve aynı kaskla yalnızca ön camın yüksekliği değiştirildiğinde gürültü belirgin şekilde değişti. Polis motorcularının çoğunun tercih ettiği, göz hizasının birkaç santim altındaki cam yüksekliğinde türbülans tam vizörün üstüne denk geliyordu ve camın hemen üstünden bakan sürücü en gürültülü konumdaydı. Başı birkaç santim yükseltmek 4–5 dB, başı camın rüzgâr gölgesine indirmek ise bazı kasklarda 8–9 dB azalma sağladı.",
+          "Çıkarılacak ders şu: türbülansın kaskın neresine çarptığını ön cam belirler. Yüksekliği ayarlanabilen camda birkaç kademe deneyip en sessiz konumu bulmak, kask değiştirmekten daha ucuz bir çözüm olabilir. Camı olmayan naked motorlarda ise hava kaska ve boyna doğrudan çarpar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Kulak tıkacı ve işitme sağlığı",
+        "paragraphs": [
+          "ABD Ulusal İş Güvenliği ve Sağlığı Enstitüsü (NIOSH), işyerinde gürültü maruziyeti için önerilen sınırı sekiz saatlik iş günü ortalamasında 85 dBA olarak belirliyor ve gürültü seviyesindeki her 3 dBA artışta maruziyet süresinin yarıya indirilmesini öneriyor. Bu kurala göre 88 dBA için önerilen süre 4 saat, 100 dBA için yaklaşık 15 dakikadır. Bu bir işyeri kılavuzudur ama yukarıdaki ölçümlerle birlikte okunduğunda, yolda uzun süre kulak koruması olmadan sürmenin bu sınırları kolayca aşabileceğini gösterir.",
+          "NIDCD'ye göre 85 dBA ve üzerindeki seslere uzun veya tekrarlı maruz kalmak işitme kaybına yol açabilir; gürültüye bağlı işitme kaybı geçici ya da kalıcı olabilir ve tamamen önlenebilen tek işitme kaybı türüdür. Kulakta çınlama (tinnitus) da yüksek gürültünün yan etkilerinden biridir. Southampton ekibi, sürüş sonrası kulakları tıkanmış ya da çınlıyorsa bunun geçici işitme hasarı olduğunu ve düzenli tekrarlanırsa kalıcı hâle gelebileceğini belirtiyor.",
+          "Aynı ekibin rüzgâr tüneli denemelerinde köpük kulak tıkacının altındaki ses, tıkaç ile kask arasındaki sese göre 8 ile 16 dB daha düşük ölçüldü; en iyi durumlarda kulaktaki seviye 74–80 dB(A)'ya indi. Basit kask değişiklikleriyle elde edilen en büyük azalmanın yaklaşık 8 dB olduğu düşünülürse, kulak tıkacı kask seçiminden bağımsız olarak en etkili önlemdir. Ekibin bir uyarısı da var: tıkaçla daha yavaş gidiyormuşsun gibi hissedebilirsin; alışana kadar hız göstergesini daha sık kontrol et."
+        ],
+        "bullets": [
+          "Kask altına takıldığında rahatsız etmeyen, düşük profilli tıkaç seç",
+          "Kullan-at köpük tıkaç ucuzdur ama doğru takılırsa etkilidir",
+          "İnterkom kullanıyorsan sesi gürültüyü bastıracak kadar açmak yerine tıkaçla birlikte daha düşük seviyede dinle"
+        ]
+      },
+      {
+        "heading": "Üretici desibel beyanları neden karşılaştırılamaz?",
+        "paragraphs": [
+          "Bazı üreticiler kaskları için desibel değeri veriyor. Örneğin Shark, rüzgâr tünelinde sürtünme, kaldırma kuvveti ve dBA ölçümlerini birlikte yaptığını ve bazı kasklarının saatte 100 km'de 80 dBA'nın altında kaldığını belirtiyor. Sitemizdeki Schuberth kayıtlarında da üretici beyanları naked bir motorda saatte 100 km için verilmiş. Bu değerler ilgili markanın kendi düzeneğinde, kendi seçtiği hız, motor ve mikrofon konumuyla elde ediliyor.",
+          "Kask gürültüsü için ortak, zorunlu bir ölçüm standardı ya da etiket olmadığı için iki markanın beyanını yan yana koymak doğru sonuç vermez. Southampton çalışmasında bir kask alçak camlı motorda setin en sessizi iken daha yüksek camda en gürültülüsü oldu; araştırmacılar bu nedenle kaskları tek bir gürültü değeriyle karşılaştırmanın yanıltıcı olacağı sonucuna vardı. Üretici dB beyanını, aynı markanın kendi modelleri arasında kabaca bir fikir olarak oku; farklı markalar arasında sıralama aracı olarak kullanma. Biz de sitemizde gürültü için bir kazanan ilan etmiyoruz."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sessiz kask için kontrol listesi",
+        "paragraphs": [
+          "Aşağıdaki maddeler, gürültüyü en çok etkileyen ve senin kontrolünde olan noktaları önem sırasına göre topluyor."
+        ],
+        "bullets": [
+          "Uzun süre ve otoyol hızında sürüyorsan kulak tıkacı kullan",
+          "Kafanı ölç; yanak pedleri ve ense tam oturmalı, boşluk kalmamalı",
+          "Çene perdesi ve boyun yastığı olan ya da sonradan takılabilen model seç",
+          "Vizörün kapalıyken contaya düzgün oturduğunu kontrol et",
+          "Ön camı ayarlanabiliyorsa birkaç yükseklik dene",
+          "Üretici dB değerini markalar arası karşılaştırma için kullanma",
+          "Mümkünse kaskı kendi motorunda ve kendi sürüş pozisyonunda dene"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "En sessiz motosiklet kaskı hangisi?",
+        "a": "Bağımsız ve ortak bir ölçüm standardı olmadığı için bunu söylemek mümkün değil. Southampton Üniversitesi'nin çalışmasında kaskların gürültü sıralaması motordan motora ve ön cam yüksekliğine göre değişti; aynı kask bir motorda en sessiz, diğerinde en gürültülü çıktı. Kapalı kask, iyi oturan bir beden, çene perdesi ve kulak tıkacı birlikte en güvenilir sonucu verir."
+      },
+      {
+        "q": "Kulak tıkacı takmak gerçekten gerekli mi?",
+        "a": "Uzun süre ve yüksek hızda sürüyorsan evet. Ölçümlerde otoyol hızlarında kask içindeki ses 100 dB(A)'nın üzerine çıkabiliyor; NIOSH'un işyeri sınırına göre 100 dBA için önerilen süre yaklaşık 15 dakika. Köpük tıkaç kulaktaki sesi rüzgâr tüneli denemelerinde 8–16 dB azalttı."
+      },
+      {
+        "q": "Çene açılır kask kapalı kasktan daha mı gürültülü?",
+        "a": "Çene açılır kasklarda ek bir birleşim yeri ve mekanizma bulunur, ama sonucun ne kadar farklı olduğu tasarıma ve motora bağlıdır. İki tipi aynı koşullarda karşılaştıran bağımsız, sayısal bir çalışma bulamadık. Kendi motorunda denemek en sağlıklı yoldur."
+      },
+      {
+        "q": "Kaskım ilk aldığımdan daha gürültülü oldu, neden?",
+        "a": "İç pedler zamanla sıkışır ve kask kafada gevşer; bu da yanak ve ense çevresinde hava girişini artırır. Vizör contası da aşınabilir. Pedlerin yenilenmesi veya kaskın değiştirilmesi için kask bakımı ve değişim rehberlerimize bakabilirsin."
+      }
+    ],
+    "relatedGuides": [
+      "kask-nasil-secilir",
+      "kask-bedeni-nasil-olculur",
+      "hafif-motosiklet-kaski",
+      "interkom-nasil-secilir",
+      "kask-temizligi-ve-bakimi",
+      "kask-kac-yilda-degistirilir"
+    ],
+    "relatedCategories": ["kask", "kask/kapali-kask", "aksesuar/kulak-tikaci"],
+    "sources": [
+      {
+        "url": "https://generic.wordpress.soton.ac.uk/isvr-new/wp-content/uploads/sites/422/2022/07/inter96mc.pdf",
+        "type": "review",
+        "label": "Lower, Hurst ve Thomas, Inter-Noise 96 – Motosiklet kaskı altında gürültü seviyeleri ve gürültü azaltma (Southampton Üniversitesi)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://isvr.co.uk/noise-levels-under-motorcycle-helmets/",
+        "type": "review",
+        "label": "ISVR Consulting – Motosiklet kaskı altında gürültü: kaynaklar, kulak tıkacı ve geçici işitme hasarı",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://sciencedaily.com/releases/2011/07/110729175559.htm",
+        "type": "review",
+        "label": "ScienceDaily – Kennedy ve ark. (Bath Üniversitesi), JASA 2011: çene altı bölgesi kask gürültüsünün önemli kaynağı",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.cdc.gov/niosh/noise/about/noise.html",
+        "type": "review",
+        "label": "CDC / NIOSH – Gürültüye bağlı işitme kaybı: 85 dBA önerilen sınır ve 3 dB değişim oranı",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss-0",
+        "type": "review",
+        "label": "NIDCD – Gürültüye bağlı işitme kaybı: 85 dBA riski, önlenebilirlik, motosiklet 80–110 dBA",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.shark-helmets.com/en/blogs/guides-news/motorcycle-helmet-and-soundproofing-why-aerodynamics-changes-everything",
+        "type": "manufacturer",
+        "label": "Shark – Kask aerodinamiği ve ses yalıtımı: boyun sızdırmazlığı, akışı bozan ayrıntılar, rüzgâr tüneli dBA beyanı",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

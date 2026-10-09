@@ -281,3 +281,21 @@ export function wizardBikes() {
       courierCommon: m.courierCommon,
     }));
 }
+
+/* ---------- Fiyat alternatifleri (ürün sayfası) ---------- */
+
+/**
+ * Aynı kategori ve aynı ana alt kategorideki, Türkiye fiyatı doğrulanmış ürünlerden fiyatça en yakın
+ * "daha uygun" ve "bir üst segment" alternatifi. En az %15 fiyat farkı aranır; veri güveni düşük ürünler önerilmez.
+ */
+export function priceAlternatives(p: Product) {
+  const min = p.priceRange?.min;
+  if (min == null) return { cheaper: undefined, upper: undefined };
+  const sub = p.subcategories[0];
+  const pool = getProducts().filter(
+    (x) => x.category === p.category && productId(x) !== productId(p) && x.priceRange && x.dataConfidence !== "low" && x.status !== "discontinued" && (!sub || x.subcategories.includes(sub)),
+  );
+  const cheaper = pool.filter((x) => x.priceRange!.min <= min * 0.85).sort((a, b) => b.priceRange!.min - a.priceRange!.min)[0];
+  const upper = pool.filter((x) => x.priceRange!.min >= min * 1.15).sort((a, b) => a.priceRange!.min - b.priceRange!.min)[0];
+  return { cheaper, upper };
+}
