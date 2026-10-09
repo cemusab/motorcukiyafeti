@@ -14,48 +14,21 @@
       "Gore-Tex ve Vibram kullanan, sertifika kodu açık yerli motosiklet botları",
       "İthal muadillerine göre belirgin fiyat avantajı"
     ],
-    "categories": [
-      "bot"
-    ],
+    "categories": ["bot"],
     "families": [
-      {
-        "name": "Diablo motosiklet botları",
-        "note": "Gore-Tex'li uzun ve kısa touring botları ile yazlık model.",
-        "url": "https://www.ydsshop.com/motosiklet-botlari"
-      }
+      { "name": "Diablo motosiklet botları", "note": "Gore-Tex'li uzun ve kısa touring botları ile yazlık model.", "url": "https://www.ydsshop.com/motosiklet-botlari" }
     ],
     "highlights": [
-      {
-        "label": "Diablo 11.0 GTX",
-        "url": "https://www.ydsshop.com/yds-diablo-11.0-gtx-siyah",
-        "reason": "Gore-Tex, Vibram taban ve EN 13634:2017 2222 WR sertifikalı yerli uzun touring botu."
-      }
+      { "label": "Diablo 11.0 GTX", "url": "https://www.ydsshop.com/yds-diablo-11.0-gtx-siyah", "reason": "Gore-Tex, Vibram taban ve EN 13634:2017 2222 WR sertifikalı yerli uzun touring botu." }
     ],
-    "alternatives": [
-      "tex-motor",
-      "yaren-tekstil",
-      "held"
-    ],
+    "alternatives": ["tex-motor", "yaren-tekstil", "held"],
     "history": [
-      {
-        "year": 2003,
-        "event": "İngiliz teknik ayakkabı markası Goliath'ı bünyesine kattı."
-      }
+      { "year": 2003, "event": "İngiliz teknik ayakkabı markası Goliath'ı bünyesine kattı." }
     ],
     "strongestLine": "Gore-Tex'li, sertifika kodu açık yerli touring motosiklet botları",
     "sources": [
-      {
-        "url": "https://www.ydsshop.com/hakkimizda",
-        "type": "manufacturer",
-        "label": "YDS Shop – Hakkımızda",
-        "checkedAt": "2026-10-07"
-      },
-      {
-        "url": "https://www.ydsshop.com/motosiklet-botlari",
-        "type": "manufacturer",
-        "label": "YDS Shop – Motosiklet Botları",
-        "checkedAt": "2026-10-07"
-      }
+      { "url": "https://www.ydsshop.com/hakkimizda", "type": "manufacturer", "label": "YDS Shop – Hakkımızda", "checkedAt": "2026-10-07" },
+      { "url": "https://www.ydsshop.com/motosiklet-botlari", "type": "manufacturer", "label": "YDS Shop – Motosiklet Botları", "checkedAt": "2026-10-07" }
     ]
   },
   {
@@ -73,46 +46,21 @@
       "Montebelluna ayakkabı geleneği",
       "Kadın numaralarını da kapsayan geniş numara aralığı"
     ],
-    "categories": [
-      "bot"
-    ],
+    "categories": ["bot"],
     "families": [
-      {
-        "name": "Sneakers",
-        "note": "Core WP, Tank WP gibi günlük görünümlü motosiklet sneaker'ları.",
-        "url": "https://www.stylmartin.it/scarpe-stivali-moto/sneakers.html"
-      }
+      { "name": "Sneakers", "note": "Core WP, Tank WP gibi günlük görünümlü motosiklet sneaker'ları.", "url": "https://www.stylmartin.it/scarpe-stivali-moto/sneakers.html" }
     ],
     "highlights": [
-      {
-        "label": "Core WP",
-        "url": "https://www.stylmartin.it/scarpe-stivali-moto/products/core-wp-black.html",
-        "reason": "Tam tahıllı deri, su geçirmez astar ve EN 13634:2017 sertifikalı klasik şehir sneaker'ı."
-      }
+      { "label": "Core WP", "url": "https://www.stylmartin.it/scarpe-stivali-moto/products/core-wp-black.html", "reason": "Tam tahıllı deri, su geçirmez astar ve EN 13634:2017 sertifikalı klasik şehir sneaker'ı." }
     ],
-    "alternatives": [
-      "tcx",
-      "held",
-      "revit"
-    ],
+    "alternatives": ["tcx", "held", "revit"],
     "history": [
-      {
-        "year": 1970,
-        "event": "Markanın sahibi Calzaturificio Antis, Montebelluna'da kuruldu."
-      },
-      {
-        "year": 2007,
-        "event": "Antis kurucusu Antonio Binotto Stylmartin markasını satın alıp yeniden canlandırdı."
-      }
+      { "year": 1970, "event": "Markanın sahibi Calzaturificio Antis, Montebelluna'da kuruldu." },
+      { "year": 2007, "event": "Antis kurucusu Antonio Binotto Stylmartin markasını satın alıp yeniden canlandırdı." }
     ],
     "strongestLine": "Günlük ayakkabı görünümlü, EN 13634 sertifikalı deri motosiklet sneaker'ları",
     "sources": [
-      {
-        "url": "https://www.stylmartin.it/page/l-azienda",
-        "type": "manufacturer",
-        "label": "Stylmartin – L'azienda",
-        "checkedAt": "2026-10-07"
-      }
+      { "url": "https://www.stylmartin.it/page/l-azienda", "type": "manufacturer", "label": "Stylmartin – L'azienda", "checkedAt": "2026-10-07" }
     ]
   }
 ]
