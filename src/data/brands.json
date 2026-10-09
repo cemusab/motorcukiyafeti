@@ -504,12 +504,6 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://ridermagazine.com/the-why-behind-arai-helmets/",
-        "type": "review",
-        "label": "Rider Magazine – Arai tarihçesi",
-        "checkedAt": "2026-10-06"
-      },
-      {
         "url": "https://en.wikipedia.org/wiki/Arai_Helmet",
         "type": "review",
         "label": "Wikipedia – Arai Helmet",
@@ -883,7 +877,7 @@
       },
       {
         "year": 2014,
-        "event": "Yol sürücüleri için Tech-Air Street airbag sistemi EICMA'da canlı çarpışma testiyle tanıtıldı."
+        "event": "Yol sürücüleri için Tech-Air Street airbag sistemi, EICMA döneminde Milano'daki bir test merkezinde canlı çarpışma gösterisiyle tanıtıldı."
       },
       {
         "year": 2023,
@@ -905,10 +899,10 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://canadamotoguide.com/2014/11/07/alpinestars-releases-airbag-suit-for-the-street/",
+        "url": "https://www.motorcyclistonline.com/news/airbags-street-video-demo/",
         "type": "review",
-        "label": "Canada Moto Guide – Tech-Air Street tanıtımı",
-        "checkedAt": "2026-10-06"
+        "label": "Motorcyclist – Tech-Air Street tanıtımı ve canlı çarpışma testi (Kasım 2014)",
+        "checkedAt": "2026-10-09"
       }
     ]
   },
@@ -1890,10 +1884,10 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://ridermagazine.com/2018/11/02/nolan-n100-5-modular-helmet-gear-review/",
+        "url": "https://motorcyclemojo.com/2012/05/nuovi-caschi-da-nolan/",
         "type": "review",
-        "label": "Rider Magazine – Nolan N100-5 incelemesi",
-        "checkedAt": "2026-10-06"
+        "label": "Motorcycle Mojo – Nolan N104 (N100'ün 1998'de tanıtıldığı bilgisi)",
+        "checkedAt": "2026-10-10"
       },
       {
         "url": "https://en.wikipedia.org/wiki/Shark_(helmet_manufacturer)",

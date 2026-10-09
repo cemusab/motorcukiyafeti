@@ -275,6 +275,16 @@ export const MotorcycleSchema = z.object({
   courierCommon: z.boolean().default(false),
   notes: z.array(z.string()).default([]),
   officialUrl: z.string().url().nullable().default(null),
+  /** Fabrika lastik ebatları (resmi teknik sayfa veya kullanıcı kılavuzu). */
+  tires: z
+    .object({ front: z.string(), rear: z.string(), source: SourceSchema })
+    .nullable()
+    .default(null),
+  /** Üreticinin önerdiği motor yağı (kılavuz/teknik sayfa). Alanlar kaynakta yoksa null. */
+  oil: z
+    .object({ viscosity: z.string().nullable(), spec: z.string().nullable(), capacityL: z.number().nullable(), source: SourceSchema })
+    .nullable()
+    .default(null),
 });
 export type Motorcycle = z.infer<typeof MotorcycleSchema>;
 

@@ -1,0 +1,545 @@
+{
+  "kawasaki-ninja-500": {
+    "tires": {
+      "front": "110/70R17 M/K 54H",
+      "rear": "150/60R17 M/K 66H",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja500",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Ninja 500 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-ninja-650": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "160/60 ZR17 M/C (69W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja650",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Ninja 650 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-z500": {
+    "tires": {
+      "front": "110/70R17 M/K 54H",
+      "rear": "150/60R17 M/K 66H",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Z500",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Z500 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-z650": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "160/60 ZR17 M/C (69W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Z650",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Z650 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-z900": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "180/55 ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Z900",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Z900 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-versys-650": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "160/60 ZR17 M/C (69W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Versys650",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Versys 650 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-eliminator-500": {
+    "tires": {
+      "front": "90/90-21M/C 54R",
+      "rear": "150/80-16M/C 71H",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Eliminator 500 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-ninja-zx-6r": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "180/55 ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Ninja ZX-6R teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kawasaki-versys-1100": {
+    "tires": {
+      "front": "120/70 ZR17 M/C (58W)",
+      "rear": "180/55 ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.kawasaki.com.tr/Motosiklet/Versys1100",
+        "type": "manufacturer",
+        "label": "Kawasaki Türkiye Versys 1100 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-250nk": {
+    "tires": {
+      "front": "110/70 R17 M/C",
+      "rear": "140/60 R17 M/C",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/250-nk",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 250NK teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-250sr": {
+    "tires": {
+      "front": "110/70 R17",
+      "rear": "140/60 R17",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/250-sr",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 250SR teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-450mt": {
+    "tires": {
+      "front": "90/90 R21 CST",
+      "rear": "140/70 R18 CST",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/450-mt",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 450MT teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-450nk": {
+    "tires": {
+      "front": "110/70-R17 CST AS5",
+      "rear": "150/60-R17 CST AS5",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/450-nk",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 450NK teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-450sr": {
+    "tires": {
+      "front": "110/70 R17",
+      "rear": "150/60 R17",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/450-sr",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 450SR teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-250cl-x": {
+    "tires": {
+      "front": "110/70 R17 M/C",
+      "rear": "150/60 R17 M/C",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/250cl-x",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 250CL-X teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-450cl-c": {
+    "tires": {
+      "front": "130/90-R16 M/C CST",
+      "rear": "150/80-R16 M/C CST",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/450cl-c",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 450CL-C teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-650mt": {
+    "tires": {
+      "front": "120/70 ZR17 M/C, METZELER",
+      "rear": "160/60 ZR17 M/C, METZELER",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/650-mt",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 650MT teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "cfmoto-700cl-x-heritage": {
+    "tires": {
+      "front": "Pirelli MT60 RS 110/80-R18",
+      "rear": "Pirelli MT60 RS 180/55-R17",
+      "source": {
+        "url": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage",
+        "type": "manufacturer",
+        "label": "CFMOTO Türkiye 700CL-X Heritage teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "suzuki-address-125": {
+    "tires": null,
+    "oil": {
+      "viscosity": null,
+      "spec": null,
+      "capacityL": 0.8,
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye Address 125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "suzuki-burgman-street-125ex": {
+    "tires": {
+      "front": "90/90-12, tubeless",
+      "rear": "100/80-12, tubeless",
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye Burgman Street 125EX teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": null,
+      "spec": null,
+      "capacityL": 0.8,
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye Burgman Street 125EX teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "suzuki-gsx-s125": {
+    "tires": {
+      "front": "90/80-17M/C 46S, tubeless",
+      "rear": "130/70-17M/C 62S, tubeless",
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye GSX-S125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": null,
+      "spec": null,
+      "capacityL": 1.5,
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye GSX-S125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "suzuki-gsx-8s": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "180/55ZR17M/C (73W)",
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye GSX-8S teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "suzuki-v-strom-800de": {
+    "tires": {
+      "front": "90/90-21M/C (54H), tüplü",
+      "rear": "150/70R17 M/C (69H), tüplü",
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye V-Strom 800DE teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "suzuki-burgman-400": {
+    "tires": {
+      "front": "120/70-15M/C 56S, iç lastiksiz",
+      "rear": "150/70-13M/C 64S, iç lastiksiz",
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye Burgman 400 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": null,
+      "spec": null,
+      "capacityL": 1.5,
+      "source": {
+        "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+        "type": "manufacturer",
+        "label": "Suzuki Türkiye Burgman 400 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "triumph-speed-400": {
+    "tires": {
+      "front": "110/70 R17",
+      "rear": "150/60 R17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Speed 400 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "triumph-scrambler-400-x": {
+    "tires": {
+      "front": "100/90-19",
+      "rear": "140/80 R17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Scrambler 400 X teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "triumph-trident-660": {
+    "tires": {
+      "front": "120/70 R 17",
+      "rear": "180/55 R 17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Trident 660 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "triumph-tiger-sport-660": {
+    "tires": {
+      "front": "120/70 R 17",
+      "rear": "180/55 R 17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Tiger Sport 660 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "triumph-street-triple-765-r": {
+    "tires": {
+      "front": "120/70 ZR 17",
+      "rear": "180/55 ZR 17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Street Triple 765 R teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "triumph-tiger-900-gt-pro": {
+    "tires": {
+      "front": "Metzeler TouranceTM Next, 100/90-19",
+      "rear": "Metzeler TouranceTM Next, 150/70R17",
+      "source": {
+        "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024",
+        "type": "manufacturer",
+        "label": "Triumph Türkiye Tiger 900 GT Pro teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "ducati-monster": {
+    "tires": {
+      "front": "Pirelli Diablo Rosso IV, 120/70 ZR17",
+      "rear": "Pirelli Diablo Rosso IV, 180/55 ZR17",
+      "source": {
+        "url": "https://www.ducati.com/ww/en/bikes/monster/monster-v2",
+        "type": "manufacturer",
+        "label": "Ducati global Monster teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "ducati-multistrada-v2": {
+    "tires": {
+      "front": "Pirelli Scorpion Trail II 120/70 ZR 19",
+      "rear": "Pirelli Scorpion Trail II 170/60 ZR 17",
+      "source": {
+        "url": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2",
+        "type": "manufacturer",
+        "label": "Ducati global Multistrada V2 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "ducati-desertx": {
+    "tires": {
+      "front": "Pirelli Scorpion Rally STR 90/90 - 21 M/C 54V M+S TL (A)",
+      "rear": "Pirelli Scorpion Rally STR 150/70 R18 M/C 70V M+S TL",
+      "source": {
+        "url": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2",
+        "type": "manufacturer",
+        "label": "Ducati global DesertX teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "ducati-panigale-v2": {
+    "tires": {
+      "front": "Pirelli Diablo Rosso IV 120/70 ZR17",
+      "rear": "Pirelli Diablo Rosso IV 190/55 ZR17",
+      "source": {
+        "url": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2",
+        "type": "manufacturer",
+        "label": "Ducati global Panigale V2 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "bajaj-pulsar-ns-125": {
+    "tires": {
+      "front": "90/90-17, Tubeless",
+      "rear": "120/80-17, Tubeless",
+      "source": {
+        "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-ns125/specifications",
+        "type": "manufacturer",
+        "label": "Bajaj Auto Pulsar NS125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "bajaj-pulsar-ns-200": {
+    "tires": {
+      "front": "100/80-17 52 P Tubeless",
+      "rear": "130/70-17 62 P Tubeless",
+      "source": {
+        "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-ns200/specifications",
+        "type": "manufacturer",
+        "label": "Bajaj Auto Pulsar NS200 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "bajaj-pulsar-rs-200": {
+    "tires": {
+      "front": "110/70-17 52 P Tubeless",
+      "rear": "140/70-17 62 P Tubeless",
+      "source": {
+        "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-rs200/specifications",
+        "type": "manufacturer",
+        "label": "Bajaj Auto Pulsar RS200 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "bajaj-dominar-400": {
+    "tires": null,
+    "oil": null
+  },
+  "bmw-r-1300-gs": {
+    "tires": {
+      "front": "120/70 x R19",
+      "rear": "170/60 x R17",
+      "source": {
+        "url": "https://www.bmw-motorrad.com.tr/tr/models/adventure/r1300gs/technicaldata.html",
+        "type": "manufacturer",
+        "label": "BMW Motorrad Türkiye R 1300 GS teknik veriler",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "ktm-390-duke": {
+    "tires": null,
+    "oil": {
+      "viscosity": "15W/50",
+      "spec": null,
+      "capacityL": null,
+      "source": {
+        "url": "https://www.ktm.com/en-int/models/naked-bike/2026-ktm-390-duke/technical-specifications.html",
+        "type": "manufacturer",
+        "label": "KTM global 390 Duke teknik özellikleri (Motorex Formula 4T 15W/50)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  }
+}

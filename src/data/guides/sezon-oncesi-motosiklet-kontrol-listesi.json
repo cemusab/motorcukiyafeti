@@ -1,0 +1,219 @@
+[
+  {
+    "slug": "sezon-oncesi-motosiklet-kontrol-listesi",
+    "title": "Sezon Öncesi Motosiklet Kontrol Listesi: Motosiklet ve Ekipman",
+    "description": "Sezon başı ve sonu motosiklet kontrol listesi: lastik, fren ve fren hidroliği, zincir, akü, ışıklar, sıvılar ile kask, koruyucu, mont, eldiven ve bot kontrolü.",
+    "topic": "genel",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 8,
+    "intro": "Sezon öncesi kontrol iki parçadan oluşur: motosikletin kendisi (lastik, fren, zincir, akü, ışıklar, sıvılar) ve senin ekipmanın (kask, koruyucular, mont, eldiven, bot). Motosiklet tarafında yaygın kabul gören çerçeve, ABD'deki Motosiklet Güvenlik Vakfı'nın (MSF) her sürüşten önce önerdiği T-CLOCS listesidir; ekipman tarafında ise kaskın yaşı ve darbe geçmişi, koruyucuların yerinde olması ve dikişlerin sağlamlığı öne çıkar. Bu yazı ikisini tek bir listede toplar; sezon başında (Mart–Nisan) ve sezon sonunda (Ekim–Kasım) baştan sona uygulanabilir.",
+    "sections": [
+      {
+        "heading": "Çerçeve: T-CLOCS nedir?",
+        "paragraphs": [
+          "T-CLOCS, MSF'nin sürüş öncesi kontrol listesinin İngilizce baş harfleridir: lastik ve jantlar (Tires), kumandalar (Controls), ışıklar ve elektrik (Lights), yağ ve diğer sıvılar (Oil), şasi (Chassis) ve sehpalar (Stands). MSF bu kontrolü yalnız sezon başında değil her sürüşten önce, kısa bir rutin olarak öneriyor; uzun süre beklemiş motosikletlerde ise daha kapsamlı yapılmasını istiyor.",
+          "MSF ayrıca bu listenin bir hatırlatıcı olduğunu, ayrıntılı kontrol ve bakım için birinci kaynağın motosikletin kendi kullanım kılavuzu olduğunu vurguluyor. Aşağıdaki maddeler de bu yüzden üreticinin kılavuzunun yerine geçmez; kılavuzdaki değerler (lastik basıncı, zincir boşluğu, yağ tipi, bakım aralıkları) her zaman önce gelir."
+        ],
+        "bullets": [
+          "T – Lastik ve jantlar",
+          "C – Kumandalar: kollar, pedallar, kablolar, hortumlar, gaz",
+          "L – Işıklar ve elektrik: far, stop, sinyal, akü",
+          "O – Yağ ve sıvılar: motor yağı, fren hidroliği, soğutma sıvısı, sızıntı",
+          "C – Şasi: süspansiyon, zincir veya kayış, bağlantılar",
+          "S – Sehpalar: yan ve orta sehpa, yayları"
+        ]
+      },
+      {
+        "heading": "Lastik ve jantlar (kısaca)",
+        "paragraphs": [
+          "Sezon başında lastik basıncını mutlaka ölç, çünkü bekleyen motosiklette basınç kendiliğinden düşer. Michelin basıncın lastikler soğukken, yani en az iki saat çalışmamış ya da düşük hızda 3 km'den az gitmiş lastikte ölçülmesini, kontrolün iki haftada bir ve uzun yoldan önce yapılmasını öneriyor. Değer, motosiklet üreticisinin kılavuzundaki değerdir; yüke göre değişebilir.",
+          "Basıncın yanında diş derinliğine, yanaklardaki çatlaklara, saplanmış cisimlere ve jantta darbe izine bak. MSF'nin listesi ayrıca jant rulmanlarında boşluk ve dönerken ses olmamasını da kontrol maddesi olarak sayıyor. Lastik yaşı, diş derinliği ve değişim kararı ayrı bir konu; burada yalnız sezon başı kontrolünü özetliyoruz."
+        ],
+        "bullets": [
+          "Basınç: soğuk lastikte, kılavuzdaki değerle",
+          "Diş, yanak çatlağı, çivi veya cam parçası",
+          "Jantta eğilme veya çatlak, rulman boşluğu"
+        ]
+      },
+      {
+        "heading": "Frenler ve fren hidroliği",
+        "paragraphs": [
+          "Fren kollarının ve pedalın serbest boşluğunu, geri dönüşünü ve sertliğini kontrol et; süngerimsi bir his havalanmaya veya yorulmuş hidroliğe işaret edebilir. Balataların kalınlığına, disklerde derin çizik veya çapak olup olmadığına, hortumlarda çatlak ve sızıntı izine bak. Yıkamadan sonra disklere kimyasal veya yağ bulaşmamış olmalı; bunun ayrıntısı Motosiklet Nasıl Yıkanır rehberinde.",
+          "Fren hidroliği zamanla nem çeker (higroskopiktir). Brembo, emilen nemin kutudaki kaynama noktasına ulaşılmadan buharlaşabildiğini, bunun da pedal ve kol boşluğunu tehlikeli biçimde artırıp fren tepkisini zayıflattığını belirtiyor. Değişim için önce aracın üreticisinin önerisine uyulmasını, genel olarak da 2 ila 3 yıl arasında değişim yapılmasını öneriyor; ağır kullanımda daha erken. Honda'nın CRF450X kullanım kılavuzundaki bakım tablosu da fren hidroliği için 2 yılda bir değişim notu düşüyor. Kendi motosikletinin aralığını kullanım kılavuzunun periyodik bakım tablosundan kontrol et.",
+          "Hidrolik seviyesini depo penceresinden kontrol et. Seviye düşükse körü körüne tamamlamak yerine balataları kontrol et: Brembo, seviyenin minimuma yaklaşmasının disk ve balata aşınmasından da kaynaklanabileceğini hatırlatıyor. Hidrolik boyaya zarar verir; deponun kapağını gerektiğinden uzun açık tutma."
+        ],
+        "bullets": [
+          "Kol ve pedal hissi: sert ve tutarlı olmalı",
+          "Balata kalınlığı, disk yüzeyi, hortum ve bağlantılar",
+          "Fren hidroliği: seviye, renk ve son değişim tarihi",
+          "Değişim aralığı: kılavuz; Brembo genel olarak 2–3 yıl diyor"
+        ]
+      },
+      {
+        "heading": "Zincir, akü, ışıklar ve sıvılar",
+        "paragraphs": [
+          "Zincirde boşluğu, pas ve sıkışmış baklaları, dişlilerde sivrilmeyi kontrol et. Zincir üreticisi D.I.D, O-ring ve X-ring zincirlerin uygun temizleyiciyle silinip kurulanmasını ve bu işin yaklaşık her 500 km'de bir yapılmasını öneriyor. Adım adım temizlik, yağlama ve boşluk ayarı Motosiklet Zincir Bakımı ve Yağlama rehberinde.",
+          "Kış boyunca bekleyen motosikletin en sık sorunu aküdür. Kutup başlarının sıkı ve oksitsiz olduğuna bak, aküyü dolu tut. Battery University'ye göre kurşun asit akü düşük şarjda daha kolay donar ve donma kasayı çatlatabilir; bu yüzden sezon sonunda aküyü tam şarjla kaldırmak ve uzun beklemede uygun bir şarj cihazıyla korumak önemlidir.",
+          "Işıklarda far (kısa ve uzun), stop lambasının hem ön hem arka frenle yanması, sinyaller, plaka lambası ve korna kontrol edilir. Sıvılarda motor yağı seviyesi ve rengi, soğutma sıvısı seviyesi ve motor altında sızıntı izi aranır. Yağ tipi ve değişim aralığı için Motor Yağı Değişimi rehberine bak."
+        ],
+        "bullets": [
+          "Zincir: boşluk, temizlik, yağ, dişli durumu",
+          "Akü: kutup başları, şarj durumu",
+          "Işıklar: far, stop (iki frenle), sinyal, plaka lambası, korna",
+          "Sıvılar: motor yağı, soğutma sıvısı, sızıntı",
+          "Şasi ve sehpa: gevşek cıvata, süspansiyon sızıntısı, sehpa yayı"
+        ]
+      },
+      {
+        "heading": "Kask: yaş, darbe ve vizör",
+        "paragraphs": [
+          "Ekipman kontrolüne kaskla başla, çünkü kaskın koruması dışarıdan bakınca görülmez. SHOEI kaskın normal kullanım, bakım ve saklama koşullarında yaklaşık 5 yılda bir değiştirilmesini öneriyor. Kaskın üretim tarihini iç pedlerin altındaki etiketten kontrol et; hesap ve diğer üreticilerin yaklaşımı Kask Kaç Yılda Değiştirilir rehberinde.",
+          "Kask geçen sezon bir kazada kafayla birlikte darbe aldıysa yaşından bağımsız olarak değiştirilir. SHOEI, kafa içindeyken alınan darbeden sonra kaskın kontrol edilip 'sağlam' belgesi verilemeyeceğini, alçak bir yerden boş düşen kaskta ise genellikle yalnız boyanın zarar gördüğünü, ama dış kabukta gözle görülen bir hasar varsa kaskın hemen değiştirilmesi gerektiğini belirtiyor. Ayrıntı Kask Düşürülürse Değiştirilir mi rehberinde.",
+          "Vizörde görüş alanını bozan çizik varsa yenile; SHOEI vizörün en geç 5 yılda bir değiştirilmesini öneriyor. Pinlock ekranın pimlerini ve contasını, çene kayışının kilidini, iç pedlerin oturuşunu kontrol et. Kaskın temizliği için Kask Temizliği ve Bakımı rehberine bakabilirsin."
+        ],
+        "bullets": [
+          "Üretim tarihi: yaklaşık 5 yılı geçti mi?",
+          "Kafayla darbe aldı mı? Aldıysa değiştir",
+          "Dış kabukta çatlak, EPS köpükte ezik",
+          "Vizör çiziği, Pinlock pimleri, çene kilidi, iç ped oturuşu"
+        ]
+      },
+      {
+        "heading": "Koruyucular, mont ve pantolon",
+        "paragraphs": [
+          "Mont ve pantolonda omuz, dirsek, diz ve sırt koruyucularının ceplerinde olduğunu ve doğru yönde takıldığını kontrol et. Yıkamak için çıkarılan koruyucuların geri takılmaması sık rastlanan bir eksikliktir; özellikle sırt cebi birçok montta boş satılır. Koruyucunun üzerindeki EN 1621 etiketini ve seviyesini okumak için Dirseklik ve Dizlik Nedir ile Level 1 ve Level 2 Koruma Farkı rehberlerine bak.",
+          "Membranlı (Gore-Tex vb.) giysilerde su itici dış yüzey zamanla ve kirle zayıflar; su kumaşta boncuk yapmak yerine yayılıyorsa yenileme zamanıdır. Gore-Tex, ürünlerin düzenli yıkanmasını, kurutulmasını ve gerektiğinde DWR (kalıcı su itici) kaplamanın yeniden uygulanmasını öneriyor; önce giysinin içindeki bakım etiketine bakmak gerekiyor. Adımlar Motosiklet Montu Nasıl Yıkanır rehberinde.",
+          "Fermuarları, mont ile pantolonu bağlayan bel fermuarını, cırt ve ayar kayışlarını, reflektif bantları kontrol et. Kumaşta özellikle omuz ve dirsek gibi yüksek risk bölgelerinde aşınma veya yırtık varsa bu bölgenin koruması azalmıştır."
+        ],
+        "bullets": [
+          "Koruyucular ceplerinde ve doğru yönde mi?",
+          "Sırt koruyucu cebi boş mu?",
+          "Membranlı giysi: yıkama ve su itici yenileme",
+          "Fermuarlar, cırtlar, bel bağlantısı, reflektif bantlar"
+        ]
+      },
+      {
+        "heading": "Eldiven ve bot",
+        "paragraphs": [
+          "Eldivende en kritik nokta dikişlerdir. EN 13594 standardında koruyucu katmanı oluşturan her dikiş tipi ayrı ayrı mukavemet testinden geçer; yani sökülmüş bir dikiş, eldivenin test edilen korumasını kaybettiği anlamına gelir. Avuç içinde ve parmak aralarında incelme veya delik, bilek kayışının sıkı kapanıp kapanmadığı ve parmak uçlarındaki dikişler kontrol edilir. Seçim ölçütleri Motosiklet Eldiveni Nasıl Seçilir rehberinde.",
+          "Botta tabanın üst kısımla birleştiği yere bak: EN 13634 testleri arasında üst kısım ile dış taban arasındaki yapışma mukavemeti de var. Tabanda ayrılma, aşınmış diş, kırık toka veya çalışmayan fermuar varsa bot hem kavrama hem koruma kaybeder. Membranlı botlarda içeri su almaya başladıysa bakım veya değişim zamanıdır; seçim için Motosiklet Botu Nasıl Seçilir rehberine bakabilirsin."
+        ],
+        "bullets": [
+          "Eldiven: dikişler, avuç içi, bilek kayışı",
+          "Bot: taban yapışması, diş aşınması, toka ve fermuar",
+          "Membranlı eldiven ve bot: su alıyor mu?"
+        ]
+      },
+      {
+        "heading": "Sezon sonu: kaldırmadan önce",
+        "paragraphs": [
+          "Sezon sonunda (veya kış düzenine geçerken) aynı listeyi ters yönde düşün: motosikleti temiz, zinciri yağlı, aküyü dolu ve lastikleri doğru basınçta bırak; böylece sezon başında karşına sürpriz çıkmaz. Kış boyunca sürmeye devam ediyorsan kontrol sıklığını artır; tuz, soğuk ve kısa günlerle ilgili öneriler Kışın Motosiklet Sürüşü rehberinde.",
+          "Ekipmanı kaldırırken yıka ve tamamen kurut, koruyucuları geri tak, kaskı güneş almayan kuru bir yerde torbasında sakla. Mevsim geçişlerinde hangi ekipmanın ne zaman çıkarılacağını Mevsime Göre Motosiklet Ekipmanı Takvimi yazısında ay ay anlattık."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "T-CLOCS kontrolü ne sıklıkla yapılmalı?",
+        "a": "MSF bu kontrolü her sürüşten önce kısa bir rutin olarak öneriyor. Sezon başında ve uzun süre bekleyen motosiklette ise listeyi daha ayrıntılı uygula ve kullanım kılavuzundaki bakım tablosuyla birlikte değerlendir."
+      },
+      {
+        "q": "Fren hidroliği kaç yılda bir değişir?",
+        "a": "Önce motosikletinin kullanım kılavuzuna bak. Brembo genel olarak 2 ila 3 yılda bir değişim öneriyor ve ağır kullanımda daha erken değiştirmeyi tavsiye ediyor; bazı Honda kılavuzları 2 yıl yazıyor. Hidrolik zamanla nem çektiği için yalnız kilometreye değil süreye de bağlıdır."
+      },
+      {
+        "q": "Hiç düşmemiş kaskımı sezon başında değiştirmeli miyim?",
+        "a": "Hayır, yalnız yaşı dolduysa. SHOEI normal kullanımda yaklaşık 5 yıl öneriyor. Kafayla darbe almış ya da dış kabuğunda gözle görülen hasar olan kask ise yaşından bağımsız olarak değiştirilir."
+      },
+      {
+        "q": "Membranlı montum su almaya başladı, bozuldu mu?",
+        "a": "Her zaman değil. Çoğu durumda dış kumaşın su iticiliği azalmıştır ve kumaş ıslandığı için içerisi nemli hissedilir. Gore-Tex düzenli yıkama, kurutma ve gerektiğinde su itici kaplamanın yenilenmesini öneriyor; bundan sonra hâlâ su alıyorsa üreticiye veya satıcıya başvur."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-zincir-bakimi-ve-yaglama",
+      "motor-yagi-degisimi-dikkat-edilecekler",
+      "motosiklet-nasil-yikanir",
+      "kask-kac-yilda-degistirilir",
+      "kask-dusurulurse-degistirilir-mi",
+      "kask-temizligi-ve-bakimi",
+      "motosiklet-montu-nasil-yikanir",
+      "dirseklik-dizlik-nedir",
+      "motosiklet-eldiveni-nasil-secilir",
+      "motosiklet-botu-nasil-secilir",
+      "kisin-motosiklet-surusu",
+      "mevsime-gore-motosiklet-ekipmani-takvimi"
+    ],
+    "relatedCategories": [
+      "kask",
+      "koruma",
+      "mont",
+      "eldiven",
+      "bot",
+      "kask/kask-aksesuari"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ustires.org/system/files/2026-05/Appendix%20Motorcycle%20Tire%20Guide.pdf",
+        "type": "review",
+        "label": "USTMA – MSF T-CLOCS sürüş öncesi kontrol listesi (MSF izniyle yayımlanan ek)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelin.com.my/advice-motorbike/tyre-care/motorcycle-tyre-pressure-guide",
+        "type": "manufacturer",
+        "label": "Michelin – Motosiklet lastik basıncı rehberi (soğuk lastikte, iki haftada bir ölçüm)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.bremboparts.com/europe/en/news/brake-fluid-when-changing-it-saves-the-whole-team-90475",
+        "type": "manufacturer",
+        "label": "Brembo – Fren hidroliği ne zaman ve neden değiştirilir (genel olarak 2–3 yıl)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.bike-parts.fr/thumbs/pdf_url/img/owner_manuals/owner_CRF450X6/2500_2500/0033.pdf",
+        "type": "manufacturer",
+        "label": "Honda CRF450X kullanım kılavuzu bakım tablosu sayfası (fren hidroliği: 2 yılda bir değişim notu)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://didchain.com/blogs/news/d-i-d-chain-maintenance",
+        "type": "manufacturer",
+        "label": "D.I.D – Zincir bakımı (yaklaşık her 500 km'de temizlik)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://batteryuniversity.com/article/bu-502-discharging-at-high-and-low-temperatures",
+        "type": "review",
+        "label": "Battery University – BU-502: düşük şarjlı kurşun asit akünün donması",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://shoei-europe.com/service/faq",
+        "type": "manufacturer",
+        "label": "SHOEI Europe servis SSS – kask ömrü, düşen kask, vizör değişimi",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.gore-tex.com/support/care",
+        "type": "manufacturer",
+        "label": "GORE-TEX – Ürün bakımı: yıkama, kurutma ve DWR yenileme",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13594_mc.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13594 motosiklet eldiveni standardı (dikiş mukavemeti testi)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.satra.com/ppe/EN13634.php",
+        "type": "homologation",
+        "label": "SATRA – EN 13634 motosiklet botu standardı (üst ve taban yapışma mukavemeti)",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

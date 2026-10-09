@@ -47,6 +47,8 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
     { q: `${name} için hangi kask uygun?`, a: t.helmet },
     { q: `${name} kullanırken hangi mont giyilmeli?`, a: t.jacket },
     ...(m.licence ? [{ q: `${name} için hangi ehliyet gerekir?`, a: `${name} için ${m.licence} sınıfı ehliyet gerekir.` }] : []),
+    ...(m.tires ? [{ q: `${name} lastik ebatı nedir?`, a: `Üreticinin teknik bilgisine göre fabrika lastik ebatları ön ${m.tires.front}, arka ${m.tires.rear}. Lastik alırken aynı ebat ve en az aynı yük/hız endeksini seç; kılavuz esastır.` }] : []),
+    ...(m.oil && (m.oil.viscosity || m.oil.spec) ? [{ q: `${name} hangi motor yağını kullanır?`, a: `Üreticinin önerisi: ${[m.oil.viscosity, m.oil.spec].filter(Boolean).join(", ")}${m.oil.capacityL ? `; yağ miktarı yaklaşık ${String(m.oil.capacityL).replace(".", ",")} L` : ""}. Değişim aralığı ve sıcaklığa göre viskozite için kılavuza bak.` }] : []),
   ];
   return (
     <>
@@ -71,6 +73,37 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
               </li>
             ))}
           </ul>
+        )}
+        {(m.tires || (m.oil && (m.oil.viscosity || m.oil.spec))) && (
+          <dl className="mt-5 grid max-w-3xl gap-3 sm:grid-cols-2">
+            {m.tires && (
+              <div className="rounded-lg border border-line bg-white p-4">
+                <dt className="text-sm font-semibold text-mute">Fabrika lastik ebatı</dt>
+                <dd className="mt-1 font-display text-xl font-bold">
+                  Ön {m.tires.front} · Arka {m.tires.rear}
+                </dd>
+                <dd className="mt-1 text-xs text-mute">
+                  Kaynak:{" "}
+                  <a href={m.tires.source.url} target="_blank" rel="noopener nofollow" className="underline">
+                    {m.tires.source.label}
+                  </a>
+                </dd>
+              </div>
+            )}
+            {m.oil && (m.oil.viscosity || m.oil.spec) && (
+              <div className="rounded-lg border border-line bg-white p-4">
+                <dt className="text-sm font-semibold text-mute">Üreticinin önerdiği motor yağı</dt>
+                <dd className="mt-1 font-display text-xl font-bold">{[m.oil.viscosity, m.oil.spec].filter(Boolean).join(" · ")}</dd>
+                {m.oil.capacityL && <dd className="text-sm">Yağ miktarı: yaklaşık {String(m.oil.capacityL).replace(".", ",")} L</dd>}
+                <dd className="mt-1 text-xs text-mute">
+                  Kaynak:{" "}
+                  <a href={m.oil.source.url} target="_blank" rel="noopener nofollow" className="underline">
+                    {m.oil.source.label}
+                  </a>
+                </dd>
+              </div>
+            )}
+          </dl>
         )}
         {m.officialUrl && (
           <a href={m.officialUrl} target="_blank" rel="noopener" className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-red hover:underline">

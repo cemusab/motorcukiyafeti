@@ -1,0 +1,219 @@
+[
+  {
+    "slug": "motosiklet-lastigi-nelere-dikkat-edilmeli",
+    "title": "Motosiklet Lastiği: Basınç, Diş Derinliği, DOT Kodu ve Tamir",
+    "description": "Motosiklet lastiğinde basınç nasıl ölçülür, diş derinliği ve aşınma göstergesi, DOT kodundan üretim tarihi, lastik yaşı, alıştırma, ön/arka uyumu ve tamir.",
+    "topic": "genel",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 8,
+    "intro": "Motosiklet lastiğinde en önemli üç kontrol basınç, diş derinliği ve yaştır: basıncı motosiklet kılavuzundaki değere göre lastik soğukken ve en az iki haftada bir ölç, aşınma göstergesine yaklaşan lastiği değiştir, DOT kodunun son dört hanesinden üretim haftasını ve yılını oku. Yeni lastik ilk 100-200 km boyunca yumuşak sürülmeli, ön ve arkada aynı marka ve seri kullanılmalı, delik ise yalnız ustanın içten yaptığı mantar yamayla ve belirli sınırlar içinde kalıcı olarak tamir edilebilir. Bu rehber Michelin, Pirelli ve Metzeler'in resmi sayfalarına ve Türkiye mevzuatına dayanıyor ve 9 Ekim 2026'da kontrol edildi.",
+    "sections": [
+      {
+        "heading": "1. Lastik basıncı",
+        "paragraphs": [
+          "Doğru basınç motosiklet üreticisinin kılavuzunda yazar. Metzeler kendi tablolarının yalnız fikir verdiğini, esas değerin motosikletin kullanım kılavuzunda olduğunu söylüyor; Pirelli de basıncın kılavuzdaki değerde tutulmasını istiyor.",
+          "Ölçümü lastik soğukken yap. Michelin soğuk lastiği en az iki saattir çalışmamış ya da düşük hızla 3 km'den az gitmiş lastik olarak tanımlıyor ve basıncın en az iki haftada bir ve her uzun yoldan önce ölçülmesini öneriyor. Metzeler haftada bir kontrolü öneriyor. Sürüşten hemen sonra ölçtüysen lastik ısınmış ve basınç yükselmiştir; Michelin bu durumda üreticinin önerisine göre düzeltme yapılmasını söylüyor, sıcak lastikten hava indirme.",
+          "Basınç yanlışsa aşınmadan anlarsın. Michelin'e göre fazla şişirilmiş lastik ortadan, az şişirilmiş lastik omuzlardan aşınır ve düşük basınç zamanla lastiğin iç yapısına zarar verebilir. Metzeler'e göre düşük basınç yol tutuşu bozar, motosiklet yolda \"yüzer\", aşınma hızlanır ve yakıt tüketimi artar. Pist veya arazi için basıncı değiştirdiysen yola çıkmadan kılavuz değerine geri getir."
+        ],
+        "bullets": [
+          "Basınç değeri için motosikletin kılavuzuna bak",
+          "Soğukken ölç: en az iki saat beklemiş veya düşük hızla 3 km'den az gitmiş lastik",
+          "Sıklık: Michelin en az iki haftada bir, Metzeler haftada bir",
+          "Yolcu, yan çanta ve depo çantasıyla lastiğin yük indeksini ve izin verilen azami ağırlığı aşma (Metzeler)",
+          "Supap kapağını lastik contalı olanla sıkıca kapat (Metzeler)"
+        ]
+      },
+      {
+        "heading": "2. Diş derinliği ve aşınma göstergesi",
+        "paragraphs": [
+          "Lastiğin ana kanallarının dibinde küçük çıkıntılar var: aşınma göstergesi (TWI). Michelin'e göre bu göstergeler 0,8 mm yüksekliğinde ve Michelin lastiklerinde yanaktaki Michelin adamı simgesi bunların yerini gösteriyor. Michelin, lastiği göstergeye ulaşmadan değiştirmeyi şiddetle öneriyor; bu noktadan sonra özellikle ıslak zeminde tutuş garanti edilemiyor. Metzeler, yasal sınır ülkeden ülkeye değiştiği için kendi önerisini veriyor: diş derinliği 2 mm'nin altına indiğinde değiştir.",
+          "Pirelli'ye göre diş sığlaştıkça karışım ve tutuş aynı kalsa da su tahliyesi azalıyor; bu da hem kızaklama riskini hem virajda tutuş kaybını artırıyor. Uzun bir yola çıkacaksan dişi bol lastikle çık.",
+          "Türkiye'deki yasal sınır konusunda: Karayolları Trafik Yönetmeliği'nin güncel metninde motosiklet lastiği için sayısal bir diş derinliği yazmıyor. Araç Muayenesi Hakkında Yönetmelik ise motosiklet muayene istasyonlarında lastik diş derinliği ölçüm cihazı bulunmasını zorunlu tutuyor, yani diş derinliği muayenede ölçülüyor. Muayenede hangi değerin kusur sayıldığını öğrenmek için muayene istasyonuna sor; biz bu değeri resmi bir metinde bulamadığımız için rakam vermiyoruz."
+        ],
+        "bullets": [
+          "Aşınma göstergesi (Michelin): 0,8 mm",
+          "Metzeler'in değiştirme önerisi: diş 2 mm'nin altına inince",
+          "Düzensiz aşınma (ortada, omuzda, yer yer) basınç veya süspansiyon sorununa işaret edebilir",
+          "Diş oymak veya yeniden diş açmak yasak ve tehlikeli (Metzeler)"
+        ]
+      },
+      {
+        "heading": "3. DOT kodu ve üretim tarihi nasıl okunur?",
+        "paragraphs": [
+          "Lastiğin yanağında DOT ile başlayan bir harf ve rakam dizisi var. Bu dizinin sonundaki dört rakam üretim tarihidir: ilk ikisi hafta, son ikisi yıl. Pirelli'nin örneğinde 0320, 2020'nin üçüncü haftası demek. Kod yalnız üç haneliyse lastik 2000'den önce üretilmiş.",
+          "Pirelli'ye göre tam kod yanaklardan yalnız birinde basılı olabilir; DOT yazısını görüp ardında rakam bulamıyorsan diğer yanağa bak. Tarih kodu çoğu zaman kabarık bir oval içinde durur."
+        ],
+        "bullets": [
+          "Örnek: DOT … 4523 → 2023'ün 45. haftası",
+          "Üç haneli kod → 2000 öncesi üretim",
+          "Kod tek yanakta olabilir, iki tarafa da bak"
+        ]
+      },
+      {
+        "heading": "4. Lastik yaşı ve saklama",
+        "paragraphs": [
+          "Üreticiler bu konuda farklı vurgular yapıyor. Michelin, lastik ömrünün üretim tarihinden tahmin edilemeyeceğini, hiç kullanılmamış lastiklerin bile yaşlanma belirtisi gösterebileceğini söylüyor. Önerisi: beş yıl ve daha fazla kullanılmış lastikler her yıl bir uzmana kontrol ettirilsin, on yılı dolduran lastik iyi görünse ve aşınma sınırına gelmemiş olsa bile önlem olarak değiştirilsin. Pirelli ise lastiklerin son kullanma tarihi olmadığını, doğru saklanmışsa özelliklerini koruduğunu ve piyasada bir iki yıldan eski lastik bulmanın zaten zor olduğunu belirtiyor.",
+          "Saklama koşulu yaşlanmayı hızlandırır ya da yavaşlatır. Metzeler lastiklerin serin, kuru, karanlık ve havadar bir yerde, 25 derecenin altında, ısıtıcı ve borulardan uzakta saklanmasını; ozon ürettiği için elektrik motorlarının yanında tutulmamasını ve yağ ya da benzine değdiyse hemen silinmesini istiyor. Yanakta ince çatlaklar, kesikler veya şişkinlik görürsen lastiği bir ustaya göster."
+        ],
+        "bullets": [
+          "Michelin: 5 yıl sonra her yıl uzman kontrolü, 10 yılda değişim",
+          "Pirelli: son kullanma tarihi yok, doğru saklama önemli",
+          "Satın alırken DOT tarihine bak",
+          "Saklama: serin, kuru, karanlık; 25 °C altı; ozon kaynaklarından uzak"
+        ]
+      },
+      {
+        "heading": "5. Soğuk hava ve kış",
+        "paragraphs": [
+          "Michelin'e göre her lastiğin ideal bir çalışma sıcaklığı var ve soğukta kauçuk sertleştiği için bu sıcaklığa ulaşmak zorlaşıyor. Donma noktasına yaklaşan sıcaklıklarda kuru yolda bile tutuş azalıyor. Michelin karlı ve buzlu yolda motosiklet kullanmayı önermiyor ve motosiklet kış lastiğinin bu riski gideremeyeceğini söylüyor.",
+          "Soğuk ve ıslak yolda Michelin'in önerisi hızı düşürmek, takip mesafesini artırmak, gaz ve fren kumandalarını yumuşak kullanmak ve yol çizgilerinden, metal yüzeylerden ve su birikintilerinden kaçınmak. Motosikleti kışın kaldıracaksan lastikleri doğru basınca getir, mümkünse sehpaya al. Kış sürüşünün tamamı için kış sürüşü rehberimize bakabilirsin."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "6. Yeni lastik alıştırma",
+        "paragraphs": [
+          "Yeni lastiğin yüzeyinde kalıptan çıkarma sırasında kullanılan ince, parlak bir tabaka kalır. Michelin bu tabaka tamamen gidene kadar dikkatli sürülmesini istiyor: yavaş başla, gaz ve freni yumuşak kullan, az yatır, yükü kademeli artır. Michelin bu süreç için en az 100 km öneriyor; Metzeler ilk 100-200 km'de ani hızlanma, sert fren ve sert virajdan kaçınılmasını istiyor.",
+          "Michelin iki uyarı daha yapıyor. Tabakayı çabuk çıkarmak için lastiği zımpara ya da aşındırıcı ürünle sürtme; lastiğe kalıcı zarar verebilir. Günlük kısa yollarda hep aynı yöne daha çok yattığın için (örneğin göbekli kavşaklarda) alıştırma iki tarafta eşit olmaz ve uzayabilir. Soğuk havada alıştırma daha uzun sürer. Yalnız bir lastiği değiştirdiysen de aynı kurallar o lastik için geçerli."
+        ],
+        "bullets": [
+          "İlk 100-200 km: sert gaz, sert fren ve derin yatıştan kaçın",
+          "Aşındırıcı ürün kullanma",
+          "Farklı yol tiplerinde ve iki yöne de yatarak sür",
+          "Soğukta alıştırma daha uzun sürer"
+        ]
+      },
+      {
+        "heading": "7. Ön ve arka lastik, ölçü ve montaj",
+        "paragraphs": [
+          "Ön ve arka lastik birbirini tamamlayacak şekilde tasarlanıyor. Michelin önde ve arkada aynı marka ve aynı seriyi öneriyor ve üretici izin vermedikçe radyal ile radyal olmayan lastiği birlikte takmamayı söylüyor. Metzeler de yalnız motosiklet üreticisinin onay listesindeki kombinasyonlara izin veriyor ve farklı markaların birlikte kullanılmasının sorun çıkarabileceğini belirtiyor.",
+          "Pirelli'ye göre lastiğin yanağındaki ölçü, yük ve hız bilgileri ruhsattaki bilgilerle birebir aynı olmalı. Michelin de yolda kullanılan motosiklette üreticinin önerdiği ölçülere bağlı olduğunu hatırlatıyor. Örneğin 190/55 ZR 17 (75W) yazısında 190 genişlik, 55 yanak yüksekliğinin genişliğe oranı, R radyal yapı, 17 jant çapı (inç), 75 yük indeksi ve W hız indeksi.",
+          "Montajda yön okuna uy. Metzeler tubeless lastik değişiminde yeni sibop, şamyelli lastikte yeni iç lastik takılmasını ve her yeni lastikten sonra balans yapılmasını istiyor. Michelin yol lastiğini kendin değiştirmemeni, balans gerektirdiği için ustaya gitmeni öneriyor. Zincir gerdiğinde veya arka tekeri söktüğünde teker hizasını kontrol et; Metzeler hizasız tekerin aşınmayı artırdığını ve direksiyonu etkilediğini söylüyor."
+        ],
+        "bullets": [
+          "Önde ve arkada aynı marka ve seri",
+          "Radyal ve çapraz (bias) yapıyı karıştırma",
+          "Ölçü, yük ve hız indeksi ruhsatla aynı olmalı",
+          "Yön okuna uy, balans yaptır, sibobu yenile"
+        ]
+      },
+      {
+        "heading": "8. Patlak lastik tamiri",
+        "paragraphs": [
+          "Michelin'e göre yol kenarında fitille yapılan tamir yalnız geçicidir: fitil tam sızdırmazlık garanti etmez ve lastiğin içi kontrol edilmeden sürmek ciddi risk taşır. Fitil kitiyle en yakın ustaya kadar gidip lastiği içten kontrol ettirmelisin. Lastik jantından çıktıysa geçici tamir de yapılmamalı, motosiklet çekiciyle taşınmalı. Patlak lastikle uzun süre gidildiyse iç yapı ısınıp zarar görmüş olabilir ve usta tamir önermez.",
+          "Kalıcı tamir, lastiğin içinden takılan mantar tipi yamadır ve ustanın işidir. Michelin'e göre tamir yalnız diş yüzeyinin yaklaşık dörtte üçünü kapsayan orta bölgedeki delikler için mümkün; omuz ve yanak tamir edilemez. Ayrıca delik çapı sınırlı: hız indeksi VR'nin altındaki lastiklerde en fazla 6 mm, ZR lastiklerde en fazla 3 mm. Metzeler, kurallar ülkeden ülkeye değiştiği için genel bir tamir önerisi vermiyor; tamir yapılacaksa yalnız diş bölgesindeki küçük deliklerin mantar yamayla tamirini öneriyor. Tamir edilmiş tubeless lastiğin içine şamyel takılmamalı; şamyelli lastikte iç lastik tamir edilmez, yenisi takılır."
+        ],
+        "bullets": [
+          "Fitil: yalnız ustaya kadar gitmek için geçici çözüm",
+          "Kalıcı tamir: içten mantar yama, usta tarafından",
+          "Yalnız orta bölge (yaklaşık 3/4 genişlik); omuz ve yanak olmaz",
+          "Delik sınırı (Michelin): VR altı 6 mm, ZR 3 mm",
+          "Tamirli tubeless lastiğe şamyel takma"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Motosiklet lastik basıncı kaç olmalı?",
+        "a": "Motosikletinin kullanım kılavuzunda yazan değer. Ölçümü lastik soğukken yap; Michelin en az iki haftada bir, Metzeler haftada bir kontrol öneriyor."
+      },
+      {
+        "q": "Lastiğin üretim tarihini nereden anlarım?",
+        "a": "Yanaktaki DOT kodunun son dört rakamından. İlk iki rakam hafta, son iki rakam yıl: 0320, 2020'nin üçüncü haftası demek."
+      },
+      {
+        "q": "Motosiklet lastiği kaç yılda değişir?",
+        "a": "Tek bir süre yok; Michelin'e göre lastik ömrü üretim tarihinden tahmin edilemiyor. Michelin beş yıldan sonra her yıl uzman kontrolü, on yılı dolduran lastiğin ise iyi görünse de değiştirilmesini öneriyor. Pirelli lastiklerin son kullanma tarihi olmadığını, doğru saklamanın önemli olduğunu söylüyor."
+      },
+      {
+        "q": "Motosiklet lastiği yamanır mı?",
+        "a": "Yalnız belirli durumlarda. Michelin'e göre kalıcı tamir içten mantar yamayla, diş bölgesinin ortasındaki deliklerde ve VR altı lastiklerde 6 mm'ye, ZR lastiklerde 3 mm'ye kadar mümkün. Fitil yalnız geçici çözümdür."
+      },
+      {
+        "q": "Yeni lastikle ne kadar dikkatli gitmeliyim?",
+        "a": "Michelin en az 100 km, Metzeler 100-200 km öneriyor. Bu sürede sert gaz, sert fren ve derin yatıştan kaçın; soğuk havada alıştırma daha uzun sürer."
+      },
+      {
+        "q": "Türkiye'de motosiklet lastiğinde yasal diş derinliği kaç mm?",
+        "a": "Karayolları Trafik Yönetmeliği'nin güncel metninde motosiklet için sayısal bir değer yazmıyor; diş derinliği araç muayenesinde ölçülüyor. Muayenedeki ölçütü muayene istasyonuna sor."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-zincir-bakimi-ve-yaglama",
+      "kisin-motosiklet-surusu",
+      "motor-yagi-degisimi-dikkat-edilecekler",
+      "motosiklet-nasil-yikanir",
+      "yagmurda-motosiklet-ekipmani",
+      "motosiklet-kazalari-ve-korunma"
+    ],
+    "relatedCategories": [],
+    "sources": [
+      {
+        "url": "https://www.michelin.com.my/advice-motorbike/tyre-care/motorcycle-tyre-pressure-guide",
+        "type": "manufacturer",
+        "label": "Michelin – Motosiklet lastik basıncı rehberi (soğuk lastik tanımı, kontrol sıklığı)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelin.co.nz/motorbike/advice-motorbike/tyre-change/motorcycle-tyre-wear-when-to-change-tyres",
+        "type": "manufacturer",
+        "label": "Michelin – Lastik aşınması, aşınma göstergesi, lastik yaşı ve ön/arka uyumu",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelin.co.nz/motorbike/advice-motorbike/tyre-change/motorcycle-tyre-repair",
+        "type": "manufacturer",
+        "label": "Michelin – Motosiklet lastiği tamiri (fitil, mantar yama, T bölgesi, delik çapı)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelin.co.nz/motorbike/advice-motorbike/tyre-care/breaking-in-new-motorcycle-tyres",
+        "type": "manufacturer",
+        "label": "Michelin – Yeni motosiklet lastiği alıştırma",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelin.co.nz/motorbike/advice-motorbike/tyre-basics/motorcycle-tyre-size",
+        "type": "manufacturer",
+        "label": "Michelin – Motosiklet lastik ölçüsü ve yapı türleri",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.michelinman.com/motorcycle/tips-and-advice/how-to-choose-the-right-motorcycle-tire/motorcycle-snow-tires",
+        "type": "manufacturer",
+        "label": "Michelin – Kışın motosiklet lastiği ve soğukta tutuş",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.pirelli.com/global/en-ww/road/tyre-markings-tips-to-choose-the-right-ones",
+        "type": "manufacturer",
+        "label": "Pirelli – Motosiklet lastiği yanak işaretleri, üretim tarihi ve bakım",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.pirelli.com/tyres/en-gb/car/driving-and-tyre-tips/how-to-read/tyre-dot-code",
+        "type": "manufacturer",
+        "label": "Pirelli – DOT kodu nasıl okunur",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.metzeler.com/en-ww/tech-and-tips/pressure-safety-maintenance",
+        "type": "manufacturer",
+        "label": "Metzeler – Basınç, güvenlik ve bakım (alıştırma, 2 mm önerisi, saklama, tamir, montaj)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5",
+        "type": "homologation",
+        "label": "Mevzuat Bilgi Sistemi – Karayolları Trafik Yönetmeliği güncel metni",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=36213&MevzuatTur=7&MevzuatTertip=5",
+        "type": "homologation",
+        "label": "Mevzuat Bilgi Sistemi – Araç Muayene İstasyonlarının Açılması, İşletilmesi ve Araç Muayenesi Hakkında Yönetmelik, madde 10",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

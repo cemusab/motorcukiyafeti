@@ -1,0 +1,215 @@
+[
+  {
+    "slug": "mevsime-gore-motosiklet-ekipmani-takvimi",
+    "title": "Mevsime Göre Motosiklet Ekipmanı Takvimi: Ay Ay Ne Giyilir?",
+    "description": "Türkiye'de ay ay motosiklet ekipmanı: Ekim–Kasım ve Mart–Nisan geçişleri, sabah-öğle sıcaklık farkı, katmanlama, eldiven rotasyonu ve vizör seçimi.",
+    "topic": "genel",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 8,
+    "intro": "Türkiye'de motosiklet ekipmanını en çok zorlayan dönem yaz ya da kış değil, mevsim geçişleridir: Ekim–Kasım ve Mart–Nisan aylarında aynı gün içinde sabah ile öğle arasındaki fark Ankara gibi iç bölge şehirlerinde ortalama 10–13°C'ye çıkar. Bu yüzden geçiş aylarında tek kalın mont yerine çıkarılıp takılabilen katmanlar, iki farklı kalınlıkta eldiven ve şeffaf vizör ile buğu önleyici ekran en işe yarayan düzendir. Bu yazı ekipmanı ay ay ve şehir şehir planlamayı anlatır; yazın ve kışın ne giyileceğinin ayrıntısı Yazlık ve Kışlık Motosiklet Ekipmanı rehberlerinde.",
+    "sections": [
+      {
+        "heading": "Takvimin temeli: şehrinin aylık sıcaklık verisi",
+        "paragraphs": [
+          "Ekipman takvimini genel bir 'Ekim'de kışlığa geç' kuralıyla değil, yaşadığın şehrin verisiyle kurmak gerekir. Meteoroloji Genel Müdürlüğü (MGM) her il için uzun yıllar ortalamasını yayımlıyor; buradaki 'ortalama en yüksek' ve 'ortalama en düşük' değerleri, o ayın tipik öğle ve sabah sıcaklığını gösterir. Tek tek günler bu ortalamadan sapabilir, ama hangi ayın geçiş ayı olduğunu net biçimde gösterir.",
+          "MGM verisine göre İstanbul'da Ekim ayında ortalama en yüksek sıcaklık 20,6°C, en düşük 13,7°C; Kasım'da 16,1°C ve 9,9°C. Ankara'da Ekim 20,0°C ile 7,2°C, Kasım 13,1°C ile 2,6°C arasında. İzmir'de Ekim 24,1°C ile 14,7°C, Antalya'da 26,6°C ile 15,4°C. Erzurum'da ise Ekim'de ortalama en düşük 1,7°C'ye, Kasım'da -3,8°C'ye iner. Yani aynı hafta İstanbul'da ara mevsim montu yeterken Erzurum'da kış düzenine geçilmiş olur.",
+          "İlkbaharda tablo ters yönde aynıdır. Ankara'da Mart'ta ortalama en düşük 0,8°C, Nisan'da 5,5°C; Erzurum'da Nisan'da bile 0,1°C. İstanbul'da Mart 12,4°C ile 5,5°C, Nisan 17,4°C ile 9,2°C arasında. Kendi ilinin değerlerine MGM'nin il istatistikleri sayfasından bakabilirsin."
+        ],
+        "bullets": [
+          "Kıyı şehirleri (İstanbul, İzmir): geçiş daha yumuşak, sabah-öğle farkı ortalama 6–10°C",
+          "İç bölge (Ankara): Ekim'de ortalama fark yaklaşık 13°C, sabahlar erken soğur",
+          "Akdeniz (Antalya): kış kısa ve ılık, ama Ekim'de fark yine yaklaşık 11°C",
+          "Doğu ve yüksek rakım (Erzurum): Ekim'den Nisan'a kadar sabahlar sıfıra yakın veya altında"
+        ]
+      },
+      {
+        "heading": "Ay ay kaba bir takvim",
+        "paragraphs": [
+          "Aşağıdaki takvim İstanbul ve Ankara gibi orta iklimli şehirler için bir başlangıç noktasıdır; kıyıda bir ay geç, iç ve doğu bölgelerde bir ay erken kaydırılabilir. Kesin bir sıcaklık eşiği vermiyoruz, çünkü üşüme hızı; hıza, rüzgar siperliğine, sürüş süresine ve kişiye göre büyük fark gösterir. Sabah çıkış saatinin ve dönüş saatinin sıcaklığına birlikte bakmak, gün ortalamasına bakmaktan daha doğru sonuç verir.",
+          "Önemli nokta, koruma seviyesinin takvimle değişmemesidir. Yazlık montun da kışlık montun da EN 17092 sınıfı olmalı, eldiven ve bot sertifikası mevsimden bağımsızdır. Değişen yalnız yalıtım, havalandırma ve su geçirmezliktir."
+        ],
+        "bullets": [
+          "Haziran–Ağustos: file (mesh) mont ve pantolon, yazlık eldiven, havalandırmalı kask; ayrıntı Yazlık Motosiklet Ekipmanı rehberinde",
+          "Eylül: yazlık düzen sürer, sabah için ince bir rüzgar kesici veya iç katman çantaya girer",
+          "Ekim: geçiş ayı; 4 mevsim mont astarsız, sabah için ince ara katman, ara mevsim eldiveni, Pinlock takılı şeffaf vizör",
+          "Kasım: termal astar takılır, kışlık eldiven ve boyunluk devreye girer, yağış artar",
+          "Aralık–Şubat: tam kış düzeni; ayrıntı Kışlık Motosiklet Ekipmanı ve Kışın Motosiklet Sürüşü rehberlerinde",
+          "Mart: kış düzeni çoğu sabah hâlâ gerekli, öğleden sonra astar çıkarılabilir",
+          "Nisan: geçiş ayı; Ekim'deki düzene dönülür, yağmurluk çantada kalır",
+          "Mayıs: yazlık eldivene ve havalandırmalı düzene geçiş, sabahlar için ince iç katman"
+        ]
+      },
+      {
+        "heading": "Katmanlama: geçiş aylarında asıl işi yapan sistem",
+        "paragraphs": [
+          "Geçiş aylarında katmanlamanın amacı kış kadar ısınmak değil, gün içinde ayarlanabilir olmaktır. En içte teri uzaklaştıran ince bir baz katman (sentetik veya merinos; pamuk teri tutar ve öğleden sonra seni ıslak bırakır), ortada gerektiğinde çıkarılan ince bir polar veya montun termal astarı, dışta rüzgarı kesen mont bulunur. Sabah üç katman, öğle iki katman ile gidilir; çıkarılan ara katman sele altına veya çantaya sığacak incelikte olmalıdır.",
+          "Ara katman olarak montun kendi termal astarını kullanmak pratiktir, ama her mola noktasında montu çıkarıp astarı fermuarla sökmek zahmetli olabilir. Bu yüzden birçok sürücü geçiş aylarında astarı evde bırakıp ince bir polar veya termal içlik giyer; bu ürünlere sitedeki Termal İçgiyim kategorisinden bakabilirsin. Boyun ve göğüs, sabah serinliğinde en çok üşüyen bölgelerdir; ince bir boyunluk küçük ama etkili bir eklemedir.",
+          "Üreticilerin verdiği sıcaklık aralıkları da katman seçiminde işe yarar, ama her üründe yoktur. Örneğin Dainese, sitemizde yer alan Thermal Balaclava kask altı bonesi için -20°C ile 10°C arası bir kullanım aralığı veriyor. Böyle bir beyan yoksa ürünün 'konfor sıcaklığı' hakkında tahmin yürütmek yerine astar kalınlığına ve rüzgar geçirmezlik bilgisine bak."
+        ],
+        "bullets": [
+          "Baz katman: ince, ter atan, pamuk olmayan",
+          "Ara katman: çıkarıp çantaya koyabileceğin incelikte",
+          "Dış katman: rüzgarı kesen, koruyucuları yerinde tutan mont",
+          "Montun bedenini en kalın katman düzeniyle dene"
+        ]
+      },
+      {
+        "heading": "4 mevsim mont mu, iki ayrı mont mu?",
+        "paragraphs": [
+          "Tek bir 4 mevsim mont, çıkarılabilir termal ve su geçirmez astarlarla Ekim'den Mayıs'a kadar geniş bir aralığı kapatır ve bütçe ile dolap alanı açısından avantajlıdır. Zayıf noktası en sıcak günlerdir: dış kumaşı ve membranı nedeniyle temmuz-ağustos öğle trafiğinde gerçek bir file mont kadar hava almaz. Bu dengeyi Motosiklet Kıyafeti Nasıl Seçilir rehberinde de anlattık.",
+          "İki ayrı mont (yazlık file + kışlık veya 4 mevsim) en yüksek konforu verir. Yaz sıcağının uzun sürdüğü Akdeniz ve Ege şehirlerinde, ya da her gün uzun saatler süren kurye kullanımında, ayrı bir file montun farkı belirgindir. Yılda birkaç ay az sürüyorsan tek 4 mevsim mont çoğu zaman yeterlidir.",
+          "Karar verirken bir de su geçirmezlik tipine bak: membranı dış kumaşa laminasyonlu montlar yağmurda ağırlaşmaz, içten astarlı membranlı montlarda ise dış kumaş ıslanır. Bu farkın ayrıntısı Yağmurda Motosiklet Ekipmanı rehberinde. Sitedeki 4 Mevsim Mont, Yazlık (File) Mont ve Kışlık Mont kategorileri bu üç seçeneği ayrı ayrı listeliyor."
+        ],
+        "bullets": [
+          "Tek 4 mevsim mont: daha az maliyet ve yer, en sıcak günlerde sınırlı serinlik",
+          "Yazlık file + kışlık mont: en iyi konfor, iki ayrı alım ve bakım",
+          "Uzun yaz, yoğun kullanım veya kuryelik: ayrı file mont farkı belirgin"
+        ]
+      },
+      {
+        "heading": "Eldiven rotasyonu: yazlık, ara mevsim, kışlık",
+        "paragraphs": [
+          "Eller rüzgara doğrudan maruz kaldığı için mevsim geçişini ilk hisseden bölgedir; bu yüzden eldiveni montten daha erken değiştirmek gerekir. Pratik bir düzen üç eldivendir: yazın delikli veya file üst yüzeyli kısa manşetli eldiven, geçiş aylarında rüzgar kesen ama ince, çoğu zaman uzun manşetli bir ara mevsim (touring) eldiveni, kışın da yalıtımlı kışlık eldiven.",
+          "Ara mevsim eldiveni bu düzenin en çok kullanılan parçasıdır: Ekim, Kasım başı, Mart sonu ve Nisan'ın büyük kısmını kapatır. Kalın kışlık eldiveni ekimde takmak fren ve debriyaj hissini gereksiz yere azaltır; ince yazlık eldivenle kasım sabahına çıkmak ise parmakları uyuşturur. Kışlık eldivende manşetin montun koluyla nasıl birleştiğine (içte mi dışta mı) bak, aksi halde yağmur ve rüzgar bilekten girer.",
+          "Bütçe kısıtlıysa iki eldivenle başla: yazlık ve ara mevsim. Kış düzeni için ara mevsim eldivenine elcik ısıtıcısı veya el koruması eklemek, kalın bir kışlık eldivenden daha iyi kumanda hissi verebilir. Eldivenin EN 13594 etiketi ve beden seçimi için Motosiklet Eldiveni Nasıl Seçilir rehberine, ürünlere sitedeki Yazlık Eldiven, Touring Eldiven ve Kışlık Eldiven kategorilerinden bakabilirsin."
+        ],
+        "bullets": [
+          "Yazlık eldiven: Mayıs–Eylül",
+          "Ara mevsim / touring eldiven: Ekim, Kasım başı, Mart sonu–Nisan",
+          "Kışlık eldiven: Kasım sonu–Mart başı (bölgeye göre kaydır)",
+          "Sabah soğuk, öğle ılık ise ince eldiveni giy, kalını çantaya koyma; tersi daha pratiktir"
+        ]
+      },
+      {
+        "heading": "Vizör: Pinlock, şeffaf vizör ve iç güneş vizörü",
+        "paragraphs": [
+          "Geçiş aylarında sabahlar serin ve nemlidir; nefesin vizörün iç yüzeyinde yoğuşur. Pinlock üreticisine göre buğu önleyici ekran, nemi emen yüzeyi ve vizörle arasında kalan hava boşluğu sayesinde iç yüzeyin buğulanmasını engeller. SHOEI de buğunun kaskın içindeki sıcak ve nemli havanın soğuk vizöre değmesiyle oluştuğunu, havalandırma kanallarını açmanın ve Pinlock kullanmanın bunu büyük ölçüde önlediğini belirtiyor. Ekim geldiğinde Pinlock'u yeniden takmak iyi bir takvim alışkanlığıdır; ayrıntı Pinlock Nedir rehberinde.",
+          "Sonbahar ve kış güneşi alçaktır; sabah ve akşam saatlerinde doğrudan göze gelir. Koyu dış vizör bu ışığa karşı işe yarar ama hava kararınca sorun olur ve geçiş aylarında gün erken kısalır. Bu yüzden şeffaf vizör ile kaskın içine katlanan iç güneş vizörü (drop-down sun visor) birlikteliği, sabah çıkıp akşam karanlıkta dönenler için en esnek çözümdür. Kaskın iç güneş vizörü yoksa yanında şeffaf vizör taşımak gerekir.",
+          "Mevsim geçişi, vizörün durumunu kontrol etmek için de iyi bir zamandır. SHOEI, görüş alanını bozan çizik veya kirlenmiş vizörün tehlikeli olduğunu ve vizörün en geç 5 yılda bir yenilenmesini öneriyor."
+        ],
+        "bullets": [
+          "Ekim: Pinlock'u tak, şeffaf vizöre dön",
+          "Akşam karanlıkta dönüyorsan: koyu vizörle yola çıkma",
+          "İç güneş vizörü: alçak güneşte ve gün içinde değişen ışıkta pratik"
+        ]
+      },
+      {
+        "heading": "Sabah-öğle farkı için pratik düzen",
+        "paragraphs": [
+          "Sabah işe gidip öğleden sonra dönenler için Ankara gibi iç bölge şehirlerinde 11–13°C'lik ortalama fark, sabah gereken ekipmanın dönüşte fazla gelmesi demektir. En pratik yol, dış katmanı (mont) sabit tutup ayarı içeride ve uçlarda yapmaktır: ara katman, boyunluk ve eldiven. Montun havalandırma fermuarları da bu farkı bir ölçüde kapatır.",
+          "Bunun için yanında küçük bir taşıma alanı olmalı: sele altı, sırt çantası veya sitedeki Motosiklet Çantası kategorisindeki gibi bir çanta. Geçiş aylarında yağış da artar; MGM'ye göre İstanbul'da ortalama yağışlı gün sayısı Eylül'de 5,5 iken Kasım'da 11,3'e çıkıyor. Bu nedenle Ekim–Kasım ve Mart–Nisan, katlanmış bir yağmurluk takımının çantada sürekli kaldığı aylardır.",
+          "Görünürlük de geçişte değişir: gün kısalır, dönüş saati alacakaranlığa kayar. Koyu renkli bir kışlık mont giyiyorsan reflektif yelek çantadaki listeye eklenmelidir; ayrıntı Reflektörlü Yelek ve Görünürlük Standartları rehberinde."
+        ],
+        "bullets": [
+          "Çantada: ince ara katman, ikinci eldiven, boyunluk",
+          "Ekim–Nisan arası: katlanmış yağmurluk takımı",
+          "Kısa günlerde: reflektif yelek ve şeffaf vizör"
+        ]
+      },
+      {
+        "heading": "Mevsim değişiminde ekipmanı saklamak",
+        "paragraphs": [
+          "Yazlık ekipmanı kaldırırken ve kışlığı çıkarırken her ikisini de temiz ve kuru hale getir. Terli bırakılan file mont ve eldivenler koku tutar, membranlı giysilerin su iticiliği kirle azalır. Yıkama ve su iticiyi yenileme adımlarını Motosiklet Montu Nasıl Yıkanır rehberinde anlattık.",
+          "Mevsim başında kaskın, koruyucuların ve eldiven dikişlerinin durumunu kontrol etmek de bu takvimin parçasıdır. Bunun için Sezon Öncesi Motosiklet Kontrol Listesi yazımıza bakabilirsin."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ekim'de kışlık montla mı çıkmalıyım?",
+        "a": "Şehrine bağlı. MGM verisine göre Ekim'de İstanbul'da ortalama en düşük sıcaklık 13,7°C, Ankara'da 7,2°C, Erzurum'da 1,7°C. Kıyıda astarsız 4 mevsim mont ve ince ara katman çoğu sabah yeterliyken iç ve doğu bölgelerde termal astar Ekim'de devreye girebilir."
+      },
+      {
+        "q": "Tek mont mu almalıyım, iki mont mu?",
+        "a": "Yılda birkaç ay ve çoğunlukla geçiş mevsimlerinde sürüyorsan çıkarılabilir astarlı bir 4 mevsim mont yeterlidir. Yaz sıcağında uzun saatler sürüyorsan (Akdeniz, Ege, kuryelik) ayrı bir file mont belirgin konfor farkı yaratır."
+      },
+      {
+        "q": "Kaç eldivene ihtiyacım var?",
+        "a": "Yıl boyu sürüyorsan üç eldiven (yazlık, ara mevsim, kışlık) en rahat düzendir. Bütçe kısıtlıysa yazlık ve ara mevsim eldiveniyle başla; kışın elcik ısıtıcısı veya el koruması ekleyerek ara mevsim eldivenini uzatabilirsin."
+      },
+      {
+        "q": "Pinlock'u yazın çıkarmalı mıyım?",
+        "a": "Zorunlu değil. Pinlock nem tuttuğu ve vizörle arasında hava boşluğu bıraktığı için buğulanmayı önler; yazın buğu sorunu azalır. Bazı sürücüler yazın çıkarıp sonbaharda yeniden takar; takıp çıkarırken ekranın ve pimlerin temizliğine dikkat et."
+      }
+    ],
+    "relatedGuides": [
+      "yazlik-motosiklet-ekipmani",
+      "kislik-motosiklet-ekipmani",
+      "kisin-motosiklet-surusu",
+      "yagmurda-motosiklet-ekipmani",
+      "motosiklet-kiyafeti-nasil-secilir",
+      "motosiklet-eldiveni-nasil-secilir",
+      "pinlock-nedir",
+      "motosiklet-montu-nasil-yikanir",
+      "sezon-oncesi-motosiklet-kontrol-listesi"
+    ],
+    "relatedCategories": [
+      "mont/4-mevsim-mont",
+      "mont/yazlik-mont",
+      "mont/kislik-mont",
+      "eldiven/yazlik-eldiven",
+      "eldiven/touring-eldiven",
+      "eldiven/kislik-eldiven",
+      "termal/termal-icgiyim",
+      "termal/boyunluk",
+      "aksesuar/motosiklet-cantasi"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?k=A&m=ISTANBUL",
+        "type": "homologation",
+        "label": "MGM – İstanbul resmi iklim istatistikleri (1950–2025 aylık ortalama en yüksek/en düşük sıcaklık, yağışlı gün)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?k=A&m=ANKARA",
+        "type": "homologation",
+        "label": "MGM – Ankara resmi iklim istatistikleri (1927–2025)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?k=A&m=IZMIR",
+        "type": "homologation",
+        "label": "MGM – İzmir resmi iklim istatistikleri (1938–2025)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?k=A&m=ANTALYA",
+        "type": "homologation",
+        "label": "MGM – Antalya resmi iklim istatistikleri (1930–2025)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?k=A&m=ERZURUM",
+        "type": "homologation",
+        "label": "MGM – Erzurum resmi iklim istatistikleri (1929–2025)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.dainese.com/us/en/thermal-motorcycle-balaclava-unisex---mid-layer-winter-201996266606.html",
+        "type": "manufacturer",
+        "label": "Dainese – Thermal Balaclava ürün sayfası (-20°C / 10°C kullanım aralığı)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.pinlock.com/technology",
+        "type": "manufacturer",
+        "label": "Pinlock – Buğu önleyici teknoloji (nem tutan yüzey ve hava boşluğu)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://shoei-europe.com/service/faq",
+        "type": "manufacturer",
+        "label": "SHOEI Europe servis SSS – vizör buğusu ve vizörün en geç 5 yılda yenilenmesi",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://satra.com/ppe/EN17092.php",
+        "type": "homologation",
+        "label": "SATRA – EN 17092 koruyucu giysi standardı özeti",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

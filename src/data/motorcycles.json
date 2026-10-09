@@ -44,7 +44,17 @@
         "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik",
         "Kurye ve şehir içi kullanımda çok yaygın"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125",
+      "tires": {
+        "front": "110/70-14M/C 50P",
+        "rear": "130/70-13M/C 63P",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125",
+          "type": "manufacturer",
+          "label": "Honda Türkiye PCX125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-activa-125",
@@ -78,7 +88,17 @@
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
         "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
       ],
-      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr"
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr",
+      "tires": {
+        "front": "90/90-12",
+        "rear": "90/90-12",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye Jupiter 125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kuba-cg50-pro",
@@ -95,7 +115,17 @@
         "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
         "Düşük hızlı şehir kullanımı; yine de en az açık yüz kask ve eldiven şart"
       ],
-      "officialUrl": "https://www.kubamotor.com.tr/model/cg50-rx-pro"
+      "officialUrl": "https://www.kubamotor.com.tr/model/cg50-rx-pro",
+      "tires": {
+        "front": "2.50-18",
+        "rear": "2.75-18",
+        "source": {
+          "url": "https://www.kubamotor.com.tr/model/cg50-rx-pro",
+          "type": "manufacturer",
+          "label": "Kuba Motor CG50 RX Pro teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "mondial-wing-50",
@@ -213,7 +243,17 @@
       "notes": [
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
       ],
-      "officialUrl": null
+      "officialUrl": null,
+      "tires": {
+        "front": "120/70 x R19",
+        "rear": "170/60 x R17",
+        "source": {
+          "url": "https://www.bmw-motorrad.com.tr/tr/models/adventure/r1300gs/technicaldata.html",
+          "type": "manufacturer",
+          "label": "BMW Motorrad Türkiye R 1300 GS teknik veriler",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-250nk",
@@ -229,7 +269,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-nk"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-nk",
+      "tires": {
+        "front": "110/70 R17 M/C",
+        "rear": "140/60 R17 M/C",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250-nk",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 250NK teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-250sr",
@@ -245,7 +295,17 @@
       "notes": [
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-sr"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250-sr",
+      "tires": {
+        "front": "110/70 R17",
+        "rear": "140/60 R17",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250-sr",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 250SR teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-450mt",
@@ -261,7 +321,17 @@
       "notes": [
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-mt"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-mt",
+      "tires": {
+        "front": "90/90 R21 CST",
+        "rear": "140/70 R18 CST",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-mt",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 450MT teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-450nk",
@@ -277,7 +347,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-nk"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-nk",
+      "tires": {
+        "front": "110/70-R17 CST AS5",
+        "rear": "150/60-R17 CST AS5",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-nk",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 450NK teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-450sr",
@@ -293,7 +373,17 @@
       "notes": [
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-sr"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450-sr",
+      "tires": {
+        "front": "110/70 R17",
+        "rear": "150/60 R17",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-sr",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 450SR teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-800mt-sport",
@@ -326,7 +416,17 @@
         "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
         "Hafif arazi yollarına da girebilen adventure scooter"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350",
+      "tires": {
+        "front": "120/70-15MC 56P",
+        "rear": "140/70-14MC 62P",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350",
+          "type": "manufacturer",
+          "label": "Honda Türkiye ADV350 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-africa-twin",
@@ -342,7 +442,17 @@
       "notes": [
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin",
+      "tires": {
+        "front": "90/90-21M/C 54H",
+        "rear": "150/70R18M/C 70H",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CRF1100L Africa Twin teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cb125f",
@@ -360,7 +470,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır",
         "Manuel vitesli kurye motosikleti olarak yaygın"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f",
+      "tires": {
+        "front": "80 / 100 18M/C 47P",
+        "rear": "100/80 18M/C 53P",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CB125F teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cb650r",
@@ -376,7 +496,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r",
+      "tires": {
+        "front": "120/70ZR17 M/C (58W)",
+        "rear": "180/55ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CB650R teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cbr650r",
@@ -392,7 +522,17 @@
       "notes": [
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r",
+      "tires": {
+        "front": "120/70ZR17 M/C (58W)",
+        "rear": "180/55ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CBR650R teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cl250",
@@ -409,7 +549,17 @@
         "Scrambler stili; retro/klasik görünümlü ekipmanla uyumlu",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250",
+      "tires": {
+        "front": "110/80R19M/C 59H",
+        "rear": "150/70R17M/C 69H",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CL250 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-forza-250",
@@ -426,7 +576,17 @@
         "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250",
+      "tires": {
+        "front": "120/70-15MC 56P",
+        "rear": "140/70-14MC 68P",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250",
+          "type": "manufacturer",
+          "label": "Honda Türkiye Forza 250 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-monkey-125",
@@ -443,7 +603,17 @@
         "Küçük gövdeli, şehir içi keyif motosikleti",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey",
+      "tires": {
+        "front": "120/80-12M/C 65J",
+        "rear": "130/80-12M/C 69J",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey",
+          "type": "manufacturer",
+          "label": "Honda Türkiye Monkey teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-nc750x",
@@ -460,7 +630,17 @@
         "Depo yerinde kask bölmesi var",
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x",
+      "tires": {
+        "front": "120/70ZR17 M/C",
+        "rear": "160/60ZR17 M/C",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x",
+          "type": "manufacturer",
+          "label": "Honda Türkiye NC750X teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-sh125i",
@@ -477,7 +657,17 @@
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
         "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i",
+      "tires": {
+        "front": "100/80-16",
+        "rear": "120/80-16",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i",
+          "type": "manufacturer",
+          "label": "Honda Türkiye SH125i teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-x-adv",
@@ -494,7 +684,17 @@
         "Scooter tarzı adventure; sele altında bagaj var",
         "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv",
+      "tires": {
+        "front": "120/70 R17",
+        "rear": "160/60 R15",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv",
+          "type": "manufacturer",
+          "label": "Honda Türkiye X-ADV teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "ktm-390-duke",
@@ -510,7 +710,18 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": null
+      "officialUrl": null,
+      "oil": {
+        "viscosity": "15W/50",
+        "spec": null,
+        "capacityL": null,
+        "source": {
+          "url": "https://www.ktm.com/en-int/models/naked-bike/2026-ktm-390-duke/technical-specifications.html",
+          "type": "manufacturer",
+          "label": "KTM global 390 Duke teknik özellikleri (Motorex Formula 4T 15W/50)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-ninja-500",
@@ -526,7 +737,17 @@
       "notes": [
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja500"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja500",
+      "tires": {
+        "front": "110/70R17 M/K 54H",
+        "rear": "150/60R17 M/K 66H",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Ninja 500 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-ninja-650",
@@ -542,7 +763,17 @@
       "notes": [
         "Yarı dik sürüş pozisyonu; günlük kullanıma da uygun spor model"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja650"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Ninja650",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "160/60 ZR17 M/C (69W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Ninja 650 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-z500",
@@ -558,7 +789,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z500"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z500",
+      "tires": {
+        "front": "110/70R17 M/K 54H",
+        "rear": "150/60R17 M/K 66H",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Z500 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-z650",
@@ -574,7 +815,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z650"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z650",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "160/60 ZR17 M/C (69W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Z650 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-z900",
@@ -590,7 +841,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z900"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Z900",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "180/55 ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z900",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Z900 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kuba-ege-50",
@@ -607,7 +868,17 @@
         "50 cc moped sınıfı; B sınıfı ehliyetle de kullanılabilir",
         "Debriyajsız vitesli cub; şehir içi ve kırsal kısa mesafe kullanımı yaygın"
       ],
-      "officialUrl": "https://www.kubamotor.com.tr/model/ege-50"
+      "officialUrl": "https://www.kubamotor.com.tr/model/ege-50",
+      "tires": {
+        "front": "2.50-17",
+        "rear": "2.75-17",
+        "source": {
+          "url": "https://www.kubamotor.com.tr/model/ege-50",
+          "type": "manufacturer",
+          "label": "Kuba Motor Ege 50 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "mondial-100-uag",
@@ -640,7 +911,17 @@
         "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
         "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
       ],
-      "officialUrl": "https://www.rksmotor.com.tr/model/spontini-110.html"
+      "officialUrl": "https://www.rksmotor.com.tr/model/spontini-110.html",
+      "tires": {
+        "front": "90/90-12",
+        "rear": "3.50-10",
+        "source": {
+          "url": "https://www.rksmotor.com.tr/model/spontini-110.html",
+          "type": "manufacturer",
+          "label": "RKS Motor Spontini 110 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "tvs-apache-rtr-200-4v",
@@ -656,7 +937,17 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr"
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr",
+      "tires": {
+        "front": "90/90-17 49P",
+        "rear": "130/70 R17 M/C 62P",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye Apache RTR 200 4V teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "tvs-raider-125",
@@ -673,7 +964,17 @@
         "Hafif ve ekonomik; şehir içi günlük kullanımda yaygın",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr"
+      "officialUrl": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr",
+      "tires": {
+        "front": "80/100 - 17",
+        "rear": "100/90 - 17",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye Raider 125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-mt-07",
@@ -690,7 +991,28 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır",
         "A2 için kısıtlı versiyonu bulunabilir"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/",
+      "tires": {
+        "front": "120/70 ZR 17M/C(58W)",
+        "rear": "180/55 ZR 17M/C(73W)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye MT-07 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.3,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-07-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye MT-07 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-mt-125",
@@ -706,7 +1028,28 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/",
+      "tires": {
+        "front": "100/80-17M/C 52S",
+        "rear": "140/70-17M/C 66S",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye MT-125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 0.85,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-125-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye MT-125 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-mt-25",
@@ -722,7 +1065,28 @@
       "notes": [
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/",
+      "tires": {
+        "front": "110/70R17M/C (54H)",
+        "rear": "140/70R17M/C (66H)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye MT-25 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.0,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-25-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye MT-25 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-nmax-125",
@@ -739,7 +1103,28 @@
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene",
         "Arka çanta (topcase) montajı yaygın; günlük işe gidip gelmede pratik"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/",
+      "tires": {
+        "front": "110/70-13M/C 48P",
+        "rear": "130/70-13M/C 63P",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye NMAX 125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya üzeri, JASO standart MA veya MB",
+        "capacityL": 0.9,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/NMAX-125-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye NMAX 125 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-r25",
@@ -755,7 +1140,28 @@
       "notes": [
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/",
+      "tires": {
+        "front": "110/70R17M / C 54H",
+        "rear": "140/70R17M / C 66H",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye R25 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.0,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/R25-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye R25 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-tracer-7",
@@ -772,7 +1178,28 @@
         "Ön cam ve dik sürüş pozisyonu; uzun yola uygun",
         "Yan çanta montajına uygun"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/",
+      "tires": {
+        "front": "120/70 ZR 17 M/C (58 W)",
+        "rear": "180/55 R 17 M/C (73 W)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye TRACER 7 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.3,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/TRACER-7-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye TRACER 7 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-xmax-250",
@@ -789,7 +1216,28 @@
         "Ön cam rüzgarın bir kısmını keser; otoyol hızlarına çıkabilir",
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/",
+      "tires": {
+        "front": "120/70-15",
+        "rear": "140/70-14",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye XMAX 250 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40, 0W-30",
+        "spec": "API service SG tipi veya üstü, JASO standardı MA veya MB",
+        "capacityL": 1.5,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/XMAX-250-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye XMAX 250 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-address-125",
@@ -806,7 +1254,18 @@
         "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
         "Şehir içi günlük kullanımda yaygın; kısa yolda da en az açık yüz kask, eldiven ve korumalı mont kullan"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html",
+      "oil": {
+        "viscosity": null,
+        "spec": null,
+        "capacityL": 0.8,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye Address 125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-burgman-street-125ex",
@@ -823,7 +1282,28 @@
         "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
         "Şehir içi günlük kullanımda yaygın; kısa yolda da en az açık yüz kask, eldiven ve korumalı mont kullan"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+      "tires": {
+        "front": "90/90-12, tubeless",
+        "rear": "100/80-12, tubeless",
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye Burgman Street 125EX teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": null,
+        "spec": null,
+        "capacityL": 0.8,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye Burgman Street 125EX teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-gsx-s125",
@@ -840,7 +1320,28 @@
         "A1 ehliyetle sürülebilen naked; ilk motor için sağlam bir başlangıç ekipmanı (kask, eldiven, korumalı mont) bütçenin parçası olmalı",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+      "tires": {
+        "front": "90/80-17M/C 46S, tubeless",
+        "rear": "130/70-17M/C 62S, tubeless",
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye GSX-S125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": null,
+        "spec": null,
+        "capacityL": 1.5,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye GSX-S125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-gsx-8s",
@@ -857,7 +1358,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "180/55ZR17M/C (73W)",
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye GSX-8S teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-v-strom-800de",
@@ -874,7 +1385,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html",
+      "tires": {
+        "front": "90/90-21M/C (54H), tüplü",
+        "rear": "150/70R17 M/C (69H), tüplü",
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye V-Strom 800DE teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "suzuki-burgman-400",
@@ -891,7 +1412,28 @@
         "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
         "Büyük scooter ile şehirlerarası yolda da kullanılır; uzun yolda rüzgar sesi için sessiz kask ve yağmurluk bulundur"
       ],
-      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html"
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+      "tires": {
+        "front": "120/70-15M/C 56S, iç lastiksiz",
+        "rear": "150/70-13M/C 64S, iç lastiksiz",
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye Burgman 400 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": null,
+        "spec": null,
+        "capacityL": 1.5,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye Burgman 400 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-speed-400",
@@ -908,7 +1450,17 @@
         "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400",
+      "tires": {
+        "front": "110/70 R17",
+        "rear": "150/60 R17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Speed 400 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-scrambler-400-x",
@@ -925,7 +1477,17 @@
         "Scrambler stili; retro/klasik görünümlü ekipmanla uyumlu, toprak yolda vizörlü kask ve gözlük düşün",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x",
+      "tires": {
+        "front": "100/90-19",
+        "rear": "140/80 R17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Scrambler 400 X teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-trident-660",
@@ -942,7 +1504,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Üreticinin resmi sayfasına göre yetkili bayide A2 ehliyete uygun kısıtlama yapılabiliyor"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660",
+      "tires": {
+        "front": "120/70 R 17",
+        "rear": "180/55 R 17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Trident 660 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-tiger-sport-660",
@@ -959,7 +1531,17 @@
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
         "Üreticinin resmi sayfasına göre yetkili bayide A2 ehliyete uygun kısıtlama yapılabiliyor"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660",
+      "tires": {
+        "front": "120/70 R 17",
+        "rear": "180/55 R 17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Tiger Sport 660 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-street-triple-765-r",
@@ -976,7 +1558,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023",
+      "tires": {
+        "front": "120/70 ZR 17",
+        "rear": "180/55 ZR 17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Street Triple 765 R teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "triumph-tiger-900-gt-pro",
@@ -993,7 +1585,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024"
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024",
+      "tires": {
+        "front": "Metzeler TouranceTM Next, 100/90-19",
+        "rear": "Metzeler TouranceTM Next, 150/70R17",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye Tiger 900 GT Pro teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "ducati-monster",
@@ -1010,7 +1612,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.ducati.com/ww/en/bikes/monster/monster-v2"
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/monster/monster-v2",
+      "tires": {
+        "front": "Pirelli Diablo Rosso IV, 120/70 ZR17",
+        "rear": "Pirelli Diablo Rosso IV, 180/55 ZR17",
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/monster/monster-v2",
+          "type": "manufacturer",
+          "label": "Ducati global Monster teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "ducati-multistrada-v2",
@@ -1027,7 +1639,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
       ],
-      "officialUrl": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2"
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2",
+      "tires": {
+        "front": "Pirelli Scorpion Trail II 120/70 ZR 19",
+        "rear": "Pirelli Scorpion Trail II 170/60 ZR 17",
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2",
+          "type": "manufacturer",
+          "label": "Ducati global Multistrada V2 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "ducati-desertx",
@@ -1044,7 +1666,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
       ],
-      "officialUrl": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2"
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2",
+      "tires": {
+        "front": "Pirelli Scorpion Rally STR 90/90 - 21 M/C 54V M+S TL (A)",
+        "rear": "Pirelli Scorpion Rally STR 150/70 R18 M/C 70V M+S TL",
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2",
+          "type": "manufacturer",
+          "label": "Ducati global DesertX teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "ducati-panigale-v2",
@@ -1061,7 +1693,17 @@
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
         "Pist günü için genelde tek parça veya fermuarla birleşen deri tulum istenir; organizatörün kurallarına bak"
       ],
-      "officialUrl": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2"
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2",
+      "tires": {
+        "front": "Pirelli Diablo Rosso IV 120/70 ZR17",
+        "rear": "Pirelli Diablo Rosso IV 190/55 ZR17",
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2",
+          "type": "manufacturer",
+          "label": "Ducati global Panigale V2 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "bajaj-pulsar-ns-125",
@@ -1078,7 +1720,17 @@
         "A1 ehliyetle sürülebilen naked; ilk motor için sağlam bir başlangıç ekipmanı (kask, eldiven, korumalı mont) bütçenin parçası olmalı",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-125-abs"
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-125-abs",
+      "tires": {
+        "front": "90/90-17, Tubeless",
+        "rear": "120/80-17, Tubeless",
+        "source": {
+          "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-ns125/specifications",
+          "type": "manufacturer",
+          "label": "Bajaj Auto Pulsar NS125 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "bajaj-pulsar-ns-200",
@@ -1095,7 +1747,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Şehir içi ve kısa şehirlerarası kullanım için uygun; arka çanta montajı öncesi taşıyıcı uyumunu kontrol et"
       ],
-      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-200-ug2"
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-200-ug2",
+      "tires": {
+        "front": "100/80-17 52 P Tubeless",
+        "rear": "130/70-17 62 P Tubeless",
+        "source": {
+          "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-ns200/specifications",
+          "type": "manufacturer",
+          "label": "Bajaj Auto Pulsar NS200 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "bajaj-pulsar-rs-200",
@@ -1112,7 +1774,17 @@
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
         "Tam kaportalı giriş seviyesi sport; yazın havalandırmalı file mont, kışın astarlı mont düşün"
       ],
-      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-rs-200-ug"
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-rs-200-ug",
+      "tires": {
+        "front": "110/70-17 52 P Tubeless",
+        "rear": "140/70-17 62 P Tubeless",
+        "source": {
+          "url": "https://www.bajajauto.com/bikes/pulsar/pulsar-rs200/specifications",
+          "type": "manufacturer",
+          "label": "Bajaj Auto Pulsar RS200 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "bajaj-dominar-400",
@@ -1146,7 +1818,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "A2 ehliyetle sürülebilen adventure; uzun yolda yağmurluk ve su geçirmez eldiven bulundur"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500",
+      "tires": {
+        "front": "110 / 80R19M / C59H",
+        "rear": "160 / 60R17M / C69H",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500",
+          "type": "manufacturer",
+          "label": "Honda Türkiye NX500 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cb500-hornet",
@@ -1163,7 +1845,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "A2 ehliyetle sürülebilen naked; ilk büyük motor için korumalı mont ve bot bütçesi ayır"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "160/60ZR17M/C (69W)",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CB500 Hornet teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cbr500r",
@@ -1180,7 +1872,17 @@
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
         "A2 ehliyetle sürülebilen sport; yazın havalandırmalı file mont, kışın astarlı mont düşün"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "160/60ZR17M/C (69W)",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CBR500R teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-cb750-hornet",
@@ -1197,7 +1899,17 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet",
+      "tires": {
+        "front": "120/70ZR-17",
+        "rear": "160/60ZR-17",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet",
+          "type": "manufacturer",
+          "label": "Honda Türkiye CB750 Hornet teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-xl750-transalp",
@@ -1214,7 +1926,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp",
+      "tires": {
+        "front": "90/90-R21 M/C 54H",
+        "rear": "150/70-R18 M/C 70H",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp",
+          "type": "manufacturer",
+          "label": "Honda Türkiye XL750 Transalp teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "honda-nt1100",
@@ -1231,7 +1953,17 @@
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
         "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
       ],
-      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100"
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100",
+      "tires": {
+        "front": "120/70ZR17 M/C (58W)",
+        "rear": "180/55ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100",
+          "type": "manufacturer",
+          "label": "Honda Türkiye NT1100 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-versys-650",
@@ -1248,7 +1980,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys650"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys650",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "160/60 ZR17 M/C (69W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Versys650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Versys 650 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-eliminator-500",
@@ -1265,7 +2007,17 @@
         "Alçak sele ve öne uzanan ayak pozisyonu; uzun konçlu bot ve rüzgar alan göğüs için kapalı mont uygun",
         "A2 ehliyetle sürülebilen cruiser; açık yüz kask tercih edilecekse göz koruması için vizör veya gözlük şart"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500",
+      "tires": {
+        "front": "90/90-21M/C 54R",
+        "rear": "150/80-16M/C 71H",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Eliminator 500 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-ninja-zx-6r",
@@ -1282,7 +2034,17 @@
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
         "Pist günü için genelde tek parça veya fermuarla birleşen deri tulum istenir; organizatörün kurallarına bak"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "180/55 ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Ninja ZX-6R teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "kawasaki-versys-1100",
@@ -1299,7 +2061,17 @@
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
         "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
       ],
-      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys1100"
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys1100",
+      "tires": {
+        "front": "120/70 ZR17 M/C (58W)",
+        "rear": "180/55 ZR17 M/C (73W)",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Versys1100",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye Versys 1100 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-mt-09",
@@ -1316,7 +2088,28 @@
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
         "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "180/55ZR17M/C (73W)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye MT-09 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.8,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-09-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye MT-09 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-tracer-9",
@@ -1333,7 +2126,28 @@
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
         "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "180/55ZR17M/C (73W)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye TRACER 9 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.8,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/TRACER-9-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye TRACER 9 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-r7",
@@ -1350,7 +2164,28 @@
         "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
         "Üreticinin resmi sayfasında 35 kW (A2) güç seçeneği de listeleniyor; ehliyetine uygun versiyonu satıcıyla teyit et"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/",
+      "tires": {
+        "front": "120/70ZR17M/C (58W)",
+        "rear": "180/55ZR17M/C (73W)",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye R7 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40",
+        "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+        "capacityL": 2.3,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/R7-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye R7 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "yamaha-xmax-300",
@@ -1367,7 +2202,28 @@
         "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
         "Büyük scooter ile şehirlerarası yolda da kullanılır; uzun yolda rüzgar sesi için sessiz kask ve yağmurluk bulundur"
       ],
-      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/"
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/",
+      "tires": {
+        "front": "120/70-15",
+        "rear": "140/70-14",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye XMAX 300 teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      },
+      "oil": {
+        "viscosity": "SAE 10W-40, 0W-30",
+        "spec": "API service SG tipi veya üzeri, JASO standart MA veya MB",
+        "capacityL": 1.5,
+        "source": {
+          "url": "https://tr-yamaha-motor.com/user_manual/2026/XMAX-300-TECHMAX-KULLANICI-EL-KITABI-(2026).pdf",
+          "type": "manufacturer",
+          "label": "Yamaha Türkiye XMAX 300 Tech MAX 2026 kullanıcı el kitabı (teknik özellikler)",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-250cl-x",
@@ -1384,7 +2240,17 @@
         "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/250cl-x"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250cl-x",
+      "tires": {
+        "front": "110/70 R17 M/C",
+        "rear": "150/60 R17 M/C",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250cl-x",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 250CL-X teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-450cl-c",
@@ -1401,7 +2267,17 @@
         "Alçak sele ve öne uzanan ayak pozisyonu; uzun konçlu bot ve rüzgar alan göğüs için kapalı mont uygun",
         "A2 ehliyetle sürülebilen cruiser; açık yüz kask tercih edilecekse göz koruması için vizör veya gözlük şart"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/450cl-c"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450cl-c",
+      "tires": {
+        "front": "130/90-R16 M/C CST",
+        "rear": "150/80-R16 M/C CST",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450cl-c",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 450CL-C teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-650mt",
@@ -1418,7 +2294,17 @@
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/650-mt"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/650-mt",
+      "tires": {
+        "front": "120/70 ZR17 M/C, METZELER",
+        "rear": "160/60 ZR17 M/C, METZELER",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/650-mt",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 650MT teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     },
     {
       "slug": "cfmoto-700cl-x-heritage",
@@ -1435,7 +2321,17 @@
         "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
         "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage",
+      "tires": {
+        "front": "Pirelli MT60 RS 110/80-R18",
+        "rear": "Pirelli MT60 RS 180/55-R17",
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye 700CL-X Heritage teknik özellikleri",
+          "checkedAt": "2026-10-09"
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,567 @@
+{
+  "honda-pcx-125": {
+    "tires": {
+      "front": "110/70-14M/C 50P",
+      "rear": "130/70-13M/C 63P",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125",
+        "type": "manufacturer",
+        "label": "Honda Türkiye PCX125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-adv350": {
+    "tires": {
+      "front": "120/70-15MC 56P",
+      "rear": "140/70-14MC 62P",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350",
+        "type": "manufacturer",
+        "label": "Honda Türkiye ADV350 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-africa-twin": {
+    "tires": {
+      "front": "90/90-21M/C 54H",
+      "rear": "150/70R18M/C 70H",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CRF1100L Africa Twin teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cb125f": {
+    "tires": {
+      "front": "80 / 100 18M/C 47P",
+      "rear": "100/80 18M/C 53P",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CB125F teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cb650r": {
+    "tires": {
+      "front": "120/70ZR17 M/C (58W)",
+      "rear": "180/55ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CB650R teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cbr650r": {
+    "tires": {
+      "front": "120/70ZR17 M/C (58W)",
+      "rear": "180/55ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CBR650R teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cl250": {
+    "tires": {
+      "front": "110/80R19M/C 59H",
+      "rear": "150/70R17M/C 69H",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CL250 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-forza-250": {
+    "tires": {
+      "front": "120/70-15MC 56P",
+      "rear": "140/70-14MC 68P",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250",
+        "type": "manufacturer",
+        "label": "Honda Türkiye Forza 250 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-monkey-125": {
+    "tires": {
+      "front": "120/80-12M/C 65J",
+      "rear": "130/80-12M/C 69J",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey",
+        "type": "manufacturer",
+        "label": "Honda Türkiye Monkey teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-nc750x": {
+    "tires": {
+      "front": "120/70ZR17 M/C",
+      "rear": "160/60ZR17 M/C",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x",
+        "type": "manufacturer",
+        "label": "Honda Türkiye NC750X teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-sh125i": {
+    "tires": {
+      "front": "100/80-16",
+      "rear": "120/80-16",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i",
+        "type": "manufacturer",
+        "label": "Honda Türkiye SH125i teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-x-adv": {
+    "tires": {
+      "front": "120/70 R17",
+      "rear": "160/60 R15",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv",
+        "type": "manufacturer",
+        "label": "Honda Türkiye X-ADV teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-nx500": {
+    "tires": {
+      "front": "110 / 80R19M / C59H",
+      "rear": "160 / 60R17M / C69H",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500",
+        "type": "manufacturer",
+        "label": "Honda Türkiye NX500 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cb500-hornet": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "160/60ZR17M/C (69W)",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CB500 Hornet teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cbr500r": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "160/60ZR17M/C (69W)",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CBR500R teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-cb750-hornet": {
+    "tires": {
+      "front": "120/70ZR-17",
+      "rear": "160/60ZR-17",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet",
+        "type": "manufacturer",
+        "label": "Honda Türkiye CB750 Hornet teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-xl750-transalp": {
+    "tires": {
+      "front": "90/90-R21 M/C 54H",
+      "rear": "150/70-R18 M/C 70H",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp",
+        "type": "manufacturer",
+        "label": "Honda Türkiye XL750 Transalp teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "honda-nt1100": {
+    "tires": {
+      "front": "120/70ZR17 M/C (58W)",
+      "rear": "180/55ZR17 M/C (73W)",
+      "source": {
+        "url": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100",
+        "type": "manufacturer",
+        "label": "Honda Türkiye NT1100 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "yamaha-mt-07": {
+    "tires": {
+      "front": "120/70 ZR 17M/C(58W)",
+      "rear": "180/55 ZR 17M/C(73W)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye MT-07 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.3,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-07-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye MT-07 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-mt-125": {
+    "tires": {
+      "front": "100/80-17M/C 52S",
+      "rear": "140/70-17M/C 66S",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye MT-125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 0.85,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-125-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye MT-125 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-mt-25": {
+    "tires": {
+      "front": "110/70R17M/C (54H)",
+      "rear": "140/70R17M/C (66H)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye MT-25 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.0,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-25-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye MT-25 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-nmax-125": {
+    "tires": {
+      "front": "110/70-13M/C 48P",
+      "rear": "130/70-13M/C 63P",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye NMAX 125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya üzeri, JASO standart MA veya MB",
+      "capacityL": 0.9,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/NMAX-125-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye NMAX 125 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-r25": {
+    "tires": {
+      "front": "110/70R17M / C 54H",
+      "rear": "140/70R17M / C 66H",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye R25 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.0,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/R25-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye R25 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-tracer-7": {
+    "tires": {
+      "front": "120/70 ZR 17 M/C (58 W)",
+      "rear": "180/55 R 17 M/C (73 W)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye TRACER 7 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.3,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/TRACER-7-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye TRACER 7 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-xmax-250": {
+    "tires": {
+      "front": "120/70-15",
+      "rear": "140/70-14",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye XMAX 250 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40, 0W-30",
+      "spec": "API service SG tipi veya üstü, JASO standardı MA veya MB",
+      "capacityL": 1.5,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/XMAX-250-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye XMAX 250 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-mt-09": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "180/55ZR17M/C (73W)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye MT-09 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.8,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/MT-09-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye MT-09 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-tracer-9": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "180/55ZR17M/C (73W)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye TRACER 9 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.8,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/TRACER-9-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye TRACER 9 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-r7": {
+    "tires": {
+      "front": "120/70ZR17M/C (58W)",
+      "rear": "180/55ZR17M/C (73W)",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye R7 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40",
+      "spec": "API service SG tipi veya daha yüksek, JASO standart MA",
+      "capacityL": 2.3,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/R7-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye R7 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "yamaha-xmax-300": {
+    "tires": {
+      "front": "120/70-15",
+      "rear": "140/70-14",
+      "source": {
+        "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/",
+        "type": "manufacturer",
+        "label": "Yamaha Motor Türkiye XMAX 300 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": {
+      "viscosity": "SAE 10W-40, 0W-30",
+      "spec": "API service SG tipi veya üzeri, JASO standart MA veya MB",
+      "capacityL": 1.5,
+      "source": {
+        "url": "https://tr-yamaha-motor.com/user_manual/2026/XMAX-300-TECHMAX-KULLANICI-EL-KITABI-(2026).pdf",
+        "type": "manufacturer",
+        "label": "Yamaha Türkiye XMAX 300 Tech MAX 2026 kullanıcı el kitabı (teknik özellikler)",
+        "checkedAt": "2026-10-09"
+      }
+    }
+  },
+  "tvs-jupiter-125": {
+    "tires": {
+      "front": "90/90-12",
+      "rear": "90/90-12",
+      "source": {
+        "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr",
+        "type": "manufacturer",
+        "label": "TVS Türkiye Jupiter 125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "tvs-apache-rtr-200-4v": {
+    "tires": {
+      "front": "90/90-17 49P",
+      "rear": "130/70 R17 M/C 62P",
+      "source": {
+        "url": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr",
+        "type": "manufacturer",
+        "label": "TVS Türkiye Apache RTR 200 4V teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "tvs-raider-125": {
+    "tires": {
+      "front": "80/100 - 17",
+      "rear": "100/90 - 17",
+      "source": {
+        "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr",
+        "type": "manufacturer",
+        "label": "TVS Türkiye Raider 125 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kuba-cg50-pro": {
+    "tires": {
+      "front": "2.50-18",
+      "rear": "2.75-18",
+      "source": {
+        "url": "https://www.kubamotor.com.tr/model/cg50-rx-pro",
+        "type": "manufacturer",
+        "label": "Kuba Motor CG50 RX Pro teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "kuba-ege-50": {
+    "tires": {
+      "front": "2.50-17",
+      "rear": "2.75-17",
+      "source": {
+        "url": "https://www.kubamotor.com.tr/model/ege-50",
+        "type": "manufacturer",
+        "label": "Kuba Motor Ege 50 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  },
+  "rks-spontini-110": {
+    "tires": {
+      "front": "90/90-12",
+      "rear": "3.50-10",
+      "source": {
+        "url": "https://www.rksmotor.com.tr/model/spontini-110.html",
+        "type": "manufacturer",
+        "label": "RKS Motor Spontini 110 teknik özellikleri",
+        "checkedAt": "2026-10-09"
+      }
+    },
+    "oil": null
+  }
+}

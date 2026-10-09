@@ -12,7 +12,7 @@
         "heading": "Cordura bir lif mi, kumaş mı?",
         "paragraphs": [
           "Cordura bir lif değil, bir kumaş markasıdır. INVISTA'ya ait olan marka 1967'den beri var ve kendini dayanıklı performans kumaşlarının standardı olarak tanımlıyor. Cordura etiketi taşıyan kumaşlar çoğunlukla naylon 6,6 tabanlıdır, ancak marka çatısı altında farklı ağırlık, doku ve kaplamada pek çok kumaş türü bulunur.",
-          "Motosiklet tarafında en sık karşına çıkacak türler şunlardır: su itici veya kaplamalı yüzeyle sunulan klasik filament Cordura (genellikle 500D ve 1000D), naylon 6,6 ve pamuk karışımından yapılan Cordura denim ve hava geçirgen file yapılı Cordura AFT gibi havalandırma odaklı kumaşlar. Cordura'nın kendi teknoloji sayfasında bu ailelerin hangi kullanım alanlarına uygun olduğu ayrıca listeleniyor."
+          "Motosiklet tarafında en sık karşına çıkacak türler şunlardır: su itici veya kaplamalı yüzeyle sunulan klasik filament Cordura (genellikle 500D ve 1000D), naylon 6,6 ve pamuk karışımından yapılan Cordura denim ve hava geçirgen örme yapılı Cordura AFT (Air Flow Technology) gibi havalandırma odaklı kumaşlar. Cordura'nın kendi sitesindeki Classic ve Denim kumaş sayfalarında bu kumaşların yapısı ve kullanım alanları ayrıca anlatılıyor."
         ],
         "bullets": []
       },
@@ -104,16 +104,28 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://cordura.com/find-your-match",
+        "url": "https://cordura.com/classicfabric",
         "type": "manufacturer",
-        "label": "CORDURA® – Kumaş teknolojileri sayfası",
-        "checkedAt": "2026-10-06"
+        "label": "CORDURA® Classic kumaş sayfası (naylon 6,6, 330D–1000D)",
+        "checkedAt": "2026-10-09"
       },
       {
-        "url": "https://cordura.com/airflow-fabric",
+        "url": "https://cordura.com/denimfabric",
         "type": "manufacturer",
-        "label": "CORDURA® AFT kumaş sayfası",
-        "checkedAt": "2026-10-06"
+        "label": "CORDURA® Denim kumaş sayfası (pamuk + naylon 6,6)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://cordura.com/about",
+        "type": "manufacturer",
+        "label": "CORDURA® – Hakkında (1967'den bugüne)",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.bennetts.co.uk/bikesocial/reviews/products/textile-jackets-trousers-suits/tested-rukka-forsair-mesh-motorcycle-jacket-review",
+        "type": "review",
+        "label": "Bennetts BikeSocial – Rukka Forsair testi (örme Cordura AFT)",
+        "checkedAt": "2026-10-09"
       },
       {
         "url": "https://satra.com/ppe/EN17092.php",

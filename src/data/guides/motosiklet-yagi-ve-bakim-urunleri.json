@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "motosiklet-yagi-ve-bakim-urunleri",
+    "title": "Motosiklet Yağı ve Bakım Ürünleri: JASO, API, Viskozite ve Markalar",
+    "description": "Bidondaki JASO MA2, MB, API SN ve 10W-40 ne demek, kışlık yağ var mı, scooter ve 2 zamanlı farkı, fren hidroliği, zincir ve kask bakım ürünleri, başlıca markalar.",
+    "topic": "genel",
+    "updatedAt": "2026-10-09",
+    "readingMinutes": 10,
+    "intro": "Motosiklet yağı alırken bidonda üç şeye bakarsın: JASO sınıfı (ıslak debriyajlı vitesli motosiklette MA, MA1 ya da MA2; kılavuz izin veriyorsa otomatik scooter'da MB), API sınıfı (SL, SN, SP gibi) ve viskozite (10W-40 gibi); üçünü de motosikletinin kullanım kılavuzu belirler. Ayrı bir kışlık ya da yazlık yağ yoktur; kılavuzdaki dış sıcaklık ve viskozite tablosuna göre seçilir. Bu yazı etiketin nasıl okunacağını, scooter ve 2 zamanlı farkını, fren hidroliği, zincir, soğutma sıvısı ve kask bakım ürünlerini ve Türkiye'de bulunan başlıca markaların motosiklet serilerini anlatıyor. Değişim aralığı, yağın kendin nasıl değiştirileceği ve atık yağın teslimi için Motosiklet Motor Yağı rehberine bak.",
+    "sections": [
+      {
+        "heading": "Bidonda ne yazar? JASO sınıfı",
+        "paragraphs": [
+          "JASO T 903, Japon Otomotiv Standartları Kuruluşu'nun dört zamanlı motosiklet benzinli motor yağı standardıdır. Standardın başvuru kılavuzunu yayımlayan JASO Motor Yağı Standartları Uygulama Paneli, güncel sürümü JASO T 903:2023 olarak listeliyor. Suzuki'nin JASO bilgi notuna göre standart 1998'de MA ve MB olarak iki sınıfla kuruldu, 2006 revizyonunda MA sınıfı MA1 ve MA2 olarak ikiye ayrıldı.",
+          "Sınıflar yağın sürtünme davranışına göre belirlenir. Suzuki'nin aktardığı tabloya göre dinamik sürtünme, statik sürtünme ve durma süresi olmak üzere üç endeks ölçülür; endeksleri en yüksek aralıkta olan yağ MA2, onun altındaki MA1, en düşük aralıktaki MB sınıfına girer. Yani MA2 ıslak debriyajın en iyi tuttuğu, MB ise en kaygan sınıftır. Suzuki, MA isteyen bir motora MB yağ konursa debriyaj kaçırması olabileceğini ve MB'nin yalnız motosiklet üreticisinin belirttiği modellerde kullanılabileceğini yazıyor.",
+          "Suzuki'nin notuna göre yağ üreticisi testleri JASO standardına göre kendisi yapar, raporu JASO'ya sunar ve bildirilen sınıf bidonun üzerinde belirlenmiş biçimde yazılır. Üretici MA1 ya da MA2 yerine yalnız MA yazmayı da seçebilir. Bu yüzden kılavuzun \"JASO MA\" dediği bir motosiklette MA, MA1 ya da MA2 yazan yağ kullanılabilir. Örneğin Kawasaki, Ninja ZX-10R için API SG, SH, SJ, SL ya da SM sınıfında, JASO MA, MA1 veya MA2 olan SAE 10W-40 yağ istiyor."
+        ],
+        "bullets": [
+          "MA2: en yüksek sürtünme sınıfı, ıslak debriyajlı motosikletler",
+          "MA1 ve MA: ıslak debriyajlı motosikletler",
+          "MB: en düşük sürtünme, yalnız üreticinin belirttiği (genelde otomatik şanzımanlı) modeller",
+          "JASO sınıfı bidonda belirlenmiş biçimde yazılır"
+        ]
+      },
+      {
+        "heading": "API sınıfı: SL, SN, SP",
+        "paragraphs": [
+          "API (Amerikan Petrol Enstitüsü) benzinli motor yağı sınıfları S harfiyle başlar. API'nin güncel listesinde SP Mayıs 2020'de getirilen sınıftır; SN ve öncesi daha eski sınıflardır. API, otomobil benzinli motorlarında en yeni sınıfın öncekilerin performans özelliklerini kapsadığını, kılavuzun SN istediği bir otomobilde SP yağın tam koruma sağlayacağını söylüyor.",
+          "Motosiklette tablo biraz farklı. Suzuki'nin açıkladığı gibi API, ILSAC ve ACEA standartları otomobil yağları için yazılmıştır ve yakıt tasarrufu için daha düşük viskozite ve daha düşük sürtünmeye yönelmiştir. JASO T 903 bu yüzden ayrıca bir motosiklet standardı olarak oluşturuldu. Pratikte kılavuzun listelediği API sınıflarına ve JASO sınıfına birlikte bak; motosiklet yağlarının çoğu bidonda ikisini de yazar (örneğin Castrol POWER1 4T 10W-40 için API SN ve JASO MA-2)."
+        ],
+        "bullets": [
+          "API benzinli sınıfları, eskiden yeniye: SJ, SL, SM, SN, SP",
+          "Otomobilde yeni sınıf eskisini kapsar; motosiklette kılavuzun listesi esas",
+          "JASO sınıfı API'ye ek olarak aranır"
+        ]
+      },
+      {
+        "heading": "Neden otomobil yağı konmaz?",
+        "paragraphs": [
+          "Vitesli motosikletlerin çoğunda motor, debriyaj ve şanzıman aynı yağı paylaşır. Suzuki'ye göre otomobil için geliştirilen düşük viskoziteli ve düşük sürtünmeli yağ motosiklette kullanılırsa debriyaj kaçırması ve dişli yüzeylerinde hasar endişesi doğar. Mobil de Mobil 1 Racing 4T'nin, otomobil için olan Mobil 1'den farklı olarak debriyaj kaçırmasına yol açabilecek sürtünme azaltıcı katkı içermediğini belirtiyor.",
+          "Kawasaki ise kılavuzdaki şartları karşılayan yağlara kimyasal katkı eklenmemesini istiyor; bu yağlar motor ve debriyaj için zaten tam formüle edilmiştir. Bu konunun temelini Motosiklet Motor Yağı rehberinde anlattık."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Viskozite ve \"kışlık/yazlık yağ var mı?\"",
+        "paragraphs": [
+          "Ayrı bir kışlık ya da yazlık motosiklet yağı yoktur. 10W-40 gibi çok dereceli yağlar geniş bir sıcaklık aralığında çalışacak şekilde yapılır; hangi viskozitenin hangi dış sıcaklıkta kullanılabileceğini motosiklet üreticisi kılavuzdaki tabloyla verir. Kawasaki'nin Ninja ZX-10R servis bilgisindeki tablo buna iyi bir örnek. Kawasaki 10W-40'ı çoğu koşul için önerir ama sürüş bölgesinin hava koşullarına göre viskozitenin değiştirilmesi gerekebileceğini de yazar.",
+          "Bu tabloya göre 10W-30 yaklaşık -10°C ile 30°C, 10W-40 -10°C ile 40°C, 10W-50 -10°C'den 40°C'nin üzerine, 20W-40 0°C ile 40°C, 20W-50 ise 0°C'den 40°C'nin üzerine kadar olan dış sıcaklıklar için gösteriliyor. Bu değerler o modele aittir; başka bir motosiklet için kendi kılavuzunun tablosu geçerlidir.",
+          "Türkiye'den bir örnekle düşünelim: Kış sabahları sıcaklığın sıfırın altına indiği bir ilde bu tabloya göre 20W ile başlayan yağlar 0°C'nin altını kapsamaz, 10W ile başlayanlar ise -10°C'ye kadar gösterilir; -10°C'nin altı bu tabloda hiç yer almaz. Yaz öğlenlerinin 40°C'yi aştığı bir ilde ise tablo yalnız 10W-50 ve 20W-50'yi bu sıcaklıkları da kapsayan seçenekler olarak gösteriyor. Bu bir genel kural değil, yalnız bu modelin tablosunun okunuşudur. Kendi ilinin sıcaklıklarını kılavuzundaki tabloyla karşılaştır; tablo dışına çıkma, emin değilsen yetkili servise sor."
+        ],
+        "bullets": [
+          "Kışlık ya da yazlık yağ diye ayrı bir sınıf yok",
+          "Viskoziteyi kılavuzdaki dış sıcaklık tablosundan seç",
+          "Kawasaki ZX-10R örneği: 10W-40 -10°C ile 40°C arası",
+          "Tablo modele özeldir, başka motosiklete aktarma"
+        ]
+      },
+      {
+        "heading": "Mineral, yarı sentetik, tam sentetik",
+        "paragraphs": [
+          "Baz yağın türü bir standart değildir; üreticinin ürün tanımıdır. Örneğin Castrol, POWER1 4T 10W-40'ı yarı sentetik, POWER1 Ultimate'ı tam sentetik; Motul 3100'ü yarı sentetik; IPONE ise Katana serisini %100 sentetik, R4000'ü yarı sentetik olarak tanıtıyor. Motosikletinin ihtiyacını baz yağın türü değil, kılavuzdaki JASO sınıfı, API sınıfı ve viskozite belirler.",
+          "Kılavuz belirli bir baz yağ türü istemiyorsa, şartları karşılayan mineral, yarı sentetik ya da tam sentetik yağın hepsi kullanılabilir. Sentetik yağ kullanmak değişim aralığını kendiliğinden uzatmaz; aralık için kılavuzdaki bakım tablosuna uy."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Scooter yağı: CVT ve JASO MB",
+        "paragraphs": [
+          "Otomatik şanzımanlı (CVT'li) scooter'lar için daha düşük sürtünmeli MB sınıfı yağlar da üretilir. Repsol, JASO MB'nin özellikle kuru debriyajlı scooter'lar ve otomatik şanzımanlı motosikletler için önerildiğini yazıyor. Ancak her scooter MB istemez: Suzuki, MB'nin yalnız üreticinin belirttiği modellerde kullanılabileceğini vurguluyor. Kendi scooter'ının kılavuzunda MA mı MB mi yazdığına bak.",
+          "Bidonda \"scooter\" yazması tek başına sınıfı göstermez; JASO satırını oku. Örnekler: Castrol POWER1 Scooter 4T 10W-40 API SL ve JASO MB, Petrol Ofisi Maximoto 10W-40 Scooter API SN ve JASO MB olarak tanıtılıyor. Repsol'ün Smarter serisinde hem Scooter hem Matic MB ürünleri, IPONE'da Katana Scoot ve R4000 Scoot var."
+        ],
+        "bullets": [
+          "Kılavuz MB diyorsa MB, MA diyorsa MA kullan",
+          "\"Scooter\" yazısına değil JASO satırına bak",
+          "Viskozite yine kılavuzdan"
+        ]
+      },
+      {
+        "heading": "2 zamanlı yağ: JASO FB, FC, FD",
+        "paragraphs": [
+          "İki zamanlı benzinli motor yağları ayrı bir standartla sınıflandırılır: JASO M345. JASO paneli bu standardın güncel sürümünü JASO M345:2024 olarak yayımlıyor. Motul'un teknik bilgi formuna göre M345 yağın yağlama, temizlik (deterjanlık), duman azaltma ve tortu kontrolü özelliklerini dört motor testiyle ölçer; FD bu standardın en üst seviyesidir ve FC'ye göre daha iyi motor temizliği sağlar. Bidonlarda JASO sınıfının yanında ISO-L-EGD gibi ISO sınıfları da görebilirsin.",
+          "Karışım oranı (örneğin 50:1) ve istenen sınıf motor üreticisinin kılavuzunda yazar; Motul da karışım oranının üretici şartnamesine göre ayarlanmasını istiyor. Türkiye'de Petrol Ofisi Maximoto 2T ve Opet Fullmoto SPR 2T gibi yerli ürünler var; Castrol da POWER1 ailesinde iki zamanlı motorlar için ürün sunduğunu belirtiyor."
+        ],
+        "bullets": [
+          "Standart: JASO M345 (FB, FC, FD)",
+          "FD: Motul'a göre en üst seviye",
+          "Karışım oranı: motor kılavuzu"
+        ]
+      },
+      {
+        "heading": "Bakım ürünleri: zincir, fren hidroliği, soğutma sıvısı, kask",
+        "paragraphs": [
+          "Zincir: O-ring ve X-ring zincirlerde contalara uygun temizleyici ve yağ kullanılır. Motul'un MC Care serisinde C1 Chain Clean (temizleyici) ve C2 Chain Lube Road (yol zincir yağı) var; IPONE'da X-Trem Chain Road bulunuyor. Uygulama adımlarını ve sıklığını Motosiklet Zinciri Bakımı ve Yağlama rehberinde anlattık.",
+          "Fren hidroliği: ABD federal standardı FMVSS 116 fren hidroliğini DOT 3, DOT 4, DOT 5 (silikon bazlı) ve DOT 5.1 (silikon bazlı olmayan) olarak tanımlar. Standarda göre DOT 4'ün en düşük kaynama noktası yeni sıvıda 230°C, su emmiş (ıslak) sıvıda 155°C'dir; bu fark, hidroliğin zamanla nem çekip kaynama noktasının düştüğünü gösterir. Etikette DOT sınıfı ve en düşük ıslak kaynama noktası yazmak zorundadır; DOT 5 sıvı mor, DOT 3, DOT 4 ve DOT 5.1 renksizden kehribara kadar renkte olur. Hangi sınıfın kullanılacağı fren hazne kapağında ve kılavuzda yazar. Örneğin Motul DOT 5.1, üreticinin DOT 3, DOT 4 ya da DOT 5.1 istediği sistemler için tanıtılıyor; RBF 600 ise silikonsuz sentetik sıvı isteyen sistemler için.",
+          "Soğutma sıvısı: Su soğutmalı motosikletlerde kılavuzun belirttiği tip ve karışım kullanılır. Motul'da Motocool Factory Line -35, IPONE'da Radiator Liquid gibi motosiklet ürünleri var. Kask ve vizör: Vizör kaplamasına zarar vermemek için kask üreticisinin önerdiği ya da kask için yapılmış ürünleri kullan; örneğin Motul MC Care M1 Helmet & Visor Clean ve M2 Helmet Interior Clean. Ayrıntılar Kask Temizliği ve Bakımı rehberinde."
+        ],
+        "bullets": [
+          "Zincir: contalara uygun temizleyici ve yağ",
+          "Fren hidroliği: hazne kapağındaki DOT sınıfı; DOT 5 silikon bazlıdır, DOT 5.1 değildir",
+          "Soğutma sıvısı: kılavuzdaki tip ve oran",
+          "Vizör: kaplamaya uygun, kask için yapılmış temizleyici"
+        ]
+      },
+      {
+        "heading": "Başlıca markalar ve motosiklet serileri",
+        "paragraphs": [
+          "Aşağıdaki liste sıralama değildir; her markanın kendi resmi sitesinde gördüğümüz motosiklet serilerini yazdık. Hangi ürünün senin motosikletine uyduğunu yine JASO, API ve viskozite satırları belirler.",
+          "Yerli tarafta Petrol Ofisi, Maximoto adıyla 10W-40, 10W-40 Scooter, 15W-50, 20W-40, 20W-50 ve 2T ürünleri sunuyor; Maximoto 10W-40 API SN ve JASO MA2 olarak tanıtılıyor. Opet'in madeni yağlarını yayımlayan Opet Fuchs sitesinde Fullmoto serisi var: Fullmoto 4T 10W-40, 4T 20W-40, 4T SCT 10W-40 ve 20W-40, 2 zamanlı için SPR 2T. TotalEnergies'in Hi-Perf 4T motosiklet serisi bulunuyor, ancak hangi ürünlerin Türkiye'de satıldığını resmi Türkiye sitesinden doğrulayamadık."
+        ],
+        "bullets": [
+          "Motul: 7100, 300V Factory Line, 3100 (yarı sentetik, JASO MA2, API SN); MC Care bakım serisi",
+          "Castrol: POWER1 4T, POWER1 Ultimate, POWER1 Scooter",
+          "Shell: Advance motosiklet yağları",
+          "Liqui Moly (Ulm, Almanya): Motorbike serisi, örn. Motorbike Optimal 4T 10W-40 (API SN, JASO MA2)",
+          "Repsol: Racing 4T (örn. 5W-40, API SP, JASO T 903:2023 MA2), Smarter serisi",
+          "Mobil: Mobil 1 Racing 4T (API SN, JASO MA2); bölgeye göre Super Moto",
+          "IPONE: Katana, Shogun, R4000, Katana Scoot, R4000 Scoot",
+          "Petrol Ofisi: Maximoto",
+          "Opet: Fullmoto"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "JASO MA ile MA2 arasındaki fark nedir?",
+        "a": "MA2, 2006 revizyonunda MA sınıfının ikiye ayrılmasıyla ortaya çıkan, sürtünme endeksleri en yüksek aralıkta olan alt sınıftır; MA1 onun altındadır. Kılavuz JASO MA istiyorsa MA, MA1 ya da MA2 yazan yağ kullanılabilir."
+      },
+      {
+        "q": "Kışın daha ince yağ mı koymalıyım?",
+        "a": "Ayrı bir kışlık yağ yoktur. Kılavuzundaki dış sıcaklık ve viskozite tablosuna bak; örneğin Kawasaki ZX-10R tablosunda 20W ile başlayan yağlar 0°C'nin altını kapsamıyor, 10W-40 ise -10°C'ye kadar gösteriliyor."
+      },
+      {
+        "q": "Scooter'a JASO MA yağ konur mu?",
+        "a": "Kılavuz MA istiyorsa evet, MB istiyorsa MB kullan. Bazı scooter'lar MA ister; MB yalnız üreticinin belirttiği modellerde kullanılmalı."
+      },
+      {
+        "q": "DOT 4 yerine DOT 5 fren hidroliği koyabilir miyim?",
+        "a": "Hazne kapağında ve kılavuzda yazan sınıfı kullan. DOT 5 silikon bazlıdır, DOT 4 ve DOT 5.1 silikon bazlı değildir; FMVSS 116 bu yüzden etikette \"DOT 5 SILICONE BASE\" ya da \"DOT 5.1 NON-SILICONE BASE\" ayrımını şart koşar."
+      },
+      {
+        "q": "Sentetik yağ daha mı iyi?",
+        "a": "Baz yağın türü bir standart değildir. Motosikletinin ihtiyacını kılavuzdaki JASO sınıfı, API sınıfı ve viskozite belirler; bunları karşılayan yağın baz türü kılavuz özellikle istemedikçe belirleyici değildir."
+      }
+    ],
+    "relatedGuides": [
+      "motor-yagi-degisimi-dikkat-edilecekler",
+      "motosiklet-zincir-bakimi-ve-yaglama",
+      "kask-temizligi-ve-bakimi",
+      "motosiklet-nasil-yikanir",
+      "sezon-oncesi-motosiklet-kontrol-listesi",
+      "motosiklet-lastik-markalari",
+      "scooter-surucu-ekipmanlari",
+      "kurye-motosiklet-ekipmanlari"
+    ],
+    "relatedCategories": [],
+    "sources": [
+      { "url": "https://www.jalos.or.jp/onfile/jaso_e-2.htm", "type": "homologation", "label": "JASO Motor Yağı Standartları Uygulama Paneli – JASO T 903:2023 (4 zamanlı motosiklet yağı)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.jalos.or.jp/onfile/jaso_e-1.htm", "type": "homologation", "label": "JASO Motor Yağı Standartları Uygulama Paneli – JASO M345:2024 (2 zamanlı yağ)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.suzuki.ca/wp-content/uploads/SUZUKI-JASO-Standard-Sheet_EN.pdf", "type": "manufacturer", "label": "Suzuki – JASO yağ performans sınıflandırması bilgi notu (MA, MA1, MA2, MB)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.intertek.com/automotive/jaso-t903-2023/", "type": "homologation", "label": "Intertek – JASO T 903:2023 testleri", "checkedAt": "2026-10-09" },
+      { "url": "https://www.api.org/products-and-services/engine-oil/eolcs-categories-and-classifications/oil-categories", "type": "homologation", "label": "API – Motor yağı sınıfları (SP, SN ve geriye uyumluluk)", "checkedAt": "2026-10-09" },
+      { "url": "https://static.nhtsa.gov/odi/tsbs/2026/MC-11029152-0001.pdf", "type": "manufacturer", "label": "Kawasaki – Ninja ZX-10R motor yağı servis bilgisi (önerilen yağ ve sıcaklık–viskozite tablosu)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.mobil.com/en/lubricants/for-personal-vehicles/our-products/products/mobil-1-racing-4t-10w-40", "type": "manufacturer", "label": "Mobil 1 Racing 4T 10W-40 – sürtünme azaltıcı içermez, API SN, JASO MA2", "checkedAt": "2026-10-09" },
+      { "url": "https://lubricants.repsol.com/en/products/ranges/smarter/", "type": "manufacturer", "label": "Repsol Smarter serisi – JASO MB açıklaması", "checkedAt": "2026-10-09" },
+      { "url": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000J/", "type": "manufacturer", "label": "Repsol Racing 4T 5W-40 – API SP, JASO T 903:2023 MA2", "checkedAt": "2026-10-09" },
+      { "url": "https://azupim01.motul.com/media/motulData/DO/base/710_2t_en_fr_motul_16400_20251008.pdf", "type": "manufacturer", "label": "Motul 710 2T teknik bilgi formu – JASO M345 ve FD açıklaması", "checkedAt": "2026-10-09" },
+      { "url": "https://www.motul.com/en-GB/products/13900", "type": "manufacturer", "label": "Motul 3100 10W-40 4T – JASO MA2, API SN", "checkedAt": "2026-10-09" },
+      { "url": "https://www.motul.com/tr-TR/products?range=MOTO006", "type": "manufacturer", "label": "Motul Türkiye – MC Care bakım ürünleri (zincir, kask)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.motul.com/tr-TR/products/27400", "type": "manufacturer", "label": "Motul DOT 5.1 fren hidroliği", "checkedAt": "2026-10-09" },
+      { "url": "https://www.motul.com/tr-TR/products?range=MOTO005", "type": "manufacturer", "label": "Motul Türkiye – Soğutma sıvıları", "checkedAt": "2026-10-09" },
+      { "url": "https://www.law.cornell.edu/cfr/text/49/571.116", "type": "homologation", "label": "49 CFR 571.116 (FMVSS 116) – Fren hidroliği sınıfları, kaynama noktaları ve etiket", "checkedAt": "2026-10-09" },
+      { "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1.html", "type": "manufacturer", "label": "Castrol Türkiye – POWER1 4T (API SN, JASO MA-2)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-scooter.html", "type": "manufacturer", "label": "Castrol Türkiye – POWER1 Scooter 4T 10W-40 (API SL, JASO MB)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.shell.com/motorist/oils-lubricants/advance-for-motorcycles.html", "type": "manufacturer", "label": "Shell Advance motosiklet yağları", "checkedAt": "2026-10-09" },
+      { "url": "https://www.liqui-moly.com/en/motorbike-optimal-4t-10w-40-p005543.html", "type": "manufacturer", "label": "Liqui Moly Motorbike Optimal 4T 10W-40 (API SN, JASO MA2)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.ipone.com/en/motor-oil-ranges/4-stroke-motorcycles", "type": "manufacturer", "label": "IPONE – 4 zamanlı motosiklet yağları", "checkedAt": "2026-10-09" },
+      { "url": "https://www.petrolofisi.com.tr/madeni-yaglar/motosiklet-yaglari", "type": "manufacturer", "label": "Petrol Ofisi – Maximoto motosiklet yağları", "checkedAt": "2026-10-09" },
+      { "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40-scooter", "type": "manufacturer", "label": "Petrol Ofisi Maximoto 10W-40 Scooter (API SN, JASO MB)", "checkedAt": "2026-10-09" },
+      { "url": "https://www.opetfuchs.com.tr/tr/opet-madeni-yaglari/motosiklet", "type": "manufacturer", "label": "Opet Fuchs – Opet Fullmoto motosiklet yağları", "checkedAt": "2026-10-09" }
+    ]
+  }
+]

@@ -31,7 +31,7 @@
       {
         "heading": "AA ve AAA tek katman mümkün mü?",
         "paragraphs": [
-          "Evet. Örneğin Knox, Shield MK2 kotunu UHMWPE lifli tek katmanlı bir denimle üretip EN 17092-2:2020'ye göre AAA sınıfında sunuyor; bu sınıf genellikle deri yarış tulumlarıyla anılır. Dyneema'nın kendi sitesinde de SA1NT gibi markaların tek katmanlı Dyneema denimden ürettiği koruyucu kotlar örnek olarak gösteriliyor.",
+          "Evet. Örneğin Knox, Shield MK2 kotunu UHMWPE lifli tek katmanlı bir denimle üretip EN 17092-2:2020'ye göre AAA sınıfında sunuyor; bu, standarttaki en yüksek sınıftır. Dyneema'nın kendi sitesinde de SA1NT gibi markaların tek katmanlı Dyneema denimden ürettiği koruyucu kotlar örnek olarak gösteriliyor.",
           "Bununla birlikte pazardaki tek katmanlı ürünlerin hepsi aynı seviyede değildir. A, AA ve AAA sınıflı tek katman kotlar bir arada satılır. Ayrıca bazı ürünlerde kumaş tek katman olsa bile kalça veya diz gibi bölgelerde ek bir takviye bulunabilir. Ürünü değerlendirirken kumaşın tek katman olmasından çok, giysinin hangi sınıfı geçtiğine bak."
         ],
         "bullets": []
@@ -114,10 +114,16 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://sportsbikeshop.co.uk/motorcycle_parts/content_prod/2468589",
+        "url": "https://www.lerepairedesmotards.com/actualites/2025/jean-knox-shield-mk2.php",
+        "type": "review",
+        "label": "Le Repaire des Motards – Knox Shield MK2 tek katman AAA kot haberi",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://www.fc-moto.com/en-gb/p/knox-shield-mk2-motorcycle-jeans-KNX-Knox-Shield-MK2-Motorcycle-Jeans-25.v",
         "type": "retailer",
-        "label": "Sportsbikeshop – Knox Shield MK2 tek katman AAA kot ürün sayfası",
-        "checkedAt": "2026-10-06"
+        "label": "FC-Moto – Knox Shield MK2 ürün sayfası (AAA, EN 17092-2:2020)",
+        "checkedAt": "2026-10-09"
       },
       {
         "url": "https://satra.com/ppe/EN17092.php",

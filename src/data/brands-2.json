@@ -523,7 +523,7 @@
     "founded": 1982,
     "website": "https://www.buese.com/",
     "about": [
-      "Büse, Alman enduro sporunun en başarılı isimlerinden Heino Büse'nin kurduğu bir markadır. Gençliğinde Kreidler ile arazi sürmeye başlayan Büse, Alman ordusunda astsubay olarak görev yaparken boş zamanlarında yarıştı; firmanın kendi aktarımına göre 12 Almanya şampiyonluğu, 2 Avrupa şampiyonluğu ve 12 Altı Gün altın madalyası kazandı, 1975'te Man Adası'ndaki Altı Gün yarışını en iyi bireysel sürücü olarak bitirdi. 1982'de yarışçılığı bırakıp kurduğu aksesuar işi bugünkü Heino Büse MX Import GmbH'ye dönüştü; merkez hâlâ Aachen yakınlarındaki Roetgen'dedir.",
+      "Büse, Alman enduro sporunun en başarılı isimlerinden Heino Büse'nin kurduğu bir markadır. Gençliğinde Kreidler ile arazi sürmeye başlayan Büse, Alman ordusunda astsubay olarak görev yaparken boş zamanlarında yarıştı; firmanın kendi aktarımına göre 12 Almanya şampiyonluğu, 2 Avrupa şampiyonluğu ve 12 Altı Gün altın madalyası kazandı, Man Adası'ndaki Altı Gün yarışında bir kez genel birincilik elde etti. 1982'de yarışçılığı bırakıp kurduğu aksesuar işi bugünkü Heino Büse MX Import GmbH'ye dönüştü; merkez hâlâ Aachen yakınlarındaki Roetgen'dedir.",
       "Enduro kökenli bir ithalatçı olarak başlayan firma 1990'larda Avrupa'daki bayi ve ithalatçı ağını genişletti ve zamanla deri ve tekstil giyim, eldiven, bot, kask ve yağmurluk sunan geniş bir katalog kurdu. Büse'nin asıl gücü, makul fiyatlı ama membranlı ve korumalı touring tekstil takımlarıdır: Highland II, Livorno, Open Road III ve Monterey gibi modeller Motorrad, MO, Tourenfahrer ve MotoPlus gibi dergilerin testlerinde düzenli olarak üst sıralarda yer alıyor. Firma bu sonuçları sitesindeki test sonuçları sayfasında yıl yıl listeliyor. Büyük beden, kısa ve uzun boy kalıplar ile kadın kesimleri de Alman pazarına özgü pratik bir artı.",
       "Türkiye'de Büse'nin yerleşik bir distribütörü ya da yaygın mağaza ağı bulunmuyor; ürünlere çoğunlukla Avrupa'daki çevrimiçi satıcılar üzerinden ulaşılıyor. Yine de standart dışı beden arayan, uzun yol için su geçirmez bir takımı orta bütçeyle almak isteyen sürücüler için Büse, bağımsız dergi testleriyle desteklenen güvenli bir referans noktası."
     ],
@@ -586,7 +586,7 @@
     "history": [
       {
         "year": 1975,
-        "event": "Heino Büse, Man Adası'nda düzenlenen 50. Uluslararası Altı Gün Enduro yarışını KTM ile en iyi bireysel sürücü olarak tamamladı."
+        "event": "Heino Büse, 1973'ten beri yarıştığı KTM ile 500 cm³ sınıfında Almanya Enduro şampiyonu oldu; unvanı 1976'da da korudu."
       },
       {
         "year": 1982,
@@ -626,10 +626,10 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://blog.ktm.com/inthisyear1975-heino-buese-is-best-individual-rider-at-the-six-days-trial-at-the-isle-of-man/",
+        "url": "https://de.wikipedia.org/wiki/Heino_B%C3%BCse",
         "type": "review",
-        "label": "KTM Blog – Heino Büse, 1975 Altı Gün yarışı",
-        "checkedAt": "2026-10-06"
+        "label": "Wikipedia (Almanca) – Heino Büse",
+        "checkedAt": "2026-10-09"
       },
       {
         "url": "https://shop.zweirad-stadler.de/top-marken-die-inspirieren/buese/",
@@ -1811,10 +1811,10 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://blog.ktm.com/built-fly-making-championship-winning-helmet/",
+        "url": "https://en.wikipedia.org/wiki/Tony_Cairoli",
         "type": "review",
-        "label": "KTM Blog – Cairoli ve Airoh kaskı",
-        "checkedAt": "2026-10-06"
+        "label": "Wikipedia – Tony Cairoli (2005 MX2 şampiyonluğu)",
+        "checkedAt": "2026-10-09"
       },
       {
         "url": "https://www.fim-moto.com/en/news/news-detail/article/airoh-becomes-main-partner-of-isde",
@@ -2443,10 +2443,10 @@
         "checkedAt": "2026-10-06"
       },
       {
-        "url": "https://shima.pl/en/about-us/",
+        "url": "https://shima.pl/o-nas/",
         "type": "manufacturer",
-        "label": "Shima – Hakkımızda",
-        "checkedAt": "2026-10-06"
+        "label": "Shima – Hakkımızda (O nas, tarihçe)",
+        "checkedAt": "2026-10-09"
       }
     ]
   },

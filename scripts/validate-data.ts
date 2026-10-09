@@ -6,7 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { AccessorySchema, ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, ReviewSchema } from "../src/data/schema";
+import { AccessorySchema, ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, MotorcycleSchema, ReviewSchema } from "../src/data/schema";
 import { allSubcategories } from "../src/data/categories";
 
 const root = path.join(__dirname, "..", "src", "data");
@@ -72,6 +72,17 @@ for (const r of reviews) if (!ids.has(r.product)) errors.push(`review: ürün yo
 const guideSlugs = new Set(guides.map((g) => g.slug));
 for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r)) warn.push(`rehber ${g.slug}: ilgili rehber ${r} yok (gösterilmeyecek)`);
 
+// Motor modelleri ("Motoruma göre"): şemaya uymayan kayıt sitede sessizce düşer, burada hata verir.
+{
+  const moto = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "src", "data", "motorcycles.json"), "utf8")) as { models: unknown[] };
+  const seen = new Set<string>();
+  moto.models.forEach((m, i) => {
+    const r = MotorcycleSchema.safeParse(m);
+    if (!r.success) errors.push(`motorcycles.json #${i}: ${r.error.issues.map((x) => `${x.path.join(".")} ${x.message}`).join("; ")}`);
+    else if (seen.has(r.data.slug)) errors.push(`motorcycles.json: yinelenen slug ${r.data.slug}`);
+    else seen.add(r.data.slug);
+  });
+}
 console.log(`Ürün: ${products.length} (kask ${helmets.length}, interkom ${intercoms.length}, giyim ${apparel.length}) · Marka: ${brands.length} · Uyumluluk: ${compat.length} · Rehber: ${guides.length}`);
 warn.forEach((w) => console.log("UYARI  " + w));
 errors.forEach((e) => console.log("HATA   " + e));
