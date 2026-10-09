@@ -24,6 +24,8 @@ Veri şimdilik `src/data/**/*.json` dosyalarında, `src/data/schema.ts` (zod) il
 ## Deploy disiplini (Vercel limitleri dolmuştu)
 - Her küçük değişiklikte push ETME. İlgili değişiklikleri biriktir, tek committe birleştir.
 - Push'tan önce yerelde `npm run qa` (validate + build + Playwright) yeşil olmalı.
+- Push'tan önce ayrıca `npm run images` ve `npm run links` (kırık görsel/bağlantı 0; KONTROL satırlarını tek tek doğrula). Site sahibi kırık link/görsel istemiyor.
+- Push komutu yalnız kontroller başarılıysa çalışmalı (çıkış kodunu kontrol et; `| grep` ile maskeleme).
 - Canlıya çıkış yalnızca `main`'e push ile ve günde mümkün olduğunca bir kez. `v2` ve diğer dallar Vercel'de derlenmez (`scripts/vercel-ignore.sh`).
 - Yalnızca docs/*.md/tests değişikliği derleme tetiklemez; yine de gereksiz push yapma.
 - Önizleme deployment'ı gerekiyorsa kullanıcıya sor.
@@ -37,6 +39,7 @@ Kullanıcı "devam" dediğinde `docs/durum.md` > "devam protokolü" bölümünde
 - `npm run qa` – validate + build + tüm Playwright testleri (iç link tarayıcı dahil)
 - `npm run links` – üretici ve satıcı bağlantılarını kontrol eder (ayda bir; KIRIK = 404/alan adı yok, KONTROL = bot engeli/hız sınırı, elle bak)
 - `npm run images` – üretici görsellerini kontrol eder (ayda bir)
+- IndexNow otomatik: `.github/workflows/indexnow.yml` her main yayınından ~4 dk sonra site haritasını Bing/Yandex'e bildirir (`scripts/indexnow.mjs`, anahtar `public/<anahtar>.txt` — silme). Elle: `npm run indexnow -- /yol`
 
 ## Veri ekleme
 Yeni ürün: ilgili `src/data/products/{kategori}.json` dosyasına şemaya uygun kayıt ekle → `npm run validate` → `npm run qa`. Marka: `brands.json` veya `brands-2.json`. Rehber: `src/data/guides/{slug}.json` (tek elemanlı dizi). Kategori ağacı: `src/data/categories.ts`.

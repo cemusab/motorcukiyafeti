@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-09",
   "salesSources": [
     {
       "url": "https://www.motosikletdefteri.com/blog/detay/turkiyede-en-cok-satilan-motosiklet-markalari-ve-modelleri-hangileri",
@@ -790,6 +790,652 @@
         "Sele altı bagaj var; kaskının sığıp sığmadığını kendi kaskınla dene"
       ],
       "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/"
+    },
+    {
+      "slug": "suzuki-address-125",
+      "brand": "Suzuki",
+      "model": "Address 125",
+      "type": "scooter",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
+        "Şehir içi günlük kullanımda yaygın; kısa yolda da en az açık yüz kask, eldiven ve korumalı mont kullan"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html"
+    },
+    {
+      "slug": "suzuki-burgman-street-125ex",
+      "brand": "Suzuki",
+      "model": "Burgman Street 125EX",
+      "type": "scooter",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
+        "Şehir içi günlük kullanımda yaygın; kısa yolda da en az açık yüz kask, eldiven ve korumalı mont kullan"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html"
+    },
+    {
+      "slug": "suzuki-gsx-s125",
+      "brand": "Suzuki",
+      "model": "GSX-S125",
+      "type": "naked",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "A1 ehliyetle sürülebilen naked; ilk motor için sağlam bir başlangıç ekipmanı (kask, eldiven, korumalı mont) bütçenin parçası olmalı",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html"
+    },
+    {
+      "slug": "suzuki-gsx-8s",
+      "brand": "Suzuki",
+      "model": "GSX-8S",
+      "type": "naked",
+      "cc": 776,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html"
+    },
+    {
+      "slug": "suzuki-v-strom-800de",
+      "brand": "Suzuki",
+      "model": "V-Strom 800DE",
+      "type": "adventure",
+      "cc": 776,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html"
+    },
+    {
+      "slug": "suzuki-burgman-400",
+      "brand": "Suzuki",
+      "model": "Burgman 400",
+      "type": "scooter",
+      "cc": 400,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
+        "Büyük scooter ile şehirlerarası yolda da kullanılır; uzun yolda rüzgar sesi için sessiz kask ve yağmurluk bulundur"
+      ],
+      "officialUrl": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html"
+    },
+    {
+      "slug": "triumph-speed-400",
+      "brand": "Triumph",
+      "model": "Speed 400",
+      "type": "naked",
+      "cc": 398,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400"
+    },
+    {
+      "slug": "triumph-scrambler-400-x",
+      "brand": "Triumph",
+      "model": "Scrambler 400 X",
+      "type": "naked",
+      "cc": 398,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Scrambler stili; retro/klasik görünümlü ekipmanla uyumlu, toprak yolda vizörlü kask ve gözlük düşün",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x"
+    },
+    {
+      "slug": "triumph-trident-660",
+      "brand": "Triumph",
+      "model": "Trident 660",
+      "type": "naked",
+      "cc": 660,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Üreticinin resmi sayfasına göre yetkili bayide A2 ehliyete uygun kısıtlama yapılabiliyor"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660"
+    },
+    {
+      "slug": "triumph-tiger-sport-660",
+      "brand": "Triumph",
+      "model": "Tiger Sport 660",
+      "type": "touring",
+      "cc": 660,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
+        "Üreticinin resmi sayfasına göre yetkili bayide A2 ehliyete uygun kısıtlama yapılabiliyor"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660"
+    },
+    {
+      "slug": "triumph-street-triple-765-r",
+      "brand": "Triumph",
+      "model": "Street Triple 765 R",
+      "type": "naked",
+      "cc": 765,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023"
+    },
+    {
+      "slug": "triumph-tiger-900-gt-pro",
+      "brand": "Triumph",
+      "model": "Tiger 900 GT Pro",
+      "type": "adventure",
+      "cc": 888,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024"
+    },
+    {
+      "slug": "ducati-monster",
+      "brand": "Ducati",
+      "model": "Monster",
+      "type": "naked",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/monster/monster-v2"
+    },
+    {
+      "slug": "ducati-multistrada-v2",
+      "brand": "Ducati",
+      "model": "Multistrada V2",
+      "type": "adventure",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
+      ],
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2"
+    },
+    {
+      "slug": "ducati-desertx",
+      "brand": "Ducati",
+      "model": "DesertX",
+      "type": "adventure",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
+      ],
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2"
+    },
+    {
+      "slug": "ducati-panigale-v2",
+      "brand": "Ducati",
+      "model": "Panigale V2",
+      "type": "sport",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
+        "Pist günü için genelde tek parça veya fermuarla birleşen deri tulum istenir; organizatörün kurallarına bak"
+      ],
+      "officialUrl": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2"
+    },
+    {
+      "slug": "bajaj-pulsar-ns-125",
+      "brand": "Bajaj",
+      "model": "Pulsar NS 125 ABS",
+      "type": "naked",
+      "cc": 124,
+      "generationFrom": null,
+      "licence": "A1",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "A1 ehliyetle sürülebilen naked; ilk motor için sağlam bir başlangıç ekipmanı (kask, eldiven, korumalı mont) bütçenin parçası olmalı",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-125-abs"
+    },
+    {
+      "slug": "bajaj-pulsar-ns-200",
+      "brand": "Bajaj",
+      "model": "Pulsar NS 200",
+      "type": "naked",
+      "cc": 199,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Şehir içi ve kısa şehirlerarası kullanım için uygun; arka çanta montajı öncesi taşıyıcı uyumunu kontrol et"
+      ],
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-ns-200-ug2"
+    },
+    {
+      "slug": "bajaj-pulsar-rs-200",
+      "brand": "Bajaj",
+      "model": "Pulsar RS 200",
+      "type": "sport",
+      "cc": 199,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
+        "Tam kaportalı giriş seviyesi sport; yazın havalandırmalı file mont, kışın astarlı mont düşün"
+      ],
+      "officialUrl": "https://www.ekuralkan.com/bajaj-pulsar-rs-200-ug"
+    },
+    {
+      "slug": "bajaj-dominar-400",
+      "brand": "Bajaj",
+      "model": "Dominar 400",
+      "type": "touring",
+      "cc": 373,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
+        "Uzun yolda yan çanta veya tank çantası kullanılacaksa montaj uyumunu satıcıdan teyit et"
+      ],
+      "officialUrl": "https://www.ekuralkan.com/bajaj-dominar-d-400"
+    },
+    {
+      "slug": "honda-nx500",
+      "brand": "Honda",
+      "model": "NX500",
+      "type": "adventure",
+      "cc": 471,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "A2 ehliyetle sürülebilen adventure; uzun yolda yağmurluk ve su geçirmez eldiven bulundur"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500"
+    },
+    {
+      "slug": "honda-cb500-hornet",
+      "brand": "Honda",
+      "model": "CB500 Hornet",
+      "type": "naked",
+      "cc": 471,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "A2 ehliyetle sürülebilen naked; ilk büyük motor için korumalı mont ve bot bütçesi ayır"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet"
+    },
+    {
+      "slug": "honda-cbr500r",
+      "brand": "Honda",
+      "model": "CBR500R",
+      "type": "sport",
+      "cc": 471,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
+        "A2 ehliyetle sürülebilen sport; yazın havalandırmalı file mont, kışın astarlı mont düşün"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r"
+    },
+    {
+      "slug": "honda-cb750-hornet",
+      "brand": "Honda",
+      "model": "CB750 Hornet",
+      "type": "naked",
+      "cc": 755,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet"
+    },
+    {
+      "slug": "honda-xl750-transalp",
+      "brand": "Honda",
+      "model": "XL750 Transalp",
+      "type": "adventure",
+      "cc": 755,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Arazi kullanımında kullanılacaksa vizörlü adventure kask ve uzun konçlu adventure bot düşün"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp"
+    },
+    {
+      "slug": "honda-nt1100",
+      "brand": "Honda",
+      "model": "NT1100",
+      "type": "touring",
+      "cc": 1084,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
+        "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
+      ],
+      "officialUrl": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100"
+    },
+    {
+      "slug": "kawasaki-versys-650",
+      "brand": "Kawasaki",
+      "model": "Versys 650",
+      "type": "adventure",
+      "cc": 649,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys650"
+    },
+    {
+      "slug": "kawasaki-eliminator-500",
+      "brand": "Kawasaki",
+      "model": "Eliminator 500",
+      "type": "cruiser",
+      "cc": 451,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Alçak sele ve öne uzanan ayak pozisyonu; uzun konçlu bot ve rüzgar alan göğüs için kapalı mont uygun",
+        "A2 ehliyetle sürülebilen cruiser; açık yüz kask tercih edilecekse göz koruması için vizör veya gözlük şart"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500"
+    },
+    {
+      "slug": "kawasaki-ninja-zx-6r",
+      "brand": "Kawasaki",
+      "model": "Ninja ZX-6R",
+      "type": "sport",
+      "cc": 636,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
+        "Pist günü için genelde tek parça veya fermuarla birleşen deri tulum istenir; organizatörün kurallarına bak"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R"
+    },
+    {
+      "slug": "kawasaki-versys-1100",
+      "brand": "Kawasaki",
+      "model": "Versys 1100",
+      "type": "adventure",
+      "cc": 1099,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
+        "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
+      ],
+      "officialUrl": "https://www.kawasaki.com.tr/Motosiklet/Versys1100"
+    },
+    {
+      "slug": "yamaha-mt-09",
+      "brand": "Yamaha",
+      "model": "MT-09",
+      "type": "naked",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar",
+        "Ağırlık ve güç arttıkça düşme ve kayma koruması önem kazanır; CE sertifikalı mont, pantolon ve bot ihmal edilmemeli"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/"
+    },
+    {
+      "slug": "yamaha-tracer-9",
+      "brand": "Yamaha",
+      "model": "Tracer 9",
+      "type": "touring",
+      "cc": 890,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
+        "Uzun yolda yolcu taşınacaksa iki kask arası interkom ve yolcu için de korumalı ekipman planla"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/"
+    },
+    {
+      "slug": "yamaha-r7",
+      "brand": "Yamaha",
+      "model": "R7",
+      "type": "sport",
+      "cc": 689,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Öne eğik sürüş pozisyonu; sport kesim mont ve kısa/orta konçlu eldiven uyumlu",
+        "Üreticinin resmi sayfasında 35 kW (A2) güç seçeneği de listeleniyor; ehliyetine uygun versiyonu satıcıyla teyit et"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/"
+    },
+    {
+      "slug": "yamaha-xmax-300",
+      "brand": "Yamaha",
+      "model": "XMAX 300",
+      "type": "scooter",
+      "cc": 292,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Sele altına kapalı kask sığmayabilir; denemeden alma, sığmıyorsa arka çanta (topcase) düşün",
+        "Büyük scooter ile şehirlerarası yolda da kullanılır; uzun yolda rüzgar sesi için sessiz kask ve yağmurluk bulundur"
+      ],
+      "officialUrl": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/"
+    },
+    {
+      "slug": "cfmoto-250cl-x",
+      "brand": "CFMOTO",
+      "model": "250CL-X",
+      "type": "naked",
+      "cc": 249,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/250cl-x"
+    },
+    {
+      "slug": "cfmoto-450cl-c",
+      "brand": "CFMOTO",
+      "model": "450CL-C",
+      "type": "cruiser",
+      "cc": 449,
+      "generationFrom": null,
+      "licence": "A2",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Alçak sele ve öne uzanan ayak pozisyonu; uzun konçlu bot ve rüzgar alan göğüs için kapalı mont uygun",
+        "A2 ehliyetle sürülebilen cruiser; açık yüz kask tercih edilecekse göz koruması için vizör veya gözlük şart"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/450cl-c"
+    },
+    {
+      "slug": "cfmoto-650mt",
+      "brand": "CFMOTO",
+      "model": "650MT",
+      "type": "adventure",
+      "cc": 650,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve havalandırmalı mont tercih edilir",
+        "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/650-mt"
+    },
+    {
+      "slug": "cfmoto-700cl-x-heritage",
+      "brand": "CFMOTO",
+      "model": "700CL-X Heritage",
+      "type": "naked",
+      "cc": 693,
+      "generationFrom": null,
+      "licence": "A",
+      "popularity": "ilgi",
+      "salesRank": null,
+      "courierCommon": false,
+      "notes": [
+        "Retro görünümlü; klasik/deri görünümlü ekipmanla uyumlu, yine de CE korumalı ürün seç",
+        "Rüzgar siperliği yok; yüksek hızda boyun ve göğüs rüzgar alır, rüzgar sesine karşı sessiz bir kask ve boyunluk işe yarar"
+      ],
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage"
     }
   ]
 }

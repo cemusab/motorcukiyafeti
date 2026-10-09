@@ -16,6 +16,10 @@ for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".json")))
     for (const o of p.offers) items.push({ id, kind: `satıcı (${o.seller})`, url: o.url });
   }
 
+// "Motoruma göre" sayfalarındaki resmi model bağlantıları.
+const moto = JSON.parse(fs.readFileSync(path.join(dir, "..", "motorcycles.json"), "utf8")) as { models: { slug: string; officialUrl: string | null }[] };
+for (const m of moto.models) if (m.officialUrl) items.push({ id: `motor/${m.slug}`, kind: "resmi model sayfası", url: m.officialUrl });
+
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36";
 async function check(u: string): Promise<{ hard: boolean; msg: string } | null> {
   try {

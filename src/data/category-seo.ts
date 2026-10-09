@@ -81,7 +81,7 @@ export const SUB_SEO: Record<string, string> = {
   "bot/adventure-botu": "Adventure Motosiklet Botu",
   "koruma/sirt-koruma": "Motosiklet Sırt Koruyucu",
   "koruma/gogus-koruma": "Motosiklet Göğüs Koruyucu",
-  "koruma/dirsek-diz-koruma": "Motosiklet Dizlik ve Dirseklik",
+  "koruma/dirsek-diz-koruma": "Motosiklet Dizlik, Dirseklik ve Omuzluk",
   "koruma/airbag": "Motosiklet Airbag Yelek",
   "koruma/gorunurluk-yelegi": "Reflektörlü Motorcu Yeleği",
   "yagmurluk/yagmur-takimi": "Motosiklet Yağmur Takımı",

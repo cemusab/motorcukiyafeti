@@ -1,0 +1,19 @@
+name: IndexNow
+# main'e yapılan her site yayınından sonra site haritasındaki adresleri Bing/Yandex'e bildirir.
+# Yalnız doküman/test değişikliğinde çalışmaz (Vercel de o durumda derlemez).
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["docs/**", "**/*.md", "tests/**", ".claude/**"]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Vercel yayınının bitmesini bekle
+        run: sleep 240
+      - run: node scripts/indexnow.mjs

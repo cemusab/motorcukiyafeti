@@ -1,0 +1,358 @@
+{
+  "products": [
+    {
+      "slug": "rfx3-evo",
+      "brand": "five-gloves",
+      "name": "RFX3 Evo",
+      "category": "eldiven",
+      "subcategories": [
+        "sport-eldiven"
+      ],
+      "status": "active",
+      "successor": null,
+      "summary": "AirGO PROTECH havalandırmalı eklem kabuğu, ERGO PROTECH avuç kaydırıcısı, parmak köprüsü ve keçi derisi avuçla gelen, EN 13594:2015 KP1 sertifikalı uzun bilekli sport eldiven.",
+      "description": [
+        "RFX3 Evo, FIVE'ın Racing serisinde yol ve pist arasında çok yönlü konumlanan uzun bilekli eldiveni. Üst yapı sentetik deri ve tam tahıllı keçi derisi, avuç yumuşak tam tahıllı keçi derisi. Kapalı el pozisyonunda kabuğun yerleşmesine yardım eden delikli deri körükler ve Hi-Res Grip avuç takviyesi var. Kalıp dar (slim) ve performans odaklı.",
+        "Korumanın merkezinde kask teknolojisinden esinlenen, sert dış kabuk ve petek yapılı iç katmana sahip havalandırmalı AirGO PROTECH eklem kabuğu duruyor. Avuçta esnek TPR ERGO PROTECH kaydırıcı, hava girişli TPR parmak koruyucular, bilekte TPR kaydırıcı ve serçe-yüzük parmak arasında dönmeyi önleyen bağlantı bulunuyor. Çift kapama, işaret ve başparmakta Touch Screen sistemi var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
+      ],
+      "forWho": [
+        "Sport motosikletle yol ağırlıklı sürüp ara sıra piste çıkanlar",
+        "Havalandırmalı eklem kabuğu isteyenler",
+        "Dar, hassas kalıp sevenler"
+      ],
+      "notFor": [
+        "Kurye ve günlük şehir kullanımı",
+        "Yağmur ve soğuk hava",
+        "Geniş el yapısı olup rahat kalıp arayanlar: üretici kalıbı dar olarak tanımlıyor"
+      ],
+      "pros": [
+        "Havalandırmalı AirGO PROTECH eklem kabuğu",
+        "Avuç, bilek ve parmaklarda TPR kaydırıcılar",
+        "Parmak köprüsü",
+        "Dokunmatik işaret ve başparmak"
+      ],
+      "cons": [
+        "Sertifika KP1 (Level 1)",
+        "Dar kalıp herkese uymayabilir",
+        "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+      ],
+      "usage": {
+        "sehir": "Uzun bilek ve dar kalıp nedeniyle şehirde pratik değil.",
+        "uzunYol": "Kuru havada sport-touring etaplarında kullanılabilir.",
+        "yaz": "FIVE yaz eldiveni olarak sınıflandırıyor; havalandırmalı eklem kabuğu ve parmak hava girişleri yardımcı oluyor.",
+        "kis": "Uygun değil.",
+        "yagmur": "Su geçirmez değil.",
+        "sport": "Asıl kullanım alanı: tempolu yol sürüşü ve track day."
+      },
+      "verdict": "RFX3 Evo, yol ağırlıklı sport sürücü için havalandırma ve korumayı ilginç biçimde birleştiren bir eldiven. Eklem kabuğu ve kaydırıcılar güçlü; dar kalıp ve KP1 sertifika ise beklentiyi buna göre ayarlamayı gerektiriyor.",
+      "rivals": [
+        "alpinestars/gp-pro-r4",
+        "held/evo-thrux-3",
+        "dainese/carbon-4-long"
+      ],
+      "priceRange": null,
+      "offers": [],
+      "faq": [
+        {
+          "q": "RFX3 Evo'nun sertifikası nedir?",
+          "a": "FIVE, EN 13594:2015 ve CE KP1 belirtiyor."
+        },
+        {
+          "q": "Kalıbı nasıl?",
+          "a": "Üretici kalıbı dar (slim) olarak tanımlıyor; konfordan çok hassasiyete öncelik veriliyor."
+        }
+      ],
+      "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
+      "sources": [
+        {
+          "url": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
+          "type": "manufacturer",
+          "label": "FIVE Gloves – RFX3 EVO ürün sayfası",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "lastCheckedAt": "2026-10-07",
+      "dataConfidence": "high",
+      "unverified": [
+        "sizeChart",
+        "specs.madeIn",
+        "priceRange"
+      ],
+      "colors": [
+        "Black",
+        "Black / Neon Red",
+        "Black / White",
+        "White"
+      ],
+      "sizes": [
+        "07/XS",
+        "08/S",
+        "09/M",
+        "10/L",
+        "11/XL",
+        "12/2XL",
+        "13/3XL"
+      ],
+      "sizeChart": [],
+      "sizeChartMeasure": null,
+      "buyerInsights": null,
+      "specs": {
+        "gender": "erkek",
+        "season": "yaz",
+        "material": "Sentetik deri ve tam tahıllı keçi derisi üst yapı, keçi derisi avuç",
+        "materialClass": "deri",
+        "ceStandard": "EN 13594:2015",
+        "ceClass": "Level 1 KP",
+        "protectors": [
+          {
+            "area": "parmak",
+            "standard": null,
+            "level": null,
+            "included": true
+          },
+          {
+            "area": "avuc",
+            "standard": null,
+            "level": null,
+            "included": true
+          },
+          {
+            "area": "bilek",
+            "standard": null,
+            "level": null,
+            "included": true
+          }
+        ],
+        "waterproof": false,
+        "membrane": null,
+        "airbagCompatible": null,
+        "ventilation": "Havalandırmalı AirGO PROTECH eklem kabuğu, hava girişli parmak koruyucular",
+        "closure": "Bilekte cırt cırtlı kayış ve kol ağzı ayar kayışıyla çift kapama",
+        "madeIn": null
+      }
+    },
+    {
+      "slug": "wfx-prime-evo-gtx",
+      "brand": "five-gloves",
+      "name": "WFX Prime Evo GTX",
+      "category": "eldiven",
+      "subcategories": [
+        "kislik-eldiven",
+        "touring-eldiven"
+      ],
+      "status": "active",
+      "successor": null,
+      "summary": "GORE-TEX membranlı, PrimaLoft Gold yalıtımlı ve FIVE Thermo+ yapılı; ERGO PROTECH eklem kabuğu ve SuperFabric takviyeli, EN 13594:2015 KP1 sertifikalı kış eldiveni.",
+      "description": [
+        "WFX Prime Evo GTX, FIVE'ın üst seviye kış eldiveni. Softshell kumaş üst yapı, tam tahıllı keçi derisi avuç ve kısmen avuca bağlanmış GORE-TEX Grip membran kullanılıyor. Üst yüzde PrimaLoft Gold 200 g ve alüminyum ek, avuçta PrimaLoft Gold Grip Control 60 g var. FIVE, kalın yalıtımı parmak aralarına kadar taşıyan Thermo+ yapısının yüzde 20'ye kadar daha fazla ısı verimi sağladığını belirtiyor.",
+        "Korumada gizli, petek iç yapılı ERGO PROTECH tek parça eklem kabuğu, esnek TPR avuç kaydırıcısı, serçe ve yüzük parmakta TPR koruma ve başparmak kökünde SuperFabric panel bulunuyor. Ceket koluna göre genişleyen Over Size Cuff kol ağzı, su itici YKK fermuar, bilek ve kol ağzında cırt ayarı, yansıtıcı 3D yamalar, dokunmatik işaret ve başparmak ile sol elde vizör sileceği var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
+      ],
+      "forWho": [
+        "Kışın düzenli ve uzun süre motor kullananlar",
+        "Isıtmasız ama çok sıcak tutan bir kış eldiveni isteyenler",
+        "Geniş beden aralığı (3XS–5XL) arayanlar"
+      ],
+      "notFor": [
+        "Ilık havalar",
+        "Sport sürüş",
+        "Gidon hissini her şeyin önünde tutanlar: kalın yalıtım hissi azaltır"
+      ],
+      "pros": [
+        "GORE-TEX membran ve PrimaLoft Gold yalıtım",
+        "Thermo+ yapısıyla parmak aralarında da kalın yalıtım",
+        "ERGO PROTECH eklem kabuğu ve SuperFabric",
+        "3XS–5XL geniş beden aralığı"
+      ],
+      "cons": [
+        "Pahalı",
+        "Rahat (relaxed) kalıp dar el yapısına bol gelebilir",
+        "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
+      ],
+      "usage": {
+        "sehir": "Kışın şehir içinde rahat; fermuarlı kol ağzı takıp çıkarmayı biraz yavaşlatır.",
+        "uzunYol": "Kış turları için uygun.",
+        "yaz": "Uygun değil.",
+        "kis": "Asıl kullanım alanı.",
+        "yagmur": "GORE-TEX membranla su geçirmez.",
+        "sport": "Uygun değil."
+      },
+      "verdict": "WFX Prime Evo GTX, ısıtmalı eldivene geçmeden kışı karşılamak isteyen sürücü için en iddialı pasif kış eldivenlerinden biri. Thermo+ yapısı, GORE-TEX ve gizli eklem kabuğu güçlü bir paket; fiyatı ve kalın yapısı ise karşılığında kabul edilmesi gereken şeyler.",
+      "rivals": [
+        "revit/kodiak-2-gtx",
+        "dainese/tempest-2-d-dry-long",
+        "alpinestars/ht-5-heat-tech-drystar"
+      ],
+      "priceRange": null,
+      "offers": [],
+      "faq": [
+        {
+          "q": "Thermo+ nedir?",
+          "a": "FIVE'ın, kalın yalıtımı parmak aralarına kadar uzatıp ince yalıtımı avucun düz bölümünde tuttuğu yapısı; üretici yüzde 20'ye kadar daha fazla ısı verimi belirtiyor."
+        },
+        {
+          "q": "Su geçirmez mi?",
+          "a": "Evet, GORE-TEX membran kullanılıyor ve üst yüzde dikişsiz ısıl yapıştırma bulunuyor."
+        }
+      ],
+      "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
+      "sources": [
+        {
+          "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
+          "type": "manufacturer",
+          "label": "FIVE Gloves – WFX PRIME EVO GTX ürün sayfası",
+          "checkedAt": "2026-10-07"
+        }
+      ],
+      "lastCheckedAt": "2026-10-07",
+      "dataConfidence": "high",
+      "unverified": [
+        "sizeChart",
+        "specs.madeIn",
+        "priceRange"
+      ],
+      "colors": [
+        "Black",
+        "Black / Gray"
+      ],
+      "sizes": [
+        "05/3XS",
+        "06/2XS",
+        "07/XS",
+        "08/S",
+        "09/M",
+        "10/L",
+        "11/XL",
+        "12/2XL",
+        "13/3XL",
+        "14/4XL",
+        "15/5XL"
+      ],
+      "sizeChart": [],
+      "sizeChartMeasure": null,
+      "buyerInsights": null,
+      "specs": {
+        "gender": "erkek",
+        "season": "kis",
+        "material": "Softshell üst yapı, tam tahıllı keçi derisi avuç, PrimaLoft Gold 200 g ve Grip Control 60 g yalıtım, SuperFabric",
+        "materialClass": "karma",
+        "ceStandard": "EN 13594:2015",
+        "ceClass": "Level 1 KP",
+        "protectors": [
+          {
+            "area": "parmak",
+            "standard": null,
+            "level": null,
+            "included": true
+          },
+          {
+            "area": "avuc",
+            "standard": null,
+            "level": null,
+            "included": true
+          }
+        ],
+        "waterproof": true,
+        "membrane": "GORE-TEX Grip",
+        "airbagCompatible": null,
+        "ventilation": null,
+        "closure": "Su itici YKK fermuar, bilek ve kol ağzında cırt cırtlı ayar",
+        "madeIn": null
+      }
+    }
+  ],
+  "media": [
+    {
+      "product": "five-gloves/rfx3-evo",
+      "images": [
+        {
+          "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-RACING-PERFORMANCE-rfx3-evo-black-face.jpg",
+          "alt": "FIVE Gloves RFX3 Evo motosiklet eldiveni, önden görünüm",
+          "credit": "FIVE Gloves",
+          "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"
+        },
+        {
+          "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-RACING-PERFORMANCE-rfx3-evo-black-fluored-focus01.jpg",
+          "alt": "FIVE Gloves RFX3 Evo motosiklet eldiveni, arkadan / avuç tarafı görünüm",
+          "credit": "FIVE Gloves",
+          "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"
+        }
+      ],
+      "videos": [
+        {
+          "youtubeId": "HPRXqIRCHBc",
+          "title": "FIVE | RFX3 EVO specs",
+          "channel": "Five Gloves",
+          "kind": "resmi",
+          "lang": "en",
+          "checkedAt": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "product": "five-gloves/wfx-prime-evo-gtx",
+      "images": [
+        {
+          "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-WINTER-wfx-prime-evo-gtx-black-face.jpg",
+          "alt": "FIVE Gloves WFX Prime Evo GTX motosiklet eldiveni, önden görünüm",
+          "credit": "FIVE Gloves",
+          "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/"
+        }
+      ],
+      "videos": []
+    }
+  ],
+  "brand": {
+    "slug": "five-gloves",
+    "name": "FIVE Gloves",
+    "country": "Fransa",
+    "founded": null,
+    "website": "https://five-gloves.com/en/",
+    "about": [
+      "FIVE, yalnızca eldiven üreten, motosiklet ve bisiklet eldivenlerinde uzmanlaşmış bir markadır. Kendi tanıtımına göre ürünlerini Fransa'daki Ar-Ge ekibi ve İtalya'daki teknik laboratuvarıyla tasarlıyor, partner fabrikalarda kendi teknik ekibinin gözetiminde ürettiriyor.",
+      "Motosiklet katalogu Racing, Street, Urban, Touring, Trail-Adventure, Winter, Heat Technology (ısıtmalı), Custom ve kadın serilerinden oluşuyor. GORE-TEX, PrimaLoft, Kevlar ve D3O gibi tedarikçilerle çalışıyor; AirGO PROTECH ve ERGO PROTECH adlı kendi koruma kabuklarını kullanıyor. Türkiye'de yetkili satıcı ve TL fiyatını doğrulayamadık."
+    ],
+    "strengths": [
+      "Yalnız eldivene odaklanan geniş motosiklet eldiveni yelpazesi",
+      "Racing serisinde havalandırmalı AirGO PROTECH eklem kabukları",
+      "GORE-TEX ve PrimaLoft'lu kış eldivenleri ile ısıtmalı seri",
+      "Geniş beden aralığı ve kadın serisi"
+    ],
+    "categories": [
+      "eldiven"
+    ],
+    "families": [
+      {
+        "name": "RFX (Racing)",
+        "note": "Pist ve sport yol sürüşü için uzun bilekli deri eldivenler.",
+        "url": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"
+      },
+      {
+        "name": "WFX (Winter)",
+        "note": "GORE-TEX veya 5_DryTech membranlı kış eldivenleri.",
+        "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "FIVE WFX Prime Evo GTX",
+        "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
+        "reason": "GORE-TEX, PrimaLoft Gold ve Thermo+ yapısını gizli eklem kabuğuyla birleştiren üst seviye kış eldiveni."
+      }
+    ],
+    "alternatives": [
+      "held",
+      "revit",
+      "alpinestars"
+    ],
+    "history": [],
+    "strongestLine": "Motosiklet eldiveni (racing ve kış serileri)",
+    "sources": [
+      {
+        "url": "https://five-gloves.com/en/five-the-brand/",
+        "type": "manufacturer",
+        "label": "FIVE Gloves – FIVE, the brand",
+        "checkedAt": "2026-10-07"
+      }
+    ]
+  }
+}

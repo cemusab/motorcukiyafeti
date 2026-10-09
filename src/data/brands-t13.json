@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "tucano-urbano",
+    "name": "Tucano Urbano",
+    "country": "İtalya",
+    "founded": null,
+    "website": "https://www.tucanourbano.com/",
+    "about": [
+      "Tucano Urbano, 1990'ların sonunda Milano'da scooter sürücüleri için geliştirilen Termoscud bacak örtüsüyle başlayan İtalyan bir şehir içi sürüş ekipmanı markası. Marka bugün kendisini iki tekerlekli şehir içi ulaşım için giyim ve aksesuarda lider olarak tanımlıyor; yağmurluk, mont, eldiven, kask ve koruyucu üretiyor.",
+      "Şirketin çatısı altında 2018'de kurulan adventure/tur markası T.ur ile çanta ve aksesuar markası TAAC Moto da bulunuyor. Koruyucu tarafında D3O tabanlı sırt, dirsek, diz ve omuz koruyucularıyla EVA köpük sırt koruyucuları satıyor."
+    ],
+    "strengths": [
+      "Scooter ve şehir içi sürüş ekipmanı (Termoscud bacak örtüsü)",
+      "Yağmurluk ve hava koşullarına karşı aksesuarlar",
+      "Mont cebine takılan D3O koruyucular"
+    ],
+    "categories": [
+      "koruma"
+    ],
+    "families": [],
+    "highlights": [],
+    "alternatives": [
+      "spidi",
+      "sas-tec"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "event": "Adventure/tur markası T.ur kuruldu."
+      }
+    ],
+    "strongestLine": "Scooter ve şehir içi sürüş için giyim ve aksesuar",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/pages/who-we-are",
+        "type": "manufacturer",
+        "label": "Tucano Urbano – Who we are sayfası",
+        "checkedAt": "2026-10-09"
+      }
+    ]
+  }
+]

@@ -304,45 +304,6 @@
     ]
   },
   {
-    "product": "five-gloves/rfx3-evo",
-    "images": [
-      {
-        "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-RACING-PERFORMANCE-rfx3-evo-black-face.jpg",
-        "alt": "FIVE Gloves RFX3 Evo motosiklet eldiveni, önden görünüm",
-        "credit": "FIVE Gloves",
-        "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"
-      },
-      {
-        "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-RACING-PERFORMANCE-rfx3-evo-black-fluored-focus01.jpg",
-        "alt": "FIVE Gloves RFX3 Evo motosiklet eldiveni, arkadan / avuç tarafı görünüm",
-        "credit": "FIVE Gloves",
-        "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/"
-      }
-    ],
-    "videos": [
-      {
-        "youtubeId": "HPRXqIRCHBc",
-        "title": "FIVE | RFX3 EVO specs",
-        "channel": "Five Gloves",
-        "kind": "resmi",
-        "lang": "en",
-        "checkedAt": "2026-10-07"
-      }
-    ]
-  },
-  {
-    "product": "five-gloves/wfx-prime-evo-gtx",
-    "images": [
-      {
-        "url": "https://five-gloves.com/wp-content/uploads/2025/09/FIVE-MOTO-WINTER-wfx-prime-evo-gtx-black-face.jpg",
-        "alt": "FIVE Gloves WFX Prime Evo GTX motosiklet eldiveni, önden görünüm",
-        "credit": "FIVE Gloves",
-        "sourcePage": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/"
-      }
-    ],
-    "videos": []
-  },
-  {
     "product": "held/inuit",
     "images": [
       {

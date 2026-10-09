@@ -10,24 +10,60 @@
       "Markanın Ar-Ge ve tasarım birimi İtalya'da bulunuyor. Avrupa dağıtımını İtalyan SUOMY Motosport üstleniyor. Model yelpazesi giriş seviyesinden profesyonel yarış kasklarına kadar uzanıyor ve MotoGP, Moto2, Moto3 gibi şampiyonalarda sporcular tarafından kullanılıyor.",
       "Türkiye'de KYT kaskları özellikle uygun fiyatlı sport-touring segmentinde (TT-Revo, R2R) motor ekipmanı mağazalarında bulunuyor."
     ],
-    "strengths": ["Yarıştan gelen tasarım ve rüzgâr tüneli çalışmaları", "Uygun fiyatlı sportif kapalı kasklar", "İtalya merkezli Ar-Ge ve tasarım"],
-    "categories": ["kask"],
+    "strengths": [
+      "Yarıştan gelen tasarım ve rüzgâr tüneli çalışmaları",
+      "Uygun fiyatlı sportif kapalı kasklar",
+      "İtalya merkezli Ar-Ge ve tasarım"
+    ],
+    "categories": [
+      "kask"
+    ],
     "families": [
-      {"name": "Racing", "note": "KX-1 Race GP ve R1R gibi yarış kaskları.", "url": "https://www.kyteurope.com/en/kx-1-race-gp/"},
-      {"name": "Sport Touring", "note": "R2R ve TT-Revo gibi yol odaklı sportif kapalı kasklar.", "url": "https://www.kyteurope.com/en/r2r/"},
-      {"name": "City", "note": "TTR-Jet ve D-City açık kasklar.", "url": "https://www.kyteurope.com/en/ttr-jet/"}
+      {
+        "name": "Racing",
+        "note": "KX-1 Race GP ve R1R gibi yarış kaskları.",
+        "url": "https://www.kyteurope.com/en/kx-1-race-gp/"
+      },
+      {
+        "name": "Sport Touring",
+        "note": "R2R ve TT-Revo gibi yol odaklı sportif kapalı kasklar.",
+        "url": "https://www.kyteurope.com/en/r2r/"
+      },
+      {
+        "name": "City",
+        "note": "TTR-Jet ve D-City açık kasklar.",
+        "url": "https://www.kyteurope.com/en/ttr-jet/"
+      }
     ],
     "highlights": [
-      {"label": "TT-Revo", "url": "https://www.kyteurope.com/en/tt-revo/", "reason": "Rüzgâr tünelinde şekillendirilmiş, uygun fiyatlı ECE 22.06 onaylı sport-touring kask."}
+      {
+        "label": "TT-Revo",
+        "url": "https://www.kyteurope.com/en/tt-revo/",
+        "reason": "Rüzgâr tünelinde şekillendirilmiş, uygun fiyatlı ECE 22.06 onaylı sport-touring kask."
+      }
     ],
-    "alternatives": ["ls2", "mt-helmets"],
+    "alternatives": [
+      "ls2",
+      "mt-helmets"
+    ],
     "history": [
-      {"year": 1980, "event": "Eddy Tedjakusuma PT Tara grubunu kurdu."},
-      {"year": 1998, "event": "KYT kask projesi başladı."}
+      {
+        "year": 1980,
+        "event": "Eddy Tedjakusuma PT Tara grubunu kurdu."
+      },
+      {
+        "year": 1998,
+        "event": "KYT kask projesi başladı."
+      }
     ],
     "strongestLine": "Uygun fiyatlı sportif kapalı kasklar",
     "sources": [
-      {"url": "https://www.kyteurope.com/en/about-us/", "type": "manufacturer", "label": "KYT Europe – About Us", "checkedAt": "2026-10-06"}
+      {
+        "url": "https://www.kyteurope.com/en/about-us/",
+        "type": "manufacturer",
+        "label": "KYT Europe – About Us",
+        "checkedAt": "2026-10-06"
+      }
     ]
   }
 ]

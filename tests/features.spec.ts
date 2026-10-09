@@ -133,3 +133,28 @@ test("eski site adresleri yeni sayfalara 301 ile yönlenir", async ({ request })
     expect(r.headers()["location"], from).toContain(to);
   }
 });
+
+test("IndexNow anahtar dosyası ve llms.txt yayınlanıyor", async ({ request }) => {
+  const key = await request.get("/c0904cfb25f4d685c988025395354a7e.txt");
+  expect(key.status()).toBe(200);
+  expect((await key.text()).trim()).toBe("c0904cfb25f4d685c988025395354a7e");
+  expect((await request.get("/llms.txt")).status()).toBe(200);
+});
+
+test("site haritasındaki her adres yönlendirmesiz 200 döner (eski site yönlendirmesi gölgelemesin)", async ({ request }, info) => {
+  test.skip(info.project.name !== "desktop", "Bir kez çalışır");
+  test.setTimeout(300_000);
+  const idx = await (await request.get("/sitemap.xml")).text();
+  const paths: string[] = [];
+  for (const loc of idx.matchAll(/<loc>([^<]+)<\/loc>/g)) {
+    const sm = await (await request.get(new URL(loc[1]).pathname)).text();
+    for (const u of sm.matchAll(/<loc>([^<]+)<\/loc>/g)) paths.push(new URL(u[1]).pathname);
+  }
+  expect(paths.length).toBeGreaterThan(100);
+  const bad: string[] = [];
+  for (const p of paths) {
+    const r = await request.get(p, { maxRedirects: 0 });
+    if (r.status() !== 200) bad.push(`${r.status()} ${p} -> ${r.headers()["location"] ?? ""}`);
+  }
+  expect(bad).toEqual([]);
+});

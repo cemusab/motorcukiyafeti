@@ -200,7 +200,7 @@ export const CATEGORIES: Category[] = [
         items: [
           s("sirt-koruma", "Sırt Koruması", "Omurgayı darbeye karşı koruyan, mont içine takılan veya ayrı giyilen koruyucular."),
           s("gogus-koruma", "Göğüs Koruması", "Göğüs kafesini darbeye karşı koruyan, monta takılan veya yelek tipi koruyucular."),
-          s("dirsek-diz-koruma", "Dirseklik ve Dizlik", "Dirsek ve diz için EN 1621-1 sertifikalı, takılabilir veya bağcıklı koruyucular."),
+          s("dirsek-diz-koruma", "Dirseklik, Dizlik ve Omuz", "Dirsek, diz ve omuz için EN 1621-1 sertifikalı, monta takılan veya bağcıklı koruyucular."),
           s("koruyucu-icgiyim", "Koruyucu İçgiyim", "Koruyucu cepli içlik, şort ve gövde zırhları."),
           s("airbag", "Airbag Yelek", "Düşme anında şişerek gövdeyi koruyan elektronik veya kablolu sistemler."),
           s("gorunurluk-yelegi", "Reflektörlü / Görünürlük Yeleği", "Trafikte fark edilmeyi sağlayan, EN 17353 veya EN ISO 20471 sertifikalı reflektörlü yelekler; kuryeler için özellikle önemli."),

@@ -16,23 +16,54 @@
       "Fiyat-performans odaklı deri botlar",
       "MotoGP ve enduro yarışlarında kullanılan ürünler"
     ],
-    "categories": ["bot"],
+    "categories": [
+      "bot"
+    ],
     "families": [
-      {"name": "Adventure riding", "note": "Adventure ve Terra ailesi deri botlar.", "url": "https://www.formaboots.com/en/adventure-riding/"}
+      {
+        "name": "Adventure riding",
+        "note": "Adventure ve Terra ailesi deri botlar.",
+        "url": "https://www.formaboots.com/en/adventure-riding/"
+      }
     ],
     "highlights": [
-      {"label": "Adventure riding koleksiyonu", "url": "https://www.formaboots.com/en/adventure-riding/", "reason": "Markayı tanıtan Adventure ailesi ve Terra Evo gibi deri adventure botları bu grupta."}
+      {
+        "label": "Adventure riding koleksiyonu",
+        "url": "https://www.formaboots.com/en/adventure-riding/",
+        "reason": "Markayı tanıtan Adventure ailesi ve Terra Evo gibi deri adventure botları bu grupta."
+      }
     ],
-    "alternatives": ["tcx", "sidi", "alpinestars"],
+    "alternatives": [
+      "tcx",
+      "sidi",
+      "alpinestars"
+    ],
     "history": [
-      {"year": 1999, "event": "Forma, Altivole'de (Treviso, İtalya) kuruldu."},
-      {"year": 2001, "event": "Adventure Dry modeli piyasaya çıktı."},
-      {"year": 2019, "event": "Danilo Petrucci, Mugello'daki İtalya GP'sini kazanarak markaya ilk MotoGP zaferini getirdi."},
-      {"year": 2024, "event": "Marka Sunino Grubu'na katıldı ve Formaboots SpA adını aldı."}
+      {
+        "year": 1999,
+        "event": "Forma, Altivole'de (Treviso, İtalya) kuruldu."
+      },
+      {
+        "year": 2001,
+        "event": "Adventure Dry modeli piyasaya çıktı."
+      },
+      {
+        "year": 2019,
+        "event": "Danilo Petrucci, Mugello'daki İtalya GP'sini kazanarak markaya ilk MotoGP zaferini getirdi."
+      },
+      {
+        "year": 2024,
+        "event": "Marka Sunino Grubu'na katıldı ve Formaboots SpA adını aldı."
+      }
     ],
     "strongestLine": "Deri adventure botları (Adventure ailesi)",
     "sources": [
-      {"url": "https://www.formaboots.com/en/azienda/", "type": "manufacturer", "label": "Forma – Şirket sayfası", "checkedAt": "2026-10-07"}
+      {
+        "url": "https://www.formaboots.com/en/azienda/",
+        "type": "manufacturer",
+        "label": "Forma – Şirket sayfası",
+        "checkedAt": "2026-10-07"
+      }
     ]
   },
   {
@@ -52,18 +83,36 @@
       "Motokros botlarında uzun geçmiş",
       "Deri adventure touring botları"
     ],
-    "categories": ["bot"],
+    "categories": [
+      "bot"
+    ],
     "families": [],
     "highlights": [
-      {"label": "G.Midland Gore-Tex", "url": "https://gaerne.com/g_midland-gore-tex-black/", "reason": "İtalya üretimi, EN 13634:2017 sertifikalı ve tabanı yenilenebilen adventure touring botu."}
+      {
+        "label": "G.Midland Gore-Tex",
+        "url": "https://gaerne.com/g_midland-gore-tex-black/",
+        "reason": "İtalya üretimi, EN 13634:2017 sertifikalı ve tabanı yenilenebilen adventure touring botu."
+      }
     ],
-    "alternatives": ["sidi", "tcx", "forma"],
+    "alternatives": [
+      "sidi",
+      "tcx",
+      "forma"
+    ],
     "history": [
-      {"year": 1962, "event": "Ernesto Gazzola, Gaerne'yi Coste di Maser'de (Treviso, İtalya) spor ayakkabısı üreticisi olarak kurdu."}
+      {
+        "year": 1962,
+        "event": "Ernesto Gazzola, Gaerne'yi Coste di Maser'de (Treviso, İtalya) spor ayakkabısı üreticisi olarak kurdu."
+      }
     ],
     "strongestLine": "Motokros ve adventure touring botları",
     "sources": [
-      {"url": "https://gaerne.com/company/", "type": "manufacturer", "label": "Gaerne – Şirket sayfası", "checkedAt": "2026-10-07"}
+      {
+        "url": "https://gaerne.com/company/",
+        "type": "manufacturer",
+        "label": "Gaerne – Şirket sayfası",
+        "checkedAt": "2026-10-07"
+      }
     ]
   }
 ]

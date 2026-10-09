@@ -1,0 +1,1728 @@
+[
+  {
+    "slug": "warrior-l2-lady",
+    "brand": "spidi",
+    "name": "Warrior L2 Lady Sırt Koruyucu (Z201)",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi'nin kadın montları ve tulumları için tasarladığı, EN 1621-2:2014 Level 2 belgeli, ince ve katlanabilir cep tipi sırt koruyucusu.",
+    "description": [
+      "Warrior L2 Lady, Spidi'nin kadın kesimli deri ve tekstil montlarının, tulumlarının sırt cebine oturacak biçimde ölçülendirilmiş kompakt sırt koruyucusu. Üretici, ince profiline rağmen koruyucunun EN 1621-2:2014 standardında Level 2 (tam sırt) belgesi aldığını belirtiyor. Gövde, darbe enerjisini yüzeye yayan Spidi Warrior teknolojisiyle şekillendirilmiş nitril kauçuk esaslı sönümleyici malzemeden yapılıyor.",
+      "Koruyucu tek beden; üzerinde hava geçişi için delikler var ve katlanarak sele altına ya da çantaya kaldırılabiliyor. Spidi yıkanmamasını, gölgede kurutulmasını öneriyor. Erkek versiyonu (Z172) ile aynı teknolojiyi kullanıyor; fark, daha kısa ve dar kadın sırtına göre verilmiş ölçü. Spidi dışı bir montta kullanılacaksa cep ölçüsünün mutlaka karşılaştırılması gerekiyor."
+    ],
+    "forWho": [
+      "Spidi kadın montundaki standart sırt pedini Level 2 ile değiştirmek isteyen kadın sürücüler",
+      "Erkek ölçüsü sırt koruyucuların uzun ve geniş geldiği, daha kısa gövdeli sürücüler",
+      "Şehir içi ve tur kullanımında ince, hissedilmeyen bir sırt koruyucu arayanlar"
+    ],
+    "notFor": [
+      "Askılı, montsuz giyilebilen bağımsız sırt koruyucu arayanlar",
+      "Spidi dışı montunun cep ölçüsünü kontrol etmeden alacak olanlar"
+    ],
+    "pros": [
+      "EN 1621-2:2014 Level 2 belgeli",
+      "Kadın sırt ölçüsüne göre kompakt kesim",
+      "Katlanabilir, delikli yapı",
+      "Spidi kadın montlarıyla doğrudan uyumlu"
+    ],
+    "cons": [
+      "Tek beden; boy aralığı üretici sayfasında net verilmemiş",
+      "Yıkanamıyor, yalnızca silinerek temizlenmeli",
+      "Türkiye fiyatı benzer cep tipi Level 2 koruyuculara göre yüksek"
+    ],
+    "usage": {
+      "sehir": "Montun cebinde kalıcı durur; ince yapısı günlük kullanımda fark edilmez.",
+      "uzunYol": "Hafif ve esnek olduğu için uzun sürüşte sırtta baskı yapmaz.",
+      "yaz": "Delikli yapı hava geçişine izin verir; yine de file montla birlikte en iyi sonucu verir.",
+      "kis": "Kış montunun cebine takılabilir; koruma seviyesi belgede verilen değerdir.",
+      "kurye": "Montta sürekli takılı kalabilen ince bir Level 2 ped; kurye montunun cebi uyuyorsa iyi bir yükseltme."
+    },
+    "verdict": "Warrior L2 Lady, Spidi kadın montu olan ya da kısa gövdesi nedeniyle standart sırt koruyucuları büyük bulan kadın sürücü için mantıklı bir Level 2 yükseltmesi. Asıl soru fiyat ve cep uyumu: Spidi dışı montta ölçü kontrolü şart.",
+    "rivals": [
+      "knox/womens-urbane-pro-mk3",
+      "spidi/warrior-l2",
+      "sas-tec/sc-1-fb2-m"
+    ],
+    "priceRange": {
+      "min": 5165,
+      "max": 5165,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-safety-warrior-level-2-kadin-sirt-koruma-z201",
+        "price": 5165,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Erkek Warrior L2 ile farkı ne?",
+        "a": "İkisi de aynı Warrior teknolojisini ve EN 1621-2 Level 2 belgesini taşıyor. Lady versiyonu, Spidi kadın montlarının daha kısa ve dar sırt cebine göre ölçülendirilmiş."
+      },
+      {
+        "q": "Başka marka montta kullanılır mı?",
+        "a": "Cep ölçüsü uyuyorsa evet. Üretici koruyucuyu Spidi kadın montları için tasarladığını belirtiyor; başka montta cebin boyutunu koruyucuyla karşılaştırmak gerekiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/back-protector-warrior-l2-lady-z201",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/back-protector-warrior-l2-lady-z201",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior L2 Lady (Z201) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-safety-warrior-level-2-kadin-sirt-koruma-z201",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Safety Warrior Level 2 Kadın Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "kadin",
+      "season": "4-mevsim",
+      "material": "Darbe sönümleyici nitril kauçuk, Warrior teknolojisi",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2:2014",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Hava geçişi delikleri",
+      "closure": "Mont sırt cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "warrior-l2",
+    "brand": "spidi",
+    "name": "Warrior L2 Sırt Koruyucu (Z172)",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tüm Spidi montlarının sırt cebine uyacak şekilde tasarlanmış, yaklaşık 400 g, EN 1621-2:2014 Level 2 belgeli, katlanabilir cep tipi sırt koruyucu.",
+    "description": [
+      "Warrior L2, Spidi'nin şehir içi ve tur kullanımı için geliştirdiği kompakt sırt koruyucusu. Üretici, düşük kalınlığına ve hafifliğine rağmen koruyucunun EN 1621-2:2014 Level 2 (tam sırt) belgeli olduğunu belirtiyor. Warrior teknolojisi, darbe enerjisini modüler bloklar aracılığıyla yüzeye yayarak sürücünün sırtına iletilen kuvveti azaltmayı hedefliyor.",
+      "Ölçüleri yaklaşık 33 × 41 cm, ortalama ağırlığı 0,4 kg. Tek beden üretiliyor, hava geçişi için delikli ve katlanabiliyor. Malzeme olarak darbe sönümleyici nitril kauçuk kullanılıyor; yıkanmaması, gölgede kurutulması öneriliyor. Spidi montlarında doğrudan cebe giriyor; başka marka montlarda cep ölçüsünün 33 × 41 cm'ye uygun olması gerekiyor."
+    ],
+    "forWho": [
+      "Spidi montundaki standart sırt pedini Level 2'ye yükseltmek isteyenler",
+      "İnce ve hafif bir cep tipi sırt koruyucu arayan şehir ve tur sürücüleri",
+      "Kuryeler: montta kalıcı takılı kalabilen bir Level 2 koruyucu arayanlar"
+    ],
+    "notFor": [
+      "Askılı, bağımsız sırt koruyucu arayanlar",
+      "Uzun gövdeli sürücüler: 41 cm boy, tam sırt boyu isteyen uzun sürücülere kısa kalabilir"
+    ],
+    "pros": [
+      "EN 1621-2:2014 Level 2 belgeli",
+      "Yaklaşık 0,4 kg ile hafif",
+      "Katlanabilir, delikli yapı",
+      "Ölçüleri üretici tarafından açıkça verilmiş"
+    ],
+    "cons": [
+      "Tek beden; uzun sürücüler için kısa kalabilir",
+      "Yıkanamıyor",
+      "DRD fiyatı SAS-TEC FB2 gibi rakiplerin iki katına yakın"
+    ],
+    "usage": {
+      "sehir": "Montun cebinde kalıcı durur; günlük kullanımda hissedilmez.",
+      "uzunYol": "Hafif yapısı uzun sürüşte yorgunluk yaratmaz.",
+      "yaz": "Delikli yapısı sayesinde kapalı köpük pedlere göre daha serin.",
+      "kis": "Kış montunun cebinde kullanılabilir.",
+      "kurye": "Hafif ve ince; kurye montunun sırt cebi 33 × 41 cm'ye uygunsa iyi bir yükseltme."
+    },
+    "verdict": "Warrior L2, Spidi montu olan ve sırt pedini belgeli Level 2 ile değiştirmek isteyen sürücü için doğrudan seçenek. Başka marka montta cep ölçüsü ve fiyat farkı düşünülmeli; benzer korumayı daha düşük fiyata veren rakipler var.",
+    "rivals": [
+      "sas-tec/sc-1-fb2-m",
+      "d3o/viper-air-l2",
+      "tucano-urbano/d3o-sirt-koruyucu-level-2"
+    ],
+    "priceRange": {
+      "min": 5164.66,
+      "max": 5164.66,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-safety-warrior-level-2-sirt-koruma-z172",
+        "price": 5164.66,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ölçüleri nedir?",
+        "a": "Spidi, Warrior L2'nin yaklaşık 33 × 41 cm olduğunu ve ortalama 0,4 kg geldiğini belirtiyor."
+      },
+      {
+        "q": "Kadın versiyonu var mı?",
+        "a": "Evet, Spidi kadın montları için Warrior L2 Lady (Z201) adıyla ayrı bir model üretiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/back-protector-warrior-l2-z172",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/back-protector-warrior-l2-z172",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior L2 (Z172) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-safety-warrior-level-2-sirt-koruma-z172",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Safety Warrior Level 2 Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Darbe sönümleyici nitril kauçuk, Warrior teknolojisi",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2:2014",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Hava geçişi delikleri",
+      "closure": "Mont sırt cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "warrior-chest",
+    "brand": "spidi",
+    "name": "Warrior Chest Göğüs Koruyucu (Z138)",
+    "category": "koruma",
+    "subcategories": [
+      "gogus-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi montlarının göğüs ceplerine takılan, EN 1621-3:2018 Level 1 (tam göğüs, C tipi) belgeli, katlanabilir göğüs koruyucusu.",
+    "description": [
+      "Warrior Chest, Spidi'nin göğüs bölgesi için belgelendirdiği koruyucu. Üretici, koruyucunun EN 1621-3:2018 standardına göre 'C' (tam göğüs) tipi ve Level 1 belgeli olduğunu belirtiyor. Warrior teknolojisi burada üç katmanlı, kare bloklardan oluşan bir yapıyla darbe dalgasını yüzeye yaymak üzere tasarlanmış.",
+      "Koruyucu tek beden, havalandırma açıklıklarına sahip ve katlanarak saklanabiliyor. Spidi ürün sayfasında ağırlık bilgisi boş bırakılmış. Göğüs koruyucu cebi olan Spidi montlarında doğrudan kullanılıyor; cepsiz montlarda kullanmak mümkün değil. Göğüs koruması, sırt koruyucusu kadar yaygın olmasa da trafik kazalarında gidon ve depo darbelerine karşı önemli bir eksik parçayı tamamlıyor."
+    ],
+    "forWho": [
+      "Montunda göğüs koruyucu cebi boş duran Spidi kullanıcıları",
+      "Sırt koruyucusunun yanına belgeli göğüs koruması eklemek isteyenler",
+      "Şehir içinde sık duran-kalkan, ön darbe riskini azaltmak isteyen sürücüler ve kuryeler"
+    ],
+    "notFor": [
+      "Göğüs cebi olmayan mont kullananlar",
+      "Level 2 göğüs koruması arayanlar: bu model Level 1"
+    ],
+    "pros": [
+      "EN 1621-3:2018 tam göğüs (C) belgeli",
+      "Katlanabilir, ince yapı",
+      "Havalandırma açıklıkları",
+      "Spidi montlarıyla doğrudan uyumlu"
+    ],
+    "cons": [
+      "Level 1; en yüksek göğüs koruma seviyesi değil",
+      "Üretici sayfasında ağırlık verilmemiş",
+      "Göğüs cebi olmayan montlarda kullanılamaz"
+    ],
+    "usage": {
+      "sehir": "Ön darbelere karşı ek güvenlik; montta kalıcı takılı kalabilir.",
+      "uzunYol": "İnce yapısı uzun sürüşte göğüste baskı yapmaz.",
+      "yaz": "Delikli yapı hava geçişine izin verir.",
+      "kis": "Kış montunun göğüs cebinde kullanılabilir.",
+      "kurye": "Göğüs cebi olan kurye montlarında ön darbe riskini azaltan uygun bir ek."
+    },
+    "verdict": "Warrior Chest, Spidi montunda göğüs cebi boş kalan sürücü için belgeli ve ince bir tamamlayıcı. Level 1 olduğu ve cep gerektirdiği bilinerek alınmalı.",
+    "rivals": [
+      "alpinestars/nucleon-kr-c",
+      "dainese/pro-armor-chest-2-pcs-2-0",
+      "knox/micro-lock-chest"
+    ],
+    "priceRange": {
+      "min": 3186,
+      "max": 3186,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-warrior-chest-gogus-koruma",
+        "price": 3186,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi standarda göre belgeli?",
+        "a": "Spidi, Warrior Chest'in EN 1621-3:2018 standardında C (tam göğüs) tipi Level 1 belgeli olduğunu belirtiyor."
+      },
+      {
+        "q": "Her monta takılır mı?",
+        "a": "Hayır. Montun göğüs koruyucu cebi olması gerekiyor; Spidi montlarında bu cep bulunuyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/warrior-chest-z138",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/warrior-chest-z138",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior Chest (Z138) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-warrior-chest-gogus-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Warrior Chest Göğüs Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 1621-3:2018",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırma açıklıkları",
+      "closure": "Mont göğüs cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "warrior-lite-l2-dirsek",
+    "brand": "spidi",
+    "name": "Warrior Lite L2 Dirsek Koruyucu (Z189)",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi montlarındaki Level 1 dirsek koruyucuların yerine takılan, çift yoğunluklu, delikli, EN 1621-1:2012 Level 2 belgeli dirsek koruyucu çifti.",
+    "description": [
+      "Warrior Lite L2 Dirsek, Spidi montlarının dirsek ceplerindeki standart Level 1 koruyucuların yerine takılmak üzere satılan bir çift koruyucu. Üretici, koruyucuların EN 1621-1:2012 standardında Level 2 belgeli olduğunu, çift yoğunluklu malzemeyle enjeksiyon yöntemiyle üretildiğini ve Warrior teknolojisiyle darbe enerjisini yaymayı hedeflediğini belirtiyor.",
+      "Koruyucularda hava geçişi için 'Air Warrior' delikleri bulunuyor; çiftin ortalama ağırlığı 0,3 kg. Spidi montlarında doğrudan yer değiştiriyor; başka marka montlarda kullanmak için cebin ölçüsünün uygun olması gerekiyor."
+    ],
+    "forWho": [
+      "Spidi montundaki Level 1 dirsek koruyucuları Level 2'ye yükseltmek isteyenler",
+      "Delikli, esnek ve hafif bir dirsek koruyucu arayan şehir ve tur sürücüleri"
+    ],
+    "notFor": [
+      "Montun üzerine bağcıkla takılan bağımsız dirseklik arayanlar",
+      "Cep ölçüsünü bilmeden başka marka montta kullanmayı düşünenler"
+    ],
+    "pros": [
+      "EN 1621-1:2012 Level 2 belgeli",
+      "Delikli, havalandırmalı yapı",
+      "Çift yoğunluklu esnek malzeme",
+      "Spidi montlarında doğrudan yer değiştirir"
+    ],
+    "cons": [
+      "Yalnızca cepli montlarda kullanılabilir",
+      "Başka marka montlarla uyumu ölçüye bağlı",
+      "Üretici ölçü (boy/en) vermiyor"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; esnek yapısı kol hareketini kısıtlamaz.",
+      "uzunYol": "Hafif çift, uzun sürüşte konforlu.",
+      "yaz": "Delikli yapısı file montlarda hava akışını engellemez.",
+      "sport": "Level 2 koruma; sportif sürüşte standart Level 1 koruyuculara göre daha yüksek darbe sönümleme.",
+      "kurye": "Kurye montunun dirsek cepleri uyuyorsa düşük maliyetli bir güvenlik yükseltmesi."
+    },
+    "verdict": "Warrior Lite L2 Dirsek, Spidi montundaki dirsek korumasını Level 2'ye çıkarmanın en doğrudan yolu. Başka marka montlarda cep ölçüsü belirleyici.",
+    "rivals": [
+      "alpinestars/bionic-flex-elbow",
+      "tech90/impactec-tp-02",
+      "tucano-urbano/d3o-dirsek-koruyucu-level-1"
+    ],
+    "priceRange": {
+      "min": 2478.84,
+      "max": 2478.84,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-warrior-lite-lev2-dirsek-korumasi",
+        "price": 2478.84,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tek mi, çift mi satılıyor?",
+        "a": "Spidi ürünü bir çift dirsek koruyucu olarak tanımlıyor."
+      },
+      {
+        "q": "Hangi montlara uyar?",
+        "a": "Üretici, Warrior Level 1 dirsek koruyucusu olan tüm Spidi montlarında yerine takılabileceğini belirtiyor. Başka montlarda cep ölçüsünü kontrol etmek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/elbow-protectors-warrior-lite-l2-e-z189",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/elbow-protectors-warrior-lite-l2-e-z189",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior Lite L2 Elbow (Z189) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-warrior-lite-lev2-dirsek-korumasi",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Warrior Lite Lev.2 Dirsek Koruması",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Çift yoğunluklu enjeksiyon malzeme, Warrior teknolojisi",
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Air Warrior delikleri",
+      "closure": "Mont dirsek cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "warrior-lite-l2-diz",
+    "brand": "spidi",
+    "name": "Warrior Lite L2 Diz Koruyucu (Z190)",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi pantolonlarının diz ceplerine takılan, konumu ayarlanabilen, delikli, EN 1621-1:2012 Level 2 belgeli diz koruyucu çifti.",
+    "description": [
+      "Warrior Lite L2 Diz, Spidi pantolonlarının diz ceplerine takılan, EN 1621-1:2012 standardında Level 2 belgeli bir çift diz koruyucu. Warrior Lite ailesinin diğer üyeleri gibi esnek, delikli bir yapıya sahip ve darbe enerjisini yüzeye yaymak üzere tasarlanmış.",
+      "Üretici, koruyucunun pantolon içinde konumunun ayarlanabildiğini ve çiftin ortalama 0,3 kg geldiğini belirtiyor. Hava geçişi için 'Air Warrior' delikleri bulunuyor. Spidi pantolonlarında doğrudan kullanılıyor; başka marka pantolonlarda cep ölçüsünün uyması gerekiyor."
+    ],
+    "forWho": [
+      "Spidi pantolonundaki diz koruyucuyu Level 2'ye yükseltmek isteyenler",
+      "Diz koruyucusunun konumunu kendi bacak ölçüsüne göre ayarlamak isteyenler"
+    ],
+    "notFor": [
+      "Pantolonun üzerine bağlanan bağımsız dizlik arayanlar",
+      "Diz cebi olmayan kot veya pantolon kullananlar"
+    ],
+    "pros": [
+      "EN 1621-1:2012 Level 2 belgeli",
+      "Konumu ayarlanabilir",
+      "Delikli, havalandırmalı yapı",
+      "Çift olarak yaklaşık 0,3 kg"
+    ],
+    "cons": [
+      "Yalnızca cepli pantolonlarda kullanılabilir",
+      "Başka marka pantolonlarla uyumu ölçüye bağlı",
+      "Üretici ölçü (boy/en) vermiyor"
+    ],
+    "usage": {
+      "sehir": "Pantolonun içinde kalıcı durur; yürürken fazla hissedilmez.",
+      "uzunYol": "Hafif ve esnek; uzun sürüşte dizde baskı yapmaz.",
+      "yaz": "Delikli yapısı file pantolonlarda hava akışını korur.",
+      "sport": "Level 2 diz koruması; sportif sürüşte standart koruyuculara göre daha yüksek sönümleme.",
+      "kurye": "Diz cepli kurye pantolonlarında uygun bir yükseltme."
+    },
+    "verdict": "Warrior Lite L2 Diz, Spidi pantolonundaki diz korumasını Level 2'ye çıkarmak isteyen için doğru parça. Konum ayarı iyi bir artı; başka marka pantolonda cep ölçüsü kontrol edilmeli.",
+    "rivals": [
+      "alpinestars/bionic-flex-knee",
+      "d3o/racing-lp2-pro",
+      "sas-tec/sc-1-kb2air"
+    ],
+    "priceRange": {
+      "min": 2478.6,
+      "max": 2478.6,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-warrior-light-l2-diz-koruma",
+        "price": 2478.6,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi standarda göre belgeli?",
+        "a": "Spidi, Warrior Lite L2 diz koruyucularının EN 1621-1:2012 Level 2 belgeli olduğunu belirtiyor."
+      },
+      {
+        "q": "Konumu ayarlanabiliyor mu?",
+        "a": "Evet, üretici diz koruyucunun konumunun ayarlanabildiğini belirtiyor; bu, pantolonun cep düzenine bağlıdır."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/warrior-lite-l2-knee-z190",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/warrior-lite-l2-knee-z190",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior Lite L2 Knee (Z190) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-warrior-light-l2-diz-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Warrior Light L2 Diz Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.material",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Air Warrior delikleri",
+      "closure": "Pantolon diz cebine takılır, konumu ayarlanabilir",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "multitech-knee",
+    "brand": "spidi",
+    "name": "Multitech Knee Diz Koruyucu (Z131)",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi pantolonlarına takılan, konumu ayarlanabilen, ince ve hafif, EN 1621-1:2012 belgeli çıkarılabilir diz koruyucu.",
+    "description": [
+      "Multitech Knee, uygun cep düzenine sahip Spidi pantolonlarına takılan çıkarılabilir ve konumu ayarlanabilir bir diz koruyucu. Üretici, koruyucunun EN 1621-1:2012 standardına göre belgeli olduğunu ve hem yarış hem tur ekipmanında yerleşik bir standart haline geldiğini belirtiyor.",
+      "Ortalama ağırlığı 0,3 kg. Üretici sayfasında koruma seviyesi (Level 1 veya 2) açıkça yazmadığı için seviyeyi doğrulanmamış olarak bırakıyoruz. İnce ve hafif yapısı sayesinde pantolonun altında fazla yer kaplamıyor. Level 2 isteyenler için aynı fiyat aralığında Warrior Lite L2 Diz de bulunuyor."
+    ],
+    "forWho": [
+      "Spidi pantolonundaki eksik veya yıpranmış diz koruyucuyu yenilemek isteyenler",
+      "İnce, hafif ve konumu ayarlanabilir bir diz koruyucu arayanlar"
+    ],
+    "notFor": [
+      "Belgeli Level 2 diz koruması arayanlar: seviye üretici sayfasında belirtilmemiş",
+      "Diz cebi olmayan pantolon kullananlar"
+    ],
+    "pros": [
+      "EN 1621-1:2012 belgeli",
+      "Konumu ayarlanabilir",
+      "İnce ve hafif (yaklaşık 0,3 kg)"
+    ],
+    "cons": [
+      "Koruma seviyesi üretici sayfasında yazmıyor",
+      "Yalnızca cepli pantolonlarla kullanılabilir",
+      "Aynı fiyata Spidi'nin Level 2 belgeli Warrior Lite diz koruyucusu var"
+    ],
+    "usage": {
+      "sehir": "Pantolonun içinde hafif ve ince kalır.",
+      "uzunYol": "Konum ayarı sayesinde uzun sürüşte dizin üzerinde doğru yerde durur.",
+      "sport": "Yarış ve tur ekipmanında kullanılan standart bir parça.",
+      "kurye": "Diz cepli pantolonlarda kullanılabilir; koruma seviyesi belirtilmediği için kurye kullanımında Level 2 alternatifler önceliklidir."
+    },
+    "verdict": "Multitech Knee, Spidi pantolonunun orijinal diz koruyucusunu yenilemek için uygun bir parça. Koruma seviyesi belirtilmediğinden, yükseltme amacıyla alacaklar Warrior Lite L2 Diz'e bakmalı.",
+    "rivals": [
+      "spidi/warrior-lite-l2-diz",
+      "alpinestars/nucleon-flex-pro-diz",
+      "tech90/impactec-tp-02"
+    ],
+    "priceRange": {
+      "min": 2269,
+      "max": 2269,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-multitech-knee-diz-koruma",
+        "price": 2269,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Level 2 mi?",
+        "a": "Spidi ürün sayfasında EN 1621-1:2012 belgesi yazıyor ancak seviye belirtilmiyor. Bu yüzden seviyeyi doğrulanmamış olarak gösteriyoruz."
+      },
+      {
+        "q": "Warrior Lite L2 Diz'den farkı ne?",
+        "a": "Warrior Lite L2 Diz açıkça Level 2 belgeli ve delikli Warrior yapısında; Multitech Knee ise Spidi pantolonlarının klasik, ince diz koruyucusu."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/multitech-knee-z131",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/multitech-knee-z131",
+        "type": "manufacturer",
+        "label": "Spidi – Multitech Knee (Z131) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-multitech-knee-diz-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Multitech Knee Diz Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.ceClass",
+      "specs.protectors.level",
+      "specs.material",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "diz",
+          "standard": "EN 1621-1:2012",
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Pantolon diz cebine takılır, konumu ayarlanabilir",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "d3o-sirt-koruyucu-level-2",
+    "brand": "tucano-urbano",
+    "name": "D3O Cep Tipi Sırt Koruyucu Level 2 (8016)",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tucano Urbano montlarının sırt cebine takılan, D3O Viper Pro tabanlı, EN 1621-2 Level 2 belgeli cep tipi sırt koruyucu.",
+    "description": [
+      "Tucano Urbano'nun D3O cep tipi sırt koruyucusu, D3O'nun Viper Pro koruyucusuna dayanıyor ve üretici tarafından EN 1621-2 Level 2 belgeli olarak tanımlanıyor. D3O malzemesi normal kullanımda yumuşak ve esnek kalıyor, darbe anında sertleşerek enerjiyi sönümlüyor.",
+      "Malzeme %100 poliüretan. Tek beden ve turuncu renkte satılıyor; mont sırt cebine yerleştiriliyor. Tucano Urbano ürün sayfasında ölçü ve ağırlık verilmiyor; başka marka montlarda kullanmadan önce cep ölçüsünü koruyucuyla karşılaştırmak gerekiyor."
+    ],
+    "forWho": [
+      "Tucano Urbano montundaki sırt cebini Level 2 koruyucuyla doldurmak isteyenler",
+      "Yumuşak, vücuda uyan D3O malzemesini tercih eden şehir sürücüleri",
+      "Kuryeler: montta kalıcı takılı kalabilen Level 2 sırt koruyucu arayanlar"
+    ],
+    "notFor": [
+      "Askılı, bağımsız sırt koruyucu arayanlar",
+      "Ölçüsünü bilmeden başka marka monta takmayı düşünenler (üretici ölçü vermiyor)"
+    ],
+    "pros": [
+      "EN 1621-2 Level 2 belgeli",
+      "D3O malzemesi: kullanımda yumuşak, darbede sert",
+      "Mont cebinde kalıcı kullanıma uygun"
+    ],
+    "cons": [
+      "Üretici ölçü ve ağırlık bilgisi vermiyor",
+      "Türkiye fiyatı benzer Level 2 cep koruyuculara göre yüksek",
+      "Yalnızca cepli montlarla kullanılabilir"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; yumuşak yapısı günlük kullanımda rahat.",
+      "uzunYol": "Esnek D3O malzemesi uzun sürüşte vücuda uyum sağlar.",
+      "kis": "D3O soğukta da kullanılabilir; koruma seviyesi belgeye göre verilir.",
+      "kurye": "Kurye montunun sırt cebine uyuyorsa uygun bir Level 2 yükseltme."
+    },
+    "verdict": "Tucano Urbano'nun D3O sırt koruyucusu, markanın montunu kullananlar için belgeli Level 2 tamamlayıcı. Ölçü bilgisi olmadığından başka marka montlarda deneyerek almak daha doğru.",
+    "rivals": [
+      "d3o/viper-air-l2",
+      "spidi/warrior-l2",
+      "sas-tec/sc-1-fb2-m"
+    ],
+    "priceRange": {
+      "min": 5164.66,
+      "max": 5164.66,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/tucano-urbano-d3o-2-sirt-koruma",
+        "price": 5164.66,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hangi D3O koruyucu kullanılıyor?",
+        "a": "Tucano Urbano, koruyucunun D3O Viper Pro sırt koruyucu olduğunu ve EN 1621-2 Level 2 belgeli olduğunu belirtiyor."
+      },
+      {
+        "q": "Başka marka montta kullanılır mı?",
+        "a": "Cep ölçüsü uyuyorsa evet; üretici ölçü vermediği için önce koruyucuyu cebe denemek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.tucanourbano.com/en/products/pocket-back-armour-d3o-level-2-orange",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/products/pocket-back-armour-d3o-level-2-orange",
+        "type": "manufacturer",
+        "label": "Tucano Urbano – D3O Back Armour for Pocket Level 2 ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/tucano-urbano-d3o-2-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Tucano Urbano D3O Level 2 Sırt Koruma 8016",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Turuncu"
+    ],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "D3O Viper Pro, %100 poliüretan",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Mont sırt cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "aerosoft-1",
+    "brand": "tucano-urbano",
+    "name": "Aerosoft-1 Sırt Koruyucu (8027)",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Arkası cırtlı montlara takılan, EVA memory köpükten, havalandırmalı, EN 1621-1:2012 Level 1 belgeli hafif sırt koruyucu.",
+    "description": [
+      "Aerosoft-1, Tucano Urbano'nun yumuşak, hafif ve önceden şekillendirilmiş sırt koruyucusu. Üretici, koruyucunun EN 1621-1:2012 standardına göre Level 1 belgeli olduğunu belirtiyor. Bu, sırt koruyucuları için kullanılan EN 1621-2 değil, uzuv koruyucu standardı; yani ürün tam bir EN 1621-2 sırt koruyucusu yerine sırt bölgesi için temel düzey bir koruma sunuyor.",
+      "Malzemesi %100 EVA memory köpük, havalandırmalı bir yapısı var ve arkasındaki cırt bantlarla sırtında cırt bağlantısı olan montlara tutturuluyor. S-M ve L-XL olmak üzere iki ölçüde satılıyor. Fiyatı düşük tutulmuş bir giriş seçeneği; daha yüksek koruma isteyenler Level 2 ve EN 1621-2 belgeli modellere bakmalı."
+    ],
+    "forWho": [
+      "Montunda sırt koruyucu hiç olmayan ve cırtlı bağlantıya sahip olan şehir sürücüleri",
+      "Hafif ve yumuşak bir temel sırt koruması isteyen scooter kullanıcıları"
+    ],
+    "notFor": [
+      "EN 1621-2 belgeli tam sırt koruyucu arayanlar",
+      "Yüksek hız ve uzun yol için en yüksek koruma seviyesini isteyenler",
+      "Kurye kullanımında günlük yoğun risk için Level 2 koruyucu tercih edilmeli"
+    ],
+    "pros": [
+      "Hafif ve yumuşak EVA köpük",
+      "Havalandırmalı yapı",
+      "Cırt bantla kolay takılır",
+      "İki ölçü seçeneği"
+    ],
+    "cons": [
+      "Level 1 ve EN 1621-1 (uzuv standardı) belgeli; EN 1621-2 sırt belgesi yok",
+      "Yalnızca cırtlı montlarla uyumlu",
+      "Üretici ağırlık ve ölçü vermiyor"
+    ],
+    "usage": {
+      "sehir": "Şehir içi düşük hızlı kullanımda temel bir sırt koruması.",
+      "yaz": "Havalandırmalı yapı sıcakta konfor sağlar.",
+      "kis": "Kış montunda cırt bağlantıyla kullanılabilir."
+    },
+    "verdict": "Aerosoft-1, sırt koruyucusu hiç olmayan cırtlı bir monta hafif bir temel koruma eklemek için uygun. EN 1621-2 belgesi olmadığı için ciddi koruma arayanlar Level 2 sırt koruyuculara yönelmeli.",
+    "rivals": [
+      "tucano-urbano/t-ur-comfort-2",
+      "sas-tec/sc-1-fb2-m",
+      "tech90/impactec-tp-06"
+    ],
+    "priceRange": {
+      "min": 3029.7,
+      "max": 3029.7,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/tucano-urbano-aerosoft-1-sirt-koruma",
+        "price": 3029.7,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S-M",
+          "L-XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "EN 1621-1 sırt koruyucusu için yeterli mi?",
+        "a": "Sırt koruyucuları normalde EN 1621-2'ye göre test edilir. Aerosoft-1, üreticiye göre EN 1621-1:2012 Level 1 belgeli; bu, temel düzey bir korumadır."
+      },
+      {
+        "q": "Hangi montlara takılır?",
+        "a": "Tucano Urbano, sırtında cırt bağlantı bulunan montlarla uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tucanourbano.com/en/products/back-armour-aerosoft-1-black",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/products/back-armour-aerosoft-1-black",
+        "type": "manufacturer",
+        "label": "Tucano Urbano – Aerosoft-1 Back Armour ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/tucano-urbano-aerosoft-1-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Tucano Urbano Aerosoft-1 Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "S-M",
+      "L-XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 EVA memory köpük",
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı yapı",
+      "closure": "Cırt bantla monta tutturulur",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "t-ur-comfort-2",
+    "brand": "tucano-urbano",
+    "name": "T.ur Comfort-2 Sırt Koruyucu (T8024)",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Tucano Urbano'nun adventure markası T.ur'un, EVA memory köpükten, havalandırmalı, EN 1621-1:2012 Level 2 belgeli sırt koruyucusu.",
+    "description": [
+      "Comfort-2, Tucano Urbano'nun 2018'de kurduğu adventure/tur markası T.ur'un sırt koruyucusu ve üreticinin kendi sitesinde satılıyor. Üretici, koruyucunun EN 1621-1:2012 standardına göre Level 2 belgeli olduğunu belirtiyor; bu, sırt koruyucularında kullanılan EN 1621-2 değil, uzuv koruyucu standardı.",
+      "Malzemesi %100 EVA memory köpük; yumuşak, hafif, esnek ve önceden şekillendirilmiş. Havalandırmalı yapısı ve cırt bantları var; hem cırt bağlantılı hem de sırt koruyucu cebi olan montlarla kullanılabiliyor. S, M, L ve XL ölçülerinde, gri renkte satılıyor."
+    ],
+    "forWho": [
+      "Sırt cebi ya da cırt bağlantısı olan bir montla hafif bir koruma isteyen tur sürücüleri",
+      "Montunun boyuna uygun ölçü seçmek isteyenler (dört ölçü)"
+    ],
+    "notFor": [
+      "EN 1621-2 belgeli tam sırt koruyucusu arayanlar",
+      "Askılı, bağımsız sırt koruyucu arayanlar"
+    ],
+    "pros": [
+      "Level 2 (EN 1621-1:2012)",
+      "Dört ölçü seçeneği",
+      "Hem cep hem cırt bağlantılı montlarla uyumlu",
+      "Havalandırmalı, yumuşak EVA köpük"
+    ],
+    "cons": [
+      "EN 1621-2 sırt belgesi değil, EN 1621-1 belgeli",
+      "Üretici ağırlık ve ölçü vermiyor",
+      "Beden-boy eşleşmesi üretici sayfasında yok"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; yumuşak yapısı rahat.",
+      "uzunYol": "Esnek köpük ve havalandırma uzun sürüşte konforlu.",
+      "yaz": "Havalandırmalı yapı sıcakta terlemeyi azaltır.",
+      "kis": "Kış montunda cep veya cırt bağlantısıyla kullanılabilir.",
+      "kurye": "Uygun fiyatlı ve dayanıklı bir ped; ancak EN 1621-2 belgesi olmadığı için yoğun kurye kullanımında EN 1621-2 Level 2 koruyucular öncelikli."
+    },
+    "verdict": "T.ur Comfort-2, dört ölçüsü ve çift bağlantı seçeneğiyle pek çok monta uyan yumuşak bir sırt koruyucu. Belge EN 1621-1 olduğu için tam sırt koruması arayanlar EN 1621-2 Level 2 modelleri tercih etmeli.",
+    "rivals": [
+      "tucano-urbano/aerosoft-1",
+      "sas-tec/sc-1-fb2-m",
+      "tech90/impactec-tp-06"
+    ],
+    "priceRange": {
+      "min": 2894.48,
+      "max": 2894.48,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/tur-sirt-koruma-comfort-level-4675",
+        "price": 2894.48,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "T.ur ile Tucano Urbano ilişkisi ne?",
+        "a": "Tucano Urbano'ya göre T.ur, 2018'de markanın adventure tutkusundan doğan ve tur/adventure ekipmanına odaklanan kardeş markası."
+      },
+      {
+        "q": "Hangi montlara uyar?",
+        "a": "Üretici, hem cırt bağlantılı hem de sırt koruyucu cebi olan montlarla uyumlu olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tucanourbano.com/en/products/comfort-2-back-armour-grey",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/products/comfort-2-back-armour-grey",
+        "type": "manufacturer",
+        "label": "Tucano Urbano (T.ur) – Comfort-2 Back Armour ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/tur-sirt-koruma-comfort-level-4675",
+        "type": "retailer",
+        "label": "DRD Motorbikes – T.UR Sırt Koruma Comfort Level 2",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Gri"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 EVA memory köpük",
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı yapı",
+      "closure": "Cırt bant veya mont sırt cebi",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "d3o-dirsek-koruyucu-level-1",
+    "brand": "tucano-urbano",
+    "name": "D3O Dirsek Koruyucu Level 1 (8002)",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Mont dirsek ceplerine takılan, D3O malzemeden, EN 1621-1 Level 1 belgeli bir çift dirsek koruyucu.",
+    "description": [
+      "Tucano Urbano'nun D3O dirsek koruyucuları, mont dirsek ceplerine takılan bir çift koruyucudan oluşuyor. Üretici, koruyucuların EN 1621-1 standardında Level 1 (standart koruma) belgeli olduğunu belirtiyor. D3O malzemesi kullanımda yumuşak ve esnek, darbe anında sertleşerek şoku sönümlüyor.",
+      "Malzemesi %100 poliüretan. Tucano Urbano montlarının dirsek cepleriyle uyumlu; başka marka montlarda cep ölçüsünü kontrol etmek gerekiyor. Level 1 olduğu için, montundaki koruyucuyu yükseltmek isteyenlerden çok, eksik ya da yıpranmış koruyucuyu yenilemek isteyenler için uygun."
+    ],
+    "forWho": [
+      "Tucano Urbano montundaki dirsek koruyucusu eksik ya da yıpranmış olanlar",
+      "Yumuşak, vücuda uyan D3O malzemesini tercih edenler"
+    ],
+    "notFor": [
+      "Level 2 dirsek koruması arayanlar",
+      "Cepsiz montla kullanmayı düşünenler"
+    ],
+    "pros": [
+      "EN 1621-1 belgeli",
+      "D3O: kullanımda yumuşak, darbede sert",
+      "Bir çift olarak satılıyor"
+    ],
+    "cons": [
+      "Level 1; yükseltme için uygun değil",
+      "Üretici ağırlık ve ölçü vermiyor",
+      "Benzer fiyata Level 2 dirsek koruyucular bulunuyor"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; yumuşak yapısı kol hareketini kısıtlamaz.",
+      "yaz": "İnce ve esnek; file montlarda rahat.",
+      "kurye": "Kurye montunda eksik dirsek koruyucuyu tamamlamak için kullanılabilir; yükseltme için Level 2 modeller daha uygun."
+    },
+    "verdict": "Tucano Urbano D3O Dirsek, markanın montunda eksik koruyucuyu tamamlamak için doğru parça. Koruma seviyesini yükseltmek isteyenler aynı fiyat aralığındaki Level 2 dirsek koruyuculara bakmalı.",
+    "rivals": [
+      "spidi/warrior-lite-l2-dirsek",
+      "alpinestars/bionic-flex-elbow",
+      "tech90/impactec-tp-02"
+    ],
+    "priceRange": {
+      "min": 2213.43,
+      "max": 2213.43,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/tucano-urbano-d3o-dirsek-koruma-8002",
+        "price": 2213.43,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Level kaç?",
+        "a": "Tucano Urbano bu koruyucuları EN 1621-1 Level 1 (standart koruma) olarak tanımlıyor."
+      },
+      {
+        "q": "Tek mi çift mi?",
+        "a": "Üretici ürünü bir çift dirsek koruyucu olarak satıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.tucanourbano.com/en/products/elbows-armours-d3o-level-1-orange",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/products/elbows-armours-d3o-level-1-orange",
+        "type": "manufacturer",
+        "label": "Tucano Urbano – D3O Elbow Armours Level 1 ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/tucano-urbano-d3o-dirsek-koruma-8002",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Tucano Urbano D3O Dirsek Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.weightGrams",
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Turuncu"
+    ],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "D3O, %100 poliüretan",
+      "materialClass": null,
+      "ceStandard": "EN 1621-1",
+      "ceClass": "Level 1",
+      "protectors": [
+        {
+          "area": "dirsek",
+          "standard": "EN 1621-1",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Mont dirsek cebine takılır",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "sc-1-fb2-m",
+    "brand": "sas-tec",
+    "name": "SC-1/FB2-M",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "SAS-TEC'in Tripleflex tasarımlı viskoelastik köpüğünden, yaklaşık 390 g, EN 1621-2 Level 2 belgeli, 150–175 cm boy için mont cebine takılan sırt koruyucu.",
+    "description": [
+      "SC-1/FB2-M, SAS-TEC'in esnek FB2 sırt koruyucu ailesinin M ölçüsü. Koruyucu, SAS-TEC'in tescilli Tripleflex tasarımına sahip viskoelastik yumuşak köpükten yapılıyor; çok sayıda havalandırma açıklığı var ve vücut hareketlerine kolayca uyum sağlıyor. Üretici, EN 1621-2 testinde artık kuvvetin 7 kN'un altında kaldığını belirtiyor (Level 2 sınırı 9 kN).",
+      "Ölçüleri yaklaşık 430 × 270 × 17 mm, ağırlığı yaklaşık 390 g. Sertifika bedeni 42–46, önerilen sürücü boyu 150–175 cm. Koruyucu darbede zarar görmüyor ve tekrar kullanılabiliyor; su emiciliği %1'in altında, çıkarılıp elde yıkanabiliyor. Sarı/siyah renkte, cırtlı veya cırtsız olarak üretiliyor."
+    ],
+    "forWho": [
+      "Montundaki ince sırt pedini Level 2 ile değiştirmek isteyen 150–175 cm boyundaki sürücüler",
+      "Kadın sürücüler ve kısa gövdeliler: standart L ölçü uzun gelenler",
+      "Kurye ve şehir içi kullanıcılar: montta kalıcı takılı kalabilir"
+    ],
+    "notFor": [
+      "Askılı, bağımsız sırt koruyucu arayanlar",
+      "175 cm üstü sürücüler (L veya XXL ölçü daha uygun)"
+    ],
+    "pros": [
+      "EN 1621-2 Level 2; artık kuvvet 7 kN altında",
+      "Yaklaşık 390 g",
+      "Darbeden sonra tekrar kullanılabilir, yıkanabilir",
+      "Cırtlı ve cırtsız seçenek"
+    ],
+    "cons": [
+      "Mont cebine bağımlı; cep ölçüsü uymazsa kayabilir",
+      "Askılı kullanım için tasarlanmamış",
+      "Renk seçeneği sınırlı (sarı/siyah)"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; günlük kullanımda fark edilmez.",
+      "uzunYol": "Esnek ve yumuşak yapısı uzun sürüşte konforlu.",
+      "yaz": "Havalandırma açıklıkları sayesinde kapalı köpük pedlere göre daha serin.",
+      "yagmur": "Su emiciliği %1'in altında; ıslanınca ağırlaşmaz.",
+      "kurye": "Cepte kalıcı duran hafif bir Level 2 ped; kurye montunu yükseltmek için uygun."
+    },
+    "verdict": "SC-1/FB2-M, kısa gövdeli ya da 175 cm altı sürücü için hafif ve esnek bir Level 2 sırt koruyucu. Türkiye fiyatı aynı korumayı veren rakiplerin çoğundan düşük; asıl dikkat edilmesi gereken montun cep ölçüsü.",
+    "rivals": [
+      "sas-tec/sc-1-fb2-l",
+      "spidi/warrior-l2-lady",
+      "d3o/viper-air-l2"
+    ],
+    "priceRange": {
+      "min": 2430,
+      "max": 2430,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "price": 2430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "M"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bu koruyucu hangi boya uygun?",
+        "a": "SAS-TEC, SC-1/FB2-M için 150–175 cm sürücü boyu ve 42–46 sertifika bedeni öneriyor. Farklı boylar için FB2 ailesinde başka ölçüler var."
+      },
+      {
+        "q": "Yıkanabilir mi?",
+        "a": "Üretici, koruyucunun çıkarılıp ayrı olarak elde yıkanabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.sas-tec.de/produkte/sc-1-fb2-m/",
+    "sources": [
+      {
+        "url": "https://www.sas-tec.de/produkte/sc-1-fb2-m/",
+        "type": "manufacturer",
+        "label": "SAS-TEC – SC-1/FB2-M ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – SAS-TEC SC-1/FB-2 Level 2 Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Sarı/Siyah"
+    ],
+    "sizes": [
+      "M (42–46)"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Viskoelastik yumuşak köpük, Tripleflex tasarım",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Çok sayıda havalandırma açıklığı",
+      "closure": "Mont sırt cebine takılır; cırtlı versiyonu da var",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "sc-1-fb2-xxl",
+    "brand": "sas-tec",
+    "name": "SC-1/FB2-XXL",
+    "category": "koruma",
+    "subcategories": [
+      "sirt-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "SAS-TEC'in Tripleflex tasarımlı viskoelastik köpüğünden, yaklaşık 570 g, EN 1621-2 Level 2 belgeli, 180–205 cm boy için tam boy sırt koruyucu.",
+    "description": [
+      "SC-1/FB2-XXL, SAS-TEC'in esnek FB2 sırt koruyucu ailesinin XXL ölçüsü. Koruyucu, SAS-TEC'in tescilli Tripleflex tasarımına sahip viskoelastik yumuşak köpükten yapılıyor; çok sayıda havalandırma açıklığı var ve vücut hareketlerine kolayca uyum sağlıyor. Üretici, EN 1621-2 testinde artık kuvvetin 7 kN'un altında kaldığını belirtiyor (Level 2 sınırı 9 kN).",
+      "Ölçüleri yaklaşık 515 × 320 × 17 mm, ağırlığı yaklaşık 570 g. Sertifika bedeni 52–56, önerilen sürücü boyu 180–205 cm. Koruyucu darbede zarar görmüyor ve tekrar kullanılabiliyor; su emiciliği %1'in altında, çıkarılıp elde yıkanabiliyor. Sarı/siyah renkte, cırtlı veya cırtsız olarak üretiliyor."
+    ],
+    "forWho": [
+      "180 cm üstü, uzun gövdeli sürücüler: standart pedler kısa kalanlar",
+      "Montundaki ince sırt pedini Level 2 ile değiştirmek isteyenler",
+      "Kuryeler: cırtlı versiyonu cırt bağlantılı montlara da takılabiliyor"
+    ],
+    "notFor": [
+      "Askılı, bağımsız sırt koruyucu arayanlar",
+      "180 cm altı sürücüler (M veya L ölçü daha uygun)"
+    ],
+    "pros": [
+      "EN 1621-2 Level 2; artık kuvvet 7 kN altında",
+      "Yaklaşık 570 g",
+      "Darbeden sonra tekrar kullanılabilir, yıkanabilir",
+      "Cırtlı ve cırtsız seçenek"
+    ],
+    "cons": [
+      "Mont cebine bağımlı; cep ölçüsü uymazsa kayabilir",
+      "Askılı kullanım için tasarlanmamış",
+      "Uzun ölçüsü nedeniyle her montun cebine sığmayabilir"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; günlük kullanımda fark edilmez.",
+      "uzunYol": "Esnek ve yumuşak yapısı uzun sürüşte konforlu.",
+      "yaz": "Havalandırma açıklıkları sayesinde kapalı köpük pedlere göre daha serin.",
+      "yagmur": "Su emiciliği %1'in altında; ıslanınca ağırlaşmaz.",
+      "kurye": "Cepte kalıcı duran hafif bir Level 2 ped; kurye montunu yükseltmek için uygun."
+    },
+    "verdict": "SC-1/FB2-XXL, uzun boylu sürücünün sırtını boydan boya kaplayan, hafif ve esnek bir Level 2 koruyucu. Montun cebinin 515 mm uzunluğu alıp almadığını mutlaka kontrol edin; cırtlı versiyon cırt bağlantılı montlarda daha esnek bir seçenek.",
+    "rivals": [
+      "sas-tec/sc-1-fb2-l",
+      "dainese/pro-armor-back-long-2-0",
+      "d3o/viper-air-l2"
+    ],
+    "priceRange": {
+      "min": 2430,
+      "max": 3456,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "price": 2430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XXL"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-cirtli-sirt-koruma",
+        "price": 3456,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XXL"
+        ],
+        "colors": [
+          "Cırtlı (universal)"
+        ],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bu koruyucu hangi boya uygun?",
+        "a": "SAS-TEC, SC-1/FB2-XXL için 180–205 cm sürücü boyu ve 52–56 sertifika bedeni öneriyor. Farklı boylar için FB2 ailesinde başka ölçüler var."
+      },
+      {
+        "q": "Yıkanabilir mi?",
+        "a": "Üretici, koruyucunun çıkarılıp ayrı olarak elde yıkanabildiğini belirtiyor."
+      },
+      {
+        "q": "Cırtlı ve cırtsız versiyon arasında fark var mı?",
+        "a": "Koruyucu aynı; cırtlı versiyonun arka yüzünde cırt bant bulunuyor ve cırt bağlantılı montlara tutturulabiliyor. DRD Motorbikes'ta cırtlı XXL versiyon ayrı ürün olarak satılıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.sas-tec.de/produkte/sc-1-fb2-xxl/",
+    "sources": [
+      {
+        "url": "https://www.sas-tec.de/produkte/sc-1-fb2-xxl/",
+        "type": "manufacturer",
+        "label": "SAS-TEC – SC-1/FB2-XXL ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – SAS-TEC SC-1/FB-2 Level 2 Sırt Koruma",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-cirtli-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes – SAS-TEC SC-1/FB-2 Level 2 Universal Cırtlı Sırt Koruma (XXL)",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [
+      "Sarı/Siyah"
+    ],
+    "sizes": [
+      "XXL (52–56)"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Viskoelastik yumuşak köpük, Tripleflex tasarım",
+      "materialClass": null,
+      "ceStandard": "EN 1621-2",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Çok sayıda havalandırma açıklığı",
+      "closure": "Mont sırt cebine takılır; cırtlı versiyonu da var",
+      "madeIn": null
+    }
+  },
+  {
+    "slug": "warrior-lite-l2-omuz",
+    "brand": "spidi",
+    "name": "Warrior Lite L2 Omuz Koruyucu (Z188)",
+    "category": "koruma",
+    "subcategories": [
+      "dirsek-diz-koruma"
+    ],
+    "status": "active",
+    "successor": null,
+    "summary": "Spidi montlarındaki Level 1 Warrior Lite omuz koruyucuların yerine takılan, çift yoğunluklu, delikli, EN 1621-1:2012 Level 2 belgeli omuz koruyucu çifti.",
+    "description": [
+      "Warrior Lite L2 Omuz, Spidi montlarının omuz ceplerindeki Level 1 Warrior Lite koruyucuların yerine takılmak üzere satılan bir çift koruyucu. Üretici, koruyucuların EN 1621-1:2012 standardında Level 2 belgeli olduğunu, çift yoğunluklu malzemeyle enjeksiyon yöntemiyle üretildiğini ve Warrior teknolojisiyle darbe enerjisini yaymak üzere tasarlandığını belirtiyor.",
+      "Koruyucularda hava geçişi için 'Air Warrior' delikleri bulunuyor; ortalama ağırlık 0,1 kg. Spidi montlarında doğrudan yer değiştiriyor; başka marka montlarda kullanmak için omuz cebinin ölçüsünün ve şeklinin uygun olması gerekiyor. Omuz, düşüşlerde yere ilk temas eden bölgelerden biri olduğu için Level 2'ye yükseltme anlamlı bir güvenlik kazancı sağlıyor."
+    ],
+    "forWho": [
+      "Spidi montundaki Level 1 omuz koruyucuları Level 2'ye yükseltmek isteyenler",
+      "Hafif ve delikli bir omuz koruyucu arayan şehir ve tur sürücüleri"
+    ],
+    "notFor": [
+      "Omuz cebi olmayan mont kullananlar",
+      "Cep ölçüsünü bilmeden başka marka montta kullanmayı düşünenler"
+    ],
+    "pros": [
+      "EN 1621-1:2012 Level 2 belgeli",
+      "Ortalama 0,1 kg ile çok hafif",
+      "Delikli, havalandırmalı yapı",
+      "Spidi montlarında doğrudan yer değiştirir"
+    ],
+    "cons": [
+      "Yalnızca omuz cepli montlarda kullanılabilir",
+      "Başka marka montlarla uyumu ölçüye bağlı",
+      "Üretici ölçü (boy/en) vermiyor"
+    ],
+    "usage": {
+      "sehir": "Montun içinde kalıcı durur; kol hareketini kısıtlamaz.",
+      "uzunYol": "Çok hafif olduğu için uzun sürüşte hissedilmez.",
+      "yaz": "Delikli yapısı file montlarda hava akışını korur.",
+      "sport": "Level 2 omuz koruması; sportif sürüşte standart Level 1 koruyuculara göre daha yüksek darbe sönümleme.",
+      "kurye": "Kurye montunun omuz cepleri uyuyorsa uygun maliyetli bir güvenlik yükseltmesi."
+    },
+    "verdict": "Warrior Lite L2 Omuz, Spidi montundaki omuz korumasını Level 2'ye çıkarmanın doğrudan yolu. Başka marka montlarda cep ölçüsü ve şekli belirleyici; aynı ailedeki dirsek koruyucuyla birlikte alınabilir.",
+    "rivals": [
+      "spidi/warrior-lite-l2-dirsek",
+      "tucano-urbano/d3o-dirsek-koruyucu-level-1",
+      "alpinestars/bionic-flex-elbow"
+    ],
+    "priceRange": {
+      "min": 2478.84,
+      "max": 2478.84,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-warrior-lite-lev2-omuz-korumasi",
+        "price": 2478.84,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tek mi, çift mi satılıyor?",
+        "a": "Spidi ürünü bir çift omuz koruyucu olarak tanımlıyor."
+      },
+      {
+        "q": "Hangi montlara uyar?",
+        "a": "Üretici, Level 1 Warrior Lite omuz koruyucusu olan tüm Spidi montlarında yerine takılabileceğini belirtiyor. Başka montlarda cep ölçüsünü kontrol etmek gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/shoulder-protectors-warrior-lite-l2-z188",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/shoulder-protectors-warrior-lite-l2-z188",
+        "type": "manufacturer",
+        "label": "Spidi – Warrior Lite L2 Shoulder (Z188) ürün sayfası",
+        "checkedAt": "2026-10-09"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-warrior-lite-lev2-omuz-korumasi",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Warrior Lite Lev.2 Omuz Koruması",
+        "checkedAt": "2026-10-09"
+      }
+    ],
+    "lastCheckedAt": "2026-10-09",
+    "dataConfidence": "high",
+    "unverified": [
+      "sizeChart",
+      "specs.madeIn"
+    ],
+    "colors": [],
+    "sizes": [
+      "Tek beden"
+    ],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "Çift yoğunluklu enjeksiyon malzeme, Warrior teknolojisi",
+      "materialClass": null,
+      "ceStandard": "EN 1621-1:2012",
+      "ceClass": "Level 2",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 2,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Air Warrior delikleri",
+      "closure": "Mont omuz cebine takılır",
+      "madeIn": null
+    }
+  }
+]

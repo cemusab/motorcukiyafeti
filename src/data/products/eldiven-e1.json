@@ -46,8 +46,7 @@
     "verdict": "GP Pro R4, yol ağırlıklı sport sürücü için koruma ve gidon hissini iyi dengeleyen üst seviye bir deri eldiven. DFS Race koruma ve parmak köprüsü güven veriyor; Level 1 KP sertifika ve yalnız kuru havaya uygun olması bu fiyatta göz önünde tutulmalı.",
     "rivals": [
       "dainese/full-metal-7",
-      "dainese/carbon-4-long",
-      "five-gloves/rfx3-evo"
+      "dainese/carbon-4-long"
     ],
     "priceRange": {
       "min": 21240,
@@ -399,8 +398,7 @@
     "verdict": "HT-5, kışın motoru bırakmayan ve parmakları üşüyen sürücü için ciddi bir çözüm. Isıtma, membran ve yalıtım bir arada; yüksek fiyatı ve batarya yönetimi ise kararı kullanım sıklığına bağlı kılıyor.",
     "rivals": [
       "held/inuit",
-      "revit/kodiak-2-gtx",
-      "five-gloves/wfx-prime-evo-gtx"
+      "revit/kodiak-2-gtx"
     ],
     "priceRange": {
       "min": 23460,
@@ -722,7 +720,6 @@
     "verdict": "Carbon 4 Long, uzun bilekli deri sport eldiven arayan yol sürücüsü için dengeli bir seçenek. Karbon eklem ve DCP sistemi iyi bir koruma tabanı sunuyor; Level 1 sertifika ve sitede indirimli bölümde görünmesi, uzun vadede bulunabilirlik açısından akılda tutulmalı.",
     "rivals": [
       "alpinestars/gp-pro-r4",
-      "five-gloves/rfx3-evo",
       "held/evo-thrux-3"
     ],
     "priceRange": {
@@ -923,8 +920,7 @@
     "verdict": "Full Metal 7, pistte en yüksek korumayı isteyen sürücü için Dainese'nin tepe noktası. Level 2 sertifika, titanyum kaydırıcılar ve DCP sistemi ciddi bir paket; fiyatı ve yarış kalıbı ise onu yol sürücüsünden çok pist kullanıcısına uygun kılıyor.",
     "rivals": [
       "alpinestars/gp-pro-r4",
-      "dainese/carbon-4-long",
-      "five-gloves/rfx3-evo"
+      "dainese/carbon-4-long"
     ],
     "priceRange": {
       "min": 38790,
@@ -1107,7 +1103,6 @@
     "verdict": "Tempest 2 D-Dry Long, kışın da motor kullanan ama ısıtmalı eldivene yatırım yapmak istemeyen touring sürücüsü için pratik bir seçenek. Membran, yalıtım ve dokunmatik parmak uçları günlük kullanımda işe yarıyor; avuç tarafındaki koruma sade kalıyor.",
     "rivals": [
       "revit/kodiak-2-gtx",
-      "five-gloves/wfx-prime-evo-gtx",
       "alpinestars/andes-v3-drystar"
     ],
     "priceRange": {
@@ -1475,8 +1470,7 @@
     "verdict": "Tempest 2 D-Dry Lady, kışın motoru bırakmayan kadın sürücü için hafif ve su geçirmez bir touring eldiveni. Kadın kalıbı ve dokunmatik parmak uçları artı; yumuşak eklem koruması ve sentetik avuç ise korumayı touring seviyesinde tutuyor.",
     "rivals": [
       "dainese/tempest-2-d-dry-long",
-      "revit/kodiak-2-gtx",
-      "five-gloves/wfx-prime-evo-gtx"
+      "revit/kodiak-2-gtx"
     ],
     "priceRange": {
       "min": 9690,
@@ -1826,8 +1820,7 @@
     "verdict": "Evo-Thrux 3, kanguru derisi avuç ve parmak köprüsü gibi üst sınıf özellikleri daha erişilebilir fiyata getiren dengeli bir sport eldiven. Level 1 KP sertifika ve yalnız kuru hava kullanımı sınırları; geniş beden seçeneği ise önemli bir artı.",
     "rivals": [
       "alpinestars/gp-pro-r4",
-      "dainese/carbon-4-long",
-      "five-gloves/rfx3-evo"
+      "dainese/carbon-4-long"
     ],
     "priceRange": {
       "min": 9270,
@@ -2006,8 +1999,7 @@
     "verdict": "Inuit, ısıtılan bölgeyi ve kademeyi seçmeye izin vermesiyle batarya süresini kullanıma göre ayarlamak isteyen kış sürücüsü için esnek bir ısıtmalı eldiven. D3O eklem koruması iyi; fiyatı ve stok durumu ise satın almadan önce kontrol edilmeli.",
     "rivals": [
       "alpinestars/ht-5-heat-tech-drystar",
-      "revit/kodiak-2-gtx",
-      "five-gloves/wfx-prime-evo-gtx"
+      "revit/kodiak-2-gtx"
     ],
     "priceRange": null,
     "offers": [],
@@ -2371,7 +2363,6 @@
     "verdict": "Kodiak 2 GTX, ısıtmalı eldivene geçmeden kışta motor kullanmak isteyen sürücü için en dolu pasif kış eldivenlerinden biri. GORE-TEX, kalın yalıtım ve sert koruma birlikte geliyor; bunun bedeli gidon hissinin azalması.",
     "rivals": [
       "dainese/tempest-2-d-dry-long",
-      "five-gloves/wfx-prime-evo-gtx",
       "held/inuit"
     ],
     "priceRange": null,
@@ -2729,265 +2720,6 @@
       "airbagCompatible": null,
       "ventilation": "3D air mesh ve havalandırma delikleri",
       "closure": "Cırt cırtlı bilek, elastik bilek, kol ağzı ayar tırnağı",
-      "madeIn": null
-    }
-  },
-  {
-    "slug": "rfx3-evo",
-    "brand": "five-gloves",
-    "name": "RFX3 Evo",
-    "category": "eldiven",
-    "subcategories": [
-      "sport-eldiven"
-    ],
-    "status": "active",
-    "successor": null,
-    "summary": "AirGO PROTECH havalandırmalı eklem kabuğu, ERGO PROTECH avuç kaydırıcısı, parmak köprüsü ve keçi derisi avuçla gelen, EN 13594:2015 KP1 sertifikalı uzun bilekli sport eldiven.",
-    "description": [
-      "RFX3 Evo, FIVE'ın Racing serisinde yol ve pist arasında çok yönlü konumlanan uzun bilekli eldiveni. Üst yapı sentetik deri ve tam tahıllı keçi derisi, avuç yumuşak tam tahıllı keçi derisi. Kapalı el pozisyonunda kabuğun yerleşmesine yardım eden delikli deri körükler ve Hi-Res Grip avuç takviyesi var. Kalıp dar (slim) ve performans odaklı.",
-      "Korumanın merkezinde kask teknolojisinden esinlenen, sert dış kabuk ve petek yapılı iç katmana sahip havalandırmalı AirGO PROTECH eklem kabuğu duruyor. Avuçta esnek TPR ERGO PROTECH kaydırıcı, hava girişli TPR parmak koruyucular, bilekte TPR kaydırıcı ve serçe-yüzük parmak arasında dönmeyi önleyen bağlantı bulunuyor. Çift kapama, işaret ve başparmakta Touch Screen sistemi var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
-    ],
-    "forWho": [
-      "Sport motosikletle yol ağırlıklı sürüp ara sıra piste çıkanlar",
-      "Havalandırmalı eklem kabuğu isteyenler",
-      "Dar, hassas kalıp sevenler"
-    ],
-    "notFor": [
-      "Kurye ve günlük şehir kullanımı",
-      "Yağmur ve soğuk hava",
-      "Geniş el yapısı olup rahat kalıp arayanlar: üretici kalıbı dar olarak tanımlıyor"
-    ],
-    "pros": [
-      "Havalandırmalı AirGO PROTECH eklem kabuğu",
-      "Avuç, bilek ve parmaklarda TPR kaydırıcılar",
-      "Parmak köprüsü",
-      "Dokunmatik işaret ve başparmak"
-    ],
-    "cons": [
-      "Sertifika KP1 (Level 1)",
-      "Dar kalıp herkese uymayabilir",
-      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
-    ],
-    "usage": {
-      "sehir": "Uzun bilek ve dar kalıp nedeniyle şehirde pratik değil.",
-      "uzunYol": "Kuru havada sport-touring etaplarında kullanılabilir.",
-      "yaz": "FIVE yaz eldiveni olarak sınıflandırıyor; havalandırmalı eklem kabuğu ve parmak hava girişleri yardımcı oluyor.",
-      "kis": "Uygun değil.",
-      "yagmur": "Su geçirmez değil.",
-      "sport": "Asıl kullanım alanı: tempolu yol sürüşü ve track day."
-    },
-    "verdict": "RFX3 Evo, yol ağırlıklı sport sürücü için havalandırma ve korumayı ilginç biçimde birleştiren bir eldiven. Eklem kabuğu ve kaydırıcılar güçlü; dar kalıp ve KP1 sertifika ise beklentiyi buna göre ayarlamayı gerektiriyor.",
-    "rivals": [
-      "alpinestars/gp-pro-r4",
-      "held/evo-thrux-3",
-      "dainese/carbon-4-long"
-    ],
-    "priceRange": null,
-    "offers": [],
-    "faq": [
-      {
-        "q": "RFX3 Evo'nun sertifikası nedir?",
-        "a": "FIVE, EN 13594:2015 ve CE KP1 belirtiyor."
-      },
-      {
-        "q": "Kalıbı nasıl?",
-        "a": "Üretici kalıbı dar (slim) olarak tanımlıyor; konfordan çok hassasiyete öncelik veriliyor."
-      }
-    ],
-    "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
-    "sources": [
-      {
-        "url": "https://five-gloves.com/en/catalog/motorcycle/racing/racing_performance/rfx3-evo/",
-        "type": "manufacturer",
-        "label": "FIVE Gloves – RFX3 EVO ürün sayfası",
-        "checkedAt": "2026-10-07"
-      }
-    ],
-    "lastCheckedAt": "2026-10-07",
-    "dataConfidence": "high",
-    "unverified": [
-      "sizeChart",
-      "specs.madeIn",
-      "priceRange"
-    ],
-    "colors": [
-      "Black",
-      "Black / Neon Red",
-      "Black / White",
-      "White"
-    ],
-    "sizes": [
-      "07/XS",
-      "08/S",
-      "09/M",
-      "10/L",
-      "11/XL",
-      "12/2XL",
-      "13/3XL"
-    ],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
-    "buyerInsights": null,
-    "specs": {
-      "gender": "erkek",
-      "season": "yaz",
-      "material": "Sentetik deri ve tam tahıllı keçi derisi üst yapı, keçi derisi avuç",
-      "materialClass": "deri",
-      "ceStandard": "EN 13594:2015",
-      "ceClass": "Level 1 KP",
-      "protectors": [
-        {
-          "area": "parmak",
-          "standard": null,
-          "level": null,
-          "included": true
-        },
-        {
-          "area": "avuc",
-          "standard": null,
-          "level": null,
-          "included": true
-        },
-        {
-          "area": "bilek",
-          "standard": null,
-          "level": null,
-          "included": true
-        }
-      ],
-      "waterproof": false,
-      "membrane": null,
-      "airbagCompatible": null,
-      "ventilation": "Havalandırmalı AirGO PROTECH eklem kabuğu, hava girişli parmak koruyucular",
-      "closure": "Bilekte cırt cırtlı kayış ve kol ağzı ayar kayışıyla çift kapama",
-      "madeIn": null
-    }
-  },
-  {
-    "slug": "wfx-prime-evo-gtx",
-    "brand": "five-gloves",
-    "name": "WFX Prime Evo GTX",
-    "category": "eldiven",
-    "subcategories": [
-      "kislik-eldiven",
-      "touring-eldiven"
-    ],
-    "status": "active",
-    "successor": null,
-    "summary": "GORE-TEX membranlı, PrimaLoft Gold yalıtımlı ve FIVE Thermo+ yapılı; ERGO PROTECH eklem kabuğu ve SuperFabric takviyeli, EN 13594:2015 KP1 sertifikalı kış eldiveni.",
-    "description": [
-      "WFX Prime Evo GTX, FIVE'ın üst seviye kış eldiveni. Softshell kumaş üst yapı, tam tahıllı keçi derisi avuç ve kısmen avuca bağlanmış GORE-TEX Grip membran kullanılıyor. Üst yüzde PrimaLoft Gold 200 g ve alüminyum ek, avuçta PrimaLoft Gold Grip Control 60 g var. FIVE, kalın yalıtımı parmak aralarına kadar taşıyan Thermo+ yapısının yüzde 20'ye kadar daha fazla ısı verimi sağladığını belirtiyor.",
-      "Korumada gizli, petek iç yapılı ERGO PROTECH tek parça eklem kabuğu, esnek TPR avuç kaydırıcısı, serçe ve yüzük parmakta TPR koruma ve başparmak kökünde SuperFabric panel bulunuyor. Ceket koluna göre genişleyen Over Size Cuff kol ağzı, su itici YKK fermuar, bilek ve kol ağzında cırt ayarı, yansıtıcı 3D yamalar, dokunmatik işaret ve başparmak ile sol elde vizör sileceği var. Üretici EN 13594:2015 ve CE KP1 belirtiyor."
-    ],
-    "forWho": [
-      "Kışın düzenli ve uzun süre motor kullananlar",
-      "Isıtmasız ama çok sıcak tutan bir kış eldiveni isteyenler",
-      "Geniş beden aralığı (3XS–5XL) arayanlar"
-    ],
-    "notFor": [
-      "Ilık havalar",
-      "Sport sürüş",
-      "Gidon hissini her şeyin önünde tutanlar: kalın yalıtım hissi azaltır"
-    ],
-    "pros": [
-      "GORE-TEX membran ve PrimaLoft Gold yalıtım",
-      "Thermo+ yapısıyla parmak aralarında da kalın yalıtım",
-      "ERGO PROTECH eklem kabuğu ve SuperFabric",
-      "3XS–5XL geniş beden aralığı"
-    ],
-    "cons": [
-      "Pahalı",
-      "Rahat (relaxed) kalıp dar el yapısına bol gelebilir",
-      "Türkiye'de yetkili satıcıda fiyatını doğrulayamadık"
-    ],
-    "usage": {
-      "sehir": "Kışın şehir içinde rahat; fermuarlı kol ağzı takıp çıkarmayı biraz yavaşlatır.",
-      "uzunYol": "Kış turları için uygun.",
-      "yaz": "Uygun değil.",
-      "kis": "Asıl kullanım alanı.",
-      "yagmur": "GORE-TEX membranla su geçirmez.",
-      "sport": "Uygun değil."
-    },
-    "verdict": "WFX Prime Evo GTX, ısıtmalı eldivene geçmeden kışı karşılamak isteyen sürücü için en iddialı pasif kış eldivenlerinden biri. Thermo+ yapısı, GORE-TEX ve gizli eklem kabuğu güçlü bir paket; fiyatı ve kalın yapısı ise karşılığında kabul edilmesi gereken şeyler.",
-    "rivals": [
-      "revit/kodiak-2-gtx",
-      "dainese/tempest-2-d-dry-long",
-      "alpinestars/ht-5-heat-tech-drystar"
-    ],
-    "priceRange": null,
-    "offers": [],
-    "faq": [
-      {
-        "q": "Thermo+ nedir?",
-        "a": "FIVE'ın, kalın yalıtımı parmak aralarına kadar uzatıp ince yalıtımı avucun düz bölümünde tuttuğu yapısı; üretici yüzde 20'ye kadar daha fazla ısı verimi belirtiyor."
-      },
-      {
-        "q": "Su geçirmez mi?",
-        "a": "Evet, GORE-TEX membran kullanılıyor ve üst yüzde dikişsiz ısıl yapıştırma bulunuyor."
-      }
-    ],
-    "manufacturerUrl": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
-    "sources": [
-      {
-        "url": "https://five-gloves.com/en/catalog/motorcycle/winter/winter_gore-tex/wfx-prime-evo-gtx/",
-        "type": "manufacturer",
-        "label": "FIVE Gloves – WFX PRIME EVO GTX ürün sayfası",
-        "checkedAt": "2026-10-07"
-      }
-    ],
-    "lastCheckedAt": "2026-10-07",
-    "dataConfidence": "high",
-    "unverified": [
-      "sizeChart",
-      "specs.madeIn",
-      "priceRange"
-    ],
-    "colors": [
-      "Black",
-      "Black / Gray"
-    ],
-    "sizes": [
-      "05/3XS",
-      "06/2XS",
-      "07/XS",
-      "08/S",
-      "09/M",
-      "10/L",
-      "11/XL",
-      "12/2XL",
-      "13/3XL",
-      "14/4XL",
-      "15/5XL"
-    ],
-    "sizeChart": [],
-    "sizeChartMeasure": null,
-    "buyerInsights": null,
-    "specs": {
-      "gender": "erkek",
-      "season": "kis",
-      "material": "Softshell üst yapı, tam tahıllı keçi derisi avuç, PrimaLoft Gold 200 g ve Grip Control 60 g yalıtım, SuperFabric",
-      "materialClass": "karma",
-      "ceStandard": "EN 13594:2015",
-      "ceClass": "Level 1 KP",
-      "protectors": [
-        {
-          "area": "parmak",
-          "standard": null,
-          "level": null,
-          "included": true
-        },
-        {
-          "area": "avuc",
-          "standard": null,
-          "level": null,
-          "included": true
-        }
-      ],
-      "waterproof": true,
-      "membrane": "GORE-TEX Grip",
-      "airbagCompatible": null,
-      "ventilation": null,
-      "closure": "Su itici YKK fermuar, bilek ve kol ağzında cırt cırtlı ayar",
       "madeIn": null
     }
   }

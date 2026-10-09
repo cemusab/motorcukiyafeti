@@ -1676,8 +1676,28 @@
       "tech90/impactec-tp-06",
       "dainese/pro-armor-back-long-2-0"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 2430,
+      "max": 2430,
+      "currency": "TRY",
+      "checkedAt": "2026-10-09",
+      "note": "DRD Motorbikes ürün sayfası"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "price": 2430,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "M"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-09"
+      }
+    ],
     "faq": [
       {
         "q": "Bu koruyucu hangi boya uygun?",
@@ -1695,15 +1715,20 @@
         "type": "manufacturer",
         "label": "SAS-TEC – SC-1/FB2-L ürün sayfası",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://drdmotorbikes.com/sas-tec-sc-1/fb-2-level-2-sirt-koruma",
+        "type": "retailer",
+        "label": "DRD Motorbikes ürün sayfası",
+        "checkedAt": "2026-10-09"
       }
     ],
-    "lastCheckedAt": "2026-10-07",
+    "lastCheckedAt": "2026-10-09",
     "dataConfidence": "high",
     "unverified": [
       "specs.ceStandard",
       "specs.protectors.standard",
       "sizeChart",
-      "priceRange",
       "specs.madeIn"
     ],
     "colors": [

@@ -64,7 +64,7 @@ const SUCCESSORS: Record<string, string> = {
   "ls2-ff327-challenger": "ls2/challenger-ii",
 };
 
-const OLD_BRANDS = ["shoei", "schuberth", "agv", "hjc", "ls2", "cardo", "sena", "alpinestars", "dainese", "tech90", "arai", "nolan", "revit", "spidi", "five-gloves", "knox", "tcx", "sidi", "forma", "interphone", "shark", "scorpion"];
+const OLD_BRANDS = ["shoei", "schuberth", "agv", "hjc", "ls2", "cardo", "sena", "alpinestars", "dainese", "tech90", "arai", "nolan", "revit", "spidi", "knox", "tcx", "sidi", "forma", "interphone", "shark", "scorpion"];
 
 function legacyRedirects() {
   const dir = path.join(process.cwd(), "src", "data");
@@ -95,9 +95,11 @@ function legacyRedirects() {
     { source: "/saticilar", destination: "/markalar", permanent: true },
     { source: "/hesabim", destination: "/favoriler", permanent: true },
     { source: "/admin/:path*", destination: "/", permanent: false },
-    { source: "/aksesuar", destination: "/rehber", permanent: true },
-    { source: "/termal-giyim", destination: "/rehber/kislik-motosiklet-ekipmani", permanent: true },
-    { source: "/yagmurluk", destination: "/rehber/yagmurda-motosiklet-ekipmani", permanent: true },
+    // /aksesuar ve /yagmurluk artık kategori sayfası; eski sitenin bu adreslere ait yönlendirmeleri kaldırıldı (2026-10-09).
+    { source: "/termal-giyim", destination: "/termal", permanent: true },
+    // Üretici sitesi askıya alınan ve geçici olarak yayından kaldırılan ürünler (docs/askiya-alinan/).
+    { source: "/eldiven/five-gloves/:slug", destination: "/eldiven", permanent: false },
+    { source: "/marka/five-gloves", destination: "/markalar", permanent: false },
   );
   return out;
 }
