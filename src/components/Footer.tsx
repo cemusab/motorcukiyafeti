@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CATEGORIES } from "@/data/categories";
+import { GEAR_CATEGORIES } from "@/data/categories";
 import { getBrands, getGuides } from "@/lib/data";
 import { legalReady } from "@/lib/legal";
 import { ConsentLink } from "./Consent";
@@ -46,7 +46,7 @@ export function Footer() {
         <div>
           <p className="mb-3 font-display text-lg font-bold">Kategoriler</p>
           <ul className={col}>
-            {CATEGORIES.map((c) => (
+            {GEAR_CATEGORIES.map((c) => (
               <li key={c.slug}>
                 <Link href={`/${c.slug}`} className="hover:text-white">
                   {c.name}
@@ -56,6 +56,11 @@ export function Footer() {
             <li>
               <Link href="/kadin" className="hover:text-white">
                 Kadın
+              </Link>
+            </li>
+            <li>
+              <Link href="/motor-bakimi" className="hover:text-white">
+                Motor bakımı (lastik, yağ)
               </Link>
             </li>
             <li>

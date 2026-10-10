@@ -7,7 +7,7 @@ import { SearchBox } from "@/components/SearchBox";
 import { Container, SectionTitle } from "@/components/ui";
 import { Wizard } from "@/components/Wizard";
 import { BudgetLinks } from "@/components/BudgetLinks";
-import { CATEGORIES } from "@/data/categories";
+import { GEAR_CATEGORIES } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import { editorPicks, wizardBikes, wizardProducts } from "@/lib/catalog";
 import { displayName, getBrands, getGuide, getGuides, getMedia, getProducts, isLocal, productsIn } from "@/lib/data";
@@ -170,7 +170,7 @@ export default function Home() {
 
       <Container className="mt-12">
         <ul className="grid grid-cols-3 gap-2 sm:grid-cols-5 lg:grid-cols-9">
-          {CATEGORIES.map((c) => {
+          {GEAR_CATEGORIES.map((c) => {
             const img = coverImage(c.slug);
             return (
               <li key={c.slug}>

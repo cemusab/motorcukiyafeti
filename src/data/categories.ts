@@ -16,6 +16,8 @@ export type Category = {
   intro: string;
   icon: IconName;
   guide?: string; // ilgili ana rehber slug'ı
+  /** Motor bakımı kategorisi (lastik, yağ): ana menüde değil "Motor bakımı" başlığı altında gösterilir; site kimliği kıyafet/koruma ekipmanıdır. */
+  maintenance?: boolean;
   groups: { title: string; items: Subcategory[] }[];
 };
 
@@ -270,6 +272,7 @@ export const CATEGORIES: Category[] = [
     name: "Lastik",
     short: "Lastik",
     icon: "lastik",
+    maintenance: true,
     intro: "Motosiklet lastiği; kullanım tipine (sport, touring, adventure, scooter, arazi) ve motorunun fabrika ebadına göre seçilir. Ebatlar ve teknik bilgiler üreticinin resmi listesinden.",
     guide: "motosiklet-lastik-markalari",
     groups: [
@@ -294,6 +297,7 @@ export const CATEGORIES: Category[] = [
     name: "Yağ ve Bakım",
     short: "Yağ & Bakım",
     icon: "yag",
+    maintenance: true,
     intro: "Motosiklet motor yağı JASO sınıfı (vitesli motorda MA/MA2, scooter'da MB) ve kılavuzdaki viskoziteye göre seçilir. Zincir, fren ve soğutma bakım ürünleri de burada.",
     guide: "motosiklet-yagi-ve-bakim-urunleri",
     groups: [
@@ -317,6 +321,10 @@ export const CATEGORIES: Category[] = [
     ],
   },
 ];
+
+/** Ana menü, ana sayfa ve footer'daki ekipman kategorileri (motor bakımı hariç). */
+export const GEAR_CATEGORIES = CATEGORIES.filter((c) => !c.maintenance);
+export const MAINTENANCE_CATEGORIES = CATEGORIES.filter((c) => c.maintenance);
 
 export const NAV_EXTRA = [
   { href: "/markalar", label: "Markalar" },

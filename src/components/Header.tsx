@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { CATEGORIES, NAV_EXTRA } from "@/data/categories";
+import { GEAR_CATEGORIES, NAV_EXTRA } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
 import { getGuides, productsIn } from "@/lib/data";
 import { Icon } from "./Icon";
@@ -34,13 +34,14 @@ export function Header() {
       { label: "Karşılaştır", href: "/karsilastir", icon: "compare" },
       { label: "Kask + İnterkom", href: "/interkom-uyumlulugu", icon: "interkom" },
     ],
-    categories: CATEGORIES.map((c) => ({
+    categories: GEAR_CATEGORIES.map((c) => ({
       name: c.name,
       icon: c.icon,
       href: `/${c.slug}`,
       items: c.groups.flatMap((g) => g.items.filter((i) => productsIn(c.slug, i.slug).length).map((i) => ({ name: i.name, href: `/${c.slug}/${i.slug}` }))),
     })),
     extra: [
+      { label: "Motor bakımı: lastik ve yağ", href: "/motor-bakimi" },
       { label: "Motosikletime Göre", href: "/motosikletime-gore" },
       { label: "Motoruma Göre (model)", href: "/motor" },
       { label: "Yeni Başlayanlar", href: "/yeni-baslayanlar" },
@@ -78,6 +79,7 @@ export function Header() {
             <Link href="/motosikletime-gore" className="hover:text-red xl:hidden">Motosikletime göre</Link>
             <Link href="/markalar" className="hover:text-red xl:hidden">Markalar</Link>
             <Link href="/rehber" className="hover:text-red xl:hidden">Rehberler</Link>
+            <Link href="/motor-bakimi" className="hover:text-red">Motor bakımı</Link>
             <Link href="/hakkimizda" className="hover:text-red">Hakkımızda</Link>
             <Link href="/iletisim" className="hover:text-red">İletişim</Link>
           </nav>
@@ -121,7 +123,7 @@ export function Header() {
 
       <MobileCategoryStrip
         items={[
-          ...CATEGORIES.map((c) => ({ href: `/${c.slug}`, label: c.short, icon: c.icon })),
+          ...GEAR_CATEGORIES.map((c) => ({ href: `/${c.slug}`, label: c.short, icon: c.icon })),
           { href: "/kadin", label: "Kadın", icon: null },
           { href: "/motosikletime-gore/kurye", label: "Kurye", icon: null },
         ]}
@@ -129,7 +131,7 @@ export function Header() {
 
       <nav aria-label="Ana menü" className="hidden bg-red lg:block">
         <ul className="mx-auto flex max-w-7xl items-stretch justify-between px-2 font-display text-[17px] font-bold tracking-wide whitespace-nowrap uppercase">
-          {CATEGORIES.map((c, idx) => (
+          {GEAR_CATEGORIES.map((c, idx) => (
             <li key={c.slug} className="group relative">
               <Link
                 href={`/${c.slug}`}

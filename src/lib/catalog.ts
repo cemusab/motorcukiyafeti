@@ -227,6 +227,7 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const { category, sub } of allSubcategories()) add(`/${category.slug}/${sub.slug}`, "kategori", productsIn(category.slug, sub.slug).length > 0);
   for (const m of MOTO_TYPES) add(`/motosikletime-gore/${m.slug}`, "kategori");
   if (getMotorcycles().length) add("/motor", "statik");
+  add("/motor-bakimi", "statik");
   if (getMotorcycles().some((m) => m.tech)) add("/motor/karsilastir", "statik");
   if (getMotorcycles().filter((m) => m.tech?.seatHeightMm != null).length >= 10) add("/motor/sele-yuksekligi", "statik");
   for (const p of motorPairs()) add(`/motor/karsilastir/${p.slug}`, "karsilastirma", p.indexable);
