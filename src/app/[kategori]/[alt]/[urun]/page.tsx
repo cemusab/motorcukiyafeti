@@ -13,7 +13,7 @@ import { RelatedLinks } from "@/components/Related";
 import { Container, Notice } from "@/components/ui";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { compatForHelmet, compatForIntercom, compatSlug, pairsFor, priceAlternatives } from "@/lib/catalog";
+import { compatForHelmet, compatForIntercom, compatSlug, pairsFor, priceAlternatives, bikesForProduct } from "@/lib/catalog";
 import {
   brandHasPage,
   brandName,
@@ -590,6 +590,27 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
           </div>
         </Container>
       )}
+
+      {(p.category === "lastik" || p.category === "yag-bakim") && (() => {
+        const bikes = bikesForProduct(p);
+        return bikes.length > 0 ? (
+          <Container className="mt-14">
+            <h2 className="mb-1 font-display text-3xl font-bold">Uyumlu motor modelleri</h2>
+            <p className="mb-4 text-sm text-mute">
+              {p.category === "lastik" ? "Fabrika lastik ebadı bu modelin ebat listesinde olan motorlar." : "Üreticinin önerdiği viskozite ve JASO sınıfı bu yağla uyuşan motorlar."} Kesin bilgi için motorunun kılavuzuna bak.
+            </p>
+            <ul className="flex flex-wrap gap-2">
+              {bikes.slice(0, 30).map((b) => (
+                <li key={b.slug}>
+                  <Link href={`/motor/${b.slug}`} className="block rounded-full border border-line bg-white px-3 py-1.5 text-sm font-semibold hover:border-ink hover:text-red">
+                    {b.brand} {b.model}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </Container>
+        ) : null;
+      })()}
 
       {rivals.length > 0 && (
         <Container className="mt-14">

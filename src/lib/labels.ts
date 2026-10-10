@@ -1,5 +1,5 @@
 /** Teknik özellik etiketleri ve biçimlendirme: ürün sayfası, karşılaştırma tablosu ve kartlar aynı tanımları kullanır. */
-import type { Accessory, Apparel, Helmet, Intercom, Product } from "@/data/schema";
+import type { Accessory, Apparel, Care, Helmet, Intercom, Product, Tire } from "@/data/schema";
 
 export const HELMET_TYPE: Record<Helmet["specs"]["helmetType"], string> = {
   kapali: "Kapalı kask",
@@ -12,7 +12,36 @@ const SEASON: Record<string, string> = { yaz: "Yazlık", kis: "Kışlık", "4-me
 const GENDER: Record<string, string> = { erkek: "Erkek", kadin: "Kadın", unisex: "Unisex" };
 const CAT: Record<string, string> = { mont: "mont", eldiven: "eldiven", bot: "bot", pantolon: "pantolon", koruma: "koruyucu", yagmurluk: "yağmurluk", termal: "termal giyim" };
 
+export const TIRE_USAGE: Record<Tire["specs"]["usage"], string> = {
+  sport: "Sport lastik",
+  hypersport: "Hypersport lastik",
+  "sport-touring": "Sport-touring lastik",
+  touring: "Touring lastik",
+  adventure: "Adventure lastik",
+  scooter: "Scooter lastiği",
+  sehir: "Şehir lastiği",
+  arazi: "Arazi lastiği",
+  custom: "Custom / cruiser lastiği",
+};
+export const CARE_TYPE: Record<Care["specs"]["productType"], string> = {
+  "motor-yagi": "Motor yağı",
+  "zincir-yagi": "Zincir yağı",
+  "zincir-temizleyici": "Zincir temizleyici",
+  "fren-hidroligi": "Fren hidroliği",
+  "sogutma-sivisi": "Soğutma sıvısı",
+  temizlik: "Temizlik ürünü",
+  diger: "Bakım ürünü",
+};
+const ENGINE: Record<string, string> = { "4t-vitesli": "4 zamanlı vitesli", "4t-scooter": "4 zamanlı scooter", "2t": "2 zamanlı" };
+const BASE_OIL: Record<string, string> = { mineral: "Mineral", "yari-sentetik": "Yarı sentetik", "tam-sentetik": "Tam sentetik" };
+const CONSTRUCTION: Record<string, string> = { radyal: "Radyal", capraz: "Çapraz (diyagonal)", karma: "Karma" };
+
 export function productTypeLabel(p: Product) {
+  if (p.category === "lastik") return TIRE_USAGE[p.specs.usage];
+  if (p.category === "yag-bakim") {
+    const s = p.specs;
+    return s.productType === "motor-yagi" ? [s.baseOil ? BASE_OIL[s.baseOil] : null, s.engineType ? ENGINE[s.engineType] : null, "motor yağı"].filter(Boolean).join(" ").replace(/^./, (c) => c.toLocaleUpperCase("tr")) : CARE_TYPE[s.productType];
+  }
   if (p.category === "kask") return HELMET_TYPE[p.specs.helmetType];
   if (p.category === "interkom") return p.specs.mesh ? "Mesh + Bluetooth interkom" : "Bluetooth interkom";
   if (p.category === "aksesuar") return p.specs.accessoryType;
@@ -43,6 +72,16 @@ export function keyChips(p: Product): string[] {
     return [s.mesh ? "Mesh" : null, s.bluetoothVersion ? `BT ${s.bluetoothVersion}` : null, s.talkTimeHours ? `${s.talkTimeHours} sa konuşma` : null, s.usbC ? "USB-C" : null]
       .filter(Boolean)
       .slice(0, 4) as string[];
+  }
+  if (p.category === "lastik") {
+    const s = p.specs;
+    return [s.construction ? CONSTRUCTION[s.construction] : null, s.onOffRoad ? `Yol/arazi ${s.onOffRoad}` : null, s.season === "kis" ? "Kışa uygun" : s.season === "4-mevsim" ? "4 mevsim" : null, ...s.markings.filter((m) => m !== "TL").slice(0, 1)]
+      .filter(Boolean)
+      .slice(0, 4) as string[];
+  }
+  if (p.category === "yag-bakim") {
+    const s = p.specs;
+    return [s.viscosity, s.jaso ? `JASO ${s.jaso}` : null, s.dotClass, s.volumeL ? `${String(s.volumeL).replace(".", ",")} L` : null].filter(Boolean).slice(0, 4) as string[];
   }
   if (p.category === "aksesuar") {
     const s = p.specs;
@@ -167,8 +206,37 @@ export const ACCESSORY_SPECS: SpecRow<Accessory>[] = [
   { key: "specs.madeIn", label: "Üretim ülkesi", get: (p) => p.specs.madeIn },
 ];
 
+const list = (a: string[]) => (a.length ? a.join(", ") : null);
+export const TIRE_SPECS: SpecRow<Tire>[] = [
+  { key: "specs.usage", label: "Kullanım tipi", get: (p) => TIRE_USAGE[p.specs.usage] },
+  { key: "specs.construction", label: "Yapı", get: (p) => (p.specs.construction ? CONSTRUCTION[p.specs.construction] : null) },
+  { key: "specs.onOffRoad", label: "Yol / arazi oranı (üretici)", get: (p) => p.specs.onOffRoad },
+  { key: "specs.season", label: "Mevsim", get: (p) => (p.specs.season ? { yaz: "Yaz", "4-mevsim": "4 mevsim", kis: "Kışa uygun" }[p.specs.season] : null) },
+  { key: "specs.markings", label: "İşaretler", get: (p) => list(p.specs.markings) },
+  { key: "specs.sizesFront", label: "Ön ebatlar", get: (p) => list(p.specs.sizesFront) },
+  { key: "specs.sizesRear", label: "Arka ebatlar", get: (p) => list(p.specs.sizesRear) },
+  { key: "specs.compound", label: "Bileşim", get: (p) => p.specs.compound },
+  { key: "specs.features", label: "Özellikler", get: (p) => list(p.specs.features) },
+  { key: "specs.madeIn", label: "Üretim ülkesi", get: (p) => p.specs.madeIn },
+];
+export const CARE_SPECS: SpecRow<Care>[] = [
+  { key: "specs.productType", label: "Ürün tipi", get: (p) => CARE_TYPE[p.specs.productType] },
+  { key: "specs.engineType", label: "Motor tipi", get: (p) => (p.specs.engineType ? ENGINE[p.specs.engineType] : null) },
+  { key: "specs.viscosity", label: "Viskozite", get: (p) => p.specs.viscosity },
+  { key: "specs.jaso", label: "JASO", get: (p) => p.specs.jaso },
+  { key: "specs.api", label: "API", get: (p) => p.specs.api },
+  { key: "specs.baseOil", label: "Baz yağ", get: (p) => (p.specs.baseOil ? BASE_OIL[p.specs.baseOil] : null) },
+  { key: "specs.dotClass", label: "DOT sınıfı", get: (p) => p.specs.dotClass },
+  { key: "specs.volumeL", label: "Hacim", get: (p) => p.specs.volumeL, fmt: (v) => (v ? `${String(v).replace(".", ",")} L` : "—") },
+  { key: "specs.approvals", label: "Üretici onayları", get: (p) => list(p.specs.approvals) },
+  { key: "specs.features", label: "Özellikler", get: (p) => list(p.specs.features) },
+  { key: "specs.madeIn", label: "Üretim ülkesi", get: (p) => p.specs.madeIn },
+];
+
 export function specDefs(category: string) {
-  return (category === "kask" ? HELMET_SPECS : category === "interkom" ? INTERCOM_SPECS : category === "aksesuar" ? ACCESSORY_SPECS : APPAREL_SPECS) as SpecRow<Product>[];
+  return (
+    category === "kask" ? HELMET_SPECS : category === "interkom" ? INTERCOM_SPECS : category === "aksesuar" ? ACCESSORY_SPECS : category === "lastik" ? TIRE_SPECS : category === "yag-bakim" ? CARE_SPECS : APPAREL_SPECS
+  ) as SpecRow<Product>[];
 }
 
 export function specRows(p: Product): { key: string; label: string; value: string; unverified: boolean }[] {

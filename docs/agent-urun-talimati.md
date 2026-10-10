@@ -27,6 +27,10 @@ Mevcut dosyaları DÜZENLEME. Başka ekipler başka markalar üzerinde paralel �
 9. Slug: küçük harf, ascii, tire. Model adını markasız yaz (name: "Neotec 3", brand: "shoei").
 10. Güncel olarak satılan modeller seç; üretimden kalkmışsa ekleme.
 
+## Lastik ve yağ/bakım (Tur 4'ten itibaren)
+- Lastik: `TireSchema` (category "lastik"). Kayıt lastik MODELİ; `sizesFront`/`sizesRear` üreticinin resmi ebat listesinden "120/70 ZR17" biçiminde. Motor sayfalarındaki fabrika ebadıyla genişlik/oran/jant üzerinden otomatik eşleşir (`src/lib/catalog.ts > normTireSize`). Fiyat ebada göre değişir; örnek ebadı priceRange.note'a yaz. sizeChart [] ve unverified'a sizeChart yazılmaz.
+- Yağ/bakım: `CareSchema` (category "yag-bakim"). JASO/API/viskozite/baz yağ/onaylar yalnız üreticinin TDS'inden. Motor sayfasında üreticinin önerdiği viskozite + JASO ile birebir eşleşir (MA isteyen motora MA ve MA2; MA2 ve MB birebir). Her viskozite ayrı kayıt.
+
 ## Medya
 - 1–4 görsel: yalnız üreticinin kendi alan adı/CDN'i; `curl -sI` ile 200 + image/* doğrula; alt Türkçe; credit = marka adı; sourcePage = manufacturerUrl.
 - 0–3 YouTube videosu: `curl -s "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ID&format=json"` ile doğrula, dönen title ve author_name'i aynen kullan; video tam bu model hakkında olmalı; Türkçe varsa öncelik; kind: resmi/inceleme; lang; checkedAt.

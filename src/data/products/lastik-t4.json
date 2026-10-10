@@ -1,0 +1,2913 @@
+[
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "capra-x",
+    "brand": "anlas",
+    "name": "Capra X",
+    "subcategories": [
+      "adventure-lastik",
+      "arazi-lastik"
+    ],
+    "summary": "Anlas'ın Düzce'de ürettiği, aramid kuşakla güçlendirilmiş karkaslı, M+S işaretli çivili enduro/adventure lastiği; 21/19 inç ön ve 17/18 inç arka ebatlarda.",
+    "description": [
+      "Capra X, yerli üretici Anlas'ın arazi ağırlıklı adventure ve enduro motosikletler için sunduğu çivili lastik. Üretici; çakıl, kum, kayalık ve çamur gibi zeminlerde çekiş için özel sırt deseni, çamurda tahliyeyi artıran V profilli desen ve aramid ile güçlendirilmiş karkas kullandığını belirtiyor. Hamurun arazide darbeye dayanıklı ve uzun ömürlü olacak şekilde geliştirildiği yazıyor.",
+      "Ebat tablosunda ön için 90/90-21, 110/80-19 ve 120/70-19; arka için 130/80-17, 140/80-17, 150/70-17, 170/60-17 ve 150/70-18 seçenekleri var. Bu ebatlar kuşaklı çapraz (B) yapıda ve tamamı M+S işaretli. Üretici asfalt/arazi oranı açıklamıyor; blok yapısı ve kullanım tanımı lastiğin arazi tarafına yakın durduğunu gösteriyor. Asfaltta uzun otoban etaplarında sessizlik ve aşınma, yol odaklı adventure lastikleri kadar iyi olmayacaktır."
+    ],
+    "forWho": [
+      "Toprak yol, orman yolu ve hafif enduro parkurlarına düzenli giren adventure sürücüleri",
+      "Tenere 700, Africa Twin, KTM 390/790 Adventure gibi 21/18 veya 21/17 jantlı motor sahipleri",
+      "Yerli üretim ve Türkiye'de bayi ağı olan bir arazi lastiği arayanlar"
+    ],
+    "notFor": [
+      "Yılın büyük kısmını asfaltta, otobanda geçiren sürücüler",
+      "Kurye kullanımı: çivili desen şehir içi ıslak asfaltta ve yüksek km'de doğru seçim değil"
+    ],
+    "pros": [
+      "Aramid kuşakla güçlendirilmiş karkas",
+      "Çamurda tahliye için V profilli geniş kanallar",
+      "Yerli üretim, liste fiyatı üreticinin sitesinde açık",
+      "Popüler 21/18 ve 21/17 adventure ebatları mevcut"
+    ],
+    "cons": [
+      "Asfalt/arazi oranı üretici tarafından verilmiyor",
+      "Çivili desen asfaltta yol lastiğine göre daha gürültülü ve hızlı aşınır",
+      "Ebatlar radyal değil, kuşaklı çapraz yapıda"
+    ],
+    "usage": {
+      "sehir": "Kuru asfaltta kullanılabilir ama şehir içi yoğun kullanım için tasarlanmamış; ıslak zeminde dikkat ister.",
+      "uzunYol": "Toprak ağırlıklı rotalarda mantıklı. Asfalt ağırlıklı uzun yolda yol odaklı bir adventure lastiği daha konforlu olur.",
+      "yagmur": "Çamurlu yüzeyde tahliye için tasarlanmış; ıslak asfaltta silika ağırlıklı yol lastikleri kadar iddialı değil.",
+      "kis": "M+S işareti var ama kış lastiği değil; soğukta asfaltta tutuş sınırlı kalır."
+    },
+    "verdict": "Capra X, arazi tarafı ağır basan adventure sürüşü için yerli ve fiyatı açık bir seçenek. Aramid takviyeli karkası taşlık zeminde güven veriyor. Asfaltta çok km yapıyorsan Capra RD ya da yol odaklı bir rakip daha doğru olur.",
+    "rivals": [
+      "metzeler/karoo-4",
+      "continental/tkc-70",
+      "anlas/capra-rd"
+    ],
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/capra-x",
+        "price": 6300.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "90/90-21"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/capra-x",
+        "price": 10340.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "150/70-18"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Capra X tamamen arazi lastiği mi?",
+        "a": "Anlas onu offroad için tasarlanmış bir enduro/adventure lastiği olarak tanımlıyor ve tüm ebatları M+S işaretli. Asfaltta kullanılabilir, ama asfalt ağırlıklı sürüş için Capra RD daha uygun."
+      },
+      {
+        "q": "Hangi ebatlar var?",
+        "a": "Ön 90/90-21, 110/80-19, 120/70-19; arka 130/80-17, 140/80-17, 150/70-17, 170/60-17 ve 150/70-18 (Anlas ebat tablosu)."
+      }
+    ],
+    "manufacturerUrl": "https://www.anlas.com/tr/capra-x",
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/capra-x",
+        "type": "manufacturer",
+        "label": "Anlas – Capra X ürün sayfası ve ebat/fiyat tablosu",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda (üretim)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "capraz",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "110/80-19",
+        "120/70-19"
+      ],
+      "sizesRear": [
+        "130/80-17",
+        "140/80-17",
+        "150/70-17",
+        "170/60-17",
+        "150/70-18"
+      ],
+      "compound": "Arazi için geliştirilmiş, darbe dayanımı yüksek hamur",
+      "features": [
+        "Aramid kuşakla güçlendirilmiş karkas",
+        "V profilli desen, geniş tahliye kanalları",
+        "Kuşaklı çapraz (B) yapı",
+        "Bağımsız blok geometrisi ile titreşim ve ses azaltma (üretici beyanı)"
+      ],
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 6300.0,
+      "max": 10340.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 90/90-21, 150/70-18. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "capra-rd",
+    "brand": "anlas",
+    "name": "Capra RD",
+    "subcategories": [
+      "adventure-lastik",
+      "touring-lastik"
+    ],
+    "summary": "Enduro-cadde (adventure) motosikletler için %90 asfalt / %10 arazi beyanlı, 0° çelik radyal kuşaklı yerli Anlas lastiği; 21/18, 19/17 ve 17/17 ebatları var.",
+    "description": [
+      "Capra RD, Anlas'ın asfalt ağırlıklı adventure sürücüleri için geliştirdiği radyal lastik. Üretici yapıyı %90 onroad – %10 offroad olarak tanımlıyor; yani hafif toprak yola girebilen ama esas olarak asfaltta uzun yol için tasarlanmış bir lastik. 0° çelik radyal kuşak, adventure motorlarına özel profil ve ıslak zeminde su tahliyesi için V profilli geniş kanallar öne çıkan teknik başlıklar.",
+      "Ebat yelpazesi geniş: ön 90/90-21, 110/80 R19, 120/70 ZR19 ve 120/70 ZR17; arka 150/70 R18, 150/70 R17, 160/60 ZR17, 170/60 R17, 180/55 ZR17, 190/55 ZR17 ve 160/60 R15. Bu sayede hem Tenere/Africa Twin gibi 21 inç önlü motorlara hem de 17 inç jantlı crossover modellere takılabiliyor. Fiyatlar Anlas'ın kendi sitesindeki tabloda açıkça yazıyor."
+    ],
+    "forWho": [
+      "Asfaltta uzun yol yapan, arada stabilize yola giren adventure sürücüleri",
+      "V-Strom, Tracer, NC750X, Africa Twin gibi motorlarda yerli radyal lastik isteyenler",
+      "Fiyatı şeffaf, Türkiye'de üretilen bir alternatif arayanlar"
+    ],
+    "notFor": [
+      "Çamur, kum ve taşlık parkurda ciddi arazi sürüşü yapanlar",
+      "Pist veya agresif sportif sürüş odaklı kullanıcılar"
+    ],
+    "pros": [
+      "Üretici beyanı %90/%10 asfalt-arazi dengesi",
+      "0° çelik radyal kuşak ve adventure motorlarına özel profil",
+      "21, 19, 18, 17 ve 15 inç jant seçenekleri",
+      "Liste fiyatı Anlas'ın sitesinde açık"
+    ],
+    "cons": [
+      "Arazi kapasitesi hafif toprak yolla sınırlı",
+      "Bağımsız uzun dönem aşınma testi verisine ulaşamadık"
+    ],
+    "usage": {
+      "sehir": "Asfalt odaklı desen şehir içinde sorunsuz; ağır adventure motorlarda trafikte dengeli.",
+      "uzunYol": "Ana kullanım alanı. Radyal yapı ve asfalt odaklı desen uzun etaplara uygun.",
+      "yagmur": "Üretici V profilli geniş kanallarla ıslak zeminde tahliyeyi öne çıkarıyor.",
+      "kurye": "Büyük adventure motorla çalışan kurye için kullanılabilir; ama küçük hacimli kurye motorlarına uygun ebat yok."
+    },
+    "verdict": "Capra RD, asfaltta uzun yol yapıp arada toprak yola sapan adventure sürücüsü için mantıklı bir yerli seçim. Ebat yelpazesi geniş ve fiyatı açık. Arazi beklentin yüksekse Capra X ya da daha arazi odaklı bir lastiğe bakmalısın.",
+    "rivals": [
+      "michelin/anakee-road",
+      "metzeler/tourance-next-2",
+      "pirelli/scorpion-trail-iii"
+    ],
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/capra-rd",
+        "price": 6450.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "90/90-21"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/capra-rd",
+        "price": 7640.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/capra-rd",
+        "price": 11150.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "150/70 R18"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Capra RD ne kadar arazi yapabilir?",
+        "a": "Anlas yapıyı %90 asfalt, %10 arazi olarak tanımlıyor. Stabilize ve hafif toprak yol için uygun; çamur ve kum için çivili bir lastik gerekir."
+      },
+      {
+        "q": "17 inç jantlı motorlara uyar mı?",
+        "a": "Evet, 120/70 ZR17 ön ve 160/60 ZR17, 180/55 ZR17, 190/55 ZR17 gibi arka ebatları var."
+      }
+    ],
+    "manufacturerUrl": "https://www.anlas.com/tr/capra-rd",
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/capra-rd",
+        "type": "manufacturer",
+        "label": "Anlas – Capra RD ürün sayfası ve ebat/fiyat tablosu",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda (üretim)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": "90/10",
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "110/80 R19",
+        "120/70 ZR19",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "150/70 R18",
+        "150/70 R17",
+        "160/60 ZR17",
+        "170/60 R17",
+        "180/55 ZR17",
+        "190/55 ZR17",
+        "160/60 R15"
+      ],
+      "compound": "Gelişmiş hamur karışımı; ısı kontrolü için kılcal kanallar (üretici beyanı)",
+      "features": [
+        "0° çelik radyal kuşak",
+        "Enduro-cadde motorlarına özel profil",
+        "V profilli geniş tahliye kanalları"
+      ],
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 6450.0,
+      "max": 11150.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 90/90-21, 120/70 ZR17, 150/70 R18. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "viento-sport",
+    "brand": "anlas",
+    "name": "Viento Sport",
+    "subcategories": [
+      "sport-lastik"
+    ],
+    "summary": "Anlas'ın supersport sınıfındaki yerli radyal lastiği: değişken sarımlı 0° çelik kuşak ve silika zengin sırt hamuru; 120/70 ZR17 ön, 180/55–190/55 ZR17 arka.",
+    "description": [
+      "Viento Sport, Anlas'ın cadde ve pist günü kullanımını hedefleyen supersport lastiği. Üretici, daha yüksek viraj performansı ve hassas gidon hissi için değişken sarım teknolojili karkas, sıfır derece çelik kuşak ve silika zengin sırt hamuru kullandığını belirtiyor.",
+      "Ön tarafta 110/70 ZR17 ve 120/70 ZR17, arkada 140/70 R17, 150/60 ZR17, 160/60 ZR17, 180/55 ZR17, 190/50 ZR17 ve 190/55 ZR17 ebatları var. Bu yelpaze 300–400 cc sport ve naked motorlardan 600 cc ve üstü supersport modellere kadar uzanıyor. Uluslararası markaların aynı sınıftaki lastiklerine göre liste fiyatı daha düşük; bağımsız test verisi ise daha sınırlı."
+    ],
+    "forWho": [
+      "Naked ve sport motorunda yerli, uygun fiyatlı bir sport lastik isteyenler",
+      "Virajlı yolda hafta sonu sürüşü yapan, ara sıra pist gününe katılan sürücüler",
+      "R25, MT-25, Ninja 400 gibi 110/70–140/70 ve 150/60 ebatlı küçük sport motor sahipleri"
+    ],
+    "notFor": [
+      "Yağmurda çok km yapan ve uzun ömür önceliği olan sürücüler; sport-touring lastik daha uygun",
+      "Kurye kullanımı: sport hamur yüksek günlük km'de hızlı aşınır"
+    ],
+    "pros": [
+      "Silika zengin sırt hamuru",
+      "0° çelik kuşak ve değişken sarım teknolojisi",
+      "Küçük sport motorlar için 110/70 ve 140/70 ebatları da var",
+      "Liste fiyatı Anlas'ın sitesinde açık"
+    ],
+    "cons": [
+      "Bağımsız karşılaştırma testlerinde az yer alıyor",
+      "Sport hamur nedeniyle touring lastiklerine göre ömür kısa olacaktır"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama sport lastik soğukken tam tutuşa geç ulaşır; şehir içi kısa sürüşte avantajı az.",
+      "uzunYol": "Virajlı rotalarda keyifli; düz otoban ağırlıklı uzun yolda arka lastik ortası daha hızlı aşınır.",
+      "yagmur": "Silika katkılı hamur ıslakta yardımcı; yine de yağmurda touring lastiği kadar geniş güvenlik payı beklenmemeli.",
+      "sport": "Ana kullanım alanı: virajlı yol ve pist günü."
+    },
+    "verdict": "Viento Sport, sport motoruna yerli ve bütçe dostu bir lastik arayan için değerlendirilmeye değer. Teknik tarif ciddi, liste fiyatı açık. Bağımsız test verisi az olduğu için ıslak zemin ve ömür konusunda ilk binlerce km'de temkinli olmak gerekir.",
+    "rivals": [
+      "pirelli/diablo-rosso-iv",
+      "bridgestone/battlax-hypersport-s23",
+      "michelin/power-6"
+    ],
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/viento-sport",
+        "price": 6840.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/viento-sport",
+        "price": 9860.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "180/55 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Viento Sport pistte kullanılabilir mi?",
+        "a": "Anlas lastiği hem cadde hem pist sürüşü için geliştirdiğini belirtiyor. Pist günü için lastik basıncı ve ısınma konusunda bayi önerisine uy."
+      },
+      {
+        "q": "Küçük hacimli sport motorlara uygun ebat var mı?",
+        "a": "Evet, 110/70 ZR17 ön ve 140/70 R17, 150/60 ZR17 arka ebatları var."
+      }
+    ],
+    "manufacturerUrl": "https://www.anlas.com/tr/viento-sport",
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/viento-sport",
+        "type": "manufacturer",
+        "label": "Anlas – Viento Sport ürün sayfası ve ebat/fiyat tablosu",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda (üretim)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season"
+    ],
+    "specs": {
+      "usage": "sport",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "110/70 ZR17",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "140/70 R17",
+        "150/60 ZR17",
+        "160/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": "Silika zengin sırt hamuru",
+      "features": [
+        "Değişken sarım teknolojili karkas",
+        "Sıfır derece çelik kuşak"
+      ],
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 6840.0,
+      "max": 9860.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 120/70 ZR17, 180/55 ZR17. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "winter-grip-2",
+    "brand": "anlas",
+    "name": "Winter Grip 2 (SC-500)",
+    "subcategories": [
+      "scooter-lastik",
+      "kis-lastik"
+    ],
+    "summary": "Scooter ve küçük motosikletler için M+S işaretli, silikalı Winter Grip hamurlu yerli kış lastiği; 10–18 inç arası çok geniş ebat listesi ve radyal maxi scooter ebatları.",
+    "description": [
+      "Winter Grip 2 (SC-500), Anlas'ın scooter ve şehir içi motosikletler için geliştirdiği kış lastiği. Üretici, silikalı Winter Grip hamuru sayesinde lastiğin yalnız kışın değil dört mevsim boyunca her hava koşulunda kullanılabildiğini söylüyor. Yüzeydeki kılcal zigzag kanallar (kerf) karlı ve kuru yüzeyde tutunmayı, V profilli geniş kanallar ise ıslakta su tahliyesini hedefliyor.",
+      "Ebat tablosu 10 inçten 18 inçe kadar uzanıyor: 110/70-13, 120/70-14, 130/70-13, 140/70-14 gibi yaygın scooter ebatlarının yanında maxi scooterlar için 120/70 R15, 160/60 R15 ve 160/60 R14 gibi radyal ebatlar da var. Tüm ebatlar M+S işaretli. Anlas şehir trafiğine özel karkas yapısıyla kısa fren mesafesi, azaltılmış ses düzeyi ve düşük yuvarlanma direnci vaat ediyor."
+    ],
+    "forWho": [
+      "Kışın da scooter kullanan, soğuk ve ıslak asfaltta güven arayan sürücüler",
+      "PCX, NMAX, Forza, XMAX gibi scooterlarla yıl boyu çalışan kuryeler",
+      "Tek lastik takımıyla yaz-kış geçirmek isteyen şehir içi kullanıcılar"
+    ],
+    "notFor": [
+      "Sportif sürüş ve yüksek viraj hızı bekleyen sürücüler",
+      "Kuru yazlık yolda sportif scooter sürüşü yapanlar: bunun için yaz lastiği daha uygun"
+    ],
+    "pros": [
+      "Silikalı kış hamuru ve kerf kanalları",
+      "10–18 inç arası çok geniş ebat seçeneği, maxi scooter için radyal ebatlar",
+      "Tüm ebatlarda M+S işareti",
+      "Yerli üretim, liste fiyatı açık"
+    ],
+    "cons": [
+      "Bağımsız karşılaştırma testi verisi sınırlı",
+      "Sıcak yazda yumuşak hamurun aşınması daha hızlı olabilir; üretici ömür verisi yayınlamıyor"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı. Dur-kalk trafikte ve soğuk sabahlarda ısınmayı beklemeden tutuş sağlamak için tasarlanmış.",
+      "kis": "Kış serisi. Soğuk, ıslak ve hafif karlı yüzey için kerf kanalları ve silikalı hamur var; buzlanmada hiçbir lastik tam güvenlik sağlamaz.",
+      "yagmur": "V profilli geniş kanallar ıslak zeminde su tahliyesini hedefliyor.",
+      "kurye": "Yıl boyu scooterla çalışan kurye için mantıklı bir seçenek: yaygın kurye ebatları mevcut ve fiyatı ulaşılabilir."
+    },
+    "verdict": "Winter Grip 2, kışın da scooter kullanan ve özellikle kuryelik yapan sürücü için Türkiye'de en kolay ulaşılabilen kış lastiklerinden biri. Ebat listesi çok geniş ve fiyatı açık. Yaz aylarında yumuşak kış hamurunun aşınması, yıl boyu kullanımda hesaba katılması gereken bedel.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "pirelli/angel-scooter"
+    ],
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+        "price": 3760.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+        "price": 4290.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70-14"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+        "price": 4380.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Winter Grip 2 yazın kullanılabilir mi?",
+        "a": "Anlas, silikalı hamuru sayesinde dört mevsim kullanılabildiğini belirtiyor. Sıcak havada yumuşak hamur daha hızlı aşınabilir; yüksek km yapıyorsan bunu hesaba kat."
+      },
+      {
+        "q": "Kar ve buzda güvenli mi?",
+        "a": "Kerf kanalları karlı yüzeyde tutunmaya yardım eder. Buzlu zeminde ise hiçbir motosiklet lastiği güvenli sürüş garantisi vermez; mümkünse o günlerde sürme."
+      },
+      {
+        "q": "Maxi scooter ebadı var mı?",
+        "a": "Evet, 120/70 R15, 160/60 R15, 160/60 R14 ve 120/70 R14 gibi radyal ebatlar listede."
+      }
+    ],
+    "manufacturerUrl": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+        "type": "manufacturer",
+        "label": "Anlas – Winter Grip 2 (SC-500) ürün sayfası ve ebat/fiyat tablosu",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda (üretim)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [],
+    "specs": {
+      "usage": "scooter",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": "kis",
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-12",
+        "110/70-12",
+        "110/90-12",
+        "120/70-12",
+        "130/70-12",
+        "110/70-13",
+        "110/90-13",
+        "120/70-13",
+        "130/60-13",
+        "80/90-14",
+        "90/90-14",
+        "100/80-14",
+        "110/70-14",
+        "120/70-14",
+        "120/70 R14",
+        "120/80-14",
+        "120/70-15",
+        "120/70 R15",
+        "80/80-16",
+        "90/80-16",
+        "100/80-16",
+        "110/70-16",
+        "120/70-16",
+        "90/90-17",
+        "100/80-17",
+        "2.75-18"
+      ],
+      "sizesRear": [
+        "90/90-12",
+        "110/70-12",
+        "110/90-12",
+        "120/70-12",
+        "130/70-12",
+        "140/70-12",
+        "110/70-13",
+        "110/90-13",
+        "120/70-13",
+        "130/60-13",
+        "130/70-13",
+        "140/60-13",
+        "150/70-13",
+        "100/80-14",
+        "100/90-14",
+        "110/70-14",
+        "120/70-14",
+        "120/80-14",
+        "140/60-14",
+        "140/70-14",
+        "150/70-14",
+        "160/60 R14",
+        "120/70 R15",
+        "140/70-15",
+        "160/60 R15",
+        "130/70 R16",
+        "80/80-16",
+        "90/80-16",
+        "110/70-16",
+        "120/70-16",
+        "120/80-16",
+        "140/70-16",
+        "110/80-17",
+        "130/70-17",
+        "2.75-18",
+        "90/90-18"
+      ],
+      "compound": "Silikalı Winter Grip hamuru",
+      "features": [
+        "Kılcal zigzag kanallar (kerf)",
+        "V profilli geniş tahliye kanalları",
+        "Şehir trafiğine özel karkas",
+        "Maxi scooterlar için radyal ebatlar"
+      ],
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 3760.0,
+      "max": 4380.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 110/70-13, 120/70-14, 130/70-13. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "winter-grip-plus",
+    "brand": "anlas",
+    "name": "Winter Grip Plus",
+    "subcategories": [
+      "adventure-lastik",
+      "kis-lastik"
+    ],
+    "summary": "Anlas'ın enduro-cadde ve büyük motosikletler için M+S işaretli radyal kış lastiği; üretici motorun orijinal hız endeksine uygun tek kış lastiği olduğunu belirtiyor.",
+    "description": [
+      "Winter Grip Plus, kış aylarında da büyük motosikletini kullanmak isteyenler için geliştirilmiş, M+S işaretli radyal bir lastik. Anlas onu 'dünyanın ilk ve tek enduro kış lastiği' olarak tanıtıyor ve motorun orijinal hız endeksine uygun tek kış lastiği olduğunu öne sürüyor. Winter Grip hamuru, karlı yüzey için kerf kanalları, ıslak zemin için V profilli geniş oluklar ve 0° çelik radyal kuşak teknik başlıklar.",
+      "Ebatlar 21/18, 19/17 ve 17/17 düzenindeki motorları kapsıyor: ön 90/90-21, 110/80 R19, 120/70 R19, 110/70 R17, 120/70 ZR17; arka 150/70 R18, 150/70 R17, 140/70 R17, 160/60 ZR17, 170/60 R17, 180/55 ZR17 ve 190/55 ZR17. Hız endeksleri V ve W seviyesinde. Bu sınıfta Türkiye'de doğrudan alternatif çok az; karşılığında kuru ve sıcak havada yaz lastiği kadar keskin bir his beklenmemeli."
+    ],
+    "forWho": [
+      "Kışın da adventure veya sport-touring motoruyla işe gidip gelen sürücüler",
+      "Soğuk iklimli şehirlerde (Ankara, Erzurum, Kayseri) yıl boyu motor kullananlar",
+      "Büyük motorla çalışan ve kışın da yola çıkmak zorunda olan kuryeler"
+    ],
+    "notFor": [
+      "Yalnızca yazın ve kuru havada süren sürücüler",
+      "Pist ve agresif sportif sürüş yapanlar"
+    ],
+    "pros": [
+      "Büyük motorlar için radyal, yüksek hız endeksli kış lastiği",
+      "Kerf kanalları ve Winter Grip hamuru",
+      "Adventure ve 17 inç jantlı motorlar için ebat seçeneği",
+      "Yerli üretim, liste fiyatı açık"
+    ],
+    "cons": [
+      "Yaz lastiklerine göre liste fiyatı yüksek",
+      "Sıcak havada yaz lastiği kadar keskin his ve ömür beklenmemeli"
+    ],
+    "usage": {
+      "kis": "Kış serisi. Soğukta ve ıslakta tutuş için hamur ve desen tasarlanmış; buzlu zeminde sürmek yine riskli.",
+      "uzunYol": "Kış aylarında uzun yol için mantıklı; yüksek hız endeksi otoban kullanımına izin veriyor.",
+      "yagmur": "V profilli geniş oluklar ıslak zeminde tahliye için tasarlanmış.",
+      "sehir": "Soğuk sabahlarda trafikte ısınmayı beklemeden tutuş sağlaması hedefleniyor.",
+      "kurye": "Büyük motorla kışın çalışan kurye için uygun; küçük kurye motorları için ebat yok."
+    },
+    "verdict": "Winter Grip Plus, büyük motorunu kışın da kullanmak isteyen için Türkiye'de neredeyse tek ciddi seçenek. Radyal yapı ve hız endeksi sayesinde yaz lastiğinden çok taviz vermeden kış güvenliği sağlıyor. Yalnızca yazın sürüyorsan bu lastiğe ihtiyacın yok.",
+    "rivals": [
+      "anlas/capra-rd",
+      "michelin/anakee-road"
+    ],
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-plus",
+        "price": 8430.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-plus",
+        "price": 12860.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "180/55 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/winter-grip-plus",
+        "price": 12780.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "150/70 R18"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Winter Grip Plus'ı yazın kullanabilir miyim?",
+        "a": "Teknik olarak mümkün, ama lastik soğuk hava için tasarlanmış. Sıcak havada aşınma ve his açısından yaz lastiği daha iyi olur."
+      },
+      {
+        "q": "Hız endeksi yeterli mi?",
+        "a": "Anlas, motorun orijinal hız endeksine uygun tek kış lastiği olduğunu belirtiyor; ebat tablosunda V ve W endeksleri var. Kendi motorunun ruhsat/kılavuz değerini kontrol et."
+      }
+    ],
+    "manufacturerUrl": "https://www.anlas.com/tr/winter-grip-plus",
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/winter-grip-plus",
+        "type": "manufacturer",
+        "label": "Anlas – Winter Grip Plus ürün sayfası ve ebat/fiyat tablosu",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda (üretim)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": "kis",
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "110/80 R19",
+        "120/70 R19",
+        "110/70 R17",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "150/70 R18",
+        "140/70 R17",
+        "150/70 R17",
+        "160/60 ZR17",
+        "170/60 R17",
+        "180/55 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": "Winter Grip hamuru",
+      "features": [
+        "0° çelik radyal kuşak",
+        "Kar için kerf kanalları",
+        "V profilli geniş oluklar"
+      ],
+      "madeIn": "Türkiye"
+    },
+    "priceRange": {
+      "min": 8430.0,
+      "max": 12860.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 120/70 ZR17, 180/55 ZR17, 150/70 R18. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "road-6",
+    "brand": "michelin",
+    "name": "Road 6",
+    "subcategories": [
+      "touring-lastik"
+    ],
+    "summary": "Michelin'in sport-touring lastiği: 2CT+ çift bileşim, aşındıkça genişleyen Water Evergrip kanalları ve Radial-X EVO yapı; 17, 18 ve 19 inç ön ebatlar.",
+    "description": [
+      "Road 6, Michelin'in yol ağırlıklı sport-touring sınıfındaki ana modeli. Üretici; sert orta bölgenin yumuşak omuz bileşiminin altına uzandığı 2CT+ teknolojisini, lastik aşındıkça genişleyerek su tahliyesini koruyan Water Evergrip kanallarını, yüksek hızda stabilite için Radial-X EVO yapıyı ve deformasyonu sınırlayan Aramid Shield katını öne çıkarıyor.",
+      "Ön ebatlar 110/70 ZR17, 120/60 ZR17, 120/70 ZR17, 120/70 ZR18, 110/80 ZR19 ve 120/70 ZR19; arka ebatlar 140/70'ten 190/55 ZR17'ye kadar. 19 inç ön ebatlar sayesinde asfalt odaklı adventure motorlarına da takılabiliyor. Ağır touring motorları için ayrı bir Road 6 GT serisi var. Türkiye'de Feyizoglu'nda birçok ebat listeleniyor; 120/70 ZR17 standart sürümünü fiyat kontrolünde göremedik."
+    ],
+    "forWho": [
+      "Yağmurda da düzenli süren, uzun ömür ve ıslak tutuşu öncelikleyen sport-touring sürücüleri",
+      "MT-07, Tracer, CB650R, Z900 gibi naked ve crossover motor sahipleri",
+      "19 inç önlü motorla çoğunlukla asfaltta gezen adventure sürücüleri"
+    ],
+    "notFor": [
+      "Pist günü ve agresif sportif sürüş odaklı olanlar",
+      "Toprak yola sık giren adventure kullanıcıları"
+    ],
+    "pros": [
+      "Water Evergrip ile aşındıkça ıslak performansı korumaya yönelik tasarım",
+      "2CT+ çift bileşim ön ve arkada",
+      "17, 18 ve 19 inç ön ebatlar",
+      "Türkiye'de yerleşik bir mağazada çok sayıda ebat"
+    ],
+    "cons": [
+      "Uluslararası rakiplerle benzer, yerli alternatiflerden yüksek fiyat",
+      "Ağır touring motorları için ayrı GT sürümü seçmek gerekir"
+    ],
+    "usage": {
+      "sehir": "Hızlı ısınan silika bileşim günlük kullanımda rahat; ömür avantajı şehirde de hissedilir.",
+      "uzunYol": "Ana kullanım alanı: sport-touring, yüksek km.",
+      "yagmur": "Islak zemin performansı modelin öne çıkan özelliği; Water Evergrip kanalları aşınmada da tahliyeyi korumayı hedefliyor.",
+      "sport": "Virajlı yolda yeterli; pistte sport lastik kadar sınır vermez.",
+      "kurye": "Orta ve büyük hacimli motorla yüksek km yapan kurye için ömür ve ıslak tutuş açısından mantıklı; fiyatı yüksek."
+    },
+    "verdict": "Road 6, yılın her mevsimi asfaltta km yapan ve yağmurda güven arayan sürücü için güçlü bir sport-touring lastiği. Fiyatı yerli seçeneklerden yüksek; karşılığında aşındıkça ıslak performansı korumaya yönelik ciddi bir mühendislik sunuyor.",
+    "rivals": [
+      "pirelli/angel-gt-ii",
+      "bridgestone/battlax-sport-touring-t32",
+      "metzeler/roadtec-02"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-150-70-zr-17-arka-lastik-road-6_56993.html",
+        "price": 14700.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "150/70 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-170-60-zr-17-arka-lastik-road-6_56992.html",
+        "price": 16300.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "170/60 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-120-70-zr-19-on-lastik-road-6_56994.html",
+        "price": 13100.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "120/70 ZR19"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Road 6 ile Road 6 GT arasındaki fark ne?",
+        "a": "GT sürümü ağır touring motorları için ayrı bir seri olarak sunuluyor. Motorun ağırsa ve yüklü yolculuk yapıyorsan GT ebatlarına bak."
+      },
+      {
+        "q": "Road 6 adventure motoruma takılır mı?",
+        "a": "Asfalt ağırlıklı kullanıyorsan evet; 110/80 ZR19 ve 120/70 ZR19 ön ebatları var. Toprak yol için Anakee serisi daha uygun."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-road-6",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-road-6",
+        "type": "manufacturer",
+        "label": "Michelin UK – Road 6 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-150-70-zr-17-arka-lastik-road-6_56993.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin Road 6 150/70 ZR17",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "sport-touring",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "110/70 ZR17",
+        "120/60 ZR17",
+        "120/70 ZR17",
+        "120/70 ZR18",
+        "110/80 ZR19",
+        "120/70 ZR19"
+      ],
+      "sizesRear": [
+        "140/70 ZR17",
+        "150/60 ZR17",
+        "150/70 ZR17",
+        "160/60 ZR17",
+        "170/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": "Çift bileşim (MICHELIN 2CT+), silika",
+      "features": [
+        "Water Evergrip: aşındıkça genişleyen kanallar",
+        "Radial-X EVO yapı",
+        "Aramid Shield katı"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 13100.0,
+      "max": 16300.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 150/70 ZR17, 170/60 ZR17, 120/70 ZR19."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "power-6",
+    "brand": "michelin",
+    "name": "Power 6",
+    "subcategories": [
+      "sport-lastik"
+    ],
+    "summary": "Michelin'in yol için sport lastiği: ön ve arkada %100 silika ve 2CT+ teknolojisi; 120/70 ZR17 ön, 160/60–240/45 ZR17 arka ebatlar.",
+    "description": [
+      "Power 6, Michelin'in yolda sportif sürüş için konumlandırdığı lastik; Pilot Power ailesinin güncel temsilcisi. Üretici, ön ve arkada %100 silika bileşim ve 2CT+ teknolojisiyle ıslak ve kuru zeminde optimize tutuş, sportif yol tutuşu ve çeviklik vaat ediyor; tasarımın motor sporlarındaki deneyimden beslendiğini belirtiyor.",
+      "Ön ebatlar 110/70 ZR17 ve 120/70 ZR17; arkada 140/70, 150/60, 160/60, 180/55, 190/50, 190/55, 200/55 ve 240/45 ZR17 var. Yani 300–400 cc sport motorlardan süper naked sınıfına kadar uzanıyor. Michelin aynı sınıfta pist ağırlıklı kullanıcılar için Power GP 2'yi ayrıca sunuyor."
+    ],
+    "forWho": [
+      "Virajlı yolda sportif sürüş yapan naked ve sport motor sahipleri",
+      "Hafta sonu sürüşünde hızlı ısınan ve ıslakta da güven veren bir sport lastik isteyenler",
+      "MT-09, Z900, Street Triple, R6 gibi motorlarda yol odaklı sport lastik arayanlar"
+    ],
+    "notFor": [
+      "Yüksek km ve uzun ömür önceliği olan sürücüler",
+      "Kurye kullanımı: sport hamur yüksek günlük km'de pahalıya gelir"
+    ],
+    "pros": [
+      "Ön ve arkada %100 silika ve 2CT+",
+      "Geniş arka ebat yelpazesi (140/70'ten 240/45'e)",
+      "Türkiye'de yerleşik mağazada stokta ebatlar"
+    ],
+    "cons": [
+      "Sport-touring lastiklerine göre daha kısa ömür beklenir",
+      "Fiyatı yerli sport lastiklerden belirgin yüksek"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama sport lastiğin avantajı şehirde ortaya çıkmaz.",
+      "uzunYol": "Virajlı rotada keyifli; düz otobanda arka lastiğin ortası daha hızlı aşınır.",
+      "yagmur": "Üretici ıslakta optimize tutuş vaat ediyor; yine de sport-touring lastiği kadar geniş güvenlik payı beklenmemeli.",
+      "sport": "Ana kullanım alanı: yolda sportif sürüş."
+    },
+    "verdict": "Power 6, sport motorunu çoğunlukla yolda ama hızlı kullanan sürücü için dengeli bir seçim. Islak tutuşa önem vermesiyle saf pist lastiklerinden ayrılıyor. Ömür ve fiyat önceliğin ise Road 6 ya da bir sport-touring lastiği daha mantıklı.",
+    "rivals": [
+      "pirelli/diablo-rosso-iv",
+      "bridgestone/battlax-hypersport-s23",
+      "anlas/viento-sport"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-120-70-zr-17-power-6-on-lastik-_58363.html",
+        "price": 12400.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "120/70 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-180-55-zr-17-power-6-arka-lastik_58364.html",
+        "price": 16500.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "180/55 ZR17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Power 6 ile Power GP 2 arasındaki fark ne?",
+        "a": "Michelin Power 6'yı yolda sportif kullanım için, Power GP 2'yi ise pist ağırlıklı kullanım için sunuyor."
+      },
+      {
+        "q": "Islak zeminde kullanılabilir mi?",
+        "a": "Evet, üretici %100 silika bileşimle ıslak ve kuru zeminde tutuşu optimize ettiğini belirtiyor. Yağmurda yine de sport lastik sınırlarını zorlamamak gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-power-6",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-power-6",
+        "type": "manufacturer",
+        "label": "Michelin UK – Power 6 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-120-70-zr-17-power-6-on-lastik-_58363.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin Power 6 120/70 ZR17",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "sport",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "110/70 ZR17",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "140/70 ZR17",
+        "150/60 ZR17",
+        "160/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17",
+        "200/55 ZR17",
+        "240/45 ZR17"
+      ],
+      "compound": "%100 silika, çift bileşim (MICHELIN 2CT+) ön ve arkada",
+      "features": [
+        "Motor sporları deneyiminden türetilmiş tasarım (üretici beyanı)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 12400.0,
+      "max": 16500.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 120/70 ZR17, 180/55 ZR17."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "anakee-road",
+    "brand": "michelin",
+    "name": "Anakee Road",
+    "subcategories": [
+      "adventure-lastik",
+      "touring-lastik"
+    ],
+    "summary": "Michelin'in trail/adventure motorları için asfalt lastiği: %100 silika ve 2CT+ ile ıslak tutuş odaklı; 21, 19 inç ön ve 17/18 inç arka ebatlar.",
+    "description": [
+      "Anakee Road, Michelin'in trail motosikletleri için özel olarak tasarladığı asfalt lastiği. Yani adventure motorunun görünümünü ve jant ölçülerini korurken neredeyse tamamen asfaltta sürenler için. Üretici ön ve arkada %100 silika bileşim ve 2CT+ teknolojisiyle ıslak tutuşu, asfaltta stabiliteyi ve uzun keşif sürüşlerini öne çıkarıyor.",
+      "Ön ebatlar 90/90-21, 110/80 R19, 120/70 R19 ve 120/70 ZR19; arkada 150/70 R17, 150/70 R18, 170/60 R17 ve 170/60 ZR17. Böylece hem 21/18 düzenli Africa Twin ve Tenere tipi motorlara hem de 19/17 düzenli GS, V-Strom ve Tiger tipi motorlara uyuyor. Üretici bir asfalt/arazi oranı vermiyor; toprak yol kapasitesi için Anakee Adventure 2 daha uygun."
+    ],
+    "forWho": [
+      "Adventure motoruyla yüzde yüze yakın asfaltta süren sürücüler",
+      "R 1250/1300 GS, V-Strom 800/1050, Tiger 900 gibi 19/17 jantlı motor sahipleri",
+      "Yağmurda uzun yol yapan, ıslak tutuşu öncelikleyen touring sürücüleri"
+    ],
+    "notFor": [
+      "Stabilize ve toprak yola düzenli giren sürücüler",
+      "Pist ve sportif sürüş odaklı kullanıcılar"
+    ],
+    "pros": [
+      "Adventure jant ölçülerinde saf asfalt lastiği",
+      "%100 silika ve 2CT+ ön ve arkada",
+      "21/18 ve 19/17 düzenleri için ebat",
+      "Türkiye'de yerleşik mağazada stokta"
+    ],
+    "cons": [
+      "Toprak yol performansı sınırlı; üretici arazi oranı vermiyor",
+      "Fiyatı yüksek segmentte"
+    ],
+    "usage": {
+      "sehir": "Ağır adventure motorlarda trafikte dengeli ve hızlı ısınan bir lastik.",
+      "uzunYol": "Ana kullanım alanı: asfaltta uzun keşif turları.",
+      "yagmur": "Michelin ıslak tutuşu modelin ana vaadi olarak öne çıkarıyor.",
+      "kurye": "Büyük adventure motoruyla çalışan kurye için ömür ve ıslak tutuş açısından uygun; küçük kurye motorlarına ebat yok."
+    },
+    "verdict": "Anakee Road, adventure motoru olup toprağa nadiren giren sürücü için doğru bir uzmanlaşma. Asfaltta ve yağmurda güven veriyor. Toprak yol planların varsa Anakee Adventure 2 ya da bir 90/10 lastiğe yönelmelisin.",
+    "rivals": [
+      "anlas/capra-rd",
+      "metzeler/tourance-next-2",
+      "pirelli/scorpion-trail-iii"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-120-70-r-19-anakee-road-on-lastik-_58360.html",
+        "price": 11600.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "120/70 R19"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-170-60-r-17-anakee-road-arka-lastik-_58362.html",
+        "price": 15400.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "170/60 R17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Anakee Road ile toprak yola girebilir miyim?",
+        "a": "Michelin onu trail motorları için bir asfalt lastiği olarak tanımlıyor. Kısa stabilize geçişler mümkün, ama düzenli toprak yol için Anakee Adventure 2 tasarlanmış."
+      },
+      {
+        "q": "21 inç ön jantlı motorlara uyar mı?",
+        "a": "Evet, 90/90-21 ön ve 150/70 R18 arka ebatları var."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-anakee-road",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-anakee-road",
+        "type": "manufacturer",
+        "label": "Michelin UK – Anakee Road ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-120-70-r-19-anakee-road-on-lastik-_58360.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin Anakee Road 120/70 R19",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "110/80 R19",
+        "120/70 R19",
+        "120/70 ZR19"
+      ],
+      "sizesRear": [
+        "150/70 R17",
+        "150/70 R18",
+        "170/60 R17",
+        "170/60 ZR17"
+      ],
+      "compound": "%100 silika, çift bileşim (MICHELIN 2CT+) ön ve arkada",
+      "features": [
+        "Trail motorları için asfalt odaklı desen"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 11600.0,
+      "max": 15400.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 120/70 R19, 170/60 R17."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "anakee-adventure-2",
+    "brand": "michelin",
+    "name": "Anakee Adventure 2",
+    "subcategories": [
+      "adventure-lastik"
+    ],
+    "summary": "Michelin'in asfalt ve toprak yol için karma adventure lastiği; M+S işaretli, 2CT teknolojisi ve yeni silika bileşimli, önceki nesle göre daha sessiz ve uzun ömür beyanlı.",
+    "description": [
+      "Anakee Adventure 2, Michelin'in hem asfalt hem toprak yolda kullanılmak üzere tasarladığı adventure lastiği ve Anakee Adventure'ın halefi. Üretici; yeni silika bazlı bileşimler ve 2CT teknolojisiyle ıslak asfaltta güçlü tutuş, sessiz sürüş ve uzun ömür vaat ediyor. Kendi iç testlerine göre önceki nesle kıyasla algılanan gürültüde %30 azalma, ömürde %14 ve ıslak tutuşta %10 iyileşme bildiriyor (BMW R 1250/1300 GS üzerinde).",
+      "Ebatlar M+S işaretli: ön 90/90-21, 110/80 R18, 120/70 R17 ve 120/70 R19; arka 150/70 R17, 170/60 R17 ve 180/55 R17. 21 inç önlü orta sınıf adventure motorlarından 19/17 düzenli büyük GS'lere kadar uyuyor. Üretici bir asfalt/arazi oranı yayınlamıyor; desen, Anakee Road'a göre toprak tarafına daha yakın ama çivili bir arazi lastiği değil."
+    ],
+    "forWho": [
+      "Asfaltta uzun yol yapıp düzenli olarak stabilize ve toprak yola giren adventure sürücüleri",
+      "Africa Twin, Tenere 700, R 1300 GS, Tiger 900 gibi motor sahipleri",
+      "Tek lastikle hem şehir hem tatil rotası çözmek isteyenler"
+    ],
+    "notFor": [
+      "Çamur ve kumda ciddi arazi sürüşü yapanlar",
+      "Saf asfalt kullanıcıları: Anakee Road daha uygun"
+    ],
+    "pros": [
+      "Karma kullanım için tasarlanmış, M+S işaretli",
+      "Önceki nesle göre daha sessiz ve uzun ömür (üretici iç testi)",
+      "21, 19, 18 ve 17 inç ön ebatlar",
+      "Türkiye'de yerleşik mağazada stokta"
+    ],
+    "cons": [
+      "Üretici asfalt/arazi oranı vermiyor",
+      "İyileşme oranları Michelin'in kendi testlerine dayanıyor"
+    ],
+    "usage": {
+      "sehir": "Şehirde sorunsuz; blok yapılı desene göre sessizliği öne çıkarılıyor.",
+      "uzunYol": "Asfalt ve toprak karışık tatil rotaları için tasarlanmış.",
+      "yagmur": "Silika bazlı bileşim ve 2CT ile ıslak asfaltta tutuş vaat ediliyor.",
+      "kurye": "Büyük adventure motorla çalışan kurye için dayanıklı bir seçenek; küçük kurye motorlarına ebat yok."
+    },
+    "verdict": "Anakee Adventure 2, adventure motorunu gerçekten iki zeminde kullanan sürücü için güncel ve dengeli bir seçim. Asfalt konforu iyi, toprak yolda Anakee Road'dan daha kabiliyetli. Ağır arazi için ise TKC 70 veya Karoo 4 gibi daha bloklu lastiklere bakmak gerekir.",
+    "rivals": [
+      "continental/tkc-70",
+      "pirelli/scorpion-trail-iii",
+      "metzeler/tourance-next-2"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-90-90-21-anakee-adventure-2-on-lastik_59731.html",
+        "price": 11900.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "90/90-21"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-150-70-r-17-anakee-adventure-2-arka-lastik_59734.html",
+        "price": 14200.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "150/70 R17"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Anakee Adventure ile Anakee Adventure 2 farkı ne?",
+        "a": "Michelin'in iç testlerine göre yeni nesil daha sessiz (algılanan gürültüde %30 azalma), daha uzun ömürlü (+%14) ve ıslakta daha iyi tutuşlu (+%10)."
+      },
+      {
+        "q": "Anakee Road mu Anakee Adventure 2 mi?",
+        "a": "Neredeyse hiç toprağa girmiyorsan Anakee Road; düzenli toprak yol varsa Anakee Adventure 2."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-anakee-adventure-2",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-anakee-adventure-2",
+        "type": "manufacturer",
+        "label": "Michelin UK – Anakee Adventure 2 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-90-90-21-anakee-adventure-2-on-lastik_59731.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin Anakee Adventure 2 90/90-21",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "110/80 R18",
+        "120/70 R17",
+        "120/70 R19"
+      ],
+      "sizesRear": [
+        "150/70 R17",
+        "170/60 R17",
+        "180/55 R17"
+      ],
+      "compound": "Yeni silika bazlı bileşimler, MICHELIN 2CT",
+      "features": [
+        "Asfalt ve toprak yol için karma desen",
+        "Önceki nesle göre daha düşük gürültü (üretici iç testi)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 11900.0,
+      "max": 14200.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 90/90-21, 150/70 R17."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "city-grip-2",
+    "brand": "michelin",
+    "name": "City Grip 2",
+    "subcategories": [
+      "scooter-lastik",
+      "kis-lastik"
+    ],
+    "summary": "Michelin'in scooter ve şehir lastiği: silika bileşim ve köpek balığı dişi lamellerle ıslakta kısa fren mesafesi; M+S işaretli, her mevsim kullanım için.",
+    "description": [
+      "City Grip 2, Michelin'in scooter ve küçük şehir motosikletleri için sunduğu lastik. Üretici, silika bazlı yeni bileşim ve köpek balığı dişi şeklindeki lamellerle ıslak ve kaygan yüzeyde tutuşu, özellikle ıslakta kısa fren mesafesini öne çıkarıyor; lastiği kuru ve ıslak yüzeyde, şehirde ve açık yolda, her mevsim kullanılabilecek bir lastik olarak tanımlıyor. Ebatlar M+S işaretli.",
+      "Ebat listesi 10 inçten 16 inçe uzanıyor: 110/70-13, 120/70-14, 130/70-13, 140/70-14, 120/70-15 gibi Türkiye'de en yaygın scooter ebatlarının hepsi var. Türkiye'de Feyizoglu'nda çok sayıda ebat listeleniyor. Kış serisi bir lastik değil; M+S işareti ve her mevsim tanımı nedeniyle kış kullanımına uygun scooter lastikleri arasında listeledik."
+    ],
+    "forWho": [
+      "Scooterla yıl boyu şehir içinde süren sürücüler",
+      "PCX, NMAX, Forza, XMAX, Burgman gibi scooterlarla çalışan kuryeler",
+      "Yağmurda fren mesafesini önemseyen şehir kullanıcıları"
+    ],
+    "notFor": [
+      "Karlı ve buzlu yolda düzenli sürmek zorunda olanlar; kış serisi lastik daha uygun",
+      "Sportif scooter sürüşü için en yüksek kuru tutuşu arayanlar"
+    ],
+    "pros": [
+      "Islakta kısa fren mesafesi odaklı silika bileşim ve lameller",
+      "M+S işareti, her mevsim kullanım tanımı",
+      "10–16 inç arası çok geniş ebat listesi",
+      "Türkiye'de yerleşik mağazada fiyatlı"
+    ],
+    "cons": [
+      "Kış serisi değil; karlı yüzeyde kış lastiği kadar etkili olmaz",
+      "Bazı ebatlar mağazada stokta olmayabiliyor"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: dur-kalk trafik, ıslak asfalt, rögar kapakları.",
+      "yagmur": "Modelin en güçlü yanı: Michelin ıslakta kısa fren mesafesini öne çıkarıyor.",
+      "kis": "M+S işaretli ve her mevsim için tanımlanmış; karlı ve buzlu yolda kış lastiğinin yerini tutmaz.",
+      "kurye": "Yıl boyu scooterla çalışan kurye için güçlü seçenek; ıslakta fren ve yaygın ebatlar avantaj."
+    },
+    "verdict": "City Grip 2, scooterını yıl boyu şehirde kullanan, özellikle yağmurda güven arayan sürücü ve kurye için güvenli bir tercih. Türkiye'de fiyatı ve ebat bulunurluğu iyi. Karlı yollarda düzenli sürmen gerekiyorsa kış serisi bir lastiğe bak.",
+    "rivals": [
+      "pirelli/angel-scooter",
+      "anlas/winter-grip-2"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-110-70-13-city-grip-2-on-lastik_55055.html",
+        "price": 4400.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-130-70-13-city-grip-2-on-veya-arka-lastik_58815.html",
+        "price": 4800.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-120-70-14-city-grip-2-on-veya-arka-lastik_54863.html",
+        "price": 4800.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "120/70-14"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "City Grip 2 kış lastiği mi?",
+        "a": "Hayır, kış serisi değil; Michelin onu her mevsim kullanılabilir bir şehir lastiği olarak tanımlıyor ve ebatlar M+S işaretli. Karlı yollar için ayrı kış lastikleri var."
+      },
+      {
+        "q": "Kurye scooterı için uygun mu?",
+        "a": "Yaygın kurye ebatlarının hepsi var ve ıslak zemin performansı öne çıkıyor; yüksek km yapan kurye için mantıklı bir seçenek."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-2",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-2",
+        "type": "manufacturer",
+        "label": "Michelin UK – City Grip 2 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-110-70-13-city-grip-2-on-lastik_55055.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin City Grip 2 110/70-13",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": "4-mevsim",
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-14",
+        "100/80-16",
+        "110/70-12",
+        "110/70-13",
+        "110/70-16",
+        "110/80-14",
+        "120/70-12",
+        "120/70-13",
+        "120/70-14",
+        "120/70-15",
+        "120/80-14",
+        "120/80-16",
+        "130/60-13",
+        "130/70-12",
+        "130/70-13"
+      ],
+      "sizesRear": [
+        "90/90-14",
+        "100/80-16",
+        "100/90-14",
+        "110/70-12",
+        "110/80-14",
+        "120/70-12",
+        "120/70-14",
+        "120/80-14",
+        "120/80-16",
+        "130/60-13",
+        "130/70-12",
+        "130/70-13",
+        "130/70-16",
+        "140/60-13",
+        "140/60-14",
+        "140/70-12",
+        "140/70-14",
+        "140/70-15",
+        "140/70-16",
+        "150/70-13",
+        "150/70-14"
+      ],
+      "compound": "Silika bazlı bileşim",
+      "features": [
+        "Köpek balığı dişi lameller",
+        "Islakta kısa fren mesafesi odaklı tasarım (üretici beyanı)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": {
+      "min": 4400.0,
+      "max": 4800.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 110/70-13, 130/70-13, 120/70-14."
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "diablo-rosso-iv",
+    "brand": "pirelli",
+    "name": "Diablo Rosso IV",
+    "subcategories": [
+      "sport-lastik"
+    ],
+    "summary": "Pirelli'nin yol için supersport lastiği: silika zengin çok bileşimli ön ve arka, 190/55 ZR17 ve üstünde üç bileşimli arka; ıslakta da performans hedefli.",
+    "description": [
+      "Diablo Rosso IV, Pirelli'nin yol kullanımı için supersport lastiği. Üretici, ön ve arkada silika zengin çok bileşimli hamur, sert orta bant ve yumuşak omuzlu çift bileşimli ön, 190/50 ZR17'ye kadar çift bileşimli, 190/55 ZR17 ve üstünde ise endurance yarışlarından türetilmiş üç bileşimli arka kullanıyor. Arka yapı küçük ebatlarda iki telli Rayon, büyük ebatlarda üç telli Lyocell; yani lastik motorun gücüne göre farklılaşıyor.",
+      "Ön ebatlar 110/70 R17, 110/70 ZR17, 120/60 ZR17 ve 120/70 ZR17; arkada 140/70 R17'den 240/45 ZR17'ye kadar 11 ebat var. 300–400 cc sport motorlardan 200 bg üstü süper naked modellere kadar geniş bir aralığı kapsıyor. Desende Pirelli'nin 'Flash' ana olukları merkezde su tahliyesi sağlıyor, 35° üstü yatışta omuzlar neredeyse slick."
+    ],
+    "forWho": [
+      "Sport ve süper naked motorlarıyla virajlı yolda hızlı süren sürücüler",
+      "Islakta da güvenmek istediği bir sport lastik arayanlar",
+      "R25/R3 gibi küçük sport motorlardan büyük supersport modellere kadar geniş ebat ihtiyacı olanlar"
+    ],
+    "notFor": [
+      "Uzun ömür ve yüksek km önceliği olanlar",
+      "Kurye kullanımı: sport hamur yüksek günlük km'de hızlı aşınır"
+    ],
+    "pros": [
+      "Ön ve arkada silika zengin çok bileşim",
+      "Motor gücüne göre farklılaşan arka yapı ve bileşim",
+      "Çok geniş ebat yelpazesi",
+      "Islak zemin performansı tasarımın parçası"
+    ],
+    "cons": [
+      "Sport-touring lastiklerine göre ömür kısa",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama sport lastiğin avantajı şehirde ortaya çıkmaz.",
+      "uzunYol": "Virajlı rotada keyifli; otoban ağırlıklı uzun yolda arka ortası hızlı aşınır.",
+      "yagmur": "Silika oranı yüksek merkez bant soğukta ve ıslakta tutuş için tasarlanmış; yine de touring lastiği kadar geniş pay beklenmemeli.",
+      "sport": "Ana kullanım alanı: yolda sportif sürüş."
+    },
+    "verdict": "Diablo Rosso IV, sport motorunu yolda hızlı kullanan ve ıslak zemini de hesaba katan sürücü için olgun bir seçim. Büyük motorlarda üç bileşimli arka ayrı bir avantaj. Uzun ömür arıyorsan Angel GT II gibi bir sport-touring lastiği daha mantıklı.",
+    "rivals": [
+      "michelin/power-6",
+      "bridgestone/battlax-hypersport-s23",
+      "anlas/viento-sport"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Neden bazı arka ebatlar üç bileşimli?",
+        "a": "Pirelli, 190/55 ZR17 ve üstü ebatların yüksek güçlü motorlarda kullanıldığını, bu yüzden yatışta itiş için endurance yarışlarından türetilmiş üç bileşimli düzen kullandığını belirtiyor."
+      },
+      {
+        "q": "Diablo Rosso IV yağmurda kullanılabilir mi?",
+        "a": "Evet, Pirelli lastiği ıslak ve kuru yolda performans için tasarladığını söylüyor. Yağmurda sport lastiğin sınırlarını zorlamamak gerekir."
+      }
+    ],
+    "manufacturerUrl": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/diablo-rosso-iv",
+    "sources": [
+      {
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/diablo-rosso-iv",
+        "type": "manufacturer",
+        "label": "Pirelli UK – Diablo Rosso IV ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "sport",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "110/70 R17",
+        "110/70 ZR17",
+        "120/60 ZR17",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "140/70 R17",
+        "150/60 R17",
+        "150/60 ZR17",
+        "160/60 ZR17",
+        "180/55 ZR17",
+        "180/60 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17",
+        "200/55 ZR17",
+        "200/60 ZR17",
+        "240/45 ZR17"
+      ],
+      "compound": "Ön çift bileşim; arka 190/50'ye kadar çift, 190/55 ve üstü üç bileşim; silika zengin",
+      "features": [
+        "Ön Rayon yapı",
+        "Arka küçük ebatlarda iki telli Rayon, büyük ebatlarda üç telli Lyocell",
+        "WorldSBK'dan türetilmiş profil (üretici beyanı)",
+        "Flash desen"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "angel-gt-ii",
+    "brand": "pirelli",
+    "name": "Angel GT II",
+    "subcategories": [
+      "touring-lastik"
+    ],
+    "summary": "Pirelli'nin sport-touring lastiği: uzun ömür ve ıslak performans odaklı, Diablo yağmur lastiklerinden türetilmiş desen; 17 ve 19 inç ön, 150/70–190/55 ZR17 arka.",
+    "description": [
+      "Angel GT II, Pirelli'nin Gran Turismo konseptindeki sport-touring lastiği. Üretici, Pirelli'nin sportif karakterine uzun ömür ekleyen, sport-touring segmentinde kilometre için yeni bir referans iddiasında bir lastik olarak tanımlıyor. Islak zemin performansında Pirelli Diablo yarış yağmur lastiklerinden türetilmiş yeni desen öne çıkıyor; elektronik sürüş yardımlarıyla uyum da tasarımın bir parçası.",
+      "Ön ebatlar 120/60 ZR17, 120/70 ZR17 ve 120/70 R19; arkada 150/70 ZR17, 160/60 ZR17, 170/60 R17, 170/60 ZR17, 180/55 ZR17, 190/50 ZR17 ve 190/55 ZR17. Pirelli, Motociclismo dergisinin beş sport-touring lastiği karşılaştırmasında Angel GT II'nin birinci olduğunu aktarıyor."
+    ],
+    "forWho": [
+      "Yıl boyu yüksek km yapan sport-touring ve naked sürücüleri",
+      "Tracer 9, Ninja 1000SX, F 900 XR, MT-09 gibi motor sahipleri",
+      "Yağmurda uzun yol yapan, ömür ve ıslak tutuşu dengeleyen bir lastik isteyenler"
+    ],
+    "notFor": [
+      "Pist günü ve sınırda sportif sürüş yapanlar",
+      "Toprak yola düzenli giren adventure sürücüleri"
+    ],
+    "pros": [
+      "Uzun ömür odaklı sport-touring tasarımı",
+      "Yağmur yarış lastiklerinden türetilmiş desen",
+      "17 ve 19 inç ön ebat",
+      "Bağımsız dergi karşılaştırmasında birincilik (üretici aktarımı)"
+    ],
+    "cons": [
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık",
+      "Sport lastik kadar keskin his vermez"
+    ],
+    "usage": {
+      "sehir": "Hızlı ısınan touring lastiği; günlük kullanımda rahat.",
+      "uzunYol": "Ana kullanım alanı: yüksek km, yüklü yolculuk.",
+      "yagmur": "Islak performans tasarımın merkezinde.",
+      "kurye": "Orta ve büyük hacimli motorla yüksek km yapan kurye için ömür avantajı sağlar."
+    },
+    "verdict": "Angel GT II, tek lastikle hem işe gidip gelen hem uzun yola çıkan sürücü için dengeli bir sport-touring seçimi. Pirelli'nin sportif karakterini ömürle birleştiriyor. Türkiye fiyatını ebat bazında yetkili bayiden almak gerekiyor.",
+    "rivals": [
+      "michelin/road-6",
+      "bridgestone/battlax-sport-touring-t32",
+      "metzeler/roadtec-02"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Angel GT II kimler için?",
+        "a": "Sport-touring ve naked motorlarla yüksek km yapan, yağmurda da süren sürücüler için."
+      },
+      {
+        "q": "19 inç ön ebat var mı?",
+        "a": "Evet, 120/70 R19 ön ebatı listede."
+      }
+    ],
+    "manufacturerUrl": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/angel-gt-ii",
+    "sources": [
+      {
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/angel-gt-ii",
+        "type": "manufacturer",
+        "label": "Pirelli UK – Angel GT II ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "specs.compound",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "sport-touring",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "120/60 ZR17",
+        "120/70 ZR17",
+        "120/70 R19"
+      ],
+      "sizesRear": [
+        "150/70 ZR17",
+        "160/60 ZR17",
+        "170/60 R17",
+        "170/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": null,
+      "features": [
+        "Diablo yağmur yarış lastiklerinden türetilmiş desen",
+        "Elektronik sürüş yardımlarıyla uyum için tasarım (üretici beyanı)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "scorpion-trail-iii",
+    "brand": "pirelli",
+    "name": "Scorpion Trail III",
+    "subcategories": [
+      "adventure-lastik"
+    ],
+    "summary": "Pirelli'nin sportif karakterli adventure-touring lastiği: arka radyal ebatlarda çift bileşim ve tam silika; virajlı asfalttan stabilize yola kadar.",
+    "description": [
+      "Scorpion Trail III, Pirelli'nin adventure ve crossover motorlar için geliştirdiği, sportif davranışı öne çıkan adventure-touring lastiği. Üretici, virajlı asfalttan çakıllı yola geniş bir koşul yelpazesinde kullanılmak üzere tasarlandığını, ıslak tutuşta bir sport-touring lastiği seviyesini hedeflediğini ve arka radyal ebatlarda çift bileşim ile tam silika kullandığını belirtiyor.",
+      "Ebat listesi geniş: ön 90/90-21, 100/90-18, 100/90-19, 110/80 R18, 110/80 R19, 120/70 R19, 120/70 ZR19 ve 120/70 ZR17; arkada 120/90-17, 130/80 R17, 140/80 R17, 150/70 R17, 150/70 ZR18, 160/60 ZR17, 170/60 R17, 170/60 ZR17 ve 180/55 ZR17. Böylece 300–500 cc küçük adventure motorlardan büyük GS sınıfına kadar uyuyor. Üretici bir asfalt/arazi oranı vermiyor."
+    ],
+    "forWho": [
+      "Adventure motoruyla çoğunlukla asfaltta, arada stabilize yolda süren sürücüler",
+      "Virajlı dağ yollarında sportif his isteyen adventure ve crossover sahipleri",
+      "CB500X, V-Strom 650, Tracer 7, R 1250 GS gibi çok farklı sınıftaki motorlar"
+    ],
+    "notFor": [
+      "Çamur ve kumda arazi sürüşü yapanlar",
+      "Saf touring ömrünü öncelikleyenler"
+    ],
+    "pros": [
+      "Sportif karakterli adventure lastiği",
+      "Arka radyal ebatlarda çift bileşim ve tam silika",
+      "Küçük ve büyük adventure motorlar için çok geniş ebat listesi"
+    ],
+    "cons": [
+      "Üretici asfalt/arazi oranı vermiyor",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Şehirde sorunsuz; adventure motorlarda ıslak rögar ve zebra çizgilerinde tutuş için silika katkısı var.",
+      "uzunYol": "Asfalt ağırlıklı tatil rotaları için uygun.",
+      "yagmur": "Pirelli ıslak tutuşu sport-touring lastiği seviyesinde hedefliyor.",
+      "kurye": "Küçük adventure motoruyla çalışan kurye için ebat seçeneği var; ömür verisi yayınlanmıyor."
+    },
+    "verdict": "Scorpion Trail III, adventure motorunu asfaltta sportif kullanmayı seven ve arada stabilize yola giren sürücü için iyi bir seçim. Küçük hacimli adventure motorlarına da ebat sunması önemli bir artı. Ciddi arazi sürüşü için uygun değil.",
+    "rivals": [
+      "michelin/anakee-adventure-2",
+      "metzeler/tourance-next-2",
+      "anlas/capra-rd"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Scorpion Trail III toprak yola uygun mu?",
+        "a": "Pirelli onu virajlı yoldan çakıllı yola kadar kullanılabilecek bir adventure-touring lastiği olarak tanımlıyor. Stabilize yol uygun; çamur ve kum için daha bloklu bir lastik gerekir."
+      },
+      {
+        "q": "Küçük adventure motorlar için ebat var mı?",
+        "a": "Evet, 100/90-19, 110/80 R19 ön ve 130/80 R17, 140/80 R17 arka gibi ebatlar listede."
+      }
+    ],
+    "manufacturerUrl": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/scorpion-trail-iii",
+    "sources": [
+      {
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/scorpion-trail-iii",
+        "type": "manufacturer",
+        "label": "Pirelli UK – Scorpion Trail III ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "100/90-18",
+        "100/90-19",
+        "110/80 R18",
+        "110/80 R19",
+        "120/70 R19",
+        "120/70 ZR19",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "120/90-17",
+        "130/80 R17",
+        "140/80 R17",
+        "150/70 R17",
+        "150/70 ZR18",
+        "160/60 ZR17",
+        "170/60 R17",
+        "170/60 ZR17",
+        "180/55 ZR17"
+      ],
+      "compound": "Arka radyal ebatlarda çift bileşim, tam silika",
+      "features": [
+        "Yeni bileşim ve desen ile tutuş ve stabilite (üretici beyanı)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "angel-scooter",
+    "brand": "pirelli",
+    "name": "Angel Scooter",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Pirelli'nin şehir içi scooter lastiği: yüksek silika oranlı bileşim, çok yarıçaplı profil ve konfor odaklı yapı; 10–16 inç arası geniş ebat listesi.",
+    "description": [
+      "Angel Scooter, Pirelli'nin şehir içi mobilite için konfor, ıslak performans ve çeviklik odaklı scooter lastiği. Üretici; yüksek silika oranlı yeni bileşimle ıslakta üst düzey performans, sert yapı ile desen tasarımının birlikte çalışmasıyla konfor ve hızlı yön değişimi için çok yarıçaplı profil vaat ediyor.",
+      "Ebat listesi çok geniş: ön için 110/70-13, 120/70-12, 120/70-13, 120/70-14, 120/70-15, 100/80-16 gibi; arka için 130/70-13, 140/70-14, 150/70-13, 150/70-14, 140/60-14 gibi Türkiye'de yaygın scooter ebatları var. Kış lastiği değil; ebatlar M+S işaretli değil."
+    ],
+    "forWho": [
+      "Scooterla şehir içinde günlük ulaşım yapan sürücüler",
+      "PCX, NMAX, Forza, SH, XMAX gibi scooter sahipleri",
+      "Yağmurda tutuş ve konforu dengeleyen bir lastik arayanlar"
+    ],
+    "notFor": [
+      "Karlı ve buzlu yolda sürmek zorunda olanlar; kış lastiği gerekir",
+      "Sportif scooter sürüşünde en yüksek kuru tutuşu arayanlar; Pirelli bunun için Diablo Rosso Scooter sunuyor"
+    ],
+    "pros": [
+      "Yüksek silika oranlı bileşimle ıslak performans",
+      "Konfor odaklı yapı",
+      "10–16 inç arası çok geniş ebat listesi"
+    ],
+    "cons": [
+      "Kış kullanımı için tasarlanmamış",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: dur-kalk trafik, kısa mesafe.",
+      "yagmur": "Yüksek silika oranı ıslak performans için seçilmiş.",
+      "kurye": "Yaygın kurye scooter ebatları var; ıslak tutuş ve konfor kurye için avantaj, kış için ayrı lastik gerekir."
+    },
+    "verdict": "Angel Scooter, scooterını şehirde kullanan ve yağmurda güven isteyen sürücü için dengeli bir seçim. Ebat yelpazesi neredeyse her scooterı kapsıyor. Kışın da sürüyorsan M+S işaretli bir alternatif daha uygun olur.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "anlas/winter-grip-2"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Angel Scooter kışın kullanılabilir mi?",
+        "a": "Kış lastiği değil ve ebatları M+S işaretli değil. Soğuk ve karlı günler için M+S veya kış serisi bir scooter lastiği daha uygun."
+      },
+      {
+        "q": "Diablo Rosso Scooter ile farkı ne?",
+        "a": "Pirelli Angel Scooter'ı konfor ve ıslak performans, Diablo Rosso Scooter'ı ise sportif scooter sürüşü için konumlandırıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/angel-scooter",
+    "sources": [
+      {
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/angel-scooter",
+        "type": "manufacturer",
+        "label": "Pirelli UK – Angel Scooter ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "80/80-14",
+        "90/80-16",
+        "100/80-16",
+        "110/70-12",
+        "110/70-13",
+        "110/70-16",
+        "110/90-13",
+        "120/70-12",
+        "120/70-13",
+        "120/70-14",
+        "120/70-15"
+      ],
+      "sizesRear": [
+        "100/80-14",
+        "110/70-13",
+        "110/70-14",
+        "120/70-10",
+        "120/80-14",
+        "120/80-16",
+        "130/60-13",
+        "130/70-12",
+        "130/70-13",
+        "130/70-16",
+        "130/70 R16",
+        "130/80-15",
+        "140/60-13",
+        "140/60-14",
+        "140/70-12",
+        "140/70-13",
+        "140/70-14",
+        "140/70-16",
+        "150/70-13",
+        "150/70-14"
+      ],
+      "compound": "Yüksek silika oranlı bileşim",
+      "features": [
+        "Çok yarıçaplı profil",
+        "Konfor için sert yapı ve desen uyumu (üretici beyanı)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "roadtec-02",
+    "brand": "metzeler",
+    "name": "Roadtec 02",
+    "subcategories": [
+      "touring-lastik"
+    ],
+    "summary": "Metzeler'in süper-sport-touring lastiği: sürüş temposuna göre davranışı değişen uyarlanır desen, ön ve arkada tam silika bileşim; %43'ün üzerinde biyo-bazlı ve geri dönüştürülmüş malzeme.",
+    "description": [
+      "Roadtec 02, Metzeler'in sport-touring ile supersport arasında konumlandırdığı lastik. Üretici, desendeki dar oluk duvarlarının yüksek tempoda birleşerek lastiğin davranışını sport-touring'den super-sport'a kaydırdığını anlatıyor. Ön ve arkada yeni nesil tam silika bileşimler ıslak zemine kimyasal tutunmayı artırıyor; az oluklu, pürüzsüz temas yüzeyi titreşimi azaltıp sürüş hissini iyileştiriyor.",
+      "Metzeler, Roadtec 02'nin %43'ün üzerinde biyo-bazlı ve geri dönüştürülmüş malzemeden yapıldığını ve bunun bağımsız üçüncü tarafça ISO 14021 kapsamında doğrulandığını belirtiyor. Ebatlar: ön 120/70 ZR17, 110/80 R19, 120/70 R19; arka 150/70 R17, 160/60 ZR17, 170/60 R17, 170/60 ZR17, 180/55 ZR17, 190/50 ZR17 ve 190/55 ZR17."
+    ],
+    "forWho": [
+      "Hem uzun yol hem virajlı yolda tempolu sürüş yapan sport-touring sürücüleri",
+      "Naked, crossover ve 19 inç önlü asfalt odaklı adventure motor sahipleri",
+      "Islak tutuşa önem veren, malzeme sürdürülebilirliğini de dikkate alanlar"
+    ],
+    "notFor": [
+      "Pist günü odaklı sürücüler",
+      "Toprak yola düzenli giren adventure kullanıcıları"
+    ],
+    "pros": [
+      "Sürüş temposuna göre davranışı değişen desen",
+      "Ön ve arkada tam silika bileşim",
+      "17 ve 19 inç ön ebat",
+      "Bağımsız doğrulanmış biyo-bazlı/geri dönüştürülmüş malzeme oranı"
+    ],
+    "cons": [
+      "Ebat listesi rakiplerine göre daha dar (ör. 120/60 ZR17 ön yok)",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Hızlı ısınan silika bileşim günlük kullanımda rahat.",
+      "uzunYol": "Ana kullanım alanı: sport-touring.",
+      "yagmur": "Tam silika bileşim ve su tahliye kanalları ıslak zemin için tasarlanmış.",
+      "sport": "Desen yüksek tempoda daha sportif davranışa geçecek şekilde tasarlanmış; pist lastiği değil."
+    },
+    "verdict": "Roadtec 02, tek lastikten hem touring ömrü hem sportif his bekleyen sürücü için ilginç bir mühendislik çözümü sunuyor. Ebat listesi biraz dar; motoruna uygun ebat varsa Road 6 ve Angel GT II'nin güçlü bir rakibi.",
+    "rivals": [
+      "michelin/road-6",
+      "pirelli/angel-gt-ii",
+      "continental/contiroadattack-4"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Uyarlanır desen ne demek?",
+        "a": "Metzeler'e göre desendeki dar oluk duvarları yüksek tempoda birbirine kapanıyor ve lastik daha rijit, sportif bir davranışa geçiyor; sakin sürüşte ise touring karakterinde kalıyor."
+      },
+      {
+        "q": "Adventure motoruma uyar mı?",
+        "a": "Asfalt ağırlıklı kullanıyorsan 110/80 R19 ve 120/70 R19 ön ebatları var."
+      }
+    ],
+    "manufacturerUrl": "https://www.metzeler.com/en-gb/catalogue/product/roadtec-02",
+    "sources": [
+      {
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/roadtec-02",
+        "type": "manufacturer",
+        "label": "Metzeler UK – Roadtec 02 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "sport-touring",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "120/70 ZR17",
+        "110/80 R19",
+        "120/70 R19"
+      ],
+      "sizesRear": [
+        "150/70 R17",
+        "160/60 ZR17",
+        "170/60 R17",
+        "170/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": "Ön ve arkada yeni nesil tam silika bileşim",
+      "features": [
+        "Tempoya göre davranışı değişen uyarlanır desen",
+        "Ön ve arkada ortak desen tasarımı",
+        "Slick orta ve omuz bantları",
+        "%43'ün üzerinde biyo-bazlı ve geri dönüştürülmüş malzeme (ISO 14021 doğrulaması)"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "tourance-next-2",
+    "brand": "metzeler",
+    "name": "Tourance Next 2",
+    "subcategories": [
+      "adventure-lastik"
+    ],
+    "summary": "Metzeler'in enduro-cadde (adventure) motorları için asfalt ağırlıklı lastiği: %80 üzeri silika oranlı uyarlanır bileşim, 40–45 mm orta bant ve toprak yolda yanal stabilite için dik oluklar.",
+    "description": [
+      "Tourance Next 2, Metzeler'in enduro-cadde motorlarına özel geliştirdiği, asfalt odaklı ama toprak yola da izin veren adventure lastiği. Üretici; %80'in üzerinde silika ve sıvı SBR polimerli yeni uyarlanır bileşim, ıslak performans ve dayanım için 40–45 mm genişliğinde orta bant, toprak yolda yanal stabilite ve su tahliyesi için dik oluklar kullandığını belirtiyor. Gürültü emisyonunu azaltan ve sürüş yumuşaklığını artıran desen de öne çıkarılıyor.",
+      "Ebatlar: ön 90/90-21, 100/90-19, 110/80 R19, 120/70 R19, 120/70 ZR19; arka 130/80 R17, 140/80 R17, 150/70 R17, 150/70 R18, 150/70 ZR18, 170/60 R17, 170/60 ZR17. 21/18, 19/17 ve küçük adventure motorların 19/17 dar ebatlarına kadar uzanıyor. Üretici bir asfalt/arazi oranı vermiyor."
+    ],
+    "forWho": [
+      "Adventure motoruyla asfalt ağırlıklı uzun yol yapan, arada toprak yola sapan sürücüler",
+      "CB500X, V-Strom 650/800, Tenere 700, Africa Twin gibi motor sahipleri",
+      "Sessiz ve konforlu bir adventure lastiği arayanlar"
+    ],
+    "notFor": [
+      "Çamur, kum ve taşlık arazi sürüşü yapanlar",
+      "Saf sportif sürüş odaklı kullanıcılar"
+    ],
+    "pros": [
+      "%80 üzeri silika oranlı bileşim",
+      "Toprak yolda yanal stabilite için dik oluklar",
+      "Gürültüyü azaltan desen (üretici beyanı)",
+      "Küçük ve büyük adventure motorları için ebat"
+    ],
+    "cons": [
+      "Üretici asfalt/arazi oranı vermiyor",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Sessiz ve konforlu yapısı günlük kullanımda avantaj.",
+      "uzunYol": "Ana kullanım alanı: asfalt ağırlıklı adventure turları.",
+      "yagmur": "Yüksek silika oranı ve geniş orta bant ıslak performans için tasarlanmış.",
+      "kurye": "Küçük adventure motoruyla çalışan kurye için 100/90-19 ve 130/80 R17 gibi ebatlar var."
+    },
+    "verdict": "Tourance Next 2, adventure motorunu çoğunlukla asfaltta kullanan ama toprağa da girebilmek isteyen sürücü için dengeli ve konforlu bir lastik. Küçük adventure motorlarına ebat sunması artı. Ciddi arazi için Karoo 4 daha uygun.",
+    "rivals": [
+      "michelin/anakee-adventure-2",
+      "pirelli/scorpion-trail-iii",
+      "anlas/capra-rd"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Tourance Next 2 toprak yolda nasıl?",
+        "a": "Metzeler dik olukların toprak yolda yanal stabilite sağladığını belirtiyor. Stabilize ve hafif toprak yol için uygun; çamurda bloklu bir lastik gerekir."
+      },
+      {
+        "q": "Karoo 4 ile farkı ne?",
+        "a": "Tourance Next 2 asfalt odaklı, Karoo 4 ise çivili desenli ve arazi tarafı daha güçlü bir lastik."
+      }
+    ],
+    "manufacturerUrl": "https://www.metzeler.com/en-gb/catalogue/product/tourance-next-2",
+    "sources": [
+      {
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/tourance-next-2",
+        "type": "manufacturer",
+        "label": "Metzeler UK – Tourance Next 2 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "100/90-19",
+        "110/80 R19",
+        "120/70 R19",
+        "120/70 ZR19"
+      ],
+      "sizesRear": [
+        "130/80 R17",
+        "140/80 R17",
+        "150/70 R17",
+        "150/70 R18",
+        "150/70 ZR18",
+        "170/60 R17",
+        "170/60 ZR17"
+      ],
+      "compound": "%80 üzeri silika ve sıvı SBR polimerli uyarlanır bileşim",
+      "features": [
+        "40–45 mm orta bileşim bandı",
+        "Toprak yolda yanal stabilite için dik oluklar",
+        "Gürültüyü azaltan desen"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "karoo-4",
+    "brand": "metzeler",
+    "name": "Karoo 4",
+    "subcategories": [
+      "adventure-lastik",
+      "arazi-lastik"
+    ],
+    "summary": "Metzeler'in çivili adventure lastiği: patentli çok adımlı blok düzeni, radyal arkalarda çift bileşim, M+S işaretli; toprakta çekiş, asfaltta sessizlik hedefli.",
+    "description": [
+      "Karoo 4, Metzeler'in arazi kabiliyeti yüksek adventure lastiği. Üretici; patentli çok adımlı blok düzeniyle gürültüyü azalttığını, tüm radyal arkalarda merkezde aşınma ve yırtılmaya dayanıklı karbon siyahı, altta silikalı yumuşak taban bileşimi kullandığını, INTERACT çelik kuşak yapısıyla sürüş hissini iyileştirdiğini anlatıyor. DETRATEC desen çamuru tutup çekişe yardım ettikten sonra kendini temizliyor; DYMATEC ise oluk duvar açılarını yatışa göre değiştirerek aşınmayı dengeliyor.",
+      "Ebatlar M+S işaretli: ön 90/90-21, 100/90-19, 110/80 R19, 120/70 R19; arka 130/80 R17, 140/80 R17, 140/80-18, 150/70 R17, 150/70 R18, 150/70-17, 150/70-18, 170/60 R17. Temas alanında daha fazla blok olması, asfaltta yuvarlanma yumuşaklığı ve elektronik sürüş yardımlarıyla uyum için tasarlanmış."
+    ],
+    "forWho": [
+      "Adventure motoruyla düzenli olarak toprak, çakıl ve hafif çamurlu yola giren sürücüler",
+      "Tenere 700, Africa Twin, KTM 890 Adventure, R 1300 GS gibi motor sahipleri",
+      "Uzun adventure turunda hem asfalt hem arazi etabı olan sürücüler"
+    ],
+    "notFor": [
+      "Yolun büyük kısmını otoban ve virajlı asfaltta geçirenler",
+      "Kurye kullanımı: çivili desen yüksek km'de ve ıslak asfaltta doğru seçim değil"
+    ],
+    "pros": [
+      "Çivili desene rağmen gürültüyü azaltan blok düzeni (üretici beyanı)",
+      "Radyal arkalarda çift bileşim",
+      "Çamurda kendini temizleyen DETRATEC desen",
+      "M+S işaretli, 21/18 ve 19/17 ebatlar"
+    ],
+    "cons": [
+      "Asfaltta yol lastiklerine göre daha hızlı aşınır",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir, ama çivili desen şehir içinde avantaj sağlamaz; ıslak asfaltta dikkat ister.",
+      "uzunYol": "Toprak etaplı adventure turları için tasarlanmış.",
+      "yagmur": "Üretici ıslak performansı INTERACT yapıyla destekliyor; çivili lastik ıslak asfaltta yol lastiği kadar güven vermez."
+    },
+    "verdict": "Karoo 4, adventure motorunu gerçekten araziye sokan sürücü için Türkiye'deki ciddi seçeneklerden biri. Çivili desene rağmen asfalt konforunu düşünmüş. Asfalt ağırlıklı kullanıyorsan Tourance Next 2 daha mantıklı.",
+    "rivals": [
+      "continental/tkc-70",
+      "anlas/capra-x",
+      "michelin/anakee-adventure-2"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "Karoo 4 asfaltta kullanılabilir mi?",
+        "a": "Evet, Metzeler blok düzenini asfaltta sessizlik ve yuvarlanma yumuşaklığı için de tasarladığını belirtiyor; yine de yol lastiğine göre aşınma ve ıslak tutuş tarafında taviz verilir."
+      },
+      {
+        "q": "Radyal ve çapraz ebat farkı var mı?",
+        "a": "Listede hem radyal (ör. 150/70 R17) hem çapraz (ör. 150/70-17) ebatlar var. Motorunun kılavuzunda belirtilen yapıyı seç."
+      }
+    ],
+    "manufacturerUrl": "https://www.metzeler.com/en-gb/catalogue/product/karoo-4",
+    "sources": [
+      {
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/karoo-4",
+        "type": "manufacturer",
+        "label": "Metzeler UK – Karoo 4 ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.onOffRoad",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "M+S",
+        "TL"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "100/90-19",
+        "110/80 R19",
+        "120/70 R19"
+      ],
+      "sizesRear": [
+        "130/80 R17",
+        "140/80 R17",
+        "140/80-18",
+        "150/70 R17",
+        "150/70 R18",
+        "150/70-17",
+        "150/70-18",
+        "170/60 R17"
+      ],
+      "compound": "Radyal arkalarda EDGE&BASE çift bileşim (karbon siyahı merkez, silikalı taban)",
+      "features": [
+        "Patentli çok adımlı blok düzeni",
+        "INTERACT çok bölgeli çelik kuşak",
+        "DETRATEC kendini temizleyen desen",
+        "DYMATEC değişken oluk açısı"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "battlax-hypersport-s23",
+    "brand": "bridgestone",
+    "name": "Battlax Hypersport S23",
+    "subcategories": [
+      "sport-lastik"
+    ],
+    "summary": "Bridgestone'un hypersport yol lastiği: ön 3 katmanlı, arka MotoGP mühendislerinin geliştirdiği 5 katmanlı bileşim; 120/70 ZR17 ön, 160/60–200/55 ZR17 arka.",
+    "description": [
+      "Battlax Hypersport S23, Bridgestone'un yolda sportif sürüş için en üst seviye lastiği. Ön lastikte merkezde sert, omuzlarda yumuşak 3 katmanlı bileşim; arkada Bridgestone'un MotoGP mühendislerinin geliştirdiğini söylediği, üç farklı bileşimli 5 katmanlı yapı var. Ön lastikte silika oranı artırılmış Silica Rich EX, RC Polymer ve NanoPro-Tech bileşim teknolojileri ıslak ve soğukta tutuşu hedefliyor.",
+      "Üretici önceki nesle göre ıslakta %4 daha hızlı tur, %3 daha kısa ıslak fren mesafesi ve %8 daha fazla ömür bildiriyor. Ebat listesi sade: ön yalnız 120/70 ZR17; arka 160/60, 180/55, 190/50, 190/55 ve 200/55 ZR17. Yamaha MT-09 ve YZF-R7 gibi modellerde orijinal ekipman olarak kullanılıyor."
+    ],
+    "forWho": [
+      "Supersport ve süper naked motorlarıyla virajlı yolda hızlı süren sürücüler",
+      "MT-09, R7, Ninja 1100SX gibi 120/70–180/55 ebatlı motor sahipleri",
+      "Arada pist gününe katılan ama esas olarak yolda süren kullanıcılar"
+    ],
+    "notFor": [
+      "Küçük hacimli sport motor sahipleri: 110/70 veya 140/70 ebatları yok",
+      "Kurye ve yüksek km kullanıcıları"
+    ],
+    "pros": [
+      "Arkada 5 katmanlı, ön 3 katmanlı bileşim",
+      "Önceki nesle göre ıslak tutuş ve ömür iyileşmesi (üretici beyanı)",
+      "Orijinal ekipman olarak kullanılıyor"
+    ],
+    "cons": [
+      "Ön ebat yalnız 120/70 ZR17",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama sport lastik şehir içinde avantaj sağlamaz.",
+      "uzunYol": "Virajlı rotalarda keyifli; düz otobanda ortası hızlı aşınır.",
+      "yagmur": "Silica Rich EX ve desen tasarımı ıslak için iyileştirilmiş; yine de touring lastiği kadar geniş pay beklenmemeli.",
+      "sport": "Ana kullanım alanı: yolda hypersport sürüş, ara sıra pist."
+    },
+    "verdict": "Battlax S23, 600 cc ve üstü sport/naked motorunu yolda hızlı kullanan sürücü için en iddialı lastiklerden biri. Ebat listesi dar olduğu için önce motorunun ebadını kontrol et. Ömür önceliğin varsa T32 gibi bir sport-touring lastiği daha mantıklı.",
+    "rivals": [
+      "pirelli/diablo-rosso-iv",
+      "michelin/power-6",
+      "anlas/viento-sport"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "5 katmanlı bileşim ne demek?",
+        "a": "Bridgestone'a göre arka lastikte merkez sert (stabilite ve ömür), yarı yatış bölgesi orta (çıkışta çekiş), en dış kenar ise çok yumuşak (derin yatışta tutuş) bileşimden oluşuyor."
+      },
+      {
+        "q": "Küçük sport motoruma uyar mı?",
+        "a": "Ön ebat yalnız 120/70 ZR17, arka en küçük 160/60 ZR17. 110/70 veya 140/70 kullanan motorlar için uygun ebat yok."
+      }
+    ],
+    "manufacturerUrl": "https://www.bridgestone.co.uk/motorcycle-tyres/sport/battlax-s23.html",
+    "sources": [
+      {
+        "url": "https://www.bridgestone.co.uk/motorcycle-tyres/sport/battlax-s23.html",
+        "type": "manufacturer",
+        "label": "Bridgestone UK – Battlax Hypersport S23 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.bridgestone.co.uk/content/dam/website/documents/tyre-size-table/uk/motorcycle/Battlax%20S23%20tyre%20size%20table.pdf",
+        "type": "manufacturer",
+        "label": "Bridgestone UK – Battlax S23 ebat tablosu (PDF)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://press.bridgestone-emea.com/bridgestone-launches-its-next-generation-sports-motorcycle-tyre-the-battlax-hypersport-s23/",
+        "type": "manufacturer",
+        "label": "Bridgestone EMEA basın bülteni – S23 lansmanı",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "hypersport",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "160/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17",
+        "200/55 ZR17"
+      ],
+      "compound": "Ön 3 katmanlı, arka 5 katmanlı (3 farklı bileşim); Silica Rich EX, RC Polymer, NanoPro-Tech",
+      "features": [
+        "HTSPC çelik kord",
+        "Darbe şekilli oluklar ve merkez saptırıcılar",
+        "Ultimate Eye ile geliştirilmiş temas alanı"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "battlax-sport-touring-t32",
+    "brand": "bridgestone",
+    "name": "Battlax Sport Touring T32",
+    "subcategories": [
+      "touring-lastik"
+    ],
+    "summary": "Bridgestone'un sport-touring amiral lastiği: 3 katmanlı bileşim + Cap & Base, Pulse Groove desen; ağır motorlar için ayrı GT sürümü, 17–19 inç ön ebatlar.",
+    "description": [
+      "Battlax Sport Touring T32, Bridgestone'un sport-touring sınıfındaki amiral modeli. Üretici, orta bölgede ömür, omuzlarda tutuş sağlayan 3 katmanlı bileşimi; altındaki Cap & Base katmanının desen rijitliği ve her hava koşulunda performansı artırdığını belirtiyor. Pulse Groove adlı yeni desen teknolojisi su akışını eşitleyerek ıslakta tahliyeyi iyileştiriyor. Bridgestone önceki nesle göre ıslakta %7 daha kısa fren mesafesi ve arka lastikte %13 daha büyük temas alanı bildiriyor.",
+      "Orta ve ağır motorlar için optimize edilmiş ayrı bir T32 GT sürümü var; üretici bunun %10 daha uzun ömür sunduğunu söylüyor. Ebat tablosu geniş: ön 110/70 ZR17, 120/60 ZR17, 120/70 ZR17, 120/70 R17, 110/80 ZR18, 110/80 R18, 120/70 ZR18, 110/80 ZR19, 120/70 ZR19; arka 150/70 ZR17'den 190/55 ZR17'ye ve 140/70 R18, 160/60 ZR18'e kadar."
+    ],
+    "forWho": [
+      "Yıl boyu yüksek km yapan sport-touring ve naked sürücüleri",
+      "Tracer 9, MT-09, FJR, R 1250 RT gibi motor sahipleri (ağır motorlar için GT sürümü)",
+      "17, 18 ve 19 inç ön jantlı motorlarda tek marka ile çözüm arayanlar"
+    ],
+    "notFor": [
+      "Pist günü odaklı sürücüler",
+      "Toprak yola düzenli giren adventure kullanıcıları"
+    ],
+    "pros": [
+      "3 katmanlı bileşim ve Cap & Base yapı",
+      "Ağır motorlar için ayrı GT sürümü",
+      "17, 18 ve 19 inç ön jant seçenekleri",
+      "Önceki nesle göre ıslak fren mesafesinde iyileşme (üretici beyanı)"
+    ],
+    "cons": [
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık",
+      "GT ve standart sürüm ayrımı satın alırken dikkat ister"
+    ],
+    "usage": {
+      "sehir": "Silika zengin bileşim soğukta hızlı ısınma için tasarlanmış; günlük kullanıma uygun.",
+      "uzunYol": "Ana kullanım alanı: sport-touring, yüklü yolculuk (ağır motorda GT).",
+      "yagmur": "Pulse Groove desen ve Silica Rich bileşim ıslak performans için tasarlanmış.",
+      "kurye": "Orta ve büyük motorla yüksek km yapan kurye için ömür avantajı sağlar."
+    },
+    "verdict": "Battlax T32, sport-touring sınıfında ebat yelpazesi en geniş lastiklerden biri; ağır motorlar için GT sürümü önemli bir artı. Yağmurda da km yapan sürücü için dengeli bir seçim. Türkiye fiyatını ebat bazında yetkili bayiden teyit etmek gerekiyor.",
+    "rivals": [
+      "michelin/road-6",
+      "pirelli/angel-gt-ii",
+      "continental/contiroadattack-4"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "T32 mi T32 GT mi?",
+        "a": "Bridgestone GT sürümünü orta ve ağır motosikletler için optimize ettiğini ve %10 daha uzun ömür sunduğunu belirtiyor. Ağır touring motorun varsa GT ebatlarına bak."
+      },
+      {
+        "q": "18 inç jantlı motorlar için ebat var mı?",
+        "a": "Evet, ön 110/80 ZR18, 110/80 R18, 120/70 ZR18 ve arka 140/70 R18, 160/60 ZR18 ebatları var."
+      }
+    ],
+    "manufacturerUrl": "https://www.bridgestone.co.uk/motorcycle-tyres/touring/battlax-t32.html",
+    "sources": [
+      {
+        "url": "https://www.bridgestone.co.uk/motorcycle-tyres/touring/battlax-t32.html",
+        "type": "manufacturer",
+        "label": "Bridgestone UK – Battlax Sport Touring T32 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.bridgestone.co.uk/content/dam/website/documents/tyre-size-table/uk/motorcycle/Battlax%20T32.pdf",
+        "type": "manufacturer",
+        "label": "Bridgestone UK – Battlax T32 ebat tablosu (PDF)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "sport-touring",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "110/70 ZR17",
+        "120/60 ZR17",
+        "120/70 ZR17",
+        "120/70 R17",
+        "110/80 ZR18",
+        "110/80 R18",
+        "120/70 ZR18",
+        "110/80 ZR19",
+        "120/70 ZR19"
+      ],
+      "sizesRear": [
+        "150/70 ZR17",
+        "160/60 ZR17",
+        "160/70 ZR17",
+        "170/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17",
+        "190/55 R17",
+        "140/70 R18",
+        "160/60 ZR18"
+      ],
+      "compound": "3 katmanlı bileşim (3LC) + Cap & Base; Silica Rich, RC Polymer, NanoPro-Tech",
+      "features": [
+        "Pulse Groove desen",
+        "HTSPC çelik kord",
+        "Ağır motorlar için ayrı GT sürümü"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "contiroadattack-4",
+    "brand": "continental",
+    "name": "ContiRoadAttack 4",
+    "subcategories": [
+      "touring-lastik"
+    ],
+    "summary": "Continental'in 'hyper touring' lastiği: yeni bileşim ve desenle ıslakta büyük gelişme, üst omuzda slick bölge, TractionSkin ile kısa alıştırma; ağır motorlar için GT ebatları.",
+    "description": [
+      "ContiRoadAttack 4, Continental'in sport-touring sınıfındaki 'hyper touring' lastiği. Üretici, yeni bileşim ve desenle ıslak performansta büyük bir sıçrama, kuruda ise saf sport lastiklerine yaklaşan tutuş vaat ediyor. Soğuk ve ıslakta hızlı ısınma, üst omuz bölgesindeki slick alanla yüksek yatışta viraj tutuşu ve TractionSkin mikro pürüzlü yüzeyle kısa alıştırma süresi öne çıkan başlıklar.",
+      "Ebatlar: ön 120/70 ZR17, 110/80 R19, 120/70 ZR19; arka 150/70 R17, 160/60 ZR17, 170/60 ZR17, 180/55 ZR17, 190/50 ZR17 ve 190/55 ZR17. 120/70 ZR17 ön ile 180/55, 190/50, 190/55 arka ebatlarının ağır motorlar için ayrı GT sürümleri var. BMW F 900 XR ve R 12 nineT'de orijinal ekipman olarak kullanılıyor."
+    ],
+    "forWho": [
+      "Sportif tempoda uzun yol yapan sport-touring ve naked sürücüleri",
+      "Yağmurda ve soğukta hızlı ısınan bir lastik arayanlar",
+      "F 900 XR, MT-09, Tracer 9, Street Triple gibi motor sahipleri"
+    ],
+    "notFor": [
+      "Pist günü odaklı sürücüler",
+      "Toprak yola düzenli giren adventure kullanıcıları"
+    ],
+    "pros": [
+      "Islak ve soğukta hızlı ısınma",
+      "Üst omuzda slick bölge ile yatışta tutuş",
+      "TractionSkin ile kısa alıştırma",
+      "Ağır motorlar için GT ebatları"
+    ],
+    "cons": [
+      "Ebat listesi rakiplerden dar (ör. 110/70 veya 120/60 ön yok)",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Hızlı ısınması günlük kısa sürüşlerde avantaj.",
+      "uzunYol": "Ana kullanım alanı: sportif tempoda touring.",
+      "yagmur": "Islak performans modelin ana vaadi.",
+      "sport": "Üretici kuruda sport lastiklerine yakın tutuş vaat ediyor; pist lastiği değil."
+    },
+    "verdict": "ContiRoadAttack 4, sport-touring lastiğinden sportif his de bekleyen sürücü için güçlü bir aday. Islak ve soğuk havadaki hızlı ısınması günlük kullanımda fark yaratıyor. Önce motorunun ebadının listede olduğunu kontrol et.",
+    "rivals": [
+      "metzeler/roadtec-02",
+      "bridgestone/battlax-sport-touring-t32",
+      "michelin/road-6"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "GT işaretli ebatlar ne için?",
+        "a": "Continental GT ebatlarını ağır motosikletler için sunuyor; 120/70 ZR17 ön ve 180/55, 190/50, 190/55 ZR17 arkada GT sürümü var."
+      },
+      {
+        "q": "Alıştırma gerekiyor mu?",
+        "a": "TractionSkin yüzeyi alıştırma süresini kısaltıyor, ama Continental yine de ilk kilometrelerde lastiği ölçülü ve dengeli yüklemeyi öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.continental-tires.com/products/motorcycle/tires/contiroadattack-4/",
+    "sources": [
+      {
+        "url": "https://www.continental-tires.com/products/motorcycle/tires/contiroadattack-4/",
+        "type": "manufacturer",
+        "label": "Continental – ContiRoadAttack 4 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/products/motorcycle/product-fact-sheets/Continental__Motorcycle__Delivery-Range__EN__screen.pdf.coredownload.pdf",
+        "type": "manufacturer",
+        "label": "Continental – Motosiklet lastiği teslimat programı 2026 (PDF, ebat listesi)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "sport-touring",
+      "construction": "radyal",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "120/70 ZR17",
+        "110/80 R19",
+        "120/70 ZR19"
+      ],
+      "sizesRear": [
+        "150/70 R17",
+        "160/60 ZR17",
+        "170/60 ZR17",
+        "180/55 ZR17",
+        "190/50 ZR17",
+        "190/55 ZR17"
+      ],
+      "compound": "Yeni silika bileşim (üretici beyanı)",
+      "features": [
+        "TractionSkin mikro pürüzlü yüzey",
+        "Üst omuzda slick bölge",
+        "MultiGrip, ZeroDegree, RainGrip, EasyHandling teknolojileri",
+        "Ağır motorlar için GT ebatları"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "tkc-70",
+    "brand": "continental",
+    "name": "TKC 70",
+    "subcategories": [
+      "adventure-lastik",
+      "arazi-lastik"
+    ],
+    "summary": "Continental'in %70 asfalt / %30 arazi beyanlı adventure lastiği: TKC 80 ile TrailAttack 3 arasında, M+S işaretli, 240 km/s'ye kadar hız endeksi; 21/18, 19/17 ve 17/17 ebatlar.",
+    "description": [
+      "TKC 70, Continental'in efsanevi arazi lastiği TKC 80 ile yol odaklı ContiTrailAttack 3'ün en iyi yanlarını birleştirdiğini söylediği adventure lastiği. Üretici kullanım oranını %70 asfalt / %30 arazi olarak veriyor; hafif ve orta seviye arazi kullanımına uygun, asfaltta sessiz ve stabil, toprak yolda güvenli bir lastik olarak tanımlıyor. Bileşimin ıslak tutuşu yüksek ve ısınma süresi kısa.",
+      "Ebatlar M+S işaretli: ön 90/90-21, 3.00-21, 120/70 R19, 110/80 R19, 100/90-19, 110/80 R18, 120/70 ZR17; arka 150/70 R18, 4.00-18, 180/55 ZR17, 170/60 R17, 160/60 ZR17, 150/70 R17, 140/80 R17, 130/80-17, 120/90-17. Bazı ebatlar M+S işaretine rağmen V veya W hız endeksli. Daha arazi odaklı arka için TKC 70 Rocks seçeneği ayrıca var."
+    ],
+    "forWho": [
+      "Adventure motoruyla düzenli olarak toprak ve çakıllı yola giren ama asfaltı da çok kullanan sürücüler",
+      "Tenere 700, Africa Twin, R 1300 GS, KTM 890 Adventure, CB500X gibi motor sahipleri",
+      "Görünüm olarak bloklu lastik isteyip asfalt konforundan çok taviz vermek istemeyenler"
+    ],
+    "notFor": [
+      "Ağır arazi, çamur ve kum odaklı sürücüler: TKC 80 daha uygun",
+      "Kurye kullanımı: bloklu desen yüksek km'de hızlı aşınır"
+    ],
+    "pros": [
+      "Üretici beyanı 70/30 asfalt-arazi dengesi",
+      "Bloklu desene rağmen asfaltta sessiz ve stabil (üretici beyanı)",
+      "Islak tutuş ve kısa ısınma",
+      "Çok geniş ebat listesi, 17 inç jantlı motorlar dahil"
+    ],
+    "cons": [
+      "Bloklu desen asfaltta yol lastiğinden hızlı aşınır",
+      "Türkiye'de yetkili mağaza fiyatını doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir; ıslak tutuşu iyi ama bloklu desen şehirde avantaj sağlamaz.",
+      "uzunYol": "Asfalt ve toprak karışık adventure turları için tasarlanmış.",
+      "yagmur": "Continental bileşimin ıslak tutuşunu öne çıkarıyor.",
+      "kis": "M+S işaretli ama kış lastiği değil."
+    },
+    "verdict": "TKC 70, adventure motorunu hem asfaltta hem toprakta gerçekten kullanan sürücü için en dengeli bloklu lastiklerden biri. 70/30 beyanı kullanım alanını net çiziyor. Ağır arazi için TKC 80, saf asfalt için yol odaklı bir adventure lastiği daha doğru.",
+    "rivals": [
+      "metzeler/karoo-4",
+      "michelin/anakee-adventure-2",
+      "anlas/capra-x"
+    ],
+    "offers": [],
+    "faq": [
+      {
+        "q": "TKC 70 ile TKC 80 farkı ne?",
+        "a": "Continental TKC 70'i %70 asfalt / %30 arazi kullanıma, TKC 80'i ise arazi ağırlıklı kullanıma yönelik konumlandırıyor."
+      },
+      {
+        "q": "M+S işaretli olduğu halde hız endeksi neden yüksek?",
+        "a": "Continental bazı ebatların M+S işaretine rağmen V (240 km/s) veya W (270 km/s üzeri) hız endeksli olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.continental-tires.com/products/motorcycle/tires/tkc-70/",
+    "sources": [
+      {
+        "url": "https://www.continental-tires.com/products/motorcycle/tires/tkc-70/",
+        "type": "manufacturer",
+        "label": "Continental – TKC 70 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/products/motorcycle/product-fact-sheets/Continental__Motorcycle__Delivery-Range__EN__screen.pdf.coredownload.pdf",
+        "type": "manufacturer",
+        "label": "Continental – Motosiklet lastiği teslimat programı 2026 (PDF, ebat listesi ve 70/30 oranı)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "adventure",
+      "construction": "karma",
+      "onOffRoad": "70/30",
+      "season": null,
+      "markings": [
+        "M+S"
+      ],
+      "sizesFront": [
+        "90/90-21",
+        "3.00-21",
+        "120/70 R19",
+        "110/80 R19",
+        "100/90-19",
+        "110/80 R18",
+        "120/70 ZR17"
+      ],
+      "sizesRear": [
+        "150/70 R18",
+        "4.00-18",
+        "180/55 ZR17",
+        "170/60 R17",
+        "160/60 ZR17",
+        "150/70 R17",
+        "140/80 R17",
+        "130/80-17",
+        "120/90-17"
+      ],
+      "compound": "Islak tutuşu yüksek, kısa ısınma süreli bileşim (üretici beyanı)",
+      "features": [
+        "TKC 80 ile ContiTrailAttack 3 arası konum",
+        "MultiGrip, ZeroDegree, RainGrip teknolojileri",
+        "Arazi odaklı arka için TKC 70 Rocks seçeneği"
+      ],
+      "madeIn": null
+    },
+    "priceRange": null
+  }
+]

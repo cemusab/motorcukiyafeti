@@ -6,7 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { AccessorySchema, ApparelSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, MotorcycleSchema, ReviewSchema } from "../src/data/schema";
+import { AccessorySchema, ApparelSchema, CareSchema, TireSchema, BrandSchema, CompatSchema, GuideSchema, HelmetSchema, IntercomSchema, MediaSchema, MotorcycleSchema, ReviewSchema } from "../src/data/schema";
 import { allSubcategories } from "../src/data/categories";
 
 const root = path.join(__dirname, "..", "src", "data");
@@ -35,6 +35,8 @@ const helmets = pfiles("kask").flatMap((f) => load(`products/${f}`, HelmetSchema
 const intercoms = pfiles("interkom").flatMap((f) => load(`products/${f}`, IntercomSchema));
 const apparel = ["mont", "eldiven", "bot", "pantolon", "koruma", "yagmurluk", "termal"].flatMap((c) => pfiles(c).flatMap((f) => load(`products/${f}`, ApparelSchema)));
 const accessories = pfiles("aksesuar").flatMap((f) => load(`products/${f}`, AccessorySchema));
+const tires = pfiles("lastik").flatMap((f) => load(`products/${f}`, TireSchema));
+const care = pfiles("yag-bakim").flatMap((f) => load(`products/${f}`, CareSchema));
 const brands = fs.readdirSync(root).filter((f) => /^brands.*\.json$/.test(f)).flatMap((f) => load(f, BrandSchema));
 for (const b of brands) if (brands.filter((x) => x.slug === b.slug).length > 1) errors.push(`Yinelenen marka: ${b.slug}`);
 const compat = fs.readdirSync(root).filter((f) => /^compat.*\.json$/.test(f)).flatMap((f) => load(f, CompatSchema));
@@ -43,7 +45,7 @@ const guides = fs.existsSync(guideDir)
   ? fs.readdirSync(guideDir).filter((f) => f.endsWith(".json")).flatMap((f) => load(`guides/${f}`, GuideSchema))
   : [];
 
-const products = [...helmets, ...intercoms, ...apparel, ...accessories];
+const products = [...helmets, ...intercoms, ...apparel, ...accessories, ...tires, ...care];
 const ids = new Set<string>();
 const subSlugs = new Set(allSubcategories().map((x) => `${x.category.slug}/${x.sub.slug}`));
 const brandSlugs = new Set(brands.map((b) => b.slug));
@@ -83,7 +85,7 @@ for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r))
     else seen.add(r.data.slug);
   });
 }
-console.log(`Ürün: ${products.length} (kask ${helmets.length}, interkom ${intercoms.length}, giyim ${apparel.length}) · Marka: ${brands.length} · Uyumluluk: ${compat.length} · Rehber: ${guides.length}`);
+console.log(`Ürün: ${products.length} (kask ${helmets.length}, interkom ${intercoms.length}, giyim ${apparel.length}, aksesuar ${accessories.length}, lastik ${tires.length}, yağ-bakım ${care.length}) · Marka: ${brands.length} · Uyumluluk: ${compat.length} · Rehber: ${guides.length}`);
 warn.forEach((w) => console.log("UYARI  " + w));
 errors.forEach((e) => console.log("HATA   " + e));
 process.exit(errors.length ? 1 : 0);

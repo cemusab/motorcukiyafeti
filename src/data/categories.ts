@@ -29,7 +29,9 @@ export type IconName =
   | "koruma"
   | "yagmurluk"
   | "termal"
-  | "aksesuar";
+  | "aksesuar"
+  | "lastik"
+  | "yag";
 
 const s = (slug: string, name: string, intro: string): Subcategory => ({ slug, name, intro });
 
@@ -259,6 +261,57 @@ export const CATEGORIES: Category[] = [
           s("motosiklet-cantasi", "Motosiklet Çantası", "Depo üstü, sele, yan ve sırt çantaları; kurye çantaları."),
           s("kask-aksesuari", "Kask Aksesuarı", "Pinlock lens, yedek vizör, kask çantası ve bakım ürünleri."),
           s("kulak-tikaci", "Kulak Tıkacı", "Rüzgar gürültüsünü azaltan, işitmeyi koruyan kulak tıkaçları."),
+        ],
+      },
+    ],
+  },
+  {
+    slug: "lastik",
+    name: "Lastik",
+    short: "Lastik",
+    icon: "lastik",
+    intro: "Motosiklet lastiği; kullanım tipine (sport, touring, adventure, scooter, arazi) ve motorunun fabrika ebadına göre seçilir. Ebatlar ve teknik bilgiler üreticinin resmi listesinden.",
+    guide: "motosiklet-lastik-markalari",
+    groups: [
+      {
+        title: "Kullanıma göre",
+        items: [
+          s("sport-lastik", "Sport Lastik", "Yol tutuşu öncelikli sport ve hypersport lastikleri; pist günü ve virajlı yollar için."),
+          s("touring-lastik", "Touring Lastik", "Uzun ömür ve ıslak zemin performansı öncelikli sport-touring ve touring lastikleri."),
+          s("adventure-lastik", "Adventure Lastik", "Asfalt ve toprak karma kullanım için; üreticinin yol/arazi oranı beyanıyla."),
+          s("scooter-lastik", "Scooter ve Şehir Lastiği", "Scooter ve şehir içi motosikletler için; yağmur ve yüksek km odaklı seriler."),
+          s("arazi-lastik", "Arazi Lastiği", "Enduro, cross ve trial kullanımı için çivili lastikler."),
+        ],
+      },
+      {
+        title: "Mevsime göre",
+        items: [s("kis-lastik", "Kışa Uygun Lastik", "M+S veya kar işaretli, soğukta ve ıslakta tutuş odaklı lastikler (çoğunlukla scooter).")],
+      },
+    ],
+  },
+  {
+    slug: "yag-bakim",
+    name: "Yağ ve Bakım",
+    short: "Yağ & Bakım",
+    icon: "yag",
+    intro: "Motosiklet motor yağı JASO sınıfı (vitesli motorda MA/MA2, scooter'da MB) ve kılavuzdaki viskoziteye göre seçilir. Zincir, fren ve soğutma bakım ürünleri de burada.",
+    guide: "motosiklet-yagi-ve-bakim-urunleri",
+    groups: [
+      {
+        title: "Motor yağı",
+        items: [
+          s("motor-yagi", "Motosiklet Yağı (4 Zamanlı)", "Islak debriyajlı vitesli motosikletler için JASO MA/MA2 yağlar."),
+          s("scooter-yagi", "Scooter Yağı", "CVT'li scooter'lar için JASO MB yağlar."),
+          s("iki-zamanli-yag", "2 Zamanlı Yağ", "Yakıta karışan 2 zamanlı motor yağları (JASO FC/FD)."),
+        ],
+      },
+      {
+        title: "Bakım ürünleri",
+        items: [
+          s("zincir-bakim", "Zincir Yağı ve Temizleyici", "Zincir yağlama spreyleri ve zincir temizleyiciler."),
+          s("fren-hidroligi", "Fren Hidroliği", "DOT 4 / DOT 5.1 fren hidrolikleri; sınıfı kılavuza göre seçilir."),
+          s("sogutma-sivisi", "Soğutma Sıvısı", "Sıvı soğutmalı motorlar için antifriz ve soğutma sıvıları."),
+          s("temizlik-bakim", "Temizlik ve Bakım", "Motosiklet şampuanı, kask ve vizör temizleyici ve diğer bakım ürünleri."),
         ],
       },
     ],

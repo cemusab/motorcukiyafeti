@@ -74,6 +74,10 @@ export function Header() {
           <nav aria-label="Yardımcı bağlantılar" className="flex items-center gap-5">
             <Link href="/yeni-baslayanlar" className="hover:text-red">Yeni başlayanlar</Link>
             <Link href="/motosikletime-gore/kurye" className="hover:text-red">Kuryeler için</Link>
+            {/* lg genişlikte kırmızı çubuğa sığmayan bağlantılar burada (xl ve üstünde çubukta). */}
+            <Link href="/motosikletime-gore" className="hover:text-red xl:hidden">Motosikletime göre</Link>
+            <Link href="/markalar" className="hover:text-red xl:hidden">Markalar</Link>
+            <Link href="/rehber" className="hover:text-red xl:hidden">Rehberler</Link>
             <Link href="/hakkimizda" className="hover:text-red">Hakkımızda</Link>
             <Link href="/iletisim" className="hover:text-red">İletişim</Link>
           </nav>
@@ -159,8 +163,8 @@ export function Header() {
               </div>
             </li>
           ))}
-          <li className="mx-1 my-2.5 w-px bg-white/25" aria-hidden />
-          <li className="group relative">
+          <li className="mx-1 my-2.5 hidden w-px bg-white/25 xl:block" aria-hidden />
+          <li className="group relative hidden xl:block">
             <Link href="/motosikletime-gore" className="block px-2.5 py-3 text-white group-hover:bg-red-dark xl:px-3">
               Motosikletime Göre
             </Link>
@@ -180,7 +184,7 @@ export function Header() {
             </div>
           </li>
           {NAV_EXTRA.filter((n) => n.href === "/markalar" || n.href === "/rehber").map((n) => (
-            <li key={n.href}>
+            <li key={n.href} className="hidden xl:block">
               <Link href={n.href} className="block px-2.5 py-3 text-white hover:bg-red-dark xl:px-3">
                 {n.label}
               </Link>

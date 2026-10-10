@@ -9,7 +9,7 @@ test.describe.configure({ mode: "serial" });
 
 test("tüm iç linkler, anchor'lar ve görseller çalışıyor", async ({ page, baseURL, request }, info) => {
   test.skip(info.project.name !== "desktop", "Tarayıcı testi bir kez çalışır");
-  test.setTimeout(900_000);
+  test.setTimeout(1_800_000);
   const origin = new URL(baseURL!).origin;
 
   const seeds = new Set<string>(["/"]);

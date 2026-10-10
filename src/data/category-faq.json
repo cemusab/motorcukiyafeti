@@ -190,5 +190,41 @@
       "q": "Kaska sonradan aksesuar takmak güvenli mi?",
       "a": "Üreticinin uyumlu ilan ettiği aksesuarlar, örneğin Pinlock iç ekranı veya kaskın hoparlör ceplerine yerleşen interkom, sorun çıkarmaz. ECE 22.06 kaskla sunulan ve sonradan takılan aksesuarlar için kurallar getirdi. Kabuğu delen, kesen ya da yapıştırıcıyla kalıcı değişiklik gerektiren eklemelerden kaçın."
     }
+  ],
+  "lastik": [
+    {
+      "q": "Motosikletime hangi lastik ebadı uyar?",
+      "a": "Motorunun kullanım kılavuzundaki veya üreticinin teknik sayfasındaki fabrika ebadı esastır; ön ve arka ebat genellikle farklıdır. Sitedeki motor sayfalarında birçok model için fabrika ebadı kaynağıyla yazılı ve o ebatla sunulan lastikler listelenir."
+    },
+    {
+      "q": "Lastiğin üretim tarihi nasıl okunur?",
+      "a": "Lastik yanağındaki DOT kodunun son dört hanesi üretim haftası ve yılıdır; örneğin 0325, 2025'in 3. haftası demektir. Yeni lastik alırken üretim tarihini sormak, uzun süre depoda beklemiş lastikten kaçınmanı sağlar."
+    },
+    {
+      "q": "Motosiklet için kış lastiği var mı?",
+      "a": "Otomobildeki gibi geniş bir kış lastiği yelpazesi yoktur; daha çok scooter ve şehir lastiklerinde M+S veya kışa uygun seriler bulunur. M+S üretici beyanıdır; kar dağı simgesi (3PMSF) ise test edilmiş kar performansını gösterir."
+    },
+    {
+      "q": "Ön ve arka lastiği farklı marka veya seri takabilir miyim?",
+      "a": "Lastik üreticileri ön ve arkada aynı serinin kullanılmasını ve yalnız onaylı kombinasyonları önerir; karışık kullanım sürüş karakterini bozabilir. Kılavuzdaki ebat, yük ve hız endeksine uymak zorunludur."
+    }
+  ],
+  "yag-bakim": [
+    {
+      "q": "Motosiklete otomobil yağı konur mu?",
+      "a": "Vitesli motosikletlerin çoğunda debriyaj motor yağının içinde çalışır; otomobil yağlarındaki sürtünme azaltıcı katkılar debriyajı kaydırabilir. Bu yüzden ıslak debriyajlı motorlarda JASO MA veya MA2 onaylı motosiklet yağı kullanılır."
+    },
+    {
+      "q": "JASO MA2 ile MB arasındaki fark nedir?",
+      "a": "JASO MA ve MA2 ıslak debriyajlı vitesli motosikletler için yüksek sürtünmeli sınıflardır; MB ise CVT'li scooter'lar için düşük sürtünmeli sınıftır. Hangisinin gerektiğini motorunun kılavuzu söyler; MB yağ vitesli motosiklete konmaz."
+    },
+    {
+      "q": "Kışlık veya yazlık motosiklet yağı var mı?",
+      "a": "Ayrı bir kış ya da yaz yağı yoktur; üretici kılavuzu dış sıcaklığa göre hangi viskozitelerin kullanılabileceğini bir tabloyla verir. Örneğin 10W-40 geniş bir sıcaklık aralığını kapsar; bölgen için kılavuzdaki tabloya bak."
+    },
+    {
+      "q": "Hangi fren hidroliğini kullanmalıyım?",
+      "a": "Fren hidroliğinin sınıfı (çoğunlukla DOT 4 veya DOT 5.1) hazne kapağında ve kılavuzda yazar; farklı sınıflar karıştırılmamalıdır. Hidrolik nem çektiği için üreticiler genellikle birkaç yılda bir değiştirilmesini önerir."
+    }
   ]
 }

@@ -1,0 +1,2483 @@
+[
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "7100-4t-10w-40",
+    "brand": "motul",
+    "name": "7100 4T 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Motul'un %100 sentetik, ester katkılı sokak motosikleti yağı; API SP ve JASO MA2 (2023) sınıfında, ıslak debriyajlı vitesli motorlar için 10W-40.",
+    "description": [
+      "7100, Motul'un sokak motosikletleri için sunduğu en üst seviye sentetik seridir. Motul Türkiye ürün sayfası 10W-40 sürümü için API SP ve JASO MA2 (2023) değerlerini veriyor; teknik bilgi sayfası yağı %100 sentetik ve ester bazlı olarak tanımlıyor, katalitik konvertörlü motorlar için fosfor ve kükürt içeriğinin JASO MA2 sınırının altında tutulduğunu belirtiyor.",
+      "Üretici bu viskoziteyi özellikle 10W-40 isteyen Suzuki, Yamaha ve Kawasaki motorları için öneriyor; şanzımanı motorla ortak yağlanan ıslak debriyajlı motosikletlerde kullanılmak üzere tasarlanmış. Teknik bilgi sayfasındaki FZG dişli testi sonucu (FLS>14), aynı yağın vites kutusunu da yağladığı motorlarda önemli. Değişim aralığını üretici sabit vermiyor; motosiklet kılavuzuna ve kullanıma göre ayarlanmasını istiyor."
+    ],
+    "forWho": [
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen vitesli motosiklet sahipleri",
+      "Japon dört silindirli ve orta hacimli naked/sport motorlarda tam sentetik yağ isteyenler",
+      "Yoğun sıcakta ve yüksek devirde sık kullanan sürücüler"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler"
+    ],
+    "pros": [
+      "API SP ve JASO MA2 (2023): güncel sınıflar",
+      "%100 sentetik, ester bazlı formül",
+      "Türkiye'de yerleşik motosiklet mağazalarında 1 L ambalajla satılıyor"
+    ],
+    "cons": [
+      "Yarı sentetik 5100'e göre belirgin şekilde pahalı",
+      "Sık yağ değiştiren kuryeler için litre maliyeti yüksek kalır",
+      "Üretici değişim aralığı vermiyor; kılavuzu takip etmek gerekir"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafikte ısınan motorlarda yağ filmini korumaya yönelik sentetik bir formül; ıslak debriyajda kavrama hissi için MA2 sınıfında.",
+      "uzunYol": "Uzun ve sıcak etaplarda sentetik baz avantaj sağlar; değişim aralığını yine kılavuza göre planlayın.",
+      "kurye": "Teknik olarak uygun, ancak günlük yüksek kilometrede sık değişimde maliyet yüksek; bütçe öncelikliyse 5100 veya yerli MA2 yağlara bakılabilir.",
+      "sport": "Yüksek devirli sokak motorları için üreticinin önerdiği seri; pist kullanımı için Motul'un ayrı 300V Factory Line serisi var."
+    },
+    "verdict": "7100 10W-40, ıslak debriyajlı vitesli bir motosiklet için kaynakları net, güncel API SP ve JASO MA2 sınıflı tam sentetik bir seçenek. Fiyatı orta segment yağların üzerinde; kılavuzunuz 10W-40 ve MA/MA2 istiyorsa ve tam sentetik tercih ediyorsanız güvenli bir tercih.",
+    "rivals": [
+      "motul/5100-4t-10w-40",
+      "liqui-moly/motorbike-4t-synth-10w-40-street-race",
+      "castrol/power1-ultimate-4t-5w-40"
+    ],
+    "priceRange": {
+      "min": 898.8,
+      "max": 899,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/7100-10W-40-Tam-Sentetik-Yag-1-Lt-_50739.html",
+        "price": 899,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Enduro Market",
+        "url": "https://enduromarket.com/motul-7100-10w-40-1lt-yag-5962",
+        "price": 898.8,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Scooter'da kullanılır mı?",
+        "a": "Islak debriyajı olmayan, kılavuzu JASO MB isteyen CVT'li scooter'larda Motul'un MB sınıflı scooter yağları tercih edilmeli. Islak debriyajlı ve MA isteyen bazı scooter'lar için Motul'un MA sınıflı scooter yağları da var."
+      },
+      {
+        "q": "Ürün sayfasında API SP, teknik föyde API SN yazıyor; hangisi doğru?",
+        "a": "Türkiye ürün sayfası güncel olarak API SP ve JASO MA2 (2023) gösteriyor; 2021 tarihli teknik föy eski sınıfı listeliyor. Şişe etiketindeki sınıf esas alınmalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/16500",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/16500",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – 7100 10W-40 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/7100_4T_10W-40_tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – 7100 4T 10W-40 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/7100-10W-40-Tam-Sentetik-Yag-1-Lt-_50739.html",
+        "type": "retailer",
+        "label": "Feyizoglu – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/motul-7100-10w-40-1lt-yag-5962",
+        "type": "retailer",
+        "label": "Enduro Market – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Ester teknolojisi",
+        "%100 sentetik",
+        "FZG dişli testi FLS>14 (TDS)",
+        "Katalitik konvertör uyumlu düşük fosfor/kükürt (JASO MA2 < 1200 ppm)",
+        "Islak ve kuru debriyaj uyumlu"
+      ],
+      "madeIn": "Fransa"
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "7100-4t-15w-50",
+    "brand": "motul",
+    "name": "7100 4T 15W-50",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "7100 serisinin 15W-50 sürümü: %100 sentetik, API SP ve JASO MA2 (2023); üretici özellikle 15W-50 isteyen BMW, Ducati ve KTM motorlarına öneriyor.",
+    "description": [
+      "Bu kayıt 7100'ün daha kalın sıcak viskoziteli 15W-50 sürümü. Motul Türkiye ürün sayfası API SP ve JASO MA2 (2023) sınıfını gösteriyor; teknik bilgi sayfası yağı %100 sentetik, ester bazlı olarak tanımlıyor ve Euro 2–5 egzoz sistemli motorlarla uyumlu olduğunu belirtiyor.",
+      "Motul'un kendi önerisi bu viskozitenin 15W-50 isteyen BMW, Ducati ve KTM motorlarında kullanılması. Yani bu yağı seçmenin nedeni markadan çok kılavuzdaki viskozite olmalı: 10W-40 isteyen bir Japon motora 15W-50 koymak soğuk çalıştırmada ve yakıt tüketiminde fayda getirmez."
+    ],
+    "forWho": [
+      "Kılavuzu 15W-50 ve JASO MA/MA2 isteyen BMW, Ducati, KTM gibi motor sahipleri",
+      "Sıcak iklimde ağır yük altında çalışan büyük hacimli motorlar",
+      "Tam sentetik ve ester bazlı yağ isteyenler"
+    ],
+    "notFor": [
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler",
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış"
+    ],
+    "pros": [
+      "Güncel API SP ve JASO MA2 sınıfı",
+      "Üretici hangi motorlar için önerildiğini açıkça yazıyor",
+      "Türkiye'de 1 L ambalajla yerleşik mağazada satılıyor"
+    ],
+    "cons": [
+      "Yalnızca 15W-50 isteyen motorlar için anlamlı",
+      "Fiyatı orta segmentin üzerinde",
+      "Değişim aralığı üreticiden sabit verilmiyor"
+    ],
+    "usage": {
+      "sehir": "Kılavuz 15W-50 istiyorsa şehirde de doğru tercih; aksi halde daha ince viskozite daha uygundur.",
+      "uzunYol": "Sıcak havada uzun etaplarda büyük hacimli Avrupa motorları için üreticinin önerdiği viskozite.",
+      "sport": "Yüksek devirli Ducati/KTM sport motorlarında kılavuz uyumluysa kullanılabilir."
+    },
+    "verdict": "7100 15W-50, kılavuzunda bu viskozite yazan büyük hacimli Avrupa motorları için doğru adres. Viskozite seçimi kılavuza göre yapılmalı; 15W-50 'daha iyi koruma' demek değil, motorun tasarımına uygun olan demek.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "castrol/power1-ultimate-4t-5w-40"
+    ],
+    "priceRange": {
+      "min": 899,
+      "max": 899,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/7100-15W-50-Tam-Sentetik-Yag-1-Lt-_50740.html",
+        "price": 899,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "10W-40 yerine 15W-50 kullanabilir miyim?",
+        "a": "Motosiklet kılavuzu izin vermiyorsa önerilmez. Motul bu sürümü özellikle 15W-50 isteyen BMW, Ducati ve KTM motorları için öneriyor."
+      },
+      {
+        "q": "Kuru debriyajlı motorda kullanılır mı?",
+        "a": "Motul'un teknik föyü yağın ıslak veya kuru debriyajlı motorlarda kullanılabileceğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/16709",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/16709",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – 7100 15W-50 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/7100_4T_15W-50_tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – 7100 4T 15W-50 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/7100-15W-50-Tam-Sentetik-Yag-1-Lt-_50740.html",
+        "type": "retailer",
+        "label": "Feyizoglu – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "15W-50",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Ester teknolojisi",
+        "%100 sentetik",
+        "FZG dişli testi FLS>14 (TDS)",
+        "Katalitik konvertör uyumlu (JASO MA2 < 1200 ppm fosfor/kükürt)"
+      ],
+      "madeIn": "Fransa"
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "5100-4t-10w-40",
+    "brand": "motul",
+    "name": "5100 4T 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Motul'un ester destekli Technosynthese seri motosiklet yağı; API SP ve JASO MA2 (2023), 10W-40, 7100'e göre daha uygun fiyatlı orta segment seçenek.",
+    "description": [
+      "5100, Motul'un 7100 ile 3000 arasında konumlanan serisi. Motul Türkiye ürün sayfası 10W-40 sürüm için API SP ve JASO MA2 (2023) gösteriyor. Teknik bilgi sayfası yağı ester bazlı yağlarla güçlendirilmiş Technosynthese formül olarak tanımlıyor; Motul bu ifadeyi %100 sentetik 7100'den ayrı tutuyor.",
+      "Üretici bu yağı Euro 2–5 egzoz sistemli, 10W-40 isteyen Suzuki, Yamaha ve Kawasaki motorlarına öneriyor; ıslak veya kuru debriyajlı motorlarda kullanılabildiğini belirtiyor. Sentetik veya mineral yağlarla karıştırılabildiğini de yazıyor; yine de tek tip yağla değişim en temiz yöntem."
+    ],
+    "forWho": [
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen günlük kullanım motorları",
+      "Sık yağ değiştirdiği için litre maliyetini düşük tutmak isteyenler",
+      "Kuryeler ve yüksek kilometre yapan şehir içi sürücüler"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler"
+    ],
+    "pros": [
+      "Güncel API SP ve JASO MA2 sınıfı",
+      "7100'e göre daha uygun fiyat",
+      "Türkiye'de birden fazla yerleşik mağazada 1 L satılıyor"
+    ],
+    "cons": [
+      "Üretici tam baz yağ oranını açıklamıyor (Technosynthese)",
+      "Pist kullanımı için tasarlanmış bir yağ değil",
+      "Değişim aralığı kılavuza bırakılmış"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafiği ve kısa mesafeler için MA2 sınıfıyla debriyaj kavramasını koruyan dengeli bir seçenek.",
+      "uzunYol": "Normal uzun yol kullanımında yeterli; sıcak ve yüklü etaplarda değişimi geciktirmemek gerekir.",
+      "kurye": "Sık değişim yapan kuryeler için fiyat/performans dengesi iyi; değişim aralığını motor kılavuzuna göre planlayın."
+    },
+    "verdict": "5100 10W-40, tam sentetik fiyatı ödemek istemeyen ama güncel API SP / JASO MA2 sınıfı isteyen günlük kullanıcılar için mantıklı. Kurye ve şehir kullanımında maliyet avantajı belirgin; pist veya çok yüksek devir kullanımında 7100 ya da 300V daha uygun.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "castrol/power1-4t-10w-40",
+      "petrol-ofisi/maximoto-10w-40"
+    ],
+    "priceRange": {
+      "min": 755,
+      "max": 756,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/10W40-Motosiklet-Yagi_46838.html",
+        "price": 755,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Enduro Market",
+        "url": "https://enduromarket.com/motul-5100-10w-40-1lt-yag-1610",
+        "price": 756,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "5100 yarı sentetik mi?",
+        "a": "Motul bu yağı 'Technosynthese – Ester' olarak tanımlıyor ve tam sentetik demiyor. Kesin baz yağ oranı üretici tarafından açıklanmadığı için baz yağı ayrıca sınıflandırmadık."
+      },
+      {
+        "q": "7100 ile farkı ne?",
+        "a": "İkisi de API SP ve JASO MA2 sınıfında. 7100 %100 sentetik ve ester bazlı; 5100 ester destekli Technosynthese formül ve daha uygun fiyatlı."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/15200",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/15200",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – 5100 10W-40 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/5100_4T_10W-40_tr_TR_motul_20210329.pdf",
+        "type": "manufacturer",
+        "label": "Motul – 5100 4T 10W-40 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/10W40-Motosiklet-Yagi_46838.html",
+        "type": "retailer",
+        "label": "Feyizoglu – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/motul-5100-10w-40-1lt-yag-1610",
+        "type": "retailer",
+        "label": "Enduro Market – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Technosynthese (ester destekli)",
+        "FZG dişli testi FLS>14 (TDS)",
+        "Katalitik konvertör uyumlu (JASO MA2 < 1200 ppm fosfor/kükürt)",
+        "Islak ve kuru debriyaj uyumlu"
+      ],
+      "madeIn": "Fransa"
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "300v-factory-line-road-10w-40",
+    "brand": "motul",
+    "name": "300V Factory Line Road 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Motul'un yarış motosikletleri için geliştirdiği %100 sentetik ESTER Core yağı; sertifikalı JASO sınıfı yerine T903 ıslak debriyaj testiyle kontrol edildiği belirtiliyor.",
+    "description": [
+      "300V Factory Line Road, Motul'un pist ve yarış odaklı serisi. Teknik bilgi sayfası yağı %100 sentetik, ESTER Core teknolojili olarak tanımlıyor ve hedef kullanımı süpersport, superbike ve pist motosikletleri olarak sayıyor; katalitik konvertörlü sokak motosikletlerini 'diğer kullanımlar' arasında listeliyor.",
+      "Bu yağın etiketinde API veya JASO sertifika numarası yok: Motul performansı 'mevcut standartların üstünde' olarak tanımlıyor ve ıslak debriyaj uyumunun JASO T903 testinde kontrol edildiğini yazıyor. Kılavuzu JASO MA/MA2 sertifikası şart koşan motorlarda (özellikle garanti döneminde) bu ayrım önemli. Motul ayrıca en iyi sonuç için diğer yağlarla karıştırılmamasını öneriyor."
+    ],
+    "forWho": [
+      "Pist günlerine katılan süpersport ve superbike sahipleri",
+      "Yüksek devirde sürekli çalışan motorlarda yarış yağı isteyenler"
+    ],
+    "notFor": [
+      "Garanti kapsamında JASO MA/MA2 sertifikalı yağ şartı olan motorlar: bu yağda sertifika numarası yok",
+      "Günlük şehir ve kurye kullanımı: fiyatı bu kullanım için gereksiz yüksek",
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış"
+    ],
+    "pros": [
+      "%100 sentetik ESTER Core formül",
+      "Yarış odaklı, yüksek sıcaklıkta yağ basıncını korumaya yönelik tasarım",
+      "Motul teknik föyünde ayrıntılı tipik değerler var"
+    ],
+    "cons": [
+      "API/JASO sertifika numarası yok",
+      "Türkiye'de güncel fiyatlı stok bulamadık",
+      "Diğer yağlarla karıştırılmaması öneriliyor; ara takviye için aynı yağı bulundurmak gerekir"
+    ],
+    "usage": {
+      "sport": "Pist ve yüksek devirli spor kullanım için tasarlanmış; asıl kullanım alanı bu.",
+      "uzunYol": "Teknik olarak kullanılabilir ama uzun yolda 7100 gibi sertifikalı bir sokak yağı daha mantıklı.",
+      "sehir": "Şehir kullanımı için gereğinden fazla; maliyeti karşılığını vermez."
+    },
+    "verdict": "300V Factory Line Road 10W-40, pist ve yarış odaklı bir yağ ve öyle değerlendirilmeli. Sertifikalı JASO sınıfı yerine üretici testi beyan ediliyor; garanti şartı olan sokak motorlarında 7100 daha az soru işareti bırakır.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "liqui-moly/motorbike-4t-synth-10w-40-street-race",
+      "repsol/racing-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "JASO MA2 sertifikası var mı?",
+        "a": "Motul'un teknik föyünde JASO sertifika numarası yok; ıslak debriyaj uyumunun JASO T903 testinde kontrol edildiği yazıyor. Kılavuzunuz sertifikalı yağ istiyorsa bunu dikkate alın."
+      },
+      {
+        "q": "Diğer yağlarla karıştırılabilir mi?",
+        "a": "Motul optimum performans için diğer sentetik veya mineral yağlarla karıştırılmamasını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/12800",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/12800",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – 300V Factory Line Road 10W-40 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/300V_4T_Factory_Line_10W-40__tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – 300V 4T Factory Line 10W-40 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": null,
+      "api": null,
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "ESTER Core teknolojisi",
+        "%100 sentetik",
+        "JASO T903 ıslak debriyaj testi ile kontrol (üretici beyanı)",
+        "FZG dişli testi FLS>14 (TDS)",
+        "Diğer yağlarla karıştırılmaması önerilir"
+      ],
+      "madeIn": "Fransa"
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "power1-4t-10w-40",
+    "brand": "castrol",
+    "name": "POWER1 4T 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Castrol'ün yarı sentetik POWER1 4T 10W-40 yağı; Castrol Türkiye sayfasına göre API SN ve JASO MA-2 sınıfında, günlük kullanım vitesli motosikletler için.",
+    "description": [
+      "POWER1, Castrol'ün Türkiye'de motosiklet tarafındaki ana serisi. Castrol Türkiye ürün sayfası 4T 10W-40 sürümü için API SN ve JASO MA-2 onay/spesifikasyonlarını ve 'Yarı Sentetik' türünü gösteriyor; yağın katalizör donanımlı motorların gereksinimlerine uygun olduğunu da belirtiyor.",
+      "Castrol, debriyajda sürtünmeyi optimize ettiğini ve ivmelenmeyi artırdığını öne çıkarıyor; bunlar üretici beyanı. Teknik açıdan önemli olan, ıslak debriyaj için MA2 sınıfının bulunması ve API SN seviyesi. API SP isteyen yeni nesil motorlarda kılavuzu kontrol etmek gerekir."
+    ],
+    "forWho": [
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen günlük kullanım motosikletleri",
+      "Castrol bayi ağına yakın olup kolay bulunur yağ arayanlar",
+      "Bütçesini tam sentetik yerine yarı sentetiğe ayıran kullanıcılar"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu API SP şart koşan motorlar: bu sürüm sayfada API SN olarak listeleniyor"
+    ],
+    "pros": [
+      "JASO MA-2 sınıfı, ıslak debriyaj için uygun",
+      "Castrol Türkiye'nin resmi ürün sayfası ve bilgi formları erişilebilir",
+      "Yarı sentetik olduğu için tam sentetiklere göre genelde daha uygun fiyatlı"
+    ],
+    "cons": [
+      "API SN: bazı rakipler güncel API SP sınıfında",
+      "Listelediğimiz yetkili mağazalarda güncel fiyat ve stok doğrulayamadık",
+      "Ayrıntılı teknik değerler ürün sayfasında yok, ayrı bilgi formunda"
+    ],
+    "usage": {
+      "sehir": "Günlük şehir kullanımında MA2 sınıfıyla debriyaj kavramasını koruyan yarı sentetik bir yağ.",
+      "uzunYol": "Normal uzun yol için yeterli; çok sıcak ve yüklü etaplarda tam sentetik alternatifler değerlendirilebilir.",
+      "kurye": "Sık değişim yapan kuryeler için yarı sentetik maliyet avantajı sağlar; değişim aralığını kılavuza göre tutun."
+    },
+    "verdict": "POWER1 4T 10W-40, MA2 sınıflı yarı sentetik bir günlük kullanım yağı arayanlar için makul. API sınıfı SN olduğundan kılavuzu SP isteyen yeni motorlarda etiketi kontrol edin; Türkiye'de yetkili motosiklet mağazalarında fiyatı doğrulanamadı.",
+    "rivals": [
+      "motul/5100-4t-10w-40",
+      "petrol-ofisi/maximoto-10w-40",
+      "opet/fullmoto-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "POWER1 4T 10W-40 tam sentetik mi?",
+        "a": "Hayır. Castrol Türkiye sayfası bu sürümün türünü 'Yarı Sentetik' olarak gösteriyor."
+      },
+      {
+        "q": "Scooter'ımda kullanabilir miyim?",
+        "a": "CVT'li ve ıslak debriyajı olmayan, kılavuzu JASO MB isteyen scooter'lar için Castrol'ün ayrı POWER1 Scooter yağı var."
+      }
+    ],
+    "manufacturerUrl": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1.html",
+    "sources": [
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – Castrol POWER1 ürün sayfası (4T 10W-40)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SN",
+      "baseOil": "yari-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "3'ü 1 arada formül (ivmelenme, koruma, akıcı sürüş – üretici beyanı)",
+        "Katalizörlü motorlara uygun"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "power1-ultimate-4t-5w-40",
+    "brand": "castrol",
+    "name": "POWER1 Ultimate 4T 5W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Castrol'ün POWER1 serisinin en üst basamağı; tam sentetik 5W-40, Castrol Türkiye sayfasına göre API SN ve JASO MA-2, yarış ve uzun yol tutkunlarına yönelik.",
+    "description": [
+      "POWER1 Ultimate, Castrol'ün motosiklet yağlarında en üst konumdaki seri. Castrol Türkiye sayfası seriyi tam sentetik '5'i 1 arada' formül olarak tanıtıyor ve 4T 5W-40 sürümü için API SN ile JASO MA-2 spesifikasyonlarını listeliyor. Aynı sayfada 10W-30 ve 10W-50 sürümleri de var.",
+      "Castrol'ün öne çıkardığı hızlanma, motor ısınmasına karşı koruma ve dayanıklılık başlıkları üretici beyanı. 5W-40 viskozitesi soğuk çalıştırmada daha akışkan bir yağ demek; ancak doğru viskozite her zaman motor kılavuzunun önerdiğidir."
+    ],
+    "forWho": [
+      "Kılavuzu 5W-40 ve JASO MA/MA2 izin veren yüksek performanslı motorlar",
+      "Sport ve uzun yol motosikletlerinde tam sentetik yağ isteyenler"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler"
+    ],
+    "pros": [
+      "Tam sentetik ve JASO MA-2",
+      "Aynı seride 10W-30 ve 10W-50 seçenekleri",
+      "Castrol Türkiye'nin resmi ürün sayfası mevcut"
+    ],
+    "cons": [
+      "API SN; bazı rakipler API SP",
+      "Yetkili mağazada stoklu ve fiyatlı ilan bulamadık",
+      "Ürün sayfasında ayrıntılı teknik değer yok"
+    ],
+    "usage": {
+      "sport": "Yüksek devirli sport motorlarda kılavuz uyumluysa serinin hedef kullanımı.",
+      "uzunYol": "Castrol seriyi uzun yol severlere de yönlendiriyor; viskozite kılavuza uygun olmalı.",
+      "sehir": "Şehirde kullanılabilir ama günlük işe gidiş için yarı sentetik POWER1 daha ekonomik olabilir."
+    },
+    "verdict": "POWER1 Ultimate 5W-40, Castrol tarafında tam sentetik ve MA2 sınıflı bir üst segment yağ isteyenler için. Türkiye'de yetkili motosiklet mağazasında fiyatı doğrulanamadı; satın alırken viskozitenin kılavuza uyduğundan emin olun.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "liqui-moly/motorbike-4t-synth-10w-40-street-race",
+      "repsol/racing-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "POWER1 Racing ile aynı ürün mü?",
+        "a": "Castrol Türkiye sitesinde güncel üst seri POWER1 Ultimate adıyla listeleniyor. Eski POWER1 Racing ambalajları bazı mağazalarda hâlâ görülebilir; etiketteki sınıfları karşılaştırın."
+      },
+      {
+        "q": "Hangi viskoziteler var?",
+        "a": "Castrol Türkiye sayfasında 4T 5W-40, 4T 10W-30 ve 4T 10W-50 sürümleri listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-ultimate.html",
+    "sources": [
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-ultimate.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – Castrol POWER1 Ultimate ürün sayfası (4T 5W-40)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "5W-40",
+      "jaso": "MA2",
+      "api": "SN",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "5'i 1 arada formül (üretici beyanı)",
+        "Tam sentetik"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "motorbike-4t-10w-40-street",
+    "brand": "liqui-moly",
+    "name": "Motorbike 4T 10W-40 Street",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Liqui Moly'nin hava ve su soğutmalı 4 zamanlı sokak motorları için 10W-40 yağı; üretici sayfasına göre API SP ve JASO MA2.",
+    "description": [
+      "Motorbike 4T 10W-40 Street, Alman Liqui Moly'nin sokak motosikletlerine yönelik yağı. Üreticinin ürün sayfası API SP ve JASO MA2 spesifikasyonlarını listeliyor; yağın katalitik konvertörlü motorlarda test edildiğini ve ıslak debriyajlı ya da debriyajsız motorlara uygun olduğunu yazıyor.",
+      "Liqui Moly yağı normalden yüksek yüke kadar çalışan, hava ve su soğutmalı 4 zamanlı motorlar ve sportif kullanım için tanımlıyor. Uluslararası ürün sayfası baz yağ tipini açıkça belirtmediği için baz yağı sınıflandırmadık. Üretici en iyi sonuç için başka yağlarla karıştırılmamasını öneriyor."
+    ],
+    "forWho": [
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen vitesli motosiklet sahipleri",
+      "Güncel API SP sınıflı bir Alman marka yağ arayanlar"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler"
+    ],
+    "pros": [
+      "API SP ve JASO MA2",
+      "Katalitik konvertörlü motorlarda test edildiği belirtiliyor",
+      "1 L, 4 L ve büyük ambalaj seçenekleri"
+    ],
+    "cons": [
+      "Baz yağ tipi uluslararası sayfada açık değil",
+      "Listelediğimiz yetkili mağazalarda güncel stok/fiyat bulamadık",
+      "Karıştırılmadan kullanılması öneriliyor; takviye için aynı yağ gerekir"
+    ],
+    "usage": {
+      "sehir": "MA2 sınıfıyla ıslak debriyajlı şehir motorları için uygun.",
+      "uzunYol": "Normal ile yüksek yük arası kullanım için tanımlanmış; uzun yol için yeterli.",
+      "sport": "Üretici sportif kullanıma uygun olduğunu belirtiyor; yoğun pist için serinin Street Race sürümü daha üst konumda."
+    },
+    "verdict": "Motorbike 4T 10W-40 Street, kaynakları net, API SP ve JASO MA2 sınıflı bir sokak yağı. Baz yağ tipini üretici sayfasında doğrulayamadık ve Türkiye'de yetkili mağazada güncel fiyat bulamadık; etiketi ve satıcının yetkisini kontrol ederek almak gerekir.",
+    "rivals": [
+      "liqui-moly/motorbike-4t-synth-10w-40-street-race",
+      "motul/5100-4t-10w-40",
+      "castrol/power1-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Street ile Street Race farkı ne?",
+        "a": "İkisi de API SP ve JASO MA2. Liqui Moly Street Race'i tam sentetik ve normalden ekstrem koşullara kadar kullanım için tanımlıyor; Street sürümü normal ile yüksek yük arası için."
+      },
+      {
+        "q": "Diğer yağlarla karıştırılabilir mi?",
+        "a": "Üretici en iyi etki için karıştırılmadan kullanılmasını öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.liqui-moly.com/en/motorbike-4t-10w-40-street-p000264.html",
+    "sources": [
+      {
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-10w-40-street-p000264.html",
+        "type": "manufacturer",
+        "label": "Liqui Moly – Motorbike 4T 10W-40 Street ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Katalitik konvertörlü motorlarda test edilmiş",
+        "Islak debriyajlı ve debriyajsız motorlara uygun",
+        "Karıştırılmadan kullanılması önerilir"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "motorbike-4t-synth-10w-40-street-race",
+    "brand": "liqui-moly",
+    "name": "Motorbike 4T Synth 10W-40 Street Race",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Liqui Moly'nin tam sentetik sport yağı; üretici sayfasına göre API SP ve JASO MA2, normalden ekstrem koşullara kadar çalışan 4 zamanlı motorlar için.",
+    "description": [
+      "Street Race, Liqui Moly'nin sokak serisinin tam sentetik üst sürümü. Üretici sayfası yağı tam sentetik yüksek performanslı motor yağı olarak tanımlıyor, API SP ve JASO MA2 spesifikasyonlarını listeliyor ve katalitik konvertörlü motorlarda ve yarış motosikletlerinde test edildiğini yazıyor.",
+      "Hedef kullanım, normal ile ekstrem arası çalışma koşullarındaki hava ve su soğutmalı 4 zamanlı motorlar; sportif kullanım açıkça belirtiliyor. Islak debriyaj için MA2 sınıfında. Üretici de diğer Liqui Moly motosiklet yağlarında olduğu gibi karıştırılmadan kullanılmasını öneriyor."
+    ],
+    "forWho": [
+      "Sport ve naked motosiklette tam sentetik 10W-40 isteyenler",
+      "Sıcak iklimde yüksek devirde kullanan sürücüler",
+      "Ara sıra pist günü yapan sokak motosikleti sahipleri"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu farklı viskozite (ör. 10W-30 veya 15W-50) öneren motorlar: viskoziteyi kılavuz belirler"
+    ],
+    "pros": [
+      "Tam sentetik, API SP ve JASO MA2",
+      "Yarış motosikletlerinde test edildiği belirtiliyor",
+      "Sokak ve sportif kullanımı aynı üründe kapsıyor"
+    ],
+    "cons": [
+      "Listelediğimiz yetkili mağazalarda güncel stok/fiyat bulamadık",
+      "Street sürümüne göre daha pahalı olması beklenir",
+      "Karıştırılmadan kullanılması öneriliyor"
+    ],
+    "usage": {
+      "sport": "Üreticinin sportif ve ekstrem koşullar için konumladığı sürüm.",
+      "uzunYol": "Sıcak ve yüklü uzun etaplarda tam sentetik bazın avantajı olur.",
+      "sehir": "Şehirde kullanılabilir; yalnızca şehir için Street sürümü yeterli olabilir."
+    },
+    "verdict": "Street Race, Liqui Moly tarafında tam sentetik ve güncel sınıflı bir sport yağı arayan için doğru ürün. Türkiye'de yetkili mağazada güncel fiyat doğrulanamadı; benzer sınıfta Motul 7100 yerel olarak daha kolay bulunuyor.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "repsol/racing-4t-10w-40",
+      "castrol/power1-ultimate-4t-5w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Kuru debriyajlı motorlarda kullanılır mı?",
+        "a": "Liqui Moly yağı ıslak debriyajlı ve debriyajsız motorlar için uygun olarak tanımlıyor."
+      },
+      {
+        "q": "Hangi sınıfları karşılıyor?",
+        "a": "Üretici sayfasında API SP ve JASO MA2 listeleniyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.liqui-moly.com/en/motorbike-4t-synth-10w-40-street-race-p004096.html",
+    "sources": [
+      {
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-synth-10w-40-street-race-p004096.html",
+        "type": "manufacturer",
+        "label": "Liqui Moly – Motorbike 4T Synth 10W-40 Street Race ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Tam sentetik",
+        "Katalitik konvertörlü motorlarda ve yarış motosikletlerinde test edilmiş",
+        "Islak debriyajlı ve debriyajsız motorlara uygun"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "racing-4t-10w-40",
+    "brand": "repsol",
+    "name": "Racing 4T 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Repsol'ün yüksek performanslı 4 zamanlı motorlar için tam sentetik yağı; üretici sayfasına göre API SP ve JASO T 903:2023 MA2, yol ve pist kullanımı için.",
+    "description": [
+      "Racing 4T 10W-40, İspanyol Repsol'ün motosiklet yağlarındaki Racing serisinin sokak/pist ürünü. Repsol Lubricants ürün sayfası yağı tam sentetik olarak tanımlıyor ve API SP ile JASO T 903:2023 MA2 sınıflarını listeliyor; 1 L, 4 L ve büyük ambalajlarda sunuluyor.",
+      "Üretici, debriyaj ve şanzıman korumasına özel vurgu yapıyor ve yağı çok yüksek performanslı 4 zamanlı motorlar için konumluyor. Repsol'ün eski teknik föyünde API SN yazan sürümler de bulunduğundan, satın alırken şişe etiketindeki sınıfı kontrol etmek mantıklı."
+    ],
+    "forWho": [
+      "Sport ve süpersport motosiklet sahipleri",
+      "Kılavuzu 10W-40 ve JASO MA2 isteyen yüksek devirli motorlar"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Türkiye'de yetkili mağazadan kolayca temin etmek isteyenler: güncel stok bulamadık"
+    ],
+    "pros": [
+      "Tam sentetik, API SP ve en güncel JASO MA2 (T 903:2023)",
+      "Yol ve pist kullanımını birlikte hedefliyor"
+    ],
+    "cons": [
+      "Türkiye'de yetkili motosiklet mağazalarında güncel fiyat/stok doğrulayamadık",
+      "Eski ambalajlarda farklı API sınıfı görülebilir"
+    ],
+    "usage": {
+      "sport": "Üreticinin hedeflediği asıl kullanım: yüksek devirli sport motorları ve pist.",
+      "uzunYol": "Sıcak etaplarda tam sentetik baz avantajlı; değişimi kılavuza göre yapın.",
+      "sehir": "Kullanılabilir; yalnızca şehir için daha ekonomik MA2 yağlar yeterli olur."
+    },
+    "verdict": "Repsol Racing 4T 10W-40, kâğıt üzerinde güncel sınıfları karşılayan tam sentetik bir sport yağı. Türkiye'de yetkili motosiklet mağazasında güncel fiyat ve stok doğrulanamadı; bulunabilirlik bu yağ için en büyük soru işareti.",
+    "rivals": [
+      "motul/7100-4t-10w-40",
+      "liqui-moly/motorbike-4t-synth-10w-40-street-race",
+      "motul/300v-factory-line-road-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Moto Racing 4T ile aynı ürün mü?",
+        "a": "Repsol'ün güncel ürün sayfasında ürün 'Racing 4T 10W-40' adıyla listeleniyor; eski katalog ve ambalajlarda 'Moto Racing 4T' adı geçiyor."
+      },
+      {
+        "q": "Hangi JASO sınıfında?",
+        "a": "Üretici sayfasına göre JASO T 903:2023 MA2."
+      }
+    ],
+    "manufacturerUrl": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000M/",
+    "sources": [
+      {
+        "url": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000M/",
+        "type": "manufacturer",
+        "label": "Repsol Lubricants – Racing 4T 10W-40 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SP",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Tam sentetik",
+        "Debriyaj ve şanzıman korumasına vurgu (üretici beyanı)",
+        "JASO T 903:2023 MA2"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "maximoto-10w-40",
+    "brand": "petrol-ofisi",
+    "name": "Maximoto 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Petrol Ofisi'nin yerli motosiklet yağı Maximoto 10W-40; üretici sayfasına göre API SN ve JASO MA2, hava ve su soğutmalı 4 zamanlı motosikletler için.",
+    "description": [
+      "Maximoto, Petrol Ofisi'nin motosiklet yağı serisi. Petrol Ofisi ürün sayfası 10W-40 sürümünü 'sentetik teknoloji ile geliştirilmiş sentetik motor yağı' olarak tanımlıyor ve API SN ile JASO MA2 şartnamelerini listeliyor. Katalitik konvertörlü motosikletler dahil hava veya su soğutmalı dört zamanlı motorlarda dört mevsim kullanılabildiği belirtiliyor.",
+      "Üretici ıslak kavrama performansını ve vites geçişlerinin yumuşaklığını öne çıkarıyor. Teknik föydeki tipik değerler (10W-40, 100 °C'de 13,7 mm²/s, akma noktası -33 °C) yağın standart bir 10W-40 olduğunu gösteriyor. 'Sentetik teknoloji' ifadesi tam sentetik ile aynı şey olmayabileceği için baz yağı ayrıca sınıflandırmadık."
+    ],
+    "forWho": [
+      "Yerli üretici yağı tercih eden vitesli motosiklet sahipleri",
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen günlük kullanım motorları",
+      "Petrol Ofisi istasyon ağından kolay temin isteyenler ve kuryeler"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu API SP şart koşan motorlar: Maximoto 10W-40 API SN olarak listeleniyor"
+    ],
+    "pros": [
+      "Yerli marka, resmi Türkçe ürün sayfası ve teknik föy",
+      "JASO MA2 ile ıslak debriyaj uyumu",
+      "Petrol Ofisi'nin yaygın istasyon ağı"
+    ],
+    "cons": [
+      "API SN; güncel rakiplerin bir kısmı API SP",
+      "Baz yağ oranı açık değil ('sentetik teknoloji')",
+      "Petrol Ofisi sitesinde online satış yok; yetkili motosiklet mağazasında fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafiği için MA2 sınıflı, dört mevsim kullanılabilen bir 10W-40.",
+      "uzunYol": "Hava ve su soğutmalı motorlarda normal uzun yol kullanımı için tasarlanmış.",
+      "kurye": "Yaygın bulunabilirlik ve yerli üretim kuryeler için pratik; değişim aralığını kılavuza göre tutun."
+    },
+    "verdict": "Maximoto 10W-40, yerli ve kolay bulunabilen MA2 sınıflı bir yağ isteyenler için mantıklı bir seçenek. API sınıfı SN olduğundan yeni nesil motorlarda kılavuzu kontrol edin; Türkiye'de yetkili motosiklet mağazasında güncel fiyatı doğrulanamadı.",
+    "rivals": [
+      "opet/fullmoto-4t-10w-40",
+      "motul/5100-4t-10w-40",
+      "castrol/power1-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Maximoto 10W-40 tam sentetik mi?",
+        "a": "Petrol Ofisi yağı 'sentetik teknoloji ile geliştirilmiş sentetik motor yağı' olarak tanımlıyor; tam sentetik ifadesi kullanmıyor."
+      },
+      {
+        "q": "Scooter'ım için hangisi?",
+        "a": "Otomatik şanzımanlı (CVT) scooter'lar için Petrol Ofisi'nin JASO MB sınıflı Maximoto 10W-40 Scooter yağı var."
+      }
+    ],
+    "manufacturerUrl": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40",
+    "sources": [
+      {
+        "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Maximoto 10W-40 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.petrolofisi.com.tr/medium/Product/Document/f75c5366-e03b-4213-a8b6-7b0c443d4488",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Maximoto 10W-40 ürün bilgi formu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SN",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Sentetik teknoloji (üretici ifadesi)",
+        "Hava veya su soğutmalı motorlar",
+        "Katalitik konvertörlü motosikletlerde kullanılabilir",
+        "Dört mevsim kullanım"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "fullmoto-4t-10w-40",
+    "brand": "opet",
+    "name": "Fullmoto 4T 10W-40",
+    "subcategories": [
+      "motor-yagi"
+    ],
+    "summary": "Opet Fuchs'un yerli motosiklet yağı Fullmoto 4T 10W-40; teknik föye göre API SN ve JASO MA2, ıslak veya kuru debriyajlı 4 zamanlı motorlar için.",
+    "description": [
+      "Fullmoto, Opet Fuchs'un motosiklet yağı serisi. Ürün sayfası 4T 10W-40'ı dört zamanlı motorlar için geliştirilmiş sentetik bazlı motosiklet yağı olarak tanımlıyor ve ıslak ya da kuru debriyajlı motosikletlere uygun olduğunu belirtiyor; Türkiye'de 1 L ambalajla sunuluyor.",
+      "Opet Fuchs'un teknik veri föyü (Rev.08, 2023) performans sınıflarını API SN ve JASO MA2 olarak veriyor; 100 °C'de 15,2 mm²/s ve akma noktası -36 °C tipik değerleri listeleniyor. Üretici yüksek motor sıcaklıklarında sessiz ve kolay vites geçişini öne çıkarıyor. 'Sentetik bazlı' ifadesi nedeniyle baz yağı ayrıca sınıflandırmadık."
+    ],
+    "forWho": [
+      "Yerli marka yağ tercih eden vitesli motosiklet sahipleri",
+      "Kılavuzu 10W-40 ve JASO MA/MA2 isteyen hava veya su soğutmalı motorlar",
+      "Opet istasyonlarından kolay temin isteyen kuryeler"
+    ],
+    "notFor": [
+      "Kılavuzu JASO MB isteyen, ıslak debriyajı olmayan CVT'li scooter'lar: bu motorlar için yakıt ekonomisine göre ayarlanmış MB yağlar tasarlanmış",
+      "Kılavuzu API SP şart koşan motorlar: teknik föyde API SN yazıyor"
+    ],
+    "pros": [
+      "Yerli marka, resmi Türkçe ürün sayfası ve teknik föy",
+      "JASO MA2 ile ıslak debriyaj uyumu",
+      "Opet istasyon ağı sayesinde yaygın bulunabilirlik"
+    ],
+    "cons": [
+      "API SN; güncel rakiplerin bir kısmı API SP",
+      "Baz yağ oranı açık değil ('sentetik bazlı')",
+      "Opet sitesinde online satış yok; yetkili motosiklet mağazasında fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "MA2 sınıfıyla şehirde ıslak debriyajlı motorlar için uygun.",
+      "uzunYol": "Üretici her sürüş ve iklim koşulunda performans iddia ediyor; normal uzun yol kullanımı için yeterli.",
+      "kurye": "Yerli ve yaygın bulunan bir MA2 yağ olarak kuryeler için pratik; değişim aralığını kılavuza göre tutun."
+    },
+    "verdict": "Fullmoto 4T 10W-40, Petrol Ofisi Maximoto ile birlikte yerli MA2 seçeneklerin en bilineni. Teknik föy net; API SN olduğu ve Türkiye'de yetkili motosiklet mağazasında fiyat doğrulanamadığı için satın alırken etiketi ve satıcıyı kontrol edin.",
+    "rivals": [
+      "petrol-ofisi/maximoto-10w-40",
+      "motul/5100-4t-10w-40",
+      "castrol/power1-4t-10w-40"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Fullmoto 4T SCT ile farkı ne?",
+        "a": "Opet'in SCT sürümleri ayrı ürünler ve farklı sınıflarda listeleniyor. Bu kayıt yalnızca Fullmoto 4T 10W-40 içindir; teknik föyüne göre API SN ve JASO MA2."
+      },
+      {
+        "q": "Kuru debriyajlı motorda kullanılır mı?",
+        "a": "Opet Fuchs yağın ıslak veya kuru debriyaj sistemine sahip motosikletlerde kullanılabileceğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-4t-10w-40",
+    "sources": [
+      {
+        "url": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-4t-10w-40",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Fullmoto 4T 10W-40 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.opetfuchs.com.tr/assets/uploads/pdf/en-bilgi-formlari/TDS_FULLMOTO_4T_10W40.pdf",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Fullmoto 4T 10W-40 teknik veri föyü (EN)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-vitesli",
+      "viscosity": "10W-40",
+      "jaso": "MA2",
+      "api": "SN",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Sentetik bazlı (üretici ifadesi)",
+        "Islak ve kuru debriyaj uyumlu",
+        "Hava veya su soğutmalı 4 zamanlı motorlar"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "scooter-expert-4t-10w-40-mb",
+    "brand": "motul",
+    "name": "Scooter Expert 4T 10W-40 MB",
+    "subcategories": [
+      "scooter-yagi"
+    ],
+    "summary": "Motul'un ıslak debriyajı olmayan scooter ve maxi scooter'lar için JASO MB sınıflı 10W-40 yağı; API SP, Technosynthese formül.",
+    "description": [
+      "Scooter Expert 4T MB, Motul'un CVT'li scooter'lar için geliştirdiği yağ. Teknik föy yağı ıslak debriyajı olmayan scooter ve maxi scooter'lar için tanımlıyor, API SP ve JASO MB (M033MOT228) sınıflarını veriyor. Aynı adın MA sınıflı bir sürümü de satıldığı için ambalajdaki 'MB' ibaresine dikkat etmek gerekiyor.",
+      "Motul, JASO MB sınıfının MA bir yağa göre şehir içi dur-kalk kullanımda yakıt tüketimini 10W-40 MA'ya kıyasla %2'ye kadar azaltabildiğini belirtiyor. Değişim aralığını kullanım ve üretici önerisine bağlı olarak 8.000 km'ye kadar veriyor. Formül Technosynthese olarak tanımlandığından baz yağı ayrıca sınıflandırmadık."
+    ],
+    "forWho": [
+      "CVT'li, ıslak debriyajı olmayan scooter ve maxi scooter sahipleri",
+      "Kılavuzu 10W-40 ve JASO MB isteyen motorlar",
+      "Şehir içi dur-kalk kullanan kuryeler"
+    ],
+    "notFor": [
+      "Islak (yağ banyolu) debriyajlı vitesli motosikletler: JASO MB yağ debriyaj kaydırmasına yol açabilir, bu motorlar MA/MA2 ister",
+      "Kılavuzu JASO MA isteyen ıslak debriyajlı scooter'lar: Motul'un aynı serideki MA sürümü seçilmeli"
+    ],
+    "pros": [
+      "Güncel API SP ve JASO MB",
+      "Üretici değişim aralığı için yol gösteriyor (8.000 km'ye kadar)",
+      "Scooter kullanımına özel formül"
+    ],
+    "cons": [
+      "Aynı isimli MA sürümüyle karıştırılma riski",
+      "Türkiye'de yetkili mağazada MB sürümün fiyatını doğrulayamadık",
+      "Baz yağ oranı açık değil"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafiğinde CVT'li scooter'lar için tasarlanmış MB sınıfı.",
+      "kurye": "Kurye scooter'ları için uygun sınıf; yüksek kilometrede değişimi üretici ve kılavuz aralığına göre yapın.",
+      "uzunYol": "Maxi scooter ile uzun yolda da kullanılabilir; kılavuz viskozitesi esas."
+    },
+    "verdict": "Scooter Expert 4T 10W-40 MB, kılavuzu MB isteyen CVT'li scooter'lar için doğru sınıfta ve güncel API SP'li bir yağ. Satın alırken etiketteki 'MB' ibaresini kontrol edin; aynı adla MA sürümü de satılıyor.",
+    "rivals": [
+      "motul/scooter-power-4t-10w-30-mb",
+      "castrol/power1-scooter-4t-10w-40",
+      "petrol-ofisi/maximoto-10w-40-scooter"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "MA ve MB sürümü arasındaki fark ne?",
+        "a": "MB, ıslak debriyajı olmayan CVT'li scooter'lar içindir ve sürtünmeyi azaltarak yakıt ekonomisine odaklanır. Islak debriyajlı motorlar MA/MA2 ister; bu motorlarda MB yağ debriyaj kaydırabilir."
+      },
+      {
+        "q": "Ne sıklıkla değiştirilmeli?",
+        "a": "Motul kullanım ve üretici önerisine bağlı olarak 8.000 km'ye kadar değişim aralığı veriyor; scooter kılavuzu daha kısa aralık istiyorsa ona uyun."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/57701",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/57701",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – Scooter Expert 10W-40 MB 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/motul_scooter_expert_4t_mb_10w-40_en_fr_motul_57701_20241211.pdf",
+        "type": "manufacturer",
+        "label": "Motul – Scooter Expert 4T MB 10W-40 teknik bilgi sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-scooter",
+      "viscosity": "10W-40",
+      "jaso": "MB",
+      "api": "SP",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Technosynthese",
+        "Islak debriyajı olmayan scooter ve maxi scooter'lar için",
+        "8.000 km'ye kadar değişim aralığı (üretici, kullanıma bağlı)"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "scooter-power-4t-10w-30-mb",
+    "brand": "motul",
+    "name": "Scooter Power 4T 10W-30 MB",
+    "subcategories": [
+      "scooter-yagi"
+    ],
+    "summary": "Motul'un CVT'li scooter'lar için %100 sentetik JASO MB yağı; 10W-30, API SP, yoğun şehir trafiği ve uzun süreli tam yük için.",
+    "description": [
+      "Scooter Power 4T MB, Motul'un scooter tarafındaki tam sentetik üst serisi. Teknik föy yağı %100 sentetik olarak tanımlıyor, API SP ve JASO MB (M033MOT229) sınıflarını veriyor ve ıslak debriyajı olmayan scooter ile maxi scooter'lar için konumluyor.",
+      "Motul, yüksek sıcaklıklarda yağ filmi direncini ve uzun süreli tam yük ile dur-kalk kullanımda soğutmanın zorlaştığı koşulları öne çıkarıyor. 10W-30 viskozitesi her scooter'a uygun değil: kılavuz 10W-40 istiyorsa Scooter Expert MB veya başka bir 10W-40 MB yağ seçilmeli."
+    ],
+    "forWho": [
+      "Kılavuzu 10W-30 ve JASO MB isteyen CVT'li scooter sahipleri",
+      "Yoğun şehir trafiğinde ve sıcakta çalışan kurye scooter'ları",
+      "Tam sentetik scooter yağı isteyenler"
+    ],
+    "notFor": [
+      "Islak (yağ banyolu) debriyajlı vitesli motosikletler: JASO MB yağ debriyaj kaydırmasına yol açabilir, bu motorlar MA/MA2 ister",
+      "Kılavuzu 10W-40 isteyen scooter'lar: viskozite kılavuza uymalı"
+    ],
+    "pros": [
+      "%100 sentetik, API SP ve JASO MB",
+      "Üretici yoğun şehir kullanımı için tasarladığını belirtiyor",
+      "8.000 km'ye kadar değişim aralığı bilgisi"
+    ],
+    "cons": [
+      "Yalnızca 10W-30 isteyen scooter'lar için",
+      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk ve tam yük altında ısınan scooter motorları için tasarlanmış.",
+      "kurye": "Gün boyu şehir içinde çalışan kurye scooter'ları için uygun sınıf; kılavuz viskozitesi 10W-30 olmalı."
+    },
+    "verdict": "Scooter Power 4T 10W-30 MB, kılavuzu 10W-30 ve MB isteyen scooter'lar için tam sentetik bir üst seçenek. Viskozite uyuyorsa yoğun şehir kullanımında iyi bir tercih; uymuyorsa aynı markanın 10W-40 MB yağına geçin.",
+    "rivals": [
+      "motul/scooter-expert-4t-10w-40-mb",
+      "castrol/power1-scooter-4t-10w-40",
+      "petrol-ofisi/maximoto-10w-40-scooter"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Vitesli motosiklette kullanılabilir mi?",
+        "a": "Hayır, ıslak debriyajlı vitesli motosikletler JASO MA/MA2 ister. Bu yağ ıslak debriyajı olmayan scooter'lar içindir."
+      },
+      {
+        "q": "Scooter Expert MB ile farkı ne?",
+        "a": "Scooter Power %100 sentetik ve 10W-30; Scooter Expert MB Technosynthese ve 10W-40. Seçimi kılavuzdaki viskozite belirler."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/58010",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/58010",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – Scooter Power 10W-30 MB 4T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/motul_scooter_power_4t_mb_10w-30_en_fr_motul_58010_20241211.pdf",
+        "type": "manufacturer",
+        "label": "Motul – Scooter Power 4T MB 10W-30 teknik bilgi sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-scooter",
+      "viscosity": "10W-30",
+      "jaso": "MB",
+      "api": "SP",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "%100 sentetik",
+        "Islak debriyajı olmayan scooter ve maxi scooter'lar için",
+        "8.000 km'ye kadar değişim aralığı (üretici, kullanıma bağlı)"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "power1-scooter-4t-10w-40",
+    "brand": "castrol",
+    "name": "POWER1 Scooter 4T 10W-40",
+    "subcategories": [
+      "scooter-yagi"
+    ],
+    "summary": "Castrol'ün modern scooter motorları için tam sentetik 10W-40 yağı; Castrol Türkiye sayfasına göre API SL ve JASO MB.",
+    "description": [
+      "POWER1 Scooter, Castrol'ün Türkiye'de scooter'lar için sunduğu yağ. Castrol Türkiye ürün sayfası 4T 10W-40 sürümü için API SL ve JASO MB spesifikasyonlarını ve 'Tam Sentetik' türünü gösteriyor; yağı Scootek teknolojisiyle modern scooter motorları için tasarlanmış olarak tanıtıyor.",
+      "Üretici hızlı akış, sürtünme kayıplarının azaltılması ve egzoz sistemi ile motoru karbon birikintilerine karşı koruma iddialarını öne çıkarıyor. JASO MB sınıfı, ıslak debriyajı olmayan CVT'li scooter'lar için doğru sınıf. API SL eski bir sınıf; kılavuzu daha yeni API sınıfı isteyen scooter'larda etiketi kontrol edin."
+    ],
+    "forWho": [
+      "CVT'li, ıslak debriyajı olmayan scooter sahipleri",
+      "Kılavuzu 10W-40 ve JASO MB isteyen motorlar",
+      "Şehir içi kısa mesafe kullanan sürücüler"
+    ],
+    "notFor": [
+      "Islak (yağ banyolu) debriyajlı vitesli motosikletler: JASO MB yağ debriyaj kaydırmasına yol açabilir, bu motorlar MA/MA2 ister",
+      "Kılavuzu API SN/SP gibi daha yeni bir API sınıfı şart koşan scooter'lar"
+    ],
+    "pros": [
+      "Tam sentetik ve JASO MB",
+      "Castrol Türkiye'nin resmi ürün sayfası ve bilgi formları erişilebilir",
+      "Scooter kullanımına özel"
+    ],
+    "cons": [
+      "API SL: rakip MB yağlarda API SN/SP var",
+      "Yetkili mağazada stoklu ve fiyatlı ilan bulamadık"
+    ],
+    "usage": {
+      "sehir": "CVT'li scooter'larla dur-kalk trafik için tasarlanmış MB sınıfı.",
+      "kurye": "Kurye scooter'larında kullanılabilir; değişim aralığını scooter kılavuzuna göre tutun."
+    },
+    "verdict": "POWER1 Scooter 4T 10W-40, MB sınıflı tam sentetik bir scooter yağı. API sınıfının SL olması güncel rakiplerin gerisinde; kılavuzunuz yalnızca JASO MB ve 10W-40 istiyorsa uygun, daha yeni API sınıfı istiyorsa alternatiflere bakın.",
+    "rivals": [
+      "motul/scooter-expert-4t-10w-40-mb",
+      "petrol-ofisi/maximoto-10w-40-scooter",
+      "motul/scooter-power-4t-10w-30-mb"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Vitesli motorumda kullanabilir miyim?",
+        "a": "Hayır. JASO MB yağlar ıslak debriyajlı vitesli motosikletlerde debriyaj kaydırmasına yol açabilir; bu motorlar için JASO MA/MA2 yağ seçilmeli."
+      },
+      {
+        "q": "Hangi sınıfta?",
+        "a": "Castrol Türkiye sayfasına göre API SL ve JASO MB, tam sentetik."
+      }
+    ],
+    "manufacturerUrl": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-scooter.html",
+    "sources": [
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-scooter.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – Castrol POWER1 Scooter ürün sayfası (4T 10W-40)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-scooter",
+      "viscosity": "10W-40",
+      "jaso": "MB",
+      "api": "SL",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Scootek teknolojisi (üretici beyanı)",
+        "Tam sentetik",
+        "Karbon birikintisine karşı koruma (üretici beyanı)"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "maximoto-10w-40-scooter",
+    "brand": "petrol-ofisi",
+    "name": "Maximoto 10W-40 Scooter",
+    "subcategories": [
+      "scooter-yagi"
+    ],
+    "summary": "Petrol Ofisi'nin otomatik şanzımanlı scooter'lar için yerli yağı; üretici sayfasına göre API SN ve JASO MB, 10W-40.",
+    "description": [
+      "Maximoto 10W-40 Scooter, Petrol Ofisi'nin dört zamanlı otomatik şanzımanlı yeni nesil scooter'lar için geliştirdiği yağ. Ürün sayfası ve bilgi formu API SN ve JASO MB şartnamelerini listeliyor; yağ 'sentetik teknoloji ile geliştirilmiş sentetik motor yağı' olarak tanımlanıyor.",
+      "Üretici yakıt ekonomisini ve yoğun dur-kalk şehir trafiğinde daha yumuşak güç aktarımını öne çıkarıyor. JASO MB sınıfı CVT'li scooter'lar için doğru sınıf. Baz yağ oranı açıklanmadığından baz yağı ayrıca sınıflandırmadık."
+    ],
+    "forWho": [
+      "CVT'li scooter kullanan ve yerli marka tercih eden sürücüler",
+      "Kılavuzu 10W-40 ve JASO MB isteyen scooter'lar",
+      "Petrol Ofisi istasyonlarından kolay temin isteyen kuryeler"
+    ],
+    "notFor": [
+      "Islak (yağ banyolu) debriyajlı vitesli motosikletler: JASO MB yağ debriyaj kaydırmasına yol açabilir, bu motorlar MA/MA2 ister",
+      "Kılavuzu API SP şart koşan scooter'lar: bu yağ API SN olarak listeleniyor"
+    ],
+    "pros": [
+      "Yerli marka, Türkçe ürün sayfası ve bilgi formu",
+      "JASO MB sınıfı",
+      "Yaygın istasyon ağı"
+    ],
+    "cons": [
+      "API SN; bazı rakipler API SP",
+      "Baz yağ oranı açık değil",
+      "Yetkili motosiklet mağazasında fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk şehir trafiği için konumlanmış MB sınıflı scooter yağı.",
+      "kurye": "Kurye scooter'ları için yaygın bulunan yerli bir seçenek; değişim aralığını kılavuza göre tutun."
+    },
+    "verdict": "Maximoto 10W-40 Scooter, CVT'li scooter'lar için yerli ve kolay bulunan bir MB yağı. API sınıfı SN; kılavuz daha yeni sınıf istemiyorsa günlük kullanım ve kurye işi için makul bir tercih.",
+    "rivals": [
+      "motul/scooter-expert-4t-10w-40-mb",
+      "castrol/power1-scooter-4t-10w-40",
+      "motul/scooter-power-4t-10w-30-mb"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Vitesli motosiklette kullanılır mı?",
+        "a": "Hayır. Islak debriyajlı vitesli motosikletler için Petrol Ofisi'nin JASO MA2 sınıflı Maximoto 10W-40 yağı uygun."
+      },
+      {
+        "q": "Hangi scooter'lar için?",
+        "a": "Petrol Ofisi yağı dört zamanlı otomatik şanzımanlı yeni nesil scooter'lar için geliştirdiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40-scooter",
+    "sources": [
+      {
+        "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40-scooter",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Maximoto 10W-40 Scooter ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.petrolofisi.com.tr/medium/Product/Document/fbb59b15-4ce0-4a2e-a2d2-77c78a06acf2",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Maximoto 10W-40 Scooter ürün bilgi formu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "4t-scooter",
+      "viscosity": "10W-40",
+      "jaso": "MB",
+      "api": "SN",
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Sentetik teknoloji (üretici ifadesi)",
+        "Otomatik şanzımanlı yeni nesil scooter'lar için",
+        "Yakıt ekonomisi (üretici beyanı)"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "710-2t",
+    "brand": "motul",
+    "name": "710 2T",
+    "subcategories": [
+      "iki-zamanli-yag"
+    ],
+    "summary": "Motul'un yüksek performanslı 2 zamanlı motorlar için %100 sentetik ester yağı; JASO FD, API TC ve ISO-L-EGD, enjeksiyon veya ön karışımla kullanım.",
+    "description": [
+      "710 2T, yüksek devirde ve ağır koşullarda çalışan 2 zamanlı motorlar için Motul'un üst seviye yağı. Teknik bilgi sayfası yağı %100 sentetik ve ester teknolojili olarak tanımlıyor; JASO FD (033MOT070), API TC ve ISO-L-EGD sınıflarını veriyor. Yağ enjektörlü sistemlerde veya hazır karışımla kullanılabiliyor ve katalitik konvertörlerle uyumlu.",
+      "Motul karışım oranını motor üreticisinin gereksinimine göre %2 ile %4 (50:1 ile 25:1) arasında veriyor. JASO FD, FC'ye göre daha gelişmiş motor temizliği sağlayan en üst JASO 2 zamanlı seviyesi. Kullanım alanları sport ve enduro 2 zamanlılardan mopet ve scooter'lara kadar uzanıyor."
+    ],
+    "forWho": [
+      "2 zamanlı enduro ve cross motosiklet sahipleri",
+      "Yüksek devirde çalışan 2 zamanlı sport ve replika motorlar",
+      "Kılavuzu JASO FC/FD isteyen 2 zamanlı scooter ve mopetler"
+    ],
+    "notFor": [
+      "4 zamanlı motorlar: bu yağ yakıta karışan 2 zamanlı yağ",
+      "Karışım oranını bilmeden kullanacaklar: oran motor üreticisinin talimatına göre ayarlanmalı"
+    ],
+    "pros": [
+      "JASO FD: en üst 2T sınıfı",
+      "%100 sentetik ester formül",
+      "Enjeksiyon ve ön karışımda kullanılabiliyor"
+    ],
+    "cons": [
+      "Basit mopet kullanımı için gereğinden pahalı olabilir",
+      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sport": "Yüksek devirli 2 zamanlı sport ve enduro motorları için tasarlanmış.",
+      "sehir": "2 zamanlı scooter ve mopetlerde de kullanılabilir; karışım oranı kılavuza göre."
+    },
+    "verdict": "710 2T, yüksek devirli 2 zamanlı motorlar için JASO FD sınıflı, tam sentetik bir üst seviye yağ. Enduro ve cross kullanıcıları için güvenli tercih; basit bir mopette daha ekonomik FC/FD yağlar da yeterli olabilir.",
+    "rivals": [
+      "opet/fullmoto-spr-2t"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Karışım oranı nedir?",
+        "a": "Motul, motor üreticisinin gereksinimine göre %2 ile %4 (50:1 ile 25:1) arası oran veriyor. Motorunuzun kılavuzundaki oran esas alınmalı."
+      },
+      {
+        "q": "Yağ enjeksiyonlu sistemde kullanılır mı?",
+        "a": "Evet, Motul yağın enjektörlü sistemlerde veya hazır karışımda kullanılabildiğini belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/16400",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/16400",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – 710 2T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/710_2T_tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – 710 2T teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "2t",
+      "viscosity": null,
+      "jaso": "FD",
+      "api": "TC",
+      "baseOil": "tam-sentetik",
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "%100 sentetik, ester",
+        "ISO-L-EGD",
+        "Yağ enjeksiyonu veya ön karışım",
+        "Dumansız formül (üretici beyanı)",
+        "Karışım oranı %2–4 (50:1–25:1, üretici talimatına göre)"
+      ],
+      "madeIn": "Fransa"
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "fullmoto-spr-2t",
+    "brand": "opet",
+    "name": "Fullmoto SPR 2T",
+    "subcategories": [
+      "iki-zamanli-yag"
+    ],
+    "summary": "Opet Fuchs'un yerli 2 zamanlı motosiklet yağı; teknik föye göre JASO FB ve ISO-L-EGB, enjeksiyonlu sistemlerde veya yakıta karıştırılarak kullanılır.",
+    "description": [
+      "Fullmoto SPR 2T, Opet Fuchs'un benzinli 2 zamanlı motorlar için geliştirdiği motosiklet yağı. Ürün sayfası yakıt/yağ karışım oranının motor üreticisinin tavsiyesine göre belirlenmesi gerektiğini belirtiyor; Türkiye'de 1 L ambalajla sunuluyor.",
+      "Teknik veri föyü (Rev.06, 2020) performans sınıflarını JASO FB ve ISO-L-EGB olarak veriyor. Bu, JASO FC/FD'nin bir alt seviyesi: duman ve temizlik performansında FC/FD yağların gerisinde kalır. Kılavuzu FB'ye izin veren sıradan 2 zamanlı motorlar için uygun; FC/FD şart koşan modern 2 zamanlılar için değil."
+    ],
+    "forWho": [
+      "Kılavuzu JASO FB'ye izin veren 2 zamanlı motosiklet ve mopet sahipleri",
+      "Yerli marka 2T yağ arayanlar"
+    ],
+    "notFor": [
+      "Kılavuzu JASO FC veya FD isteyen motorlar: bu yağ FB sınıfında",
+      "Yüksek devirli yarış ve enduro 2 zamanlıları: FD sınıflı yağlar daha uygun",
+      "4 zamanlı motorlar"
+    ],
+    "pros": [
+      "Yerli marka, resmi ürün sayfası ve teknik föy",
+      "Enjeksiyon ve ön karışımda kullanılabiliyor"
+    ],
+    "cons": [
+      "JASO FB: güncel FC/FD sınıflarının altında",
+      "Yetkili motosiklet mağazasında fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Kılavuzu FB'ye izin veren 2 zamanlı mopet ve scooter'larda günlük kullanım için."
+    },
+    "verdict": "Fullmoto SPR 2T, yerli ve temel seviye bir 2 zamanlı yağ. JASO FB sınıfında olduğundan yalnızca kılavuzu bu sınıfa izin veren motorlarda kullanın; modern ya da yüksek devirli 2 zamanlılarda JASO FD'li yağlar daha doğru.",
+    "rivals": [
+      "motul/710-2t"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "JASO FB ne demek?",
+        "a": "JASO'nun 2 zamanlı yağ sınıflarından biri; FC ve FD daha yüksek temizlik ve duman performansı ister. Kılavuzunuz FC/FD istiyorsa FB yağ kullanmayın."
+      },
+      {
+        "q": "Karışım oranı ne olmalı?",
+        "a": "Opet Fuchs oranın motor üreticisinin tavsiyesine göre belirlenmesini istiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-spr-2t",
+    "sources": [
+      {
+        "url": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-spr-2t",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Fullmoto SPR 2T ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.opetfuchs.com.tr/assets/uploads/pdf/en-bilgi-formlari/TDS_FULLMOTO_SPR_2T.pdf",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Fullmoto SPR 2T teknik veri föyü (EN)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "medium",
+    "unverified": [
+      "specs.baseOil"
+    ],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "motor-yagi",
+      "engineType": "2t",
+      "viscosity": null,
+      "jaso": "FB",
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "ISO-L-EGB",
+        "Yağ enjeksiyonu veya doğrudan yakıta karışım",
+        "Hava veya su soğutmalı 2 zamanlı motorlar"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "c1-chain-clean",
+    "brand": "motul",
+    "name": "MC Care C1 Chain Clean",
+    "subcategories": [
+      "zincir-bakim"
+    ],
+    "summary": "Motul'un klor içermeyen zincir temizleme spreyi; O-ring, X-ring ve Z-ring zincirlerde toz, kum, çamur ve eski yağ kalıntısını çözmek için.",
+    "description": [
+      "C1 Chain Clean, Motul'un MC Care bakım serisinde zincir yağlamadan önceki adım. Teknik föy klor içermeyen yağ çözücü formülün O-ring, X-ring ve Z-ring zincirler için uygun olduğunu, hızla buharlaşıp iz bırakmadığını belirtiyor. Ürün 400 ml sprey olarak satılıyor.",
+      "Üreticinin önerdiği uygulama: zincire püskürtüp yaklaşık 5 dakika beklemek, çok kirliyse aşındırıcı olmayan bir fırçayla fırçalayıp tekrar uygulamak, ardından uygun zincir yağıyla yağlamak. Motul bu temizlik ve yağlama döngüsünü her 1.000 km'de bir tekrarlamayı öneriyor."
+    ],
+    "forWho": [
+      "Zincirini düzenli temizleyip yağlayan her motosiklet sahibi",
+      "Yağmurlu ve tozlu yolda sık kullanan kuryeler",
+      "Zincir ömrünü uzatmak isteyenler"
+    ],
+    "notFor": [
+      "Kayış veya şaft tahrikli motosikletler: zincir temizleyiciye ihtiyaç yok"
+    ],
+    "pros": [
+      "Klor içermeyen, contalı zincirlere uygun formül",
+      "Türkiye'de yerleşik mağazalarda bulunuyor",
+      "Motul'un C2/C4 zincir yağlarıyla aynı seride"
+    ],
+    "cons": [
+      "400 ml, sık temizlikte çabuk biter",
+      "Çok kirli zincirde fırça ile ek işlem gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Şehirde biriken toz ve yağ kalıntısını yağlama öncesi temizlemek için.",
+      "kurye": "Yüksek kilometrede zincir bakımını düzenli tutmak için; Motul'un 1.000 km'de bir önerisi kuryeler için daha sık bir rutine dönüşebilir.",
+      "uzunYol": "Uzun yol sonrası zinciri temizleyip yeniden yağlamak için."
+    },
+    "verdict": "C1 Chain Clean, contalı zincirler için güvenli, klor içermeyen ve kolay bulunan bir zincir temizleyici. Tek başına değil, ardından uygulanan bir zincir yağıyla anlam kazanır; Motul'un C2 veya C4 yağıyla birlikte düşünülmeli.",
+    "rivals": [
+      "motul/c2-chain-lube-road",
+      "motul/c4-chain-lube-factory-line"
+    ],
+    "priceRange": {
+      "min": 500.4,
+      "max": 500.4,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Enduro Market",
+        "url": "https://enduromarket.com/motul-c1-zincir-temizleme-sivisi-400ml-1601",
+        "price": 500.4,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ne sıklıkla kullanılmalı?",
+        "a": "Motul temizlik ve yağlamayı zincir ömrü için her 1.000 km'de bir tekrarlamayı öneriyor; yağmur ve toz bu aralığı kısaltabilir."
+      },
+      {
+        "q": "O-ring zincire zarar verir mi?",
+        "a": "Motul klor içermeyen formülün O-ring, X-ring ve Z-ring zincirler için uygun olduğunu belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/23001",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/23001",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care C1 Chain Clean ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/chain_clean_mc_tr_tr_motul_23001_20250413.pdf",
+        "type": "manufacturer",
+        "label": "Motul – MC Care C1 Chain Clean teknik veri sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/motul-c1-zincir-temizleme-sivisi-400ml-1601",
+        "type": "retailer",
+        "label": "Enduro Market – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "zincir-temizleyici",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 0.4,
+      "approvals": [],
+      "features": [
+        "Klor içermez",
+        "O-ring, X-ring, Z-ring zincirler için",
+        "Hızlı buharlaşır, iz bırakmaz (üretici beyanı)",
+        "400 ml sprey"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "c2-chain-lube-road",
+    "brand": "motul",
+    "name": "MC Care C2 Chain Lube Road",
+    "subcategories": [
+      "zincir-bakim"
+    ],
+    "summary": "Motul'un yol motosikletleri için zincir yağlama spreyi; standart ve contalı zincirlerde, yüksek hızda yapışma ve su/pas direnci için.",
+    "description": [
+      "C2 Chain Lube Road, Motul'un sokak motosikletleri için zincir yağı. Teknik föy standart ve O-ring, X-ring, Z-ring tüm zincir tiplerine uygun olduğunu, sürtünme ve güç kaybını azalttığını, suya ve paslanmaya dayanıklı olduğunu ve contaları etkilemediğini belirtiyor.",
+      "Motul uygulamadan önce zincirin C1 Chain Clean ile temizlenmesini, ürünün çalkalanıp zincirin iç tarafı boyunca uygulanmasını öneriyor. Formül eski tortuları çözmek için bir çözücü de içeriyor. Çok hızlı motosikletlerde yüksek hızda bile zincire yapıştığı üretici tarafından vurgulanıyor."
+    ],
+    "forWho": [
+      "Zincir tahrikli sokak motosikleti sahipleri",
+      "Yağmurlu havada da kullanan sürücüler",
+      "Zincir bakımını kendisi yapan kuryeler"
+    ],
+    "notFor": [
+      "Arazi ve çamurlu kullanım: Motul bunun için ayrı C3 Off Road yağını öneriyor",
+      "Kayış veya şaft tahrikli motosikletler"
+    ],
+    "pros": [
+      "Tüm zincir tiplerine uygun",
+      "Su ve pas direnci",
+      "Türkiye'de yerleşik mağazada satılıyor"
+    ],
+    "cons": [
+      "Uygulamadan sonra birkaç dakika bekleme gerekiyor",
+      "Arazi kullanımı için ayrı ürün gerekiyor"
+    ],
+    "usage": {
+      "sehir": "Günlük sokak kullanımında zinciri korumak için Motul'un yol serisi.",
+      "kurye": "Yüksek kilometrede düzenli yağlama için uygun; temizleme ile birlikte rutin hâline getirilmeli.",
+      "uzunYol": "Uzun yol öncesi ve sırasında zincir yağlamak için taşınabilir sprey.",
+      "sport": "Yüksek hızda yapışma özelliği sokak sport motorları için öne çıkarılıyor; pist için C4 Factory Line var."
+    },
+    "verdict": "C2 Chain Lube Road, zincir tahrikli sokak motosikletleri için kolay bulunan, tüm zincir tiplerine uygun bir zincir yağı. C1 ile temizleyip C2 ile yağlamak Motul'un önerdiği temel bakım rutini.",
+    "rivals": [
+      "motul/c4-chain-lube-factory-line",
+      "motul/c1-chain-clean"
+    ],
+    "priceRange": {
+      "min": 666,
+      "max": 666,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Enduro Market",
+        "url": "https://enduromarket.com/motul-c2-road-zincir-yagi-400ml-1602",
+        "price": 666,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Zinciri önce temizlemek gerekir mi?",
+        "a": "Motul uygulamadan önce zincirin C1 Chain Clean ile temizlenmesini öneriyor."
+      },
+      {
+        "q": "Arazide kullanılır mı?",
+        "a": "Motul arazi motosikletleri için ayrı C3 Chain Lube Off Road ürününü öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/23301",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/23301",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care C2 Chain Lube Road ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/chain_lube_road_mc_tr_tr_motul_23301_20250413.pdf",
+        "type": "manufacturer",
+        "label": "Motul – MC Care C2 Chain Lube Road teknik veri sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/motul-c2-road-zincir-yagi-400ml-1602",
+        "type": "retailer",
+        "label": "Enduro Market – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "zincir-yagi",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 0.4,
+      "approvals": [],
+      "features": [
+        "Standart, O-ring, X-ring, Z-ring zincirler için",
+        "Yüksek hızda zincire yapışır (üretici beyanı)",
+        "Suya ve paslanmaya dayanıklı",
+        "Contalara etkisi yok",
+        "400 ml sprey"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "c4-chain-lube-factory-line",
+    "brand": "motul",
+    "name": "MC Care C4 Chain Lube Factory Line",
+    "subcategories": [
+      "zincir-bakim"
+    ],
+    "summary": "Motul'un yarış deneyiminden gelen AW/EP katkılı zincir yağı; beyaz rengiyle uygulaması kolay, yüksek hızda yapışan, çok hızlı motosikletler için.",
+    "description": [
+      "C4 Chain Lube Factory Line, Motul'un zincir yağları arasında yarış odaklı ürün. Teknik föy, aşınma karşıtı ve aşırı basınç (AW/EP) formülasyonuna dayanan katı katkılarla yuvarlanma direncini azalttığını, aktarma verimini artırdığını ve yüksek sıcaklıkta yağlama özelliklerini koruduğunu belirtiyor.",
+      "Beyaz rengi sayesinde zincirin neresine uygulandığı görülebiliyor. Motul zincirin önce C1 ile temizlenmesini, ürünün iç zincir boyunca uygulanmasını ve tam yapışma için yaklaşık 10 dakika beklenmesini öneriyor. Tüm zincir tiplerinde kullanılabiliyor ve contaları koruduğu belirtiliyor."
+    ],
+    "forWho": [
+      "Süpersport ve yüksek hızlı motosiklet sahipleri",
+      "Pist günlerine katılan sürücüler",
+      "Zincire nereye yağ sürdüğünü görmek isteyenler"
+    ],
+    "notFor": [
+      "Arazi ve çamurlu kullanım: Motul'un C3 Off Road ürünü daha uygun",
+      "Kayış veya şaft tahrikli motosikletler"
+    ],
+    "pros": [
+      "AW/EP katkılı yarış odaklı formül",
+      "Beyaz renk uygulamayı kolaylaştırıyor",
+      "Türkiye'de yerleşik mağazada satılıyor"
+    ],
+    "cons": [
+      "Tam yapışma için yaklaşık 10 dakika bekleme",
+      "Beyaz kalıntı jant ve gövdede daha belirgin görünebilir"
+    ],
+    "usage": {
+      "sport": "Yüksek hız ve pist için Motul'un önerdiği zincir yağı.",
+      "uzunYol": "Uzun yolda da kullanılabilir; yapışma süresi nedeniyle mola sırasında uygulamak mantıklı.",
+      "sehir": "Şehirde kullanılabilir ancak yol kullanımı için C2 daha ekonomik seçenek."
+    },
+    "verdict": "C4 Chain Lube Factory Line, yüksek hızda zincire tutunma ve görünür uygulama isteyen sport kullanıcılar için iyi bir seçim. Günlük şehir kullanımında C2 Road aynı işi daha ekonomik görür.",
+    "rivals": [
+      "motul/c2-chain-lube-road",
+      "motul/c1-chain-clean"
+    ],
+    "priceRange": {
+      "min": 666,
+      "max": 666,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Enduro Market",
+        "url": "https://enduromarket.com/motul-c4-racing-zincir-yagi-400ml-1604",
+        "price": 666,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Uygulamadan sonra ne kadar beklemeli?",
+        "a": "Motul tam yapışma için yaklaşık 10 dakika kurumasını öneriyor."
+      },
+      {
+        "q": "C2 Road ile farkı ne?",
+        "a": "C4, AW/EP katkılı ve yarış odaklı; beyaz renkte uygulanıyor. C2 sokak motosikletleri için renksiz ve yapışkan bir yol yağı."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/23101",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/23101",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care C4 Chain Lube Factory Line ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/chain_lube_fl_mc_tr_tr_motul_23101_20250413.pdf",
+        "type": "manufacturer",
+        "label": "Motul – MC Care C4 Chain Lube Factory Line teknik veri sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/motul-c4-racing-zincir-yagi-400ml-1604",
+        "type": "retailer",
+        "label": "Enduro Market – ürün sayfası (fiyat)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "zincir-yagi",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 0.4,
+      "approvals": [],
+      "features": [
+        "AW/EP katkılı (aşınma karşıtı / aşırı basınç)",
+        "Beyaz renk, kolay uygulama",
+        "Standart, O-ring, X-ring, Z-ring zincirler için",
+        "Suya ve paslanmaya dayanıklı",
+        "400 ml sprey"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "dot-5-1",
+    "brand": "motul",
+    "name": "DOT 5.1",
+    "subcategories": [
+      "fren-hidroligi"
+    ],
+    "summary": "Motul'un %100 sentetik DOT 5.1 fren hidroliği; DOT 3, DOT 4 ve DOT 5.1 isteyen hidrolik fren ve debriyaj sistemlerinde, ABS'li motosikletlerde kullanılır.",
+    "description": [
+      "Motul DOT 5.1, silikon bazlı olmayan sentetik bir fren ve debriyaj hidroliği. Teknik föy FMVSS 116 DOT 3, DOT 4 ve DOT 5.1, ISO 4925 ve SAE J1703 standartlarını karşıladığını belirtiyor; 187 °C ıslak kaynama noktası DOT 5.1 minimumunun (180 °C) üzerinde.",
+      "-40 °C'deki düşük viskozitesi (820 mm²/s) ABS ve ESP valflerinde sıvı dolaşımını kolaylaştırmak için öne çıkarılıyor. Silikon bazlı olmayan DOT 3, DOT 4 ve DOT 5.1 sıvılarla karışabiliyor; silikon bazlı DOT 5 veya mineral (LHM) sıvılarla karıştırılmamalı. Motul değişimi üretici önerisine göre 12–24 ayda bir öneriyor."
+    ],
+    "forWho": [
+      "Kılavuzu DOT 4 veya DOT 5.1 isteyen ABS'li motosiklet sahipleri",
+      "Fren hidroliğini periyodik olarak değiştiren kullanıcılar",
+      "Hidrolik debriyajlı motosikletler"
+    ],
+    "notFor": [
+      "Silikon bazlı DOT 5 veya mineral yağ (LHM) kullanan sistemler: karıştırılmamalı",
+      "Fren sistemine müdahale deneyimi olmayanlar: hava alma işlemi doğru yapılmazsa fren etkisi kaybolur; serviste değiştirin"
+    ],
+    "pros": [
+      "DOT 3, DOT 4 ve DOT 5.1 isteyen sistemlerde kullanılabilir",
+      "ABS için düşük soğuk viskozite",
+      "Üretici değişim aralığı veriyor (12–24 ay)"
+    ],
+    "cons": [
+      "Boya ve verniğe zarar verir; dikkatli kullanım gerekir",
+      "Nem çektiği için açılmış ambalaj uzun süre saklanmamalı",
+      "Türkiye'de yetkili mağazada stoklu fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafikte ABS'li fren sistemleri için uygun sınıf.",
+      "uzunYol": "Uzun yol öncesi fren hidroliği yaşını kontrol etmek ve gerekirse değiştirmek için.",
+      "kurye": "Yoğun fren kullanan kurye motorlarında periyodik değişim için."
+    },
+    "verdict": "Motul DOT 5.1, DOT 3/4/5.1 isteyen sistemlerin çoğuna uyan, ABS dostu ve kaynakları net bir fren hidroliği. Asıl önemli olan sınıftan çok periyodik değişim: Motul 12–24 ay öneriyor ve işlemi deneyimli birinin yapması gerekiyor.",
+    "rivals": [
+      "motul/rbf-600-factory-line"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "DOT 4 kullanan motora DOT 5.1 konur mu?",
+        "a": "Motul bu sıvının silikon bazlı olmayan DOT 3, DOT 4 ve DOT 5.1 isteyen sistemlerde kullanılabildiğini ve bu sıvılarla karışabildiğini belirtiyor. Silikon bazlı DOT 5 ile karıştırılmamalı."
+      },
+      {
+        "q": "Ne sıklıkla değiştirilmeli?",
+        "a": "Motul üretici önerilerine göre 12 ile 24 ay arasında değiştirilmesini öneriyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/27400",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/27400",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – DOT 5.1 ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/DOT_5.1_tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – DOT 5.1 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "fren-hidroligi",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": "DOT 5.1",
+      "volumeL": 0.5,
+      "approvals": [],
+      "features": [
+        "FMVSS 116 DOT 3 / DOT 4 / DOT 5.1 (silikon bazlı değil)",
+        "ISO 4925, SAE J1703",
+        "Islak kaynama noktası 187 °C",
+        "-40 °C'de 820 mm²/s viskozite (ABS için düşük)",
+        "Değişim: 12–24 ay (üretici önerisine göre)",
+        "500 ml"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "rbf-600-factory-line",
+    "brand": "motul",
+    "name": "RBF 600 Factory Line",
+    "subcategories": [
+      "fren-hidroligi"
+    ],
+    "summary": "Motul'un %100 sentetik yarış fren hidroliği; DOT 4 sınıfında, 312 °C kuru ve 205 °C ıslak kaynama noktasıyla pist ve yoğun fren kullanımı için.",
+    "description": [
+      "RBF 600 Factory Line, Motul'un yarış freni ve debriyajı için geliştirdiği fren hidroliği. Teknik föy ürünü '%100 sentetik yarış fren hidroliği – DOT 4' olarak tanımlıyor; kuru kaynama noktası 312 °C, ıslak kaynama noktası 205 °C. Bu değerler DOT 4 ve DOT 5.1 minimumlarının belirgin şekilde üzerinde.",
+      "Önemli ayrıntı: Motul, sıvının DOT 3 ve DOT 5.1 standartlarını -40 °C'deki viskozite şartı dışında aştığını belirtiyor; -40 °C'de viskozitesi 1.750 mm²/s. Yani yüksek ısıya dayanıklı ama soğukta DOT 5.1 kadar akışkan değil. Daha düşük performanslı poliglikol sıvılarla karıştırılması önerilmiyor; silikon bazlı ve mineral sıvılarla hiç karıştırılmamalı."
+    ],
+    "forWho": [
+      "Pist günlerine katılan ve frenleri aşırı ısınan sürücüler",
+      "Sportif dağ yolu kullanımında fren hissinin sabit kalmasını isteyenler",
+      "Kılavuzu DOT 4 isteyen sport motosikletler"
+    ],
+    "notFor": [
+      "Soğuk iklimde ABS'li sistemde en düşük soğuk viskozite isteyenler: DOT 5.1 daha uygun",
+      "Silikon bazlı DOT 5 veya mineral (LHM) kullanan sistemler",
+      "Günlük şehir kullanımı: yarış hidroliğinin avantajı burada hissedilmez"
+    ],
+    "pros": [
+      "Çok yüksek kuru ve ıslak kaynama noktası",
+      "Yarış ve sokak hidrolik fren/debriyaj sistemlerinde kullanılabilir"
+    ],
+    "cons": [
+      "Soğuk viskozitesi DOT 5.1 şartını karşılamıyor",
+      "Daha düşük performanslı sıvılarla karıştırılması önerilmiyor",
+      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sport": "Pist ve yoğun fren kullanımında buhar kilidi riskini azaltmak için tasarlanmış.",
+      "uzunYol": "Yüklü dağ inişlerinde yüksek kaynama noktası avantaj; değişim aralığını kısa tutun."
+    },
+    "verdict": "RBF 600 Factory Line, frenleri aşırı ısınan sport ve pist kullanıcıları için güçlü bir DOT 4 yarış hidroliği. Günlük kullanımda ve soğuk havada ABS için Motul DOT 5.1 daha dengeli bir seçim.",
+    "rivals": [
+      "motul/dot-5-1"
+    ],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "RBF 600 DOT 5.1 mi?",
+        "a": "Motul ürünü DOT 4 olarak tanımlıyor. Kaynama noktalarıyla DOT 5.1'i aştığını, ancak -40 °C viskozite şartını karşılamadığını belirtiyor."
+      },
+      {
+        "q": "Normal DOT 4 ile karıştırılır mı?",
+        "a": "Motul daha düşük performanslı poliglikol sıvılarla karıştırılmamasını öneriyor; silikon bazlı ve mineral sıvılarla ise kesinlikle karıştırılmamalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/48100",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/48100",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – RBF 600 Factory Line ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/rbf_600_factory_line_en_za_motul_48100_20250911.pdf",
+        "type": "manufacturer",
+        "label": "Motul – RBF 600 Factory Line teknik veri sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "fren-hidroligi",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": "DOT 4",
+      "volumeL": 0.5,
+      "approvals": [],
+      "features": [
+        "%100 sentetik yarış fren hidroliği",
+        "Kuru kaynama noktası 312 °C",
+        "Islak kaynama noktası 205 °C",
+        "-40 °C viskozite şartı dışında DOT 3 ve DOT 5.1'i aşar (üretici beyanı)",
+        "500 ml"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "motocool-factory-line",
+    "brand": "motul",
+    "name": "Motocool Factory Line -35°C",
+    "subcategories": [
+      "sogutma-sivisi"
+    ],
+    "summary": "Motul'un kullanıma hazır motosiklet soğutma sıvısı; OAT teknolojili, -35 °C donma korumalı, alüminyum ve magnezyum alaşımlı motorlar için.",
+    "description": [
+      "Motocool Factory Line, Motul'un yarış kökenli kullanıma hazır soğutma sıvısı. Teknik föy monoetilen glikol bazlı, organik asit teknolojili (OAT) korozyon önleyiciler içerdiğini ve yeni motor tasarımlarında kullanılan alüminyum/magnezyum alaşımlarına yönelik koruma sağladığını belirtiyor. Donma koruması -35 °C.",
+      "Ürün hazır karışım olarak satılıyor; Motul üzerine su eklenmemesini ve organik olmayan ürünlerle karıştırılmamasını istiyor. Nitrit, amin, fosfat, borat ve silikat içermediği, su pompasını kavitasyona karşı koruduğu ve conta/hortum dostu olduğu da belirtiliyor. İçilmeyi önlemek için acılaştırıcı madde içeriyor."
+    ],
+    "forWho": [
+      "Sıvı soğutmalı motosiklet sahipleri",
+      "Kış aylarında donma koruması isteyenler",
+      "Soğutma sıvısını kendisi tazeleyen kullanıcılar"
+    ],
+    "notFor": [
+      "Hava soğutmalı motosikletler: soğutma sıvısı gerekmez",
+      "Mevcut sıvısı organik olmayan (inorganik) tipte olan sistemler: karıştırılmamalı, sistem boşaltılıp yıkanmalı"
+    ],
+    "pros": [
+      "Kullanıma hazır, karışım oranı hesaplamaya gerek yok",
+      "-35 °C donma koruması",
+      "Silikat ve nitrit içermeyen OAT formül"
+    ],
+    "cons": [
+      "Organik olmayan sıvılarla karıştırılamaz",
+      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+    ],
+    "usage": {
+      "sehir": "Dur-kalk trafikte ısınan sıvı soğutmalı motorlar için ısı transferini korumaya yönelik.",
+      "uzunYol": "Uzun yolda ve sıcak havada soğutma sisteminin sağlıklı çalışması için; sıvı yaşını kontrol edin.",
+      "kurye": "Sıvı soğutmalı kurye motorlarında periyodik değişim için."
+    },
+    "verdict": "Motocool Factory Line, sıvı soğutmalı motosikletler için kullanıma hazır, OAT teknolojili ve kaynakları net bir soğutma sıvısı. Mevcut sıvının türünü bilmiyorsanız karıştırmak yerine sistemi boşaltıp tamamen yenilemek en doğrusu.",
+    "rivals": [],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Su ile karıştırmak gerekir mi?",
+        "a": "Hayır. Motul ürünün kullanıma hazır olduğunu ve su eklenmemesi gerektiğini belirtiyor."
+      },
+      {
+        "q": "Ne zaman değiştirilmeli?",
+        "a": "Motul değişim aralığı için motosiklet üreticisinin önerisine bakılmasını istiyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/43900",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/43900",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – Motocool Factory Line -35°C ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/motocool_factory_line_-35_en_za_motul_43900_20250911.pdf",
+        "type": "manufacturer",
+        "label": "Motul – Motocool Factory Line teknik veri sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "sogutma-sivisi",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Kullanıma hazır, su eklenmez",
+        "Monoetilen glikol bazlı, OAT organik korozyon önleyiciler",
+        "-35 °C donma koruması",
+        "Nitrit, amin, fosfat, borat ve silikat içermez",
+        "Alüminyum/magnezyum alaşımlarına yönelik koruma"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "yag-bakim",
+    "status": "active",
+    "successor": null,
+    "slug": "e2-moto-wash",
+    "brand": "motul",
+    "name": "MC Care E2 Moto Wash",
+    "subcategories": [
+      "temizlik-bakim"
+    ],
+    "summary": "Motul'un doğada çözünebilen motosiklet temizleyicisi; yağ, toz, çamur, böcek ve fren balatası kalıntısını püskürtüp durulayarak temizlemek için.",
+    "description": [
+      "E2 Moto Wash, Motul'un MC Care serisinde motosikletin genel yıkaması için sunduğu temizleyici ve yağ çözücü. Teknik föy plastik, sentetik kumaş, boya, vernik ve metal gibi tüm yüzeylerde kullanılabildiğini, iz bırakmadan kuruduğunu ve metal parçalarda korozyon önleyici bir film bıraktığını belirtiyor.",
+      "Motul ürünün OCDE 302B yöntemine göre 28 günde %94 oranında çözündüğünü belirtiyor ve motokros organizasyonlarında doğada çözünebilen ürün tercihine uygun olduğunu vurguluyor. Uygulama: geniş jetle bolca püskürtmek, birkaç dakika beklemek ve ürün kurumadan suyla iyice durulamak. Doğrudan güneş altında veya sıcak yüzeyde kullanılmamalı."
+    ],
+    "forWho": [
+      "Motosikletini kendisi yıkayan kullanıcılar",
+      "Arazi ve enduro sürücüleri",
+      "Yağ ve çamur kalıntısı biriken kurye motorları"
+    ],
+    "notFor": [
+      "Sıcak motor veya doğrudan güneş altında yıkama yapacaklar: üretici bunu önermiyor",
+      "Su ile durulama imkânı olmayanlar: ürün kurumadan durulanmalı"
+    ],
+    "pros": [
+      "Tüm yüzeylerde kullanılabilir",
+      "Doğada çözünebilir formül",
+      "Kullanıma hazır tetikli sprey"
+    ],
+    "cons": [
+      "Durulama için su gerekiyor",
+      "Sıcak yüzeyde kullanılamıyor; motorun soğumasını beklemek gerekir"
+    ],
+    "usage": {
+      "sehir": "Şehir kirini ve böcek kalıntısını haftalık yıkamada temizlemek için.",
+      "kurye": "Yağ ve yol kiri biriken kurye motorlarında düzenli temizlik için.",
+      "uzunYol": "Uzun yol sonrası böcek ve yol kirini temizlemek için."
+    },
+    "verdict": "E2 Moto Wash, motosikletin tamamında güvenle kullanılabilen, doğada çözünebilen ve kolay uygulanan bir genel temizleyici. Durulama gerektirdiği için susuz hızlı temizlik arayanlara değil, düzenli yıkama yapanlara uygun.",
+    "rivals": [],
+    "priceRange": null,
+    "offers": [],
+    "faq": [
+      {
+        "q": "Boyalı ve mat yüzeylerde kullanılır mı?",
+        "a": "Motul boya ve verniği koruduğunu ve tüm yüzeylerde kullanılabildiğini belirtiyor. Mat yüzeyler için seride ayrı bir E11 Matte Surface Clean ürünü de var."
+      },
+      {
+        "q": "Nasıl uygulanır?",
+        "a": "Geniş jetle bolca püskürtülür, birkaç dakika beklenir ve ürün kurumadan suyla durulanır. Doğrudan güneş altında ya da sıcak yüzeyde kullanılmamalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.motul.com/tr-TR/products/43702",
+    "sources": [
+      {
+        "url": "https://www.motul.com/tr-TR/products/43702",
+        "type": "manufacturer",
+        "label": "Motul Türkiye – MC Care E2 Moto Wash ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://azupim01.motul.com/media/motulData/DO/base/MOTO_WASH_MC_tr_TR_motul_20210319.pdf",
+        "type": "manufacturer",
+        "label": "Motul – Moto Wash teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "lastCheckedAt": "2026-10-10",
+    "dataConfidence": "high",
+    "unverified": [],
+    "colors": [],
+    "sizes": [],
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "buyerInsights": null,
+    "specs": {
+      "productType": "temizlik",
+      "engineType": null,
+      "viscosity": null,
+      "jaso": null,
+      "api": null,
+      "baseOil": null,
+      "dotClass": null,
+      "volumeL": 1,
+      "approvals": [],
+      "features": [
+        "Doğada çözünebilir (OCDE 302B'ye göre 28 günde %94, üretici beyanı)",
+        "Plastik, sentetik kumaş, boya, vernik ve metal yüzeyler için",
+        "Metal parçalarda korozyon önleyici film bırakır",
+        "1 L tetikli sprey"
+      ],
+      "madeIn": null
+    }
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "slug": "ikinci-el-motosiklet-kontrol-listesi",
+    "title": "İkinci El Motosiklet Kontrol Listesi: Evrak, Hasar Kaydı ve Ekipman",
+    "description": "İkinci el motosiklet alırken evrak, şasi ve motor numarası, TRAMER hasar kaydı, noter satışı, düşme izi, çatal, zincir, lastik, fren ve ekipman kontrolü.",
+    "topic": "genel",
+    "updatedAt": "2026-10-10",
+    "readingMinutes": 9,
+    "intro": "İkinci el motosiklette önce evrakı (ruhsat, şasi ve motor numarası, hasar kaydı), sonra motorun kendisini (düşme izi, çatal keçesi, zincir ve dişli, lastik yaşı, fren diskleri, soğuk çalıştırma) kontrol et; satışı da mutlaka noterde yap, çünkü Karayolları Trafik Kanunu'na göre noterde yapılmayan satışlar geçersizdir. Ekipmanda ise kural basit: ikinci el kask alma, mont ve koruyucuları ise dikkatle incele. Bu liste ilanı görmekten noterdeki imzaya kadar sırayla ilerler.",
+    "sections": [
+      {
+        "heading": "İlan ve ilk görüşme",
+        "paragraphs": [
+          "İlana bakarken motorun yılını, kilometresini, bakım geçmişini ve kaç sahip gördüğünü not et; ilk görüşmede satıcıdan plakayı ve ruhsattaki şasi numarasını iste. Bu iki bilgiyle, motoru görmeye gitmeden hasar kaydını sorgulayabilirsin. Satıcının ruhsat sahibi olup olmadığını da baştan sor: noter satışı ruhsat sahibi adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak yapılır.",
+          "Motoru gündüz, kuru havada ve motor soğukken görmeyi talep et. Önceden çalıştırılmış, yeni yıkanmış ya da karanlıkta gösterilen bir motorda sızıntı, ilk çalışma sorunu ve kaporta izleri kolayca gözden kaçar. Mümkünse yanında motordan anlayan biriyle git."
+        ],
+        "bullets": [
+          "Plaka ve şasi numarasını önceden iste",
+          "Satıcı ruhsat sahibi mi?",
+          "Gündüz, kuru havada ve soğuk motorla görüş",
+          "Bakım faturaları ve servis kayıtları var mı?"
+        ]
+      },
+      {
+        "heading": "Evrak: ruhsat, şasi ve motor numarası",
+        "paragraphs": [
+          "Ruhsattaki (tescil belgesindeki) şasi numarasını motorun şasisi üzerindeki numarayla, motor numarasını da motor bloğundaki numarayla tek tek karşılaştır. Numaranın yeri modele göre değişir; genellikle gidon borusu (direksiyon kafası) çevresinde ve motor bloğunun alt veya yan kısmındadır, yerini kullanım kılavuzundan ya da bayiden öğrenebilirsin. Kazınmış, üzerine boya atılmış ya da okunamayan bir numara ciddi bir uyarı işaretidir; bu durumda satıştan vazgeç.",
+          "Ruhsattaki marka, model, renk ve yakıt bilgilerinin motorla uyuştuğunu kontrol et. Muayene geçerlilik tarihini ruhsattan ve TÜVTÜRK'ün araç muayene sorgulama sayfasından görebilirsin; muayenesi yaklaşan ya da geçmiş bir motorda muayene masrafını ve olası eksiklerin onarımını pazarlıkta hesaba kat."
+        ],
+        "bullets": [
+          "Şasi numarası: ruhsat ile şasi aynı mı?",
+          "Motor numarası: ruhsat ile blok aynı mı?",
+          "Marka, model, renk uyumu",
+          "Muayene tarihi: ruhsat ve TÜVTÜRK sorgusu"
+        ]
+      },
+      {
+        "heading": "Hasar kaydı: TRAMER ve e-Devlet",
+        "paragraphs": [
+          "Sigorta Bilgi ve Gözetim Merkezi (SBM), araçların hasar geçmişini plaka veya şasi numarasıyla sorgulama imkânı sunuyor. Sorgu tramer.org.tr üzerinden ya da plakayı 5664'e SMS ile göndererek yapılabiliyor; SBM'ye göre hasar geçmişi sorgusu aracın plakası değişmiş olsa bile sonuç veriyor, şasi numarasıyla değişen parça ve araç detay sorguları da mümkün. Bu sorgular ücretlidir; güncel ücreti SBM'nin sayfasından kontrol et.",
+          "Sonucu doğru okumak önemlidir. SBM'nin yasal uyarısına göre hasar bilgileri 2003'ten bu yana sigorta şirketlerinin yaptığı kasko ve trafik sigortası ödemeleriyle sınırlıdır; yani sigortaya yansıtılmadan, cepten yaptırılan bir onarım bu kayıtta görünmez. Temiz bir sorgu, motorun hiç düşmediği anlamına gelmez; bu yüzden görsel kontrol yine şarttır.",
+          "e-Devlet'teki SBM Trafik Poliçe ve Hasar Bilgileri Sorgulama hizmeti ise yalnızca kendi adına kayıtlı araçları gösterir. Alıcı olarak bu ekranı kendin açamazsın, ama satıcıdan kendi e-Devlet hesabında bu sorguyu yanında açıp göstermesini isteyebilirsin."
+        ],
+        "bullets": [
+          "tramer.org.tr veya 5664 SMS: plaka ya da şasi numarasıyla",
+          "Sorgular ücretli; ücret SBM sayfasında",
+          "Kayıt yalnız sigortaya yansıyan hasarları gösterir",
+          "e-Devlet sorgusu yalnız araç sahibine açık"
+        ]
+      },
+      {
+        "heading": "Görsel kontrol: düşme izleri ve kaporta",
+        "paragraphs": [
+          "Motorun iki yanını eğilerek ve aynı yükseklikten karşılaştır. Düşme izleri genellikle gidon uçlarında, fren ve debriyaj kollarının uçlarında, aynalarda, ayak pedallarında, motor kapaklarında ve egzozun dış yüzeyinde toplanır. Yeni takılmış tek bir kol ya da tek tarafı farklı renkte bir kaporta parçası, o taraftan düşüldüğünü düşündürebilir.",
+          "Gidonun düz durduğunu, ön tekerlek düzken gidonun da ortada olduğunu kontrol et. Şasi ve salıncak kaynaklarında, motor bağlantı noktalarında boya çatlağı ya da kaynak izi aramak, yalnızca kaportaya bakmaktan daha fazlasını söyler."
+        ],
+        "bullets": [
+          "Gidon uçları, kol uçları, aynalar, pedallar",
+          "Motor kapakları ve egzozda sürtme izi",
+          "Tek taraflı yeni veya farklı renkte parça",
+          "Gidon ve ön tekerlek hizası, şasi kaynakları"
+        ]
+      },
+      {
+        "heading": "Mekanik kontrol: çatal, zincir, lastik ve frenler",
+        "paragraphs": [
+          "Ön çatalın krom borularında çizik, pas veya yağ izi ara; borunun üzerinde yağ halkası ya da keçenin altında yağ birikintisi, çatal keçesinin sızdırdığını gösterir. Ön freni sıkıp motoru birkaç kez aşağı bastır: süspansiyon sessiz ve yumuşak çalışmalı, hemen yukarı fırlamamalı. Arka amortisörde de aynı sızıntı kontrolünü yap.",
+          "Zinciri ve dişlileri incele: dişli uçları sivrilmiş, kanca gibi kıvrılmışsa ya da zincirde pas ve sıkışmış baklalar varsa yakında zincir ve dişli seti değişecek demektir. Zinciri arka dişlinin arkasından dışarı doğru çekmeyi dene; belirgin biçimde ayrılıyorsa zincir esnemiştir. Doğru boşluk ve bakım için Motosiklet Zincir Bakımı ve Yağlama rehberine bakabilirsin.",
+          "Lastiklerin diş derinliğine, yanaklarındaki çatlaklara ve yaşına bak. Üretim tarihi lastik yanağındaki DOT kodunun son dört hanesinde yazar; nasıl okunacağını ve ne zaman değişim gerektiğini Motosiklet Lastiği rehberinde anlattık. Fren disklerinde derin çizik, mavimsi renk değişimi veya dış kenarda belirgin bir basamak ara; balata kalınlığına ve fren hidroliğinin rengine de göz at."
+        ],
+        "bullets": [
+          "Çatal ve amortisör: sızıntı, pas, çizik",
+          "Zincir ve dişli: sivrilme, pas, esneme",
+          "Lastik: diş, çatlak, DOT ile üretim tarihi",
+          "Fren: disk yüzeyi, balata, hidrolik rengi"
+        ]
+      },
+      {
+        "heading": "Soğuk çalıştırma ve test sürüşü",
+        "paragraphs": [
+          "Motoru soğukken çalıştırmak, ısınmış haldeyken gizlenebilecek sorunları gösterir. Marş basınca motor kolay çalışmalı, rölantiye kısa sürede oturmalı. Egzozdan yoğun mavi duman, ısındıktan sonra da geçmeyen beyaz duman, motordan tıkırtı veya metalik sesler dikkatle değerlendirilmelidir. Çalışırken gösterge panelindeki uyarı ışıklarının sönmesini, farın, stop lambasının ve sinyallerin çalışmasını kontrol et.",
+          "Ardından kısa bir test sürüşü iste. Debriyajın kaymadığını, viteslerin rahat geçtiğini, frenin titremeden ve düz bir çizgide durdurduğunu, motorun bırakınca bir tarafa çekmediğini kontrol et. Test sürüşüne nasıl hazırlanacağını, kendi ekipmanınla gitmeyi ve sürüş sırasında nelere dikkat edeceğini Motosiklet Test Sürüşü Rehberi'nde ayrıntılı anlattık. Ehliyet sınıfının motora uygun olması burada da şarttır."
+        ],
+        "bullets": [
+          "Soğuk motorla ilk çalışma ve rölanti",
+          "Egzoz dumanı ve motor sesleri",
+          "Uyarı ışıkları, far, stop, sinyal",
+          "Test sürüşü: debriyaj, vites, fren, düz gidiş"
+        ]
+      },
+      {
+        "heading": "Satış: noter ve güvenli ödeme",
+        "paragraphs": [
+          "Karayolları Trafik Kanunu'nun 20. maddesine göre tescilli araçların her çeşit satış ve devri noterlerce yapılır ve noterde yapılmayan satışlar geçersizdir. Kanun, satılacak araçtan dolayı motorlu taşıtlar vergisi, trafik idari para cezası gibi borçların bulunmamasını ve araç üzerinde satışı kısıtlayan bir kayıt olmamasını da şart koşuyor. Elden senetle veya vekaletle yapılan pazarlıklara güvenme; parayı noterde, satışla birlikte öde.",
+          "27 Ağustos 2024 tarihli Resmî Gazete'de yayımlanan Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik, motosikleti de kapsayan ikinci el taşıt satışlarında ödeme nakit, havale veya EFT ile yapılıyorsa bedelin, mülkiyetle eş anlı el değiştirmesini sağlayan elektronik sistem (Güvenli Ödeme Sistemi) üzerinden ödenmesini öngörüyor. Yönetmeliğe göre bu hüküm işletmeler için yayım tarihinde, diğer kişiler için bir ay sonra yürürlüğe girdi. Sistemin kullanım ayrıntılarını ve güncel kuralları noterine sor."
+        ],
+        "bullets": [
+          "Satış noterde yapılır; noter dışı satış geçersiz",
+          "Vergi, trafik cezası borcu ve kısıtlayıcı kayıt olmamalı",
+          "Nakit, havale veya EFT ile ödemede Güvenli Ödeme Sistemi",
+          "Parayı noterde, devirle aynı anda öde"
+        ]
+      },
+      {
+        "heading": "Ekipman: ikinci el kask alma",
+        "paragraphs": [
+          "Motoru ikinci el almak mantıklı olabilir, ama kaskı ikinci el almak değildir. Kask darbe enerjisini iç köpüğün ezilmesiyle sönümler ve bu ezilme dışarıdan görünmez; SHOEI de kafa içindeyken darbe almış bir kaskın kontrol edilip sağlam diye belgelenemeyeceğini belirtiyor. Bir kaskın geçmişini satıcının sözünden başka bir yolla bilemezsin; bu yüzden ikinci el kask, ne kadar temiz görünürse görünsün alınmamalı. Ayrıntı Kask Düşürülürse Değiştirilir mi rehberinde.",
+          "Bir de yaş meselesi var: SHOEI normal kullanımda kaskın yaklaşık 5 yılda bir değiştirilmesini öneriyor ve bu süre üretim tarihine göre düşünülmeli. İkinci el bir kaskın ömrünün önemli bir kısmı çoktan geçmiş olabilir. Hesabı Kask Kaç Yılda Değiştirilir rehberinde anlattık; motorla birlikte gelen kaskı hediye kabul et ama kafana kendi yeni kaskını tak."
+        ],
+        "bullets": [
+          "İç köpükteki ezilme dışarıdan görünmez",
+          "Kaskın darbe geçmişi doğrulanamaz",
+          "Üretim tarihine göre yaklaşık 5 yıl ömür",
+          "Motorla gelen kaskı kullanma, yenisini al"
+        ]
+      },
+      {
+        "heading": "İkinci el mont, pantolon ve koruyucu",
+        "paragraphs": [
+          "Mont, pantolon, eldiven ve botta ikinci el seçenek kask kadar riskli değildir, ama dikkatli bakmak gerekir. Önce etiketi oku: giysinin EN 17092 sınıfını, koruyucuların EN 1621 etiketini ve seviyesini kontrol et. Koruyucuların ceplerde olup olmadığına, çatlak veya sertleşme olup olmadığına bak; özellikle sırt cebi boş satılan montlar sık görülür. Etiket ve seviyeleri okumak için Dirseklik ve Dizlik Nedir ile Level 1 ve Level 2 Koruma Farkı rehberlerine bakabilirsin.",
+          "Kumaşta omuz, dirsek, kalça ve diz gibi yüksek risk bölgelerinde aşınma, yama veya sürtünme izi varsa giysi büyük ihtimalle bir düşme yaşamıştır ve o bölgenin koruması azalmıştır. Dikişleri, fermuarları ve bel bağlantı fermuarını kontrol et. Eldivende avuç içi ve parmak dikişleri, botta taban yapışması belirleyicidir; seçim ölçütlerini Motosiklet Montu Nasıl Seçilir rehberinde bulabilirsin."
+        ],
+        "bullets": [
+          "Giysi etiketi: EN 17092 sınıfı",
+          "Koruyucular: EN 1621 etiketi, seviye, çatlak",
+          "Omuz, dirsek, kalça, dizde aşınma veya yama",
+          "Dikiş, fermuar, bel bağlantısı, eldiven ve bot tabanı"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "TRAMER kaydı temiz çıkan motosiklet hiç düşmemiş midir?",
+        "a": "Hayır. SBM'ye göre hasar bilgileri sigorta şirketlerinin yaptığı kasko ve trafik sigortası ödemeleriyle sınırlıdır. Sigortaya yansıtılmadan yaptırılan onarımlar kayıtta görünmez; bu yüzden görsel kontrol yine şarttır."
+      },
+      {
+        "q": "Motosikleti noter dışında satın alabilir miyim?",
+        "a": "Karayolları Trafik Kanunu'nun 20. maddesine göre tescilli araçların satış ve devri noterlerce yapılır; noterde yapılmayan satışlar geçersizdir. Ödemeyi de noterde, devirle aynı anda yapman en güvenli yoldur."
+      },
+      {
+        "q": "Temiz görünen ikinci el kaskı alabilir miyim?",
+        "a": "Önerilmez. Kaskın darbe aldığı iç köpükteki ezilme dışarıdan görünmez ve geçmişini doğrulamanın yolu yoktur. Ayrıca SHOEI'nin önerdiği yaklaşık 5 yıllık ömrün önemli bir kısmı geçmiş olabilir."
+      },
+      {
+        "q": "Satıcının e-Devlet hasar sorgusunu ben yapabilir miyim?",
+        "a": "Hayır. e-Devlet'teki SBM trafik poliçe ve hasar sorgusu yalnız adına kayıtlı araçları gösterir. Satıcıdan kendi hesabında açıp göstermesini isteyebilir ya da plaka veya şasi numarasıyla tramer.org.tr veya 5664 SMS üzerinden ücretli sorgu yapabilirsin."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-test-surusu-rehberi",
+      "motosiklet-lastigi-nelere-dikkat-edilmeli",
+      "motosiklet-zincir-bakimi-ve-yaglama",
+      "kask-dusurulurse-degistirilir-mi",
+      "kask-kac-yilda-degistirilir",
+      "dirseklik-dizlik-nedir",
+      "level-1-ve-level-2-koruma-farki",
+      "motosiklet-montu-nasil-secilir",
+      "motosiklet-ehliyet-siniflari-ve-ekipman",
+      "sezon-oncesi-motosiklet-kontrol-listesi"
+    ],
+    "relatedCategories": [
+      "kask",
+      "mont",
+      "koruma",
+      "eldiven",
+      "bot",
+      "lastik"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2918.pdf",
+        "type": "review",
+        "label": "2918 sayılı Karayolları Trafik Kanunu – md. 20 (satış ve devirlerin noterlerce yapılması)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.resmigazete.gov.tr/eskiler/2024/08/20240827-1.htm",
+        "type": "review",
+        "label": "Resmî Gazete 27.08.2024 – Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik (md. 26 ödeme sistemi, md. 33 yürürlük)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.sbm.org.tr/tr/tramer-ile-sorgulama",
+        "type": "review",
+        "label": "SBM – TRAMER ile hasar, araç detay ve değişen parça sorgulama",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.sbm.org.tr/tr/sms-sorgulamalari",
+        "type": "review",
+        "label": "SBM – 5664 SMS ile hasar geçmişi sorgulama (plaka veya şasi numarası)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.sbm.org.tr/tr/web-sorgulama",
+        "type": "review",
+        "label": "SBM – Web ile sorgulama ve yasal uyarı (2003'ten itibaren kasko ve trafik sigortası ödemeleriyle sınırlı)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.turkiye.gov.tr/sbm-trafik-police-sorgulama",
+        "type": "review",
+        "label": "e-Devlet – SBM Trafik Poliçe ve Hasar Bilgileri Sorgulama (adınıza kayıtlı araçlar)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.tuvturk.com.tr/hizmetlerimiz/hizli-islemler/arac-muayene-sorgulama",
+        "type": "review",
+        "label": "TÜVTÜRK – Araç muayene sorgulama",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://shoei-europe.com/service/faq",
+        "type": "manufacturer",
+        "label": "SHOEI Europe servis SSS – darbe almış kask ve yaklaşık 5 yıllık kullanım ömrü",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]

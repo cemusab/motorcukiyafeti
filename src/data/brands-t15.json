@@ -1,0 +1,305 @@
+[
+  {
+    "slug": "castrol",
+    "name": "Castrol",
+    "country": "Birleşik Krallık",
+    "founded": null,
+    "website": "https://www.castrol.com/tr_tr/turkey/home.html",
+    "about": [
+      "Castrol, otomobil, motosiklet ve endüstri için madeni yağ üreten köklü bir İngiliz markası ve bugün bp grubunun parçası. Türkiye'de kendi Türkçe sitesi, ürün bilgi formları ve yetkili distribütör ağıyla temsil ediliyor.",
+      "Motosiklet tarafında Türkiye sitesinde POWER1 (yarı sentetik günlük kullanım), POWER1 Ultimate (tam sentetik üst seri) ve CVT'li scooter'lar için JASO MB sınıflı POWER1 Scooter ailesi listeleniyor. Bu yağlar için listelediğimiz yetkili motosiklet mağazalarında güncel fiyat ve stok doğrulayamadık."
+    ],
+    "strengths": [
+      "Türkiye'de yaygın bilinirlik ve resmi Türkçe ürün sayfaları",
+      "Vitesli motor (MA2) ve scooter (MB) için ayrı seriler",
+      "Ürün ve güvenlik bilgi formlarına açık erişim"
+    ],
+    "categories": [
+      "yag-bakim"
+    ],
+    "families": [
+      {
+        "name": "POWER1",
+        "note": "Yarı sentetik, JASO MA-2 günlük kullanım serisi.",
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1.html"
+      },
+      {
+        "name": "POWER1 Ultimate",
+        "note": "Tam sentetik üst seri; 5W-40, 10W-30, 10W-50.",
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-ultimate.html"
+      },
+      {
+        "name": "POWER1 Scooter",
+        "note": "CVT'li scooter'lar için JASO MB, tam sentetik.",
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-scooter.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Castrol POWER1 Ultimate",
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-ultimate.html",
+        "reason": "Markanın tam sentetik, JASO MA-2 sınıflı üst motosiklet yağı serisi."
+      }
+    ],
+    "alternatives": [
+      "motul",
+      "liqui-moly",
+      "petrol-ofisi"
+    ],
+    "history": [],
+    "strongestLine": "Motosiklet ve otomobil motor yağları",
+    "sources": [
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – POWER1",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-ultimate.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – POWER1 Ultimate",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.castrol.com/tr_tr/turkey/home/products/our-brands/two-wheelers/castrol-power1-scooter.html",
+        "type": "manufacturer",
+        "label": "Castrol Türkiye – POWER1 Scooter",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "slug": "liqui-moly",
+    "name": "Liqui Moly",
+    "country": "Almanya",
+    "founded": null,
+    "website": "https://www.liqui-moly.com/en/",
+    "about": [
+      "Liqui Moly, Ulm merkezli bir Alman motor yağı ve katkı maddesi üreticisi. Şirket 4.000'den fazla ürünle tam ürün yelpazesi sunduğunu ve ürünlerini Almanya'da geliştirip ürettiğini belirtiyor.",
+      "Motosiklet tarafında Motorbike serisi altında sokak, scooter, arazi ve yarış için 4 zamanlı ve 2 zamanlı yağlar, zincir spreyleri ve fren hidrolikleri bulunuyor. Türkiye'de bazı ürünleri yerleşik bir enduro mağazasının kataloğunda görünse de güncel stok ve fiyat doğrulayamadık."
+    ],
+    "strengths": [
+      "Geniş motosiklet yağı ve bakım ürünü yelpazesi",
+      "Ürün sayfalarında açıkça listelenen API/JASO sınıfları",
+      "Almanya'da geliştirme ve üretim"
+    ],
+    "categories": [
+      "yag-bakim"
+    ],
+    "families": [
+      {
+        "name": "Motorbike 4T Street",
+        "note": "Sokak motosikletleri için API SP / JASO MA2.",
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-10w-40-street-p000264.html"
+      },
+      {
+        "name": "Motorbike 4T Synth Street Race",
+        "note": "Tam sentetik sport yağı, API SP / JASO MA2.",
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-synth-10w-40-street-race-p004096.html"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Motorbike 4T Synth 10W-40 Street Race",
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-synth-10w-40-street-race-p004096.html",
+        "reason": "Markanın tam sentetik, yarış motosikletlerinde de test edilen sokak yağı."
+      }
+    ],
+    "alternatives": [
+      "motul",
+      "castrol",
+      "repsol"
+    ],
+    "history": [],
+    "strongestLine": "Motor yağları ve katkı maddeleri",
+    "sources": [
+      {
+        "url": "https://www.liqui-moly.com/en/",
+        "type": "manufacturer",
+        "label": "Liqui Moly – resmi site (iletişim: Ulm, Almanya)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.liqui-moly.com/en/motorbike-4t-10w-40-street-p000264.html",
+        "type": "manufacturer",
+        "label": "Liqui Moly – Motorbike 4T 10W-40 Street",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "slug": "repsol",
+    "name": "Repsol",
+    "country": "İspanya",
+    "founded": null,
+    "website": "https://lubricants.repsol.com/en/",
+    "about": [
+      "Repsol, İspanyol enerji şirketi ve madeni yağlar tarafında motosiklet yağlarıyla da tanınıyor. Racing serisi yüksek performanslı 4 zamanlı ve 2 zamanlı motorlara yönelik tam sentetik yağları kapsıyor.",
+      "Türkiye'de listelediğimiz yetkili motosiklet mağazalarında Repsol motosiklet yağları için güncel stok ve fiyat bulamadık; bu nedenle ürün kayıtlarında Türkiye fiyatı yer almıyor."
+    ],
+    "strengths": [
+      "Yarış odaklı Racing motosiklet yağı serisi",
+      "Güncel JASO T 903:2023 MA2 sınıflı ürünler"
+    ],
+    "categories": [
+      "yag-bakim"
+    ],
+    "families": [
+      {
+        "name": "Racing 4T",
+        "note": "Tam sentetik, API SP / JASO MA2 4 zamanlı yağ.",
+        "url": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000M/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Repsol Racing 4T 10W-40",
+        "url": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000M/",
+        "reason": "Markanın yol ve pist için tam sentetik 4 zamanlı yağı."
+      }
+    ],
+    "alternatives": [
+      "motul",
+      "liqui-moly"
+    ],
+    "history": [],
+    "strongestLine": "Yarış odaklı motosiklet yağları",
+    "sources": [
+      {
+        "url": "https://lubricants.repsol.com/en/products/lubricants-search-engine/detail-of-lubricants.RP_2000M/",
+        "type": "manufacturer",
+        "label": "Repsol Lubricants – Racing 4T 10W-40",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "slug": "petrol-ofisi",
+    "name": "Petrol Ofisi",
+    "country": "Türkiye",
+    "founded": 1941,
+    "website": "https://www.petrolofisi.com.tr/",
+    "about": [
+      "Petrol Ofisi, 1941'den bu yana faaliyet gösteren ve Türkiye'nin en geniş akaryakıt istasyon ağına sahip olduğunu belirten yerli enerji şirketi. Kocaeli'deki madeni yağ fabrikasında Türkiye pazarı ve ihracat için madeni yağ üretiyor.",
+      "Motosiklet yağlarını Maximoto adıyla sunuyor: vitesli motosikletler için JASO MA2 sınıflı 10W-40 ve 15W-50, CVT'li scooter'lar için JASO MB sınıflı 10W-40 Scooter ve 2 zamanlı yağ seride yer alıyor. Petrol Ofisi'nin sitesinde online satış yok; yetkili motosiklet mağazalarında fiyat doğrulayamadık."
+    ],
+    "strengths": [
+      "Yerli üretim ve yaygın istasyon ağı",
+      "Türkçe ürün sayfaları ve ürün bilgi formları",
+      "Vitesli motor ve scooter için ayrı yağlar"
+    ],
+    "categories": [
+      "yag-bakim"
+    ],
+    "families": [
+      {
+        "name": "Maximoto 10W-40",
+        "note": "Vitesli motosikletler için API SN / JASO MA2.",
+        "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40"
+      },
+      {
+        "name": "Maximoto 10W-40 Scooter",
+        "note": "CVT'li scooter'lar için API SN / JASO MB.",
+        "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40-scooter"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Maximoto 10W-40",
+        "url": "https://www.petrolofisi.com.tr/motosiklet-yaglari/maximoto-10w-40",
+        "reason": "Yerli, JASO MA2 sınıflı ve kolay bulunan vitesli motosiklet yağı."
+      }
+    ],
+    "alternatives": [
+      "opet",
+      "motul",
+      "castrol"
+    ],
+    "history": [
+      {
+        "year": 1941,
+        "event": "Petrol Ofisi faaliyete başladı."
+      }
+    ],
+    "strongestLine": "Yerli motosiklet ve otomobil madeni yağları",
+    "sources": [
+      {
+        "url": "https://www.petrolofisi.com.tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Hakkımızda",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.petrolofisi.com.tr/madeni-yaglar/motosiklet-yaglari",
+        "type": "manufacturer",
+        "label": "Petrol Ofisi – Motosiklet yağları",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "slug": "opet",
+    "name": "Opet",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.opetfuchs.com.tr/",
+    "about": [
+      "Opet markalı madeni yağlar, Opet Petrolcülük ile Alman Fuchs'un 2005'te kurduğu ortaklık Opet Fuchs tarafından üretiliyor. Şirket otomotiv ve endüstriyel yağlarını İzmir Aliağa'daki üretim tesisinde ürettiğini ve Türkiye genelinde bayi ağıyla hizmet verdiğini belirtiyor.",
+      "Motosiklet yağları Fullmoto serisi altında: vitesli motorlar için Fullmoto 4T 10W-40 ve 20W-40, scooter'lar için SCT sürümleri ve 2 zamanlı motorlar için Fullmoto SPR 2T. Opet Fuchs sitesinde online satış yok; yetkili motosiklet mağazalarında fiyat doğrulayamadık."
+    ],
+    "strengths": [
+      "Yerli üretim (İzmir Aliağa) ve Fuchs teknoloji ortaklığı",
+      "Türkçe ürün sayfaları ve teknik veri föyleri",
+      "Yaygın istasyon ve bayi ağı"
+    ],
+    "categories": [
+      "yag-bakim"
+    ],
+    "families": [
+      {
+        "name": "Fullmoto 4T 10W-40",
+        "note": "Vitesli motosikletler için API SN / JASO MA2.",
+        "url": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-4t-10w-40"
+      },
+      {
+        "name": "Fullmoto SPR 2T",
+        "note": "2 zamanlı motorlar için JASO FB / ISO-L-EGB.",
+        "url": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-spr-2t"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Fullmoto 4T 10W-40",
+        "url": "https://www.opetfuchs.com.tr/tr/urun/fullmoto-4t-10w-40",
+        "reason": "Yerli, JASO MA2 sınıflı vitesli motosiklet yağı."
+      }
+    ],
+    "alternatives": [
+      "petrol-ofisi",
+      "motul",
+      "castrol"
+    ],
+    "history": [
+      {
+        "year": 2005,
+        "event": "Opet ile Fuchs ortaklığı (Opet Fuchs) kuruldu."
+      }
+    ],
+    "strongestLine": "Yerli motosiklet ve otomobil madeni yağları",
+    "sources": [
+      {
+        "url": "https://www.opetfuchs.com.tr/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Hakkımızda",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.opetfuchs.com.tr/opet-madeni-yaglari/motosiklet",
+        "type": "manufacturer",
+        "label": "Opet Fuchs – Motosiklet yağları",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]

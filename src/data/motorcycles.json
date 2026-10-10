@@ -54,6 +54,24 @@
           "label": "Honda Türkiye PCX125 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 9.2,
+        "powerHp": 12.5,
+        "torqueNm": 11.7,
+        "weightKg": 134,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 763,
+        "seatHeightNote": null,
+        "fuelTankL": 8.1,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-pcx125",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -98,6 +116,24 @@
           "label": "TVS Türkiye Jupiter 125 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 6,
+        "powerHp": null,
+        "torqueNm": 10.5,
+        "weightKg": 109,
+        "weightType": null,
+        "weightNote": "Kaynakta yalnız \"Ağırlık\" yazıyor.",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 5.1,
+        "note": "Yakıt deposu kaynakta 5.1±0.2 L.",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-jupiter-125-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -124,6 +160,24 @@
           "type": "manufacturer",
           "label": "Kuba Motor CG50 RX Pro teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 3.75,
+        "torqueNm": 3.2,
+        "weightKg": 110,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Net / Maks. Ağırlık: 110 kg / 260 kg\"; ıslak/kuru tanımı yok.",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 9,
+        "note": null,
+        "source": {
+          "url": "https://www.kubamotor.com.tr/model/cg50-rx-pro",
+          "type": "manufacturer",
+          "label": "Kuba Motor teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -279,6 +333,24 @@
           "label": "CFMOTO Türkiye 250NK teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 19.5,
+        "powerHp": null,
+        "torqueNm": 22,
+        "weightKg": 151,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 12.5,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250-nk",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -304,6 +376,24 @@
           "type": "manufacturer",
           "label": "CFMOTO Türkiye 250SR teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 19.5,
+        "powerHp": null,
+        "torqueNm": 22,
+        "weightKg": 165,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 12,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250-sr",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -331,6 +421,24 @@
           "label": "CFMOTO Türkiye 450MT teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 31,
+        "powerHp": null,
+        "torqueNm": 42,
+        "weightKg": 185,
+        "weightType": "surushe-hazir",
+        "weightNote": "Kaynakta \"Çalışır durumdaki kütle\".",
+        "seatHeightMm": 800,
+        "seatHeightNote": "800–840 mm ayarlı (bağlantı cıvatası ile; standart 820 mm); 850/870 mm uzun sele opsiyonu",
+        "fuelTankL": 17.5,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-mt",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -356,6 +464,24 @@
           "type": "manufacturer",
           "label": "CFMOTO Türkiye 450NK teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 34.5,
+        "powerHp": null,
+        "torqueNm": 39,
+        "weightKg": 173,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 795,
+        "seatHeightNote": "785/815 mm sele opsiyonu",
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-nk",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -383,6 +509,24 @@
           "label": "CFMOTO Türkiye 450SR teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 34.5,
+        "powerHp": null,
+        "torqueNm": 39,
+        "weightKg": 168,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450-sr",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -399,7 +543,25 @@
       "notes": [
         "Yan çanta ve arka çanta montajına uygun; uzun yolda adventure kask ve mont tercih edilir"
       ],
-      "officialUrl": "https://www.cfmoto.com.tr/urunler/800-mt-sport"
+      "officialUrl": "https://www.cfmoto.com.tr/urunler/800-mt-sport",
+      "tech": {
+        "powerKw": 67,
+        "powerHp": null,
+        "torqueNm": 75,
+        "weightKg": 231,
+        "weightType": null,
+        "weightNote": "Değer tanıtım metninden: \"bagaj kutusu olmadan 231 kg boş ağırlık\"; teknik tabloda ağırlık yok.",
+        "seatHeightMm": 825,
+        "seatHeightNote": null,
+        "fuelTankL": 19,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/800-mt-sport",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
+      }
     },
     {
       "slug": "honda-adv350",
@@ -426,6 +588,24 @@
           "label": "Honda Türkiye ADV350 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 21.5,
+        "powerHp": 29.23,
+        "torqueNm": 31.5,
+        "weightKg": 186,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 11.7,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-adv350",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -451,6 +631,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye CRF1100L Africa Twin teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 75,
+        "powerHp": 102,
+        "torqueNm": 112,
+        "weightKg": 244,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 850,
+        "seatHeightNote": "850/870 mm ayarlı; alçak sele opsiyonu 825 mm, konforlu sele opsiyonu 885 mm",
+        "fuelTankL": 18.8,
+        "note": "Değerler DCT (otomatik vites) versiyonu için verilmiş.",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-africa-twin",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -480,6 +678,24 @@
           "label": "Honda Türkiye CB125F teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 8,
+        "powerHp": 10.87,
+        "torqueNm": 10.9,
+        "weightKg": 117,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 790,
+        "seatHeightNote": null,
+        "fuelTankL": 11,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb125f",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -506,6 +722,24 @@
           "label": "Honda Türkiye CB650R teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 70,
+        "powerHp": 95,
+        "torqueNm": 63,
+        "weightKg": 207,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 810,
+        "seatHeightNote": null,
+        "fuelTankL": 15.4,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb650r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -531,6 +765,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye CBR650R teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 70,
+        "powerHp": 95.17,
+        "torqueNm": 63,
+        "weightKg": 211,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 810,
+        "seatHeightNote": null,
+        "fuelTankL": 15.4,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr650r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -559,6 +811,24 @@
           "label": "Honda Türkiye CL250 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 17.8,
+        "powerHp": 24.2,
+        "torqueNm": 23.1,
+        "weightKg": 172,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 790,
+        "seatHeightNote": null,
+        "fuelTankL": 11.7,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cl250",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -585,6 +855,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye Forza 250 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 17,
+        "powerHp": 23.1,
+        "torqueNm": 24,
+        "weightKg": 186,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 780,
+        "seatHeightNote": null,
+        "fuelTankL": 11.7,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/big-scooter/honda-forza-250",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -613,6 +901,24 @@
           "label": "Honda Türkiye Monkey teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 6.9,
+        "powerHp": 9.4,
+        "torqueNm": 10.7,
+        "weightKg": 105,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 776,
+        "seatHeightNote": null,
+        "fuelTankL": 5.6,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-monkey",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -639,6 +945,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye NC750X teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 43.1,
+        "powerHp": 58.5,
+        "torqueNm": 69,
+        "weightKg": 226,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 802,
+        "seatHeightNote": null,
+        "fuelTankL": 14.1,
+        "note": "Değerler DCT (otomatik vites) versiyonu için verilmiş.",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nc750x",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -667,6 +991,24 @@
           "label": "Honda Türkiye SH125i teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 9.6,
+        "powerHp": 13.05,
+        "torqueNm": 12,
+        "weightKg": 138,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 799,
+        "seatHeightNote": null,
+        "fuelTankL": 7,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/scooter/honda-sh125i",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -693,6 +1035,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye X-ADV teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 43.1,
+        "powerHp": 58.5,
+        "torqueNm": 69,
+        "weightKg": 237,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 820,
+        "seatHeightNote": null,
+        "fuelTankL": 13.2,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-x-adv",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -747,6 +1107,24 @@
           "label": "Kawasaki Türkiye Ninja 500 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 33.4,
+        "powerHp": null,
+        "torqueNm": 42.6,
+        "weightKg": 171,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 785,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -772,6 +1150,24 @@
           "type": "manufacturer",
           "label": "Kawasaki Türkiye Ninja 650 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 50.2,
+        "powerHp": null,
+        "torqueNm": 64,
+        "weightKg": 193,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 790,
+        "seatHeightNote": null,
+        "fuelTankL": 15,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Ninja650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -799,6 +1195,24 @@
           "label": "Kawasaki Türkiye Z500 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 33.4,
+        "powerHp": null,
+        "torqueNm": 42.6,
+        "weightKg": 167,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 785,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -824,6 +1238,24 @@
           "type": "manufacturer",
           "label": "Kawasaki Türkiye Z650 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 50.2,
+        "powerHp": null,
+        "torqueNm": 64,
+        "weightKg": 188,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 790,
+        "seatHeightNote": null,
+        "fuelTankL": 15,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -851,6 +1283,24 @@
           "label": "Kawasaki Türkiye Z900 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 91,
+        "powerHp": null,
+        "torqueNm": 97.4,
+        "weightKg": 213,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 830,
+        "seatHeightNote": null,
+        "fuelTankL": 17,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Z900",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -877,6 +1327,24 @@
           "type": "manufacturer",
           "label": "Kuba Motor Ege 50 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 2.69,
+        "torqueNm": 3.8,
+        "weightKg": 92,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\"; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 4,
+        "note": null,
+        "source": {
+          "url": "https://www.kubamotor.com.tr/model/ege-50",
+          "type": "manufacturer",
+          "label": "Kuba Motor teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -921,6 +1389,24 @@
           "label": "RKS Motor Spontini 110 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 8.04,
+        "torqueNm": 8.5,
+        "weightKg": 100,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Net Ağırlık\"; ıslak/kuru tanımı yok.",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 6.75,
+        "note": null,
+        "source": {
+          "url": "https://www.rksmotor.com.tr/model/spontini-110.html",
+          "type": "manufacturer",
+          "label": "RKS Motor teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -946,6 +1432,24 @@
           "type": "manufacturer",
           "label": "TVS Türkiye Apache RTR 200 4V teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 20.52,
+        "torqueNm": 17.25,
+        "weightKg": 152,
+        "weightType": "surushe-hazir",
+        "weightNote": "Kaynakta \"%90 Yakıt ve Alet setiyle Boş Ağırlık\".",
+        "seatHeightMm": 800,
+        "seatHeightNote": null,
+        "fuelTankL": 12,
+        "note": "Kaynakta \"Güç: 20.52 HP\"; \"Maks. Motor Çıkışı: Spor Modu 20.8 PS @9000 rpm, Şehir/Yağmur 17.3 PS\". Tork Spor Modu değeri.",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/apache-rtr-200-4v-fi-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -973,6 +1477,24 @@
           "type": "manufacturer",
           "label": "TVS Türkiye Raider 125 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 11.4,
+        "torqueNm": 11.2,
+        "weightKg": 120,
+        "weightType": "surushe-hazir",
+        "weightNote": "Kaynakta \"%90 Yakıt ve Alet setiyle Boş Ağırlık\".",
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": 10,
+        "note": "Kaynakta \"Maksimum Güç: 11.4 @ 7500 rpm\" (tanıtım metninde 11,4 bhp) ancak ayrı bir \"Güç: 12.73 HP\" satırı da var; 11.4 alındı, çelişki doğrulanmadı.",
+        "source": {
+          "url": "https://turkiye.tvsmotor.com/tr/p/our-products/tvs-raider-tr",
+          "type": "manufacturer",
+          "label": "TVS Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1012,6 +1534,24 @@
           "label": "Yamaha Türkiye MT-07 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 54,
+        "powerHp": null,
+        "torqueNm": 68,
+        "weightKg": 183,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\". Manuel 183 kg; Y-AMT 186 kg.",
+        "seatHeightMm": 805,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": "A2 limitli versiyon 35,0 kW.",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-07-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1049,6 +1589,24 @@
           "label": "Yamaha Türkiye MT-125 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 11,
+        "powerHp": null,
+        "torqueNm": 11.5,
+        "weightKg": 142,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\".",
+        "seatHeightMm": 810,
+        "seatHeightNote": null,
+        "fuelTankL": 10,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-125-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1085,6 +1643,24 @@
           "type": "manufacturer",
           "label": "Yamaha Türkiye MT-25 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 26.4,
+        "powerHp": null,
+        "torqueNm": 22.6,
+        "weightKg": 167,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\".",
+        "seatHeightMm": 780,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-25-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1124,6 +1700,24 @@
           "label": "Yamaha Türkiye NMAX 125 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 9,
+        "powerHp": null,
+        "torqueNm": 11.2,
+        "weightKg": 132,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Wet Weight\".",
+        "seatHeightMm": 770,
+        "seatHeightNote": null,
+        "fuelTankL": 7.1,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/nmax-125-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1160,6 +1754,24 @@
           "type": "manufacturer",
           "label": "Yamaha Türkiye R25 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 26.4,
+        "powerHp": null,
+        "torqueNm": 22.6,
+        "weightKg": 169,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\".",
+        "seatHeightMm": 780,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r25-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1199,6 +1811,24 @@
           "label": "Yamaha Türkiye TRACER 7 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 54,
+        "powerHp": null,
+        "torqueNm": 68,
+        "weightKg": 203,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\". Manuel 203 kg; Y-AMT 206 kg.",
+        "seatHeightMm": 830,
+        "seatHeightNote": "830–850 mm ayarlı",
+        "fuelTankL": 18,
+        "note": "A2 limitli versiyon 35,0 kW.",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-7-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1237,6 +1867,24 @@
           "label": "Yamaha Türkiye XMAX 250 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 16.8,
+        "powerHp": null,
+        "torqueNm": 24.3,
+        "weightKg": 183,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Wet Weight\".",
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 13.2,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-250-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1264,6 +1912,24 @@
           "type": "manufacturer",
           "label": "Suzuki Türkiye Address 125 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 6.4,
+        "powerHp": null,
+        "torqueNm": 10,
+        "weightKg": 105,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Yüksüz ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 770,
+        "seatHeightNote": null,
+        "fuelTankL": 5,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/address-125.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1303,6 +1969,24 @@
           "label": "Suzuki Türkiye Burgman Street 125EX teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 6.3,
+        "powerHp": null,
+        "torqueNm": 10,
+        "weightKg": 112,
+        "weightType": null,
+        "weightNote": "Kaynakta yalnız \"Ağırlık\" yazıyor.",
+        "seatHeightMm": 780,
+        "seatHeightNote": null,
+        "fuelTankL": 5.5,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-street-125ex.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1341,6 +2025,24 @@
           "label": "Suzuki Türkiye GSX-S125 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 11,
+        "powerHp": null,
+        "torqueNm": 11,
+        "weightKg": 133,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Yüksüz ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 785,
+        "seatHeightNote": null,
+        "fuelTankL": 11,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-s125.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1368,6 +2070,24 @@
           "label": "Suzuki Türkiye GSX-8S teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 61,
+        "powerHp": null,
+        "torqueNm": 78,
+        "weightKg": 202,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 810,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/gsx-8s.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1394,6 +2114,24 @@
           "type": "manufacturer",
           "label": "Suzuki Türkiye V-Strom 800DE teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 62,
+        "powerHp": null,
+        "torqueNm": 78,
+        "weightKg": 230,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 855,
+        "seatHeightNote": null,
+        "fuelTankL": 20,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/v-strom-800-de.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1433,6 +2171,24 @@
           "label": "Suzuki Türkiye Burgman 400 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 22,
+        "powerHp": null,
+        "torqueNm": 35.2,
+        "weightKg": 218,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Yüksüz ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 755,
+        "seatHeightNote": null,
+        "fuelTankL": 13.5,
+        "note": null,
+        "source": {
+          "url": "https://www.suzuki.com.tr/tr/motosiklet/burgman-400.html",
+          "type": "manufacturer",
+          "label": "Suzuki Türkiye teknik bilgi",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1459,6 +2215,24 @@
           "type": "manufacturer",
           "label": "Triumph Türkiye Speed 400 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 29.4,
+        "powerHp": 39.5,
+        "torqueNm": 37.5,
+        "weightKg": 170,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 790,
+        "seatHeightNote": null,
+        "fuelTankL": 13,
+        "note": "Güç kaynakta: 40 PS / 39.5 bhp (29.4 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/speed/speed-400",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1487,6 +2261,24 @@
           "label": "Triumph Türkiye Scrambler 400 X teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 29.4,
+        "powerHp": 39.5,
+        "torqueNm": 37.5,
+        "weightKg": 179,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 835,
+        "seatHeightNote": null,
+        "fuelTankL": 13,
+        "note": "Güç kaynakta: 40 PS / 39.5 bhp (29.4 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/classic/scrambler/scrambler-400-x",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1513,6 +2305,24 @@
           "type": "manufacturer",
           "label": "Triumph Türkiye Trident 660 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 70,
+        "powerHp": 95,
+        "torqueNm": 68,
+        "weightKg": 195,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 810,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": "Güç kaynakta: 95 PS / 95 bhp (70 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/trident/trident-660",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1541,6 +2351,24 @@
           "label": "Triumph Türkiye Tiger Sport 660 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 70,
+        "powerHp": 95,
+        "torqueNm": 68,
+        "weightKg": 211,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 835,
+        "seatHeightNote": null,
+        "fuelTankL": 18.6,
+        "note": "Güç kaynakta: 95 PS / 95 bhp (70 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger-sport/tiger-sport-660",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1567,6 +2395,24 @@
           "type": "manufacturer",
           "label": "Triumph Türkiye Street Triple 765 R teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 88.3,
+        "powerHp": 118.4,
+        "torqueNm": 80,
+        "weightKg": 189,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 826,
+        "seatHeightNote": null,
+        "fuelTankL": 15,
+        "note": "Güç kaynakta: 120 PS / 118.4 bhp (88.3 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/roadsters/street-triple/street-triple-765-r-2023",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1595,6 +2441,24 @@
           "label": "Triumph Türkiye Tiger 900 GT Pro teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 79.5,
+        "powerHp": 106.5,
+        "torqueNm": 90,
+        "weightKg": 222,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 820,
+        "seatHeightNote": "820–840 mm ayarlı",
+        "fuelTankL": 20,
+        "note": "Güç kaynakta: 108 PS / 106.5 bhp (79.5 kW).",
+        "source": {
+          "url": "https://www.triumphmotorcycles.com.tr/motorcycles/adventure/tiger/tiger-900-gt-pro-2024",
+          "type": "manufacturer",
+          "label": "Triumph Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1621,6 +2485,24 @@
           "type": "manufacturer",
           "label": "Ducati global Monster teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 81.6,
+        "powerHp": 111,
+        "torqueNm": 91.1,
+        "weightKg": 175,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Wet weight no fuel\" (yakıtsız ıslak ağırlık).",
+        "seatHeightMm": 815,
+        "seatHeightNote": "Standart 815 mm; alçak sele aksesuarıyla 795 mm, alçak sele + alçak süspansiyon kitiyle 775 mm",
+        "fuelTankL": null,
+        "note": null,
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/monster/monster-v2",
+          "type": "manufacturer",
+          "label": "Ducati global (ww/en) model sayfası teknik özet",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1649,6 +2531,24 @@
           "label": "Ducati global Multistrada V2 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 85,
+        "powerHp": null,
+        "torqueNm": 92.1,
+        "weightKg": 199,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Wet weight no fuel\" (yakıtsız ıslak ağırlık). V2 S: 202 kg.",
+        "seatHeightMm": 830,
+        "seatHeightNote": "830–850 mm ayarlı; yüksek sele 850–870, alçak sele 810–830 mm (aksesuar)",
+        "fuelTankL": null,
+        "note": "Güç kaynakta 85 kW (115,6 CV).",
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v2",
+          "type": "manufacturer",
+          "label": "Ducati global (ww/en) model sayfası teknik özet",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1675,6 +2575,24 @@
           "type": "manufacturer",
           "label": "Ducati global DesertX teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 81.1,
+        "powerHp": 110.3,
+        "torqueNm": 92,
+        "weightKg": 209,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Wet weight no fuel\" (yakıtsız ıslak ağırlık).",
+        "seatHeightMm": 880,
+        "seatHeightNote": "Standart 880 mm; yüksek sele 900, alçak sele 860, alçak sele + alçak süspansiyon 840 mm (aksesuar)",
+        "fuelTankL": null,
+        "note": null,
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/desertx/desertx-v2",
+          "type": "manufacturer",
+          "label": "Ducati global (ww/en) model sayfası teknik özet",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1703,6 +2621,24 @@
           "label": "Ducati global Panigale V2 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 88,
+        "powerHp": 120,
+        "torqueNm": 93.3,
+        "weightKg": 179,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Wet weight no fuel\" (yakıtsız ıslak ağırlık). V2 S: 176 kg.",
+        "seatHeightMm": 837,
+        "seatHeightNote": null,
+        "fuelTankL": null,
+        "note": null,
+        "source": {
+          "url": "https://www.ducati.com/ww/en/bikes/panigale/panigale-v2",
+          "type": "manufacturer",
+          "label": "Ducati global (ww/en) model sayfası teknik özet",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1729,6 +2665,24 @@
           "type": "manufacturer",
           "label": "Bajaj Auto Pulsar NS125 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 11.97,
+        "torqueNm": 11,
+        "weightKg": 148,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": 805,
+        "seatHeightNote": null,
+        "fuelTankL": null,
+        "note": "Değerler ürün tanıtım metninden; ayrı teknik tablo yok.",
+        "source": {
+          "url": "https://www.ekuralkan.com/bajaj-pulsar-ns-125-abs",
+          "type": "manufacturer",
+          "label": "ekuralkan (Bajaj Türkiye distribütörü) ürün sayfası",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1757,6 +2711,24 @@
           "label": "Bajaj Auto Pulsar NS200 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 24.48,
+        "torqueNm": 18.74,
+        "weightKg": null,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": null,
+        "note": "Değerler ürün tanıtım metninden; ayrı teknik tablo yok.",
+        "source": {
+          "url": "https://www.ekuralkan.com/bajaj-pulsar-ns-200-ug2",
+          "type": "manufacturer",
+          "label": "ekuralkan (Bajaj Türkiye distribütörü) ürün sayfası",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1784,6 +2756,24 @@
           "label": "Bajaj Auto Pulsar RS200 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": null,
+        "powerHp": 24.48,
+        "torqueNm": 18.74,
+        "weightKg": 168,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": null,
+        "note": "Değerler ürün tanıtım metninden (\"Dengeli Ağırlık Dağılımı (168 kg)\"); ayrı teknik tablo yok.",
+        "source": {
+          "url": "https://www.ekuralkan.com/bajaj-pulsar-rs-200-ug",
+          "type": "manufacturer",
+          "label": "ekuralkan (Bajaj Türkiye distribütörü) ürün sayfası",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1801,7 +2791,25 @@
         "Rüzgar korumalı tur motoru: uzun yolda ön cam rüzgar gürültüsünü değiştirir, sessiz kask için kask rehberine bak",
         "Uzun yolda yan çanta veya tank çantası kullanılacaksa montaj uyumunu satıcıdan teyit et"
       ],
-      "officialUrl": "https://www.ekuralkan.com/bajaj-dominar-d-400"
+      "officialUrl": "https://www.ekuralkan.com/bajaj-dominar-d-400",
+      "tech": {
+        "powerKw": null,
+        "powerHp": 40,
+        "torqueNm": 35,
+        "weightKg": null,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": null,
+        "seatHeightNote": null,
+        "fuelTankL": null,
+        "note": "Değerler ürün tanıtım metninden; ayrı teknik tablo yok.",
+        "source": {
+          "url": "https://www.ekuralkan.com/bajaj-dominar-d-400",
+          "type": "manufacturer",
+          "label": "ekuralkan (Bajaj Türkiye distribütörü) ürün sayfası",
+          "checkedAt": "2026-10-10"
+        }
+      }
     },
     {
       "slug": "honda-nx500",
@@ -1827,6 +2835,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye NX500 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 35,
+        "powerHp": 47.5,
+        "torqueNm": 43,
+        "weightKg": 196,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 830,
+        "seatHeightNote": null,
+        "fuelTankL": 17.5,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-nx500",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1855,6 +2881,24 @@
           "label": "Honda Türkiye CB500 Hornet teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 35,
+        "powerHp": 47.5,
+        "torqueNm": 43,
+        "weightKg": 188,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 785,
+        "seatHeightNote": null,
+        "fuelTankL": 17.1,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb500-hornet",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1881,6 +2925,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye CBR500R teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 35,
+        "powerHp": 47.5,
+        "torqueNm": 43,
+        "weightKg": 191,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 785,
+        "seatHeightNote": null,
+        "fuelTankL": 17.1,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/supersport/honda-cbr500r",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1909,6 +2971,24 @@
           "label": "Honda Türkiye CB750 Hornet teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 67.5,
+        "powerHp": 92,
+        "torqueNm": 75,
+        "weightKg": 192,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 15.2,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/naked/honda-cb750-hornet",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1935,6 +3015,24 @@
           "type": "manufacturer",
           "label": "Honda Türkiye XL750 Transalp teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 67.5,
+        "powerHp": 92,
+        "torqueNm": 75,
+        "weightKg": 210,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 850,
+        "seatHeightNote": null,
+        "fuelTankL": 16.9,
+        "note": null,
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/adventure/honda-xl750l-transalp",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -1963,6 +3061,24 @@
           "label": "Honda Türkiye NT1100 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 75,
+        "powerHp": 102,
+        "torqueNm": 112,
+        "weightKg": 249,
+        "weightType": "islak",
+        "weightNote": null,
+        "seatHeightMm": 820,
+        "seatHeightNote": null,
+        "fuelTankL": 20.4,
+        "note": "Değerler DCT (otomatik vites) versiyonu için verilmiş.",
+        "source": {
+          "url": "https://www.honda.com.tr/motosiklet/modeller/touring/honda-nt1100",
+          "type": "manufacturer",
+          "label": "Honda Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -1989,6 +3105,24 @@
           "type": "manufacturer",
           "label": "Kawasaki Türkiye Versys 650 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 49,
+        "powerHp": null,
+        "torqueNm": 61,
+        "weightKg": 219,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 845,
+        "seatHeightNote": null,
+        "fuelTankL": 21,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Versys650",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -2017,6 +3151,24 @@
           "label": "Kawasaki Türkiye Eliminator 500 teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 33.4,
+        "powerHp": null,
+        "torqueNm": 42.6,
+        "weightKg": 176,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 735,
+        "seatHeightNote": null,
+        "fuelTankL": 13,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Eliminator500",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2044,6 +3196,24 @@
           "label": "Kawasaki Türkiye Ninja ZX-6R teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 91,
+        "powerHp": null,
+        "torqueNm": 69,
+        "weightKg": 198,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 830,
+        "seatHeightNote": null,
+        "fuelTankL": 17,
+        "note": "RAM Air ile maksimum güç 95,2 kW (129 PS).",
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/NinjaZX6R",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2070,6 +3240,24 @@
           "type": "manufacturer",
           "label": "Kawasaki Türkiye Versys 1100 teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 99,
+        "powerHp": null,
+        "torqueNm": 112,
+        "weightKg": 255,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş kütle\" yazıyor; ıslak/kuru tanımı belirtilmemiş (Kawasaki global \"curb mass\" karşılığı olabilir, doğrulanmadı).",
+        "seatHeightMm": 840,
+        "seatHeightNote": null,
+        "fuelTankL": 21,
+        "note": null,
+        "source": {
+          "url": "https://www.kawasaki.com.tr/Motosiklet/Versys1100",
+          "type": "manufacturer",
+          "label": "Kawasaki Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -2109,6 +3297,24 @@
           "label": "Yamaha Türkiye MT-09 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 87.5,
+        "powerHp": null,
+        "torqueNm": 93,
+        "weightKg": 193,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\". Manuel 193 kg; Y-AMT 196 kg.",
+        "seatHeightMm": 825,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/hyper-naked/pdp/mt-09-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2146,6 +3352,24 @@
           "type": "manufacturer",
           "label": "Yamaha Türkiye TRACER 9 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 87.5,
+        "powerHp": null,
+        "torqueNm": 93,
+        "weightKg": 219,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\". Manuel 219 kg; Y-AMT 224 kg.",
+        "seatHeightMm": 845,
+        "seatHeightNote": "845–860 mm ayarlı",
+        "fuelTankL": 19,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/sport-touring/pdp/tracer-9-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -2185,6 +3409,24 @@
           "label": "Yamaha Türkiye R7 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 54,
+        "powerHp": null,
+        "torqueNm": 68,
+        "weightKg": 189,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Ağırlık (dolu yağ ve yakıt tankı dahil)\" / \"Wet weight\".",
+        "seatHeightMm": 830,
+        "seatHeightNote": null,
+        "fuelTankL": 14,
+        "note": "A2 limitli versiyon 35,0 kW.",
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/motorcycles/supersport/pdp/r7-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2223,6 +3465,24 @@
           "label": "Yamaha Türkiye XMAX 300 Tech MAX 2026 kullanıcı el kitabı (teknik özellikler)",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 20.6,
+        "powerHp": null,
+        "torqueNm": 28.9,
+        "weightKg": 183,
+        "weightType": "islak",
+        "weightNote": "Kaynakta \"Wet Weight\".",
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 13,
+        "note": null,
+        "source": {
+          "url": "https://www.yamaha-motor.eu/tr/tr/scooters/sport/pdp/xmax-300-2026/",
+          "type": "manufacturer",
+          "label": "Yamaha Motor Türkiye teknik özellikler (yamaha-motor.eu/tr)",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2249,6 +3509,24 @@
           "type": "manufacturer",
           "label": "CFMOTO Türkiye 250CL-X teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 19.5,
+        "powerHp": null,
+        "torqueNm": 22,
+        "weightKg": null,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": 795,
+        "seatHeightNote": null,
+        "fuelTankL": 14.5,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/250cl-x",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     },
@@ -2277,6 +3555,24 @@
           "label": "CFMOTO Türkiye 450CL-C teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 30,
+        "powerHp": null,
+        "torqueNm": 42,
+        "weightKg": 181,
+        "weightType": null,
+        "weightNote": "Kaynakta \"Boş Ağırlık\" yazıyor; ıslak/kuru tanımı belirtilmemiş.",
+        "seatHeightMm": 705,
+        "seatHeightNote": null,
+        "fuelTankL": 12,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/450cl-c",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2304,6 +3600,24 @@
           "label": "CFMOTO Türkiye 650MT teknik özellikleri",
           "checkedAt": "2026-10-09"
         }
+      },
+      "tech": {
+        "powerKw": 41.5,
+        "powerHp": null,
+        "torqueNm": 54.4,
+        "weightKg": null,
+        "weightType": null,
+        "weightNote": null,
+        "seatHeightMm": 820,
+        "seatHeightNote": "Kaynakta \"820/84 mm\" yazıyor (ikinci değer muhtemelen yazım hatası, doğrulanmadı)",
+        "fuelTankL": 18,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/650-mt",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
+        }
       }
     },
     {
@@ -2330,6 +3644,24 @@
           "type": "manufacturer",
           "label": "CFMOTO Türkiye 700CL-X Heritage teknik özellikleri",
           "checkedAt": "2026-10-09"
+        }
+      },
+      "tech": {
+        "powerKw": 51.5,
+        "powerHp": null,
+        "torqueNm": 60.9,
+        "weightKg": 196,
+        "weightType": null,
+        "weightNote": "Değer tanıtım metninden: \"boş ağırlığı 196 kg\"; teknik tabloda ağırlık yok.",
+        "seatHeightMm": 800,
+        "seatHeightNote": null,
+        "fuelTankL": 13,
+        "note": null,
+        "source": {
+          "url": "https://www.cfmoto.com.tr/urunler/700cl-x-heritage",
+          "type": "manufacturer",
+          "label": "CFMOTO Türkiye teknik özellikler",
+          "checkedAt": "2026-10-10"
         }
       }
     }

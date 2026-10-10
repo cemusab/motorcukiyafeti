@@ -158,3 +158,13 @@ test("site haritasındaki her adres yönlendirmesiz 200 döner (eski site yönle
   }
   expect(bad).toEqual([]);
 });
+
+test("motor karşılaştırma: seçim, vurgulama ve hazır çift sayfası", async ({ page, request }) => {
+  await page.goto("/motor/karsilastir?m=honda-pcx-125,yamaha-nmax-125");
+  await expect(page.getByRole("columnheader", { name: /Honda PCX 125/ })).toBeVisible();
+  await expect(page.getByRole("rowheader", { name: "Tork" })).toBeVisible();
+  // Hazır çift sayfası tabloyu sunucuda üretir (SEO): HTML'de satırlar olmalı.
+  const html = await (await request.get("/motor/karsilastir/honda-pcx-125-vs-yamaha-nmax-125")).text();
+  expect(html).toContain("Kısaca farklar");
+  expect(html).toContain("Sele yüksekliği");
+});

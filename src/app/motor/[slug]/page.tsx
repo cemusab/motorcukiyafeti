@@ -9,6 +9,7 @@ import { getSubcategory } from "@/data/categories";
 import { GEAR, MOTO_TYPES, wizardSet } from "@/data/riding";
 import { getGuide, getMotorcycles, isApparel, productsIn } from "@/lib/data";
 import { clip, faqLd, meta } from "@/lib/seo";
+import { motorPairs, oilsForBike, tiresForBike } from "@/lib/catalog";
 import { JsonLd } from "@/components/JsonLd";
 
 export const dynamicParams = false;
@@ -42,6 +43,9 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
         .map((p) => [p.brand + p.slug, p]),
     ).values(),
   ].slice(0, 8);
+  const pairs = motorPairs().filter((p) => p.items.some((x) => x.slug === m.slug));
+  const fit = tiresForBike(m);
+  const oils = oilsForBike(m);
   const siblings = getMotorcycles().filter((x) => x.type === m.type && x.slug !== m.slug).slice(0, 8);
   const faq = [
     { q: `${name} için hangi kask uygun?`, a: t.helmet },
@@ -73,6 +77,26 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
               </li>
             ))}
           </ul>
+        )}
+        {m.tech && (
+          <p className="mt-4 max-w-3xl text-sm text-ink-2">
+            <strong>Üretici verileri:</strong>{" "}
+            {[
+              m.tech.powerKw != null ? `${String(m.tech.powerKw).replace(".", ",")} kW` : null,
+              m.tech.powerHp != null ? `${String(m.tech.powerHp).replace(".", ",")} hp` : null,
+              m.tech.torqueNm != null ? `${String(m.tech.torqueNm).replace(".", ",")} Nm` : null,
+              m.tech.weightKg != null ? `${m.tech.weightKg} kg${m.tech.weightType ? ` (${{ islak: "ıslak", kuru: "kuru", "surushe-hazir": "sürüşe hazır" }[m.tech.weightType]})` : ""}` : null,
+              m.tech.seatHeightMm != null ? `sele ${m.tech.seatHeightMm} mm` : null,
+              m.tech.fuelTankL != null ? `depo ${String(m.tech.fuelTankL).replace(".", ",")} L` : null,
+            ]
+              .filter(Boolean)
+              .join(" · ")}{" "}
+            (
+            <a href={m.tech.source.url} target="_blank" rel="noopener nofollow" className="underline">
+              kaynak
+            </a>
+            )
+          </p>
         )}
         {(m.tires || (m.oil && (m.oil.viscosity || m.oil.spec))) && (
           <dl className="mt-5 grid max-w-3xl gap-3 sm:grid-cols-2">
@@ -127,6 +151,35 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
               ))}
             </ul>
           </section>
+          {(fit.front.length > 0 || fit.rear.length > 0) && m.tires && (
+            <section>
+              <h2 className="mb-1 font-display text-3xl font-bold">{name} için uygun lastikler</h2>
+              <p className="mb-4 text-sm text-mute">
+                Fabrika ebadına (ön {m.tires.front}, arka {m.tires.rear}) göre, lastik üreticisinin ebat listesinde bu ebatla sunulan modeller. Yük ve hız endeksini kılavuzla karşılaştır.
+              </p>
+              {fit.front.length > 0 && (
+                <>
+                  <h3 className="mb-2 font-display text-xl font-bold">Ön lastik</h3>
+                  <ProductGrid items={fit.front.slice(0, 8)} />
+                </>
+              )}
+              {fit.rear.length > 0 && (
+                <>
+                  <h3 className="mt-6 mb-2 font-display text-xl font-bold">Arka lastik</h3>
+                  <ProductGrid items={fit.rear.slice(0, 8)} />
+                </>
+              )}
+            </section>
+          )}
+          {oils.length > 0 && m.oil && (
+            <section>
+              <h2 className="mb-1 font-display text-3xl font-bold">{name} için uygun motor yağları</h2>
+              <p className="mb-4 text-sm text-mute">
+                Üreticinin önerisi ({[m.oil.viscosity, m.oil.spec].filter(Boolean).join(", ")}) ile viskozitesi ve JASO sınıfı uyuşan yağlar. Değişim aralığı için kılavuza bak.
+              </p>
+              <ProductGrid items={oils.slice(0, 8)} />
+            </section>
+          )}
           {products.length > 0 && (
             <section>
               <h2 className="mb-4 font-display text-3xl font-bold">{t.name} sürücüleri için ürünler</h2>
@@ -135,6 +188,29 @@ export default async function BikePage({ params }: PageProps<"/motor/[slug]">) {
           )}
         </div>
         <aside className="space-y-6">
+          {pairs.length > 0 && (
+            <section className="rounded-lg border border-line bg-white p-5">
+              <h2 className="mb-2 font-display text-xl font-bold">Rakipleriyle karşılaştır</h2>
+              <ul className="space-y-1 text-sm">
+                {pairs.map((p) => {
+                  const o = p.items.find((x) => x.slug !== m.slug)!;
+                  return (
+                    <li key={p.slug}>
+                      <Link href={`/motor/karsilastir/${p.slug}`} className="font-semibold hover:text-red">
+                        {m.model} vs {o.brand} {o.model}
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
+          )}
+          {m.tech && (
+            <Link href={`/motor/karsilastir?m=${m.slug}`} className="block rounded-lg border border-line bg-white p-5 hover:border-ink">
+              <span className="block font-display text-xl font-bold">{name} modelini karşılaştır</span>
+              <span className="mt-1 block text-sm text-mute">Güç, tork, ağırlık ve sele yüksekliğini başka motorlarla yan yana gör.</span>
+            </Link>
+          )}
           <Link href="/yeni-baslayanlar" className="block rounded-lg bg-night p-5 text-white hover:bg-ink-2">
             <span className="block font-display text-xl font-bold">Sana özel seti çıkar</span>
             <span className="mt-1 block text-sm text-white/70">Mevsim, bütçe ve kullanımına göre önerileri gör.</span>

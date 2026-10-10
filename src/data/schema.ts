@@ -182,7 +182,47 @@ export const AccessorySchema = ProductBase.extend({
 });
 export type Accessory = z.infer<typeof AccessorySchema>;
 
-export type Product = Helmet | Intercom | Apparel | Accessory;
+/**
+ * Motosiklet lastiği: ürün kaydı lastik MODELİ (ör. Michelin Road 6). Ebatlar üreticinin resmi ebat listesinden;
+ * ebat yazımı "120/70 ZR17" biçiminde. Motor sayfasındaki fabrika ebadıyla genişlik/oran/jant üzerinden eşleşir.
+ */
+export const TireSchema = ProductBase.extend({
+  category: z.literal("lastik"),
+  specs: z.object({
+    usage: z.enum(["sport", "hypersport", "sport-touring", "touring", "adventure", "scooter", "sehir", "arazi", "custom"]),
+    construction: z.enum(["radyal", "capraz", "karma"]).nullable(),
+    onOffRoad: z.string().nullable(), // üretici beyanı, ör. "90/10"
+    season: z.enum(["yaz", "4-mevsim", "kis"]).nullable(),
+    markings: z.array(z.string()).default([]), // ör. "M+S", "3PMSF", "TL"
+    sizesFront: z.array(z.string()).default([]),
+    sizesRear: z.array(z.string()).default([]),
+    compound: z.string().nullable(), // ör. "Çift bileşimli (2CT+)"
+    features: z.array(z.string()).default([]),
+    madeIn: z.string().nullable(),
+  }),
+});
+export type Tire = z.infer<typeof TireSchema>;
+
+/** Yağ ve bakım ürünleri: motor yağı, zincir yağı/temizleyici, fren hidroliği, soğutma sıvısı, temizlik. */
+export const CareSchema = ProductBase.extend({
+  category: z.literal("yag-bakim"),
+  specs: z.object({
+    productType: z.enum(["motor-yagi", "zincir-yagi", "zincir-temizleyici", "fren-hidroligi", "sogutma-sivisi", "temizlik", "diger"]),
+    engineType: z.enum(["4t-vitesli", "4t-scooter", "2t"]).nullable(), // yalnız motor yağı
+    viscosity: z.string().nullable(), // ör. "10W-40"
+    jaso: z.enum(["MA", "MA1", "MA2", "MB", "FB", "FC", "FD"]).nullable(),
+    api: z.string().nullable(), // ör. "SN"
+    baseOil: z.enum(["mineral", "yari-sentetik", "tam-sentetik"]).nullable(),
+    dotClass: z.enum(["DOT 3", "DOT 4", "DOT 5", "DOT 5.1"]).nullable(), // fren hidroliği
+    volumeL: z.number().nullable(),
+    approvals: z.array(z.string()).default([]), // üretici onayları, ör. "Ducati", "KTM"
+    features: z.array(z.string()).default([]),
+    madeIn: z.string().nullable(),
+  }),
+});
+export type Care = z.infer<typeof CareSchema>;
+
+export type Product = Helmet | Intercom | Apparel | Accessory | Tire | Care;
 
 export const CompatSchema = z.object({
   helmet: z.string(), // "shoei/neotec-3"
@@ -278,6 +318,23 @@ export const MotorcycleSchema = z.object({
   /** Fabrika lastik ebatları (resmi teknik sayfa veya kullanıcı kılavuzu). */
   tires: z
     .object({ front: z.string(), rear: z.string(), source: SourceSchema })
+    .nullable()
+    .default(null),
+  /** Karşılaştırma aracı için teknik veriler (resmi teknik sayfa). Ağırlık tanımı ayrı tutulur; farklı tanımlar karşılaştırılmaz. */
+  tech: z
+    .object({
+      powerKw: z.number().nullable(),
+      powerHp: z.number().nullable(),
+      torqueNm: z.number().nullable(),
+      weightKg: z.number().nullable(),
+      weightType: z.enum(["islak", "kuru", "surushe-hazir"]).nullable(),
+      weightNote: z.string().nullable().default(null),
+      seatHeightMm: z.number().nullable(),
+      seatHeightNote: z.string().nullable(),
+      fuelTankL: z.number().nullable(),
+      note: z.string().nullable().default(null),
+      source: SourceSchema,
+    })
     .nullable()
     .default(null),
   /** Üreticinin önerdiği motor yağı (kılavuz/teknik sayfa). Alanlar kaynakta yoksa null. */

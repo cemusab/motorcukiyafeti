@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "motosiklet-test-surusu-rehberi",
+    "title": "Motosiklet Test Sürüşü Rehberi: Hazırlık, Kontrol ve Notlar",
+    "description": "Bayide motosiklet test sürüşüne nasıl hazırlanılır: ehliyet sınıfı, kendi ekipmanın, sele yüksekliği, ergonomi, fren ve debriyaj hissi, titreşim, yolcu ve çanta.",
+    "topic": "genel",
+    "updatedAt": "2026-10-10",
+    "readingMinutes": 8,
+    "intro": "Test sürüşüne motosikletin ehliyet sınıfına uygun bir ehliyetle ve kendi ekipmanınla (kask, eldiven, mont, bot) git; yolda ise ayak basma, ağırlık, oturuş, fren ve debriyaj hissi, titreşim ve rüzgârı tek tek not al. Kısa bir tur bile, kâğıt üzerindeki teknik tablonun söyleyemediği şeyi, yani motosikletin sana uyup uymadığını gösterir. Bu yazı test sürüşünü öncesi, sırası ve sonrası olarak üç parçada ele alır; sonunda iki motoru adil karşılaştırmak için kullanabileceğin bir not şablonu var.",
+    "sections": [
+      {
+        "heading": "Önce ehliyet: bu motoru sürebilir misin?",
+        "paragraphs": [
+          "Karayolları Trafik Kanunu'nun 36. maddesine göre motorlu araçlar yalnız yönetmelikte sınıfı belirtilen sürücü belgesine sahip kişilerce sürülebilir; ehliyetsiz birinin sürmesi de, sürmesine izin verilmesi de yasaktır. Bu yüzden test sürüşü için bayiye gitmeden önce denemek istediğin motorun hangi sınıfa girdiğine bak: A1, A2 ve A sınıfları silindir hacmi ve güç sınırlarına göre ayrılır.",
+          "Hangi motorun hangi ehliyetle sürüldüğünü, B sınıfı ehliyetle 125 cc kullanımının şartlarını ve yaş sınırlarını Motosiklet Ehliyet Sınıfları rehberinde resmî metinlere dayanarak anlattık. Ehliyetin denemek istediğin motora yetmiyorsa, aynı modelin düşük güçlü bir versiyonu ya da aynı ailenin küçük kardeşi daha anlamlı bir test olur."
+        ],
+        "bullets": [
+          "Motorun ehliyet sınıfını teknik tablodan (cc ve kW) kontrol et",
+          "Ehliyetini yanında götür; bayi görmek isteyecektir",
+          "Sınıfın yetmiyorsa uygun güçteki versiyonu iste"
+        ]
+      },
+      {
+        "heading": "Randevu ve bayiye sorulacaklar",
+        "paragraphs": [
+          "Test motoru her bayide her gün hazır olmayabilir; gitmeden önce arayıp hangi modelin ve hangi versiyonun test için ayrıldığını öğren. Denemek istediğin motorun satın alacağın donanımla aynı olması önemlidir: farklı sele, farklı lastik ya da farklı süspansiyon ayarı hissi ciddi biçimde değiştirebilir.",
+          "Test sırasında bir kaza veya düşme olursa motorun hasarını kimin karşılayacağı, muafiyet olup olmadığı ve imzalatılan formda ne yazdığı bayiden bayiye değişebilir. Bu konuda kesin bir genel kural yazmıyoruz: bayiye açıkça sor, imzalayacağın test sürüşü formunu dikkatle oku ve anlamadığın maddeyi yazılı olarak netleştir. Trafik sigortası (zorunlu mali sorumluluk sigortası) kanun gereği işletenin üçüncü kişilere karşı sorumluluğu içindir; motorun kendi hasarı ayrı bir konudur."
+        ],
+        "bullets": [
+          "Test için hangi model ve versiyon hazır?",
+          "Rota ve süre ne kadar, yalnız mı yoksa refakatçiyle mi?",
+          "Kaza veya düşmede hasar sorumluluğu, muafiyet, imzalanacak form",
+          "Yolcu ile deneme yapılabiliyor mu?"
+        ]
+      },
+      {
+        "heading": "Kendi ekipmanınla git",
+        "paragraphs": [
+          "Test sürüşüne kendi kaskın, eldivenin, montun ve botunla git. Bazı bayiler kask verebilir, ama başkasının kaskı sana tam oturmaz; bol bir kask hem rüzgârda sallanır hem de motorun rüzgâr ve gürültü davranışını yanlış değerlendirmene yol açar. Ayrıca bir gün motoru bu ekipmanla süreceksin; botunla vites pedalına nasıl uzandığını, eldivenle kolları nasıl kavradığını şimdi görmek istersin.",
+          "Henüz ekipmanın yoksa test sürüşü iyi bir zorlayıcıdır: motordan önce kaskı, eldiveni ve botu almak hem güvenlik hem de doğru karar için mantıklı bir sıradır. Nereden başlayacağını İlk Motosiklet Ekipmanları ve Bütçeye Göre Tam Motosiklet Ekipman Seti rehberlerinde, kategori kategori seçim ölçütlerini ise sitedeki kask, mont, eldiven, bot ve koruma sayfalarında bulabilirsin. Kaskın sana gerçekten oturup oturmadığını Kask Bedeni Nasıl Ölçülür rehberiyle kontrol et."
+        ],
+        "bullets": [
+          "Kask: kendi bedeninde, vizörü temiz",
+          "Eldiven: kol mesafesi ve kavrama hissi için şart",
+          "Mont ve pantolon: koruyucuları takılı",
+          "Bot: vites ve arka fren pedalına uzanmayı gerçekçi gösterir"
+        ]
+      },
+      {
+        "heading": "Motor dururken: sele, ayak basma ve ağırlık",
+        "paragraphs": [
+          "Motoru çalıştırmadan önce üzerine otur ve iki ayağını yere koy. Teknik tablodaki sele yüksekliği tek başına yeterli değildir; selenin genişliği ve ön kısmının daralıp daralmadığı, aynı yükseklikte bile ayak basmayı çok değiştirir. İki ayağın da tabanla yere basıyor mu, yoksa yalnız parmak uçların mı değiyor? Hangisinin sana yeteceği deneyimine ve kullanacağın yola bağlıdır, ama trafikte sık durup kalkacaksan güvenle basabilmek önemlidir.",
+          "Sonra motoru yan sehpadan dik konuma al ve birkaç adım it, dar bir dönüşte gidonu tam kırarak yürüt. Islak ya da eğimli bir zeminde, park yerinde geri itmede veya devrilmeye başlayan motoru tutmada ağırlığı sen taşıyacaksın. Bu birkaç dakikalık deneme, kâğıttaki kilogramdan daha fazla şey söyler. Bazı modellerde alçak sele ya da alçaltma seçeneği bulunur; bunun o model için olup olmadığını bayiye ve üreticinin aksesuar listesine sor."
+        ],
+        "bullets": [
+          "İki ayakla basış: taban mı, parmak ucu mu?",
+          "Sele genişliği ve ön kısmı",
+          "Sehpadan kaldırma, itme, tam kırık gidonla yürütme",
+          "Alçak sele veya alçaltma seçeneği var mı?"
+        ]
+      },
+      {
+        "heading": "Ergonomi: gidon, pedallar ve kollar",
+        "paragraphs": [
+          "Otururken sırtının ne kadar öne eğildiğine, bileklerine ağırlık binip binmediğine ve dizlerinin ne kadar büküldüğüne dikkat et. Sportif oturuşta ağırlık bileklere biner, naked ve adventure motorlarda daha dik bir duruş olur, cruiser'larda ise ayaklar öne uzanır. Hiçbiri tek başına iyi ya da kötü değildir; önemli olan günlük kullanacağın mesafede seni yormamasıdır.",
+          "Fren ve debriyaj kollarına eldivenli elinle uzan: parmakların kolu rahatça sarabiliyor mu? Birçok motorda kol mesafesi ayarlanabilir; ayarlanıp ayarlanamadığını sor ve test öncesi kendine göre ayarlat. Botunla vites pedalının altına ayağını rahat sokabildiğini ve arka fren pedalına bileğini zorlamadan bastığını kontrol et. Aynaların sana göre ayarlanmış olması da sürüş güvenliği için şarttır."
+        ],
+        "bullets": [
+          "Sırt eğimi, bilek yükü, diz açısı",
+          "Kol mesafesi ayarı ve eldivenle kavrama",
+          "Vites ve arka fren pedalına botla erişim",
+          "Aynaları sürüşten önce ayarla"
+        ]
+      },
+      {
+        "heading": "Sürüş sırasında dikkat edilecekler",
+        "paragraphs": [
+          "İlk dakikaları motoru tanımaya ayır; yeni bir motorda gazın, frenin ve debriyajın tepkisini bilmeden zorlamak gereksiz risktir. Debriyajın nerede kavradığına ve ne kadar sert olduğuna bak; şehir trafiğinde yüzlerce kez sıkacağın bir kol hafif ve öngörülebilir olmalı. Kalkışta motorun ne kadar kolay hareket ettiğini, düşük devirde sarsılıp sarsılmadığını not al.",
+          "Fren hissinde önemli olan yalnız güç değil, kontrol edilebilirliktir: kolu hafifçe sıktığında yavaşlamanın kademeli başlaması gerekir. Güvenli bir yerde ve hızda ön ve arka freni ayrı ayrı dene. Ardından titreşime odaklan: belirli bir devirde gidon, sele ya da pedallar karıncalanıyor mu? Uzun yolda bu his yorgunluğa dönüşür.",
+          "Rüzgâr ve ön cam davranışını sakin bir yolda biraz daha yüksek hızda dene: rüzgâr göğsüne mi, kaskına mı geliyor, kaskta sarsıntı veya uğultu oluyor mu? Ayarlanabilir camlarda farklı konumları dene. Son olarak ısıyı fark et: trafikte beklerken motorun ve egzozun sıcaklığı bacaklarına ne kadar geliyor? Yaz trafiğinde bu, ilk günlerde fark edilmeyip sonradan rahatsız eden bir konudur."
+        ],
+        "bullets": [
+          "Debriyaj: kavrama noktası ve sertlik",
+          "Kalkış ve düşük devir davranışı",
+          "Fren: güç değil, kademeli ve kontrollü his",
+          "Titreşim: hangi devirde, nerede?",
+          "Rüzgâr, ön cam ve kask uğultusu",
+          "Trafikte beklerken bacaklara gelen ısı"
+        ]
+      },
+      {
+        "heading": "Yolcu ve çanta",
+        "paragraphs": [
+          "Motoru sık sık yolcuyla kullanacaksan, mümkünse yolcuyla da dene ya da en azından yolcu selesinin genişliğine, tutunma kollarına ve yolcu pedallarının yüksekliğine bak. Yolculu kullanımda yükün süspansiyonu ve frenlemeyi değiştirdiğini unutma; lastik basıncı ve süspansiyon ayarı için motor kılavuzundaki yüklü değerler geçerlidir.",
+          "Kurye olarak çalışacaksan veya günlük işe gidip geleceksen çanta ve bagaj seçeneklerini de sor: arka çanta, yan çanta ya da depo üstü çanta takılabiliyor mu, bunun için ayrı bir bağlantı gerekiyor mu? Kurye kullanımında ekipman ve günlük yükle ilgili ayrıntıları Kurye Motosiklet Ekipmanları rehberinde topladık."
+        ],
+        "bullets": [
+          "Yolcu selesi, tutunma kolu, yolcu pedalı",
+          "Yüklü kullanımda lastik basıncı ve süspansiyon ayarı",
+          "Arka ve yan çanta bağlantısı, depo üstü çanta"
+        ]
+      },
+      {
+        "heading": "Sonrası: adil bir karşılaştırma notu",
+        "paragraphs": [
+          "Test sürüşünden hemen sonra, hisler tazeyken kısa notlar al; ertesi gün iki motoru birbirine karıştırmak çok kolaydır. Mümkünse karşılaştırdığın motorları aynı gün, aynı ekipmanla ve benzer bir rotada dene; hava, yol ve yorgunluk da hissi etkiler.",
+          "Her başlık için iyi, idare eder ve sorunlu gibi üç basit seviye kullan; tek bir puana indirgemek yerine hangi konuda hangi motorun öne çıktığını görmek daha faydalıdır. Ekipman tarafında da motorun karakterine göre ihtiyacın değişebilir: daha korunaklı bir motorda kışın termal katman, çıplak bir motorda rüzgâra karşı daha iyi kapanan bir mont önem kazanır. Sezon başında motoru teslim aldığında yapılacak kontroller için Sezon Öncesi Motosiklet Kontrol Listesi'ne bakabilirsin."
+        ],
+        "bullets": [
+          "Ayak basma ve ağırlık",
+          "Oturuş ve kol/pedal erişimi",
+          "Debriyaj, kalkış, fren hissi",
+          "Titreşim, rüzgâr, ısı",
+          "Yolcu ve çanta uygunluğu",
+          "Ehliyet sınıfı ve ekipman ihtiyacı"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Test sürüşüne kendi kaskımla mı gitmeliyim?",
+        "a": "Evet. Kendi bedenindeki kask hem güvenlidir hem de motorun rüzgâr ve gürültü davranışını doğru değerlendirmeni sağlar. Eldiven, mont ve botun da yanında olsun; kol ve pedal erişimini gerçek ekipmanla görmüş olursun."
+      },
+      {
+        "q": "Ehliyetimin sınıfı yetmeyen bir motoru test edebilir miyim?",
+        "a": "Karayolları Trafik Kanunu'nun 36. maddesine göre motorlu araçlar yalnız ilgili sınıftaki sürücü belgesine sahip kişilerce sürülebilir ve sürülmesine izin vermek de yasaktır. Ehliyetinin yettiği versiyonu dene; sınıfları Motosiklet Ehliyet Sınıfları rehberinde anlattık."
+      },
+      {
+        "q": "Test sürüşünde düşersem hasarı kim öder?",
+        "a": "Bunun için genel bir kural yazmıyoruz; bayiden bayiye ve imzalatılan forma göre değişebilir. Test öncesi bayiye açıkça sor, formu dikkatle oku ve muafiyet gibi konuları yazılı netleştir."
+      },
+      {
+        "q": "Kısa bir tur yeterli mi?",
+        "a": "Oturuş, ayak basma, debriyaj ve fren hissi için kısa bir tur bile çok şey söyler. Titreşim, rüzgâr ve ısı gibi konular ise biraz daha uzun ve farklı hızlarda bir sürüşte ortaya çıkar; mümkünse rotayı bayiyle konuşarak çeşitlendir."
+      }
+    ],
+    "relatedGuides": [
+      "motosiklet-ehliyet-siniflari-ve-ekipman",
+      "ilk-motosiklet-ekipmanlari",
+      "butceye-gore-tam-motosiklet-ekipman-seti",
+      "kask-bedeni-nasil-olculur",
+      "kurye-motosiklet-ekipmanlari",
+      "sezon-oncesi-motosiklet-kontrol-listesi",
+      "ikinci-el-motosiklet-kontrol-listesi"
+    ],
+    "relatedCategories": [
+      "kask",
+      "mont",
+      "eldiven",
+      "bot",
+      "koruma"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2918.pdf",
+        "type": "review",
+        "label": "2918 sayılı Karayolları Trafik Kanunu – md. 36 (sürücü belgesi zorunluluğu) ve md. 91 (zorunlu mali sorumluluk sigortası)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150417-3.htm",
+        "type": "review",
+        "label": "Resmî Gazete 17.04.2015 – Karayolları Trafik Yönetmeliğinde değişiklik (sürücü belgesi sınıfları A1, A2, A)",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]

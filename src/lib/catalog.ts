@@ -9,7 +9,7 @@ import { budgetGroups } from "./budget";
 import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
 import { MOTO_TYPES } from "@/data/riding";
-import type { Compat, Helmet, Product } from "@/data/schema";
+import type { Care, Compat, Helmet, Product, Tire } from "@/data/schema";
 import {
   displayName,
   getBrands,
@@ -166,7 +166,7 @@ export function productsForGender(g: GenderSlug, category?: string) {
 }
 export function genderCategories(g: GenderSlug) {
   // Kask ve interkom cinsiyetsizdir; ayrı cinsiyet sayfası yinelenen içerik olur.
-  return CATEGORIES.filter((c) => c.slug !== "kask" && c.slug !== "interkom" && productsForGender(g, c.slug).length > 0);
+  return CATEGORIES.filter((c) => !["kask", "interkom", "lastik", "yag-bakim"].includes(c.slug) && productsForGender(g, c.slug).length > 0);
 }
 
 /* ---------- İnterkom uyumluluk ---------- */
@@ -226,6 +226,9 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const { category, sub } of allSubcategories()) add(`/${category.slug}/${sub.slug}`, "kategori", productsIn(category.slug, sub.slug).length > 0);
   for (const m of MOTO_TYPES) add(`/motosikletime-gore/${m.slug}`, "kategori");
   if (getMotorcycles().length) add("/motor", "statik");
+  if (getMotorcycles().some((m) => m.tech)) add("/motor/karsilastir", "statik");
+  if (getMotorcycles().filter((m) => m.tech?.seatHeightMm != null).length >= 10) add("/motor/sele-yuksekligi", "statik");
+  for (const p of motorPairs()) add(`/motor/karsilastir/${p.slug}`, "karsilastirma", p.indexable);
   for (const b of getMotorcycles()) add(`/motor/${b.slug}`, "kategori", b.notes.length >= 2);
   for (const p of getProducts()) add(productPath(p), "urun");
   for (const b of getBrands()) add(`/marka/${b.slug}`, "marka");
@@ -299,3 +302,84 @@ export function priceAlternatives(p: Product) {
   const upper = pool.filter((x) => x.priceRange!.min >= min * 1.15).sort((a, b) => a.priceRange!.min - b.priceRange!.min)[0];
   return { cheaper, upper };
 }
+
+/* ---------- Motor ↔ lastik / yağ eşleşmesi (yalnız üretici verisiyle) ---------- */
+
+/** Lastik ebadını karşılaştırılabilir biçime getirir: "110/70-14M/C 50P" → "110/70-14", "120/70 ZR 17" → "120/70-17", "3.00-10" → "3.00-10". */
+export function normTireSize(size: string) {
+  const s = size.replace(/\s+/g, " ").toUpperCase();
+  const metric = s.match(/(\d{2,3})\s?\/\s?(\d{2,3})\s?(?:Z?R|B|-)?\s?-?\s?(\d{2})(?!\d)/);
+  if (metric) return `${metric[1]}/${metric[2]}-${metric[3]}`;
+  const inch = s.match(/(\d\.\d{2})\s?-\s?(\d{2})(?!\d)/);
+  return inch ? `${inch[1]}-${inch[2]}` : null;
+}
+
+/** Motor tipine uygun lastik kullanım tipleri: ebat tutsa bile örneğin naked motora çivili arazi lastiği önerilmez. */
+const TIRE_USAGE_FOR: Record<string, Tire["specs"]["usage"][]> = {
+  scooter: ["scooter", "sehir"],
+  naked: ["sport", "hypersport", "sport-touring", "touring", "sehir"],
+  sport: ["sport", "hypersport", "sport-touring"],
+  touring: ["touring", "sport-touring"],
+  adventure: ["adventure", "touring", "sport-touring"],
+  enduro: ["arazi", "adventure"],
+  cruiser: ["custom", "touring", "sehir"],
+};
+
+export function tiresForBike(m: { type?: string; tires: { front: string; rear: string } | null }) {
+  if (!m.tires) return { front: [] as Product[], rear: [] as Product[] };
+  const allowed = m.type ? TIRE_USAGE_FOR[m.type] : undefined;
+  const f = normTireSize(m.tires.front);
+  const r = normTireSize(m.tires.rear);
+  const tires = getProducts().filter((p): p is Tire => p.category === "lastik" && p.status !== "discontinued" && (!allowed || allowed.includes(p.specs.usage)));
+  const has = (list: string[], n: string | null) => !!n && list.some((x) => normTireSize(x) === n);
+  return { front: tires.filter((t) => has(t.specs.sizesFront, f)), rear: tires.filter((t) => has(t.specs.sizesRear, r)) };
+}
+
+/** Üreticinin önerdiği JASO sınıfı ve viskoziteyle birebir uyumlu yağlar. MA isteyen motorda MA ve MA2 uyar; MA2 ve MB birebir. */
+export function oilsForBike(m: { oil: { viscosity: string | null; spec: string | null } | null }) {
+  const visc = m.oil?.viscosity?.toUpperCase().match(/(\d{1,2}W-?\d{2})/)?.[1].replace(/W(\d)/, "W-$1") ?? null;
+  // Kılavuz birden çok sınıfa izin verebilir ("JASO MA veya MB"): JASO'dan sonraki tüm sınıflar okunur.
+  const spec = m.oil?.spec?.toUpperCase() ?? "";
+  const after = spec.includes("JASO") ? spec.slice(spec.indexOf("JASO")) : "";
+  const req = new Set([...after.matchAll(/\b(MA2|MA1|MA|MB)\b/g)].map((x) => x[1]));
+  if (!visc || !req.size) return [] as Product[];
+  const ok = (j: string | null) => !!j && (req.has(j) || (req.has("MA") && (j === "MA2" || j === "MA1")));
+  return getProducts().filter(
+    (p): p is Care => p.category === "yag-bakim" && p.specs.productType === "motor-yagi" && p.specs.viscosity?.toUpperCase().replace(/W(\d)/, "W-$1") === visc && ok(p.specs.jaso),
+  );
+}
+
+/** Ürün sayfası için ters yön: bu lastiği/yağı fabrika verisine göre kullanabilecek motorlar. */
+export function bikesForProduct(p: Product) {
+  const id = productId(p);
+  if (p.category === "lastik") return getMotorcycles().filter((m) => [...tiresForBike(m).front, ...tiresForBike(m).rear].some((t) => productId(t) === id));
+  if (p.category === "yag-bakim") return getMotorcycles().filter((m) => oilsForBike(m).some((o) => productId(o) === id));
+  return [];
+}
+
+/* ---------- Motor çiftleri (hazır motor karşılaştırma sayfaları) ---------- */
+
+type Bike = ReturnType<typeof getMotorcycles>[number];
+const techScore = (m: Bike) => (m.tech ? [m.tech.powerKw ?? m.tech.powerHp, m.tech.torqueNm, m.tech.weightKg, m.tech.seatHeightMm].filter((x) => x != null).length : 0);
+
+/** Her motor için aynı tipte, motor hacmi en yakın 2 rakip; ikisinde de teknik veri olan çiftler. */
+export const motorPairs = memo(() => {
+  const bikes = getMotorcycles().filter((m) => m.tech && m.cc && techScore(m) >= 3);
+  const seen = new Map<string, [Bike, Bike]>();
+  for (const a of bikes) {
+    const near = bikes
+      .filter((b) => b.slug !== a.slug && b.type === a.type && Math.abs(b.cc! - a.cc!) / a.cc! <= 0.35)
+      .sort((x, y) => Math.abs(x.cc! - a.cc!) - Math.abs(y.cc! - a.cc!))
+      .slice(0, 2);
+    for (const b of near) {
+      const [x, y] = [a, b].sort((m, n) => m.slug.localeCompare(n.slug));
+      seen.set(`${x.slug}-vs-${y.slug}`, [x, y]);
+    }
+  }
+  return [...seen.entries()].map(([slug, items]) => ({
+    slug,
+    items,
+    // Dizine yalnız iki modelde de 4 ana veri varsa ve ağırlık aynı tanımla verilmişse eklenir.
+    indexable: items.every((m) => techScore(m) === 4) && !!items[0].tech!.weightType && items[0].tech!.weightType === items[1].tech!.weightType,
+  }));
+});

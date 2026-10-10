@@ -19,6 +19,18 @@ export default function BikesPage() {
       <PageHead title="Motoruna göre ekipman" intro="Motorunun markasını ve modelini bul; o modele uygun ekipman setini, ehliyet sınıfını ve modele özel kullanım notlarını gör.">
         <Breadcrumbs items={[{ name: "Motoruna Göre", href: "/motor" }]} />
       </PageHead>
+      <Container className="mt-8">
+        <Link href="/motor/karsilastir" className="flex items-center justify-between gap-4 rounded-lg bg-night p-5 text-white hover:bg-ink-2">
+          <span>
+            <span className="block font-display text-2xl font-bold">Motorları karşılaştır</span>
+            <span className="mt-1 block text-sm text-white/70">Güç, tork, ağırlık, sele yüksekliği ve lastik ebadını yan yana gör; her motor için uygun ekipman setiyle.</span>
+          </span>
+          <span className="shrink-0 rounded-md bg-red px-4 py-2 text-sm font-semibold">Karşılaştır →</span>
+        </Link>
+        <Link href="/motor/sele-yuksekligi" className="mt-3 block text-sm font-semibold text-red hover:underline">
+          Sele yüksekliği ve ağırlık tablosu (kısa boylu sürücüler için) →
+        </Link>
+      </Container>
       <Container className="mt-8 space-y-8">
         {brands.map((br) => (
           <section key={br}>

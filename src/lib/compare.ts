@@ -18,7 +18,7 @@ export function compareEntry(p: Product): CompareEntry {
     };
   });
   const flags: Record<string, boolean | null> =
-    p.category === "kask" ? { sunVisor: p.specs.sunVisor, intercomReady: p.specs.intercomReady, pinlock: p.specs.pinlock } : p.category === "interkom" ? { mesh: p.specs.mesh } : { waterproof: p.specs.waterproof };
+    p.category === "kask" ? { sunVisor: p.specs.sunVisor, intercomReady: p.specs.intercomReady, pinlock: p.specs.pinlock } : p.category === "interkom" ? { mesh: p.specs.mesh } : "waterproof" in p.specs ? { waterproof: p.specs.waterproof } : {};
   return { id: productId(p), name: displayName(p), href: productPath(p), category: p.category, type: productTypeLabel(p), price: p.priceRange?.min ?? null, rows, usage: p.usage, flags };
 }
 

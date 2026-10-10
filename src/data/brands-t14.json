@@ -1,0 +1,359 @@
+[
+  {
+    "families": [
+      {
+        "name": "Capra",
+        "note": "Adventure ve enduro lastikleri (Capra X, Capra RD)",
+        "url": "https://www.anlas.com/tr/adventure"
+      },
+      {
+        "name": "Winter Grip",
+        "note": "Scooter ve enduro kış lastikleri",
+        "url": "https://www.anlas.com/tr/kis"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Winter Grip 2 (SC-500)",
+        "url": "https://www.anlas.com/tr/winter-grip-2-(sc-500)",
+        "reason": "Scooter ve kurye için geniş ebatlı kış lastiği"
+      }
+    ],
+    "alternatives": [
+      "michelin",
+      "pirelli"
+    ],
+    "history": [
+      {
+        "year": 1974,
+        "event": "Motosiklet, moped ve scooter lastiği üretimine başladı (Anlas Hakkımızda)."
+      }
+    ],
+    "strongestLine": "Scooter ve enduro kış lastikleri",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "anlas",
+    "name": "Anlas",
+    "country": "Türkiye",
+    "founded": null,
+    "website": "https://www.anlas.com/tr",
+    "about": [
+      "Anlas, 1974'ten bu yana motosiklet, moped, scooter ve ATV lastikleri üreten yerli bir lastik üreticisi. Üretim Düzce Kaynaşlı'daki tesiste yapılıyor; şirket ürünlerini Avrupa ve dünyada 21 ülkede sattığını belirtiyor.",
+      "Resmi sitesinde her lastik modelinin ebat tablosunu ve liste fiyatını açıkça yayınlaması, Türkiye'de fiyat şeffaflığı açısından öne çıkıyor. Scooter kış lastiği Winter Grip 2 ve enduro kış lastiği Winter Grip Plus, markanın en ayırt edici ürünleri."
+    ],
+    "strengths": [
+      "Yerli üretim ve yaygın bayi ağı",
+      "Scooter ve büyük motor için kış lastikleri",
+      "Resmi sitede ebat bazında açık liste fiyatı"
+    ],
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/hakkimizda",
+        "type": "manufacturer",
+        "label": "Anlas – Hakkımızda",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "families": [
+      {
+        "name": "Road",
+        "note": "Sport-touring (Road 6, Road 6 GT)",
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-road-6"
+      },
+      {
+        "name": "Anakee",
+        "note": "Adventure ve trail",
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-anakee-adventure-2"
+      },
+      {
+        "name": "City",
+        "note": "Scooter ve şehir",
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-2"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Road 6",
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-road-6",
+        "reason": "Aşındıkça ıslak performansı korumaya yönelik sport-touring lastiği"
+      }
+    ],
+    "alternatives": [
+      "pirelli",
+      "bridgestone",
+      "metzeler"
+    ],
+    "history": [
+      {
+        "year": 1889,
+        "event": "André ve Édouard Michelin, Clermont-Ferrand'daki aile şirketini devraldı; şirket Michelin et Compagnie adını aldı."
+      }
+    ],
+    "strongestLine": "Sport-touring ve scooter lastikleri",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "michelin",
+    "name": "Michelin",
+    "country": "Fransa",
+    "founded": 1889,
+    "website": "https://www.michelin.co.uk/motorbike",
+    "about": [
+      "Michelin, 1889'da André ve Édouard Michelin kardeşlerin Clermont-Ferrand'da kurduğu Fransız lastik üreticisi. Motosiklette sport (Power), sport-touring (Road), adventure (Anakee) ve scooter (City) aileleriyle geniş bir ürün gamı sunuyor.",
+      "Motosiklet lastiklerinde 2CT/2CT+ çift bileşim teknolojisi ve aşındıkça genişleyen Water Evergrip kanalları gibi ıslak zemin odaklı çözümleriyle biliniyor."
+    ],
+    "strengths": [
+      "Islak zemin ve ömür odaklı sport-touring lastikleri",
+      "Scooter ebatlarında çok geniş seçenek",
+      "Türkiye'de yerleşik mağazalarda yaygın bulunurluk"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/en/about-the-michelin-company",
+        "type": "manufacturer",
+        "label": "Michelin – About the Michelin Company",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-road-6",
+        "type": "manufacturer",
+        "label": "Michelin UK – motosiklet lastikleri",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "families": [
+      {
+        "name": "Diablo",
+        "note": "Sport ve hypersport",
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/diablo-rosso-iv"
+      },
+      {
+        "name": "Angel",
+        "note": "Sport-touring ve scooter",
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/angel-gt-ii"
+      },
+      {
+        "name": "Scorpion",
+        "note": "Adventure ve arazi",
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/scorpion-trail-iii"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Diablo Rosso IV",
+        "url": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue/product/diablo-rosso-iv",
+        "reason": "Motor gücüne göre farklılaşan bileşimli supersport yol lastiği"
+      }
+    ],
+    "alternatives": [
+      "michelin",
+      "bridgestone",
+      "metzeler"
+    ],
+    "history": [
+      {
+        "year": 1872,
+        "event": "Giovanni Battista Pirelli, Milano'da G.B. Pirelli & C.'yi kurdu."
+      }
+    ],
+    "strongestLine": "Sport ve hypersport yol lastikleri",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "pirelli",
+    "name": "Pirelli",
+    "country": "İtalya",
+    "founded": 1872,
+    "website": "https://www.pirelli.com/tyres/en-gb/motorcycle/catalogue",
+    "about": [
+      "Pirelli, 1872'de Giovanni Battista Pirelli tarafından Milano'da kurulan İtalyan lastik üreticisi. Motosiklette Diablo (sport), Angel (sport-touring ve scooter) ve Scorpion (adventure ve arazi) aileleriyle tanınıyor; sport lastiklerinin profillerini WorldSBK deneyiminden türettiğini belirtiyor.",
+      "Metzeler markası da Pirelli grubunun bir parçası."
+    ],
+    "strengths": [
+      "Sport lastiklerde yarıştan türetilmiş bileşim ve profil",
+      "Ebat yelpazesi çok geniş modeller",
+      "Scooterdan süper bike'a kadar tam ürün gamı"
+    ],
+    "sources": [
+      {
+        "url": "https://corporate.pirelli.com/corporate/en-ww/aboutus/history",
+        "type": "manufacturer",
+        "label": "Pirelli – Tarihçe",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "families": [
+      {
+        "name": "Tourance / Karoo",
+        "note": "Adventure: asfalt odaklıdan arazi odaklıya",
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/karoo-4"
+      },
+      {
+        "name": "Roadtec",
+        "note": "Sport-touring",
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/roadtec-02"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Karoo 4",
+        "url": "https://www.metzeler.com/en-gb/catalogue/product/karoo-4",
+        "reason": "Asfalt konforunu düşünen çivili adventure lastiği"
+      }
+    ],
+    "alternatives": [
+      "continental",
+      "pirelli",
+      "michelin"
+    ],
+    "history": [
+      {
+        "year": 1892,
+        "event": "Marka, motosiklet lastiği üretiminin bu yıla dayandığını belirtiyor."
+      }
+    ],
+    "strongestLine": "Adventure lastikleri",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "metzeler",
+    "name": "Metzeler",
+    "country": "Almanya",
+    "founded": null,
+    "website": "https://www.metzeler.com/en-gb/home",
+    "about": [
+      "Metzeler, kendini Alman motosiklet lastiği üreticisi olarak tanımlayan ve 1892'den beri motosiklet lastiği ürettiğini belirten marka. Bugün Pirelli grubunun bir parçası; Roadtec (sport-touring), Tourance (adventure), Karoo (arazi odaklı adventure) ve Sportec (sport) aileleri var.",
+      "Adventure lastiklerinde blok düzeni ve bileşim teknolojileri (DETRATEC, DYMATEC, INTERACT) ile biliniyor."
+    ],
+    "strengths": [
+      "Adventure ve enduro-cadde lastiklerinde güçlü ürün gamı",
+      "Sport-touring lastiklerinde uyarlanır desen çözümleri"
+    ],
+    "sources": [
+      {
+        "url": "https://www.metzeler.com/en-ww/about/who-we-are",
+        "type": "manufacturer",
+        "label": "Metzeler – Who we are",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "families": [
+      {
+        "name": "Battlax",
+        "note": "Sport, sport-touring, yarış ve adventure",
+        "url": "https://www.bridgestone.co.uk/motorcycle-tyres/sport"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Battlax Hypersport S23",
+        "url": "https://www.bridgestone.co.uk/motorcycle-tyres/sport/battlax-s23.html",
+        "reason": "Arkada 5 katmanlı bileşimli hypersport lastiği"
+      }
+    ],
+    "alternatives": [
+      "michelin",
+      "pirelli",
+      "continental"
+    ],
+    "history": [
+      {
+        "year": 1931,
+        "event": "Bridgestone Tire Co., Ltd., Japonya'nın Kurume şehrinde kuruldu."
+      }
+    ],
+    "strongestLine": "Sport ve sport-touring lastikleri (Battlax)",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "bridgestone",
+    "name": "Bridgestone",
+    "country": "Japonya",
+    "founded": 1931,
+    "website": "https://www.bridgestone.co.uk/motorcycle-tyres/sport",
+    "about": [
+      "Bridgestone, 1931'de Japonya'nın Kurume şehrinde kurulan lastik üreticisi. Motosiklette Battlax ailesiyle sport (Hypersport S23), sport-touring (T32) ve yarış lastikleri sunuyor; Hypersport S23, Yamaha ve Kawasaki modellerinde orijinal ekipman olarak kullanılıyor.",
+      "Çok katmanlı bileşim (3LC, 5LC) ve silika dağılımını iyileştiren RC Polymer gibi bileşim teknolojileriyle biliniyor."
+    ],
+    "strengths": [
+      "Çok katmanlı bileşimli sport lastikleri",
+      "Orijinal ekipman olarak seçilen sport lastikleri",
+      "Ağır motorlar için ayrı GT sürümleri"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bridgestone.com/corporate/history/",
+        "type": "manufacturer",
+        "label": "Bridgestone – Tarihçe",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "families": [
+      {
+        "name": "TKC",
+        "note": "Adventure ve arazi",
+        "url": "https://www.continental-tires.com/products/motorcycle/tires/tkc-70/"
+      },
+      {
+        "name": "ContiRoadAttack",
+        "note": "Sport-touring",
+        "url": "https://www.continental-tires.com/products/motorcycle/tires/contiroadattack-4/"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "TKC 70",
+        "url": "https://www.continental-tires.com/products/motorcycle/tires/tkc-70/",
+        "reason": "70/30 asfalt-arazi beyanlı dengeli adventure lastiği"
+      }
+    ],
+    "alternatives": [
+      "metzeler",
+      "michelin",
+      "bridgestone"
+    ],
+    "history": [
+      {
+        "year": 1871,
+        "event": "Continental kuruldu (Continental tarihçe sayfası)."
+      }
+    ],
+    "strongestLine": "Adventure ve arazi lastikleri (TKC)",
+    "categories": [
+      "lastik"
+    ],
+    "slug": "continental",
+    "name": "Continental",
+    "country": "Almanya",
+    "founded": 1871,
+    "website": "https://www.continental-tires.com/products/b2c/motorcycle",
+    "about": [
+      "Continental, 1871'de kurulan Alman teknoloji ve lastik şirketi. Motosiklette TKC arazi ve adventure lastikleri ile ContiRoadAttack, ContiSportAttack gibi yol lastikleri sunuyor.",
+      "TKC ailesi adventure ve arazi lastiklerini kapsıyor; yol lastiklerinde TractionSkin yüzeyle kısa alıştırma süresi öne çıkıyor."
+    ],
+    "strengths": [
+      "Adventure ve arazi (TKC) lastikleri",
+      "Islak zemin odaklı sport-touring lastikleri",
+      "Asfalt/arazi oranını açıkça belirten ürün tanımları"
+    ],
+    "sources": [
+      {
+        "url": "https://www.continental.com/en/company/history/",
+        "type": "manufacturer",
+        "label": "Continental – Tarihçe",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]
