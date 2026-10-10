@@ -74,6 +74,11 @@ for (const r of reviews) if (!ids.has(r.product)) errors.push(`review: ürün yo
 const guideSlugs = new Set(guides.map((g) => g.slug));
 for (const g of guides) for (const r of g.relatedGuides) if (!guideSlugs.has(r)) warn.push(`rehber ${g.slug}: ilgili rehber ${r} yok (gösterilmeyecek)`);
 
+// Eskimiş fiyatlar (60 günden eski kontrol): hata değil, yenileme listesi.
+{
+  const stale = products.filter((p) => p.priceRange && (Date.now() - new Date(p.priceRange.checkedAt + "T12:00:00Z").getTime()) / 86_400_000 > 60);
+  if (stale.length) console.log(`Fiyatı 60 günden eski ${stale.length} ürün (turda yenilenmeli): ${stale.slice(0, 10).map((p) => `${p.brand}/${p.slug}`).join(", ")}${stale.length > 10 ? " …" : ""}`);
+}
 // Motor modelleri ("Motoruma göre"): şemaya uymayan kayıt sitede sessizce düşer, burada hata verir.
 {
   const moto = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "src", "data", "motorcycles.json"), "utf8")) as { models: unknown[] };

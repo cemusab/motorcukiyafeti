@@ -25,6 +25,8 @@ import {
   localFirst,
   getGuide,
   getGuides,
+  isPriceStale,
+  priceAgeDays,
   getProductById,
   getProducts,
   priceLabel,
@@ -443,6 +445,11 @@ export default async function ProductPage({ params }: PageProps<"/[kategori]/[al
             {p.offers.length ? (
               <>
                 <p className="mb-4 text-mute">Bu fiyatlar belirtilen tarihte satıcı sayfasında görülen değerlerdir; canlı fiyat değildir.</p>
+                {isPriceStale(p) && (
+                  <div className="mb-4">
+                    <Notice tone="warn">Bu fiyatlar {priceAgeDays(p)} gün önce kontrol edildi; güncel fiyat değişmiş olabilir. Satıcı sayfasında kontrol et.</Notice>
+                  </div>
+                )}
                 <ul className="divide-y divide-line overflow-hidden rounded-lg border border-line bg-white">
                   {p.offers
                     .slice()

@@ -166,6 +166,14 @@ export function formatTL(n: number) {
   return new Intl.NumberFormat("tr-TR", { maximumFractionDigits: 0 }).format(n) + " TL";
 }
 
+/** Fiyat bu kadar günden eski kontrol edildiyse "eskimiş olabilir" sayılır: bütçe listelerine girmez, sayfada uyarı çıkar. */
+export const PRICE_STALE_DAYS = 60;
+export function priceAgeDays(p: Product) {
+  if (!p.priceRange) return null;
+  return Math.floor((Date.now() - new Date(p.priceRange.checkedAt + "T12:00:00Z").getTime()) / 86_400_000);
+}
+export const isPriceStale = (p: Product) => (priceAgeDays(p) ?? 0) > PRICE_STALE_DAYS;
+
 export function priceLabel(p: Product) {
   if (!p.priceRange) return null;
   const { min, max } = p.priceRange;

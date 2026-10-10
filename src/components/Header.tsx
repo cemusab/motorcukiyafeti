@@ -91,6 +91,10 @@ export function Header() {
             <SearchBox />
           </div>
           <nav aria-label="Hızlı erişim" className="ml-auto flex items-center gap-1 lg:gap-3">
+            <Link href="/kadin" aria-label="Kadın motosiklet kıyafetleri" className={`${iconLink} hidden md:flex`}>
+              <Icon name="user" className="size-6" />
+              <span className="hidden lg:inline">Kadın</span>
+            </Link>
             <Link href="/yeni-baslayanlar" aria-label="Ne almalıyım?" className={`${iconLink} hidden lg:flex`}>
               <Icon name="bike" className="size-6" />
               Ne almalıyım?
@@ -164,6 +168,7 @@ export function Header() {
             </li>
           ))}
           <li className="mx-1 my-2.5 hidden w-px bg-white/25 xl:block" aria-hidden />
+
           <li className="group relative hidden xl:block">
             <Link href="/motosikletime-gore" className="block px-2.5 py-3 text-white group-hover:bg-red-dark xl:px-3">
               Motosikletime Göre

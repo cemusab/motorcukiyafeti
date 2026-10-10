@@ -5,6 +5,7 @@
 import "server-only";
 import { pairIndexable } from "./compare";
 import { memo } from "./memo";
+import { brandCountries } from "./brand-country";
 import { budgetGroups } from "./budget";
 import { LEGAL_SLUGS, legalReady } from "./legal";
 import { CATEGORIES, allSubcategories } from "@/data/categories";
@@ -232,6 +233,7 @@ export const routeManifest = memo((): RouteEntry[] => {
   for (const b of getMotorcycles()) add(`/motor/${b.slug}`, "kategori", b.notes.length >= 2);
   for (const p of getProducts()) add(productPath(p), "urun");
   for (const b of getBrands()) add(`/marka/${b.slug}`, "marka");
+  for (const c of brandCountries()) add(`/markalar/${c.slug}`, "marka");
   for (const g of getGuides()) add(`/rehber/${g.slug}`, "rehber");
   for (const l of activeLists()) add(`/ne-almaliyim/${l.slug}`, "rehber");
   for (const c of comparePairs()) add(`/karsilastir/${c.slug}`, "karsilastirma", pairIndexable(c.items));

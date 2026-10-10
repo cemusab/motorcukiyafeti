@@ -5,7 +5,7 @@
 import "server-only";
 import type { Product } from "@/data/schema";
 import { getCategory } from "@/data/categories";
-import { isLocal, priceLabel, productsIn } from "./data";
+import { isLocal, isPriceStale, priceLabel, productsIn } from "./data";
 import { memo } from "./memo";
 
 type Tier = { min: number; max: number | null };
@@ -84,7 +84,8 @@ export const budgetGroups = memo((): BudgetGroup[] => {
   for (const [cat, tiers] of Object.entries(TIERS)) {
     const c = getCategory(cat);
     if (!c) continue;
-    const priced = productsIn(cat).filter((p) => minPrice(p) != null);
+    // Kontrol tarihi eskimiş fiyatlar bütçe listelerine alınmaz (ör. "10 bin TL altı" listesinde artık 13 bin TL olan ürün kalmasın).
+    const priced = productsIn(cat).filter((p) => minPrice(p) != null && !isPriceStale(p));
     for (const t of tiers) {
       const items = priced
         .filter((p) => minPrice(p)! >= t.min && (t.max == null || minPrice(p)! < t.max))

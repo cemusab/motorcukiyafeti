@@ -6,6 +6,7 @@ import { CATEGORIES } from "@/data/categories";
 import { getBrands, getProducts } from "@/lib/data";
 import { itemListLd, meta } from "@/lib/seo";
 import { norm } from "@/lib/search-core";
+import { brandCountries } from "@/lib/brand-country";
 
 const anchorId = (c: string) => "ulke-" + norm(c).replace(/[^a-z0-9]+/g, "-");
 
@@ -26,6 +27,7 @@ export default function BrandsPage() {
   }
   const countries = [...byCountry.keys()].sort((a, b) => (a === "Türkiye" ? -1 : b === "Türkiye" ? 1 : (byCountry.get(b)!.length - byCountry.get(a)!.length) || a.localeCompare(b, "tr")));
   const catName = (s: string) => CATEGORIES.find((c) => c.slug === s)?.short ?? s;
+  const pages = new Map(brandCountries().map((c) => [c.country, c.slug]));
 
   return (
     <>
@@ -45,7 +47,17 @@ export default function BrandsPage() {
       <Container className="mt-8 space-y-12">
         {countries.map((country) => (
           <section key={country} id={anchorId(country)}>
-            <h2 className="mb-4 font-display text-3xl font-bold">{country === "Türkiye" ? "Yerli markalar (Türkiye)" : `${country} markaları`}</h2>
+            <h2 className="mb-4 font-display text-3xl font-bold">
+              {pages.get(country) ? (
+                <Link href={`/markalar/${pages.get(country)}`} className="hover:text-red">
+                  {country === "Türkiye" ? "Yerli markalar (Türkiye)" : `${country} markaları`} →
+                </Link>
+              ) : country === "Türkiye" ? (
+                "Yerli markalar (Türkiye)"
+              ) : (
+                `${country} markaları`
+              )}
+            </h2>
             <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
               {byCountry.get(country)!.map((b) => (
                 <li key={b.slug}>

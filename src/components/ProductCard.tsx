@@ -3,7 +3,7 @@ import { SafeImage } from "./SafeImage";
 import Link from "next/link";
 import { getCategory } from "@/data/categories";
 import type { Product } from "@/data/schema";
-import { brandName, formatShortDate, getMedia, isLocal, priceLabel, productId, productPath } from "@/lib/data";
+import { brandName, formatShortDate, getMedia, isLocal, isPriceStale, priceLabel, productId, productPath } from "@/lib/data";
 import { CERT_PENDING, productTypeLabel, keyChips } from "@/lib/labels";
 import { Icon } from "./Icon";
 import { CompareButton, FavoriteButton } from "./ProductActions";
@@ -92,6 +92,7 @@ export function ProductCard({ p }: { p: Product }) {
               {price}
               <span className="block font-sans text-[11px] font-normal text-mute sm:text-xs">
                 {p.offers.length} satıcı · {formatShortDate(p.priceRange!.checkedAt)} kontrol
+                {isPriceStale(p) && <span className="block font-semibold text-[#7a3d06]">Fiyat eskimiş olabilir</span>}
               </span>
             </p>
           ) : (
