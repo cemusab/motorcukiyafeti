@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "sixs",
+    "name": "SIXS (SIX2)",
+    "country": "İtalya",
+    "founded": 2009,
+    "website": "https://six2.com/",
+    "about": [
+      "SIXS, 2009'da İtalya'nın Ravenna iline bağlı Bagnara di Romagna'da kurulan teknik içgiyim markası. Bisiklet, motosiklet, kayak ve outdoor için ter atan termal içlikler, balaklavalar ve boyunluklar üretiyor; Türkiye'de SIX2 adıyla DRD Motorbikes tarafından satılıyor.",
+      "Motosiklet tarafında dört mevsim içlikler, rüzgâr kesici (Wind Barrier) seri, bakır elyaflı BlazeFit kış serisi ve kask altı balaklava/boyunluklar öne çıkıyor. Koruyucu ürün değil, ekipmanın altına giyilen konfor katmanları üretiyor."
+    ],
+    "strengths": [
+      "Ter atan teknik içgiyim",
+      "Kask altı balaklava ve boyunluk çeşitliliği",
+      "Mevsime göre ayrılmış seriler"
+    ],
+    "categories": [
+      "termal"
+    ],
+    "families": [],
+    "highlights": [],
+    "alternatives": [
+      "odlo"
+    ],
+    "history": [
+      {
+        "year": 2009,
+        "event": "Bagnara di Romagna'da (İtalya) kuruldu."
+      }
+    ],
+    "strongestLine": "Ter atan termal içlik ve kask altı balaklava",
+    "sources": [
+      {
+        "url": "https://six2.com/pages/about-us",
+        "type": "manufacturer",
+        "label": "SIXS – Hakkımızda",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "slug": "urban-security",
+    "name": "Urban Security",
+    "country": null,
+    "founded": null,
+    "website": "https://www.urbansecurity.info/",
+    "about": [
+      "Urban Security, motosiklet ve scooter için disk, U, zincir ve zemin ankrajı kilitleri üreten bir marka. Üretici, ürünlerini Avrupa'da tasarlayıp ürettiğini ve 1976'dan beri faaliyet gösteren Artago Secure grubunun parçası olduğunu belirtiyor.",
+      "Ürünlerinin önemli bir kısmı Fransız SRA ve İngiliz Sold Secure onaylı; alarmlı disk kilitlerinde yanlış alarmı azaltan uyarı (warning) modülü öne çıkıyor. Türkiye'de DRD Motorbikes tarafından satılıyor."
+    ],
+    "strengths": [
+      "SRA ve Sold Secure onaylı kilitler",
+      "Alarmlı disk kilitlerinde uyarı sistemi",
+      "Disk, U, zincir ve ankraj çeşitliliği"
+    ],
+    "categories": [
+      "aksesuar"
+    ],
+    "families": [],
+    "highlights": [],
+    "alternatives": [
+      "abus",
+      "xena",
+      "oxford"
+    ],
+    "history": [],
+    "strongestLine": "Sertifikalı alarmlı disk kilidi",
+    "sources": [
+      {
+        "url": "https://www.urbansecurity.info/index.php/urban-security-made-in-europe-about-us/",
+        "type": "manufacturer",
+        "label": "Urban Security – Hakkımızda",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]

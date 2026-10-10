@@ -1,0 +1,141 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Sarı/Siyah"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "touring-rain-suit",
+    "brand": "spidi",
+    "name": "Touring Rain Suit",
+    "category": "yagmurluk",
+    "subcategories": [
+      "tek-parca-yagmurluk"
+    ],
+    "summary": "PVC içermeyen iki katlı lamine poliüretan kumaştan, küçük bir çantaya katlanan, yaklaşık 0,5 kg ağırlığında tek parça tulum yağmurluk.",
+    "description": [
+      "Touring Rain Suit, Spidi'nin ekipmanın üstüne giyilen tek parça yağmur tulumu. Üretici kumaşı iki katlı lamine, su ve rüzgâr geçirmez, PVC içermeyen poliüretan kaplı naylon olarak tanımlıyor. Uzun ön fermuar, ayarlanabilir bel kemeri ve kargo cepleri var; kullanılmadığında kendi küçük çantasına katlanıyor ve ortalama ağırlığı 0,5 kg.",
+      "Üretici bu yağmurluk için azami 130 km/s kullanım hızı belirtiyor; otoyolda daha yüksek hızlarda kumaşın dalgalanması ve dikiş zorlanması beklenebilir. Tulum tipi olduğu için bel boşluğundan su almaz ama giyip çıkarmak iki parçalı takıma göre daha zahmetli. Türkiye'de DRD Motorbikes XS–3XL bedenlerle sarı-siyah renkte satıyor."
+    ],
+    "forWho": [
+      "Uzun yolda yanında hafif ve katlanır bir yağmurluk taşımak isteyenler",
+      "Bel boşluğundan su almak istemeyen tur sürücüleri",
+      "Sarı renkle görünürlüğünü artırmak isteyenler"
+    ],
+    "notFor": [
+      "130 km/s üzerinde sürüş yapacaklar: üretici sınırı 130 km/s",
+      "Kurye gibi gün içinde sık sık giyip çıkaracaklar: tulum, iki parçalı takıma göre daha zahmetli"
+    ],
+    "pros": [
+      "Tek parça, bel boşluğundan su almaz",
+      "Çok hafif ve küçük çantaya katlanıyor",
+      "PVC içermeyen lamine kumaş",
+      "Sarı-siyah renk görünürlüğü artırır"
+    ],
+    "cons": [
+      "Azami kullanım hızı 130 km/s",
+      "Giyip çıkarması iki parçalıya göre zor",
+      "Fiyatı basit tulumlara göre yüksek",
+      "Üretici kumaşın PFAS içerdiğini belirtiyor"
+    ],
+    "usage": {
+      "sehir": "Ani yağmur için çantada taşınabilir; kısa mesafede giyip çıkarmak zahmetli olabilir.",
+      "uzunYol": "Asıl kullanım alanı: hafif, katlanır ve tek parça olduğu için tur çantasında iyi durur.",
+      "yagmur": "Tam vücut su geçirmezlik sağlar.",
+      "kurye": "Gün boyu yağmurda kullanılabilir ama sık tak-çıkar için iki parçalı takım daha pratik."
+    },
+    "verdict": "Touring Rain Suit, tur sürücüsünün yanında taşıyacağı hafif ve tek parça bir yağmur tulumu olarak mantıklı. Üreticinin 130 km/s sınırı ve tulumun giyme zahmeti göz önünde tutulmalı; kurye ve sık giyip çıkaracaklar iki parçalı bir takımı tercih etmeli.",
+    "rivals": [
+      "revit/pacific-4-h2o",
+      "alpinestars/hurricane-rain-v2-suit",
+      "macna/hydra-3-0"
+    ],
+    "priceRange": {
+      "min": 10443,
+      "max": 10443,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-touring-rain-suit-yagmurluk-tlum-sari-siyah",
+        "price": 10443,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ],
+        "colors": [
+          "Sarı/Siyah"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Otoyolda kullanılabilir mi?",
+        "a": "Üretici azami kullanım hızını 130 km/s olarak veriyor; bu hızın üzerinde kullanılması önerilmez."
+      },
+      {
+        "q": "Ekipmanın üstüne mi giyilir?",
+        "a": "Evet. Mont ve pantolonun üzerine giyilen bir dış kılıf; bedeni ekipmanınla birlikte düşünerek seç."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/touring-rain-suit-x70",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/touring-rain-suit-x70",
+        "type": "manufacturer",
+        "label": "Spidi – Touring Rain Suit ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-touring-rain-suit-yagmurluk-tlum-sari-siyah",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Touring Rain Suit yağmurluk tulum",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "İki katlı lamine poliüretan kaplı naylon, PVC içermez",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": true,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Uzun ön fermuar, ayarlanabilir bel kemeri",
+      "madeIn": null
+    }
+  }
+]

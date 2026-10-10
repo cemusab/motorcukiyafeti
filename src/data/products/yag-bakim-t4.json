@@ -433,7 +433,7 @@
     ],
     "cons": [
       "API/JASO sertifika numarası yok",
-      "Türkiye'de güncel fiyatlı stok bulamadık",
+      "1 litre fiyatı Motul Türkiye resmi mağazasında 1.200 TL'nin üzerinde; yarı sentetik seçeneklerin yaklaşık iki katı",
       "Diğer yağlarla karıştırılmaması öneriliyor; ara takviye için aynı yağı bulundurmak gerekir"
     ],
     "usage": {
@@ -447,8 +447,25 @@
       "liqui-moly/motorbike-4t-synth-10w-40-street-race",
       "repsol/racing-4t-10w-40"
     ],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 1251.2,
+      "max": 1251.2,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Motul Türkiye Resmi Mağaza",
+        "url": "https://shoptr.motul.com/shop/104118-motul-300v-factory-line-road-10w-40-4t-1l-1549",
+        "price": 1251.2,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
     "faq": [
       {
         "q": "JASO MA2 sertifikası var mı?",
@@ -471,6 +488,12 @@
         "url": "https://azupim01.motul.com/media/motulData/DO/base/300V_4T_Factory_Line_10W-40__tr_TR_motul_20210319.pdf",
         "type": "manufacturer",
         "label": "Motul – 300V 4T Factory Line 10W-40 teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://shoptr.motul.com/shop/104118-motul-300v-factory-line-road-10w-40-4t-1l-1549",
+        "type": "retailer",
+        "label": "Motul Türkiye Resmi Mağaza – ürün sayfası (fiyat)",
         "checkedAt": "2026-10-10"
       }
     ],
@@ -1289,7 +1312,7 @@
     ],
     "cons": [
       "Yalnızca 10W-30 isteyen scooter'lar için",
-      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+      "1 litresi sıradan antifrizlere göre pahalı; ancak hazır karışım olduğu için ek su gerekmiyor"
     ],
     "usage": {
       "sehir": "Dur-kalk ve tam yük altında ısınan scooter motorları için tasarlanmış.",
@@ -1574,7 +1597,7 @@
     ],
     "cons": [
       "Basit mopet kullanımı için gereğinden pahalı olabilir",
-      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+      "1 litresi sıradan antifrizlere göre pahalı; ancak hazır karışım olduğu için ek su gerekmiyor"
     ],
     "usage": {
       "sport": "Yüksek devirli 2 zamanlı sport ve enduro motorları için tasarlanmış.",
@@ -2226,7 +2249,7 @@
     "cons": [
       "Soğuk viskozitesi DOT 5.1 şartını karşılamıyor",
       "Daha düşük performanslı sıvılarla karıştırılması önerilmiyor",
-      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+      "1 litresi sıradan antifrizlere göre pahalı; ancak hazır karışım olduğu için ek su gerekmiyor"
     ],
     "usage": {
       "sport": "Pist ve yoğun fren kullanımında buhar kilidi riskini azaltmak için tasarlanmış.",
@@ -2322,7 +2345,7 @@
     ],
     "cons": [
       "Organik olmayan sıvılarla karıştırılamaz",
-      "Türkiye'de yetkili mağazada güncel fiyat doğrulayamadık"
+      "1 litresi sıradan antifrizlere göre pahalı; ancak hazır karışım olduğu için ek su gerekmiyor"
     ],
     "usage": {
       "sehir": "Dur-kalk trafikte ısınan sıvı soğutmalı motorlar için ısı transferini korumaya yönelik.",
@@ -2331,8 +2354,25 @@
     },
     "verdict": "Motocool Factory Line, sıvı soğutmalı motosikletler için kullanıma hazır, OAT teknolojili ve kaynakları net bir soğutma sıvısı. Mevcut sıvının türünü bilmiyorsanız karıştırmak yerine sistemi boşaltıp tamamen yenilemek en doğrusu.",
     "rivals": [],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 909.2,
+      "max": 909.2,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Motul Türkiye Resmi Mağaza",
+        "url": "https://shoptr.motul.com/shop/111034-motul-motocool-factory-line-35c-1l-5153",
+        "price": 909.2,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
     "faq": [
       {
         "q": "Su ile karıştırmak gerekir mi?",
@@ -2355,6 +2395,12 @@
         "url": "https://azupim01.motul.com/media/motulData/DO/base/motocool_factory_line_-35_en_za_motul_43900_20250911.pdf",
         "type": "manufacturer",
         "label": "Motul – Motocool Factory Line teknik veri sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://shoptr.motul.com/shop/111034-motul-motocool-factory-line-35c-1l-5153",
+        "type": "retailer",
+        "label": "Motul Türkiye Resmi Mağaza – ürün sayfası (fiyat)",
         "checkedAt": "2026-10-10"
       }
     ],
@@ -2426,8 +2472,25 @@
     },
     "verdict": "E2 Moto Wash, motosikletin tamamında güvenle kullanılabilen, doğada çözünebilen ve kolay uygulanan bir genel temizleyici. Durulama gerektirdiği için susuz hızlı temizlik arayanlara değil, düzenli yıkama yapanlara uygun.",
     "rivals": [],
-    "priceRange": null,
-    "offers": [],
+    "priceRange": {
+      "min": 749,
+      "max": 749,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/Moto-Wash-Agir-Yag-ve-Kir-Temizleyici-E2-_49027.html",
+        "price": 749,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
     "faq": [
       {
         "q": "Boyalı ve mat yüzeylerde kullanılır mı?",
@@ -2450,6 +2513,12 @@
         "url": "https://azupim01.motul.com/media/motulData/DO/base/MOTO_WASH_MC_tr_TR_motul_20210319.pdf",
         "type": "manufacturer",
         "label": "Motul – Moto Wash teknik bilgi sayfası (TR)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/Moto-Wash-Agir-Yag-ve-Kir-Temizleyici-E2-_49027.html",
+        "type": "retailer",
+        "label": "Feyizoglu – ürün sayfası (fiyat)",
         "checkedAt": "2026-10-10"
       }
     ],

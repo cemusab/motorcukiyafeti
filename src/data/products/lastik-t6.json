@@ -1,0 +1,1195 @@
+[
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "city-extra",
+    "brand": "michelin",
+    "name": "City Extra",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Michelin'in küçük hacimli şehir motosikletleri, mopedler ve scooterlar için dayanıklılık odaklı lastiği: delinmeye dirençli yapı, uzun ömürlü sırt deseni ve ıslakta tutuş için su lamelleri.",
+    "description": [
+      "City Extra, Michelin'in günlük işe gidiş ve şehir içi kullanım için geliştirdiği dayanıklılık odaklı lastiği. Üretici, City Pro'dan gelen delinmeye dirençli yapının bu modelde daha da geliştirildiğini, sırt deseninin kilometre boyunca dayanacak şekilde tasarlandığını ve tabana kadar inen Water Sipe lamellerin ıslak zeminde su filmini kırarak tutuşa yardım ettiğini söylüyor.",
+      "Ebat listesi 10 inçten 18 inçe uzanıyor; 2.50-17, 2.75-17, 2.75-18, 80/90-17 ve 90/90-18 gibi 100–125 cc kurye ve işe gidiş motosikletlerinde yaygın tel jant ebatları ile 3.00-10, 90/90-10, 110/70-12, 120/70-12 gibi küçük scooter ebatları var. Bazı ebatlar iç lastikli (TT), çoğu iç lastiksiz (TL). Türkiye'de Feyizoglu'nda 2.75-18 ve 90/90-18 ebatları listeleniyor."
+    ],
+    "forWho": [
+      "100–125 cc vitesli şehir motoru veya moped ile her gün işe gidenler",
+      "Tel jantlı küçük motorla paket servisi yapan kuryeler",
+      "Kilometre ömrü ve delinme direncini sportif tutuşa tercih edenler"
+    ],
+    "notFor": [
+      "Sportif sürüş ve yüksek viraj tutuşu arayanlar",
+      "Karlı ve buzlu yolda sürmek zorunda olanlar; kış lastiği gerekir",
+      "Maxi scooter ve 13 inç üstü geniş scooter ebatı arayanlar; ebat listesi küçük ebatlarda yoğun"
+    ],
+    "pros": [
+      "Delinmeye dirençli yapı (üretici beyanı)",
+      "Uzun ömür odaklı sırt deseni",
+      "Islakta tutuş için tabana kadar inen su lamelleri",
+      "Türkiye'de yerleşik mağazada fiyatlı"
+    ],
+    "cons": [
+      "Kuru zeminde sportif tutuş önceliği değil",
+      "Bazı ebatlar iç lastikli (TT); jantına uygun versiyonu seç",
+      "Türkiye'de listelenen ebat sayısı az"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: dur-kalk trafik, kısa ve orta mesafe günlük sürüş.",
+      "yagmur": "Su lamelleri ıslak zemin tutuşu için tasarlanmış; yine de yağmurda hızını düşür.",
+      "kurye": "Tel jantlı 100–125 cc kurye motorları için uygun: dayanıklılık ve delinme direnci öncelikli."
+    },
+    "verdict": "City Extra, küçük hacimli motor veya mopedle her gün yol yapan, lastiğini sık değiştirmek istemeyen sürücü ve kurye için mantıklı bir seçim. Sportif tutuş vaat etmiyor; öne çıkan yanı dayanıklılık ve ıslak zemin güvenliği. Motorunun ebadının TL mi TT mi olduğuna dikkat et.",
+    "rivals": [
+      "mitas/touring-force-sc",
+      "anlas/sc360-allgrip"
+    ],
+    "offers": [
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-2-75-18-city-extra-on-veya-arka-lastik_57357.html",
+        "price": 3900.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "2.75-18"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Feyizoglu",
+        "url": "https://www.feyizoglu.com/michelin-90-90-18-city-extra-on-veya-arka-lastik_57356.html",
+        "price": 4300.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [
+          "90/90-18"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 3900.0,
+      "max": 4300.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 2.75-18, 90/90-18."
+    },
+    "faq": [
+      {
+        "q": "City Extra kurye motoru için uygun mu?",
+        "a": "Evet; 2.50-17, 2.75-17, 2.75-18, 80/90-17 ve 90/90-18 gibi 100–125 cc kurye motorlarında yaygın ebatlar var ve Michelin modeli dayanıklılık ile delinme direnci için konumlandırıyor."
+      },
+      {
+        "q": "İç lastikli mi, iç lastiksiz mi?",
+        "a": "Michelin'in ebat listesinde çoğu ebat iç lastiksiz (TL), bazıları iç lastikli (TT). Jantının tipine uygun versiyonu seçmelisin."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-extra",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-extra",
+        "type": "manufacturer",
+        "label": "Michelin UK – City Extra ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.feyizoglu.com/michelin-2-75-18-city-extra-on-veya-arka-lastik_57357.html",
+        "type": "retailer",
+        "label": "Feyizoglu – Michelin City Extra 2.75-18",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.construction",
+      "specs.season",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "sehir",
+      "construction": null,
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL",
+        "TT"
+      ],
+      "sizesFront": [
+        "3.00-10",
+        "90/90-10",
+        "100/90-10",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "90/90-12",
+        "70/90-14",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "90/80-16",
+        "100/80-16",
+        "120/80-16",
+        "2.25-17",
+        "2.50-17",
+        "2.75-17",
+        "60/90-17",
+        "70/90-17",
+        "80/90-17",
+        "50/100-17",
+        "2.75-18",
+        "90/90-18"
+      ],
+      "sizesRear": [
+        "3.00-10",
+        "90/90-10",
+        "100/90-10",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "90/90-12",
+        "70/90-14",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "90/80-16",
+        "100/80-16",
+        "120/80-16",
+        "2.25-17",
+        "2.50-17",
+        "2.75-17",
+        "60/90-17",
+        "70/90-17",
+        "80/90-17",
+        "100/90-17",
+        "50/100-17",
+        "2.75-18",
+        "90/90-18"
+      ],
+      "compound": null,
+      "features": [
+        "Delinmeye dirençli yapı (City Pro'dan geliştirilmiş, üretici beyanı)",
+        "MICHELIN Water Sipe Technology: tabana kadar inen su lamelleri",
+        "Uzun ömür odaklı sırt deseni"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "city-grip-saver",
+    "brand": "michelin",
+    "name": "City Grip Saver",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Michelin'in elektrikli scooterlar için geliştirdiği düşük yuvarlanma dirençli şehir lastiği: batarya menzilini korumayı hedeflerken silika bileşim ve lamellerle ıslak tutuşu öne çıkarıyor.",
+    "description": [
+      "City Grip Saver, Michelin'in özellikle elektrikli scooterlar için geliştirdiği şehir lastiği. Üretici, çok düşük yuvarlanma direnciyle bataryadan tasarruf etmeyi, bunu yaparken City Grip serisinin bilinen ömrünü ve tutuşunu korumayı hedefliyor. Silika bazlı bileşim ve köpek balığı dişi lameller ıslak ve kaygan zeminde tutuş ve kısa fren mesafesi için kullanılıyor.",
+      "Ebat listesi 10, 12 ve 14 inç jantlarla sınırlı: 90/90-10, 100/90-10, 110/70-12, 120/70-12, 130/70-12, 90/90-12, 100/90-12 ve arka için 150/70-14, ön için 120/80-14. Bu ebatlar küçük elektrikli scooterlar ve 50–125 cc scooterlarda yaygın. Listede 120/80-14 ve 150/70-14 ebatları M+S işaretli. Türkiye'de yetkili mağaza fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Elektrikli scooterla şehir içinde menzil kaygısı yaşayanlar",
+      "10–12 inç jantlı küçük scooter sahipleri",
+      "Yağmurlu havada da her gün sürüş yapanlar"
+    ],
+    "notFor": [
+      "13 inç ve üstü jantlı büyük scooter sahipleri; ebat listesi sınırlı",
+      "Karlı ve buzlu yolda sürmek zorunda olanlar",
+      "Yüksek tempolu sportif scooter sürüşü yapanlar"
+    ],
+    "pros": [
+      "Düşük yuvarlanma direnci ile batarya tasarrufu hedefi",
+      "Silika bileşim ve lamellerle ıslak tutuş",
+      "Hem iç lastikli hem iç lastiksiz kullanıma uygun ebatlar (TL/TT)"
+    ],
+    "cons": [
+      "Ebat listesi 10–14 inçle sınırlı",
+      "Türkiye'de yetkili mağaza fiyatı doğrulanamadı",
+      "Benzinli scooterda yakıt tasarrufu etkisi için üretici verisi yok"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: kısa mesafe, dur-kalk şehir trafiği.",
+      "yagmur": "Silika bileşim ve lameller ıslak zemin için seçilmiş.",
+      "kurye": "Elektrikli scooterla çalışan kurye için menzil avantajı sağlayabilir; ebadın listede olup olmadığına bak."
+    },
+    "verdict": "City Grip Saver, elektrikli scooterını şehirde kullanan ve her şarjda biraz daha fazla menzil isteyen sürücü için anlamlı bir seçenek. Islak tutuşta City Grip çizgisini koruyor. Ebat listesi dar, Türkiye fiyatı da doğrulanmadı; önce kendi ebadını kontrol et.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "pirelli/angel-scooter",
+      "anlas/sc360-allgrip"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "faq": [
+      {
+        "q": "Benzinli scooterda kullanılabilir mi?",
+        "a": "Evet, ebat uyuyorsa kullanılabilir; Michelin modeli elektrikli scooterlar için optimize ettiğini belirtiyor, benzinli scooter için ayrı bir tasarruf verisi vermiyor."
+      },
+      {
+        "q": "City Grip 2'den farkı ne?",
+        "a": "City Grip Saver düşük yuvarlanma direncine, yani batarya tasarrufuna odaklanıyor; ebat listesi daha dar ve küçük jantlarda yoğun."
+      }
+    ],
+    "manufacturerUrl": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-saver",
+    "sources": [
+      {
+        "url": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-saver",
+        "type": "manufacturer",
+        "label": "Michelin UK – City Grip Saver ürün sayfası ve ebat listesi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.construction",
+      "specs.season",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": null,
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL/TT",
+        "M+S (120/80-14, 150/70-14)"
+      ],
+      "sizesFront": [
+        "90/90-10",
+        "100/90-10",
+        "110/70-12",
+        "120/70-12",
+        "90/90-12",
+        "100/90-12",
+        "120/80-14"
+      ],
+      "sizesRear": [
+        "90/90-10",
+        "100/90-10",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "90/90-12",
+        "100/90-12",
+        "150/70-14"
+      ],
+      "compound": "Silika bazlı bileşim",
+      "features": [
+        "Çok düşük yuvarlanma direnci (üretici beyanı)",
+        "Köpek balığı dişi lameller",
+        "Elektrikli scooterlar için geliştirildi"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "touring-force-sc",
+    "brand": "mitas",
+    "name": "Touring Force-SC",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Mitas'ın şehir içi scooter lastiği: her tür asfaltta ve her havada günlük kullanım, uzun ömür için özel sırt bileşimi; 10–16 inç arası çok geniş ebat listesi.",
+    "description": [
+      "Touring Force-SC, Çek lastik markası Mitas'ın şehir içi işe gidiş için geliştirdiği scooter lastiği. Üretici, lastiğin her tür asfalt yolda ve her hava koşulunda kullanılmak üzere tasarlandığını, özel sırt bileşiminin uzun ömür ve tutuş sağladığını, sportif ve klasik tüm scooter tipleri için uygun olduğunu belirtiyor. Mitas'ın ürün sayfası lastiğin buz ve kar üzerinde önerilmediğini de not ediyor.",
+      "2026 kataloğunda 10 inçten 16 inçe uzanan çok sayıda ebat var: ön için 110/70-13, 120/70-14, 120/70-15, 120/70-16; arka için 130/70-13, 140/70-14, 150/70-13, 150/70-14, 140/60-13 gibi PCX, NMAX, Forza, XMAX ve benzeri scooterlarda yaygın ebatlar. Piaggio Beverly 400 ve Peugeot Pulsion 125'te orijinal ekipman olarak kullanılıyor. Mitas aynı ailede daha yeni Touring Force-SC 2'yi de sunuyor. Türkiye'de Enduromarket'te çok sayıda ebat fiyatlı listeleniyor."
+    ],
+    "forWho": [
+      "Scooterla her gün şehir içinde yol yapan sürücüler",
+      "Bütçe ile ömrü dengelemek isteyen kuryeler",
+      "Geniş ebat yelpazesinde fiyatlı bir lastik arayan scooter sahipleri"
+    ],
+    "notFor": [
+      "Karlı ve buzlu yolda sürmek zorunda olanlar; üretici buz ve karda önermiyor",
+      "Sportif scooter sürüşünde en yüksek tutuşu arayanlar"
+    ],
+    "pros": [
+      "10–16 inç arası çok geniş ebat listesi",
+      "Uzun ömür odaklı özel sırt bileşimi (üretici beyanı)",
+      "Avrupa'da orijinal ekipman kullanımı",
+      "Türkiye'de yerleşik mağazada çok sayıda ebat fiyatlı"
+    ],
+    "cons": [
+      "Buz ve kar için önerilmiyor",
+      "Aynı ailede daha yeni Touring Force-SC 2 var; mağazada hangisini aldığına dikkat et",
+      "Ağırlık ve bileşim ayrıntısı üretici tarafından açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: her gün şehir içi ve banliyö sürüşü.",
+      "yagmur": "Üretici her hava koşulunda kullanım için tasarladığını söylüyor; yağmurda dengeli bir tercih.",
+      "kis": "Soğuk havada kullanılabilir ama buz ve kar için önerilmiyor; karlı yolda kış lastiği gerekir.",
+      "kurye": "Yaygın kurye scooter ebatlarının çoğu var ve fiyatı erişilebilir; yüksek km yapan kurye için mantıklı."
+    },
+    "verdict": "Touring Force-SC, scooterını yıl boyu şehirde kullanan ve uygun fiyatla uzun ömür arayan sürücü ile kurye için sağlam bir seçenek. Ebat yelpazesi neredeyse her yaygın scooterı kapsıyor ve Türkiye'de fiyatı açık. Karlı günlerde sürmen gerekiyorsa M+S kış serisine bak.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "pirelli/angel-scooter",
+      "anlas/sc-allride"
+    ],
+    "offers": [
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/11070-13-mitas-touring-force-sc-on-lastik-12798",
+        "price": 3548.69,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/13070-13-mitas-touring-force-sc-63s-arka-lastik-17490",
+        "price": 4263.84,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Enduromarket",
+        "url": "https://enduromarket.com/14070-14-mitas-touring-force-sc-68p-arka-lastik-13029",
+        "price": 5211.36,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "140/70-14"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 3548.69,
+      "max": 5211.36,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 110/70-13, 130/70-13, 140/70-14."
+    },
+    "faq": [
+      {
+        "q": "Touring Force-SC ile Touring Force-SC 2 arasındaki fark ne?",
+        "a": "Mitas, SC 2'yi SC'nin geliştirilmiş hali olarak tanıtıyor; daha düşük gürültü ve yuvarlanma direnci vaat ediyor. Bu sayfadaki bilgiler ve fiyatlar Touring Force-SC içindir."
+      },
+      {
+        "q": "Kışın kullanılabilir mi?",
+        "a": "Mitas her hava koşulu için tasarladığını söylüyor ama buz ve kar üzerinde önermiyor. Karlı yollar için aynı markanın MC 32 Win Scoot gibi M+S kış lastiklerine bak."
+      }
+    ],
+    "manufacturerUrl": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-commuting-tires/touring-force-sc",
+    "sources": [
+      {
+        "url": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-commuting-tires/touring-force-sc",
+        "type": "manufacturer",
+        "label": "Mitas – Touring Force-SC ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://catalogue.mitas-moto.com/76/",
+        "type": "manufacturer",
+        "label": "Mitas Moto 2026 kataloğu – Touring Force-SC ebat tablosu (s. 76–77)",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://enduromarket.com/11070-13-mitas-touring-force-sc-on-lastik-12798",
+        "type": "retailer",
+        "label": "Enduromarket – Mitas Touring Force-SC 110/70-13",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.construction",
+      "specs.season",
+      "specs.compound",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": null,
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL"
+      ],
+      "sizesFront": [
+        "3.50-10",
+        "120/70-10",
+        "100/80-10",
+        "90/90-10",
+        "100/90-10",
+        "120/90-10",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "110/80-12",
+        "110/90-12",
+        "130/60-13",
+        "110/70-13",
+        "120/70-13",
+        "130/70-13",
+        "110/90-13",
+        "100/70-14",
+        "120/70-14",
+        "80/80-14",
+        "110/80-14",
+        "120/80-14",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "120/70-15",
+        "110/70-16",
+        "120/70-16",
+        "80/80-16",
+        "90/80-16",
+        "100/80-16",
+        "80/90-16"
+      ],
+      "sizesRear": [
+        "3.50-10",
+        "120/70-10",
+        "130/70-10",
+        "100/80-10",
+        "90/90-10",
+        "100/90-10",
+        "120/90-10",
+        "130/90-10",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "140/70-12",
+        "110/80-12",
+        "130/60-13",
+        "140/60-13",
+        "110/70-13",
+        "130/70-13",
+        "150/70-13",
+        "140/60-14",
+        "100/70-14",
+        "120/70-14",
+        "140/70-14",
+        "150/70-14",
+        "80/80-14",
+        "110/80-14",
+        "120/80-14",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "140/70-15",
+        "130/80-15",
+        "110/70-16",
+        "130/70 R16",
+        "130/70-16",
+        "140/70-16",
+        "80/80-16",
+        "90/80-16",
+        "100/80-16",
+        "120/80-16",
+        "80/90-16"
+      ],
+      "compound": null,
+      "features": [
+        "Her tür asfaltta ve her havada şehir içi kullanım için tasarlandı (üretici beyanı)",
+        "Uzun ömür odaklı özel sırt bileşimi",
+        "Piaggio Beverly 400 ve Peugeot Pulsion 125 orijinal ekipmanı"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "mc-32-win-scoot",
+    "brand": "mitas",
+    "name": "MC 32 Win Scoot",
+    "subcategories": [
+      "scooter-lastik",
+      "kis-lastik"
+    ],
+    "summary": "Mitas'ın scooter kış lastiği: agresif M+S desen, lameller ve düşük sıcaklık için kış bileşimi; karlı zeminde çekiş için tasarlandı, çivi takılabilir.",
+    "description": [
+      "MC 32 Win Scoot, Mitas'ın kış koşullarında scooter kullanımı için geliştirdiği gerçek bir kış lastiği. Üretici; agresif M+S sırt deseni, lameller ve yüksek performanslı kış bileşimiyle düşük sıcaklıkta ve karda daha iyi çekiş ve tutuş hedeflediğini, lastiğin hem asfalt hem bozuk yolda zorlu hava koşulları için tasarlandığını belirtiyor. Kış çivisi takılmaya uygun olduğu da katalogda yazıyor.",
+      "Ebat listesi kısa: 3.50-10, 120/70-12, 130/70-12, 130/60-13, 80/80-14, 110/80-14 ve 90/80-16; hepsi ön veya arkada kullanılabiliyor. Yani 10–13 inç jantlı küçük ve orta scooterlar için uygun; 14–15 inç geniş arka ebatlı maxi scooterlar için ebat yok. Türkiye'de yetkili mağaza fiyatını doğrulayamadık."
+    ],
+    "forWho": [
+      "Kışın karlı ve buzlu yolda scooter kullanmak zorunda olanlar",
+      "Soğuk iklimde yıl boyu çalışan scooter kuryeleri",
+      "10–13 inç jantlı küçük ve orta scooter sahipleri"
+    ],
+    "notFor": [
+      "Maxi scooter sahipleri; 14–15 inç geniş arka ebatı yok",
+      "Yaz aylarında da aynı lastikle sürmek isteyenler; kış bileşimi sıcakta daha hızlı aşınabilir",
+      "Kışın yalnızca kuru asfaltta sürenler; her mevsim scooter lastiği yeterli olabilir"
+    ],
+    "pros": [
+      "Gerçek kış lastiği: M+S desen, lameller ve kış bileşimi",
+      "Karda çekiş için tasarlandı (üretici beyanı)",
+      "Kış çivisi takılabilir"
+    ],
+    "cons": [
+      "Ebat listesi kısa",
+      "Türkiye'de yetkili mağaza fiyatı doğrulanamadı",
+      "Sezonluk lastik; yazın değiştirmek gerekir"
+    ],
+    "usage": {
+      "sehir": "Kış aylarında şehir içi günlük kullanım için.",
+      "kis": "Ana kullanım alanı: düşük sıcaklık, kar ve buzlanma riski olan yollar.",
+      "yagmur": "Lameller ve kış bileşimi soğuk ve ıslak zeminde yardımcı olur.",
+      "kurye": "Karlı iklimde çalışan scooter kuryesi için güçlü seçenek; ebadının listede olduğundan emin ol."
+    },
+    "verdict": "MC 32 Win Scoot, kışın karlı yolda scooter kullanmak zorunda olan sürücü ve kurye için az bulunan gerçek bir kış lastiği. Ebat listesi küçük ve orta scooterlarla sınırlı, Türkiye fiyatı da doğrulanmadı. Yalnızca soğuk ama kuru yollarda sürüyorsan her mevsim bir scooter lastiği daha pratik olabilir.",
+    "rivals": [
+      "anlas/winter-grip-2",
+      "anlas/sc-allride",
+      "michelin/city-grip-2"
+    ],
+    "offers": [],
+    "priceRange": null,
+    "faq": [
+      {
+        "q": "MC 32 Win Scoot'a çivi takılabilir mi?",
+        "a": "Mitas kataloğu lastiğin kış çivisi takılmasına uygun olduğunu belirtiyor. Çivili lastiğin yolda kullanımına ilişkin yerel kurallara ayrıca bakmalısın."
+      },
+      {
+        "q": "PCX veya NMAX'ta kullanılabilir mi?",
+        "a": "Bu modellerin arka ebatları (ör. 130/70-13, 140/70-14) listede yok; ön ve arka ebatın birlikte listede olup olmadığını kontrol et."
+      }
+    ],
+    "manufacturerUrl": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-winter-tires/mc-32-win-scoot",
+    "sources": [
+      {
+        "url": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-winter-tires/mc-32-win-scoot",
+        "type": "manufacturer",
+        "label": "Mitas – MC 32 Win Scoot ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://catalogue.mitas-moto.com/81/",
+        "type": "manufacturer",
+        "label": "Mitas Moto 2026 kataloğu – MC 32 Win Scoot ebat tablosu (s. 81)",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "unverified": [
+      "specs.construction",
+      "specs.compound",
+      "specs.madeIn",
+      "priceRange"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": null,
+      "onOffRoad": null,
+      "season": "kis",
+      "markings": [
+        "M+S",
+        "TL",
+        "TL/TT"
+      ],
+      "sizesFront": [
+        "3.50-10",
+        "120/70-12",
+        "130/70-12",
+        "130/60-13",
+        "80/80-14",
+        "110/80-14",
+        "90/80-16"
+      ],
+      "sizesRear": [
+        "3.50-10",
+        "120/70-12",
+        "130/70-12",
+        "130/60-13",
+        "80/80-14",
+        "110/80-14",
+        "90/80-16"
+      ],
+      "compound": null,
+      "features": [
+        "Agresif M+S sırt deseni ve lameller",
+        "Düşük sıcaklık için kış bileşimi",
+        "Kış çivisi takılmaya uygun (üretici beyanı)"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "sc-allride",
+    "brand": "anlas",
+    "name": "SC Allride",
+    "manufacturerUrl": "https://www.anlas.com/tr/sc-allride",
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc-allride",
+        "price": 3690.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc-allride",
+        "price": 4240.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc-allride",
+        "price": 4940.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "140/70-14"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 3690.0,
+      "max": 4940.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 110/70-13, 130/70-13, 140/70-14. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    },
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/sc-allride",
+        "type": "manufacturer",
+        "label": "Anlas – SC Allride ürün sayfası, ebat ve liste fiyatı tablosu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "subcategories": [
+      "scooter-lastik",
+      "kis-lastik"
+    ],
+    "summary": "Anlas'ın her koşul için geliştirdiği yerli scooter lastiği: M+S işaretli, ıslak zeminde güvenlik ve su tahliyesi odaklı desen; PCX, NMAX, Forza ve XMAX gibi 13–15 inç scooter ebatlarında.",
+    "description": [
+      "SC Allride, Anlas'ın Türkiye'de ürettiği ve \"her koşulda\" kullanım için konumladığı scooter lastiği. Üretici, kuru zemin performansından ödün vermeden ıslak zeminde güvenliği artırmayı, yenilikçi desenle su tahliyesini ve kontrolü iyileştirmeyi, geliştirilmiş karkas yapısıyla konforu hedeflediğini söylüyor. Tüm ebatlar M+S işaretli ve iç lastiksiz (TL); bazı ebatlar güçlendirilmiş (REINF).",
+      "Ebat listesi Türkiye'de en çok satılan scooterlara odaklı: ön için 110/70-13, 110/70-14, 120/70-14, 120/70-15; arka için 130/70-13, 150/70-13, 140/70-14. Bu set PCX, NMAX, Forza, XMAX ve benzeri 125–300 cc scooterların çoğunu kapsıyor. Anlas resmi sitesinde ebat bazında liste fiyatı yayımlıyor."
+    ],
+    "forWho": [
+      "Scooterla yıl boyu her havada çalışan kuryeler",
+      "PCX, NMAX, Forza, XMAX gibi 13–15 inç scooter sahipleri",
+      "Yerli üretim ve açık liste fiyatı isteyenler"
+    ],
+    "notFor": [
+      "Karlı ve buzlu yolda düzenli sürmek zorunda olanlar; Anlas'ın kış serisi Winter Grip 2 daha uygun",
+      "10–12 inç jantlı küçük scooter sahipleri; bu ebatlar listede yok"
+    ],
+    "pros": [
+      "Tüm ebatlar M+S işaretli",
+      "Islak zeminde güvenlik ve su tahliyesi odaklı desen (üretici beyanı)",
+      "Türkiye'de yaygın scooter ebatlarına odaklı liste",
+      "Resmi sitede ebat bazında liste fiyatı"
+    ],
+    "cons": [
+      "Ebat listesi kısa; 10–12 inç yok",
+      "Kış serisi değil; karda kış lastiği kadar etkili olmaz",
+      "Bileşim ve ağırlık ayrıntısı açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: yoğun şehir trafiği, ıslak asfalt ve rögar kapakları.",
+      "yagmur": "Desen ve bileşim ıslak zemin güvenliği için tasarlanmış.",
+      "kis": "M+S işaretli; soğuk ve ıslak günlerde avantajlı ama karlı ve buzlu yolda kış lastiğinin yerini tutmaz.",
+      "kurye": "Yıl boyu çalışan scooter kuryesi için güçlü seçenek; en yaygın kurye ebatları ve yerli fiyat avantajı var."
+    },
+    "verdict": "SC Allride, Türkiye'de yaygın 13–15 inç scooterla yıl boyu çalışan kurye ve günlük sürücü için yerli, M+S işaretli ve fiyatı açık bir seçenek. Islak zeminde güvenlik odaklı. Kar ve buz için Anlas'ın kış serisine, 10–12 inç jant için başka bir modele bakmalısın.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "mitas/touring-force-sc",
+      "pirelli/angel-scooter"
+    ],
+    "faq": [
+      {
+        "q": "SC Allride kış lastiği mi?",
+        "a": "Hayır, Anlas onu her koşul lastiği olarak tanımlıyor; tüm ebatlar M+S işaretli. Karlı ve buzlu yollar için Anlas'ın Winter Grip 2 kış serisi daha uygun."
+      },
+      {
+        "q": "Hangi scooterlara uyar?",
+        "a": "Ön 110/70-13, 110/70-14, 120/70-14, 120/70-15 ve arka 130/70-13, 150/70-13, 140/70-14 ebatları var; PCX, NMAX, Forza ve XMAX gibi scooterların çoğunu kapsıyor. Kendi ebadını ruhsat veya kılavuzdan doğrula."
+      }
+    ],
+    "unverified": [
+      "specs.construction",
+      "specs.season",
+      "specs.compound",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": null,
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "M+S",
+        "TL",
+        "REINF (bazı ebatlar)"
+      ],
+      "sizesFront": [
+        "110/70-13",
+        "110/70-14",
+        "120/70-14",
+        "120/70-15"
+      ],
+      "sizesRear": [
+        "130/70-13",
+        "150/70-13",
+        "110/70-14",
+        "120/70-14",
+        "140/70-14"
+      ],
+      "compound": null,
+      "features": [
+        "Islak zeminde güvenlik odaklı desen ve su tahliyesi",
+        "Konfor için geliştirilmiş karkas yapısı",
+        "Yerli üretim"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "sc360-allgrip",
+    "brand": "anlas",
+    "name": "SC360 AllGrip",
+    "manufacturerUrl": "https://www.anlas.com/tr/sc360-allgrip",
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc360-allgrip",
+        "price": 1534.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "3.50-10"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc360-allgrip",
+        "price": 2223.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70-12"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc360-allgrip",
+        "price": 3540.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/sc360-allgrip",
+        "price": 4060.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 1534.0,
+      "max": 4060.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 3.50-10, 120/70-12, 110/70-13, 130/70-13. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    },
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/sc360-allgrip",
+        "type": "manufacturer",
+        "label": "Anlas – SC360 AllGrip ürün sayfası, ebat ve liste fiyatı tablosu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Anlas'ın küçük ve orta scooterlar için yerli şehir lastiği: değişken yol şartları için desen, uzun ömürlü sırt hamuru; 10–14 inç arası geniş ebat listesi ve uygun liste fiyatı.",
+    "description": [
+      "SC360 AllGrip, Anlas'ın ıslak ve kuru tüm yol şartlarında güven için tasarladığı scooter lastiği. Üretici; değişken yol şartlarında güvenli performans için özel desen, yüksek yol tutuşu ve uzun ömre sahip sırt hamuru, şehir içi konfor ve yüksek stabilite sağlayan karkas yapısını öne çıkarıyor.",
+      "Ebat listesi 10 inçten 14 inçe uzanıyor: 3.50-10, 90/90-10, 120/70-12, 130/70-12, 110/70-13, 130/70-13, 80/90-14, 90/90-14, 100/90-14 gibi 50–125 cc scooterlar ile Activa ve Dio tipi küçük scooterlarda yaygın ebatlar var. Tüm ebatlar iç lastiksiz (TL), çoğu güçlendirilmiş (REINF). Anlas'ın resmi sitesindeki liste fiyatları ebada göre değişiyor ve küçük ebatlarda oldukça uygun."
+    ],
+    "forWho": [
+      "50–125 cc scooterla şehir içinde günlük ulaşım yapanlar",
+      "Küçük scooterla paket servisi yapan kuryeler",
+      "Uygun fiyatlı yerli scooter lastiği arayanlar"
+    ],
+    "notFor": [
+      "Maxi scooter sahipleri; 14 inç üstü ve geniş arka ebatlar yok",
+      "Karlı ve buzlu yolda sürmek zorunda olanlar",
+      "Sportif scooter sürüşünde en yüksek tutuşu arayanlar"
+    ],
+    "pros": [
+      "10–14 inç arası geniş küçük scooter ebat listesi",
+      "Uzun ömür odaklı sırt hamuru (üretici beyanı)",
+      "Resmi sitede açık ve uygun liste fiyatı",
+      "Çoğu ebat güçlendirilmiş (REINF)"
+    ],
+    "cons": [
+      "M+S işaretli değil; kış için uygun değil",
+      "Maxi scooter ebatları yok",
+      "Bileşim ve ağırlık ayrıntısı açıklanmıyor"
+    ],
+    "usage": {
+      "sehir": "Ana kullanım alanı: kısa mesafe, dur-kalk şehir trafiği.",
+      "yagmur": "Üretici ıslak ve kuru zeminde güven için tasarladığını söylüyor.",
+      "kurye": "Küçük scooterla çalışan kurye için ekonomik ve uzun ömür odaklı seçenek."
+    },
+    "verdict": "SC360 AllGrip, küçük veya orta boy scooterını şehirde kullanan, uygun fiyatla güvenli ve uzun ömürlü lastik isteyen sürücü ve kurye için mantıklı bir yerli seçenek. Maxi scooter ya da kış kullanımı için değil; o durumda SC Allride veya Winter Grip 2'ye bak.",
+    "rivals": [
+      "michelin/city-grip-2",
+      "mitas/touring-force-sc",
+      "michelin/city-grip-saver"
+    ],
+    "faq": [
+      {
+        "q": "SC360 AllGrip kışın kullanılabilir mi?",
+        "a": "Ebatları M+S işaretli değil; Anlas onu ıslak ve kuru yol için tanımlıyor. Kış koşulları için Anlas'ın Winter Grip 2 serisi daha uygun."
+      },
+      {
+        "q": "Fiyatlar nereden?",
+        "a": "Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatları; bayide farklı olabilir."
+      }
+    ],
+    "unverified": [
+      "specs.construction",
+      "specs.season",
+      "specs.compound",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": null,
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL",
+        "REINF (bazı ebatlar)"
+      ],
+      "sizesFront": [
+        "3.50-10",
+        "90/90-10",
+        "100/90-10",
+        "120/70-11",
+        "90/90-12",
+        "110/70-12",
+        "120/70-12",
+        "110/70-13",
+        "130/60-13",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14"
+      ],
+      "sizesRear": [
+        "3.50-10",
+        "90/90-10",
+        "100/90-10",
+        "120/70-10",
+        "120/70-11",
+        "90/90-12",
+        "110/70-12",
+        "120/70-12",
+        "130/70-12",
+        "110/70-13",
+        "130/60-13",
+        "130/70-13",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14"
+      ],
+      "compound": null,
+      "features": [
+        "Değişken yol şartları için özel desen",
+        "Uzun ömürlü sırt hamuru",
+        "Şehir içi konfor ve stabilite için karkas yapısı",
+        "Yerli üretim"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "category": "lastik",
+    "status": "active",
+    "successor": null,
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "sizes": [],
+    "colors": [],
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "slug": "tournee-2",
+    "brand": "anlas",
+    "name": "Tournée 2",
+    "manufacturerUrl": "https://www.anlas.com/tr/tournee-2",
+    "offers": [
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/tournee-2",
+        "price": 3480.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "110/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/tournee-2",
+        "price": 3980.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "130/70-13"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/tournee-2",
+        "price": 7290.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "120/70 R15"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "seller": "Anlas (resmi liste fiyatı)",
+        "url": "https://www.anlas.com/tr/tournee-2",
+        "price": 9380.0,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": null,
+        "sizes": [
+          "160/60 R15"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 3480.0,
+      "max": 9380.0,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Fiyat ebada göre değişir; örnek ebat: 110/70-13, 130/70-13, 120/70 R15, 160/60 R15. Fiyatlar Anlas'ın resmi sitesindeki ebat tablosunda yazan liste fiyatlarıdır; bayide farklı olabilir."
+    },
+    "sources": [
+      {
+        "url": "https://www.anlas.com/tr/tournee-2",
+        "type": "manufacturer",
+        "label": "Anlas – Tournée 2 ürün sayfası, ebat ve liste fiyatı tablosu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "subcategories": [
+      "scooter-lastik"
+    ],
+    "summary": "Anlas'ın scooter ve maxi scooterlar için sportif şehir lastiği: ıslak zemin için özel sırt hamuru, V kanallı desen; 13–15 inç ve TMAX tipi radyal ebatlar dahil.",
+    "description": [
+      "Tournée 2, Anlas'ın ıslak zemin performansı ve viraj hakimiyeti odaklı scooter lastiği. Üretici; ıslak zeminde sürüş güvenliği için özel sırt hamuru, V yapılı kanallar ve sportif desenle artırılmış su tahliyesi, kısa fren mesafesi ve maxi scooterlara özel profil ve karkas yapısıyla daha hassas gidon hissi vaat ediyor.",
+      "Ebat listesi 13–15 inç scooterlara ve maxi scooterlara odaklı: 110/70-13 ön ve 130/70-13 arka (PCX, NMAX tipi), 120/70-14 ve 140/70-14, 120/70-15 gibi bias ebatların yanında 120/70 R15 ön ve 160/60 R15 arka gibi maxi scooter radyal ebatları da var. Anlas resmi sitesinde ebat bazında liste fiyatı yayımlıyor; radyal maxi scooter ebatları belirgin şekilde daha pahalı."
+    ],
+    "forWho": [
+      "Maxi scooterla şehir içi ve şehirlerarası yol yapanlar",
+      "Scooterında daha sportif yol tutuşu ve hassas gidon hissi isteyenler",
+      "13–15 inç scooterla yağmurda da sık süren günlük kullanıcılar"
+    ],
+    "notFor": [
+      "Karlı ve buzlu yolda sürmek zorunda olanlar; M+S işaretli değil",
+      "10–12 inç küçük scooter sahipleri; bu ebatlar yok",
+      "Önceliği yalnızca en uzun kilometre ömrü olan kuryeler; Anlas bu modeli sportif konumluyor"
+    ],
+    "pros": [
+      "Islak zemin için özel sırt hamuru ve V kanallı desen (üretici beyanı)",
+      "Maxi scooterlara özel profil ve karkas",
+      "Radyal maxi scooter ebatları dahil geniş liste",
+      "Resmi sitede ebat bazında liste fiyatı"
+    ],
+    "cons": [
+      "M+S işaretli değil; kış için uygun değil",
+      "Radyal maxi scooter ebatları pahalı",
+      "Kilometre ömrü için üretici verisi yok"
+    ],
+    "usage": {
+      "sehir": "Şehir içi günlük kullanım ve dur-kalk trafik.",
+      "uzunYol": "Maxi scooterla şehirlerarası yolda konfor ve stabilite hedefleniyor.",
+      "yagmur": "Özel sırt hamuru ve V kanallar ıslak zemin için tasarlanmış.",
+      "kurye": "Uygun ebatlarda kurye kullanabilir; ancak model sportif konumlu, kilometre önceliği olan kurye için SC Allride daha mantıklı olabilir."
+    },
+    "verdict": "Tournée 2, scooter veya maxi scooterında daha sportif yol tutuşu ve yağmurda güven arayan sürücü için güçlü bir yerli seçenek; radyal maxi scooter ebatları da var. Kış için uygun değil. Yıl boyu yüksek km yapan kurye için M+S işaretli SC Allride daha uygun olabilir.",
+    "rivals": [
+      "pirelli/angel-scooter",
+      "michelin/city-grip-2",
+      "anlas/sc-allride"
+    ],
+    "faq": [
+      {
+        "q": "Tournée 2 maxi scooterlara uygun mu?",
+        "a": "Evet; Anlas profil ve karkas yapısını maxi scooterlara özel tasarladığını söylüyor ve 120/70 R15 ön, 160/60 R15 arka gibi radyal ebatlar listede var."
+      },
+      {
+        "q": "Tournée 2 ile SC Allride arasındaki fark ne?",
+        "a": "Tournée 2 ıslak zemin ve viraj performansı odaklı sportif bir scooter lastiği; SC Allride ise M+S işaretli, her koşul kullanımı için konumlanmış. Kışın da sürüyorsan SC Allride daha uygun."
+      }
+    ],
+    "unverified": [
+      "specs.season",
+      "specs.compound",
+      "specs.madeIn"
+    ],
+    "specs": {
+      "usage": "scooter",
+      "construction": "karma",
+      "onOffRoad": null,
+      "season": null,
+      "markings": [
+        "TL",
+        "REINF (bazı ebatlar)"
+      ],
+      "sizesFront": [
+        "110/70-13",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "110/70-14",
+        "120/70-14",
+        "120/70 R14",
+        "120/70-15",
+        "120/70 R15"
+      ],
+      "sizesRear": [
+        "130/70-13",
+        "140/60-13",
+        "150/70-13",
+        "80/90-14",
+        "90/90-14",
+        "100/90-14",
+        "110/70-14",
+        "120/70-14",
+        "140/70-14",
+        "160/60 R14",
+        "160/60 R15"
+      ],
+      "compound": null,
+      "features": [
+        "V yapılı kanallar ve sportif desenle su tahliyesi",
+        "Maxi scooterlara özel profil ve karkas yapısı",
+        "Bias ve radyal (R) ebatlar",
+        "Yerli üretim"
+      ],
+      "madeIn": null
+    }
+  }
+]

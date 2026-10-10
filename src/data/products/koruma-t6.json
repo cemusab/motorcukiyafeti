@@ -1,0 +1,468 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [],
+    "unverified": [
+      "specs.ceStandard",
+      "specs.ceClass",
+      "specs.material",
+      "specs.madeIn",
+      "sizes",
+      "sizeChart"
+    ],
+    "slug": "body-armour",
+    "brand": "scudo",
+    "name": "Body Armour Tam Gövde Koruma",
+    "category": "koruma",
+    "subcategories": [
+      "gogus-koruma",
+      "sirt-koruma",
+      "koruyucu-icgiyim"
+    ],
+    "summary": "Göğüs, tam sırt, omuz, dirsek ve ön kolu sert panellerle koruyan, file gövdeli, cırtlı bel destekli yerli tam gövde koruma (body armour).",
+    "description": [
+      "Body Armour, Scudo'nun enduro, cross, adventure ve şehir kullanımı için sunduğu tam gövde koruma ceketi. Üretici göğüs, tam sırt, omuz, dirsek ve ön kol bölgelerinde darbe emici sert dış panel, nefes alan file gövde, tam boy ön fermuar, ayarlanabilir omuz ve kol kayışları ile geniş cırtlı bel desteği olduğunu belirtiyor. Mont altında ya da tek başına (yazın file gövdeyle) giyilebiliyor.",
+      "Ürün sayfasında koruyucuların EN 1621 standardı ve seviyesi belirtilmiyor; bu yüzden koruma düzeyini sertifikalı bir sırt veya göğüs koruyucusuyla eşit kabul etmemek gerekiyor. Sertifika bilgisi netleşene kadar kaynakta yazmayan alanları boş bıraktık. Fiyatı ithal gövde zırhlarının çok altında; Scudo'nun kendi mağazasında satılıyor."
+    ],
+    "forWho": [
+      "Bütçesi kısıtlı enduro ve cross başlangıç sürücüleri",
+      "Yazın file gövdeyle tek başına, kışın mont altında kullanmak isteyenler",
+      "Göğüs ve sırtı tek parçada korumak isteyenler"
+    ],
+    "notFor": [
+      "Sertifikalı (EN 1621) koruma seviyesi şart olanlar: üretici standardı belirtmiyor",
+      "Kurye olarak her gün mont altında giyecekler: hacimli sert paneller şehir içinde rahatsız edebilir"
+    ],
+    "pros": [
+      "Göğüs, sırt, omuz, dirsek ve ön kolu tek parçada kapatır",
+      "Nefes alan file gövde",
+      "Cırtlı geniş bel desteği",
+      "İthal muadillerine göre çok uygun fiyat"
+    ],
+    "cons": [
+      "EN 1621 standardı ve seviyesi belirtilmemiş",
+      "Sert paneller mont altında hacim yapar",
+      "Beden tablosu ürün sayfasında net değil"
+    ],
+    "usage": {
+      "sehir": "Kullanılabilir ama mont altında hacimli; şehir için ince bir sırt koruyucu daha pratik olabilir.",
+      "uzunYol": "Adventure turlarında mont altında ek koruma sağlar.",
+      "yaz": "File gövde sayesinde sıcakta tek başına veya forma altında giyilebilir.",
+      "sport": "Enduro ve cross kullanımına yönelik tasarlanmış.",
+      "kurye": "Tam gövde koruma sağlar ama gün boyu giyim ve sık iniş-binişte hacmi yorabilir."
+    },
+    "verdict": "Body Armour, göğüs ve sırtı tek parçada uygun fiyatla korumak isteyen yeni enduro ve adventure sürücüsü için mantıklı bir yerli seçenek. Koruyucuların standardı ve seviyesi açıklanmadığı için sertifikalı bir sırt/göğüs koruyucusunun yerine değil, bütçe çözümü olarak görülmeli.",
+    "rivals": [
+      "leatt/body-protector-3df-airfit-lite-evo",
+      "dainese/pro-armor-safety-jacket-2-0",
+      "alpinestars/a-6-chest-protector"
+    ],
+    "priceRange": {
+      "min": 5990,
+      "max": 5990,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Kredi kartı fiyatı; havale/EFT ile mağazada ek indirim uygulanıyor."
+    },
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-body-armour-tam-govde-koruma-siyah",
+        "price": 5990,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Koruyucular sertifikalı mı?",
+        "a": "Ürün sayfasında EN 1621 standardı veya seviye bilgisi yer almıyor; bu yüzden sertifika durumunu doğrulayamadık."
+      },
+      {
+        "q": "Mont altına giyilir mi?",
+        "a": "Üretici mont altında veya tek başına kullanılabileceğini belirtiyor; sert paneller nedeniyle montun bir beden geniş olması gerekebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-body-armour-tam-govde-koruma-siyah",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-body-armour-tam-govde-koruma-siyah",
+        "type": "manufacturer",
+        "label": "Scudo – Body Armour tam gövde koruma ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "dirsek",
+          "standard": null,
+          "level": null,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Nefes alan file gövde",
+      "closure": "Tam boy ön fermuar, cırtlı bel desteği",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah/Antrasit/Kırmızı"
+    ],
+    "sizes": [
+      "XS/S",
+      "M/L",
+      "XL/2XL"
+    ],
+    "unverified": [
+      "specs.material",
+      "specs.madeIn",
+      "sizeChart",
+      "specs.weightGrams"
+    ],
+    "slug": "a-6-chest-protector",
+    "brand": "alpinestars",
+    "name": "A-6 Chest Protector",
+    "category": "koruma",
+    "subcategories": [
+      "gogus-koruma",
+      "sirt-koruma"
+    ],
+    "summary": "Göğüs ve sırtta Level 2 havalandırmalı Cell koruyucular, çıkarılabilir Level 1 omuzluklar ve delikli biyo-köpük iç dolgu kullanan arazi tipi üst gövde koruma.",
+    "description": [
+      "A-6, Alpinestars'ın off-road için tasarladığı üst gövde (göğüs ve sırt) koruyucusu. Üretici göğüste EN 1621-3:2018 Level 2, sırtta EN 1621-2:2014 Level 2 ve çıkarılabilir omuz koruyucularında EN 1621-1:2012 Level 1 sertifika belirtiyor. Koruyucu plakalar esnek, iç dolgu yoğun delikli biyo-köpükten; bu sayede sıcak havada havalandırma iyi.",
+      "Hızlı açılan bel kemeri ve ayarlanabilir yapı var; omuzluklar çıkarıldığında boyun koruyucuyla birlikte de kullanılabiliyor. Forma üstüne ya da altına giyilen bir arazi koruyucusu; şehirde mont altına giymek için hacimli. Türkiye'de Motomax XS/S, M/L ve XL/2XL bedenlerle satıyor."
+    ],
+    "forWho": [
+      "Enduro ve motokros sürücüleri",
+      "Sertifikalı Level 2 göğüs ve sırt koruması isteyenler",
+      "Sıcak havada havalandırması iyi bir koruyucu arayanlar"
+    ],
+    "notFor": [
+      "Şehirde mont altında ince koruma arayanlar",
+      "Kurye kullanımı: arazi tipi hacimli yapı şehir içi günlük iş için uygun değil"
+    ],
+    "pros": [
+      "Göğüs ve sırtta Level 2 sertifika",
+      "Çıkarılabilir Level 1 omuzluklar",
+      "Delikli biyo-köpük ile iyi havalandırma",
+      "Hızlı açılan bel kemeri"
+    ],
+    "cons": [
+      "Mont altına giymek için hacimli",
+      "Basit göğüs koruyuculara göre pahalı",
+      "Beden aralığı ikili gruplar halinde"
+    ],
+    "usage": {
+      "sehir": "Şehir kullanımı için tasarlanmamış; mont altında hacimli kalır.",
+      "uzunYol": "Adventure turlarının arazi etaplarında kullanılabilir.",
+      "yaz": "Havalandırmalı yapısıyla sıcak havada arazi sürüşüne uygun.",
+      "sport": "Asıl kullanım alanı enduro ve motokros.",
+      "kurye": "Uygun değil; şehir içi iş için ince bir sırt ve göğüs koruyucu daha mantıklı."
+    },
+    "verdict": "A-6, sertifikalı Level 2 göğüs ve sırt koruması isteyen arazi sürücüsü için dengeli bir üst gövde koruyucu. Şehirde mont altına koruma arayan biri için fazla hacimli; o kullanım için monta takılan göğüs koruyucular daha uygun.",
+    "rivals": [
+      "leatt/body-protector-3df-airfit-lite-evo",
+      "alpinestars/nucleon-kr-c",
+      "scudo/body-armour"
+    ],
+    "priceRange": {
+      "min": 14170,
+      "max": 14170,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-a-6-ust-govde-koruma-siyah-/-kirmizi",
+        "price": 14170,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS/S",
+          "M/L",
+          "XL/2XL"
+        ],
+        "colors": [
+          "Siyah/Antrasit/Kırmızı"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Boyun koruyucuyla kullanılabilir mi?",
+        "a": "Omuz koruyucuları çıkarılabildiği için üst gövde koruyucu farklı kurulumlara uyarlanabiliyor; boyun koruyucu uyumluluğunu kendi modelinle denemen gerekir."
+      },
+      {
+        "q": "Hangi standartlara sahip?",
+        "a": "Üreticiye göre göğüs EN 1621-3:2018 Level 2, sırt EN 1621-2:2014 Level 2, omuz EN 1621-1:2012 Level 1."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/a-6-chest-protector",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/a-6-chest-protector",
+        "type": "manufacturer",
+        "label": "Alpinestars – A-6 Chest Protector ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-a-6-ust-govde-koruma-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars A-6 üst gövde koruma",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": null,
+      "ceStandard": "EN 1621-3:2018 (göğüs), EN 1621-2:2014 (sırt), EN 1621-1:2012 (omuz)",
+      "ceClass": "Level 2 (göğüs, sırt), Level 1 (omuz)",
+      "protectors": [
+        {
+          "area": "gogus",
+          "standard": "EN 1621-3:2018",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 2,
+          "included": true
+        },
+        {
+          "area": "omuz",
+          "standard": "EN 1621-1:2012",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırmalı Cell koruyucular, delikli biyo-köpük iç dolgu",
+      "closure": "Hızlı açılan bel kemeri",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah/Kırmızı"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "unverified": [
+      "specs.material",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "tech-air-7x-system",
+    "brand": "alpinestars",
+    "name": "Tech-Air 7X System",
+    "category": "koruma",
+    "subcategories": [
+      "airbag"
+    ],
+    "summary": "Pist ve yol için 12 sensörlü, FIM onaylı, omuz, göğüs, sırt ve kuyruk sokumunu kapsayan, 44 ms'de şişen elektronik airbag yeleği; deri tulum veya mont altına giyiliyor.",
+    "description": [
+      "Tech-Air 7X System, Alpinestars'ın yol yarışı ve pist günleri için geliştirdiği en gelişmiş elektronik airbag sistemi. Üretici FIM onayını, EN 17092-6:2020 Class C (koruyucu giysi) ve EN 1621-2:2014 Level 1 pasif sırt koruyucu sertifikalarını, şişirilebilir koruyucular için teknik disiplin kuralına uyumu belirtiyor. 3 ivmeölçer ve 1 jiroskop içeren 12 sensörlü dizi, 44 ms gibi kısa bir sürede şişmeyi tetikliyor; hava yastığı omuz, göğüs, sırt ve kuyruk sokumunu kapsıyor.",
+      "RACE ve STREET sürüş modları uygulama üzerinden değiştirilebiliyor. Batarya üretici beyanına göre şarj başına 20 saate kadar dayanıyor, bir saat şarj yaklaşık 8 saat sürüş sağlıyor. Çift gaz kartuşu sayesinde servis öncesi iki şişme mümkün; ağırlık bedene göre yaklaşık 3,35–3,65 kg. Sistem iç giysi olarak sertifikalı, yani mutlaka koruyucu bir mont veya tulumun altında kullanılmalı. Türkiye'de Motomax XS–2XL bedenlerle satıyor."
+    ],
+    "forWho": [
+      "Pist günlerine çıkan ve yolda sportif süren sürücüler",
+      "Tech-Air Ready deri tulum veya mont kullananlar",
+      "En yüksek airbag teknolojisine bütçe ayırabilenler"
+    ],
+    "notFor": [
+      "Tek başına dış giysi olarak kullanmak isteyenler: iç giysi olarak sertifikalı",
+      "Kurye kullanımı: fiyatı ve pist odaklı kalıbı günlük şehir işine uygun değil",
+      "Bütçesi kısıtlı şehir sürücüleri"
+    ],
+    "pros": [
+      "FIM onaylı, pist ve yol modu",
+      "12 sensör, 44 ms tetikleme",
+      "Omuz, göğüs, sırt ve kuyruk sokumu kapsaması",
+      "Uzun batarya ömrü (üretici: 20 saate kadar)",
+      "Çift kartuş ile servis öncesi iki şişme"
+    ],
+    "cons": [
+      "Çok pahalı",
+      "Yaklaşık 3,4–3,7 kg ağırlık",
+      "Tulum veya montta yaklaşık 4 cm göğüs boşluğu gerekiyor",
+      "Şişme sonrası servis ve kartuş değişimi gerekir"
+    ],
+    "usage": {
+      "sehir": "STREET modu var ama şehir içi günlük kullanım için fazlasıyla pist odaklı ve pahalı.",
+      "uzunYol": "Uzun batarya ömrü sayesinde sportif turlarda kullanılabilir.",
+      "yaz": "Havalandırmalı gövde ısıyı yönetmeye yardımcı oluyor.",
+      "kis": "Elektronik üretici beyanına göre -10 °C ile 50 °C arasında çalışıyor.",
+      "sport": "Asıl kullanım alanı pist ve sportif yol sürüşü."
+    },
+    "verdict": "Tech-Air 7X System, pist günlerine çıkan ve en kapsamlı airbag korumasını isteyen sürücü için üst seviye bir sistem. Fiyatı, ağırlığı ve montta göğüs boşluğu gerektirmesi nedeniyle şehir sürücüsü ve kurye için Tech-Air 3 gibi daha basit sistemler daha mantıklı.",
+    "rivals": [
+      "alpinestars/tech-air-5",
+      "dainese/smart-air",
+      "alpinestars/tech-air-3-v2-canvas"
+    ],
+    "priceRange": {
+      "min": 62480,
+      "max": 62480,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpinestars-tech-air-7x-system-airbag-ceket-siyah-/-kirmizi",
+        "price": 62480,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          "Siyah/Kırmızı"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Her montla kullanılır mı?",
+        "a": "Üretici Tech-Air Ready ürünler ve yaklaşık 4 cm göğüs boşluğu olan üçüncü taraf tulum/montlarla kullanılabileceğini belirtiyor; montun bedenini buna göre seçmek gerekir."
+      },
+      {
+        "q": "Şiştikten sonra ne olur?",
+        "a": "Çift gaz kartuşu sayesinde servis öncesi iki şişme mümkün; hava yastığı hasar görmediyse dört şişmeye kadar kullanılabiliyor. Kartuş değişimi yerel kurallara göre yapılıyor."
+      },
+      {
+        "q": "Bataryası ne kadar dayanır?",
+        "a": "Üreticiye göre şarj başına 20 saate kadar; bir saatlik şarj yaklaşık 8 saat sürüş sağlıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinestars.com/products/tech-air-7x-system",
+    "sources": [
+      {
+        "url": "https://www.alpinestars.com/products/tech-air-7x-system",
+        "type": "manufacturer",
+        "label": "Alpinestars – Tech-Air 7X System ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpinestars-tech-air-7x-system-airbag-ceket-siyah-/-kirmizi",
+        "type": "retailer",
+        "label": "Motomax – Alpinestars Tech-Air 7X System",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": "EN 17092-6:2020 (iç giysi); EN 1621-2:2014 (pasif sırt koruyucu); FIM onaylı",
+      "ceClass": "Class C",
+      "protectors": [
+        {
+          "area": "omuz",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "gogus",
+          "standard": null,
+          "level": null,
+          "included": true
+        },
+        {
+          "area": "sirt",
+          "standard": "EN 1621-2:2014",
+          "level": 1,
+          "included": true
+        }
+      ],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": "Havalandırma kanallı gövde",
+      "closure": "Manyetik ön kapakla otomatik açma/kapama",
+      "madeIn": null
+    }
+  }
+]

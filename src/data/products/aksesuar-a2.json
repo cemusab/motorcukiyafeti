@@ -991,9 +991,26 @@
     "rivals": [
       "muc-off/helmet-visor-goggle-cleaner"
     ],
-    "offers": [],
-    "priceRange": null,
-    "lastCheckedAt": "2026-10-07",
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/Kask-Disi-Temizleme-Spreyi_47336.html",
+        "price": 450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 450,
+      "max": 450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "lastCheckedAt": "2026-10-10",
     "colors": [],
     "sizes": [
       "250 ml"
@@ -1005,8 +1022,7 @@
     "unverified": [
       "specs.material",
       "specs.waterproof",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "slug": "m1-helmet-visor-clean",
     "brand": "motul",
@@ -1017,7 +1033,7 @@
     "summary": "Kaskın dış yüzeyi ve vizör için nötr, aşındırıcı olmayan 250 ml temizleyici sprey; iz bırakmadan temizliyor ve böcek kalıntılarında etkili.",
     "description": [
       "Motul'un MC Care bakım serisindeki M1, kaskın dış kabuğu ve vizörü için geliştirilmiş nötr ve agresif olmayan bir temizleyici. Motul'a göre ürün yağlı ve kuru kiri yüzeye zarar vermeden çözüyor, iz bırakmıyor, tüm kasklar ve tüm vizör teknolojileri için uygun. Böcek kalıntılarını temizlemedeki etkisi de üreticinin öne çıkardığı noktalardan.",
-      "Ürün 250 ml sprey şişede geliyor (ürün kodu 102992). Kullanımı basit: sprey kask ve vizöre uygulanıyor, birkaç saniye bekletilip yumuşak, kuru bir bezle siliniyor. Kaplamalı ve aynalı vizörlerde agresif cam temizleyiciler yerine bu tür nötr ürünler tercih edilmeli. Seri içinde kask içi için ayrı bir ürün olan M2 bulunuyor. Motul Türkiye'de yaygın satılsa da bu birebir ürün için yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+      "Ürün 250 ml sprey şişede geliyor (ürün kodu 102992). Kullanımı basit: sprey kask ve vizöre uygulanıyor, birkaç saniye bekletilip yumuşak, kuru bir bezle siliniyor. Kaplamalı ve aynalı vizörlerde agresif cam temizleyiciler yerine bu tür nötr ürünler tercih edilmeli. Seri içinde kask içi için ayrı bir ürün olan M2 bulunuyor."
     ],
     "forWho": [
       "Kask ve vizörünü düzenli temizleyen, kaplamalı vizöre zarar vermek istemeyen sürücüler",
@@ -1036,8 +1052,7 @@
     ],
     "cons": [
       "Yalnız 250 ml; cep boyu yok",
-      "Bez dahil değil",
-      "Türkiye'de birebir ürün fiyatı doğrulanamadı"
+      "Bez dahil değil"
     ],
     "usage": {
       "sehir": "Haftalık dış yüzey ve vizör temizliği için yeterli.",
@@ -1085,6 +1100,12 @@
         "type": "manufacturer",
         "label": "Motul – MC Care M1 Helmet & Visor Clean (İngilizce ürün sayfası)",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/Kask-Disi-Temizleme-Spreyi_47336.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-10"
       }
     ]
   },
@@ -1095,9 +1116,26 @@
     "rivals": [
       "muc-off/helmet-cleaning-kit"
     ],
-    "offers": [],
-    "priceRange": null,
-    "lastCheckedAt": "2026-10-07",
+    "offers": [
+      {
+        "seller": "Feyizoğlu",
+        "url": "https://www.feyizoglu.com/Kask-ici-Temizleme-Spreyi_47335.html",
+        "price": 450,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "priceRange": {
+      "min": 450,
+      "max": 450,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "lastCheckedAt": "2026-10-10",
     "colors": [],
     "sizes": [
       "250 ml"
@@ -1110,8 +1148,7 @@
       "specs.material",
       "specs.certification",
       "specs.waterproof",
-      "specs.madeIn",
-      "priceRange"
+      "specs.madeIn"
     ],
     "slug": "m2-helmet-interior-clean",
     "brand": "motul",
@@ -1122,7 +1159,7 @@
     "summary": "Kask iç astarını temizleyip dezenfekte eden, ter ve uzun kullanımdan kaynaklanan kokuları hızla gideren 250 ml sprey.",
     "description": [
       "Motul MC Care M2, kaskın iç kısmı için geliştirilmiş temizleyici ve dezenfektan bir sprey. Motul'a göre ürün tüm kask iç astarlarına uygun; teri ve uzun kullanımdan kaynaklanan kokuları hızla nötralize ediyor ve iç kısmı hijyenik tutuyor. Motul Türkiye sayfası ürünü kısaca kask içi dezenfektanı, kokuları tamamen gideren bir ürün olarak tanımlıyor.",
-      "Ürün 250 ml sprey şişede satılıyor (ürün kodu 105504). Astarı sökülemeyen kasklarda ya da sık sık sökülüp yıkanması pratik olmayan durumlarda ara bakım için kullanışlı. Spreyin ardından kaskın tamamen kurumasını beklemek gerekiyor; nemli bırakılan astar kokunun geri dönmesine yol açabilir. Bu ürün astarın dönemsel olarak yıkanmasının yerini tamamen tutmaz. Türkiye'de birebir ürün için yetkili bir motor ekipmanı mağazasında güncel TL fiyatı doğrulayamadık."
+      "Ürün 250 ml sprey şişede satılıyor (ürün kodu 105504). Astarı sökülemeyen kasklarda ya da sık sık sökülüp yıkanması pratik olmayan durumlarda ara bakım için kullanışlı. Spreyin ardından kaskın tamamen kurumasını beklemek gerekiyor; nemli bırakılan astar kokunun geri dönmesine yol açabilir. Bu ürün astarın dönemsel olarak yıkanmasının yerini tamamen tutmaz."
     ],
     "forWho": [
       "Sıcak havada çok terleyen ve kask içi kokusundan şikâyet eden sürücüler",
@@ -1141,8 +1178,7 @@
     ],
     "cons": [
       "Uygulama sonrası kuruma süresi gerekiyor",
-      "Astarın dönemsel yıkamasının yerini tam tutmaz",
-      "Türkiye'de birebir ürün fiyatı doğrulanamadı"
+      "Astarın dönemsel yıkamasının yerini tam tutmaz"
     ],
     "usage": {
       "sehir": "Haftalık iç bakım için yeterli; kaskı akşam spreyleyip sabaha kurumuş halde kullanmak pratik.",
@@ -1187,6 +1223,12 @@
         "type": "manufacturer",
         "label": "Motul – MC Care M2 Helmet Interior Clean (İngilizce ürün sayfası)",
         "checkedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.feyizoglu.com/Kask-ici-Temizleme-Spreyi_47335.html",
+        "type": "retailer",
+        "label": "Feyizoğlu ürün sayfası",
+        "checkedAt": "2026-10-10"
       }
     ]
   },

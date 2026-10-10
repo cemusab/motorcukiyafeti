@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "mitas",
+    "name": "Mitas",
+    "country": "Çekya",
+    "founded": null,
+    "website": "https://www.mitas-moto.com/en",
+    "about": [
+      "Mitas, Çekya kökenli bir motosiklet ve scooter lastiği markası. Ürün yelpazesi arazi (enduro, motocross), adventure, yol ve scooter lastiklerini kapsıyor; markanın 2026 kataloğu ebat, yük/hız indeksi ve jant genişliği bilgilerini açıkça yayımlıyor.",
+      "Türkiye'de özellikle enduro ve adventure tarafında biliniyor; Enduromarket'te arazi lastiklerinin yanında Touring Force-SC gibi scooter lastikleri de çok sayıda ebatla fiyatlı listeleniyor. Scooter tarafında şehir içi Touring Force-SC ve kış için MC 32 Win Scoot öne çıkıyor."
+    ],
+    "strengths": [
+      "Arazi ve adventure lastiklerinde geniş seçenek",
+      "Scooter için hem her hava hem kış serisi",
+      "Ebat ve teknik verileri açık yayımlanan katalog"
+    ],
+    "categories": [
+      "lastik"
+    ],
+    "families": [
+      {
+        "name": "Touring Force-SC",
+        "note": "Şehir içi scooter lastiği; 10–16 inç.",
+        "url": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-commuting-tires/touring-force-sc"
+      },
+      {
+        "name": "MC 32 Win Scoot",
+        "note": "M+S scooter kış lastiği, çivi takılabilir.",
+        "url": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-winter-tires/mc-32-win-scoot"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Mitas Touring Force-SC",
+        "url": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-commuting-tires/touring-force-sc",
+        "reason": "Türkiye'de çok sayıda ebatla fiyatlı bulunan, geniş ebat listeli şehir scooter lastiği."
+      }
+    ],
+    "alternatives": [
+      "anlas",
+      "michelin",
+      "pirelli"
+    ],
+    "history": [],
+    "strongestLine": "Arazi, adventure ve scooter lastikleri",
+    "sources": [
+      {
+        "url": "https://www.mitas-moto.com/en",
+        "type": "manufacturer",
+        "label": "Mitas Moto – resmi site",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://catalogue.mitas-moto.com/",
+        "type": "manufacturer",
+        "label": "Mitas Moto 2026 kataloğu",
+        "checkedAt": "2026-10-10"
+      }
+    ]
+  }
+]

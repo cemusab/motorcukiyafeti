@@ -1,0 +1,116 @@
+[
+  {
+    "product": "michelin/city-extra",
+    "images": [
+      {
+        "url": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4q3ps3iukhk78qy/mo-119_086104-238005_tire_michelin_city-extra_ww_set_a_main_1-30_nopad.webp",
+        "alt": "Michelin City Extra lastik",
+        "credit": "Michelin",
+        "sourcePage": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-extra"
+      },
+      {
+        "url": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4qcm8zzfh7z46bc/mo-119_3528702380055_tire_michelinelin_city-extra_90-slash-90-14-52p-reinf_a_main_1-30_nopad.webp",
+        "alt": "Michelin City Extra sırt deseni",
+        "credit": "Michelin",
+        "sourcePage": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-extra"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "michelin/city-grip-saver",
+    "images": [
+      {
+        "url": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4q137q66gb84cpo/mo-114_3528704970759_tire_michelin_city-grip-saver_100-slash-80-14-48s_a_main_4-90_nopad.webp",
+        "alt": "Michelin City Grip Saver scooter lastiği",
+        "credit": "Michelin",
+        "sourcePage": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-saver"
+      },
+      {
+        "url": "https://dxm.contentcenter.michelin.com/api/wedia/dam/transform/b98rpyxf61b4q5r7yyuj6rwkyo/mo-114_3528704970759_tire_michelin_city-grip-saver_100-slash-80-14-48s_a_main_5-quarterzoom_nopad.webp",
+        "alt": "Michelin City Grip Saver desen detayı",
+        "credit": "Michelin",
+        "sourcePage": "https://www.michelin.co.uk/motorbike/tyres/michelin-city-grip-saver"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "mitas/touring-force-sc",
+    "images": [
+      {
+        "url": "https://www.mitas-moto.com/-/media/mitas-moto/products/scooter-tires/commuting/mitas-touring-force-sc_1024x575.jpg?rev=05e9108d2eca408faa26b5e096ac80ba",
+        "alt": "Mitas Touring Force-SC scooter lastiği",
+        "credit": "Mitas",
+        "sourcePage": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-commuting-tires/touring-force-sc"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "mitas/mc-32-win-scoot",
+    "images": [
+      {
+        "url": "https://www.mitas-moto.com/-/media/mitas-moto/products/scooter-tires/winter/mitas-mc-32-win-scoot_1024x575.jpg?rev=5eef4d9f03f945f3aec91c594a3d0687",
+        "alt": "Mitas MC 32 Win Scoot kış scooter lastiği",
+        "credit": "Mitas",
+        "sourcePage": "https://www.mitas-moto.com/en/products/scooter-and-moped-tires/scooter-winter-tires/mc-32-win-scoot"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "anlas/sc-allride",
+    "images": [
+      {
+        "url": "https://panel.anlas.com/Images/F1/def942b9-036d-SC_ALLRIDE.png",
+        "alt": "Anlas SC Allride scooter lastiği",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/sc-allride"
+      },
+      {
+        "url": "https://panel.anlas.com/Images/F1/e6f4f97e-b3cb-sca1.jpg",
+        "alt": "Anlas SC Allride desen görünümü",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/sc-allride"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "anlas/sc360-allgrip",
+    "images": [
+      {
+        "url": "https://panel.anlas.com/Images/F1/71955adf-acc8-sc360-allgrip-front-720x720.jpg",
+        "alt": "Anlas SC360 AllGrip önden görünüm",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/sc360-allgrip"
+      },
+      {
+        "url": "https://panel.anlas.com/Images/F1/c1aedd0b-2239-sc360-allgrip-side-720x720.jpg",
+        "alt": "Anlas SC360 AllGrip yan görünüm",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/sc360-allgrip"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "anlas/tournee-2",
+    "images": [
+      {
+        "url": "https://panel.anlas.com/Images/F1/e7fab72c-e736-tournee-2-front-720x720.jpg",
+        "alt": "Anlas Tournée 2 önden görünüm",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/tournee-2"
+      },
+      {
+        "url": "https://panel.anlas.com/Images/F1/3bac8cc0-10e6-tournee-2-side-720x720.jpg",
+        "alt": "Anlas Tournée 2 yan görünüm",
+        "credit": "Anlas",
+        "sourcePage": "https://www.anlas.com/tr/tournee-2"
+      }
+    ],
+    "videos": []
+  }
+]

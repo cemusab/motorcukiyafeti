@@ -1,0 +1,20 @@
+[
+  {
+    "product": "spidi/touring-rain-suit",
+    "images": [
+      {
+        "url": "https://www.spidi.com/media/catalog/product/cache/7e7443b7a0c98a265d80def8e73b2ce3/x/7/x70-336-1_3.png",
+        "alt": "Spidi Touring Rain Suit tek parça yağmur tulumu, önden",
+        "credit": "Spidi",
+        "sourcePage": "https://www.spidi.com/eu_en/touring-rain-suit-x70"
+      },
+      {
+        "url": "https://www.spidi.com/media/catalog/product/cache/7e7443b7a0c98a265d80def8e73b2ce3/x/7/x70-336-2_3.png",
+        "alt": "Spidi Touring Rain Suit, arkadan",
+        "credit": "Spidi",
+        "sourcePage": "https://www.spidi.com/eu_en/touring-rain-suit-x70"
+      }
+    ],
+    "videos": []
+  }
+]

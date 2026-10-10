@@ -1,0 +1,98 @@
+[
+  {
+    "product": "scudo/windy-boyunluk",
+    "images": [
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/804/whatsapp-image-2024-10-12-at-15-23-57.jpeg",
+        "alt": "Scudo Windy önden fermuarlı kışlık boyunluk",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-windy-soguk-ve-ruzgar-gecirmez-motosiklet-boyunluk"
+      },
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/804/whatsapp-image-2024-10-12-at-15-23-58.jpeg",
+        "alt": "Scudo Windy boyunluk, farklı açıdan görünüm",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-windy-soguk-ve-ruzgar-gecirmez-motosiklet-boyunluk"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "scudo/ninja-balaklava",
+    "images": [
+      {
+        "url": "https://www.scudo.com.tr/idea/mc/06/myassets/products/531/ninja.jpg",
+        "alt": "Scudo Ninja kask altı balaklava, siyah",
+        "credit": "Scudo",
+        "sourcePage": "https://www.scudo.com.tr/urun/scudo-ninja-balaklava-kar-maskesi"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "sixs/tbxw",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0600/5866/5091/files/2852.jpg?v=1722930610",
+        "alt": "SIXS TBXW kışlık boyunluk, siyah-kırmızı",
+        "credit": "SIXS",
+        "sourcePage": "https://six2.com/products/winter-neck-warmer"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0600/5866/5091/files/2853.jpg?v=1722930610",
+        "alt": "SIXS TBXW boyunluk, ikinci görünüm",
+        "credit": "SIXS",
+        "sourcePage": "https://six2.com/products/winter-neck-warmer"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "tucano-urbano/brancaleone",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0903/6791/8426/files/IGP_BRANCALEONE_01_a355503c-480d-42b4-8fc2-7c269c5db7bd.jpg?v=1742325391",
+        "alt": "Tucano Urbano Brancaleone ipek balaklava, siyah",
+        "credit": "Tucano Urbano",
+        "sourcePage": "https://www.tucanourbano.com/en/products/sottocasco-brancaleone-black"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "sixs/ts2w-cu",
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0600/5866/5091/files/2455.jpg?v=1722934263",
+        "alt": "SIXS TS2W CU kışlık termal uzun kollu içlik, önden",
+        "credit": "SIXS",
+        "sourcePage": "https://six2.com/products/blazefit-thermo-long-sleeve-jersey-ts2w-cu"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0600/5866/5091/files/2456.jpg?v=1722934264",
+        "alt": "SIXS TS2W CU termal içlik, arkadan",
+        "credit": "SIXS",
+        "sourcePage": "https://six2.com/products/blazefit-thermo-long-sleeve-jersey-ts2w-cu"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "product": "spidi/thermo-liner-lady",
+    "images": [
+      {
+        "url": "https://www.spidi.com/media/catalog/product/cache/7e7443b7a0c98a265d80def8e73b2ce3/t/h/thermo-liner-lady-l29-023-front_1.png",
+        "alt": "Spidi Thermo Liner Lady kadın termal ara ceket, önden",
+        "credit": "Spidi",
+        "sourcePage": "https://www.spidi.com/eu_en/thermo-liner-lady-underjacket-l29"
+      },
+      {
+        "url": "https://www.spidi.com/media/catalog/product/cache/7e7443b7a0c98a265d80def8e73b2ce3/t/h/thermo-liner-lady-l29-023-back.png",
+        "alt": "Spidi Thermo Liner Lady, arkadan",
+        "credit": "Spidi",
+        "sourcePage": "https://www.spidi.com/eu_en/thermo-liner-lady-underjacket-l29"
+      }
+    ],
+    "videos": []
+  }
+]

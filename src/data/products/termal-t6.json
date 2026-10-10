@@ -1,0 +1,751 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "Standart"
+    ],
+    "unverified": [
+      "specs.material",
+      "specs.waterproof",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "windy-boyunluk",
+    "brand": "scudo",
+    "name": "Windy Boyunluk",
+    "category": "termal",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Önü fermuarlı, cırt bantla boyun genişliği ayarlanan, rüzgâr ve soğuk geçirmeyen göğüs önü uzun yerli boyunluk; yaklaşık 120 gram ve reflektörlü logolu.",
+    "description": [
+      "Windy, Scudo'nun kış için tasarladığı göğüs önlüklü bir boyunluk. Klasik tüp boyunluklardan farklı olarak önü fermuarla açılıyor, boyun kısmı cırt bantla daraltılıp genişletilebiliyor; bu sayede kaskı çıkarmadan da takıp çıkarmak kolaylaşıyor. Üretici ölçüleri ön uzunluk 36 cm, boyun yüksekliği 7 cm, omuz genişliği 33 cm olarak veriyor; yani mont yakasının altından göğsün üst kısmına kadar rüzgârı kesen bir parça.",
+      "Üreticiye göre toplam ağırlık 120 gram; önde ve arkada reflektörlü Scudo logosu, ayrıca su geçirmez küçük bir saklama kılıfı var. Kumaş içeriği ve su geçirmezlik değeri ürün sayfasında belirtilmiyor, bu yüzden yağmurda tek başına yeterli bir katman olarak düşünülmemeli. Türkiye'de Scudo'nun kendi mağazasında satılıyor."
+    ],
+    "forWho": [
+      "Kışın şehir içinde her gün motor kullanan ve yaka boşluğundan üşüyen sürücüler",
+      "Kask çıkarmadan hızlı takılıp çıkarılan bir boyunluk isteyen kuryeler",
+      "Uygun fiyatlı yerli ürün arayanlar"
+    ],
+    "notFor": [
+      "Burun ve yüzü de kapatan tam balaklava arayanlar",
+      "Yazın serinletici ince boyunluk isteyenler"
+    ],
+    "pros": [
+      "Önden fermuarlı, cırtla ayarlanan boyun",
+      "Göğüs önünü de kapatan uzun ön panel",
+      "Reflektörlü logolar ve saklama kılıfı",
+      "Hafif (üretici beyanı 120 g)"
+    ],
+    "cons": [
+      "Kumaş ve yalıtım bilgisi verilmemiş",
+      "Yüz ve burnu korumaz",
+      "Su geçirmezlik değeri belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Soğuk sabahlarda mont yakasından giren rüzgârı keser; durunca kolayca çıkarılır.",
+      "uzunYol": "Kış turlarında göğüs önünü de kapattığı için faydalı; yüz için ayrıca balaklava gerekebilir.",
+      "kis": "Asıl kullanım alanı.",
+      "yaz": "Uygun değil.",
+      "kurye": "Fermuarlı yapısı sayesinde gün içinde sık tak-çıkar için pratik ve bütçe dostu."
+    },
+    "verdict": "Windy, mont yakasından giren soğuğu kesmek isteyen şehir sürücüsü ve kurye için pratik, ucuz ve yerli bir çözüm. Yüzü korumadığı ve kumaş bilgisi paylaşılmadığı için ağır kış koşullarında bir balaklavayla birlikte düşünülmeli.",
+    "rivals": [
+      "alpinestars/neck-warmer",
+      "held/windstopper-neckwarmer",
+      "sixs/tbxw"
+    ],
+    "priceRange": {
+      "min": 1090,
+      "max": 1090,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Kredi kartı fiyatı; havale/EFT ile mağazada ek indirim uygulanıyor."
+    },
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-windy-soguk-ve-ruzgar-gecirmez-motosiklet-boyunluk",
+        "price": 1090,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kaskı çıkarmadan takılabilir mi?",
+        "a": "Önü fermuarlı ve boyun kısmı cırtlı olduğu için tüp boyunluklara göre çok daha kolay takılıp çıkarılır; yine de kask çene kayışının altında kalan kısmı ayarlamak gerekebilir."
+      },
+      {
+        "q": "Burnu ve yüzü kapatıyor mu?",
+        "a": "Hayır. Boyun ve göğüs önünü kapatan bir boyunluk; yüz için ayrıca balaklava kullanılmalı."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-windy-soguk-ve-ruzgar-gecirmez-motosiklet-boyunluk",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-windy-soguk-ve-ruzgar-gecirmez-motosiklet-boyunluk",
+        "type": "manufacturer",
+        "label": "Scudo – Windy boyunluk ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Önden fermuar, cırt bantlı boyun ayarı",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "Standart"
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "ninja-balaklava",
+    "brand": "scudo",
+    "name": "Ninja Balaklava",
+    "category": "termal",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "İç yüzü şardonlu mikro polyester örme kumaştan, yaklaşık 46 gramlık ince kask altı balaklava; yerli ve çok düşük fiyatlı.",
+    "description": [
+      "Ninja, Scudo'nun kask altına giyilen klasik tip balaklavası. Üreticiye göre mikro polyester iplikten örülmüş interlock kumaştan yapılıyor ve iç yüzü şardonlanmış, yani cilde gelen taraf hafif tüylendirilmiş. Ağırlığı 46 gram, ölçüsü 38 x 22 cm olarak veriliyor; bu inceliği sayesinde kask içinde fazla yer kaplamıyor.",
+      "Baş, boyun ve yüzün alt kısmını kapatan bu tip balaklavalar hem soğukta ısı kaybını azaltır hem de kask iç astarını terden korur. Rüzgâr kesici membranı yok; otoyol hızlarında ve dondurucu soğukta tek başına yetmeyebilir. Kontrol tarihinde Scudo mağazasında fiyatı görünüyor ancak stokta değildi."
+    ],
+    "forWho": [
+      "Kask astarını temiz tutmak ve hafif ısınmak isteyen her sürücü",
+      "Bütçesi kısıtlı yeni motorcular ve kuryeler",
+      "Dar kalıplı kasklarda ince bir kask altı arayanlar"
+    ],
+    "notFor": [
+      "Rüzgâr geçirmez (membranlı) balaklava arayanlar",
+      "Çok soğuk havada uzun otoyol sürüşü yapanlar"
+    ],
+    "pros": [
+      "Çok hafif ve ince",
+      "İç yüzü şardonlu, cilde yumuşak",
+      "Kask astarını terden korur",
+      "Çok uygun fiyat"
+    ],
+    "cons": [
+      "Rüzgâr kesici panel yok",
+      "Kontrol tarihinde stokta yoktu",
+      "Beden seçeneği yok"
+    ],
+    "usage": {
+      "sehir": "Serin günlerde kask altında hafif sıcaklık ve hijyen sağlar.",
+      "uzunYol": "Ara katman olarak kullanılabilir; soğuk havada tek başına yetersiz kalabilir.",
+      "kis": "Hafif kış koşulları için; sert soğukta rüzgâr geçirmez bir boyunlukla birlikte kullanılmalı.",
+      "kurye": "Gün boyu kask kullanan kurye için kask hijyeni açısından ucuz ve pratik."
+    },
+    "verdict": "Ninja Balaklava, kask astarını temiz tutmak ve hafifçe ısınmak isteyen sürücü için en ucuz yerli seçeneklerden biri. Rüzgâr kesici olmadığı için gerçek kış sürüşlerinde Windy gibi bir boyunlukla birlikte düşünülmeli.",
+    "rivals": [
+      "dainese/thermo-balaclava",
+      "buff/windproof-balaclava",
+      "tucano-urbano/brancaleone"
+    ],
+    "priceRange": {
+      "min": 490,
+      "max": 490,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Kredi kartı fiyatı; kontrol tarihinde stokta yoktu."
+    },
+    "offers": [
+      {
+        "seller": "Scudo (resmi mağaza)",
+        "url": "https://www.scudo.com.tr/urun/scudo-ninja-balaklava-kar-maskesi",
+        "price": 490,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kışın tek başına yeterli mi?",
+        "a": "Hafif soğukta yeterli olabilir; rüzgâr kesici panel olmadığı için sert soğukta ve yüksek hızda rüzgâr geçirmez bir boyunlukla birlikte kullanılması daha doğru."
+      },
+      {
+        "q": "Kasktaki interkom hoparlörünü etkiler mi?",
+        "a": "İnce bir kumaş olduğu için genelde sorun çıkarmaz; çok dar kasklarda kulak bölgesinde baskı hissedilebilir."
+      }
+    ],
+    "manufacturerUrl": "https://www.scudo.com.tr/urun/scudo-ninja-balaklava-kar-maskesi",
+    "sources": [
+      {
+        "url": "https://www.scudo.com.tr/urun/scudo-ninja-balaklava-kar-maskesi",
+        "type": "manufacturer",
+        "label": "Scudo – Ninja balaklava ürün sayfası",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "Mikro polyester iplikten örme interlock kumaş, iç yüzü şardonlu",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah/Kırmızı"
+    ],
+    "sizes": [
+      "Standart"
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "tbxw",
+    "brand": "sixs",
+    "name": "TBXW Kışlık Boyunluk",
+    "category": "termal",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Dört yöne esneyen teknik örme kumaştan, boyun, burun ve dudakları kapatabilen çok amaçlı kışlık boyunluk; bant olarak da kullanılabiliyor.",
+    "description": [
+      "TBXW, İtalyan içgiyim markası SIXS'in (Türkiye'de SIX2 adıyla satılıyor) kış için ürettiği tüp tipi boyunluk. Üretici, kumaşın dört yöne esnediğini ve farklı örgü bölgeleriyle hem koruma hem nefes alma performansının dengelendiğini söylüyor. Boyuna giyilip burun ve dudakları kapatacak şekilde yukarı çekilebiliyor, istenirse kafa bandı gibi de kullanılabiliyor.",
+      "Satıcının paylaştığı içerik yüzde 58 polipropilen, yüzde 34 poliamid ve yüzde 8 elastan. Polipropilen nemi tutmadığı için terli sürüşlerde pamuklu bir boyunluğa göre çok daha kuru kalır. Rüzgâr kesici membranı yok; çok soğuk ve hızlı sürüşlerde rüzgârı tamamen kesmez. Türkiye'de DRD Motorbikes satıyor."
+    ],
+    "forWho": [
+      "Kask altında ince, ter atan bir boyunluk arayanlar",
+      "Sonbahar ve kış sabahlarında şehir içi sürenler",
+      "Kurye gibi gün boyu kask kullananlar"
+    ],
+    "notFor": [
+      "Rüzgârı tamamen kesen membranlı boyunluk arayanlar",
+      "Göğüs önünü de kapatan uzun panel isteyenler"
+    ],
+    "pros": [
+      "Nem tutmayan polipropilen ağırlıklı kumaş",
+      "Dört yöne esneyen, kask altında ince yapı",
+      "Burun ve dudakları da kapatabiliyor"
+    ],
+    "cons": [
+      "Rüzgâr kesici membran yok",
+      "Göğüs önünü kapatmaz",
+      "Basit bir boyunluk için fiyatı yüksek"
+    ],
+    "usage": {
+      "sehir": "Kask altında ince kaldığı için günlük kullanımda rahat.",
+      "uzunYol": "Ter atan yapısı uzun etaplarda avantaj; çok soğukta rüzgâr geçirmez bir katmanla desteklenmeli.",
+      "kis": "Hafif ve orta soğuk için uygun.",
+      "kurye": "Gün boyu terleyip soğuyan kurye için nem yönetimi açısından iyi bir seçim."
+    },
+    "verdict": "TBXW, ter atan ince bir kask altı boyunluk isteyen sürücü için iyi bir teknik ürün. Rüzgâr kesici paneli olmadığı için sert kışta tek başına değil, montun yakası ya da rüzgâr geçirmez bir katmanla birlikte düşünülmeli.",
+    "rivals": [
+      "alpinestars/neck-warmer",
+      "held/windstopper-neckwarmer",
+      "scudo/windy-boyunluk"
+    ],
+    "priceRange": {
+      "min": 1640,
+      "max": 1640,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/six2-kislik-boyunluk-siyah-kirmizi-tbxw",
+        "price": 1640,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [
+          "Siyah/Kırmızı"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Yüzü kapatıyor mu?",
+        "a": "Tüp yapısı sayesinde yukarı çekilip burun ve dudakları kapatabiliyor; başın üstünü kapatmaz."
+      },
+      {
+        "q": "Yazın kullanılır mı?",
+        "a": "Kışlık olarak tanımlanıyor; yaz için markanın daha ince boyunlukları var."
+      }
+    ],
+    "manufacturerUrl": "https://six2.com/products/winter-neck-warmer",
+    "sources": [
+      {
+        "url": "https://six2.com/products/winter-neck-warmer",
+        "type": "manufacturer",
+        "label": "SIXS – TBXW Thermal neck gaiter ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/six2-kislik-boyunluk-siyah-kirmizi-tbxw",
+        "type": "retailer",
+        "label": "DRD Motorbikes – SIX2 TBXW kışlık boyunluk",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": "%58 polipropilen, %34 poliamid, %8 elastan (satıcı beyanı)",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": false,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah"
+    ],
+    "sizes": [
+      "XS-S",
+      "M-L",
+      "XL-2XL"
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "brancaleone",
+    "brand": "tucano-urbano",
+    "name": "Brancaleone İpek Balaklava",
+    "category": "termal",
+    "subcategories": [
+      "boyunluk"
+    ],
+    "summary": "Yüzde 100 ipekten, kask içinde çok az yer kaplayan, kask astarını terden koruyan ince tam yüz balaklava; üç beden seçeneğiyle.",
+    "description": [
+      "Brancaleone, Tucano Urbano'nun yüzde 100 ipekten ürettiği kask altı balaklavası. Üretici onu tam yüz kask altı (sottocasco integrale) olarak tanımlıyor; baş, boyun ve yüzün alt kısmını saran klasik balaklava formunda. İpeğin inceliği sayesinde kaskın oturuşunu neredeyse değiştirmiyor, bu yüzden dar kalıplı kasklarda bile rahat kullanılabiliyor.",
+      "İpek nemi hızla dağıtıp cilde yumuşak geldiği için hem kask hijyeni hem de konfor açısından iyi bir malzeme; ancak ince olduğu için gerçek bir kış yalıtımı sunmaz. Türkiye'de DRD Motorbikes XS-S, M-L ve XL-2XL bedenlerle satıyor; kalıp seçimi kask içi konfor için önemli."
+    ],
+    "forWho": [
+      "Kask astarını temiz tutmak isteyen ve ince bir kask altı arayanlar",
+      "Sentetik kumaşlardan rahatsız olan hassas ciltli sürücüler",
+      "Dört mevsim kask altı kullanmak isteyenler"
+    ],
+    "notFor": [
+      "Soğuğa karşı kalın yalıtım bekleyenler",
+      "Bütçesi kısıtlı kuryeler: ipek balaklava, sentetiklere göre pahalı ve daha hassas"
+    ],
+    "pros": [
+      "Yüzde 100 ipek, cilde çok yumuşak",
+      "Kask içinde neredeyse yer kaplamaz",
+      "Üç beden seçeneği",
+      "Dört mevsim kullanılabilir"
+    ],
+    "cons": [
+      "Kış için tek başına yalıtım sağlamaz",
+      "Sentetik balaklavalara göre pahalı",
+      "İpek bakımı daha özen ister"
+    ],
+    "usage": {
+      "sehir": "Kask astarını temiz tutar, sık tak-çıkarda bile rahatsız etmez.",
+      "uzunYol": "Uzun etaplarda ter ve sürtünmeyi azaltır.",
+      "yaz": "İnce yapısıyla yazın da kask altı olarak kullanılabilir.",
+      "kis": "Ara katman olarak; asıl sıcaklık için rüzgâr geçirmez bir boyunluk gerekir.",
+      "kurye": "Hijyen açısından faydalı ama hassas kumaşı her gün yıkanacak kurye kullanımı için ideal değil."
+    },
+    "verdict": "Brancaleone, kask içinde konforu ve hijyeni ön plana koyan sürücü için ince ve kaliteli bir ipek balaklava. Isınmak için değil, kask altı konfor için alınmalı; kışta bir boyunlukla birlikte kullanılmalı.",
+    "rivals": [
+      "dainese/thermo-balaclava",
+      "buff/windproof-balaclava",
+      "scudo/ninja-balaklava"
+    ],
+    "priceRange": {
+      "min": 2160,
+      "max": 2160,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/tucano-urbano-brancaleone-100-ipek-balaclava-5309",
+        "price": 2160,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS-S"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kışın ısıtır mı?",
+        "a": "İpek ince bir katman; hafif ısı dengesi sağlar ama kalın bir kış balaklavası gibi yalıtım yapmaz."
+      },
+      {
+        "q": "Hangi bedeni almalıyım?",
+        "a": "Üretici XS-S, M-L ve XL-2XL bedenler sunuyor; kask bedeninize yakın olanı seçmek genelde doğru sonuç verir."
+      }
+    ],
+    "manufacturerUrl": "https://www.tucanourbano.com/en/products/sottocasco-brancaleone-black",
+    "sources": [
+      {
+        "url": "https://www.tucanourbano.com/en/products/sottocasco-brancaleone-black",
+        "type": "manufacturer",
+        "label": "Tucano Urbano – Sottocasco Brancaleone ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/tucano-urbano-brancaleone-100-ipek-balaclava-5309",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Tucano Urbano Brancaleone ipek balaklava",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "4-mevsim",
+      "material": "%100 ipek",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": null,
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [
+      "Siyah/Kırmızı"
+    ],
+    "sizes": [
+      "XS/S",
+      "M/L",
+      "XL/2XL",
+      "3XL/4XL"
+    ],
+    "unverified": [
+      "specs.material",
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "ts2w-cu",
+    "brand": "sixs",
+    "name": "TS2W CU BlazeFit Termal Uzun Kollu",
+    "category": "termal",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "5 °C altındaki soğuk için tasarlanmış, bakır elyaflı BlazeFit kumaştan, cilde doğrudan giyilen bisiklet yaka uzun kollu termal içlik.",
+    "description": [
+      "TS2W CU, SIXS'in (Türkiye'de SIX2) kış serisine ait uzun kollu, bisiklet yaka termal içliği. Üretici bu modeli 5 °C'nin altındaki sıcaklıklar için tanımlıyor; amaç teri tutmadan dışarı taşıyarak vücudun ısınmak için enerji harcamasını azaltmak. Türkiye satıcısının açıklamasına göre kumaş bakır elyaflı BlazeFit dokusu ve doğrudan cilde temas edecek şekilde giyilmesi gerekiyor.",
+      "Bedenler ikili gruplar halinde (XS/S, M/L, XL/2XL, 3XL/4XL) sunuluyor; vücuda oturan bir içlik olduğu için iki beden arasında kalanlar kendi göğüs ölçüsünü kontrol etmeli. Koruyucu bir giysi değil, CE sertifikası yok; montun altında ilk katman olarak kullanılıyor."
+    ],
+    "forWho": [
+      "Kışın her gün motor kullanan ve terleyip üşüyen sürücüler",
+      "Mont altında ince ama etkili bir ilk katman arayanlar",
+      "Uzun kış turu yapanlar"
+    ],
+    "notFor": [
+      "Yaz ve ilkbahar için ince içlik arayanlar",
+      "Kurye için bütçe öncelikliyse: fiyatı sıradan termal içliklerin oldukça üstünde"
+    ],
+    "pros": [
+      "5 °C altı için tasarlanmış",
+      "Ter atan, vücuda oturan yapı",
+      "Geniş beden aralığı (XS–4XL)"
+    ],
+    "cons": [
+      "İkili beden grupları her vücuda tam oturmayabilir",
+      "Fiyatı yüksek",
+      "Koruma ve CE sertifikası yok"
+    ],
+    "usage": {
+      "sehir": "Soğuk günlerde mont altında ilk katman olarak çok etkili.",
+      "uzunYol": "Ter atan yapısı uzun kış etaplarında konfor sağlar.",
+      "kis": "Asıl kullanım alanı.",
+      "yaz": "Uygun değil.",
+      "kurye": "Gün boyu terleyip duran kurye için nem yönetimi iyi; fiyatı yüksek olduğu için yedekli kullanım pahalı olabilir."
+    },
+    "verdict": "TS2W CU, kışı motorla geçiren ve terleyip üşüme döngüsünden bıkan sürücü için ciddi bir ilk katman. Fiyatı yüksek olduğu için ara sıra kış sürüşü yapan biri daha ucuz bir termal içlikle de idare edebilir.",
+    "rivals": [
+      "odlo/active-warm-base-layer-top",
+      "alpinestars/ride-tech-top-long-sleeve-winter",
+      "revit/thermic-shirt"
+    ],
+    "priceRange": {
+      "min": 4994.4,
+      "max": 4994.4,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/six2-kislik-termal-uzun-kollu-t-shirt-siyah-kirmizi-ts2w-cu",
+        "price": 4994.4,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS/S",
+          "M/L",
+          "XL/2XL",
+          "3XL/4XL"
+        ],
+        "colors": [
+          "Siyah/Kırmızı"
+        ],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Altına başka bir şey giymeli miyim?",
+        "a": "Hayır. Üretici ve satıcı bu içliğin doğrudan cilde temas edecek şekilde giyilmesini öneriyor; ter atma özelliği bu şekilde çalışır."
+      },
+      {
+        "q": "Hangi sıcaklıklar için uygun?",
+        "a": "Üretici 5 °C'nin altındaki sıcaklıklar için tasarlandığını belirtiyor."
+      }
+    ],
+    "manufacturerUrl": "https://six2.com/products/blazefit-thermo-long-sleeve-jersey-ts2w-cu",
+    "sources": [
+      {
+        "url": "https://six2.com/products/blazefit-thermo-long-sleeve-jersey-ts2w-cu",
+        "type": "manufacturer",
+        "label": "SIXS – TS2W CU Thermal long-sleeve shirt ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/six2-kislik-termal-uzun-kollu-t-shirt-siyah-kirmizi-ts2w-cu",
+        "type": "retailer",
+        "label": "DRD Motorbikes – SIX2 TS2W CU kışlık termal uzun kollu",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "unisex",
+      "season": "kis",
+      "material": null,
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "Bisiklet yaka, kapamasız",
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "unverified": [
+      "specs.madeIn",
+      "sizeChart"
+    ],
+    "slug": "thermo-liner-lady",
+    "brand": "spidi",
+    "name": "Thermo Liner Lady",
+    "category": "termal",
+    "subcategories": [
+      "termal-icgiyim"
+    ],
+    "summary": "80 gram vatkalı sabit termal astarlı, Spidi Step-in montlara gizli klipslerle bağlanan, tek başına da giyilebilen kadın termal ara ceketi.",
+    "description": [
+      "Thermo Liner Lady, Spidi'nin kadın kalıbı termal ara ceketi. Üretici, 80 gram vatkalı sabit termal astarı ve hafif ile soğuk arası sıcaklıklar için test edildiğini belirtiyor. INSIDEOUT adlı gizli klips sistemi sayesinde Spidi'nin Step-in uyumlu montlarının içine takılabiliyor; motor dışında giyildiğinde klipsler görünmüyor, böylece gündelik bir ceket gibi de kullanılabiliyor.",
+      "Dış kumaş yüksek mukavemetli polyester, ortalama ağırlık 0,3 kg. Koruyucu bir giysi değil ve CE sertifikası yok; montun altında sıcaklık katmanı olarak düşünülmeli. Türkiye'de DRD Motorbikes XS–L kadın bedenleriyle satıyor."
+    ],
+    "forWho": [
+      "Dört mevsim montunu kışa hazırlamak isteyen kadın sürücüler",
+      "Spidi Step-in uyumlu mont kullananlar",
+      "Molada tek başına giyilebilecek hafif bir ara katman arayanlar"
+    ],
+    "notFor": [
+      "Tek başına motosiklet montu olarak kullanmak isteyenler: koruma yok",
+      "Bütçesi kısıtlı kuryeler: daha ucuz termal içlikler aynı işi görebilir"
+    ],
+    "pros": [
+      "Kadın kalıbı",
+      "Spidi montlara gizli klipsle bağlanıyor",
+      "Hafif (yaklaşık 0,3 kg)",
+      "Motor dışında gündelik ceket gibi giyilebilir"
+    ],
+    "cons": [
+      "Koruma ve CE sertifikası yok",
+      "Klips avantajı yalnız Spidi Step-in montlarda",
+      "Sıradan bir termal içliğe göre pahalı"
+    ],
+    "usage": {
+      "sehir": "Mont altında soğuk sabahlar için iyi bir katman; inince tek başına giyilir.",
+      "uzunYol": "Kış turlarında mont içinde sıcaklık katmanı olarak kullanışlı.",
+      "kis": "Hafif ve orta soğuk için; çok soğukta altına termal içlik eklenmeli.",
+      "yaz": "Uygun değil.",
+      "kurye": "Kullanılabilir ama fiyatı yüksek; kurye için daha ucuz termal katmanlar bütçeye daha uygun."
+    },
+    "verdict": "Thermo Liner Lady, Spidi montu olan ya da hafif bir ara ceket arayan kadın sürücü için iyi düşünülmüş bir termal katman. Koruma sunmadığı ve klips sistemi yalnız Spidi montlarda çalıştığı için diğer markaların montlarıyla sıradan bir ara ceket olarak değerlendirilmeli.",
+    "rivals": [
+      "held/clip-in-thermo-top",
+      "odlo/active-warm-base-layer-top",
+      "alpinestars/ride-tech-top-long-sleeve-winter"
+    ],
+    "priceRange": {
+      "min": 6073,
+      "max": 6073,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/spidi-thermo-liner-kadin-ic-ceket",
+        "price": 6073,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Başka marka montların içine takılır mı?",
+        "a": "Gizli klips sistemi Spidi Step-in uyumlu montlar için; diğer montların altına normal bir ara ceket gibi giyilebilir."
+      },
+      {
+        "q": "Koruyucu içeriyor mu?",
+        "a": "Hayır. Termal ara katman; koruma montun kendisinden gelmeli."
+      }
+    ],
+    "manufacturerUrl": "https://www.spidi.com/eu_en/thermo-liner-lady-underjacket-l29",
+    "sources": [
+      {
+        "url": "https://www.spidi.com/eu_en/thermo-liner-lady-underjacket-l29",
+        "type": "manufacturer",
+        "label": "Spidi – Thermo Liner Lady underjacket ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/spidi-thermo-liner-kadin-ic-ceket",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Spidi Thermo Liner kadın iç ceket",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "medium",
+    "specs": {
+      "gender": "kadin",
+      "season": "kis",
+      "material": "Yüksek mukavemetli polyester; 80 g vatkalı sabit termal astar",
+      "materialClass": "tekstil",
+      "ceStandard": null,
+      "ceClass": null,
+      "protectors": [],
+      "waterproof": null,
+      "membrane": null,
+      "airbagCompatible": null,
+      "ventilation": null,
+      "closure": "INSIDEOUT gizli klips sistemi (Spidi Step-in montlar)",
+      "madeIn": null
+    }
+  }
+]

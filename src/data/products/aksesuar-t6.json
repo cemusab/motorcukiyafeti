@@ -1,0 +1,357 @@
+[
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [],
+    "sizes": [],
+    "unverified": [
+      "specs.madeIn"
+    ],
+    "slug": "999",
+    "brand": "urban-security",
+    "name": "999 Alarmlı Disk Kilidi",
+    "category": "aksesuar",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "SRA ve Sold Secure onaylı, 14 mm çift kilitli pimli, 120 dB alarmlı ve hatırlatıcı uyarılı, dövme çelik gövdeli motosiklet disk kilidi.",
+    "description": [
+      "URBAN 999, Artago Secure grubuna bağlı Urban Security markasının en bilinen alarmlı disk kilidi. Üretici gövdenin yüksek dayanımlı dövme çelikten yapıldığını, 14 mm çaplı kilit piminin hem kilit hem taban tarafından kilitlendiğini (çift kilit) ve SEK PLUS DISCTECH silindirin maymuncuk, dondurucu sprey ve matkap saldırılarına karşı korunduğunu belirtiyor. Kilit Fransız SRA ve İngiliz Sold Secure onaylı.",
+      "120 dB sesli ve LED ışıklı alarm isteğe göre açılıp kapatılabiliyor. Akıllı modül önce 6 bip ile uyarıyor, 5 saniye içinde tekrar hareket olursa tam alarma geçiyor; bu sistem hem yanlış alarmı hem de kilit takılıyken motoru hareket ettirme kazasını önlemeye yardımcı oluyor, bu yüzden üretici ayrı hatırlatıcı kabloya gerek olmadığını söylüyor. CR2 pille çalışıyor, üç anahtarla geliyor. Türkiye'de DRD Motorbikes satıyor."
+    ],
+    "forWho": [
+      "Motorunu sokakta park eden şehir sürücüleri ve kuryeler",
+      "Sigorta için SRA veya Sold Secure onaylı kilit isteyenler",
+      "Alarmlı ama yanlış alarmı az bir disk kilidi arayanlar"
+    ],
+    "notFor": [
+      "Motoru sabit bir noktaya bağlamak isteyenler: disk kilidi tek başına motorun taşınmasını engellemez",
+      "Çok hafif ve cepte taşınacak kilit arayanlar"
+    ],
+    "pros": [
+      "SRA ve Sold Secure onaylı",
+      "14 mm çift kilitli pim",
+      "120 dB alarm, isteğe göre açılıp kapanıyor",
+      "Hatırlatıcı uyarı sistemi",
+      "Kolay bulunan CR2 pil"
+    ],
+    "cons": [
+      "Disk kilidi; motoru sabit noktaya bağlamaz",
+      "Ağırlığı üreticide belirtilmemiş",
+      "Pim çapı bazı scooter disklerine uymayabilir; disk deliklerini kontrol etmek gerekir"
+    ],
+    "usage": {
+      "sehir": "Kısa ve uzun park için hızlı takılan, caydırıcı alarmlı bir kilit.",
+      "uzunYol": "Konaklamalarda zincirle birlikte kullanılabilir; taşıma için ayrı tutucu gerekir.",
+      "kurye": "Gün içinde sık park eden kurye için hızlı takılır; uyarı sistemi kilit takılıyken yola çıkma riskini azaltır."
+    },
+    "verdict": "URBAN 999, sertifikalı ve alarmlı bir disk kilidi isteyen şehir sürücüsü ve kurye için güçlü bir seçenek. Disk kilidi olduğu için uzun süreli sokak parkında bir zincir ve zemin ankrajıyla desteklenmeli.",
+    "rivals": [
+      "abus/granit-detecto-xplus-8077-2-0",
+      "oxford/boss-alarm-disc-lock",
+      "urban-security/ur14s"
+    ],
+    "priceRange": {
+      "min": 6810.55,
+      "max": 6810.55,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/urban-security-999-sra-sinifi-alarmli-disk-kilidi",
+        "price": 6810.55,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ayrı hatırlatıcı kablo gerekir mi?",
+        "a": "Üretici, uyarı sisteminin hatırlatıcı görevi gördüğünü ve 999 ile ayrı hatırlatıcı kabloya gerek olmadığını belirtiyor; yine de alışkanlık için kablo kullanmak zarar vermez."
+      },
+      {
+        "q": "Alarmı kapatabilir miyim?",
+        "a": "Evet. Kilit hem alarmlı hem de yalnız mekanik olarak kullanılabiliyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.urbansecurity.info/alarm-disc-lock-sra-urban-999",
+    "sources": [
+      {
+        "url": "https://www.urbansecurity.info/alarm-disc-lock-sra-urban-999",
+        "type": "manufacturer",
+        "label": "Urban Security – URBAN 999 alarmlı disk kilidi ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/urban-security-999-sra-sinifi-alarmli-disk-kilidi",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Urban Security 999 SRA alarmlı disk kilidi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi",
+      "material": "Dövme çelik, çift anti-korozyon işlem",
+      "compatibility": "Fren diski veya dişli; 14 mm pim için uygun delik gerekir",
+      "waterproof": true,
+      "capacityLiters": null,
+      "certification": "SRA, Sold Secure",
+      "features": [
+        "14 mm çift kilitli pim",
+        "120 dB alarm ve kırmızı LED",
+        "Uyarı (warning) sistemiyle hatırlatma",
+        "SEK PLUS DISCTECH silindir, 2,5 mm anti-matkap disk",
+        "CR2 pil, değiştirilebilir UR992MA modülü",
+        "3 anahtar, kodla kopyalama"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [],
+    "sizes": [],
+    "unverified": [
+      "specs.madeIn",
+      "specs.waterproof"
+    ],
+    "slug": "ur14s",
+    "brand": "urban-security",
+    "name": "UR14S Alarmlı Disk Kilidi",
+    "category": "aksesuar",
+    "subcategories": [
+      "kilit-guvenlik"
+    ],
+    "summary": "URBAN 999'dan esinlenen ama daha kompakt, tamamı paslanmaz çelik, SRA ve Sold Secure onaylı, 14 mm çift kilitli pimli alarmlı disk kilidi.",
+    "description": [
+      "UR14S, Urban Security'nin 999 modelinden türettiği daha kompakt alarmlı disk kilidi. Üreticiye göre gövde tamamen paslanmaz çelikten; 14 mm çaplı pim çift kilit sistemiyle hem kilit hem taban tarafından kilitleniyor ve SEK PLUS DISCTECH silindir kullanılıyor. Kilit SRA ve Sold Secure onaylı.",
+      "120 dB sesli ve LED ışıklı alarm isteğe göre açılıp kapatılabiliyor; akıllı modül önce uyarı verip ancak ikinci harekette tam alarma geçtiği için yanlış alarm ve kilit takılıyken yola çıkma riski azalıyor. CR2 pille çalışıyor. Kontrol tarihinde DRD Motorbikes'ta fiyatı görünüyor ancak stokta değildi."
+    ],
+    "forWho": [
+      "Sertifikalı ama 999'dan daha kompakt bir disk kilidi isteyenler",
+      "Paslanmaz gövde isteyen, motorunu dışarıda park eden sürücüler",
+      "Sık park eden kuryeler"
+    ],
+    "notFor": [
+      "Motoru sabit bir noktaya bağlamak isteyenler: disk kilidi tek başına yetmez",
+      "Hemen teslim almak isteyenler: kontrol tarihinde stokta yoktu"
+    ],
+    "pros": [
+      "SRA ve Sold Secure onaylı",
+      "Tamamı paslanmaz çelik",
+      "999'dan daha kompakt",
+      "120 dB alarm ve uyarı sistemi"
+    ],
+    "cons": [
+      "Kontrol tarihinde stokta yoktu",
+      "Disk kilidi; motoru sabit noktaya bağlamaz",
+      "Ağırlığı üreticide belirtilmemiş"
+    ],
+    "usage": {
+      "sehir": "Kompakt yapısıyla günlük parklarda hızlı takılır.",
+      "uzunYol": "Konaklamalarda zincirle birlikte kullanılmalı.",
+      "kurye": "Sık park eden kurye için pratik; uyarı sistemi kilit takılıyken hareket etmeyi zorlaştırır."
+    },
+    "verdict": "UR14S, 999'un güvenlik seviyesini daha kompakt ve paslanmaz bir gövdede isteyen sürücü için iyi bir seçim. Stok durumu kontrol edilmeli ve uzun süreli sokak parkında bir zincir ile desteklenmeli.",
+    "rivals": [
+      "urban-security/999",
+      "abus/granit-detecto-xplus-8077-2-0",
+      "xena/xx15"
+    ],
+    "priceRange": {
+      "min": 6810.55,
+      "max": 6810.55,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10",
+      "note": "Kontrol tarihinde stokta yoktu."
+    },
+    "offers": [
+      {
+        "seller": "DRD Motorbikes",
+        "url": "https://drdmotorbikes.com/urban-security-ur14s-sra-sinifi-alarmli-disk-kilidi-14mm-pim",
+        "price": 6810.55,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": false,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "999 ile farkı ne?",
+        "a": "Üreticiye göre UR14S, 999'dan esinlenmiş ama daha kompakt ve tamamen paslanmaz çelikten yapılmış bir model; pim çapı ve onaylar aynı."
+      },
+      {
+        "q": "Hangi pille çalışır?",
+        "a": "CR2 pil kullanıyor."
+      }
+    ],
+    "manufacturerUrl": "https://www.urbansecurity.info/alarm-disc-lock-sra-urban-ur14s",
+    "sources": [
+      {
+        "url": "https://www.urbansecurity.info/alarm-disc-lock-sra-urban-ur14s",
+        "type": "manufacturer",
+        "label": "Urban Security – URBAN UR14S alarmlı disk kilidi ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://drdmotorbikes.com/urban-security-ur14s-sra-sinifi-alarmli-disk-kilidi-14mm-pim",
+        "type": "retailer",
+        "label": "DRD Motorbikes – Urban Security UR14S SRA alarmlı disk kilidi",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "accessoryType": "Alarmlı disk kilidi",
+      "material": "Paslanmaz çelik",
+      "compatibility": "Fren diski veya dişli; 14 mm pim için uygun delik gerekir",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "SRA, Sold Secure",
+      "features": [
+        "14 mm çift kilitli pim",
+        "120 dB alarm ve LED",
+        "Uyarı (warning) sistemiyle hatırlatma",
+        "SEK PLUS DISCTECH silindir",
+        "CR2 pil, UR992MA modülü"
+      ],
+      "madeIn": null
+    }
+  },
+  {
+    "status": "active",
+    "successor": null,
+    "buyerInsights": null,
+    "lastCheckedAt": "2026-10-10",
+    "sizeChart": [],
+    "sizeChartMeasure": null,
+    "colors": [],
+    "sizes": [],
+    "unverified": [
+      "specs.madeIn",
+      "specs.material"
+    ],
+    "slug": "motosafe-duo",
+    "brand": "alpine-hearing",
+    "name": "MotoSafe Duo",
+    "category": "aksesuar",
+    "subcategories": [
+      "kulak-tikaci"
+    ],
+    "summary": "Bir çift MotoSafe Tour ve bir çift MotoSafe Sport kulak tıkacını tek pakette sunan, akustik filtreli, tekrar kullanılabilir motosiklet kulak tıkacı seti.",
+    "description": [
+      "MotoSafe Duo, Alpine'in iki ayrı motosiklet kulak tıkacını bir arada sunan paketi: tur ve tali yollar için MotoSafe Tour ile otoyol, pist ve açık kask için MotoSafe Sport. Üretici, AlpineAcousticFilters sayesinde zararlı rüzgâr gürültüsünün azaltıldığını ama trafik, navigasyon, interkom ve motorun sesinin duyulmaya devam ettiğini belirtiyor.",
+      "Sitedeki ayrı kayıtlara göre Tour 17 dB, Sport 20 dB SNR koruma sunuyor; paket ikisini de içerdiği için sürüş tipine göre seçim yapmak mümkün. Duo, iki seti ayrı ayrı almaktan biraz daha ekonomik. Türkiye'de Motomax satıyor."
+    ],
+    "forWho": [
+      "Hem şehir/tur hem otoyol sürüşü yapanlar",
+      "İlk kez kulak tıkacı deneyecek ve hangi seviyenin uygun olduğunu bilmeyenler",
+      "Gün boyu rüzgâr gürültüsüne maruz kalan kuryeler"
+    ],
+    "notFor": [
+      "Kulağa özel kalıp (custom) tıkaç arayanlar",
+      "Tek bir seviye yeterli olanlar: tekli paket daha ucuz"
+    ],
+    "pros": [
+      "İki farklı koruma seviyesi tek pakette",
+      "Akustik filtre; trafik ve interkom duyulur",
+      "Tekrar kullanılabilir",
+      "Ayrı ayrı almaktan daha ekonomik"
+    ],
+    "cons": [
+      "Tek seviye kullanacak biri için gereksiz",
+      "Kulak kanalına göre oturuş kişiden kişiye değişir",
+      "Kişiye özel kalıp tıkaçlar kadar konforlu olmayabilir"
+    ],
+    "usage": {
+      "sehir": "Tour tıkaçları şehir trafiğinde çevre sesini duymayı sürdürürken gürültüyü azaltır.",
+      "uzunYol": "Uzun etaplarda yorgunluğu azaltır; otoyolda Sport tıkaçlara geçilebilir.",
+      "sport": "Pist ve yüksek hız için Sport tıkaçlar daha uygun.",
+      "kurye": "Gün boyu gürültüye maruz kalan kurye için işitmeyi korumanın ucuz yolu; trafik sesi duyulmaya devam eder."
+    },
+    "verdict": "MotoSafe Duo, hangi koruma seviyesinin kendisine uygun olduğunu bilmeyen ya da hem şehir hem otoyol süren sürücü için mantıklı bir başlangıç paketi. Tek bir kullanım tipi olan biri tekli Tour veya Sport paketini almalı.",
+    "rivals": [
+      "alpine-hearing/motosafe-tour",
+      "alpine-hearing/motosafe-sport",
+      "pinlock/earplugs"
+    ],
+    "priceRange": {
+      "min": 1740,
+      "max": 1740,
+      "currency": "TRY",
+      "checkedAt": "2026-10-10"
+    },
+    "offers": [
+      {
+        "seller": "Motomax",
+        "url": "https://www.motomax.com.tr/alpine-motosafe-duo-kulak-tikaci",
+        "price": 1740,
+        "salePrice": null,
+        "currency": "TRY",
+        "inStock": true,
+        "sizes": [],
+        "colors": [],
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Tıkaç takınca interkomu duyar mıyım?",
+        "a": "Üretici, akustik filtreler sayesinde interkom ve navigasyon seslerinin duyulmaya devam ettiğini belirtiyor."
+      },
+      {
+        "q": "Hangisini ne zaman kullanmalıyım?",
+        "a": "Üreticiye göre Tour tur ve tali yollar için, Sport otoyol, pist ve açık kask kullanımı için."
+      }
+    ],
+    "manufacturerUrl": "https://www.alpinehearingprotection.com/products/motosafe-duo",
+    "sources": [
+      {
+        "url": "https://www.alpinehearingprotection.com/products/motosafe-duo",
+        "type": "manufacturer",
+        "label": "Alpine Hearing Protection – MotoSafe Duo ürün sayfası",
+        "checkedAt": "2026-10-10"
+      },
+      {
+        "url": "https://www.motomax.com.tr/alpine-motosafe-duo-kulak-tikaci",
+        "type": "retailer",
+        "label": "Motomax – Alpine MotoSafe Duo kulak tıkacı",
+        "checkedAt": "2026-10-10"
+      }
+    ],
+    "dataConfidence": "high",
+    "specs": {
+      "accessoryType": "Kulak tıkacı seti",
+      "material": null,
+      "compatibility": "Evrensel",
+      "waterproof": null,
+      "capacityLiters": null,
+      "certification": "Tour: SNR 17 dB; Sport: SNR 20 dB (tekli model kayıtlarına göre)",
+      "features": [
+        "1 çift MotoSafe Tour + 1 çift MotoSafe Sport",
+        "AlpineAcousticFilters",
+        "Tekrar kullanılabilir"
+      ],
+      "madeIn": null
+    }
+  }
+]
